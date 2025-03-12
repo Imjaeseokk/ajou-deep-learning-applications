@@ -5,7 +5,7 @@
 - Class Information
 - Schedule: Blended Learning
 - Evaluation
-- 
+
 |항목|내용|비중|
 |------|---|---|
 |Mid-term|Exam |30%|
