@@ -1,0 +1,563 @@
+{
+  "artist": "Young T & Bugsey Featuring Headie One",
+  "overall_vad": {
+    "valence": 2.77,
+    "arousal": 3.43,
+    "dominance": 3.3
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Don't rush, slow touch Brown and white, like I got cunch Gyal run by, like I'm gon' buss (Buss) Eye for eye, like I lose trust",
+      "valence": 2.51,
+      "arousal": 3.36,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Brown and white, like I got cunch Gyal run by, like I'm gon' buss (Buss) Eye for eye, like I lose trust White rum, fizzy pop (Pop)",
+      "valence": 2.75,
+      "arousal": 3.17,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Gyal run by, like I'm gon' buss (Buss) Eye for eye, like I lose trust White rum, fizzy pop (Pop) Where you dey go-go, we dey go up?",
+      "valence": 2.7,
+      "arousal": 3.26,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Eye for eye, like I lose trust White rum, fizzy pop (Pop) Where you dey go-go, we dey go up? Catch my vibe (Vibe), let me go off (Off)",
+      "valence": 2.86,
+      "arousal": 3.23,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "White rum, fizzy pop (Pop) Where you dey go-go, we dey go up? Catch my vibe (Vibe), let me go off (Off) Blammed her twice, man it's so tough",
+      "valence": 2.61,
+      "arousal": 3.68,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Where you dey go-go, we dey go up? Catch my vibe (Vibe), let me go off (Off) Blammed her twice, man it's so tough Aight yo, put the beller on the bite, it make her cotch",
+      "valence": 2.73,
+      "arousal": 3.75,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Catch my vibe (Vibe), let me go off (Off) Blammed her twice, man it's so tough Aight yo, put the beller on the bite, it make her cotch Seen the watch, now she wanna give crotch",
+      "valence": 2.61,
+      "arousal": 3.72,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Blammed her twice, man it's so tough Aight yo, put the beller on the bite, it make her cotch Seen the watch, now she wanna give crotch Boy got Ps, now she hopping in the pod",
+      "valence": 2.64,
+      "arousal": 3.62,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Aight yo, put the beller on the bite, it make her cotch Seen the watch, now she wanna give crotch Boy got Ps, now she hopping in the pod Man in real life, sugar gyal dem haffi get wopped (Yeah)",
+      "valence": 2.87,
+      "arousal": 3.34,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Seen the watch, now she wanna give crotch Boy got Ps, now she hopping in the pod Man in real life, sugar gyal dem haffi get wopped (Yeah) Know she want dark, told her \"Meet me at the top\"",
+      "valence": 2.91,
+      "arousal": 3.3,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Boy got Ps, now she hopping in the pod Man in real life, sugar gyal dem haffi get wopped (Yeah) Know she want dark, told her \"Meet me at the top\" Switching lanes the other day, I seen her waiting for a bus",
+      "valence": 2.99,
+      "arousal": 3.24,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Man in real life, sugar gyal dem haffi get wopped (Yeah) Know she want dark, told her \"Meet me at the top\" Switching lanes the other day, I seen her waiting for a bus Baby this a Moncler sweater, Diesel denim",
+      "valence": 2.98,
+      "arousal": 3.25,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Know she want dark, told her \"Meet me at the top\" Switching lanes the other day, I seen her waiting for a bus Baby this a Moncler sweater, Diesel denim Buy another when my pockets fat like Heather",
+      "valence": 3.06,
+      "arousal": 3.32,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Switching lanes the other day, I seen her waiting for a bus Baby this a Moncler sweater, Diesel denim Buy another when my pockets fat like Heather Neck froze like I don't know no better",
+      "valence": 2.79,
+      "arousal": 3.34,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Baby this a Moncler sweater, Diesel denim Buy another when my pockets fat like Heather Neck froze like I don't know no better Benzo truck, white seats and they leather",
+      "valence": 3.05,
+      "arousal": 3.33,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Buy another when my pockets fat like Heather Neck froze like I don't know no better Benzo truck, white seats and they leather Go broke never, on my grind",
+      "valence": 2.6,
+      "arousal": 3.43,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Neck froze like I don't know no better Benzo truck, white seats and they leather Go broke never, on my grind She make it clap like I'm Busta Rhymes",
+      "valence": 2.7,
+      "arousal": 3.5,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Benzo truck, white seats and they leather Go broke never, on my grind She make it clap like I'm Busta Rhymes I got the juice, the sauce and all them things",
+      "valence": 2.88,
+      "arousal": 3.54,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Go broke never, on my grind She make it clap like I'm Busta Rhymes I got the juice, the sauce and all them things I blammed her twice and neither wore my bling",
+      "valence": 2.49,
+      "arousal": 3.71,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "She make it clap like I'm Busta Rhymes I got the juice, the sauce and all them things I blammed her twice and neither wore my bling Big Benz, I drive, I brought that ting",
+      "valence": 2.81,
+      "arousal": 3.69,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I got the juice, the sauce and all them things I blammed her twice and neither wore my bling Big Benz, I drive, I brought that ting Any girl you want, they want my ting",
+      "valence": 2.81,
+      "arousal": 3.66,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I blammed her twice and neither wore my bling Big Benz, I drive, I brought that ting Any girl you want, they want my ting Don't rush, slow touch",
+      "valence": 2.73,
+      "arousal": 3.61,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Big Benz, I drive, I brought that ting Any girl you want, they want my ting Don't rush, slow touch Brown and white, like I got cunch",
+      "valence": 2.94,
+      "arousal": 3.45,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Any girl you want, they want my ting Don't rush, slow touch Brown and white, like I got cunch Gyal run by, like I'm gon' buss (Buss)",
+      "valence": 2.72,
+      "arousal": 3.48,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Don't rush, slow touch Brown and white, like I got cunch Gyal run by, like I'm gon' buss (Buss) Eye for eye, like I lose trust",
+      "valence": 2.51,
+      "arousal": 3.36,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Brown and white, like I got cunch Gyal run by, like I'm gon' buss (Buss) Eye for eye, like I lose trust White rum, fizzy pop (Pop)",
+      "valence": 2.75,
+      "arousal": 3.17,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Gyal run by, like I'm gon' buss (Buss) Eye for eye, like I lose trust White rum, fizzy pop (Pop) Where you dey go-go, we dey go up?",
+      "valence": 2.7,
+      "arousal": 3.26,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Eye for eye, like I lose trust White rum, fizzy pop (Pop) Where you dey go-go, we dey go up? Catch my vibe (Vibe), let me go off (Off)",
+      "valence": 2.86,
+      "arousal": 3.23,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "White rum, fizzy pop (Pop) Where you dey go-go, we dey go up? Catch my vibe (Vibe), let me go off (Off) Blammed her twice, man it's so tough",
+      "valence": 2.61,
+      "arousal": 3.68,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Where you dey go-go, we dey go up? Catch my vibe (Vibe), let me go off (Off) Blammed her twice, man it's so tough Flood my ice, make a hoe blush",
+      "valence": 2.63,
+      "arousal": 3.68,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Catch my vibe (Vibe), let me go off (Off) Blammed her twice, man it's so tough Flood my ice, make a hoe blush Back at the tour bus, gettin' caught up",
+      "valence": 2.72,
+      "arousal": 3.66,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Blammed her twice, man it's so tough Flood my ice, make a hoe blush Back at the tour bus, gettin' caught up DSquared got 'em distressed, got a hand wash",
+      "valence": 2.49,
+      "arousal": 3.56,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Flood my ice, make a hoe blush Back at the tour bus, gettin' caught up DSquared got 'em distressed, got a hand wash New racks with the old Nikes in the shoe box",
+      "valence": 2.8,
+      "arousal": 3.3,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Back at the tour bus, gettin' caught up DSquared got 'em distressed, got a hand wash New racks with the old Nikes in the shoe box Keep my straps, no cuffs",
+      "valence": 2.95,
+      "arousal": 3.02,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "DSquared got 'em distressed, got a hand wash New racks with the old Nikes in the shoe box Keep my straps, no cuffs Pull up in a new plate and she might just",
+      "valence": 2.86,
+      "arousal": 3.15,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "New racks with the old Nikes in the shoe box Keep my straps, no cuffs Pull up in a new plate and she might just She weren't tryna move bait when our eyes locked",
+      "valence": 2.96,
+      "arousal": 3.15,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Keep my straps, no cuffs Pull up in a new plate and she might just She weren't tryna move bait when our eyes locked New tints on the coupÃ©, that's a head loss",
+      "valence": 2.83,
+      "arousal": 3.17,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Pull up in a new plate and she might just She weren't tryna move bait when our eyes locked New tints on the coupÃ©, that's a head loss Off my whites, right my wrongs",
+      "valence": 2.59,
+      "arousal": 3.36,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "She weren't tryna move bait when our eyes locked New tints on the coupÃ©, that's a head loss Off my whites, right my wrongs Gucci my mom while you twiddle your thumbs",
+      "valence": 2.56,
+      "arousal": 3.5,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "New tints on the coupÃ©, that's a head loss Off my whites, right my wrongs Gucci my mom while you twiddle your thumbs Count my sums, this is gonna get long",
+      "valence": 2.6,
+      "arousal": 3.53,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Off my whites, right my wrongs Gucci my mom while you twiddle your thumbs Count my sums, this is gonna get long Love my green, I'm tryna get strong",
+      "valence": 2.94,
+      "arousal": 3.74,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Gucci my mom while you twiddle your thumbs Count my sums, this is gonna get long Love my green, I'm tryna get strong Tryna get on, where I'm from, it's on",
+      "valence": 3.42,
+      "arousal": 3.83,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Count my sums, this is gonna get long Love my green, I'm tryna get strong Tryna get on, where I'm from, it's on Yes, man don't take no dumb, threats",
+      "valence": 3.14,
+      "arousal": 3.76,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Love my green, I'm tryna get strong Tryna get on, where I'm from, it's on Yes, man don't take no dumb, threats They see funds, they hop, fence",
+      "valence": 3.48,
+      "arousal": 3.83,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Tryna get on, where I'm from, it's on Yes, man don't take no dumb, threats They see funds, they hop, fence We been up, not up next",
+      "valence": 2.63,
+      "arousal": 3.45,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Yes, man don't take no dumb, threats They see funds, they hop, fence We been up, not up next Don't rush, slow touch",
+      "valence": 2.71,
+      "arousal": 3.41,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "They see funds, they hop, fence We been up, not up next Don't rush, slow touch Brown and white, like I got cunch",
+      "valence": 2.8,
+      "arousal": 3.31,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "We been up, not up next Don't rush, slow touch Brown and white, like I got cunch Gyal run by, like I'm gon' buss (Buss)",
+      "valence": 2.67,
+      "arousal": 3.35,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Don't rush, slow touch Brown and white, like I got cunch Gyal run by, like I'm gon' buss (Buss) Eye for eye, like I lose trust",
+      "valence": 2.51,
+      "arousal": 3.36,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Brown and white, like I got cunch Gyal run by, like I'm gon' buss (Buss) Eye for eye, like I lose trust White rum, fizzy pop (Pop)",
+      "valence": 2.75,
+      "arousal": 3.17,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Gyal run by, like I'm gon' buss (Buss) Eye for eye, like I lose trust White rum, fizzy pop (Pop) Where you dey go-go, we dey go up?",
+      "valence": 2.7,
+      "arousal": 3.26,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Eye for eye, like I lose trust White rum, fizzy pop (Pop) Where you dey go-go, we dey go up? Catch my vibe (Vibe), let me go off (Off)",
+      "valence": 2.86,
+      "arousal": 3.23,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "White rum, fizzy pop (Pop) Where you dey go-go, we dey go up? Catch my vibe (Vibe), let me go off (Off) Blammed her twice, man it's so tough",
+      "valence": 2.61,
+      "arousal": 3.68,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Where you dey go-go, we dey go up? Catch my vibe (Vibe), let me go off (Off) Blammed her twice, man it's so tough And introducing",
+      "valence": 2.5,
+      "arousal": 3.77,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Catch my vibe (Vibe), let me go off (Off) Blammed her twice, man it's so tough And introducing The one and only",
+      "valence": 2.84,
+      "arousal": 3.64,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Blammed her twice, man it's so tough And introducing The one and only Big truck, no clutch (Clutch)",
+      "valence": 2.75,
+      "arousal": 3.48,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "And introducing The one and only Big truck, no clutch (Clutch) Wrist froze, don't touch",
+      "valence": 3.04,
+      "arousal": 3.11,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "The one and only Big truck, no clutch (Clutch) Wrist froze, don't touch French Ciri, I'm so drunk (Turnt)",
+      "valence": 2.65,
+      "arousal": 3.44,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Big truck, no clutch (Clutch) Wrist froze, don't touch French Ciri, I'm so drunk (Turnt) If I can't drink and drive, where's my chauffeur?",
+      "valence": 2.52,
+      "arousal": 3.44,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Wrist froze, don't touch French Ciri, I'm so drunk (Turnt) If I can't drink and drive, where's my chauffeur? Bando upsuh, whip that coca",
+      "valence": 2.43,
+      "arousal": 3.51,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "French Ciri, I'm so drunk (Turnt) If I can't drink and drive, where's my chauffeur? Bando upsuh, whip that coca I really hope this time my worker don't floss",
+      "valence": 2.53,
+      "arousal": 3.37,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "If I can't drink and drive, where's my chauffeur? Bando upsuh, whip that coca I really hope this time my worker don't floss See, I was in the wok, now my penthouse at the top",
+      "valence": 2.67,
+      "arousal": 3.37,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Bando upsuh, whip that coca I really hope this time my worker don't floss See, I was in the wok, now my penthouse at the top Shawty said they're best friends, I bet they both fuck",
+      "valence": 2.61,
+      "arousal": 3.62,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "I really hope this time my worker don't floss See, I was in the wok, now my penthouse at the top Shawty said they're best friends, I bet they both fuck 'Cause they won't cuss, 'cause they said I sold drugs",
+      "valence": 2.52,
+      "arousal": 3.57,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "See, I was in the wok, now my penthouse at the top Shawty said they're best friends, I bet they both fuck 'Cause they won't cuss, 'cause they said I sold drugs And when you down there, ain't nobody around",
+      "valence": 2.69,
+      "arousal": 3.43,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Shawty said they're best friends, I bet they both fuck 'Cause they won't cuss, 'cause they said I sold drugs And when you down there, ain't nobody around Where's the comeback? When you blow up",
+      "valence": 2.57,
+      "arousal": 3.52,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "'Cause they won't cuss, 'cause they said I sold drugs And when you down there, ain't nobody around Where's the comeback? When you blow up I forgot my jacket but my heated seats help me warm up",
+      "valence": 2.75,
+      "arousal": 3.38,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "And when you down there, ain't nobody around Where's the comeback? When you blow up I forgot my jacket but my heated seats help me warm up Fast train to Inverurie, I used to go up",
+      "valence": 2.83,
+      "arousal": 3.24,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Where's the comeback? When you blow up I forgot my jacket but my heated seats help me warm up Fast train to Inverurie, I used to go up It's ironic, I just sold out my show in Scotland",
+      "valence": 3.09,
+      "arousal": 3.37,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "I forgot my jacket but my heated seats help me warm up Fast train to Inverurie, I used to go up It's ironic, I just sold out my show in Scotland Used to say I wanna put Tottenham on the map",
+      "valence": 3.16,
+      "arousal": 3.4,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Fast train to Inverurie, I used to go up It's ironic, I just sold out my show in Scotland Used to say I wanna put Tottenham on the map But one day I'ma change the map in Tottenham",
+      "valence": 3.11,
+      "arousal": 3.41,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "It's ironic, I just sold out my show in Scotland Used to say I wanna put Tottenham on the map But one day I'ma change the map in Tottenham Don't rush, slow touch",
+      "valence": 3.0,
+      "arousal": 3.43,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Used to say I wanna put Tottenham on the map But one day I'ma change the map in Tottenham Don't rush, slow touch Brown and white, like I got cunch",
+      "valence": 2.95,
+      "arousal": 3.27,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "But one day I'ma change the map in Tottenham Don't rush, slow touch Brown and white, like I got cunch Gyal run by, like I'm gon' buss (Buss)",
+      "valence": 2.83,
+      "arousal": 3.34,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Don't rush, slow touch Brown and white, like I got cunch Gyal run by, like I'm gon' buss (Buss) Eye for eye, like I lose trust",
+      "valence": 2.51,
+      "arousal": 3.36,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "Brown and white, like I got cunch Gyal run by, like I'm gon' buss (Buss) Eye for eye, like I lose trust White rum, fizzy pop (Pop)",
+      "valence": 2.75,
+      "arousal": 3.17,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "Gyal run by, like I'm gon' buss (Buss) Eye for eye, like I lose trust White rum, fizzy pop (Pop) Where you dey go-go, we dey go up?",
+      "valence": 2.7,
+      "arousal": 3.26,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "Eye for eye, like I lose trust White rum, fizzy pop (Pop) Where you dey go-go, we dey go up? Catch my vibe (Vibe), let me go off (Off)",
+      "valence": 2.86,
+      "arousal": 3.23,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "White rum, fizzy pop (Pop) Where you dey go-go, we dey go up? Catch my vibe (Vibe), let me go off (Off) Blammed her twice, man it's so tough",
+      "valence": 2.61,
+      "arousal": 3.68,
+      "dominance": 3.3
+    }
+  ]
+}

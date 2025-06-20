@@ -1,0 +1,626 @@
+{
+  "artist": "Ed Sheeran",
+  "overall_vad": {
+    "valence": 3.89,
+    "arousal": 3.94,
+    "dominance": 3.39
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "The club isn't the best place to find a lover So the bar is where I go Me and my friends at the table doing shots Drinking fast and then we talk slow",
+      "valence": 2.76,
+      "arousal": 3.11,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "So the bar is where I go Me and my friends at the table doing shots Drinking fast and then we talk slow And you come over and start up a conversation with just me",
+      "valence": 3.18,
+      "arousal": 3.07,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Me and my friends at the table doing shots Drinking fast and then we talk slow And you come over and start up a conversation with just me And trust me I'll give it a chance now",
+      "valence": 3.31,
+      "arousal": 3.28,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Drinking fast and then we talk slow And you come over and start up a conversation with just me And trust me I'll give it a chance now Take my hand, stop, put Van the Man on the jukebox",
+      "valence": 3.08,
+      "arousal": 3.3,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "And you come over and start up a conversation with just me And trust me I'll give it a chance now Take my hand, stop, put Van the Man on the jukebox And then we start to dance, and now I'm singing like",
+      "valence": 3.43,
+      "arousal": 3.58,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "And trust me I'll give it a chance now Take my hand, stop, put Van the Man on the jukebox And then we start to dance, and now I'm singing like Girl, you know I want your love",
+      "valence": 3.72,
+      "arousal": 3.91,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Take my hand, stop, put Van the Man on the jukebox And then we start to dance, and now I'm singing like Girl, you know I want your love Your love was handmade for somebody like me",
+      "valence": 3.72,
+      "arousal": 3.86,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "And then we start to dance, and now I'm singing like Girl, you know I want your love Your love was handmade for somebody like me Come on now, follow my lead",
+      "valence": 3.82,
+      "arousal": 3.89,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Girl, you know I want your love Your love was handmade for somebody like me Come on now, follow my lead I may be crazy, don't mind me",
+      "valence": 3.67,
+      "arousal": 3.81,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Your love was handmade for somebody like me Come on now, follow my lead I may be crazy, don't mind me Say, boy, let's not talk too much",
+      "valence": 3.43,
+      "arousal": 3.46,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Come on now, follow my lead I may be crazy, don't mind me Say, boy, let's not talk too much Grab on my waist and put that body on me",
+      "valence": 2.81,
+      "arousal": 3.73,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I may be crazy, don't mind me Say, boy, let's not talk too much Grab on my waist and put that body on me Come on now, follow my lead",
+      "valence": 2.78,
+      "arousal": 3.63,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Say, boy, let's not talk too much Grab on my waist and put that body on me Come on now, follow my lead Come, come on now, follow my lead",
+      "valence": 2.95,
+      "arousal": 3.67,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Grab on my waist and put that body on me Come on now, follow my lead Come, come on now, follow my lead I'm in love with the shape of you",
+      "valence": 3.7,
+      "arousal": 4.08,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Come on now, follow my lead Come, come on now, follow my lead I'm in love with the shape of you We push and pull like a magnet do",
+      "valence": 3.78,
+      "arousal": 3.89,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Come, come on now, follow my lead I'm in love with the shape of you We push and pull like a magnet do Although my heart is falling too",
+      "valence": 3.91,
+      "arousal": 4.11,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I'm in love with the shape of you We push and pull like a magnet do Although my heart is falling too I'm in love with your body",
+      "valence": 4.19,
+      "arousal": 4.19,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "We push and pull like a magnet do Although my heart is falling too I'm in love with your body And last night you were in my room",
+      "valence": 3.89,
+      "arousal": 4.09,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Although my heart is falling too I'm in love with your body And last night you were in my room And now my bedsheets smell like you",
+      "valence": 4.04,
+      "arousal": 4.17,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I'm in love with your body And last night you were in my room And now my bedsheets smell like you Every day discovering something brand new",
+      "valence": 4.12,
+      "arousal": 4.11,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "And last night you were in my room And now my bedsheets smell like you Every day discovering something brand new I'm in love with your body",
+      "valence": 4.01,
+      "arousal": 4.02,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "And now my bedsheets smell like you Every day discovering something brand new I'm in love with your body Oh-I-oh-I-oh-I-oh-I",
+      "valence": 4.0,
+      "arousal": 4.06,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Every day discovering something brand new I'm in love with your body Oh-I-oh-I-oh-I-oh-I I'm in love with your body",
+      "valence": 4.25,
+      "arousal": 4.07,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I'm in love with your body Oh-I-oh-I-oh-I-oh-I I'm in love with your body Oh-I-oh-I-oh-I-oh-I",
+      "valence": 4.25,
+      "arousal": 4.19,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Oh-I-oh-I-oh-I-oh-I I'm in love with your body Oh-I-oh-I-oh-I-oh-I I'm in love with your body",
+      "valence": 4.17,
+      "arousal": 4.18,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I'm in love with your body Oh-I-oh-I-oh-I-oh-I I'm in love with your body Oh-I-oh-I-oh-I-oh-I",
+      "valence": 4.25,
+      "arousal": 4.19,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Oh-I-oh-I-oh-I-oh-I I'm in love with your body Oh-I-oh-I-oh-I-oh-I I'm in love with your body",
+      "valence": 4.17,
+      "arousal": 4.18,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I'm in love with your body Oh-I-oh-I-oh-I-oh-I I'm in love with your body Every day discovering something brand new",
+      "valence": 4.28,
+      "arousal": 4.12,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Oh-I-oh-I-oh-I-oh-I I'm in love with your body Every day discovering something brand new I'm in love with the shape of you",
+      "valence": 4.18,
+      "arousal": 4.12,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I'm in love with your body Every day discovering something brand new I'm in love with the shape of you One week in we let the story begin",
+      "valence": 4.12,
+      "arousal": 3.86,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Every day discovering something brand new I'm in love with the shape of you One week in we let the story begin We're going out on our first date",
+      "valence": 4.15,
+      "arousal": 3.89,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I'm in love with the shape of you One week in we let the story begin We're going out on our first date You and me are thrifty, so go all you can eat",
+      "valence": 4.12,
+      "arousal": 3.95,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "One week in we let the story begin We're going out on our first date You and me are thrifty, so go all you can eat Fill up your bag and I fill up a plate",
+      "valence": 3.52,
+      "arousal": 3.36,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "We're going out on our first date You and me are thrifty, so go all you can eat Fill up your bag and I fill up a plate We talk for hours and hours about the sweet and the sour",
+      "valence": 3.66,
+      "arousal": 3.53,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "You and me are thrifty, so go all you can eat Fill up your bag and I fill up a plate We talk for hours and hours about the sweet and the sour And how your family is doing okay",
+      "valence": 3.44,
+      "arousal": 3.31,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Fill up your bag and I fill up a plate We talk for hours and hours about the sweet and the sour And how your family is doing okay Leave and get in a taxi, then kiss in the backseat",
+      "valence": 3.5,
+      "arousal": 3.49,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "We talk for hours and hours about the sweet and the sour And how your family is doing okay Leave and get in a taxi, then kiss in the backseat Tell the driver make the radio play, and I'm singing like",
+      "valence": 3.48,
+      "arousal": 3.53,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "And how your family is doing okay Leave and get in a taxi, then kiss in the backseat Tell the driver make the radio play, and I'm singing like Girl, you know I want your love",
+      "valence": 3.93,
+      "arousal": 3.89,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Leave and get in a taxi, then kiss in the backseat Tell the driver make the radio play, and I'm singing like Girl, you know I want your love Your love was handmade for somebody like me",
+      "valence": 3.96,
+      "arousal": 3.82,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Tell the driver make the radio play, and I'm singing like Girl, you know I want your love Your love was handmade for somebody like me Come on now, follow my lead",
+      "valence": 3.86,
+      "arousal": 3.89,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Girl, you know I want your love Your love was handmade for somebody like me Come on now, follow my lead I may be crazy, don't mind me",
+      "valence": 3.67,
+      "arousal": 3.81,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Your love was handmade for somebody like me Come on now, follow my lead I may be crazy, don't mind me Say, boy, let's not talk too much",
+      "valence": 3.43,
+      "arousal": 3.46,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Come on now, follow my lead I may be crazy, don't mind me Say, boy, let's not talk too much Grab on my waist and put that body on me",
+      "valence": 2.81,
+      "arousal": 3.73,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I may be crazy, don't mind me Say, boy, let's not talk too much Grab on my waist and put that body on me Come on now, follow my lead",
+      "valence": 2.78,
+      "arousal": 3.63,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Say, boy, let's not talk too much Grab on my waist and put that body on me Come on now, follow my lead Come, come on now, follow my lead",
+      "valence": 2.95,
+      "arousal": 3.67,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Grab on my waist and put that body on me Come on now, follow my lead Come, come on now, follow my lead I'm in love with the shape of you",
+      "valence": 3.7,
+      "arousal": 4.08,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Come on now, follow my lead Come, come on now, follow my lead I'm in love with the shape of you We push and pull like a magnet do",
+      "valence": 3.78,
+      "arousal": 3.89,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Come, come on now, follow my lead I'm in love with the shape of you We push and pull like a magnet do Although my heart is falling too",
+      "valence": 3.91,
+      "arousal": 4.11,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I'm in love with the shape of you We push and pull like a magnet do Although my heart is falling too I'm in love with your body",
+      "valence": 4.19,
+      "arousal": 4.19,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "We push and pull like a magnet do Although my heart is falling too I'm in love with your body And last night you were in my room",
+      "valence": 3.89,
+      "arousal": 4.09,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Although my heart is falling too I'm in love with your body And last night you were in my room And now my bedsheets smell like you",
+      "valence": 4.04,
+      "arousal": 4.17,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "I'm in love with your body And last night you were in my room And now my bedsheets smell like you Every day discovering something brand new",
+      "valence": 4.12,
+      "arousal": 4.11,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "And last night you were in my room And now my bedsheets smell like you Every day discovering something brand new I'm in love with your body",
+      "valence": 4.01,
+      "arousal": 4.02,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "And now my bedsheets smell like you Every day discovering something brand new I'm in love with your body Oh-I-oh-I-oh-I-oh-I",
+      "valence": 4.0,
+      "arousal": 4.06,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Every day discovering something brand new I'm in love with your body Oh-I-oh-I-oh-I-oh-I I'm in love with your body",
+      "valence": 4.25,
+      "arousal": 4.07,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "I'm in love with your body Oh-I-oh-I-oh-I-oh-I I'm in love with your body Oh-I-oh-I-oh-I-oh-I",
+      "valence": 4.25,
+      "arousal": 4.19,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Oh-I-oh-I-oh-I-oh-I I'm in love with your body Oh-I-oh-I-oh-I-oh-I I'm in love with your body",
+      "valence": 4.17,
+      "arousal": 4.18,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "I'm in love with your body Oh-I-oh-I-oh-I-oh-I I'm in love with your body Oh-I-oh-I-oh-I-oh-I",
+      "valence": 4.25,
+      "arousal": 4.19,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Oh-I-oh-I-oh-I-oh-I I'm in love with your body Oh-I-oh-I-oh-I-oh-I I'm in love with your body",
+      "valence": 4.17,
+      "arousal": 4.18,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "I'm in love with your body Oh-I-oh-I-oh-I-oh-I I'm in love with your body Every day discovering something brand new",
+      "valence": 4.28,
+      "arousal": 4.12,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Oh-I-oh-I-oh-I-oh-I I'm in love with your body Every day discovering something brand new I'm in love with the shape of you",
+      "valence": 4.18,
+      "arousal": 4.12,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "I'm in love with your body Every day discovering something brand new I'm in love with the shape of you Come on, be my baby, come on",
+      "valence": 4.33,
+      "arousal": 4.13,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Every day discovering something brand new I'm in love with the shape of you Come on, be my baby, come on Come on, be my baby, come on",
+      "valence": 4.26,
+      "arousal": 4.0,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "I'm in love with the shape of you Come on, be my baby, come on Come on, be my baby, come on Come on, be my baby, come on",
+      "valence": 4.31,
+      "arousal": 4.14,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Come on, be my baby, come on Come on, be my baby, come on Come on, be my baby, come on Come on, be my baby, come on",
+      "valence": 3.8,
+      "arousal": 3.8,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Come on, be my baby, come on Come on, be my baby, come on Come on, be my baby, come on Come on, be my baby, come on",
+      "valence": 3.8,
+      "arousal": 3.8,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Come on, be my baby, come on Come on, be my baby, come on Come on, be my baby, come on Come on, be my baby, come on",
+      "valence": 3.8,
+      "arousal": 3.8,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Come on, be my baby, come on Come on, be my baby, come on Come on, be my baby, come on Come on, be my baby, come on",
+      "valence": 3.8,
+      "arousal": 3.8,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Come on, be my baby, come on Come on, be my baby, come on Come on, be my baby, come on Come on, be my baby, come on",
+      "valence": 3.8,
+      "arousal": 3.8,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Come on, be my baby, come on Come on, be my baby, come on Come on, be my baby, come on I'm in love with the shape of you",
+      "valence": 4.22,
+      "arousal": 4.13,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Come on, be my baby, come on Come on, be my baby, come on I'm in love with the shape of you We push and pull like a magnet do",
+      "valence": 4.15,
+      "arousal": 4.11,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Come on, be my baby, come on I'm in love with the shape of you We push and pull like a magnet do Although my heart is falling too",
+      "valence": 4.22,
+      "arousal": 4.21,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "I'm in love with the shape of you We push and pull like a magnet do Although my heart is falling too I'm in love with your body",
+      "valence": 4.19,
+      "arousal": 4.19,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "We push and pull like a magnet do Although my heart is falling too I'm in love with your body Last night you were in my room",
+      "valence": 3.86,
+      "arousal": 4.06,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Although my heart is falling too I'm in love with your body Last night you were in my room And now my bedsheets smell like you",
+      "valence": 4.04,
+      "arousal": 4.16,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "I'm in love with your body Last night you were in my room And now my bedsheets smell like you Every day discovering something brand new",
+      "valence": 4.13,
+      "arousal": 4.13,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "Last night you were in my room And now my bedsheets smell like you Every day discovering something brand new I'm in love with your body",
+      "valence": 3.98,
+      "arousal": 4.01,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "And now my bedsheets smell like you Every day discovering something brand new I'm in love with your body Come on, be my baby, come on",
+      "valence": 4.19,
+      "arousal": 4.08,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "Every day discovering something brand new I'm in love with your body Come on, be my baby, come on Come on, be my baby, come on",
+      "valence": 4.27,
+      "arousal": 4.05,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "I'm in love with your body Come on, be my baby, come on Come on, be my baby, come on I'm in love with your body",
+      "valence": 4.39,
+      "arousal": 4.2,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "Come on, be my baby, come on Come on, be my baby, come on I'm in love with your body Come on, be my baby, come on",
+      "valence": 4.21,
+      "arousal": 4.11,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "Come on, be my baby, come on I'm in love with your body Come on, be my baby, come on Come on, be my baby, come on",
+      "valence": 4.27,
+      "arousal": 4.14,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "I'm in love with your body Come on, be my baby, come on Come on, be my baby, come on I'm in love with your body",
+      "valence": 4.39,
+      "arousal": 4.2,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "Come on, be my baby, come on Come on, be my baby, come on I'm in love with your body Come on, be my baby, come on",
+      "valence": 4.21,
+      "arousal": 4.11,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "Come on, be my baby, come on I'm in love with your body Come on, be my baby, come on Come on, be my baby, come on",
+      "valence": 4.27,
+      "arousal": 4.14,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 86,
+      "lyrics_text": "I'm in love with your body Come on, be my baby, come on Come on, be my baby, come on I'm in love with your body",
+      "valence": 4.39,
+      "arousal": 4.2,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 87,
+      "lyrics_text": "Come on, be my baby, come on Come on, be my baby, come on I'm in love with your body Every day discovering something brand new",
+      "valence": 4.24,
+      "arousal": 4.1,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 88,
+      "lyrics_text": "Come on, be my baby, come on I'm in love with your body Every day discovering something brand new I'm in love with the shape of you",
+      "valence": 4.37,
+      "arousal": 4.15,
+      "dominance": 3.43
+    }
+  ]
+}

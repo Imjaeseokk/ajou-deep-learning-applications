@@ -1,0 +1,486 @@
+{
+  "artist": "Imagine Dragons",
+  "overall_vad": {
+    "valence": 3.22,
+    "arousal": 3.66,
+    "dominance": 3.39
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Falling too fast to prepare for this Tripping in the world could be dangerous Everybody circling, it's vulturous Negative, nepotist",
+      "valence": 2.58,
+      "arousal": 3.26,
+      "dominance": 2.7
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Tripping in the world could be dangerous Everybody circling, it's vulturous Negative, nepotist Everybody waiting for the fall of man",
+      "valence": 2.8,
+      "arousal": 3.23,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Everybody circling, it's vulturous Negative, nepotist Everybody waiting for the fall of man Everybody praying for the end of times",
+      "valence": 2.81,
+      "arousal": 3.38,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Negative, nepotist Everybody waiting for the fall of man Everybody praying for the end of times Everybody hoping they could be the one",
+      "valence": 2.69,
+      "arousal": 3.21,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Everybody waiting for the fall of man Everybody praying for the end of times Everybody hoping they could be the one I was born to run, I was born for this",
+      "valence": 2.99,
+      "arousal": 3.56,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Everybody praying for the end of times Everybody hoping they could be the one I was born to run, I was born for this Whip, whip",
+      "valence": 3.01,
+      "arousal": 3.43,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Everybody hoping they could be the one I was born to run, I was born for this Whip, whip Run me like a racehorse",
+      "valence": 3.04,
+      "arousal": 3.49,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I was born to run, I was born for this Whip, whip Run me like a racehorse Pull me like a ripcord",
+      "valence": 3.08,
+      "arousal": 3.55,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Whip, whip Run me like a racehorse Pull me like a ripcord Break me down and build me up",
+      "valence": 2.95,
+      "arousal": 3.5,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Run me like a racehorse Pull me like a ripcord Break me down and build me up I wanna be the slip, slip",
+      "valence": 2.8,
+      "arousal": 3.44,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Pull me like a ripcord Break me down and build me up I wanna be the slip, slip Word upon your lip, lip",
+      "valence": 2.76,
+      "arousal": 3.63,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Break me down and build me up I wanna be the slip, slip Word upon your lip, lip Letter that you rip, rip",
+      "valence": 2.66,
+      "arousal": 3.49,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I wanna be the slip, slip Word upon your lip, lip Letter that you rip, rip Break me down and build me up",
+      "valence": 2.59,
+      "arousal": 3.75,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Word upon your lip, lip Letter that you rip, rip Break me down and build me up Whatever it takes",
+      "valence": 2.34,
+      "arousal": 3.89,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Letter that you rip, rip Break me down and build me up Whatever it takes 'Cause I love the adrenaline in my veins",
+      "valence": 3.4,
+      "arousal": 4.25,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Break me down and build me up Whatever it takes 'Cause I love the adrenaline in my veins I do whatever it takes",
+      "valence": 3.61,
+      "arousal": 3.82,
+      "dominance": 3.74
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Whatever it takes 'Cause I love the adrenaline in my veins I do whatever it takes 'Cause I love how it feels when I break the chains",
+      "valence": 4.04,
+      "arousal": 3.97,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "'Cause I love the adrenaline in my veins I do whatever it takes 'Cause I love how it feels when I break the chains Whatever it takes",
+      "valence": 4.09,
+      "arousal": 4.02,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I do whatever it takes 'Cause I love how it feels when I break the chains Whatever it takes Yeah, take me to the top I'm ready for",
+      "valence": 3.88,
+      "arousal": 3.91,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "'Cause I love how it feels when I break the chains Whatever it takes Yeah, take me to the top I'm ready for Whatever it takes",
+      "valence": 4.07,
+      "arousal": 3.93,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Whatever it takes Yeah, take me to the top I'm ready for Whatever it takes 'Cause I love the adrenaline in my veins",
+      "valence": 4.03,
+      "arousal": 4.16,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Yeah, take me to the top I'm ready for Whatever it takes 'Cause I love the adrenaline in my veins I do what it takes",
+      "valence": 3.95,
+      "arousal": 4.03,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Whatever it takes 'Cause I love the adrenaline in my veins I do what it takes Always had a fear of being typical",
+      "valence": 3.8,
+      "arousal": 3.95,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "'Cause I love the adrenaline in my veins I do what it takes Always had a fear of being typical Looking at my body feeling miserable",
+      "valence": 3.61,
+      "arousal": 3.93,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I do what it takes Always had a fear of being typical Looking at my body feeling miserable Always hanging on to the visual",
+      "valence": 2.85,
+      "arousal": 3.37,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Always had a fear of being typical Looking at my body feeling miserable Always hanging on to the visual I wanna be invisible",
+      "valence": 2.31,
+      "arousal": 3.3,
+      "dominance": 2.58
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Looking at my body feeling miserable Always hanging on to the visual I wanna be invisible Looking at my years like a martyrdom",
+      "valence": 2.29,
+      "arousal": 3.41,
+      "dominance": 2.63
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Always hanging on to the visual I wanna be invisible Looking at my years like a martyrdom Everybody needs to be a part of 'em",
+      "valence": 2.7,
+      "arousal": 3.28,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I wanna be invisible Looking at my years like a martyrdom Everybody needs to be a part of 'em Never be enough, I'm the prodigal son",
+      "valence": 2.58,
+      "arousal": 3.32,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Looking at my years like a martyrdom Everybody needs to be a part of 'em Never be enough, I'm the prodigal son I was born to run, I was born for this",
+      "valence": 2.72,
+      "arousal": 3.44,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Everybody needs to be a part of 'em Never be enough, I'm the prodigal son I was born to run, I was born for this Whip, whip",
+      "valence": 2.79,
+      "arousal": 3.35,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Never be enough, I'm the prodigal son I was born to run, I was born for this Whip, whip Run me like a racehorse",
+      "valence": 3.03,
+      "arousal": 3.45,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I was born to run, I was born for this Whip, whip Run me like a racehorse Pull me like a ripcord",
+      "valence": 3.08,
+      "arousal": 3.55,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Whip, whip Run me like a racehorse Pull me like a ripcord Break me down and build me up",
+      "valence": 2.95,
+      "arousal": 3.5,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Run me like a racehorse Pull me like a ripcord Break me down and build me up I wanna be the slip, slip",
+      "valence": 2.8,
+      "arousal": 3.44,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Pull me like a ripcord Break me down and build me up I wanna be the slip, slip Word upon your lip, lip",
+      "valence": 2.76,
+      "arousal": 3.63,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Break me down and build me up I wanna be the slip, slip Word upon your lip, lip Letter that you rip, rip",
+      "valence": 2.66,
+      "arousal": 3.49,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "I wanna be the slip, slip Word upon your lip, lip Letter that you rip, rip Break me down and build me up",
+      "valence": 2.59,
+      "arousal": 3.75,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Word upon your lip, lip Letter that you rip, rip Break me down and build me up Whatever it takes",
+      "valence": 2.34,
+      "arousal": 3.89,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Letter that you rip, rip Break me down and build me up Whatever it takes 'Cause I love the adrenaline in my veins",
+      "valence": 3.4,
+      "arousal": 4.25,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Break me down and build me up Whatever it takes 'Cause I love the adrenaline in my veins I do whatever it takes",
+      "valence": 3.61,
+      "arousal": 3.82,
+      "dominance": 3.74
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Whatever it takes 'Cause I love the adrenaline in my veins I do whatever it takes 'Cause I love how it feels when I break the chains",
+      "valence": 4.04,
+      "arousal": 3.97,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "'Cause I love the adrenaline in my veins I do whatever it takes 'Cause I love how it feels when I break the chains Whatever it takes",
+      "valence": 4.09,
+      "arousal": 4.02,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I do whatever it takes 'Cause I love how it feels when I break the chains Whatever it takes Yeah, take me to the top, I'm ready for",
+      "valence": 3.93,
+      "arousal": 3.93,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "'Cause I love how it feels when I break the chains Whatever it takes Yeah, take me to the top, I'm ready for Whatever it takes",
+      "valence": 4.08,
+      "arousal": 3.94,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Whatever it takes Yeah, take me to the top, I'm ready for Whatever it takes 'Cause I love the adrenaline in my veins",
+      "valence": 4.06,
+      "arousal": 4.18,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Yeah, take me to the top, I'm ready for Whatever it takes 'Cause I love the adrenaline in my veins I do what it takes",
+      "valence": 3.98,
+      "arousal": 4.05,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Whatever it takes 'Cause I love the adrenaline in my veins I do what it takes Hypocritical, egotistical",
+      "valence": 3.36,
+      "arousal": 3.85,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "'Cause I love the adrenaline in my veins I do what it takes Hypocritical, egotistical Don't wanna be the parenthetical, hypothetical",
+      "valence": 3.35,
+      "arousal": 3.87,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I do what it takes Hypocritical, egotistical Don't wanna be the parenthetical, hypothetical Working onto something that I'm proud of, out of the box",
+      "valence": 2.83,
+      "arousal": 3.6,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Hypocritical, egotistical Don't wanna be the parenthetical, hypothetical Working onto something that I'm proud of, out of the box An epoxy to the world and the vision we've lost",
+      "valence": 2.75,
+      "arousal": 3.55,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Don't wanna be the parenthetical, hypothetical Working onto something that I'm proud of, out of the box An epoxy to the world and the vision we've lost I'm an apostrophe",
+      "valence": 3.18,
+      "arousal": 3.27,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Working onto something that I'm proud of, out of the box An epoxy to the world and the vision we've lost I'm an apostrophe I'm just a symbol to remind you that there's more to see",
+      "valence": 3.6,
+      "arousal": 3.52,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "An epoxy to the world and the vision we've lost I'm an apostrophe I'm just a symbol to remind you that there's more to see I'm just a product of the system, a catastrophe",
+      "valence": 2.58,
+      "arousal": 3.32,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "I'm an apostrophe I'm just a symbol to remind you that there's more to see I'm just a product of the system, a catastrophe And yet a masterpiece, and yet I'm half-diseased",
+      "valence": 2.76,
+      "arousal": 3.16,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "I'm just a symbol to remind you that there's more to see I'm just a product of the system, a catastrophe And yet a masterpiece, and yet I'm half-diseased And when I am deceased",
+      "valence": 2.74,
+      "arousal": 3.09,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "I'm just a product of the system, a catastrophe And yet a masterpiece, and yet I'm half-diseased And when I am deceased At least I go down to the grave and die happily",
+      "valence": 2.57,
+      "arousal": 3.12,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "And yet a masterpiece, and yet I'm half-diseased And when I am deceased At least I go down to the grave and die happily Leave the body and my soul to be a part of thee",
+      "valence": 2.84,
+      "arousal": 3.11,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "And when I am deceased At least I go down to the grave and die happily Leave the body and my soul to be a part of thee I do what it takes",
+      "valence": 2.89,
+      "arousal": 3.19,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "At least I go down to the grave and die happily Leave the body and my soul to be a part of thee I do what it takes Whatever it takes",
+      "valence": 2.82,
+      "arousal": 3.24,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Leave the body and my soul to be a part of thee I do what it takes Whatever it takes 'Cause I love the adrenaline in my veins",
+      "valence": 3.76,
+      "arousal": 3.92,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "I do what it takes Whatever it takes 'Cause I love the adrenaline in my veins I do whatever it takes",
+      "valence": 3.83,
+      "arousal": 3.94,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Whatever it takes 'Cause I love the adrenaline in my veins I do whatever it takes 'Cause I love how it feels when I break the chains",
+      "valence": 4.04,
+      "arousal": 3.97,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "'Cause I love the adrenaline in my veins I do whatever it takes 'Cause I love how it feels when I break the chains Whatever it takes",
+      "valence": 4.09,
+      "arousal": 4.02,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "I do whatever it takes 'Cause I love how it feels when I break the chains Whatever it takes Yeah, take me to the top, I'm ready for",
+      "valence": 3.93,
+      "arousal": 3.93,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "'Cause I love how it feels when I break the chains Whatever it takes Yeah, take me to the top, I'm ready for Whatever it takes",
+      "valence": 4.08,
+      "arousal": 3.94,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Whatever it takes Yeah, take me to the top, I'm ready for Whatever it takes 'Cause I love the adrenaline in my veins",
+      "valence": 4.06,
+      "arousal": 4.18,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Yeah, take me to the top, I'm ready for Whatever it takes 'Cause I love the adrenaline in my veins I do what it takes",
+      "valence": 3.98,
+      "arousal": 4.05,
+      "dominance": 3.6
+    }
+  ]
+}

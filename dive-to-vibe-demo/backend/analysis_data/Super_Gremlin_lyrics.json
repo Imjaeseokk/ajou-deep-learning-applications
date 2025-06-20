@@ -1,0 +1,584 @@
+{
+  "artist": "Kodak Black",
+  "overall_vad": {
+    "valence": 2.56,
+    "arousal": 3.57,
+    "dominance": 3.36
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Man, we could be superstars We been ridin', wreckin' cars (ayy bro, is that Jambo?) What is at stakes for us? Kickin' off power mirrors",
+      "valence": 2.98,
+      "arousal": 3.35,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "We been ridin', wreckin' cars (ayy bro, is that Jambo?) What is at stakes for us? Kickin' off power mirrors Yeah, we could be superstars",
+      "valence": 3.03,
+      "arousal": 3.42,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "What is at stakes for us? Kickin' off power mirrors Yeah, we could be superstars But I'm pretty sure time is up",
+      "valence": 3.06,
+      "arousal": 3.24,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Kickin' off power mirrors Yeah, we could be superstars But I'm pretty sure time is up And so we fell in love with spinnin' drops",
+      "valence": 3.36,
+      "arousal": 3.44,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Yeah, we could be superstars But I'm pretty sure time is up And so we fell in love with spinnin' drops Still only a child, but faithful error (ATL Jacob, ATL Jacob)",
+      "valence": 3.29,
+      "arousal": 3.38,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "But I'm pretty sure time is up And so we fell in love with spinnin' drops Still only a child, but faithful error (ATL Jacob, ATL Jacob) Say you my nigga, I'ma be your killer",
+      "valence": 3.2,
+      "arousal": 3.49,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "And so we fell in love with spinnin' drops Still only a child, but faithful error (ATL Jacob, ATL Jacob) Say you my nigga, I'ma be your killer Nobody gon' play with you when I'm with you",
+      "valence": 3.42,
+      "arousal": 3.59,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Still only a child, but faithful error (ATL Jacob, ATL Jacob) Say you my nigga, I'ma be your killer Nobody gon' play with you when I'm with you Go against any nigga, like fuck this glitter",
+      "valence": 2.67,
+      "arousal": 3.64,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Say you my nigga, I'ma be your killer Nobody gon' play with you when I'm with you Go against any nigga, like fuck this glitter Skeet off dirt, I'm ditchin'",
+      "valence": 2.22,
+      "arousal": 3.85,
+      "dominance": 3.92
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Nobody gon' play with you when I'm with you Go against any nigga, like fuck this glitter Skeet off dirt, I'm ditchin' I put it in for you, I spin for you",
+      "valence": 2.36,
+      "arousal": 3.58,
+      "dominance": 3.87
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Go against any nigga, like fuck this glitter Skeet off dirt, I'm ditchin' I put it in for you, I spin for you Whatever you with, I'm with it",
+      "valence": 2.26,
+      "arousal": 3.77,
+      "dominance": 3.92
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Skeet off dirt, I'm ditchin' I put it in for you, I spin for you Whatever you with, I'm with it How you gon' cross a nigga that rockin' with you?",
+      "valence": 2.85,
+      "arousal": 3.46,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I put it in for you, I spin for you Whatever you with, I'm with it How you gon' cross a nigga that rockin' with you? I got you lit in the city",
+      "valence": 3.13,
+      "arousal": 3.62,
+      "dominance": 3.75
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Whatever you with, I'm with it How you gon' cross a nigga that rockin' with you? I got you lit in the city I been multitaskin', rappin' and bein' a daddy to my lil' children",
+      "valence": 3.13,
+      "arousal": 3.63,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "How you gon' cross a nigga that rockin' with you? I got you lit in the city I been multitaskin', rappin' and bein' a daddy to my lil' children I been standin' on business",
+      "valence": 2.99,
+      "arousal": 3.37,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I got you lit in the city I been multitaskin', rappin' and bein' a daddy to my lil' children I been standin' on business And spinnin' and spinnin' and spinnin' until I'm dizzy",
+      "valence": 2.97,
+      "arousal": 3.46,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I been multitaskin', rappin' and bein' a daddy to my lil' children I been standin' on business And spinnin' and spinnin' and spinnin' until I'm dizzy I do all the smackin', he ain't never step or help",
+      "valence": 2.75,
+      "arousal": 3.39,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I been standin' on business And spinnin' and spinnin' and spinnin' until I'm dizzy I do all the smackin', he ain't never step or help With none of these killings, you doin' a lot of cappin'",
+      "valence": 2.52,
+      "arousal": 3.25,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "And spinnin' and spinnin' and spinnin' until I'm dizzy I do all the smackin', he ain't never step or help With none of these killings, you doin' a lot of cappin' Watch when I catch you, I'ma whack you in front of the witness",
+      "valence": 2.45,
+      "arousal": 3.36,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I do all the smackin', he ain't never step or help With none of these killings, you doin' a lot of cappin' Watch when I catch you, I'ma whack you in front of the witness Damn, my nigga you trippin'",
+      "valence": 2.21,
+      "arousal": 3.54,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "With none of these killings, you doin' a lot of cappin' Watch when I catch you, I'ma whack you in front of the witness Damn, my nigga you trippin' We could've been superstars (superstars)",
+      "valence": 2.67,
+      "arousal": 3.73,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Watch when I catch you, I'ma whack you in front of the witness Damn, my nigga you trippin' We could've been superstars (superstars) Remember when we was jackin' cars (jackin' cars)",
+      "valence": 2.64,
+      "arousal": 3.86,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Damn, my nigga you trippin' We could've been superstars (superstars) Remember when we was jackin' cars (jackin' cars) Now it's not safe for you (safe for you)",
+      "valence": 2.37,
+      "arousal": 3.97,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "We could've been superstars (superstars) Remember when we was jackin' cars (jackin' cars) Now it's not safe for you (safe for you) You switched like a pussy, lil' bitch",
+      "valence": 2.46,
+      "arousal": 3.73,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Remember when we was jackin' cars (jackin' cars) Now it's not safe for you (safe for you) You switched like a pussy, lil' bitch Damn, my nigga you trippin'",
+      "valence": 1.95,
+      "arousal": 3.81,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Now it's not safe for you (safe for you) You switched like a pussy, lil' bitch Damn, my nigga you trippin' We could've been superstars",
+      "valence": 2.04,
+      "arousal": 3.91,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "You switched like a pussy, lil' bitch Damn, my nigga you trippin' We could've been superstars Can't help it, now I'm reminiscing",
+      "valence": 2.12,
+      "arousal": 3.83,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Damn, my nigga you trippin' We could've been superstars Can't help it, now I'm reminiscing Remember when we was jackin' cars",
+      "valence": 2.45,
+      "arousal": 3.93,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "We could've been superstars Can't help it, now I'm reminiscing Remember when we was jackin' cars Now you better keep your distance",
+      "valence": 2.79,
+      "arousal": 3.41,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Can't help it, now I'm reminiscing Remember when we was jackin' cars Now you better keep your distance 'Cause it's not safe for you (safe for you)",
+      "valence": 2.51,
+      "arousal": 3.49,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Remember when we was jackin' cars Now you better keep your distance 'Cause it's not safe for you (safe for you) You switched like a pussy, lil' bitch",
+      "valence": 2.15,
+      "arousal": 3.69,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Now you better keep your distance 'Cause it's not safe for you (safe for you) You switched like a pussy, lil' bitch Trackhawk with the kit, snatch off on a bitch",
+      "valence": 2.02,
+      "arousal": 3.74,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "'Cause it's not safe for you (safe for you) You switched like a pussy, lil' bitch Trackhawk with the kit, snatch off on a bitch When I slide, night light on the blick",
+      "valence": 2.15,
+      "arousal": 3.63,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "You switched like a pussy, lil' bitch Trackhawk with the kit, snatch off on a bitch When I slide, night light on the blick Bet I'm on my shit when I'm outside",
+      "valence": 2.16,
+      "arousal": 3.63,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Trackhawk with the kit, snatch off on a bitch When I slide, night light on the blick Bet I'm on my shit when I'm outside Zoe done ran down",
+      "valence": 2.3,
+      "arousal": 3.51,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "When I slide, night light on the blick Bet I'm on my shit when I'm outside Zoe done ran down Caught him pants down, nigga you shitted",
+      "valence": 2.22,
+      "arousal": 3.55,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Bet I'm on my shit when I'm outside Zoe done ran down Caught him pants down, nigga you shitted I knew the Perc was fake, but I still ate it",
+      "valence": 2.3,
+      "arousal": 3.62,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Zoe done ran down Caught him pants down, nigga you shitted I knew the Perc was fake, but I still ate it 'Cause I'm a gremlin",
+      "valence": 2.3,
+      "arousal": 3.64,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Caught him pants down, nigga you shitted I knew the Perc was fake, but I still ate it 'Cause I'm a gremlin Yeah, cutthroat business, KTV, backdoor wide open",
+      "valence": 2.42,
+      "arousal": 3.62,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "I knew the Perc was fake, but I still ate it 'Cause I'm a gremlin Yeah, cutthroat business, KTV, backdoor wide open Wait 'til my sniper get live, all you niggas gon' die",
+      "valence": 2.44,
+      "arousal": 3.54,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "'Cause I'm a gremlin Yeah, cutthroat business, KTV, backdoor wide open Wait 'til my sniper get live, all you niggas gon' die Time rollin', bustin' on my opponent",
+      "valence": 2.36,
+      "arousal": 3.56,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Yeah, cutthroat business, KTV, backdoor wide open Wait 'til my sniper get live, all you niggas gon' die Time rollin', bustin' on my opponent No half-steppin', I'm crunchin' my opps totally",
+      "valence": 2.81,
+      "arousal": 3.46,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Wait 'til my sniper get live, all you niggas gon' die Time rollin', bustin' on my opponent No half-steppin', I'm crunchin' my opps totally We was just broke with no motion",
+      "valence": 2.51,
+      "arousal": 3.44,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Time rollin', bustin' on my opponent No half-steppin', I'm crunchin' my opps totally We was just broke with no motion Sleepin' on sofas, creepin' in houses like roaches",
+      "valence": 2.83,
+      "arousal": 3.17,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "No half-steppin', I'm crunchin' my opps totally We was just broke with no motion Sleepin' on sofas, creepin' in houses like roaches I done went cages to stages to cages",
+      "valence": 2.69,
+      "arousal": 3.22,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "We was just broke with no motion Sleepin' on sofas, creepin' in houses like roaches I done went cages to stages to cages Now free me, baby, can't keep me, baby",
+      "valence": 2.4,
+      "arousal": 3.44,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Sleepin' on sofas, creepin' in houses like roaches I done went cages to stages to cages Now free me, baby, can't keep me, baby I beat them cases, they already hate",
+      "valence": 2.17,
+      "arousal": 3.56,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I done went cages to stages to cages Now free me, baby, can't keep me, baby I beat them cases, they already hate When they gon' want me dead when I'm off probation",
+      "valence": 2.18,
+      "arousal": 3.57,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Now free me, baby, can't keep me, baby I beat them cases, they already hate When they gon' want me dead when I'm off probation Oh, y'all think lil' Yak retarded?",
+      "valence": 2.28,
+      "arousal": 3.57,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I beat them cases, they already hate When they gon' want me dead when I'm off probation Oh, y'all think lil' Yak retarded? Y'all ain't seen none yet, I promise",
+      "valence": 2.23,
+      "arousal": 3.46,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "When they gon' want me dead when I'm off probation Oh, y'all think lil' Yak retarded? Y'all ain't seen none yet, I promise Niggas can't take me, niggas can't guard me",
+      "valence": 2.27,
+      "arousal": 3.5,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Oh, y'all think lil' Yak retarded? Y'all ain't seen none yet, I promise Niggas can't take me, niggas can't guard me I be on a fuck-nigga ass like Charmin",
+      "valence": 2.18,
+      "arousal": 3.65,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Y'all ain't seen none yet, I promise Niggas can't take me, niggas can't guard me I be on a fuck-nigga ass like Charmin AK, twenty inch carbons",
+      "valence": 2.26,
+      "arousal": 3.73,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Niggas can't take me, niggas can't guard me I be on a fuck-nigga ass like Charmin AK, twenty inch carbons We could've been superstars (superstars)",
+      "valence": 2.64,
+      "arousal": 3.74,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "I be on a fuck-nigga ass like Charmin AK, twenty inch carbons We could've been superstars (superstars) Remember when we was jackin' cars (jackin' cars)",
+      "valence": 2.71,
+      "arousal": 3.61,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "AK, twenty inch carbons We could've been superstars (superstars) Remember when we was jackin' cars (jackin' cars) Now it's not safe for you (safe for you)",
+      "valence": 2.72,
+      "arousal": 3.39,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "We could've been superstars (superstars) Remember when we was jackin' cars (jackin' cars) Now it's not safe for you (safe for you) You switched like a pussy, lil' bitch",
+      "valence": 2.46,
+      "arousal": 3.73,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Remember when we was jackin' cars (jackin' cars) Now it's not safe for you (safe for you) You switched like a pussy, lil' bitch Damn, my nigga you trippin'",
+      "valence": 1.95,
+      "arousal": 3.81,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Now it's not safe for you (safe for you) You switched like a pussy, lil' bitch Damn, my nigga you trippin' We could've been superstars",
+      "valence": 2.04,
+      "arousal": 3.91,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "You switched like a pussy, lil' bitch Damn, my nigga you trippin' We could've been superstars Can't help it, now I'm reminiscing",
+      "valence": 2.12,
+      "arousal": 3.83,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Damn, my nigga you trippin' We could've been superstars Can't help it, now I'm reminiscing Remember when we was jackin' cars",
+      "valence": 2.45,
+      "arousal": 3.93,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "We could've been superstars Can't help it, now I'm reminiscing Remember when we was jackin' cars Now you better keep your distance",
+      "valence": 2.79,
+      "arousal": 3.41,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Can't help it, now I'm reminiscing Remember when we was jackin' cars Now you better keep your distance 'Cause it's not safe for you (safe for you)",
+      "valence": 2.51,
+      "arousal": 3.49,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Remember when we was jackin' cars Now you better keep your distance 'Cause it's not safe for you (safe for you) You switched like a pussy, lil' bitch",
+      "valence": 2.15,
+      "arousal": 3.69,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Now you better keep your distance 'Cause it's not safe for you (safe for you) You switched like a pussy, lil' bitch Trackhawk with the kit, snatch off on a bitch",
+      "valence": 2.02,
+      "arousal": 3.74,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "'Cause it's not safe for you (safe for you) You switched like a pussy, lil' bitch Trackhawk with the kit, snatch off on a bitch When I slide, night light on the blick",
+      "valence": 2.15,
+      "arousal": 3.63,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "You switched like a pussy, lil' bitch Trackhawk with the kit, snatch off on a bitch When I slide, night light on the blick Bet I'm on my shit when I'm outside",
+      "valence": 2.16,
+      "arousal": 3.63,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Trackhawk with the kit, snatch off on a bitch When I slide, night light on the blick Bet I'm on my shit when I'm outside Zoe done ran down",
+      "valence": 2.3,
+      "arousal": 3.51,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "When I slide, night light on the blick Bet I'm on my shit when I'm outside Zoe done ran down Caught him pants down, nigga you shitted",
+      "valence": 2.22,
+      "arousal": 3.55,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Bet I'm on my shit when I'm outside Zoe done ran down Caught him pants down, nigga you shitted I knew the Perc was fake, but I still ate it",
+      "valence": 2.3,
+      "arousal": 3.62,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Zoe done ran down Caught him pants down, nigga you shitted I knew the Perc was fake, but I still ate it 'Cause I'm a gremlin",
+      "valence": 2.3,
+      "arousal": 3.64,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Caught him pants down, nigga you shitted I knew the Perc was fake, but I still ate it 'Cause I'm a gremlin Yeah, we could be superstars (Super Gremlin)",
+      "valence": 2.9,
+      "arousal": 3.57,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "I knew the Perc was fake, but I still ate it 'Cause I'm a gremlin Yeah, we could be superstars (Super Gremlin) But I'm pretty sure our time is up (now your time is up)",
+      "valence": 2.92,
+      "arousal": 3.49,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "'Cause I'm a gremlin Yeah, we could be superstars (Super Gremlin) But I'm pretty sure our time is up (now your time is up) And so we fell in love with spinnin' drops",
+      "valence": 3.34,
+      "arousal": 3.58,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Yeah, we could be superstars (Super Gremlin) But I'm pretty sure our time is up (now your time is up) And so we fell in love with spinnin' drops Still only a child, but faithful error",
+      "valence": 3.25,
+      "arousal": 3.41,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "But I'm pretty sure our time is up (now your time is up) And so we fell in love with spinnin' drops Still only a child, but faithful error I ain't slimin', I'm grimin'",
+      "valence": 3.15,
+      "arousal": 3.38,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "And so we fell in love with spinnin' drops Still only a child, but faithful error I ain't slimin', I'm grimin' Any way you put it I'm SG with it, I'm Super Gremlin",
+      "valence": 3.16,
+      "arousal": 3.37,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "Still only a child, but faithful error I ain't slimin', I'm grimin' Any way you put it I'm SG with it, I'm Super Gremlin Snatch and grab, sneak and geek",
+      "valence": 2.98,
+      "arousal": 3.29,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "I ain't slimin', I'm grimin' Any way you put it I'm SG with it, I'm Super Gremlin Snatch and grab, sneak and geek Sniper Gang, trust",
+      "valence": 2.8,
+      "arousal": 3.38,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "Any way you put it I'm SG with it, I'm Super Gremlin Snatch and grab, sneak and geek Sniper Gang, trust Nightmare, baby, you know I",
+      "valence": 3.05,
+      "arousal": 3.53,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "Snatch and grab, sneak and geek Sniper Gang, trust Nightmare, baby, you know I I bet you always see me in your dreams",
+      "valence": 3.1,
+      "arousal": 3.45,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "Sniper Gang, trust Nightmare, baby, you know I I bet you always see me in your dreams Glee",
+      "valence": 2.97,
+      "arousal": 3.35,
+      "dominance": 3.17
+    }
+  ]
+}

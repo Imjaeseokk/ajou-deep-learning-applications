@@ -1,0 +1,332 @@
+{
+  "artist": "Luke Bryan",
+  "overall_vad": {
+    "valence": 2.83,
+    "arousal": 3.19,
+    "dominance": 3.13
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Everybody here ain't from here But we're here doin' our thing Lettin' go a little, little by little Sippin' on a frozen drink",
+      "valence": 3.03,
+      "arousal": 3.09,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "But we're here doin' our thing Lettin' go a little, little by little Sippin' on a frozen drink Tiki bars tik'n, pourin' all weekend",
+      "valence": 3.2,
+      "arousal": 3.18,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Lettin' go a little, little by little Sippin' on a frozen drink Tiki bars tik'n, pourin' all weekend Clouds ain't leakin' no rain",
+      "valence": 2.97,
+      "arousal": 2.76,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Sippin' on a frozen drink Tiki bars tik'n, pourin' all weekend Clouds ain't leakin' no rain Two pieces shakin', white caps a-breakin'",
+      "valence": 2.99,
+      "arousal": 2.9,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Tiki bars tik'n, pourin' all weekend Clouds ain't leakin' no rain Two pieces shakin', white caps a-breakin' We ain't feelin' no pain, it goes like",
+      "valence": 2.69,
+      "arousal": 3.13,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Clouds ain't leakin' no rain Two pieces shakin', white caps a-breakin' We ain't feelin' no pain, it goes like One margarita, two margarita, three margarita, shot",
+      "valence": 2.75,
+      "arousal": 3.13,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Two pieces shakin', white caps a-breakin' We ain't feelin' no pain, it goes like One margarita, two margarita, three margarita, shot Don't worry 'bout tomorrow",
+      "valence": 2.8,
+      "arousal": 3.16,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "We ain't feelin' no pain, it goes like One margarita, two margarita, three margarita, shot Don't worry 'bout tomorrow Leave all your sorrow out here on the floatin' dock",
+      "valence": 2.43,
+      "arousal": 3.24,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "One margarita, two margarita, three margarita, shot Don't worry 'bout tomorrow Leave all your sorrow out here on the floatin' dock When that sun lays down, we'll be on our way",
+      "valence": 2.87,
+      "arousal": 3.3,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Don't worry 'bout tomorrow Leave all your sorrow out here on the floatin' dock When that sun lays down, we'll be on our way One more barefoot round, one more last chance to say",
+      "valence": 2.82,
+      "arousal": 3.26,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Leave all your sorrow out here on the floatin' dock When that sun lays down, we'll be on our way One more barefoot round, one more last chance to say \"Hey SeÃ±orita, don't you think we need",
+      "valence": 2.7,
+      "arousal": 3.32,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "When that sun lays down, we'll be on our way One more barefoot round, one more last chance to say \"Hey SeÃ±orita, don't you think we need A salt and a Buffett song?\"",
+      "valence": 3.02,
+      "arousal": 3.18,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "One more barefoot round, one more last chance to say \"Hey SeÃ±orita, don't you think we need A salt and a Buffett song?\" One margarita, two margarita, three margarita",
+      "valence": 3.0,
+      "arousal": 3.23,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "\"Hey SeÃ±orita, don't you think we need A salt and a Buffett song?\" One margarita, two margarita, three margarita We'll be gone",
+      "valence": 2.89,
+      "arousal": 3.26,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "A salt and a Buffett song?\" One margarita, two margarita, three margarita We'll be gone Ice blue skies, shades on the eyes",
+      "valence": 3.04,
+      "arousal": 3.23,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "One margarita, two margarita, three margarita We'll be gone Ice blue skies, shades on the eyes To tuck the bloodshot away",
+      "valence": 2.93,
+      "arousal": 3.21,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "We'll be gone Ice blue skies, shades on the eyes To tuck the bloodshot away Hair of the dog, shouldn't take long",
+      "valence": 2.92,
+      "arousal": 3.05,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Ice blue skies, shades on the eyes To tuck the bloodshot away Hair of the dog, shouldn't take long But who cares, we got all day",
+      "valence": 3.05,
+      "arousal": 3.04,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "To tuck the bloodshot away Hair of the dog, shouldn't take long But who cares, we got all day Palm trees a-leanin', sunburn screamin'",
+      "valence": 2.6,
+      "arousal": 3.17,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Hair of the dog, shouldn't take long But who cares, we got all day Palm trees a-leanin', sunburn screamin' But we'll all be alright, after",
+      "valence": 2.91,
+      "arousal": 3.03,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "But who cares, we got all day Palm trees a-leanin', sunburn screamin' But we'll all be alright, after One margarita, two margarita, three margarita, shot",
+      "valence": 2.94,
+      "arousal": 3.16,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Palm trees a-leanin', sunburn screamin' But we'll all be alright, after One margarita, two margarita, three margarita, shot Don't worry 'bout tomorrow",
+      "valence": 2.95,
+      "arousal": 3.19,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "But we'll all be alright, after One margarita, two margarita, three margarita, shot Don't worry 'bout tomorrow Leave all your sorrow out here on the floatin' dock",
+      "valence": 2.89,
+      "arousal": 3.28,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "One margarita, two margarita, three margarita, shot Don't worry 'bout tomorrow Leave all your sorrow out here on the floatin' dock When that sun lays down, we'll be on our way",
+      "valence": 2.87,
+      "arousal": 3.3,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Don't worry 'bout tomorrow Leave all your sorrow out here on the floatin' dock When that sun lays down, we'll be on our way One more barefoot round, one more last chance to say",
+      "valence": 2.82,
+      "arousal": 3.26,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Leave all your sorrow out here on the floatin' dock When that sun lays down, we'll be on our way One more barefoot round, one more last chance to say \"Hey SeÃ±orita, don't you think we need",
+      "valence": 2.7,
+      "arousal": 3.32,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "When that sun lays down, we'll be on our way One more barefoot round, one more last chance to say \"Hey SeÃ±orita, don't you think we need A salt and a Marley song?\"",
+      "valence": 3.03,
+      "arousal": 3.19,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "One more barefoot round, one more last chance to say \"Hey SeÃ±orita, don't you think we need A salt and a Marley song?\" One margarita, two margarita, three margarita",
+      "valence": 3.03,
+      "arousal": 3.21,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "\"Hey SeÃ±orita, don't you think we need A salt and a Marley song?\" One margarita, two margarita, three margarita We'll be gone",
+      "valence": 2.91,
+      "arousal": 3.23,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "A salt and a Marley song?\" One margarita, two margarita, three margarita We'll be gone We'll be gone",
+      "valence": 2.7,
+      "arousal": 3.22,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "One margarita, two margarita, three margarita We'll be gone We'll be gone Tiki bars tik'n, pourin' all weekend",
+      "valence": 2.83,
+      "arousal": 3.26,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "We'll be gone We'll be gone Tiki bars tik'n, pourin' all weekend Clouds ain't leakin' no rain",
+      "valence": 2.54,
+      "arousal": 3.19,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "We'll be gone Tiki bars tik'n, pourin' all weekend Clouds ain't leakin' no rain Two pieces shakin', white caps a-breakin'",
+      "valence": 2.99,
+      "arousal": 3.14,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Tiki bars tik'n, pourin' all weekend Clouds ain't leakin' no rain Two pieces shakin', white caps a-breakin' We ain't feelin' no pain, feelin' no pain",
+      "valence": 2.68,
+      "arousal": 3.2,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Clouds ain't leakin' no rain Two pieces shakin', white caps a-breakin' We ain't feelin' no pain, feelin' no pain It goes like",
+      "valence": 2.5,
+      "arousal": 3.1,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Two pieces shakin', white caps a-breakin' We ain't feelin' no pain, feelin' no pain It goes like One margarita, two margarita, three margarita, shot",
+      "valence": 2.66,
+      "arousal": 3.18,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "We ain't feelin' no pain, feelin' no pain It goes like One margarita, two margarita, three margarita, shot Don't worry 'bout tomorrow",
+      "valence": 2.64,
+      "arousal": 3.06,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "It goes like One margarita, two margarita, three margarita, shot Don't worry 'bout tomorrow Leave all your sorrow out here on the floatin' dock",
+      "valence": 2.74,
+      "arousal": 3.23,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "One margarita, two margarita, three margarita, shot Don't worry 'bout tomorrow Leave all your sorrow out here on the floatin' dock When that sun lays down, we'll be on our way",
+      "valence": 2.87,
+      "arousal": 3.3,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Don't worry 'bout tomorrow Leave all your sorrow out here on the floatin' dock When that sun lays down, we'll be on our way One more barefoot round, one more last chance to say",
+      "valence": 2.82,
+      "arousal": 3.26,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Leave all your sorrow out here on the floatin' dock When that sun lays down, we'll be on our way One more barefoot round, one more last chance to say \"Hey SeÃ±orita, don't you think we need",
+      "valence": 2.7,
+      "arousal": 3.32,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "When that sun lays down, we'll be on our way One more barefoot round, one more last chance to say \"Hey SeÃ±orita, don't you think we need A salt and a Chesney song?\"",
+      "valence": 3.0,
+      "arousal": 3.17,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "One more barefoot round, one more last chance to say \"Hey SeÃ±orita, don't you think we need A salt and a Chesney song?\" One margarita, two margarita, three margarita",
+      "valence": 3.0,
+      "arousal": 3.19,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "\"Hey SeÃ±orita, don't you think we need A salt and a Chesney song?\" One margarita, two margarita, three margarita We'll be gone",
+      "valence": 2.89,
+      "arousal": 3.22,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "A salt and a Chesney song?\" One margarita, two margarita, three margarita We'll be gone We'll be gone",
+      "valence": 2.67,
+      "arousal": 3.22,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "One margarita, two margarita, three margarita We'll be gone We'll be gone We'll be gone",
+      "valence": 2.41,
+      "arousal": 3.3,
+      "dominance": 2.71
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "artist": "Jon Pardi",
+  "overall_vad": {
+    "valence": 3.77,
+    "arousal": 3.77,
+    "dominance": 3.38
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I wanna sweep you off your feet tonight I wanna love you and hold you tight Spin you around on some old dance floor Act like we never met before for fun, 'cause",
+      "valence": 3.92,
+      "arousal": 4.14,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I wanna love you and hold you tight Spin you around on some old dance floor Act like we never met before for fun, 'cause You're the one I want, you're the one I need",
+      "valence": 3.93,
+      "arousal": 4.11,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Spin you around on some old dance floor Act like we never met before for fun, 'cause You're the one I want, you're the one I need Baby, if I was a king, ah, you would be my queen",
+      "valence": 3.67,
+      "arousal": 3.76,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Act like we never met before for fun, 'cause You're the one I want, you're the one I need Baby, if I was a king, ah, you would be my queen You're the rock in my roll",
+      "valence": 3.71,
+      "arousal": 3.85,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "You're the one I want, you're the one I need Baby, if I was a king, ah, you would be my queen You're the rock in my roll You're good for my soul, it's true",
+      "valence": 3.88,
+      "arousal": 3.67,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Baby, if I was a king, ah, you would be my queen You're the rock in my roll You're good for my soul, it's true I'm head over boots for you",
+      "valence": 3.82,
+      "arousal": 3.75,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "You're the rock in my roll You're good for my soul, it's true I'm head over boots for you The way you sparkle like a diamond ring",
+      "valence": 3.85,
+      "arousal": 3.77,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "You're good for my soul, it's true I'm head over boots for you The way you sparkle like a diamond ring Maybe one day we can make it a thing",
+      "valence": 3.65,
+      "arousal": 3.7,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I'm head over boots for you The way you sparkle like a diamond ring Maybe one day we can make it a thing Test time and grow old together",
+      "valence": 3.54,
+      "arousal": 3.67,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "The way you sparkle like a diamond ring Maybe one day we can make it a thing Test time and grow old together Rock in our chairs and talk about the weather, yeah",
+      "valence": 3.52,
+      "arousal": 3.38,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Maybe one day we can make it a thing Test time and grow old together Rock in our chairs and talk about the weather, yeah So, bring it on in for that angel kiss",
+      "valence": 3.67,
+      "arousal": 3.51,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Test time and grow old together Rock in our chairs and talk about the weather, yeah So, bring it on in for that angel kiss Put that feel good on my lips, 'cause",
+      "valence": 3.87,
+      "arousal": 3.69,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Rock in our chairs and talk about the weather, yeah So, bring it on in for that angel kiss Put that feel good on my lips, 'cause You're the one I want, you're the one I need",
+      "valence": 3.97,
+      "arousal": 3.82,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "So, bring it on in for that angel kiss Put that feel good on my lips, 'cause You're the one I want, you're the one I need Baby, if I was a king, ah, you would be my queen",
+      "valence": 4.02,
+      "arousal": 3.96,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Put that feel good on my lips, 'cause You're the one I want, you're the one I need Baby, if I was a king, ah, you would be my queen You're the rock in my roll",
+      "valence": 3.92,
+      "arousal": 3.85,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "You're the one I want, you're the one I need Baby, if I was a king, ah, you would be my queen You're the rock in my roll You're good for my soul, it's true",
+      "valence": 3.88,
+      "arousal": 3.67,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Baby, if I was a king, ah, you would be my queen You're the rock in my roll You're good for my soul, it's true I'm head over boots for you",
+      "valence": 3.82,
+      "arousal": 3.75,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "You're the rock in my roll You're good for my soul, it's true I'm head over boots for you Yeah, I'm here to pick you up",
+      "valence": 3.83,
+      "arousal": 3.75,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "You're good for my soul, it's true I'm head over boots for you Yeah, I'm here to pick you up And I hope I don't let you down, no, 'cause",
+      "valence": 3.45,
+      "arousal": 3.56,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I'm head over boots for you Yeah, I'm here to pick you up And I hope I don't let you down, no, 'cause You're the one I want, you're the one I need",
+      "valence": 3.3,
+      "arousal": 3.7,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Yeah, I'm here to pick you up And I hope I don't let you down, no, 'cause You're the one I want, you're the one I need Baby, if I was a king, ah, you would be my queen",
+      "valence": 3.47,
+      "arousal": 3.61,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "And I hope I don't let you down, no, 'cause You're the one I want, you're the one I need Baby, if I was a king, ah, you would be my queen You're the rock in my roll",
+      "valence": 3.53,
+      "arousal": 3.7,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "You're the one I want, you're the one I need Baby, if I was a king, ah, you would be my queen You're the rock in my roll You're good for my soul, it's true",
+      "valence": 3.88,
+      "arousal": 3.67,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Baby, if I was a king, ah, you would be my queen You're the rock in my roll You're good for my soul, it's true I'm head over boots for you",
+      "valence": 3.82,
+      "arousal": 3.75,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "You're the rock in my roll You're good for my soul, it's true I'm head over boots for you You're the one I want, you're the one I need",
+      "valence": 3.84,
+      "arousal": 3.76,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "You're good for my soul, it's true I'm head over boots for you You're the one I want, you're the one I need Baby, if I was a king, ah, you would be my queen",
+      "valence": 3.77,
+      "arousal": 3.65,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I'm head over boots for you You're the one I want, you're the one I need Baby, if I was a king, ah, you would be my queen You're the rock in my roll",
+      "valence": 3.87,
+      "arousal": 3.89,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "You're the one I want, you're the one I need Baby, if I was a king, ah, you would be my queen You're the rock in my roll You're good for my soul, it's true",
+      "valence": 3.88,
+      "arousal": 3.67,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Baby, if I was a king, ah, you would be my queen You're the rock in my roll You're good for my soul, it's true I'm head over boots for you",
+      "valence": 3.82,
+      "arousal": 3.75,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "You're the rock in my roll You're good for my soul, it's true I'm head over boots for you I wanna sweep you off your feet tonight",
+      "valence": 3.75,
+      "arousal": 3.94,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "You're good for my soul, it's true I'm head over boots for you I wanna sweep you off your feet tonight I wanna love you and hold you tight",
+      "valence": 3.98,
+      "arousal": 4.07,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I'm head over boots for you I wanna sweep you off your feet tonight I wanna love you and hold you tight Spin you around on some old dance floor",
+      "valence": 3.84,
+      "arousal": 4.17,
+      "dominance": 3.43
+    }
+  ]
+}

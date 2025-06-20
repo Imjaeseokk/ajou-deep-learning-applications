@@ -1,0 +1,297 @@
+{
+  "artist": "Ciara",
+  "overall_vad": {
+    "valence": 3.51,
+    "arousal": 3.85,
+    "dominance": 3.43
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Ah, oh, ah, ah (EarDrummers) Yeah (Mike Will Made-It) Like that No, right there",
+      "valence": 2.8,
+      "arousal": 3.18,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Yeah (Mike Will Made-It) Like that No, right there I'm just having fun",
+      "valence": 3.4,
+      "arousal": 3.3,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Like that No, right there I'm just having fun I hope you're having fun too",
+      "valence": 3.75,
+      "arousal": 3.56,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "No, right there I'm just having fun I hope you're having fun too Listen to this",
+      "valence": 3.64,
+      "arousal": 3.43,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I'm just having fun I hope you're having fun too Listen to this My body is your party, baby",
+      "valence": 3.96,
+      "arousal": 3.74,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I hope you're having fun too Listen to this My body is your party, baby Nobody's invited but you, baby",
+      "valence": 3.56,
+      "arousal": 3.63,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Listen to this My body is your party, baby Nobody's invited but you, baby I can do it slow now, tell me what you want",
+      "valence": 2.92,
+      "arousal": 3.42,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "My body is your party, baby Nobody's invited but you, baby I can do it slow now, tell me what you want Baby, put your phone down, you should turn it off",
+      "valence": 2.82,
+      "arousal": 3.48,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Nobody's invited but you, baby I can do it slow now, tell me what you want Baby, put your phone down, you should turn it off 'Cause tonight it's going down, tell your boys it's going down",
+      "valence": 2.77,
+      "arousal": 3.3,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I can do it slow now, tell me what you want Baby, put your phone down, you should turn it off 'Cause tonight it's going down, tell your boys it's going down We in the zone now, don't stop, ooh",
+      "valence": 2.73,
+      "arousal": 3.43,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Baby, put your phone down, you should turn it off 'Cause tonight it's going down, tell your boys it's going down We in the zone now, don't stop, ooh You can't keep your hands off me, touch me right there, rock my body",
+      "valence": 2.85,
+      "arousal": 3.78,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "'Cause tonight it's going down, tell your boys it's going down We in the zone now, don't stop, ooh You can't keep your hands off me, touch me right there, rock my body I can't keep my hands off you, your body is my party",
+      "valence": 2.98,
+      "arousal": 3.86,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "We in the zone now, don't stop, ooh You can't keep your hands off me, touch me right there, rock my body I can't keep my hands off you, your body is my party I'm doing this little dance for you",
+      "valence": 3.23,
+      "arousal": 4.04,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "You can't keep your hands off me, touch me right there, rock my body I can't keep my hands off you, your body is my party I'm doing this little dance for you You got me so excited",
+      "valence": 3.78,
+      "arousal": 4.24,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I can't keep my hands off you, your body is my party I'm doing this little dance for you You got me so excited Now it's just me and you",
+      "valence": 3.73,
+      "arousal": 4.0,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I'm doing this little dance for you You got me so excited Now it's just me and you Your body's my party, let's get it started, oh",
+      "valence": 3.81,
+      "arousal": 3.86,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "You got me so excited Now it's just me and you Your body's my party, let's get it started, oh Boy, you should know that your love is always on my mind",
+      "valence": 4.07,
+      "arousal": 4.18,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Now it's just me and you Your body's my party, let's get it started, oh Boy, you should know that your love is always on my mind I'm not gonna fight it, I want it all the time",
+      "valence": 3.73,
+      "arousal": 3.94,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Your body's my party, let's get it started, oh Boy, you should know that your love is always on my mind I'm not gonna fight it, I want it all the time Boy, you should know that your love is always on my mind",
+      "valence": 3.85,
+      "arousal": 4.07,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Boy, you should know that your love is always on my mind I'm not gonna fight it, I want it all the time Boy, you should know that your love is always on my mind And I can't it deny it, I want you, I'm on you",
+      "valence": 3.76,
+      "arousal": 3.98,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I'm not gonna fight it, I want it all the time Boy, you should know that your love is always on my mind And I can't it deny it, I want you, I'm on you I can't lie, I won't lie, it's amazing",
+      "valence": 3.75,
+      "arousal": 4.13,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Boy, you should know that your love is always on my mind And I can't it deny it, I want you, I'm on you I can't lie, I won't lie, it's amazing My faces, the places, you're taking me",
+      "valence": 4.06,
+      "arousal": 4.21,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "And I can't it deny it, I want you, I'm on you I can't lie, I won't lie, it's amazing My faces, the places, you're taking me Baby, take your time now, there's no need to rush",
+      "valence": 3.5,
+      "arousal": 3.99,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I can't lie, I won't lie, it's amazing My faces, the places, you're taking me Baby, take your time now, there's no need to rush We can go another round, if that's what you want",
+      "valence": 3.7,
+      "arousal": 3.75,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "My faces, the places, you're taking me Baby, take your time now, there's no need to rush We can go another round, if that's what you want 'Cause tonight is going down, yeah, you know it's going down",
+      "valence": 3.1,
+      "arousal": 3.4,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Baby, take your time now, there's no need to rush We can go another round, if that's what you want 'Cause tonight is going down, yeah, you know it's going down We in the zone now, don't stop, ooh-oh",
+      "valence": 2.89,
+      "arousal": 3.3,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "We can go another round, if that's what you want 'Cause tonight is going down, yeah, you know it's going down We in the zone now, don't stop, ooh-oh You can't keep your hands off me, touch me right there, rock my body",
+      "valence": 2.8,
+      "arousal": 3.95,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "'Cause tonight is going down, yeah, you know it's going down We in the zone now, don't stop, ooh-oh You can't keep your hands off me, touch me right there, rock my body I can't keep my hands off you, your body is my party",
+      "valence": 2.86,
+      "arousal": 4.02,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "We in the zone now, don't stop, ooh-oh You can't keep your hands off me, touch me right there, rock my body I can't keep my hands off you, your body is my party I'm doing this little dance for you",
+      "valence": 3.18,
+      "arousal": 4.04,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "You can't keep your hands off me, touch me right there, rock my body I can't keep my hands off you, your body is my party I'm doing this little dance for you You got me so excited",
+      "valence": 3.78,
+      "arousal": 4.24,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I can't keep my hands off you, your body is my party I'm doing this little dance for you You got me so excited Now it's just me and you",
+      "valence": 3.73,
+      "arousal": 4.0,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I'm doing this little dance for you You got me so excited Now it's just me and you Your body's my party, let's get it started, oh",
+      "valence": 3.81,
+      "arousal": 3.86,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "You got me so excited Now it's just me and you Your body's my party, let's get it started, oh Boy, you should know that your love is always on my mind",
+      "valence": 4.07,
+      "arousal": 4.18,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Now it's just me and you Your body's my party, let's get it started, oh Boy, you should know that your love is always on my mind I'm not gonna fight it, I want it all the time",
+      "valence": 3.73,
+      "arousal": 3.94,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Your body's my party, let's get it started, oh Boy, you should know that your love is always on my mind I'm not gonna fight it, I want it all the time Boy, you should know that your love is always on my mind",
+      "valence": 3.85,
+      "arousal": 4.07,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Boy, you should know that your love is always on my mind I'm not gonna fight it, I want it all the time Boy, you should know that your love is always on my mind And I can't deny it, I want you, I'm on you",
+      "valence": 3.79,
+      "arousal": 4.01,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I'm not gonna fight it, I want it all the time Boy, you should know that your love is always on my mind And I can't deny it, I want you, I'm on you The things I wanna do to you",
+      "valence": 3.52,
+      "arousal": 4.08,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Boy, you should know that your love is always on my mind And I can't deny it, I want you, I'm on you The things I wanna do to you My body's calling you",
+      "valence": 3.84,
+      "arousal": 4.18,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "And I can't deny it, I want you, I'm on you The things I wanna do to you My body's calling you I'm having so much fun with you",
+      "valence": 3.86,
+      "arousal": 4.22,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "The things I wanna do to you My body's calling you I'm having so much fun with you Now it's just me and you",
+      "valence": 3.83,
+      "arousal": 3.79,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "My body's calling you I'm having so much fun with you Now it's just me and you Your body's my party, let's get it started, oh",
+      "valence": 4.02,
+      "arousal": 3.93,
+      "dominance": 3.42
+    }
+  ]
+}

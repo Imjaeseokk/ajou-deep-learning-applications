@@ -1,0 +1,248 @@
+{
+  "artist": "Brad Paisley",
+  "overall_vad": {
+    "valence": 3.42,
+    "arousal": 3.4,
+    "dominance": 3.38
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Well, I won two dollars on a scratch-off ticket So I went back to the counter and I bought two more with it And I won ten bucks and that was just right So I bought a six-pack and a bag of ice",
+      "valence": 3.54,
+      "arousal": 3.28,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "So I went back to the counter and I bought two more with it And I won ten bucks and that was just right So I bought a six-pack and a bag of ice Ya know even if our ship came in",
+      "valence": 3.53,
+      "arousal": 3.32,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "And I won ten bucks and that was just right So I bought a six-pack and a bag of ice Ya know even if our ship came in And this is all we got",
+      "valence": 3.49,
+      "arousal": 3.31,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "So I bought a six-pack and a bag of ice Ya know even if our ship came in And this is all we got It ain't like we really need a million dollar yacht...'",
+      "valence": 3.12,
+      "arousal": 3.17,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Ya know even if our ship came in And this is all we got It ain't like we really need a million dollar yacht...' Cause",
+      "valence": 2.93,
+      "arousal": 3.12,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "And this is all we got It ain't like we really need a million dollar yacht...' Cause We got an inner tube",
+      "valence": 3.07,
+      "arousal": 3.2,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "It ain't like we really need a million dollar yacht...' Cause We got an inner tube We got a trailer hitch",
+      "valence": 3.09,
+      "arousal": 3.24,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Cause We got an inner tube We got a trailer hitch We're near the river and far from rich",
+      "valence": 3.35,
+      "arousal": 3.19,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "We got an inner tube We got a trailer hitch We're near the river and far from rich But we have got each other and gas in the tank",
+      "valence": 3.27,
+      "arousal": 3.19,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "We got a trailer hitch We're near the river and far from rich But we have got each other and gas in the tank We're laughing all the way",
+      "valence": 3.74,
+      "arousal": 3.61,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "We're near the river and far from rich But we have got each other and gas in the tank We're laughing all the way To the river bank",
+      "valence": 3.81,
+      "arousal": 3.63,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "But we have got each other and gas in the tank We're laughing all the way To the river bank Still, can you imagine if we ever struck it",
+      "valence": 3.64,
+      "arousal": 3.62,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "We're laughing all the way To the river bank Still, can you imagine if we ever struck it I'd go shoot tequila, take a lime and suck it",
+      "valence": 3.69,
+      "arousal": 3.77,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "To the river bank Still, can you imagine if we ever struck it I'd go shoot tequila, take a lime and suck it And we'd tell our bosses they can do the same",
+      "valence": 3.08,
+      "arousal": 3.28,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Still, can you imagine if we ever struck it I'd go shoot tequila, take a lime and suck it And we'd tell our bosses they can do the same We'll find a big cruise ship and buy the whole dang thing",
+      "valence": 2.91,
+      "arousal": 3.56,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I'd go shoot tequila, take a lime and suck it And we'd tell our bosses they can do the same We'll find a big cruise ship and buy the whole dang thing We'd sail around the world and go to shore in a dingy",
+      "valence": 3.01,
+      "arousal": 3.33,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "And we'd tell our bosses they can do the same We'll find a big cruise ship and buy the whole dang thing We'd sail around the world and go to shore in a dingy But 'til that dream comes true, why don't ya grab your bikini...",
+      "valence": 3.09,
+      "arousal": 3.47,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "We'll find a big cruise ship and buy the whole dang thing We'd sail around the world and go to shore in a dingy But 'til that dream comes true, why don't ya grab your bikini... 'Cause",
+      "valence": 3.08,
+      "arousal": 3.5,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "We'd sail around the world and go to shore in a dingy But 'til that dream comes true, why don't ya grab your bikini... 'Cause We got an inner tube",
+      "valence": 3.28,
+      "arousal": 3.4,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "But 'til that dream comes true, why don't ya grab your bikini... 'Cause We got an inner tube We got a trailer hitch",
+      "valence": 3.22,
+      "arousal": 3.36,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "'Cause We got an inner tube We got a trailer hitch We're near the river and far from rich",
+      "valence": 3.34,
+      "arousal": 3.18,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "We got an inner tube We got a trailer hitch We're near the river and far from rich But we have got each other and gas in the tank",
+      "valence": 3.27,
+      "arousal": 3.19,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "We got a trailer hitch We're near the river and far from rich But we have got each other and gas in the tank We're laughing all the way",
+      "valence": 3.74,
+      "arousal": 3.61,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "We're near the river and far from rich But we have got each other and gas in the tank We're laughing all the way To the river bank",
+      "valence": 3.81,
+      "arousal": 3.63,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "But we have got each other and gas in the tank We're laughing all the way To the river bank However it goes (whatever happens)",
+      "valence": 3.87,
+      "arousal": 3.71,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "We're laughing all the way To the river bank However it goes (whatever happens) We've got it made (in these shades)",
+      "valence": 3.98,
+      "arousal": 3.8,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "To the river bank However it goes (whatever happens) We've got it made (in these shades) 'Cause, baby, we can float (behind this boat)",
+      "valence": 3.3,
+      "arousal": 3.37,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "However it goes (whatever happens) We've got it made (in these shades) 'Cause, baby, we can float (behind this boat) And we can ride a wave",
+      "valence": 3.47,
+      "arousal": 3.44,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "We've got it made (in these shades) 'Cause, baby, we can float (behind this boat) And we can ride a wave We got an inner tube",
+      "valence": 3.52,
+      "arousal": 3.41,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "'Cause, baby, we can float (behind this boat) And we can ride a wave We got an inner tube We got a trailer hitch",
+      "valence": 3.38,
+      "arousal": 3.21,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "And we can ride a wave We got an inner tube We got a trailer hitch We're near the river and far from rich",
+      "valence": 3.46,
+      "arousal": 3.2,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "We got an inner tube We got a trailer hitch We're near the river and far from rich But we have got each other and gas in the tank",
+      "valence": 3.27,
+      "arousal": 3.19,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "We got a trailer hitch We're near the river and far from rich But we have got each other and gas in the tank And it's a beautiful day, we're laughing all the way",
+      "valence": 3.91,
+      "arousal": 3.59,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "We're near the river and far from rich But we have got each other and gas in the tank And it's a beautiful day, we're laughing all the way To the river bank",
+      "valence": 3.88,
+      "arousal": 3.55,
+      "dominance": 3.45
+    }
+  ]
+}

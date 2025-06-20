@@ -1,0 +1,521 @@
+{
+  "artist": "Taylor Swift",
+  "overall_vad": {
+    "valence": 3.09,
+    "arousal": 3.37,
+    "dominance": 3.14
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "This ain't for the best My reputation's never been worse, so You must like me for me We can't make any promises",
+      "valence": 2.71,
+      "arousal": 3.33,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "My reputation's never been worse, so You must like me for me We can't make any promises Now can we, babe?",
+      "valence": 3.32,
+      "arousal": 3.28,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "You must like me for me We can't make any promises Now can we, babe? But you can make me a drink",
+      "valence": 3.37,
+      "arousal": 3.28,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "We can't make any promises Now can we, babe? But you can make me a drink Dive bar on the East Side, where you at?",
+      "valence": 2.87,
+      "arousal": 3.24,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Now can we, babe? But you can make me a drink Dive bar on the East Side, where you at? Phone lights up my nightstand in the black",
+      "valence": 3.12,
+      "arousal": 3.34,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "But you can make me a drink Dive bar on the East Side, where you at? Phone lights up my nightstand in the black Come here; you can meet me in the back",
+      "valence": 3.15,
+      "arousal": 3.25,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Dive bar on the East Side, where you at? Phone lights up my nightstand in the black Come here; you can meet me in the back Dark jeans and your Nikes, look at you",
+      "valence": 3.06,
+      "arousal": 3.37,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Phone lights up my nightstand in the black Come here; you can meet me in the back Dark jeans and your Nikes, look at you Oh, damn, never seen that color blue",
+      "valence": 3.06,
+      "arousal": 3.71,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Come here; you can meet me in the back Dark jeans and your Nikes, look at you Oh, damn, never seen that color blue Just think of the fun things we could do",
+      "valence": 3.59,
+      "arousal": 3.79,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Dark jeans and your Nikes, look at you Oh, damn, never seen that color blue Just think of the fun things we could do 'Cause I like you",
+      "valence": 3.77,
+      "arousal": 3.91,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Oh, damn, never seen that color blue Just think of the fun things we could do 'Cause I like you This ain't for the best",
+      "valence": 3.05,
+      "arousal": 3.77,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Just think of the fun things we could do 'Cause I like you This ain't for the best My reputation's never been worse, so",
+      "valence": 3.33,
+      "arousal": 3.65,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "'Cause I like you This ain't for the best My reputation's never been worse, so You must like me for me",
+      "valence": 3.28,
+      "arousal": 3.5,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "This ain't for the best My reputation's never been worse, so You must like me for me Yeah, I want you",
+      "valence": 3.05,
+      "arousal": 3.71,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "My reputation's never been worse, so You must like me for me Yeah, I want you We can't make any promises",
+      "valence": 3.39,
+      "arousal": 3.59,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "You must like me for me Yeah, I want you We can't make any promises Now can we, babe?",
+      "valence": 3.45,
+      "arousal": 3.68,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Yeah, I want you We can't make any promises Now can we, babe? But you can make me a drink",
+      "valence": 3.04,
+      "arousal": 3.55,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "We can't make any promises Now can we, babe? But you can make me a drink Is it cool that I said all that?",
+      "valence": 2.91,
+      "arousal": 3.26,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Now can we, babe? But you can make me a drink Is it cool that I said all that? Is it chill that you're in my head?",
+      "valence": 2.92,
+      "arousal": 3.29,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "But you can make me a drink Is it cool that I said all that? Is it chill that you're in my head? 'Cause I know that it's delicate (Delicate)",
+      "valence": 3.09,
+      "arousal": 3.19,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Is it cool that I said all that? Is it chill that you're in my head? 'Cause I know that it's delicate (Delicate) Is it cool that I said all that?",
+      "valence": 2.96,
+      "arousal": 3.18,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Is it chill that you're in my head? 'Cause I know that it's delicate (Delicate) Is it cool that I said all that? Is it too soon to do this yet?",
+      "valence": 2.91,
+      "arousal": 3.17,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "'Cause I know that it's delicate (Delicate) Is it cool that I said all that? Is it too soon to do this yet? 'Cause I know that it's delicate",
+      "valence": 3.03,
+      "arousal": 3.14,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Is it cool that I said all that? Is it too soon to do this yet? 'Cause I know that it's delicate Isn't it, isn't it, isn't it?",
+      "valence": 2.94,
+      "arousal": 3.21,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Is it too soon to do this yet? 'Cause I know that it's delicate Isn't it, isn't it, isn't it? Isn't it?",
+      "valence": 2.91,
+      "arousal": 3.15,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "'Cause I know that it's delicate Isn't it, isn't it, isn't it? Isn't it? Isn't it, isn't it, isn't it?",
+      "valence": 2.83,
+      "arousal": 3.17,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Isn't it, isn't it, isn't it? Isn't it? Isn't it, isn't it, isn't it? Isn't it delicate?",
+      "valence": 3.0,
+      "arousal": 3.01,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Isn't it? Isn't it, isn't it, isn't it? Isn't it delicate? Third floor on the West Side, me and you",
+      "valence": 3.11,
+      "arousal": 2.97,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Isn't it, isn't it, isn't it? Isn't it delicate? Third floor on the West Side, me and you Handsome, you're a mansion with a view",
+      "valence": 3.28,
+      "arousal": 3.07,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Isn't it delicate? Third floor on the West Side, me and you Handsome, you're a mansion with a view Do the girls back home touch you like I do?",
+      "valence": 3.26,
+      "arousal": 3.16,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Third floor on the West Side, me and you Handsome, you're a mansion with a view Do the girls back home touch you like I do? Long night with your hands up in my hair",
+      "valence": 3.41,
+      "arousal": 3.6,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Handsome, you're a mansion with a view Do the girls back home touch you like I do? Long night with your hands up in my hair Echoes of your footsteps on the stairs",
+      "valence": 3.19,
+      "arousal": 3.59,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Do the girls back home touch you like I do? Long night with your hands up in my hair Echoes of your footsteps on the stairs Stay here, honey, I don't want to share",
+      "valence": 2.75,
+      "arousal": 3.39,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Long night with your hands up in my hair Echoes of your footsteps on the stairs Stay here, honey, I don't want to share 'Cause I like you",
+      "valence": 3.03,
+      "arousal": 3.34,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Echoes of your footsteps on the stairs Stay here, honey, I don't want to share 'Cause I like you This ain't for the best",
+      "valence": 2.7,
+      "arousal": 3.41,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Stay here, honey, I don't want to share 'Cause I like you This ain't for the best My reputation's never been worse, so",
+      "valence": 2.45,
+      "arousal": 3.41,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "'Cause I like you This ain't for the best My reputation's never been worse, so You must like me for me",
+      "valence": 3.28,
+      "arousal": 3.5,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "This ain't for the best My reputation's never been worse, so You must like me for me Yeah, I want you",
+      "valence": 3.05,
+      "arousal": 3.71,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "My reputation's never been worse, so You must like me for me Yeah, I want you We can't make any promises",
+      "valence": 3.39,
+      "arousal": 3.59,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "You must like me for me Yeah, I want you We can't make any promises Now can we, babe?",
+      "valence": 3.45,
+      "arousal": 3.68,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Yeah, I want you We can't make any promises Now can we, babe? But you can make me a drink",
+      "valence": 3.04,
+      "arousal": 3.55,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "We can't make any promises Now can we, babe? But you can make me a drink Is it cool that I said all that?",
+      "valence": 2.91,
+      "arousal": 3.26,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Now can we, babe? But you can make me a drink Is it cool that I said all that? Is it chill that you're in my head?",
+      "valence": 2.92,
+      "arousal": 3.29,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "But you can make me a drink Is it cool that I said all that? Is it chill that you're in my head? 'Cause I know that it's delicate (Delicate)",
+      "valence": 3.09,
+      "arousal": 3.19,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Is it cool that I said all that? Is it chill that you're in my head? 'Cause I know that it's delicate (Delicate) Is it cool that I said all that?",
+      "valence": 2.96,
+      "arousal": 3.18,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Is it chill that you're in my head? 'Cause I know that it's delicate (Delicate) Is it cool that I said all that? Is it too soon to do this yet?",
+      "valence": 2.91,
+      "arousal": 3.17,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "'Cause I know that it's delicate (Delicate) Is it cool that I said all that? Is it too soon to do this yet? 'Cause I know that it's delicate",
+      "valence": 3.03,
+      "arousal": 3.14,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Is it cool that I said all that? Is it too soon to do this yet? 'Cause I know that it's delicate Isn't it, isn't it, isn't it?",
+      "valence": 2.94,
+      "arousal": 3.21,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Is it too soon to do this yet? 'Cause I know that it's delicate Isn't it, isn't it, isn't it? Isn't it?",
+      "valence": 2.91,
+      "arousal": 3.15,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "'Cause I know that it's delicate Isn't it, isn't it, isn't it? Isn't it? Isn't it, isn't it, isn't it?",
+      "valence": 2.83,
+      "arousal": 3.17,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Isn't it, isn't it, isn't it? Isn't it? Isn't it, isn't it, isn't it? Isn't it delicate?",
+      "valence": 3.0,
+      "arousal": 3.01,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Isn't it? Isn't it, isn't it, isn't it? Isn't it delicate? Sometimes I wonder; when you sleep",
+      "valence": 2.96,
+      "arousal": 3.0,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Isn't it, isn't it, isn't it? Isn't it delicate? Sometimes I wonder; when you sleep Are you ever dreaming of me?",
+      "valence": 3.0,
+      "arousal": 3.08,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Isn't it delicate? Sometimes I wonder; when you sleep Are you ever dreaming of me? Sometimes when I look into your eyes",
+      "valence": 3.09,
+      "arousal": 3.1,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Sometimes I wonder; when you sleep Are you ever dreaming of me? Sometimes when I look into your eyes I pretend you're mine, all the damn time",
+      "valence": 2.85,
+      "arousal": 3.61,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Are you ever dreaming of me? Sometimes when I look into your eyes I pretend you're mine, all the damn time 'Cause I like you",
+      "valence": 3.48,
+      "arousal": 3.79,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Sometimes when I look into your eyes I pretend you're mine, all the damn time 'Cause I like you Is it cool that I said all that?",
+      "valence": 3.27,
+      "arousal": 3.72,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "I pretend you're mine, all the damn time 'Cause I like you Is it cool that I said all that? Is it chill that you're in my head?",
+      "valence": 3.01,
+      "arousal": 3.68,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "'Cause I like you Is it cool that I said all that? Is it chill that you're in my head? 'Cause I know that it's delicate (Delicate)",
+      "valence": 3.28,
+      "arousal": 3.41,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Is it cool that I said all that? Is it chill that you're in my head? 'Cause I know that it's delicate (Delicate) Yeah, I want you",
+      "valence": 3.05,
+      "arousal": 3.48,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Is it chill that you're in my head? 'Cause I know that it's delicate (Delicate) Yeah, I want you Is it cool that I said all that?",
+      "valence": 2.94,
+      "arousal": 3.35,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "'Cause I know that it's delicate (Delicate) Yeah, I want you Is it cool that I said all that? Is it too soon to do this yet?",
+      "valence": 3.08,
+      "arousal": 3.46,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Yeah, I want you Is it cool that I said all that? Is it too soon to do this yet? 'Cause I know that it's delicate (Delicate)",
+      "valence": 3.06,
+      "arousal": 3.44,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Is it cool that I said all that? Is it too soon to do this yet? 'Cause I know that it's delicate (Delicate) 'Cause I like you",
+      "valence": 3.3,
+      "arousal": 3.33,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Is it too soon to do this yet? 'Cause I know that it's delicate (Delicate) 'Cause I like you Is it cool that I said all that? (Isn't it?)",
+      "valence": 3.31,
+      "arousal": 3.3,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "'Cause I know that it's delicate (Delicate) 'Cause I like you Is it cool that I said all that? (Isn't it?) Is it chill that you're in my head? (Isn't it, isn't it?)",
+      "valence": 3.27,
+      "arousal": 3.4,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "'Cause I like you Is it cool that I said all that? (Isn't it?) Is it chill that you're in my head? (Isn't it, isn't it?) 'Cause I know that it's delicate",
+      "valence": 3.21,
+      "arousal": 3.39,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Is it cool that I said all that? (Isn't it?) Is it chill that you're in my head? (Isn't it, isn't it?) 'Cause I know that it's delicate Isn't it delicate?",
+      "valence": 2.87,
+      "arousal": 3.18,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Is it chill that you're in my head? (Isn't it, isn't it?) 'Cause I know that it's delicate Isn't it delicate? Yeah, I want you",
+      "valence": 2.92,
+      "arousal": 3.41,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "'Cause I know that it's delicate Isn't it delicate? Yeah, I want you Is it cool that I said all that (Isn't it?)",
+      "valence": 3.16,
+      "arousal": 3.4,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Isn't it delicate? Yeah, I want you Is it cool that I said all that (Isn't it?) Is it too soon to do this yet? (Isn't it, isn't it?)",
+      "valence": 3.11,
+      "arousal": 3.34,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Yeah, I want you Is it cool that I said all that (Isn't it?) Is it too soon to do this yet? (Isn't it, isn't it?) 'Cause I know that it's delicate",
+      "valence": 3.07,
+      "arousal": 3.48,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Is it cool that I said all that (Isn't it?) Is it too soon to do this yet? (Isn't it, isn't it?) 'Cause I know that it's delicate Isn't it delicate?",
+      "valence": 3.01,
+      "arousal": 3.15,
+      "dominance": 3.02
+    }
+  ]
+}

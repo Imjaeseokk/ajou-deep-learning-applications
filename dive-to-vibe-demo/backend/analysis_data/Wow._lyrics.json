@@ -1,0 +1,318 @@
+{
+  "artist": "Post Malone",
+  "overall_vad": {
+    "valence": 3.12,
+    "arousal": 3.58,
+    "dominance": 3.34
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Said she tired of lil' money, need a big boy Pull up twenty inch blades like I'm Lil' Troy Now it's everybody flockin', need a decoy Shawty mixin' up the vodka with the LaCroix, yeah",
+      "valence": 2.85,
+      "arousal": 3.27,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Pull up twenty inch blades like I'm Lil' Troy Now it's everybody flockin', need a decoy Shawty mixin' up the vodka with the LaCroix, yeah G-Wagon, G-Wagon, G-Wagon, G-Wagon",
+      "valence": 2.97,
+      "arousal": 3.25,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Now it's everybody flockin', need a decoy Shawty mixin' up the vodka with the LaCroix, yeah G-Wagon, G-Wagon, G-Wagon, G-Wagon All the housewives pullin' up (up, up, up)",
+      "valence": 3.13,
+      "arousal": 3.34,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Shawty mixin' up the vodka with the LaCroix, yeah G-Wagon, G-Wagon, G-Wagon, G-Wagon All the housewives pullin' up (up, up, up) I got a lot of toys",
+      "valence": 3.41,
+      "arousal": 3.5,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "G-Wagon, G-Wagon, G-Wagon, G-Wagon All the housewives pullin' up (up, up, up) I got a lot of toys 720S bumpin' Fall Out Boy",
+      "valence": 3.43,
+      "arousal": 3.61,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "All the housewives pullin' up (up, up, up) I got a lot of toys 720S bumpin' Fall Out Boy You was talkin' shit in the beginning (mmh-mmh)",
+      "valence": 3.16,
+      "arousal": 3.55,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I got a lot of toys 720S bumpin' Fall Out Boy You was talkin' shit in the beginning (mmh-mmh) Back when I was feelin' more forgivin' (more forgivin')",
+      "valence": 3.03,
+      "arousal": 3.29,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "720S bumpin' Fall Out Boy You was talkin' shit in the beginning (mmh-mmh) Back when I was feelin' more forgivin' (more forgivin') I know it piss you off to see me winnin' (see me winnin')",
+      "valence": 2.72,
+      "arousal": 3.43,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "You was talkin' shit in the beginning (mmh-mmh) Back when I was feelin' more forgivin' (more forgivin') I know it piss you off to see me winnin' (see me winnin') See the igloo in my mouth when I be grinnin' (I be grinnin'), yeah",
+      "valence": 2.68,
+      "arousal": 3.54,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Back when I was feelin' more forgivin' (more forgivin') I know it piss you off to see me winnin' (see me winnin') See the igloo in my mouth when I be grinnin' (I be grinnin'), yeah Hundred bands in my pocket, it's on me",
+      "valence": 3.05,
+      "arousal": 3.57,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I know it piss you off to see me winnin' (see me winnin') See the igloo in my mouth when I be grinnin' (I be grinnin'), yeah Hundred bands in my pocket, it's on me Hundred deep when I roll like the army",
+      "valence": 3.14,
+      "arousal": 3.58,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "See the igloo in my mouth when I be grinnin' (I be grinnin'), yeah Hundred bands in my pocket, it's on me Hundred deep when I roll like the army Get more bottles, these bottles are lonely",
+      "valence": 2.95,
+      "arousal": 3.31,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Hundred bands in my pocket, it's on me Hundred deep when I roll like the army Get more bottles, these bottles are lonely It's a moment when I show up, got 'em sayin', \"Wow\" (wow, wow)",
+      "valence": 3.24,
+      "arousal": 3.65,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Hundred deep when I roll like the army Get more bottles, these bottles are lonely It's a moment when I show up, got 'em sayin', \"Wow\" (wow, wow) Hundred bands in my pocket, it's on me (on me)",
+      "valence": 3.31,
+      "arousal": 3.7,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Get more bottles, these bottles are lonely It's a moment when I show up, got 'em sayin', \"Wow\" (wow, wow) Hundred bands in my pocket, it's on me (on me) Yeah, your grandmama probably know me (know me)",
+      "valence": 3.3,
+      "arousal": 3.66,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "It's a moment when I show up, got 'em sayin', \"Wow\" (wow, wow) Hundred bands in my pocket, it's on me (on me) Yeah, your grandmama probably know me (know me) Get more bottles, these bottles are lonely",
+      "valence": 3.38,
+      "arousal": 3.7,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Hundred bands in my pocket, it's on me (on me) Yeah, your grandmama probably know me (know me) Get more bottles, these bottles are lonely It's a moment when I show up, got 'em sayin', \"Wow\" (wow, wow)",
+      "valence": 3.25,
+      "arousal": 3.57,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Yeah, your grandmama probably know me (know me) Get more bottles, these bottles are lonely It's a moment when I show up, got 'em sayin', \"Wow\" (wow, wow) Everywhere I go (hey)",
+      "valence": 3.27,
+      "arousal": 3.48,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Get more bottles, these bottles are lonely It's a moment when I show up, got 'em sayin', \"Wow\" (wow, wow) Everywhere I go (hey) Catch me on the block like I'm Mutombo (wow)",
+      "valence": 3.31,
+      "arousal": 3.7,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "It's a moment when I show up, got 'em sayin', \"Wow\" (wow, wow) Everywhere I go (hey) Catch me on the block like I'm Mutombo (wow) 750 Lambo in the Utah snow (skrrt)",
+      "valence": 3.47,
+      "arousal": 3.62,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Everywhere I go (hey) Catch me on the block like I'm Mutombo (wow) 750 Lambo in the Utah snow (skrrt) Trunk in the front like that shit Dumbo, yeah",
+      "valence": 2.97,
+      "arousal": 3.44,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Catch me on the block like I'm Mutombo (wow) 750 Lambo in the Utah snow (skrrt) Trunk in the front like that shit Dumbo, yeah Cut the roof off like a nip-tuck",
+      "valence": 2.79,
+      "arousal": 3.58,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "750 Lambo in the Utah snow (skrrt) Trunk in the front like that shit Dumbo, yeah Cut the roof off like a nip-tuck Pull up to the house with some big butts",
+      "valence": 2.63,
+      "arousal": 3.41,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Trunk in the front like that shit Dumbo, yeah Cut the roof off like a nip-tuck Pull up to the house with some big butts Turn the kitchen counter to a strip-club",
+      "valence": 2.64,
+      "arousal": 3.32,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Cut the roof off like a nip-tuck Pull up to the house with some big butts Turn the kitchen counter to a strip-club Me and Dre came for the",
+      "valence": 2.77,
+      "arousal": 3.38,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Pull up to the house with some big butts Turn the kitchen counter to a strip-club Me and Dre came for the When I got guap, all of y'all disappeared (wow)",
+      "valence": 2.58,
+      "arousal": 3.75,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Turn the kitchen counter to a strip-club Me and Dre came for the When I got guap, all of y'all disappeared (wow) Before I dropped Stoney, none of y'all really cared (cared)",
+      "valence": 2.62,
+      "arousal": 3.38,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Me and Dre came for the When I got guap, all of y'all disappeared (wow) Before I dropped Stoney, none of y'all really cared (cared) Now they always say, \"Congratulations, \" to the kid (kid)",
+      "valence": 3.3,
+      "arousal": 3.54,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "When I got guap, all of y'all disappeared (wow) Before I dropped Stoney, none of y'all really cared (cared) Now they always say, \"Congratulations, \" to the kid (kid) And this is not a 40, but I'm pourin' out this shit (yeah)",
+      "valence": 3.04,
+      "arousal": 3.71,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Before I dropped Stoney, none of y'all really cared (cared) Now they always say, \"Congratulations, \" to the kid (kid) And this is not a 40, but I'm pourin' out this shit (yeah) Used to have a lot, but I got more now (yup)",
+      "valence": 3.26,
+      "arousal": 3.67,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Now they always say, \"Congratulations, \" to the kid (kid) And this is not a 40, but I'm pourin' out this shit (yeah) Used to have a lot, but I got more now (yup) Made another hit 'cause I got bored now (yup)",
+      "valence": 3.5,
+      "arousal": 3.7,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "And this is not a 40, but I'm pourin' out this shit (yeah) Used to have a lot, but I got more now (yup) Made another hit 'cause I got bored now (yup) Always goin' for it, never punt fourth down",
+      "valence": 3.1,
+      "arousal": 3.56,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Used to have a lot, but I got more now (yup) Made another hit 'cause I got bored now (yup) Always goin' for it, never punt fourth down Last call, Hail Mary, Prescott touchdown, ayy (yeah)",
+      "valence": 3.29,
+      "arousal": 3.35,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Made another hit 'cause I got bored now (yup) Always goin' for it, never punt fourth down Last call, Hail Mary, Prescott touchdown, ayy (yeah) Hundred bands in my pocket, it's on me (on me)",
+      "valence": 3.25,
+      "arousal": 3.59,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Always goin' for it, never punt fourth down Last call, Hail Mary, Prescott touchdown, ayy (yeah) Hundred bands in my pocket, it's on me (on me) Hundred deep when I roll like the army (hey)",
+      "valence": 3.36,
+      "arousal": 3.58,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Last call, Hail Mary, Prescott touchdown, ayy (yeah) Hundred bands in my pocket, it's on me (on me) Hundred deep when I roll like the army (hey) Get more bottles, these bottles are lonely",
+      "valence": 3.26,
+      "arousal": 3.56,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Hundred bands in my pocket, it's on me (on me) Hundred deep when I roll like the army (hey) Get more bottles, these bottles are lonely It's a moment when I show up, got 'em sayin', \"Wow\" (wow, wow, wow)",
+      "valence": 3.2,
+      "arousal": 3.61,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Hundred deep when I roll like the army (hey) Get more bottles, these bottles are lonely It's a moment when I show up, got 'em sayin', \"Wow\" (wow, wow, wow) Hundred bands in my pocket, it's on me (goddamn)",
+      "valence": 3.04,
+      "arousal": 3.89,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Get more bottles, these bottles are lonely It's a moment when I show up, got 'em sayin', \"Wow\" (wow, wow, wow) Hundred bands in my pocket, it's on me (goddamn) Yeah, your grandmama probably know me (goddamn)",
+      "valence": 3.02,
+      "arousal": 3.82,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "It's a moment when I show up, got 'em sayin', \"Wow\" (wow, wow, wow) Hundred bands in my pocket, it's on me (goddamn) Yeah, your grandmama probably know me (goddamn) Get more bottles, these bottles are lonely",
+      "valence": 3.17,
+      "arousal": 3.81,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Hundred bands in my pocket, it's on me (goddamn) Yeah, your grandmama probably know me (goddamn) Get more bottles, these bottles are lonely It's a moment when I show up, got 'em sayin', \"Wow\" (wow, wow, wow, wow, wow)",
+      "valence": 2.97,
+      "arousal": 3.72,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Yeah, your grandmama probably know me (goddamn) Get more bottles, these bottles are lonely It's a moment when I show up, got 'em sayin', \"Wow\" (wow, wow, wow, wow, wow) Sayin', \"Wow\"",
+      "valence": 3.16,
+      "arousal": 3.93,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Get more bottles, these bottles are lonely It's a moment when I show up, got 'em sayin', \"Wow\" (wow, wow, wow, wow, wow) Sayin', \"Wow\" (Wow)",
+      "valence": 3.54,
+      "arousal": 3.88,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "It's a moment when I show up, got 'em sayin', \"Wow\" (wow, wow, wow, wow, wow) Sayin', \"Wow\" (Wow) (Wow)",
+      "valence": 3.82,
+      "arousal": 3.92,
+      "dominance": 3.37
+    }
+  ]
+}

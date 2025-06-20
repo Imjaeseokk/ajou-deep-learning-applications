@@ -1,0 +1,360 @@
+{
+  "artist": "Lil Baby & Drake",
+  "overall_vad": {
+    "valence": 2.9,
+    "arousal": 3.38,
+    "dominance": 3.3
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Yeah Wheezy out of here The dash, a digi', the schedule busy My head in a hoodie, my shorty a goodie",
+      "valence": 3.19,
+      "arousal": 3.25,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Wheezy out of here The dash, a digi', the schedule busy My head in a hoodie, my shorty a goodie My cousins are crazy, my cousins like Boogie",
+      "valence": 3.01,
+      "arousal": 3.4,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "The dash, a digi', the schedule busy My head in a hoodie, my shorty a goodie My cousins are crazy, my cousins like Boogie Life is amazin', it is what it should be",
+      "valence": 3.47,
+      "arousal": 3.62,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "My head in a hoodie, my shorty a goodie My cousins are crazy, my cousins like Boogie Life is amazin', it is what it should be Been here for ten but I feel like a rookie",
+      "valence": 3.44,
+      "arousal": 3.63,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "My cousins are crazy, my cousins like Boogie Life is amazin', it is what it should be Been here for ten but I feel like a rookie I tell her, \"look up\" 'cause it's snowin' in Tootsie's",
+      "valence": 3.24,
+      "arousal": 3.62,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Life is amazin', it is what it should be Been here for ten but I feel like a rookie I tell her, \"look up\" 'cause it's snowin' in Tootsie's Booked for three years, man you can't even book me",
+      "valence": 3.04,
+      "arousal": 3.39,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Been here for ten but I feel like a rookie I tell her, \"look up\" 'cause it's snowin' in Tootsie's Booked for three years, man you can't even book me It's me and Lil Baby, this shit goin' crazy",
+      "valence": 2.69,
+      "arousal": 3.39,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I tell her, \"look up\" 'cause it's snowin' in Tootsie's Booked for three years, man you can't even book me It's me and Lil Baby, this shit goin' crazy Wheezy produced it and Weezy F. made me",
+      "valence": 2.94,
+      "arousal": 3.27,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Booked for three years, man you can't even book me It's me and Lil Baby, this shit goin' crazy Wheezy produced it and Weezy F. made me And she held it down, so she got a Mercedes",
+      "valence": 2.91,
+      "arousal": 3.34,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "It's me and Lil Baby, this shit goin' crazy Wheezy produced it and Weezy F. made me And she held it down, so she got a Mercedes Young Money Records, the Army, the Navy",
+      "valence": 3.15,
+      "arousal": 3.42,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Wheezy produced it and Weezy F. made me And she held it down, so she got a Mercedes Young Money Records, the Army, the Navy They ran me ten thousand, I threw it like Brady",
+      "valence": 3.0,
+      "arousal": 3.33,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "And she held it down, so she got a Mercedes Young Money Records, the Army, the Navy They ran me ten thousand, I threw it like Brady The foreign is yellow like Tracee and K.D",
+      "valence": 3.0,
+      "arousal": 3.36,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Young Money Records, the Army, the Navy They ran me ten thousand, I threw it like Brady The foreign is yellow like Tracee and K.D I trusted my niggas, they never betrayed me",
+      "valence": 2.91,
+      "arousal": 3.41,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "They ran me ten thousand, I threw it like Brady The foreign is yellow like Tracee and K.D I trusted my niggas, they never betrayed me Met all these niggas, they sweeter than Sadie",
+      "valence": 3.28,
+      "arousal": 3.5,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "The foreign is yellow like Tracee and K.D I trusted my niggas, they never betrayed me Met all these niggas, they sweeter than Sadie When I started out, I just took what they gave me",
+      "valence": 3.38,
+      "arousal": 3.22,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I trusted my niggas, they never betrayed me Met all these niggas, they sweeter than Sadie When I started out, I just took what they gave me Did all the favors, they never repaid me",
+      "valence": 3.39,
+      "arousal": 3.17,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Met all these niggas, they sweeter than Sadie When I started out, I just took what they gave me Did all the favors, they never repaid me It worked in my favor, 'cause nobody saved me",
+      "valence": 3.45,
+      "arousal": 3.2,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "When I started out, I just took what they gave me Did all the favors, they never repaid me It worked in my favor, 'cause nobody saved me Brand new whip got no keys",
+      "valence": 2.92,
+      "arousal": 2.91,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Did all the favors, they never repaid me It worked in my favor, 'cause nobody saved me Brand new whip got no keys Tailor my clothes, no starch please",
+      "valence": 2.77,
+      "arousal": 3.13,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "It worked in my favor, 'cause nobody saved me Brand new whip got no keys Tailor my clothes, no starch please Soon as I nut, you can gon' leave",
+      "valence": 2.86,
+      "arousal": 3.29,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Brand new whip got no keys Tailor my clothes, no starch please Soon as I nut, you can gon' leave Got M's in the bank, like: \"Yes, indeed\"",
+      "valence": 2.87,
+      "arousal": 3.26,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Tailor my clothes, no starch please Soon as I nut, you can gon' leave Got M's in the bank, like: \"Yes, indeed\" Cartier glasses, I won't even peek at you",
+      "valence": 2.7,
+      "arousal": 3.22,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Soon as I nut, you can gon' leave Got M's in the bank, like: \"Yes, indeed\" Cartier glasses, I won't even peek at you Yellow Ferrari like Pikachu",
+      "valence": 2.73,
+      "arousal": 3.28,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Got M's in the bank, like: \"Yes, indeed\" Cartier glasses, I won't even peek at you Yellow Ferrari like Pikachu I got 'em waitin' and watchin' what he gon' do",
+      "valence": 2.75,
+      "arousal": 3.33,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Cartier glasses, I won't even peek at you Yellow Ferrari like Pikachu I got 'em waitin' and watchin' what he gon' do Tryna peep what I do, tryna steal my moves",
+      "valence": 2.59,
+      "arousal": 3.37,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Yellow Ferrari like Pikachu I got 'em waitin' and watchin' what he gon' do Tryna peep what I do, tryna steal my moves $2, 500 for a new pair of tennis shoes",
+      "valence": 2.82,
+      "arousal": 3.43,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I got 'em waitin' and watchin' what he gon' do Tryna peep what I do, tryna steal my moves $2, 500 for a new pair of tennis shoes The same price, I could make them youngin's come and finish you",
+      "valence": 2.83,
+      "arousal": 3.51,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Tryna peep what I do, tryna steal my moves $2, 500 for a new pair of tennis shoes The same price, I could make them youngin's come and finish you Lawyer been chargin', he a Jew, he like his voodoo",
+      "valence": 2.72,
+      "arousal": 3.38,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "$2, 500 for a new pair of tennis shoes The same price, I could make them youngin's come and finish you Lawyer been chargin', he a Jew, he like his voodoo Real dope boy, hundred thousand in Evisu",
+      "valence": 2.99,
+      "arousal": 3.32,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "The same price, I could make them youngin's come and finish you Lawyer been chargin', he a Jew, he like his voodoo Real dope boy, hundred thousand in Evisu Presidential tints slide by, we don't see you",
+      "valence": 2.72,
+      "arousal": 3.24,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Lawyer been chargin', he a Jew, he like his voodoo Real dope boy, hundred thousand in Evisu Presidential tints slide by, we don't see you I been gettin' money, I ain't worried 'bout what he do",
+      "valence": 2.75,
+      "arousal": 3.23,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Real dope boy, hundred thousand in Evisu Presidential tints slide by, we don't see you I been gettin' money, I ain't worried 'bout what he do I'm gettin' money like I'm from the '80s",
+      "valence": 2.88,
+      "arousal": 3.38,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Presidential tints slide by, we don't see you I been gettin' money, I ain't worried 'bout what he do I'm gettin' money like I'm from the '80s Me and Drake 'bout to drop man, this shit gon' go crazy",
+      "valence": 2.67,
+      "arousal": 3.45,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I been gettin' money, I ain't worried 'bout what he do I'm gettin' money like I'm from the '80s Me and Drake 'bout to drop man, this shit gon' go crazy They know I'm the truth, comin' straight from the basement",
+      "valence": 2.84,
+      "arousal": 3.53,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I'm gettin' money like I'm from the '80s Me and Drake 'bout to drop man, this shit gon' go crazy They know I'm the truth, comin' straight from the basement I'm straight as the street, man I come from the pavement",
+      "valence": 2.9,
+      "arousal": 3.53,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Me and Drake 'bout to drop man, this shit gon' go crazy They know I'm the truth, comin' straight from the basement I'm straight as the street, man I come from the pavement A million, all hundreds, it make em 'go crazy",
+      "valence": 2.7,
+      "arousal": 3.64,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "They know I'm the truth, comin' straight from the basement I'm straight as the street, man I come from the pavement A million, all hundreds, it make em 'go crazy Wah-wah-wah, bitch I'm Lil Baby",
+      "valence": 2.89,
+      "arousal": 3.74,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "I'm straight as the street, man I come from the pavement A million, all hundreds, it make em 'go crazy Wah-wah-wah, bitch I'm Lil Baby Brand new whip got no keys",
+      "valence": 2.74,
+      "arousal": 3.7,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "A million, all hundreds, it make em 'go crazy Wah-wah-wah, bitch I'm Lil Baby Brand new whip got no keys Tailor my clothes, no starch please",
+      "valence": 2.62,
+      "arousal": 3.82,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Wah-wah-wah, bitch I'm Lil Baby Brand new whip got no keys Tailor my clothes, no starch please Soon as I nut, you can gon' leave",
+      "valence": 2.34,
+      "arousal": 3.85,
+      "dominance": 3.83
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Brand new whip got no keys Tailor my clothes, no starch please Soon as I nut, you can gon' leave Got M's in the bank, like: \"Yes, indeed\"",
+      "valence": 2.87,
+      "arousal": 3.26,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Tailor my clothes, no starch please Soon as I nut, you can gon' leave Got M's in the bank, like: \"Yes, indeed\" Me and my dawgs goin' all the way",
+      "valence": 2.84,
+      "arousal": 3.22,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Soon as I nut, you can gon' leave Got M's in the bank, like: \"Yes, indeed\" Me and my dawgs goin' all the way When you livin' like this, they supposed to hate",
+      "valence": 2.83,
+      "arousal": 3.2,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Got M's in the bank, like: \"Yes, indeed\" Me and my dawgs goin' all the way When you livin' like this, they supposed to hate Brand new whip got no keys",
+      "valence": 2.94,
+      "arousal": 3.28,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Me and my dawgs goin' all the way When you livin' like this, they supposed to hate Brand new whip got no keys Tailor my clothes, no starch please",
+      "valence": 2.5,
+      "arousal": 3.29,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "When you livin' like this, they supposed to hate Brand new whip got no keys Tailor my clothes, no starch please Soon as I nut, you can gon' leave",
+      "valence": 2.48,
+      "arousal": 3.37,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Brand new whip got no keys Tailor my clothes, no starch please Soon as I nut, you can gon' leave Got M's in the bank, like: \"Yes, indeed\"",
+      "valence": 2.87,
+      "arousal": 3.26,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Tailor my clothes, no starch please Soon as I nut, you can gon' leave Got M's in the bank, like: \"Yes, indeed\" Me and my dawgs going all the way",
+      "valence": 2.8,
+      "arousal": 3.27,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Soon as I nut, you can gon' leave Got M's in the bank, like: \"Yes, indeed\" Me and my dawgs going all the way When you livin' like this, they supposed to hate",
+      "valence": 2.83,
+      "arousal": 3.25,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Got M's in the bank, like: \"Yes, indeed\" Me and my dawgs going all the way When you livin' like this, they supposed to hate Wheezy out of here",
+      "valence": 2.88,
+      "arousal": 3.38,
+      "dominance": 3.26
+    }
+  ]
+}

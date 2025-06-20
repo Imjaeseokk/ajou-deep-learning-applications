@@ -1,0 +1,661 @@
+{
+  "artist": "Bad Bunny & Rauw Alejandro",
+  "overall_vad": {
+    "valence": 3.01,
+    "arousal": 3.13,
+    "dominance": 3.09
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Uh, y, y-y Uh, y, y-y, uh Uh, y, y-y Yeah",
+      "valence": 3.1,
+      "arousal": 3.18,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Uh, y, y-y, uh Uh, y, y-y Yeah Dice (Uh, y, y-y, uh, yeah)",
+      "valence": 3.17,
+      "arousal": 3.16,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Uh, y, y-y Yeah Dice (Uh, y, y-y, uh, yeah) Ra-Rauw",
+      "valence": 3.14,
+      "arousal": 3.16,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Yeah Dice (Uh, y, y-y, uh, yeah) Ra-Rauw Ella lleva un tiempo soliÃ³'",
+      "valence": 3.15,
+      "arousal": 3.19,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Dice (Uh, y, y-y, uh, yeah) Ra-Rauw Ella lleva un tiempo soliÃ³' Pero en las rede' no sube na'",
+      "valence": 2.93,
+      "arousal": 2.9,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Ra-Rauw Ella lleva un tiempo soliÃ³' Pero en las rede' no sube na' Oh-oh (No, no), me pone a maquinear-a-ar",
+      "valence": 2.87,
+      "arousal": 3.1,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Ella lleva un tiempo soliÃ³' Pero en las rede' no sube na' Oh-oh (No, no), me pone a maquinear-a-ar Ho-oy quiere fluir, cansa de pensar-ar",
+      "valence": 2.92,
+      "arousal": 3.14,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Pero en las rede' no sube na' Oh-oh (No, no), me pone a maquinear-a-ar Ho-oy quiere fluir, cansa de pensar-ar Enrola y va a quemar, ah-ar (Ey)",
+      "valence": 2.9,
+      "arousal": 3.12,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Oh-oh (No, no), me pone a maquinear-a-ar Ho-oy quiere fluir, cansa de pensar-ar Enrola y va a quemar, ah-ar (Ey) Hoy se quiere soltar",
+      "valence": 2.73,
+      "arousal": 3.3,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Ho-oy quiere fluir, cansa de pensar-ar Enrola y va a quemar, ah-ar (Ey) Hoy se quiere soltar No quiere amarrarse",
+      "valence": 3.04,
+      "arousal": 3.06,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Enrola y va a quemar, ah-ar (Ey) Hoy se quiere soltar No quiere amarrarse Solo quiere-",
+      "valence": 3.0,
+      "arousal": 3.06,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Hoy se quiere soltar No quiere amarrarse Solo quiere- Party, party, party, party",
+      "valence": 2.97,
+      "arousal": 3.0,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "No quiere amarrarse Solo quiere- Party, party, party, party Party, party, party, party",
+      "valence": 2.94,
+      "arousal": 2.83,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Solo quiere- Party, party, party, party Party, party, party, party Party, party, party, party",
+      "valence": 3.04,
+      "arousal": 2.83,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Party, party, party, party Party, party, party, party Party, party, party, party Party, party, party, pa-pa-pa-pa",
+      "valence": 2.97,
+      "arousal": 2.84,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Party, party, party, party Party, party, party, party Party, party, party, pa-pa-pa-pa Party, party, party, party",
+      "valence": 2.97,
+      "arousal": 2.87,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Party, party, party, party Party, party, party, pa-pa-pa-pa Party, party, party, party Party, party, party, party",
+      "valence": 2.96,
+      "arousal": 2.88,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Party, party, party, pa-pa-pa-pa Party, party, party, party Party, party, party, party Party, party, party, party (Yeh-yeh-yeh)",
+      "valence": 3.0,
+      "arousal": 3.0,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Party, party, party, party Party, party, party, party Party, party, party, party (Yeh-yeh-yeh) Party, party, party, party (Yeh, ey)",
+      "valence": 2.94,
+      "arousal": 2.88,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Party, party, party, party Party, party, party, party (Yeh-yeh-yeh) Party, party, party, party (Yeh, ey) Se mirÃ³ al espejo (Uh)",
+      "valence": 2.98,
+      "arousal": 3.07,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Party, party, party, party (Yeh-yeh-yeh) Party, party, party, party (Yeh, ey) Se mirÃ³ al espejo (Uh) Y vio que estÃ¡ buenota-ah",
+      "valence": 2.97,
+      "arousal": 3.12,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Party, party, party, party (Yeh, ey) Se mirÃ³ al espejo (Uh) Y vio que estÃ¡ buenota-ah Vio que estÃ¡ buenota",
+      "valence": 2.94,
+      "arousal": 3.13,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Se mirÃ³ al espejo (Uh) Y vio que estÃ¡ buenota-ah Vio que estÃ¡ buenota Y quiere perreo, y coger una nota",
+      "valence": 3.01,
+      "arousal": 3.11,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Y vio que estÃ¡ buenota-ah Vio que estÃ¡ buenota Y quiere perreo, y coger una nota Yo te azoto esa nalgota",
+      "valence": 3.02,
+      "arousal": 3.15,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Vio que estÃ¡ buenota Y quiere perreo, y coger una nota Yo te azoto esa nalgota Cuando tÃº quiera",
+      "valence": 3.0,
+      "arousal": 3.17,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Y quiere perreo, y coger una nota Yo te azoto esa nalgota Cuando tÃº quiera Puesto pa' tus bellaquera",
+      "valence": 3.01,
+      "arousal": 3.17,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Yo te azoto esa nalgota Cuando tÃº quiera Puesto pa' tus bellaquera Y perreÃ¡rtela la noche entera",
+      "valence": 3.03,
+      "arousal": 3.07,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Cuando tÃº quiera Puesto pa' tus bellaquera Y perreÃ¡rtela la noche entera Solo abren la cartera",
+      "valence": 2.98,
+      "arousal": 3.09,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Puesto pa' tus bellaquera Y perreÃ¡rtela la noche entera Solo abren la cartera No' fuimo' sin que nadie viera",
+      "valence": 2.76,
+      "arousal": 3.01,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Y perreÃ¡rtela la noche entera Solo abren la cartera No' fuimo' sin que nadie viera Baby, quÃ© afrenta",
+      "valence": 2.72,
+      "arousal": 3.04,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Solo abren la cartera No' fuimo' sin que nadie viera Baby, quÃ© afrenta TÃº quieres con do' y no sÃ© si va a aguantar (Ey)",
+      "valence": 2.86,
+      "arousal": 2.98,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "No' fuimo' sin que nadie viera Baby, quÃ© afrenta TÃº quieres con do' y no sÃ© si va a aguantar (Ey) Tanto asiento que hay",
+      "valence": 2.81,
+      "arousal": 3.02,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Baby, quÃ© afrenta TÃº quieres con do' y no sÃ© si va a aguantar (Ey) Tanto asiento que hay Y encima de mi bicho e' que te quiere' sentar",
+      "valence": 2.99,
+      "arousal": 3.19,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "TÃº quieres con do' y no sÃ© si va a aguantar (Ey) Tanto asiento que hay Y encima de mi bicho e' que te quiere' sentar Te tengo el toto sentimental",
+      "valence": 2.99,
+      "arousal": 3.18,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Tanto asiento que hay Y encima de mi bicho e' que te quiere' sentar Te tengo el toto sentimental Uff",
+      "valence": 3.05,
+      "arousal": 3.17,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Y encima de mi bicho e' que te quiere' sentar Te tengo el toto sentimental Uff El panty moja'o",
+      "valence": 3.07,
+      "arousal": 3.22,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Te tengo el toto sentimental Uff El panty moja'o La nota en alta, no me ha baja'o",
+      "valence": 2.97,
+      "arousal": 2.98,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Uff El panty moja'o La nota en alta, no me ha baja'o Dice que estÃ¡ soltera y todavÃ­a no se ha deja'o",
+      "valence": 2.89,
+      "arousal": 2.89,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "El panty moja'o La nota en alta, no me ha baja'o Dice que estÃ¡ soltera y todavÃ­a no se ha deja'o Y que se atreve con Benito y con Rauw, je",
+      "valence": 2.95,
+      "arousal": 2.83,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "La nota en alta, no me ha baja'o Dice que estÃ¡ soltera y todavÃ­a no se ha deja'o Y que se atreve con Benito y con Rauw, je TÃº me gusta par",
+      "valence": 3.09,
+      "arousal": 3.0,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Dice que estÃ¡ soltera y todavÃ­a no se ha deja'o Y que se atreve con Benito y con Rauw, je TÃº me gusta par Me gusta par",
+      "valence": 3.24,
+      "arousal": 3.24,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Y que se atreve con Benito y con Rauw, je TÃº me gusta par Me gusta par Salimo de Threehouse, no' fuimo' pa' Ocean Park",
+      "valence": 3.16,
+      "arousal": 3.16,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "TÃº me gusta par Me gusta par Salimo de Threehouse, no' fuimo' pa' Ocean Park Corriendo Can-Am, bebiendo champÃ¡n",
+      "valence": 3.25,
+      "arousal": 3.23,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Me gusta par Salimo de Threehouse, no' fuimo' pa' Ocean Park Corriendo Can-Am, bebiendo champÃ¡n MaÃ±ana te compro un Deincan",
+      "valence": 3.12,
+      "arousal": 3.09,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Salimo de Threehouse, no' fuimo' pa' Ocean Park Corriendo Can-Am, bebiendo champÃ¡n MaÃ±ana te compro un Deincan Ey, ey",
+      "valence": 3.07,
+      "arousal": 3.01,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Corriendo Can-Am, bebiendo champÃ¡n MaÃ±ana te compro un Deincan Ey, ey TÃº te mueve rico como las de Eleven",
+      "valence": 3.17,
+      "arousal": 3.13,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "MaÃ±ana te compro un Deincan Ey, ey TÃº te mueve rico como las de Eleven Sabe que estÃ¡ rica y se da guille porque puede",
+      "valence": 3.06,
+      "arousal": 3.0,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Ey, ey TÃº te mueve rico como las de Eleven Sabe que estÃ¡ rica y se da guille porque puede Yo estoy puesto, tÃº estÃ¡ puesta",
+      "valence": 3.03,
+      "arousal": 3.16,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "TÃº te mueve rico como las de Eleven Sabe que estÃ¡ rica y se da guille porque puede Yo estoy puesto, tÃº estÃ¡ puesta Â¿Y quiÃ©n se atreve?",
+      "valence": 3.04,
+      "arousal": 3.16,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Sabe que estÃ¡ rica y se da guille porque puede Yo estoy puesto, tÃº estÃ¡ puesta Â¿Y quiÃ©n se atreve? Dime quiÃ©n se atreve",
+      "valence": 2.98,
+      "arousal": 3.18,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Yo estoy puesto, tÃº estÃ¡ puesta Â¿Y quiÃ©n se atreve? Dime quiÃ©n se atreve Que en el hotel va a ser el after-",
+      "valence": 3.07,
+      "arousal": 3.14,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Â¿Y quiÃ©n se atreve? Dime quiÃ©n se atreve Que en el hotel va a ser el after- Party, party, party, party (Ey, ey, ey)",
+      "valence": 3.02,
+      "arousal": 3.02,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Dime quiÃ©n se atreve Que en el hotel va a ser el after- Party, party, party, party (Ey, ey, ey) Party, party, party, party (Vamo' pa'l after party)",
+      "valence": 2.99,
+      "arousal": 2.98,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Que en el hotel va a ser el after- Party, party, party, party (Ey, ey, ey) Party, party, party, party (Vamo' pa'l after party) Party, party, party, party (Ey, ey, ey)",
+      "valence": 2.97,
+      "arousal": 2.97,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Party, party, party, party (Ey, ey, ey) Party, party, party, party (Vamo' pa'l after party) Party, party, party, party (Ey, ey, ey) Party, party, party, pa-pa-pa-pa (En el cuarto o en el Bugatti)",
+      "valence": 2.97,
+      "arousal": 2.82,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Party, party, party, party (Vamo' pa'l after party) Party, party, party, party (Ey, ey, ey) Party, party, party, pa-pa-pa-pa (En el cuarto o en el Bugatti) Party, party, party, party (Ey, ey, ey)",
+      "valence": 2.96,
+      "arousal": 2.84,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Party, party, party, party (Ey, ey, ey) Party, party, party, pa-pa-pa-pa (En el cuarto o en el Bugatti) Party, party, party, party (Ey, ey, ey) Party, party, party, party",
+      "valence": 2.96,
+      "arousal": 2.82,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Party, party, party, pa-pa-pa-pa (En el cuarto o en el Bugatti) Party, party, party, party (Ey, ey, ey) Party, party, party, party Party, party, party, party",
+      "valence": 2.96,
+      "arousal": 2.83,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Party, party, party, party (Ey, ey, ey) Party, party, party, party Party, party, party, party Party, party, party, party",
+      "valence": 2.96,
+      "arousal": 2.83,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Party, party, party, party Party, party, party, party Party, party, party, party Ra-Rauw",
+      "valence": 2.99,
+      "arousal": 2.84,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Party, party, party, party Party, party, party, party Ra-Rauw Un bellaqueo bien nasty (Uh-wuh)",
+      "valence": 2.57,
+      "arousal": 3.4,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Party, party, party, party Ra-Rauw Un bellaqueo bien nasty (Uh-wuh) El culo real, pero las teta' son plastic (Ih-ih)",
+      "valence": 2.6,
+      "arousal": 3.32,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Ra-Rauw Un bellaqueo bien nasty (Uh-wuh) El culo real, pero las teta' son plastic (Ih-ih) Tiene un abdomen, parece que hace fasting (Ey)",
+      "valence": 2.66,
+      "arousal": 3.28,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Un bellaqueo bien nasty (Uh-wuh) El culo real, pero las teta' son plastic (Ih-ih) Tiene un abdomen, parece que hace fasting (Ey) Pero cuando come, se lo traga, no lo mastic, ey",
+      "valence": 2.67,
+      "arousal": 3.27,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "El culo real, pero las teta' son plastic (Ih-ih) Tiene un abdomen, parece que hace fasting (Ey) Pero cuando come, se lo traga, no lo mastic, ey Ahora es full ten, cuarenta hora de sateo (Ah)",
+      "valence": 3.02,
+      "arousal": 2.99,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Tiene un abdomen, parece que hace fasting (Ey) Pero cuando come, se lo traga, no lo mastic, ey Ahora es full ten, cuarenta hora de sateo (Ah) Wheeliando los Four Truck, le gusta el maleanteo (Woh)",
+      "valence": 3.12,
+      "arousal": 3.14,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Pero cuando come, se lo traga, no lo mastic, ey Ahora es full ten, cuarenta hora de sateo (Ah) Wheeliando los Four Truck, le gusta el maleanteo (Woh) Lo dejÃ³ atrÃ¡', a su ex le bajÃ³ el de'o (ey)",
+      "valence": 3.06,
+      "arousal": 3.27,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Ahora es full ten, cuarenta hora de sateo (Ah) Wheeliando los Four Truck, le gusta el maleanteo (Woh) Lo dejÃ³ atrÃ¡', a su ex le bajÃ³ el de'o (ey) Ella pide El Zorro y El Conejo en un perreo (Â¡Yah!)",
+      "valence": 3.23,
+      "arousal": 3.55,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Wheeliando los Four Truck, le gusta el maleanteo (Woh) Lo dejÃ³ atrÃ¡', a su ex le bajÃ³ el de'o (ey) Ella pide El Zorro y El Conejo en un perreo (Â¡Yah!) Dime si tÃº quieres dulce",
+      "valence": 3.23,
+      "arousal": 3.55,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Lo dejÃ³ atrÃ¡', a su ex le bajÃ³ el de'o (ey) Ella pide El Zorro y El Conejo en un perreo (Â¡Yah!) Dime si tÃº quieres dulce De fuga'o nos perdimo' en Santurce (Oh-oh)",
+      "valence": 3.2,
+      "arousal": 3.52,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Ella pide El Zorro y El Conejo en un perreo (Â¡Yah!) Dime si tÃº quieres dulce De fuga'o nos perdimo' en Santurce (Oh-oh) En la disco que apaguen las luce (Yeh-yeh)",
+      "valence": 3.28,
+      "arousal": 3.57,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Dime si tÃº quieres dulce De fuga'o nos perdimo' en Santurce (Oh-oh) En la disco que apaguen las luce (Yeh-yeh) Que esas nalga son pa que las use (Yeh-yeh)",
+      "valence": 2.94,
+      "arousal": 3.1,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "De fuga'o nos perdimo' en Santurce (Oh-oh) En la disco que apaguen las luce (Yeh-yeh) Que esas nalga son pa que las use (Yeh-yeh) De ti, yo me dejo que abuses",
+      "valence": 2.98,
+      "arousal": 3.1,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "En la disco que apaguen las luce (Yeh-yeh) Que esas nalga son pa que las use (Yeh-yeh) De ti, yo me dejo que abuses TÃº me tiene' en un bucle",
+      "valence": 3.02,
+      "arousal": 3.15,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Que esas nalga son pa que las use (Yeh-yeh) De ti, yo me dejo que abuses TÃº me tiene' en un bucle Antes de que entre le escupe (Mami)",
+      "valence": 2.96,
+      "arousal": 3.07,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "De ti, yo me dejo que abuses TÃº me tiene' en un bucle Antes de que entre le escupe (Mami) La puse a brincar y en la cama hicimo' un- (Â¡Yah!)",
+      "valence": 3.35,
+      "arousal": 3.62,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "TÃº me tiene' en un bucle Antes de que entre le escupe (Mami) La puse a brincar y en la cama hicimo' un- (Â¡Yah!) Party, party, party, party (Woh-oh, oh)",
+      "valence": 3.29,
+      "arousal": 3.7,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "Antes de que entre le escupe (Mami) La puse a brincar y en la cama hicimo' un- (Â¡Yah!) Party, party, party, party (Woh-oh, oh) Party, party, party, party (En la cama hicimo' un-)",
+      "valence": 3.2,
+      "arousal": 3.73,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "La puse a brincar y en la cama hicimo' un- (Â¡Yah!) Party, party, party, party (Woh-oh, oh) Party, party, party, party (En la cama hicimo' un-) Party, party, party, party (Yeah)",
+      "valence": 3.25,
+      "arousal": 3.79,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "Party, party, party, party (Woh-oh, oh) Party, party, party, party (En la cama hicimo' un-) Party, party, party, party (Yeah) Party, party, party, pa-pa-pa-pa (En la cama hicimo' un-)",
+      "valence": 2.99,
+      "arousal": 3.19,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "Party, party, party, party (En la cama hicimo' un-) Party, party, party, party (Yeah) Party, party, party, pa-pa-pa-pa (En la cama hicimo' un-) Party, party, party, party (Woh-oh, oh)",
+      "valence": 2.95,
+      "arousal": 3.12,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "Party, party, party, party (Yeah) Party, party, party, pa-pa-pa-pa (En la cama hicimo' un-) Party, party, party, party (Woh-oh, oh) Party, party, party, party (Yeah)",
+      "valence": 3.03,
+      "arousal": 3.09,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "Party, party, party, pa-pa-pa-pa (En la cama hicimo' un-) Party, party, party, party (Woh-oh, oh) Party, party, party, party (Yeah) Party, party, party, party",
+      "valence": 3.0,
+      "arousal": 3.14,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "Party, party, party, party (Woh-oh, oh) Party, party, party, party (Yeah) Party, party, party, party Party, party, party",
+      "valence": 3.01,
+      "arousal": 3.19,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "Party, party, party, party (Yeah) Party, party, party, party Party, party, party Ja, ja, ja, ja, jai",
+      "valence": 3.01,
+      "arousal": 3.04,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 86,
+      "lyrics_text": "Party, party, party, party Party, party, party Ja, ja, ja, ja, jai Uy, disfrutando la noche y muchas cosas, bella",
+      "valence": 2.9,
+      "arousal": 3.18,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 87,
+      "lyrics_text": "Party, party, party Ja, ja, ja, ja, jai Uy, disfrutando la noche y muchas cosas, bella Todos son santo' cuando hablan de los pecados ajenos",
+      "valence": 3.04,
+      "arousal": 3.07,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 88,
+      "lyrics_text": "Ja, ja, ja, ja, jai Uy, disfrutando la noche y muchas cosas, bella Todos son santo' cuando hablan de los pecados ajenos Uy, ja, ja, ja, ja, ja",
+      "valence": 3.01,
+      "arousal": 3.04,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 89,
+      "lyrics_text": "Uy, disfrutando la noche y muchas cosas, bella Todos son santo' cuando hablan de los pecados ajenos Uy, ja, ja, ja, ja, ja Ay, ay, la vida",
+      "valence": 3.16,
+      "arousal": 3.18,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 90,
+      "lyrics_text": "Todos son santo' cuando hablan de los pecados ajenos Uy, ja, ja, ja, ja, ja Ay, ay, la vida Â¿QuiÃ©n entiende estas cosas?",
+      "valence": 3.19,
+      "arousal": 3.2,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 91,
+      "lyrics_text": "Uy, ja, ja, ja, ja, ja Ay, ay, la vida Â¿QuiÃ©n entiende estas cosas? Â¿QuiÃ©n la entiende?",
+      "valence": 3.15,
+      "arousal": 3.28,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 92,
+      "lyrics_text": "Ay, ay, la vida Â¿QuiÃ©n entiende estas cosas? Â¿QuiÃ©n la entiende? Uy, ja, ja, ja, ja, ja",
+      "valence": 3.12,
+      "arousal": 3.21,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 93,
+      "lyrics_text": "Â¿QuiÃ©n entiende estas cosas? Â¿QuiÃ©n la entiende? Uy, ja, ja, ja, ja, ja Translate to English",
+      "valence": 3.04,
+      "arousal": 3.09,
+      "dominance": 3.07
+    }
+  ]
+}

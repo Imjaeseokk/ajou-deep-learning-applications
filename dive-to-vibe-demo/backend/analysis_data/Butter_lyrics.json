@@ -1,0 +1,360 @@
+{
+  "artist": "BTS",
+  "overall_vad": {
+    "valence": 3.29,
+    "arousal": 3.65,
+    "dominance": 3.47
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Smooth like butter, like a criminal undercover Gon' pop like trouble breaking into your heart like that (ooh) Cool shade, stunner, yeah, I owe it all to my mother, uh Hot like summer, yeah, I'm making you sweat like that (break it down!)",
+      "valence": 3.69,
+      "arousal": 3.95,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Gon' pop like trouble breaking into your heart like that (ooh) Cool shade, stunner, yeah, I owe it all to my mother, uh Hot like summer, yeah, I'm making you sweat like that (break it down!) Ooh, when I look in the mirror",
+      "valence": 3.62,
+      "arousal": 3.96,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Cool shade, stunner, yeah, I owe it all to my mother, uh Hot like summer, yeah, I'm making you sweat like that (break it down!) Ooh, when I look in the mirror I'll melt your heart into two",
+      "valence": 3.87,
+      "arousal": 4.04,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Hot like summer, yeah, I'm making you sweat like that (break it down!) Ooh, when I look in the mirror I'll melt your heart into two I got that superstar glow, so",
+      "valence": 3.64,
+      "arousal": 4.01,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Ooh, when I look in the mirror I'll melt your heart into two I got that superstar glow, so Ooh (do the boogie, like)",
+      "valence": 3.65,
+      "arousal": 3.96,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I'll melt your heart into two I got that superstar glow, so Ooh (do the boogie, like) A side step, right-left, to my beat",
+      "valence": 3.71,
+      "arousal": 4.04,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I got that superstar glow, so Ooh (do the boogie, like) A side step, right-left, to my beat High like the moon, rock with me, baby",
+      "valence": 3.66,
+      "arousal": 3.88,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Ooh (do the boogie, like) A side step, right-left, to my beat High like the moon, rock with me, baby Know that I got that heat",
+      "valence": 3.32,
+      "arousal": 3.7,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "A side step, right-left, to my beat High like the moon, rock with me, baby Know that I got that heat Let me show you 'cause talk is cheap",
+      "valence": 3.17,
+      "arousal": 3.53,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "High like the moon, rock with me, baby Know that I got that heat Let me show you 'cause talk is cheap Side step, right-left, to my beat",
+      "valence": 3.34,
+      "arousal": 3.58,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Know that I got that heat Let me show you 'cause talk is cheap Side step, right-left, to my beat Get it, let it roll",
+      "valence": 2.95,
+      "arousal": 3.38,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Let me show you 'cause talk is cheap Side step, right-left, to my beat Get it, let it roll Smooth like butter, pull you in like no other",
+      "valence": 3.06,
+      "arousal": 3.37,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Side step, right-left, to my beat Get it, let it roll Smooth like butter, pull you in like no other Don't need no Usher to remind me you got it bad",
+      "valence": 2.92,
+      "arousal": 3.57,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Get it, let it roll Smooth like butter, pull you in like no other Don't need no Usher to remind me you got it bad Ain't no other that can sweep you up like a robber",
+      "valence": 2.87,
+      "arousal": 3.49,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Smooth like butter, pull you in like no other Don't need no Usher to remind me you got it bad Ain't no other that can sweep you up like a robber Straight up, I (got ya)",
+      "valence": 2.9,
+      "arousal": 3.44,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Don't need no Usher to remind me you got it bad Ain't no other that can sweep you up like a robber Straight up, I (got ya) Making you fall like that (break it down)",
+      "valence": 2.54,
+      "arousal": 3.5,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Ain't no other that can sweep you up like a robber Straight up, I (got ya) Making you fall like that (break it down) Ooh, when I look in the mirror",
+      "valence": 2.79,
+      "arousal": 3.46,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Straight up, I (got ya) Making you fall like that (break it down) Ooh, when I look in the mirror I'll melt your heart into two",
+      "valence": 3.17,
+      "arousal": 3.77,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Making you fall like that (break it down) Ooh, when I look in the mirror I'll melt your heart into two I got that superstar glow, so",
+      "valence": 3.49,
+      "arousal": 3.65,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Ooh, when I look in the mirror I'll melt your heart into two I got that superstar glow, so Ooh (do the boogie, like)",
+      "valence": 3.65,
+      "arousal": 3.96,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I'll melt your heart into two I got that superstar glow, so Ooh (do the boogie, like) Side step, right-left, to my beat",
+      "valence": 3.71,
+      "arousal": 4.03,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I got that superstar glow, so Ooh (do the boogie, like) Side step, right-left, to my beat High like the moon, rock with me, baby",
+      "valence": 3.65,
+      "arousal": 3.88,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Ooh (do the boogie, like) Side step, right-left, to my beat High like the moon, rock with me, baby Know that I got that heat",
+      "valence": 3.31,
+      "arousal": 3.73,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Side step, right-left, to my beat High like the moon, rock with me, baby Know that I got that heat Let me show you 'cause talk is cheap",
+      "valence": 3.21,
+      "arousal": 3.6,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "High like the moon, rock with me, baby Know that I got that heat Let me show you 'cause talk is cheap A side step, right-left, to my beat",
+      "valence": 3.34,
+      "arousal": 3.53,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Know that I got that heat Let me show you 'cause talk is cheap A side step, right-left, to my beat Get it, let it roll",
+      "valence": 2.97,
+      "arousal": 3.34,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Let me show you 'cause talk is cheap A side step, right-left, to my beat Get it, let it roll Get it, let it roll",
+      "valence": 2.97,
+      "arousal": 3.38,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "A side step, right-left, to my beat Get it, let it roll Get it, let it roll Get it, let it roll",
+      "valence": 3.13,
+      "arousal": 3.55,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Get it, let it roll Get it, let it roll Get it, let it roll Ice on my wrist, I'm the nice guy",
+      "valence": 3.42,
+      "arousal": 3.55,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Get it, let it roll Get it, let it roll Ice on my wrist, I'm the nice guy Got the right body and the right mind",
+      "valence": 3.31,
+      "arousal": 3.46,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Get it, let it roll Ice on my wrist, I'm the nice guy Got the right body and the right mind Rolling up the party, got the right vibe",
+      "valence": 3.47,
+      "arousal": 3.42,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Ice on my wrist, I'm the nice guy Got the right body and the right mind Rolling up the party, got the right vibe Smooth like (butter), hate us (love us)",
+      "valence": 3.67,
+      "arousal": 3.54,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Got the right body and the right mind Rolling up the party, got the right vibe Smooth like (butter), hate us (love us) Fresh boy, pull up and we lay low",
+      "valence": 3.39,
+      "arousal": 3.62,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Rolling up the party, got the right vibe Smooth like (butter), hate us (love us) Fresh boy, pull up and we lay low All the players get moving when the bass low",
+      "valence": 3.38,
+      "arousal": 3.66,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Smooth like (butter), hate us (love us) Fresh boy, pull up and we lay low All the players get moving when the bass low Got ARMY right behind us when we say so",
+      "valence": 3.23,
+      "arousal": 3.67,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Fresh boy, pull up and we lay low All the players get moving when the bass low Got ARMY right behind us when we say so Let's go",
+      "valence": 3.08,
+      "arousal": 3.33,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "All the players get moving when the bass low Got ARMY right behind us when we say so Let's go Side step, right-left, to my beat (right-left, to my beat)",
+      "valence": 3.1,
+      "arousal": 3.47,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Got ARMY right behind us when we say so Let's go Side step, right-left, to my beat (right-left, to my beat) High like the moon, rock with me, baby",
+      "valence": 3.37,
+      "arousal": 3.73,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Let's go Side step, right-left, to my beat (right-left, to my beat) High like the moon, rock with me, baby You know that I got that heat",
+      "valence": 3.35,
+      "arousal": 3.68,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Side step, right-left, to my beat (right-left, to my beat) High like the moon, rock with me, baby You know that I got that heat Let me show you 'cause talk is cheap (you know that talk is cheap)",
+      "valence": 3.16,
+      "arousal": 3.63,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "High like the moon, rock with me, baby You know that I got that heat Let me show you 'cause talk is cheap (you know that talk is cheap) Side step, right-left, to my beat",
+      "valence": 3.25,
+      "arousal": 3.58,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "You know that I got that heat Let me show you 'cause talk is cheap (you know that talk is cheap) Side step, right-left, to my beat Get it, let it roll",
+      "valence": 2.96,
+      "arousal": 3.36,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Let me show you 'cause talk is cheap (you know that talk is cheap) Side step, right-left, to my beat Get it, let it roll Smooth like (butter), cool shade (stunner)",
+      "valence": 3.02,
+      "arousal": 3.18,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Side step, right-left, to my beat Get it, let it roll Smooth like (butter), cool shade (stunner) And you know we don't stop",
+      "valence": 2.98,
+      "arousal": 3.44,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Get it, let it roll Smooth like (butter), cool shade (stunner) And you know we don't stop Hot like (summer), ain't no (bummer)",
+      "valence": 3.01,
+      "arousal": 3.31,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Smooth like (butter), cool shade (stunner) And you know we don't stop Hot like (summer), ain't no (bummer) You'll be like, \"Oh my God\"",
+      "valence": 3.07,
+      "arousal": 3.6,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "And you know we don't stop Hot like (summer), ain't no (bummer) You'll be like, \"Oh my God\" We gon' make you rock, and you say (yeah)",
+      "valence": 3.22,
+      "arousal": 3.83,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Hot like (summer), ain't no (bummer) You'll be like, \"Oh my God\" We gon' make you rock, and you say (yeah) We gon' make you bounce, and you say (yeah)",
+      "valence": 3.31,
+      "arousal": 3.68,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "You'll be like, \"Oh my God\" We gon' make you rock, and you say (yeah) We gon' make you bounce, and you say (yeah) Hotter, sweeter, cooler, butter!",
+      "valence": 3.73,
+      "arousal": 4.23,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "We gon' make you rock, and you say (yeah) We gon' make you bounce, and you say (yeah) Hotter, sweeter, cooler, butter! Get it, let it roll",
+      "valence": 3.54,
+      "arousal": 4.13,
+      "dominance": 3.55
+    }
+  ]
+}

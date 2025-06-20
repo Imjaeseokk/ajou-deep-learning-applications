@@ -1,0 +1,269 @@
+{
+  "artist": "Kali Uchis",
+  "overall_vad": {
+    "valence": 3.1,
+    "arousal": 3.28,
+    "dominance": 3.13
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "QuiÃ©n lo dirÃ­a Que se podrÃ­a hacer el amor por telepatÃ­a La luna estÃ¡ llena, mi cama vacÃ­a Lo que yo te harÃ­a",
+      "valence": 3.26,
+      "arousal": 3.39,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Que se podrÃ­a hacer el amor por telepatÃ­a La luna estÃ¡ llena, mi cama vacÃ­a Lo que yo te harÃ­a Si te tuviera de frente, la mente te la volarÃ­a",
+      "valence": 3.29,
+      "arousal": 3.37,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "La luna estÃ¡ llena, mi cama vacÃ­a Lo que yo te harÃ­a Si te tuviera de frente, la mente te la volarÃ­a De noche y de dÃ­a, de noche y de dÃ­a",
+      "valence": 3.14,
+      "arousal": 3.14,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Lo que yo te harÃ­a Si te tuviera de frente, la mente te la volarÃ­a De noche y de dÃ­a, de noche y de dÃ­a You know I'm just a flight away",
+      "valence": 2.85,
+      "arousal": 3.14,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Si te tuviera de frente, la mente te la volarÃ­a De noche y de dÃ­a, de noche y de dÃ­a You know I'm just a flight away If you want it, you can take a private plane",
+      "valence": 3.11,
+      "arousal": 3.19,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "De noche y de dÃ­a, de noche y de dÃ­a You know I'm just a flight away If you want it, you can take a private plane A kilÃ³metros estamos conectando",
+      "valence": 3.01,
+      "arousal": 3.2,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "You know I'm just a flight away If you want it, you can take a private plane A kilÃ³metros estamos conectando Y me prendes aunque no me estÃ©s tocando",
+      "valence": 3.12,
+      "arousal": 3.24,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "If you want it, you can take a private plane A kilÃ³metros estamos conectando Y me prendes aunque no me estÃ©s tocando You know I got a lot to say",
+      "valence": 3.17,
+      "arousal": 3.34,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "A kilÃ³metros estamos conectando Y me prendes aunque no me estÃ©s tocando You know I got a lot to say All these voices in the background of my brain",
+      "valence": 2.97,
+      "arousal": 3.27,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Y me prendes aunque no me estÃ©s tocando You know I got a lot to say All these voices in the background of my brain Y me dicen todo lo que estÃ¡s pensando",
+      "valence": 2.86,
+      "arousal": 3.21,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "You know I got a lot to say All these voices in the background of my brain Y me dicen todo lo que estÃ¡s pensando Me imagino lo que ya estÃ¡s maquinando",
+      "valence": 3.11,
+      "arousal": 3.31,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "All these voices in the background of my brain Y me dicen todo lo que estÃ¡s pensando Me imagino lo que ya estÃ¡s maquinando QuiÃ©n lo dirÃ­a",
+      "valence": 2.96,
+      "arousal": 3.21,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Y me dicen todo lo que estÃ¡s pensando Me imagino lo que ya estÃ¡s maquinando QuiÃ©n lo dirÃ­a Que se podrÃ­a hacer el amor por telepatÃ­a",
+      "valence": 3.2,
+      "arousal": 3.33,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Me imagino lo que ya estÃ¡s maquinando QuiÃ©n lo dirÃ­a Que se podrÃ­a hacer el amor por telepatÃ­a La luna estÃ¡ llena, mi cama vacÃ­a",
+      "valence": 3.25,
+      "arousal": 3.34,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "QuiÃ©n lo dirÃ­a Que se podrÃ­a hacer el amor por telepatÃ­a La luna estÃ¡ llena, mi cama vacÃ­a Lo que yo te harÃ­a",
+      "valence": 3.26,
+      "arousal": 3.39,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Que se podrÃ­a hacer el amor por telepatÃ­a La luna estÃ¡ llena, mi cama vacÃ­a Lo que yo te harÃ­a Si te tuviera de frente, la mente te la volarÃ­a",
+      "valence": 3.29,
+      "arousal": 3.37,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "La luna estÃ¡ llena, mi cama vacÃ­a Lo que yo te harÃ­a Si te tuviera de frente, la mente te la volarÃ­a De noche y de dÃ­a, de noche y de dÃ­a",
+      "valence": 3.14,
+      "arousal": 3.14,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Lo que yo te harÃ­a Si te tuviera de frente, la mente te la volarÃ­a De noche y de dÃ­a, de noche y de dÃ­a You know that I can see right through you",
+      "valence": 3.05,
+      "arousal": 3.25,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Si te tuviera de frente, la mente te la volarÃ­a De noche y de dÃ­a, de noche y de dÃ­a You know that I can see right through you I can read your mind",
+      "valence": 3.06,
+      "arousal": 3.23,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "De noche y de dÃ­a, de noche y de dÃ­a You know that I can see right through you I can read your mind I can read your mind",
+      "valence": 3.02,
+      "arousal": 3.27,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "You know that I can see right through you I can read your mind I can read your mind What you want to do?",
+      "valence": 3.07,
+      "arousal": 3.37,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I can read your mind I can read your mind What you want to do? It's written all over your face times two",
+      "valence": 3.0,
+      "arousal": 3.37,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I can read your mind What you want to do? It's written all over your face times two 'Cause I can read your mind",
+      "valence": 3.08,
+      "arousal": 3.36,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "What you want to do? It's written all over your face times two 'Cause I can read your mind I can read your mind",
+      "valence": 3.02,
+      "arousal": 3.39,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "It's written all over your face times two 'Cause I can read your mind I can read your mind I can hear your thoughts like a melody",
+      "valence": 3.16,
+      "arousal": 3.27,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "'Cause I can read your mind I can read your mind I can hear your thoughts like a melody Listen while you talk when you're fast asleep",
+      "valence": 3.2,
+      "arousal": 3.16,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I can read your mind I can hear your thoughts like a melody Listen while you talk when you're fast asleep You stay on the phone just to hear me breathe",
+      "valence": 3.13,
+      "arousal": 3.24,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I can hear your thoughts like a melody Listen while you talk when you're fast asleep You stay on the phone just to hear me breathe On repeat",
+      "valence": 3.17,
+      "arousal": 3.25,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Listen while you talk when you're fast asleep You stay on the phone just to hear me breathe On repeat QuiÃ©n lo dirÃ­a",
+      "valence": 2.81,
+      "arousal": 3.25,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "You stay on the phone just to hear me breathe On repeat QuiÃ©n lo dirÃ­a Que se podrÃ­a hacer el amor por telepatÃ­a",
+      "valence": 2.98,
+      "arousal": 3.42,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "On repeat QuiÃ©n lo dirÃ­a Que se podrÃ­a hacer el amor por telepatÃ­a La luna estÃ¡ llena, mi cama vacÃ­a",
+      "valence": 3.21,
+      "arousal": 3.35,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "QuiÃ©n lo dirÃ­a Que se podrÃ­a hacer el amor por telepatÃ­a La luna estÃ¡ llena, mi cama vacÃ­a Lo que yo te harÃ­a",
+      "valence": 3.26,
+      "arousal": 3.39,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Que se podrÃ­a hacer el amor por telepatÃ­a La luna estÃ¡ llena, mi cama vacÃ­a Lo que yo te harÃ­a Si te tuviera de frente, la mente te la volarÃ­a",
+      "valence": 3.29,
+      "arousal": 3.37,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "La luna estÃ¡ llena, mi cama vacÃ­a Lo que yo te harÃ­a Si te tuviera de frente, la mente te la volarÃ­a De noche y de dÃ­a, de noche y de dÃ­a",
+      "valence": 3.14,
+      "arousal": 3.14,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Lo que yo te harÃ­a Si te tuviera de frente, la mente te la volarÃ­a De noche y de dÃ­a, de noche y de dÃ­a (You know I got a lot to say",
+      "valence": 3.14,
+      "arousal": 3.29,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Si te tuviera de frente, la mente te la volarÃ­a De noche y de dÃ­a, de noche y de dÃ­a (You know I got a lot to say All these voices in the background of my brain)",
+      "valence": 3.04,
+      "arousal": 3.13,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "De noche y de dÃ­a, de noche y de dÃ­a (You know I got a lot to say All these voices in the background of my brain) Translate to English",
+      "valence": 2.93,
+      "arousal": 3.22,
+      "dominance": 3.07
+    }
+  ]
+}

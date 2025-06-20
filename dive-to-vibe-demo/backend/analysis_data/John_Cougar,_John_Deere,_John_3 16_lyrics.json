@@ -1,0 +1,276 @@
+{
+  "artist": "Keith Urban",
+  "overall_vad": {
+    "valence": 3.2,
+    "arousal": 3.29,
+    "dominance": 3.19
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I'm a 45 spinning on an old Victrola I'm a two strike swinger, I'm a Pepsi Cola I'm a blue jean quarterback saying \"I love you\" to the prom queen In a Chevy",
+      "valence": 3.58,
+      "arousal": 3.66,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I'm a two strike swinger, I'm a Pepsi Cola I'm a blue jean quarterback saying \"I love you\" to the prom queen In a Chevy I'm John Wayne, Superman, California",
+      "valence": 3.72,
+      "arousal": 3.66,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I'm a blue jean quarterback saying \"I love you\" to the prom queen In a Chevy I'm John Wayne, Superman, California I'm a Kris Kristofferson Sunday morning",
+      "valence": 3.74,
+      "arousal": 3.65,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "In a Chevy I'm John Wayne, Superman, California I'm a Kris Kristofferson Sunday morning I'm a mom and daddy singing along to Don McLean",
+      "valence": 3.63,
+      "arousal": 3.4,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I'm John Wayne, Superman, California I'm a Kris Kristofferson Sunday morning I'm a mom and daddy singing along to Don McLean At the levee",
+      "valence": 3.72,
+      "arousal": 3.48,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I'm a Kris Kristofferson Sunday morning I'm a mom and daddy singing along to Don McLean At the levee And I'm a child of a backseat freedom, baptized by rock and roll",
+      "valence": 3.72,
+      "arousal": 3.43,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I'm a mom and daddy singing along to Don McLean At the levee And I'm a child of a backseat freedom, baptized by rock and roll Marilyn Monroe and the Garden of Eden, never grow up, never grow old",
+      "valence": 3.68,
+      "arousal": 3.55,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "At the levee And I'm a child of a backseat freedom, baptized by rock and roll Marilyn Monroe and the Garden of Eden, never grow up, never grow old Just another rebel in the great wide open, on the boulevard of broken dreams",
+      "valence": 2.94,
+      "arousal": 3.28,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "And I'm a child of a backseat freedom, baptized by rock and roll Marilyn Monroe and the Garden of Eden, never grow up, never grow old Just another rebel in the great wide open, on the boulevard of broken dreams And I learned everything I needed to know from John Cougar, John Deere, John 3:16",
+      "valence": 3.09,
+      "arousal": 3.3,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Marilyn Monroe and the Garden of Eden, never grow up, never grow old Just another rebel in the great wide open, on the boulevard of broken dreams And I learned everything I needed to know from John Cougar, John Deere, John 3:16 Hey, hey",
+      "valence": 2.85,
+      "arousal": 3.14,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Just another rebel in the great wide open, on the boulevard of broken dreams And I learned everything I needed to know from John Cougar, John Deere, John 3:16 Hey, hey Everything I needed",
+      "valence": 3.02,
+      "arousal": 3.17,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "And I learned everything I needed to know from John Cougar, John Deere, John 3:16 Hey, hey Everything I needed That's right",
+      "valence": 3.34,
+      "arousal": 3.11,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Hey, hey Everything I needed That's right I'm Mark Twain on the Mississippi",
+      "valence": 3.28,
+      "arousal": 3.32,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Everything I needed That's right I'm Mark Twain on the Mississippi I'm Hemingway with a shot of whiskey",
+      "valence": 3.36,
+      "arousal": 3.34,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "That's right I'm Mark Twain on the Mississippi I'm Hemingway with a shot of whiskey I'm a TV dinner on a tray trying to figure out the Wheel of Fortune",
+      "valence": 3.22,
+      "arousal": 3.24,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I'm Mark Twain on the Mississippi I'm Hemingway with a shot of whiskey I'm a TV dinner on a tray trying to figure out the Wheel of Fortune I'm a Texaco star, I'm a Gibson guitar",
+      "valence": 3.24,
+      "arousal": 3.16,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I'm Hemingway with a shot of whiskey I'm a TV dinner on a tray trying to figure out the Wheel of Fortune I'm a Texaco star, I'm a Gibson guitar I'm still a teenage kid trying to go too far",
+      "valence": 3.07,
+      "arousal": 3.15,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I'm a TV dinner on a tray trying to figure out the Wheel of Fortune I'm a Texaco star, I'm a Gibson guitar I'm still a teenage kid trying to go too far I'm a jukebox waiting in a neon bar for a quarter",
+      "valence": 3.12,
+      "arousal": 3.17,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I'm a Texaco star, I'm a Gibson guitar I'm still a teenage kid trying to go too far I'm a jukebox waiting in a neon bar for a quarter I'm a child of a backseat freedom, baptized by rock and roll",
+      "valence": 3.23,
+      "arousal": 3.27,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I'm still a teenage kid trying to go too far I'm a jukebox waiting in a neon bar for a quarter I'm a child of a backseat freedom, baptized by rock and roll Marilyn Monroe and the Garden of Eden, never grow up, never grow old",
+      "valence": 2.87,
+      "arousal": 3.41,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I'm a jukebox waiting in a neon bar for a quarter I'm a child of a backseat freedom, baptized by rock and roll Marilyn Monroe and the Garden of Eden, never grow up, never grow old Just another rebel in the great wide open, on the boulevard of broken dreams",
+      "valence": 2.95,
+      "arousal": 3.38,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I'm a child of a backseat freedom, baptized by rock and roll Marilyn Monroe and the Garden of Eden, never grow up, never grow old Just another rebel in the great wide open, on the boulevard of broken dreams And I learned everything I needed to know from John Cougar, John Deere, John 3:16",
+      "valence": 3.07,
+      "arousal": 3.31,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Marilyn Monroe and the Garden of Eden, never grow up, never grow old Just another rebel in the great wide open, on the boulevard of broken dreams And I learned everything I needed to know from John Cougar, John Deere, John 3:16 I spent a lot of years running from believing,",
+      "valence": 2.83,
+      "arousal": 3.14,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Just another rebel in the great wide open, on the boulevard of broken dreams And I learned everything I needed to know from John Cougar, John Deere, John 3:16 I spent a lot of years running from believing, Looking for another way to save my soul",
+      "valence": 2.97,
+      "arousal": 3.21,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "And I learned everything I needed to know from John Cougar, John Deere, John 3:16 I spent a lot of years running from believing, Looking for another way to save my soul The longer I live, the more I see it, there's only one way home",
+      "valence": 3.21,
+      "arousal": 3.17,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I spent a lot of years running from believing, Looking for another way to save my soul The longer I live, the more I see it, there's only one way home I'm a child of a backseat freedom, baptized by rock and roll",
+      "valence": 3.19,
+      "arousal": 3.45,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Looking for another way to save my soul The longer I live, the more I see it, there's only one way home I'm a child of a backseat freedom, baptized by rock and roll Marilyn Monroe and the Garden of Eden, never grow up, never grow old",
+      "valence": 3.16,
+      "arousal": 3.41,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "The longer I live, the more I see it, there's only one way home I'm a child of a backseat freedom, baptized by rock and roll Marilyn Monroe and the Garden of Eden, never grow up, never grow old Just another rebel in the great wide open, on the boulevard of broken dreams",
+      "valence": 2.92,
+      "arousal": 3.29,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I'm a child of a backseat freedom, baptized by rock and roll Marilyn Monroe and the Garden of Eden, never grow up, never grow old Just another rebel in the great wide open, on the boulevard of broken dreams And I learned everything I needed to know from John Cougar, John Deere, John 3:16",
+      "valence": 3.07,
+      "arousal": 3.31,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Marilyn Monroe and the Garden of Eden, never grow up, never grow old Just another rebel in the great wide open, on the boulevard of broken dreams And I learned everything I needed to know from John Cougar, John Deere, John 3:16 I'm a child of a backseat freedom, baptized by rock and roll",
+      "valence": 2.91,
+      "arousal": 3.18,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Just another rebel in the great wide open, on the boulevard of broken dreams And I learned everything I needed to know from John Cougar, John Deere, John 3:16 I'm a child of a backseat freedom, baptized by rock and roll Marilyn Monroe and the Garden of Eden, never grow up, never grow old",
+      "valence": 3.07,
+      "arousal": 3.27,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "And I learned everything I needed to know from John Cougar, John Deere, John 3:16 I'm a child of a backseat freedom, baptized by rock and roll Marilyn Monroe and the Garden of Eden, never grow up, never grow old Just another rebel in the great wide open, on the boulevard of broken dreams",
+      "valence": 3.13,
+      "arousal": 3.25,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I'm a child of a backseat freedom, baptized by rock and roll Marilyn Monroe and the Garden of Eden, never grow up, never grow old Just another rebel in the great wide open, on the boulevard of broken dreams And I learned everything I needed to know from John Cougar, John Deere, John 3:16",
+      "valence": 3.07,
+      "arousal": 3.31,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Marilyn Monroe and the Garden of Eden, never grow up, never grow old Just another rebel in the great wide open, on the boulevard of broken dreams And I learned everything I needed to know from John Cougar, John Deere, John 3:16 Everything I needed",
+      "valence": 2.87,
+      "arousal": 3.13,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Just another rebel in the great wide open, on the boulevard of broken dreams And I learned everything I needed to know from John Cougar, John Deere, John 3:16 Everything I needed (John Cougar, John Deere, John 3:16)",
+      "valence": 3.01,
+      "arousal": 3.15,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "And I learned everything I needed to know from John Cougar, John Deere, John 3:16 Everything I needed (John Cougar, John Deere, John 3:16) Everything I needed",
+      "valence": 3.3,
+      "arousal": 3.09,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Everything I needed (John Cougar, John Deere, John 3:16) Everything I needed (John Cougar, John Deere, John 3:16)",
+      "valence": 3.12,
+      "arousal": 3.13,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "(John Cougar, John Deere, John 3:16) Everything I needed (John Cougar, John Deere, John 3:16) That's right",
+      "valence": 3.16,
+      "arousal": 3.11,
+      "dominance": 3.2
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "artist": "The Black Keys",
+  "overall_vad": {
+    "valence": 2.83,
+    "arousal": 3.35,
+    "dominance": 3.1
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Down in the waves She screams again Roar at the door My mind can't take much more",
+      "valence": 2.25,
+      "arousal": 3.73,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "She screams again Roar at the door My mind can't take much more I could never drown",
+      "valence": 2.08,
+      "arousal": 3.89,
+      "dominance": 2.6
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Roar at the door My mind can't take much more I could never drown They wanna get my",
+      "valence": 2.5,
+      "arousal": 3.67,
+      "dominance": 2.67
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "My mind can't take much more I could never drown They wanna get my They wanna get my",
+      "valence": 2.55,
+      "arousal": 3.66,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I could never drown They wanna get my They wanna get my Gold on the ceiling",
+      "valence": 3.0,
+      "arousal": 3.32,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "They wanna get my They wanna get my Gold on the ceiling I ain't blind",
+      "valence": 3.1,
+      "arousal": 3.25,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "They wanna get my Gold on the ceiling I ain't blind Just a matter of time",
+      "valence": 3.19,
+      "arousal": 3.31,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Gold on the ceiling I ain't blind Just a matter of time Before you steal it",
+      "valence": 3.08,
+      "arousal": 3.35,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I ain't blind Just a matter of time Before you steal it It's alright",
+      "valence": 3.01,
+      "arousal": 3.16,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Just a matter of time Before you steal it It's alright Ain't no blood in my eye",
+      "valence": 2.77,
+      "arousal": 3.29,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Before you steal it It's alright Ain't no blood in my eye Clouds covered love's",
+      "valence": 3.05,
+      "arousal": 3.47,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "It's alright Ain't no blood in my eye Clouds covered love's Barbed-wire fence",
+      "valence": 3.04,
+      "arousal": 3.34,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Ain't no blood in my eye Clouds covered love's Barbed-wire fence Strung up, strung out",
+      "valence": 2.52,
+      "arousal": 3.5,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Clouds covered love's Barbed-wire fence Strung up, strung out I just can't go without",
+      "valence": 2.73,
+      "arousal": 3.43,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Barbed-wire fence Strung up, strung out I just can't go without I could never drown",
+      "valence": 2.27,
+      "arousal": 3.34,
+      "dominance": 2.69
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Strung up, strung out I just can't go without I could never drown They wanna get my",
+      "valence": 2.3,
+      "arousal": 3.62,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I just can't go without I could never drown They wanna get my They wanna get my",
+      "valence": 2.55,
+      "arousal": 3.55,
+      "dominance": 2.7
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I could never drown They wanna get my They wanna get my Gold on the ceiling",
+      "valence": 3.0,
+      "arousal": 3.32,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "They wanna get my They wanna get my Gold on the ceiling I ain't blind",
+      "valence": 3.1,
+      "arousal": 3.25,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "They wanna get my Gold on the ceiling I ain't blind Just a matter of time",
+      "valence": 3.19,
+      "arousal": 3.31,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Gold on the ceiling I ain't blind Just a matter of time Before you steal it",
+      "valence": 3.08,
+      "arousal": 3.35,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I ain't blind Just a matter of time Before you steal it It's alright",
+      "valence": 3.01,
+      "arousal": 3.16,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Just a matter of time Before you steal it It's alright Ain't no blood in my eye",
+      "valence": 2.77,
+      "arousal": 3.29,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Before you steal it It's alright Ain't no blood in my eye They wanna get my",
+      "valence": 2.58,
+      "arousal": 3.28,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "It's alright Ain't no blood in my eye They wanna get my They wanna get my",
+      "valence": 2.77,
+      "arousal": 3.23,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Ain't no blood in my eye They wanna get my They wanna get my Gold on the ceiling",
+      "valence": 2.74,
+      "arousal": 3.26,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "They wanna get my They wanna get my Gold on the ceiling I ain't blind",
+      "valence": 3.1,
+      "arousal": 3.25,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "They wanna get my Gold on the ceiling I ain't blind Just a matter of time",
+      "valence": 3.19,
+      "arousal": 3.31,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Gold on the ceiling I ain't blind Just a matter of time Before you steal it",
+      "valence": 3.08,
+      "arousal": 3.35,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I ain't blind Just a matter of time Before you steal it It's alright",
+      "valence": 3.01,
+      "arousal": 3.16,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Just a matter of time Before you steal it It's alright Ain't no blood in my eye",
+      "valence": 2.77,
+      "arousal": 3.29,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Before you steal it It's alright Ain't no blood in my eye Gold on the ceiling",
+      "valence": 2.76,
+      "arousal": 3.17,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "It's alright Ain't no blood in my eye Gold on the ceiling I ain't blind",
+      "valence": 2.91,
+      "arousal": 3.04,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Ain't no blood in my eye Gold on the ceiling I ain't blind Just a matter of time",
+      "valence": 2.88,
+      "arousal": 3.16,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Gold on the ceiling I ain't blind Just a matter of time Before you steal it",
+      "valence": 3.08,
+      "arousal": 3.35,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I ain't blind Just a matter of time Before you steal it It's alright",
+      "valence": 3.01,
+      "arousal": 3.16,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Just a matter of time Before you steal it It's alright Ain't no blood in my eye",
+      "valence": 2.77,
+      "arousal": 3.29,
+      "dominance": 3.21
+    }
+  ]
+}

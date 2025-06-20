@@ -1,0 +1,150 @@
+{
+  "artist": "Tim McGraw With Catherine Dunn",
+  "overall_vad": {
+    "valence": 2.85,
+    "arousal": 3.08,
+    "dominance": 3.04
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Diamond rings and old barstools One's for queens and one's for fools One's the future and one's the past One's forever and one won't last",
+      "valence": 2.98,
+      "arousal": 3.14,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "One's for queens and one's for fools One's the future and one's the past One's forever and one won't last It ain't like midnight and cigarette smoke",
+      "valence": 2.87,
+      "arousal": 3.15,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "One's the future and one's the past One's forever and one won't last It ain't like midnight and cigarette smoke It ain't like watered down whiskey and coke",
+      "valence": 2.94,
+      "arousal": 3.0,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "One's forever and one won't last It ain't like midnight and cigarette smoke It ain't like watered down whiskey and coke I guess some things just don't mix like you hoped",
+      "valence": 2.69,
+      "arousal": 2.94,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "It ain't like midnight and cigarette smoke It ain't like watered down whiskey and coke I guess some things just don't mix like you hoped Like me and you",
+      "valence": 2.69,
+      "arousal": 2.98,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "It ain't like watered down whiskey and coke I guess some things just don't mix like you hoped Like me and you And diamond rings and old barstools",
+      "valence": 2.7,
+      "arousal": 2.92,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I guess some things just don't mix like you hoped Like me and you And diamond rings and old barstools The wrongs and rights, the highs and lows",
+      "valence": 2.7,
+      "arousal": 2.88,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Like me and you And diamond rings and old barstools The wrongs and rights, the highs and lows The \"I love you's, \" the \"I told you so's\"",
+      "valence": 3.33,
+      "arousal": 3.46,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "And diamond rings and old barstools The wrongs and rights, the highs and lows The \"I love you's, \" the \"I told you so's\" Past few miles to wherever is home",
+      "valence": 3.28,
+      "arousal": 3.38,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "The wrongs and rights, the highs and lows The \"I love you's, \" the \"I told you so's\" Past few miles to wherever is home Another morning waking up alone",
+      "valence": 3.15,
+      "arousal": 3.48,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "The \"I love you's, \" the \"I told you so's\" Past few miles to wherever is home Another morning waking up alone It ain't like midnight and cigarette smoke",
+      "valence": 3.3,
+      "arousal": 3.62,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Past few miles to wherever is home Another morning waking up alone It ain't like midnight and cigarette smoke It ain't like watered down whiskey and coke",
+      "valence": 2.73,
+      "arousal": 3.04,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Another morning waking up alone It ain't like midnight and cigarette smoke It ain't like watered down whiskey and coke I guess some things just don't mix like you hoped",
+      "valence": 2.52,
+      "arousal": 2.98,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "It ain't like midnight and cigarette smoke It ain't like watered down whiskey and coke I guess some things just don't mix like you hoped Like me and you",
+      "valence": 2.69,
+      "arousal": 2.98,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "It ain't like watered down whiskey and coke I guess some things just don't mix like you hoped Like me and you And diamond rings and old barstools",
+      "valence": 2.7,
+      "arousal": 2.92,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I guess some things just don't mix like you hoped Like me and you And diamond rings and old barstools We ain't like midnight and cigarette smoke",
+      "valence": 2.58,
+      "arousal": 2.99,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Like me and you And diamond rings and old barstools We ain't like midnight and cigarette smoke Nothing like watered down whiskey and coke",
+      "valence": 2.95,
+      "arousal": 2.98,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "And diamond rings and old barstools We ain't like midnight and cigarette smoke Nothing like watered down whiskey and coke I guess some things just don't mix like you hoped",
+      "valence": 2.73,
+      "arousal": 2.9,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "We ain't like midnight and cigarette smoke Nothing like watered down whiskey and coke I guess some things just don't mix like you hoped Like me and you",
+      "valence": 2.69,
+      "arousal": 2.94,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Nothing like watered down whiskey and coke I guess some things just don't mix like you hoped Like me and you And diamond rings and old barstools",
+      "valence": 2.76,
+      "arousal": 2.83,
+      "dominance": 3.03
+    }
+  ]
+}

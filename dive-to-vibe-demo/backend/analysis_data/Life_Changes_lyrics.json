@@ -1,0 +1,311 @@
+{
+  "artist": "Thomas Rhett",
+  "overall_vad": {
+    "valence": 3.15,
+    "arousal": 3.4,
+    "dominance": 3.17
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Waking up in my college dorm Yeah, my life, it was pretty normal Looking for a date to the spring formal Wasn't worried 'bout nothing else, no",
+      "valence": 3.1,
+      "arousal": 2.99,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Yeah, my life, it was pretty normal Looking for a date to the spring formal Wasn't worried 'bout nothing else, no Majoring in undecided",
+      "valence": 3.19,
+      "arousal": 3.0,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Looking for a date to the spring formal Wasn't worried 'bout nothing else, no Majoring in undecided Notebook full of bad songs I was writing",
+      "valence": 2.77,
+      "arousal": 2.97,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Wasn't worried 'bout nothing else, no Majoring in undecided Notebook full of bad songs I was writing Never dreamed anyone else would like'em",
+      "valence": 2.58,
+      "arousal": 2.99,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Majoring in undecided Notebook full of bad songs I was writing Never dreamed anyone else would like'em Now they're sitting on a Walmart shelf",
+      "valence": 2.56,
+      "arousal": 2.95,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Notebook full of bad songs I was writing Never dreamed anyone else would like'em Now they're sitting on a Walmart shelf Ain't it funny how life changes",
+      "valence": 2.55,
+      "arousal": 3.13,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Never dreamed anyone else would like'em Now they're sitting on a Walmart shelf Ain't it funny how life changes You wake up, ain't nothing the same and life changes",
+      "valence": 2.91,
+      "arousal": 3.26,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Now they're sitting on a Walmart shelf Ain't it funny how life changes You wake up, ain't nothing the same and life changes You can't stop it, just hop on the train and",
+      "valence": 2.94,
+      "arousal": 3.27,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Ain't it funny how life changes You wake up, ain't nothing the same and life changes You can't stop it, just hop on the train and You never know what's gonna happen",
+      "valence": 2.97,
+      "arousal": 3.27,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "You wake up, ain't nothing the same and life changes You can't stop it, just hop on the train and You never know what's gonna happen You make your plans and you hear god laughing",
+      "valence": 3.21,
+      "arousal": 3.5,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "You can't stop it, just hop on the train and You never know what's gonna happen You make your plans and you hear god laughing Life changes, and I wouldn't change it for the world, the world, oh no",
+      "valence": 3.18,
+      "arousal": 3.64,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "You never know what's gonna happen You make your plans and you hear god laughing Life changes, and I wouldn't change it for the world, the world, oh no And I wouldn't change it for the world, the world, oh no",
+      "valence": 3.06,
+      "arousal": 3.4,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "You make your plans and you hear god laughing Life changes, and I wouldn't change it for the world, the world, oh no And I wouldn't change it for the world, the world, oh no I bought a ring and she said \"I do\"",
+      "valence": 3.44,
+      "arousal": 3.44,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Life changes, and I wouldn't change it for the world, the world, oh no And I wouldn't change it for the world, the world, oh no I bought a ring and she said \"I do\" But everybody else said, \"man, you're twenty-two",
+      "valence": 3.14,
+      "arousal": 3.26,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And I wouldn't change it for the world, the world, oh no I bought a ring and she said \"I do\" But everybody else said, \"man, you're twenty-two \"Whatcha trying to prove?\"",
+      "valence": 2.97,
+      "arousal": 3.39,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I bought a ring and she said \"I do\" But everybody else said, \"man, you're twenty-two \"Whatcha trying to prove?\" \"Hey why don't you wait?\"",
+      "valence": 3.09,
+      "arousal": 3.28,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "But everybody else said, \"man, you're twenty-two \"Whatcha trying to prove?\" \"Hey why don't you wait?\" 'Cause I've been waiting on her since the second grade yeah",
+      "valence": 2.91,
+      "arousal": 3.43,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "\"Whatcha trying to prove?\" \"Hey why don't you wait?\" 'Cause I've been waiting on her since the second grade yeah And now she got her own set of fans",
+      "valence": 3.02,
+      "arousal": 3.43,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "\"Hey why don't you wait?\" 'Cause I've been waiting on her since the second grade yeah And now she got her own set of fans She got a blue check mark by her Instagram",
+      "valence": 3.16,
+      "arousal": 3.44,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "'Cause I've been waiting on her since the second grade yeah And now she got her own set of fans She got a blue check mark by her Instagram And I wrote a little song about holding her hand and now everybody wanna die happy now",
+      "valence": 3.61,
+      "arousal": 3.66,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "And now she got her own set of fans She got a blue check mark by her Instagram And I wrote a little song about holding her hand and now everybody wanna die happy now Ain't it funny how life changes",
+      "valence": 3.49,
+      "arousal": 3.51,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "She got a blue check mark by her Instagram And I wrote a little song about holding her hand and now everybody wanna die happy now Ain't it funny how life changes You wake up ain't nothing the same and life changes",
+      "valence": 3.25,
+      "arousal": 3.4,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "And I wrote a little song about holding her hand and now everybody wanna die happy now Ain't it funny how life changes You wake up ain't nothing the same and life changes You can't stop it just hop on the train",
+      "valence": 3.09,
+      "arousal": 3.41,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Ain't it funny how life changes You wake up ain't nothing the same and life changes You can't stop it just hop on the train You never know what's gonna happen",
+      "valence": 2.92,
+      "arousal": 3.28,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "You wake up ain't nothing the same and life changes You can't stop it just hop on the train You never know what's gonna happen You make your plans and you god laughing",
+      "valence": 3.12,
+      "arousal": 3.55,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "You can't stop it just hop on the train You never know what's gonna happen You make your plans and you god laughing Life changes (yes it does) and I wouldn't change it for the world, the world, oh no",
+      "valence": 3.11,
+      "arousal": 3.67,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "You never know what's gonna happen You make your plans and you god laughing Life changes (yes it does) and I wouldn't change it for the world, the world, oh no And I wouldn't change it for the world, the world, oh no",
+      "valence": 3.11,
+      "arousal": 3.56,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "You make your plans and you god laughing Life changes (yes it does) and I wouldn't change it for the world, the world, oh no And I wouldn't change it for the world, the world, oh no I remember the day I told my Daddy and Mama you're gonna have a grandkid, yep",
+      "valence": 3.58,
+      "arousal": 3.71,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Life changes (yes it does) and I wouldn't change it for the world, the world, oh no And I wouldn't change it for the world, the world, oh no I remember the day I told my Daddy and Mama you're gonna have a grandkid, yep From Uganda, that's right, we're adopting",
+      "valence": 3.4,
+      "arousal": 3.45,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "And I wouldn't change it for the world, the world, oh no I remember the day I told my Daddy and Mama you're gonna have a grandkid, yep From Uganda, that's right, we're adopting And she is the cutest little girl that you've ever seen",
+      "valence": 3.85,
+      "arousal": 3.72,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I remember the day I told my Daddy and Mama you're gonna have a grandkid, yep From Uganda, that's right, we're adopting And she is the cutest little girl that you've ever seen Well I was wrapping my head around being a dad",
+      "valence": 3.87,
+      "arousal": 3.63,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "From Uganda, that's right, we're adopting And she is the cutest little girl that you've ever seen Well I was wrapping my head around being a dad A bigger wrench got thrown in the plans we thought we'd had",
+      "valence": 3.78,
+      "arousal": 3.63,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "And she is the cutest little girl that you've ever seen Well I was wrapping my head around being a dad A bigger wrench got thrown in the plans we thought we'd had Now Lauren's showin', got one on the way",
+      "valence": 3.88,
+      "arousal": 3.78,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Well I was wrapping my head around being a dad A bigger wrench got thrown in the plans we thought we'd had Now Lauren's showin', got one on the way Yeah that's two under two, hey, what can I say?",
+      "valence": 3.1,
+      "arousal": 3.41,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "A bigger wrench got thrown in the plans we thought we'd had Now Lauren's showin', got one on the way Yeah that's two under two, hey, what can I say? Ain't it funny how life changes",
+      "valence": 3.23,
+      "arousal": 3.49,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Now Lauren's showin', got one on the way Yeah that's two under two, hey, what can I say? Ain't it funny how life changes You wake up ain't nothing the same and life changes",
+      "valence": 3.06,
+      "arousal": 3.38,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Yeah that's two under two, hey, what can I say? Ain't it funny how life changes You wake up ain't nothing the same and life changes You can't stop it just hop on the train and",
+      "valence": 2.91,
+      "arousal": 3.24,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Ain't it funny how life changes You wake up ain't nothing the same and life changes You can't stop it just hop on the train and You never know what's gonna happen",
+      "valence": 2.91,
+      "arousal": 3.27,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "You wake up ain't nothing the same and life changes You can't stop it just hop on the train and You never know what's gonna happen You make your plans and you god laughing",
+      "valence": 3.18,
+      "arousal": 3.56,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "You can't stop it just hop on the train and You never know what's gonna happen You make your plans and you god laughing Life changes (yes it does) and I wouldn't change it for the world, the world, oh no",
+      "valence": 3.13,
+      "arousal": 3.71,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "You never know what's gonna happen You make your plans and you god laughing Life changes (yes it does) and I wouldn't change it for the world, the world, oh no And I wouldn't change it for the world, the world, oh no",
+      "valence": 3.11,
+      "arousal": 3.56,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "You make your plans and you god laughing Life changes (yes it does) and I wouldn't change it for the world, the world, oh no And I wouldn't change it for the world, the world, oh no The world, the world",
+      "valence": 3.27,
+      "arousal": 3.58,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Life changes (yes it does) and I wouldn't change it for the world, the world, oh no And I wouldn't change it for the world, the world, oh no The world, the world The world, the world",
+      "valence": 2.7,
+      "arousal": 3.12,
+      "dominance": 3.37
+    }
+  ]
+}

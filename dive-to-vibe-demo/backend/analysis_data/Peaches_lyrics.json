@@ -1,0 +1,346 @@
+{
+  "artist": "Justin Bieber Featuring Daniel Caesar & Giveon",
+  "overall_vad": {
+    "valence": 2.73,
+    "arousal": 3.79,
+    "dominance": 3.45
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I got my peaches out in Georgia (oh, yeah, shit) I get my weed from California (that's that shit) I took my chick up to the North, yeah (badass bitch) I get my light right from the source, yeah (yeah, that's it)",
+      "valence": 2.27,
+      "arousal": 3.87,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I get my weed from California (that's that shit) I took my chick up to the North, yeah (badass bitch) I get my light right from the source, yeah (yeah, that's it) And I see you (oh), the way I breathe you in (in), it's the texture of your skin",
+      "valence": 2.67,
+      "arousal": 3.69,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I took my chick up to the North, yeah (badass bitch) I get my light right from the source, yeah (yeah, that's it) And I see you (oh), the way I breathe you in (in), it's the texture of your skin I wanna wrap my arms around you, baby, never let you go, oh",
+      "valence": 2.95,
+      "arousal": 3.92,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I get my light right from the source, yeah (yeah, that's it) And I see you (oh), the way I breathe you in (in), it's the texture of your skin I wanna wrap my arms around you, baby, never let you go, oh And I say, oh, there's nothing like your touch",
+      "valence": 3.45,
+      "arousal": 3.73,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "And I see you (oh), the way I breathe you in (in), it's the texture of your skin I wanna wrap my arms around you, baby, never let you go, oh And I say, oh, there's nothing like your touch It's the way you lift me up, yeah",
+      "valence": 3.69,
+      "arousal": 3.92,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I wanna wrap my arms around you, baby, never let you go, oh And I say, oh, there's nothing like your touch It's the way you lift me up, yeah And I'll be right here with you 'til the end",
+      "valence": 3.79,
+      "arousal": 4.04,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "And I say, oh, there's nothing like your touch It's the way you lift me up, yeah And I'll be right here with you 'til the end I got my peaches out in Georgia (oh, yeah, shit)",
+      "valence": 3.43,
+      "arousal": 4.05,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "It's the way you lift me up, yeah And I'll be right here with you 'til the end I got my peaches out in Georgia (oh, yeah, shit) I get my weed from California (that's that shit)",
+      "valence": 3.18,
+      "arousal": 3.88,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "And I'll be right here with you 'til the end I got my peaches out in Georgia (oh, yeah, shit) I get my weed from California (that's that shit) I took my chick up to the North, yeah (badass bitch)",
+      "valence": 2.31,
+      "arousal": 4.07,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I got my peaches out in Georgia (oh, yeah, shit) I get my weed from California (that's that shit) I took my chick up to the North, yeah (badass bitch) I get my light right from the source, yeah (yeah, that's it)",
+      "valence": 2.27,
+      "arousal": 3.87,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I get my weed from California (that's that shit) I took my chick up to the North, yeah (badass bitch) I get my light right from the source, yeah (yeah, that's it) You ain't sure yet, but I'm for ya",
+      "valence": 2.59,
+      "arousal": 3.68,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I took my chick up to the North, yeah (badass bitch) I get my light right from the source, yeah (yeah, that's it) You ain't sure yet, but I'm for ya All I could want, all I can wish for",
+      "valence": 2.81,
+      "arousal": 3.8,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I get my light right from the source, yeah (yeah, that's it) You ain't sure yet, but I'm for ya All I could want, all I can wish for Nights alone that we miss more",
+      "valence": 3.03,
+      "arousal": 3.3,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "You ain't sure yet, but I'm for ya All I could want, all I can wish for Nights alone that we miss more And days we save as souvenirs",
+      "valence": 3.04,
+      "arousal": 3.26,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "All I could want, all I can wish for Nights alone that we miss more And days we save as souvenirs There's no time, I wanna make more time",
+      "valence": 2.92,
+      "arousal": 3.46,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Nights alone that we miss more And days we save as souvenirs There's no time, I wanna make more time And give you my whole life",
+      "valence": 3.21,
+      "arousal": 3.59,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "And days we save as souvenirs There's no time, I wanna make more time And give you my whole life I left my girl, I'm in Mallorca",
+      "valence": 3.34,
+      "arousal": 3.65,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "There's no time, I wanna make more time And give you my whole life I left my girl, I'm in Mallorca Hate to leave her, call it torture",
+      "valence": 2.84,
+      "arousal": 3.9,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "And give you my whole life I left my girl, I'm in Mallorca Hate to leave her, call it torture Remember when I couldn't hold her",
+      "valence": 2.57,
+      "arousal": 3.78,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I left my girl, I'm in Mallorca Hate to leave her, call it torture Remember when I couldn't hold her Left her baggage for Rimowa",
+      "valence": 2.2,
+      "arousal": 3.59,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Hate to leave her, call it torture Remember when I couldn't hold her Left her baggage for Rimowa I got my peaches out in Georgia (oh, yeah, shit)",
+      "valence": 1.92,
+      "arousal": 3.91,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Remember when I couldn't hold her Left her baggage for Rimowa I got my peaches out in Georgia (oh, yeah, shit) I get my weed from California (that's that shit)",
+      "valence": 2.36,
+      "arousal": 3.67,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Left her baggage for Rimowa I got my peaches out in Georgia (oh, yeah, shit) I get my weed from California (that's that shit) I took my chick up to the North, yeah (badass bitch)",
+      "valence": 2.15,
+      "arousal": 3.97,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I got my peaches out in Georgia (oh, yeah, shit) I get my weed from California (that's that shit) I took my chick up to the North, yeah (badass bitch) I get my light right from the source, yeah (yeah, that's it)",
+      "valence": 2.27,
+      "arousal": 3.87,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I get my weed from California (that's that shit) I took my chick up to the North, yeah (badass bitch) I get my light right from the source, yeah (yeah, that's it) I get the feeling, so I'm sure (sure)",
+      "valence": 2.59,
+      "arousal": 3.68,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I took my chick up to the North, yeah (badass bitch) I get my light right from the source, yeah (yeah, that's it) I get the feeling, so I'm sure (sure) Hand in my hand because I'm yours",
+      "valence": 2.91,
+      "arousal": 3.73,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I get my light right from the source, yeah (yeah, that's it) I get the feeling, so I'm sure (sure) Hand in my hand because I'm yours I can't, I can't pretend, I can't ignore you're right for me",
+      "valence": 3.22,
+      "arousal": 3.43,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I get the feeling, so I'm sure (sure) Hand in my hand because I'm yours I can't, I can't pretend, I can't ignore you're right for me Don't think you wanna know just where I've been, oh",
+      "valence": 3.18,
+      "arousal": 3.46,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Hand in my hand because I'm yours I can't, I can't pretend, I can't ignore you're right for me Don't think you wanna know just where I've been, oh Done being distracted",
+      "valence": 2.96,
+      "arousal": 3.47,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I can't, I can't pretend, I can't ignore you're right for me Don't think you wanna know just where I've been, oh Done being distracted The one I need is right in my arms (oh)",
+      "valence": 2.89,
+      "arousal": 3.54,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Don't think you wanna know just where I've been, oh Done being distracted The one I need is right in my arms (oh) Your kisses taste the sweetest with mine",
+      "valence": 3.49,
+      "arousal": 3.77,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Done being distracted The one I need is right in my arms (oh) Your kisses taste the sweetest with mine And I'll be right here with you 'til end of time",
+      "valence": 3.66,
+      "arousal": 3.77,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "The one I need is right in my arms (oh) Your kisses taste the sweetest with mine And I'll be right here with you 'til end of time I got my peaches out in Georgia (oh, yeah, shit)",
+      "valence": 3.67,
+      "arousal": 4.17,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Your kisses taste the sweetest with mine And I'll be right here with you 'til end of time I got my peaches out in Georgia (oh, yeah, shit) I get my weed from California (that's that shit)",
+      "valence": 3.38,
+      "arousal": 4.17,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "And I'll be right here with you 'til end of time I got my peaches out in Georgia (oh, yeah, shit) I get my weed from California (that's that shit) I took my chick up to the North, yeah (badass bitch)",
+      "valence": 2.28,
+      "arousal": 4.02,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I got my peaches out in Georgia (oh, yeah, shit) I get my weed from California (that's that shit) I took my chick up to the North, yeah (badass bitch) I get my light right from the source, yeah (yeah, that's it)",
+      "valence": 2.27,
+      "arousal": 3.87,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I get my weed from California (that's that shit) I took my chick up to the North, yeah (badass bitch) I get my light right from the source, yeah (yeah, that's it) I got my peaches out in Georgia (oh, yeah, shit)",
+      "valence": 2.22,
+      "arousal": 3.83,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "I took my chick up to the North, yeah (badass bitch) I get my light right from the source, yeah (yeah, that's it) I got my peaches out in Georgia (oh, yeah, shit) I get my weed from California (that's that shit)",
+      "valence": 2.27,
+      "arousal": 3.81,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I get my light right from the source, yeah (yeah, that's it) I got my peaches out in Georgia (oh, yeah, shit) I get my weed from California (that's that shit) I took my chick up to the North, yeah (badass bitch)",
+      "valence": 2.29,
+      "arousal": 3.85,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "I got my peaches out in Georgia (oh, yeah, shit) I get my weed from California (that's that shit) I took my chick up to the North, yeah (badass bitch) (I get my light right from the source, yeah, yeah)",
+      "valence": 2.24,
+      "arousal": 3.97,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I get my weed from California (that's that shit) I took my chick up to the North, yeah (badass bitch) (I get my light right from the source, yeah, yeah) I got my peaches out in Georgia (oh, yeah, shit)",
+      "valence": 2.23,
+      "arousal": 3.91,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "I took my chick up to the North, yeah (badass bitch) (I get my light right from the source, yeah, yeah) I got my peaches out in Georgia (oh, yeah, shit) I get my weed from California (that's that shit)",
+      "valence": 2.28,
+      "arousal": 3.86,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "(I get my light right from the source, yeah, yeah) I got my peaches out in Georgia (oh, yeah, shit) I get my weed from California (that's that shit) I took my chick up to the North, yeah (badass bitch)",
+      "valence": 2.32,
+      "arousal": 3.87,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I got my peaches out in Georgia (oh, yeah, shit) I get my weed from California (that's that shit) I took my chick up to the North, yeah (badass bitch) I get my light right from the source, yeah (yeah, that's it)",
+      "valence": 2.27,
+      "arousal": 3.87,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I get my weed from California (that's that shit) I took my chick up to the North, yeah (badass bitch) I get my light right from the source, yeah (yeah, that's it) I got my peaches out in Georgia (oh, yeah, shit)",
+      "valence": 2.22,
+      "arousal": 3.83,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I took my chick up to the North, yeah (badass bitch) I get my light right from the source, yeah (yeah, that's it) I got my peaches out in Georgia (oh, yeah, shit) I get my weed from California (that's that shit)",
+      "valence": 2.27,
+      "arousal": 3.81,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I get my light right from the source, yeah (yeah, that's it) I got my peaches out in Georgia (oh, yeah, shit) I get my weed from California (that's that shit) I took my chick up to the North, yeah (badass bitch)",
+      "valence": 2.29,
+      "arousal": 3.85,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I got my peaches out in Georgia (oh, yeah, shit) I get my weed from California (that's that shit) I took my chick up to the North, yeah (badass bitch) I get my light right from the source, yeah (yeah, that's it)",
+      "valence": 2.27,
+      "arousal": 3.87,
+      "dominance": 3.62
+    }
+  ]
+}

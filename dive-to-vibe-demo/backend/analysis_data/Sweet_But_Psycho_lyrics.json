@@ -1,0 +1,514 @@
+{
+  "artist": "Ava Max",
+  "overall_vad": {
+    "valence": 2.6,
+    "arousal": 3.63,
+    "dominance": 3.2
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Oh, she's sweet but a psycho A little bit psycho At night she's screamin' \"I'm-ma-ma-ma out my mind\"",
+      "valence": 2.51,
+      "arousal": 3.64,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "A little bit psycho At night she's screamin' \"I'm-ma-ma-ma out my mind\" Oh, she's hot but a psycho",
+      "valence": 2.34,
+      "arousal": 3.7,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "At night she's screamin' \"I'm-ma-ma-ma out my mind\" Oh, she's hot but a psycho So left but she's right, though",
+      "valence": 2.59,
+      "arousal": 3.72,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "\"I'm-ma-ma-ma out my mind\" Oh, she's hot but a psycho So left but she's right, though At night she's screamin'",
+      "valence": 2.49,
+      "arousal": 3.8,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Oh, she's hot but a psycho So left but she's right, though At night she's screamin' \"I'm-ma-ma-ma out my mind\"",
+      "valence": 2.6,
+      "arousal": 3.67,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "So left but she's right, though At night she's screamin' \"I'm-ma-ma-ma out my mind\" She'll make you curse, but she a blessin'",
+      "valence": 2.7,
+      "arousal": 3.61,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "At night she's screamin' \"I'm-ma-ma-ma out my mind\" She'll make you curse, but she a blessin' She'll rip your shirt within a second",
+      "valence": 2.35,
+      "arousal": 3.97,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "\"I'm-ma-ma-ma out my mind\" She'll make you curse, but she a blessin' She'll rip your shirt within a second You'll be coming back, back for seconds",
+      "valence": 2.57,
+      "arousal": 3.84,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "She'll make you curse, but she a blessin' She'll rip your shirt within a second You'll be coming back, back for seconds With your plate, you just can't help it",
+      "valence": 2.59,
+      "arousal": 3.77,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "She'll rip your shirt within a second You'll be coming back, back for seconds With your plate, you just can't help it No, no, you'll play along",
+      "valence": 2.75,
+      "arousal": 3.56,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "You'll be coming back, back for seconds With your plate, you just can't help it No, no, you'll play along Let her lead you on",
+      "valence": 3.08,
+      "arousal": 3.2,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "With your plate, you just can't help it No, no, you'll play along Let her lead you on You'll be saying, \"No, no\"",
+      "valence": 2.78,
+      "arousal": 3.26,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "No, no, you'll play along Let her lead you on You'll be saying, \"No, no\" Then saying, \"Yes, yes, yes\"",
+      "valence": 2.95,
+      "arousal": 3.25,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Let her lead you on You'll be saying, \"No, no\" Then saying, \"Yes, yes, yes\" 'Cause she messin' with your head",
+      "valence": 2.78,
+      "arousal": 3.31,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "You'll be saying, \"No, no\" Then saying, \"Yes, yes, yes\" 'Cause she messin' with your head Oh, she's sweet but a psycho",
+      "valence": 2.71,
+      "arousal": 3.39,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Then saying, \"Yes, yes, yes\" 'Cause she messin' with your head Oh, she's sweet but a psycho A little bit psycho",
+      "valence": 2.67,
+      "arousal": 3.41,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "'Cause she messin' with your head Oh, she's sweet but a psycho A little bit psycho At night she's screamin'",
+      "valence": 2.27,
+      "arousal": 3.66,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Oh, she's sweet but a psycho A little bit psycho At night she's screamin' \"I'm-ma-ma-ma out my mind\"",
+      "valence": 2.51,
+      "arousal": 3.64,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "A little bit psycho At night she's screamin' \"I'm-ma-ma-ma out my mind\" Oh, she's hot but a psycho",
+      "valence": 2.34,
+      "arousal": 3.7,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "At night she's screamin' \"I'm-ma-ma-ma out my mind\" Oh, she's hot but a psycho So left but she's right, though",
+      "valence": 2.59,
+      "arousal": 3.72,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "\"I'm-ma-ma-ma out my mind\" Oh, she's hot but a psycho So left but she's right, though At night she's screamin'",
+      "valence": 2.49,
+      "arousal": 3.8,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Oh, she's hot but a psycho So left but she's right, though At night she's screamin' \"I'm-ma-ma-ma out my mind\"",
+      "valence": 2.6,
+      "arousal": 3.67,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "So left but she's right, though At night she's screamin' \"I'm-ma-ma-ma out my mind\" \"Grab a cop gun\" kinda crazy",
+      "valence": 2.45,
+      "arousal": 3.73,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "At night she's screamin' \"I'm-ma-ma-ma out my mind\" \"Grab a cop gun\" kinda crazy She's poison but tasty",
+      "valence": 2.41,
+      "arousal": 3.88,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "\"I'm-ma-ma-ma out my mind\" \"Grab a cop gun\" kinda crazy She's poison but tasty Yeah, people say, \"Run, don't walk away\"",
+      "valence": 2.57,
+      "arousal": 3.74,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "\"Grab a cop gun\" kinda crazy She's poison but tasty Yeah, people say, \"Run, don't walk away\" 'Cause she's sweet but a psycho",
+      "valence": 2.6,
+      "arousal": 3.68,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "She's poison but tasty Yeah, people say, \"Run, don't walk away\" 'Cause she's sweet but a psycho A little bit psycho",
+      "valence": 2.69,
+      "arousal": 3.52,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Yeah, people say, \"Run, don't walk away\" 'Cause she's sweet but a psycho A little bit psycho At night she's screamin'",
+      "valence": 2.66,
+      "arousal": 3.54,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "'Cause she's sweet but a psycho A little bit psycho At night she's screamin' \"I'm-ma-ma-ma out my mind\"",
+      "valence": 2.38,
+      "arousal": 3.71,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "A little bit psycho At night she's screamin' \"I'm-ma-ma-ma out my mind\" See, someone said, \"Don't drink her potions",
+      "valence": 2.45,
+      "arousal": 3.56,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "At night she's screamin' \"I'm-ma-ma-ma out my mind\" See, someone said, \"Don't drink her potions She'll kiss your neck with no emotion",
+      "valence": 2.5,
+      "arousal": 3.72,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "\"I'm-ma-ma-ma out my mind\" See, someone said, \"Don't drink her potions She'll kiss your neck with no emotion When she's mean, you know you love it",
+      "valence": 3.02,
+      "arousal": 3.71,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "See, someone said, \"Don't drink her potions She'll kiss your neck with no emotion When she's mean, you know you love it 'Cause she tastes so sweet, don't sugarcoat it\"",
+      "valence": 3.3,
+      "arousal": 3.56,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "She'll kiss your neck with no emotion When she's mean, you know you love it 'Cause she tastes so sweet, don't sugarcoat it\" No, no, you'll play along",
+      "valence": 3.41,
+      "arousal": 3.63,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "When she's mean, you know you love it 'Cause she tastes so sweet, don't sugarcoat it\" No, no, you'll play along Let her lead you on",
+      "valence": 3.36,
+      "arousal": 3.54,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "'Cause she tastes so sweet, don't sugarcoat it\" No, no, you'll play along Let her lead you on You'll be saying, \"No (no, no, no), no (no)\"",
+      "valence": 2.95,
+      "arousal": 3.47,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "No, no, you'll play along Let her lead you on You'll be saying, \"No (no, no, no), no (no)\" Then saying, \"Yes, yes, yes\"",
+      "valence": 3.0,
+      "arousal": 3.25,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Let her lead you on You'll be saying, \"No (no, no, no), no (no)\" Then saying, \"Yes, yes, yes\" 'Cause she messin' with your head (hey)",
+      "valence": 2.82,
+      "arousal": 3.35,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "You'll be saying, \"No (no, no, no), no (no)\" Then saying, \"Yes, yes, yes\" 'Cause she messin' with your head (hey) Oh, she's sweet but a psycho",
+      "valence": 2.66,
+      "arousal": 3.45,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Then saying, \"Yes, yes, yes\" 'Cause she messin' with your head (hey) Oh, she's sweet but a psycho A little bit psycho",
+      "valence": 2.64,
+      "arousal": 3.47,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "'Cause she messin' with your head (hey) Oh, she's sweet but a psycho A little bit psycho At night she's screamin'",
+      "valence": 2.29,
+      "arousal": 3.61,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Oh, she's sweet but a psycho A little bit psycho At night she's screamin' \"I'm-ma-ma-ma out my mind\"",
+      "valence": 2.51,
+      "arousal": 3.64,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "A little bit psycho At night she's screamin' \"I'm-ma-ma-ma out my mind\" Oh, she's hot but a psycho",
+      "valence": 2.34,
+      "arousal": 3.7,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "At night she's screamin' \"I'm-ma-ma-ma out my mind\" Oh, she's hot but a psycho So left but she's right, though",
+      "valence": 2.59,
+      "arousal": 3.72,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "\"I'm-ma-ma-ma out my mind\" Oh, she's hot but a psycho So left but she's right, though At night she's screamin'",
+      "valence": 2.49,
+      "arousal": 3.8,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Oh, she's hot but a psycho So left but she's right, though At night she's screamin' \"I'm-ma-ma-ma out my mind\"",
+      "valence": 2.6,
+      "arousal": 3.67,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "So left but she's right, though At night she's screamin' \"I'm-ma-ma-ma out my mind\" \"Grab a cop gun\" kinda crazy",
+      "valence": 2.45,
+      "arousal": 3.73,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "At night she's screamin' \"I'm-ma-ma-ma out my mind\" \"Grab a cop gun\" kinda crazy She's poison but tasty",
+      "valence": 2.41,
+      "arousal": 3.88,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "\"I'm-ma-ma-ma out my mind\" \"Grab a cop gun\" kinda crazy She's poison but tasty Yeah, people say, \"Run, don't walk away\"",
+      "valence": 2.57,
+      "arousal": 3.74,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "\"Grab a cop gun\" kinda crazy She's poison but tasty Yeah, people say, \"Run, don't walk away\" 'Cause she's sweet but a psycho",
+      "valence": 2.6,
+      "arousal": 3.68,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "She's poison but tasty Yeah, people say, \"Run, don't walk away\" 'Cause she's sweet but a psycho A little bit psycho",
+      "valence": 2.69,
+      "arousal": 3.52,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Yeah, people say, \"Run, don't walk away\" 'Cause she's sweet but a psycho A little bit psycho At night she's screamin'",
+      "valence": 2.66,
+      "arousal": 3.54,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "'Cause she's sweet but a psycho A little bit psycho At night she's screamin' \"I'm-ma-ma-ma out my mind\"",
+      "valence": 2.38,
+      "arousal": 3.71,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "A little bit psycho At night she's screamin' \"I'm-ma-ma-ma out my mind\" You're just like me, you're out your mind",
+      "valence": 2.37,
+      "arousal": 3.73,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "At night she's screamin' \"I'm-ma-ma-ma out my mind\" You're just like me, you're out your mind I know it's strange, we're both the crazy kind",
+      "valence": 2.52,
+      "arousal": 3.83,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "\"I'm-ma-ma-ma out my mind\" You're just like me, you're out your mind I know it's strange, we're both the crazy kind You're tellin' me that I'm insane",
+      "valence": 2.52,
+      "arousal": 3.74,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "You're just like me, you're out your mind I know it's strange, we're both the crazy kind You're tellin' me that I'm insane Boy, don't pretend that you don't love the pain",
+      "valence": 2.52,
+      "arousal": 3.64,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "I know it's strange, we're both the crazy kind You're tellin' me that I'm insane Boy, don't pretend that you don't love the pain Oh, she's sweet but a psycho",
+      "valence": 2.48,
+      "arousal": 3.55,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "You're tellin' me that I'm insane Boy, don't pretend that you don't love the pain Oh, she's sweet but a psycho A little bit psycho",
+      "valence": 2.32,
+      "arousal": 3.59,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Boy, don't pretend that you don't love the pain Oh, she's sweet but a psycho A little bit psycho At night she's screamin'",
+      "valence": 2.4,
+      "arousal": 3.54,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Oh, she's sweet but a psycho A little bit psycho At night she's screamin' \"I'm-ma-ma-ma out my mind\"",
+      "valence": 2.51,
+      "arousal": 3.64,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "A little bit psycho At night she's screamin' \"I'm-ma-ma-ma out my mind\" Oh, she's hot but a psycho",
+      "valence": 2.34,
+      "arousal": 3.7,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "At night she's screamin' \"I'm-ma-ma-ma out my mind\" Oh, she's hot but a psycho So left but she's right, though",
+      "valence": 2.59,
+      "arousal": 3.72,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "\"I'm-ma-ma-ma out my mind\" Oh, she's hot but a psycho So left but she's right, though At night she's screamin'",
+      "valence": 2.49,
+      "arousal": 3.8,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Oh, she's hot but a psycho So left but she's right, though At night she's screamin' \"I'm-ma-ma-ma out my mind\"",
+      "valence": 2.6,
+      "arousal": 3.67,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "So left but she's right, though At night she's screamin' \"I'm-ma-ma-ma out my mind\" \"Grab a cop gun\" kinda crazy",
+      "valence": 2.45,
+      "arousal": 3.73,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "At night she's screamin' \"I'm-ma-ma-ma out my mind\" \"Grab a cop gun\" kinda crazy She's poison but tasty",
+      "valence": 2.41,
+      "arousal": 3.88,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "\"I'm-ma-ma-ma out my mind\" \"Grab a cop gun\" kinda crazy She's poison but tasty Yeah, people say, \"Run, don't walk away\"",
+      "valence": 2.57,
+      "arousal": 3.74,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "\"Grab a cop gun\" kinda crazy She's poison but tasty Yeah, people say, \"Run, don't walk away\" 'Cause she's sweet but a psycho",
+      "valence": 2.6,
+      "arousal": 3.68,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "She's poison but tasty Yeah, people say, \"Run, don't walk away\" 'Cause she's sweet but a psycho A little bit psycho",
+      "valence": 2.69,
+      "arousal": 3.52,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Yeah, people say, \"Run, don't walk away\" 'Cause she's sweet but a psycho A little bit psycho At night she's screamin'",
+      "valence": 2.66,
+      "arousal": 3.54,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "'Cause she's sweet but a psycho A little bit psycho At night she's screamin' \"I'm-ma-ma-ma out my mind\"",
+      "valence": 2.38,
+      "arousal": 3.71,
+      "dominance": 3.13
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "artist": "Luke Combs",
+  "overall_vad": {
+    "valence": 3.07,
+    "arousal": 3.17,
+    "dominance": 3.06
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "A cold beer's got 12 ounces A good truck's got maybe three hundred thousand You only get so much until it's gone Duracells in a Maglite",
+      "valence": 3.12,
+      "arousal": 2.92,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "A good truck's got maybe three hundred thousand You only get so much until it's gone Duracells in a Maglite A needle drop on a 45",
+      "valence": 2.95,
+      "arousal": 2.93,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "You only get so much until it's gone Duracells in a Maglite A needle drop on a 45 Are the kinda things that only last so long",
+      "valence": 2.93,
+      "arousal": 2.87,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Duracells in a Maglite A needle drop on a 45 Are the kinda things that only last so long When the new wears off, and they get to getting old",
+      "valence": 2.87,
+      "arousal": 2.82,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "A needle drop on a 45 Are the kinda things that only last so long When the new wears off, and they get to getting old Sooner or later, time's gonna take its toll",
+      "valence": 2.59,
+      "arousal": 2.81,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Are the kinda things that only last so long When the new wears off, and they get to getting old Sooner or later, time's gonna take its toll They say nothing lasts forever",
+      "valence": 2.64,
+      "arousal": 2.82,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "When the new wears off, and they get to getting old Sooner or later, time's gonna take its toll They say nothing lasts forever But they ain't seen us together",
+      "valence": 2.47,
+      "arousal": 2.89,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Sooner or later, time's gonna take its toll They say nothing lasts forever But they ain't seen us together Or the way the moonlight dances in your eyes",
+      "valence": 2.99,
+      "arousal": 3.17,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "They say nothing lasts forever But they ain't seen us together Or the way the moonlight dances in your eyes Just a t-shirt in the kitchen",
+      "valence": 3.01,
+      "arousal": 3.11,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "But they ain't seen us together Or the way the moonlight dances in your eyes Just a t-shirt in the kitchen With no make-up and a million",
+      "valence": 2.91,
+      "arousal": 3.04,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Or the way the moonlight dances in your eyes Just a t-shirt in the kitchen With no make-up and a million Other things that I could look at my whole life",
+      "valence": 3.18,
+      "arousal": 3.2,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Just a t-shirt in the kitchen With no make-up and a million Other things that I could look at my whole life A love like that makes a man have second thoughts",
+      "valence": 3.39,
+      "arousal": 3.63,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "With no make-up and a million Other things that I could look at my whole life A love like that makes a man have second thoughts Maybe some things last forever after all",
+      "valence": 3.46,
+      "arousal": 3.6,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Other things that I could look at my whole life A love like that makes a man have second thoughts Maybe some things last forever after all FM station on the outskirts",
+      "valence": 3.61,
+      "arousal": 3.56,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "A love like that makes a man have second thoughts Maybe some things last forever after all FM station on the outskirts Blue jeans after years of shift work",
+      "valence": 3.39,
+      "arousal": 3.43,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Maybe some things last forever after all FM station on the outskirts Blue jeans after years of shift work All fading out like I always knew they would",
+      "valence": 2.94,
+      "arousal": 2.9,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "FM station on the outskirts Blue jeans after years of shift work All fading out like I always knew they would The strings on this guitar",
+      "valence": 2.8,
+      "arousal": 2.75,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Blue jeans after years of shift work All fading out like I always knew they would The strings on this guitar The first love lost on a young heart",
+      "valence": 3.12,
+      "arousal": 3.16,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "All fading out like I always knew they would The strings on this guitar The first love lost on a young heart Those things are gonna break after the getting's good",
+      "valence": 2.98,
+      "arousal": 3.24,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "The strings on this guitar The first love lost on a young heart Those things are gonna break after the getting's good 'Cause the new wears off, and they get to getting old",
+      "valence": 3.3,
+      "arousal": 3.29,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "The first love lost on a young heart Those things are gonna break after the getting's good 'Cause the new wears off, and they get to getting old Yeah, sooner or later, time's gonna take its toll",
+      "valence": 2.81,
+      "arousal": 3.12,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Those things are gonna break after the getting's good 'Cause the new wears off, and they get to getting old Yeah, sooner or later, time's gonna take its toll They say nothing lasts forever",
+      "valence": 2.64,
+      "arousal": 2.85,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "'Cause the new wears off, and they get to getting old Yeah, sooner or later, time's gonna take its toll They say nothing lasts forever But they ain't seen us together",
+      "valence": 2.55,
+      "arousal": 2.86,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Yeah, sooner or later, time's gonna take its toll They say nothing lasts forever But they ain't seen us together Or the way the moonlight dances in your eyes",
+      "valence": 3.02,
+      "arousal": 3.15,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "They say nothing lasts forever But they ain't seen us together Or the way the moonlight dances in your eyes Just a t-shirt in the kitchen",
+      "valence": 3.01,
+      "arousal": 3.11,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "But they ain't seen us together Or the way the moonlight dances in your eyes Just a t-shirt in the kitchen With no make-up and a million",
+      "valence": 2.91,
+      "arousal": 3.04,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Or the way the moonlight dances in your eyes Just a t-shirt in the kitchen With no make-up and a million Other things that I could look at my whole life",
+      "valence": 3.18,
+      "arousal": 3.2,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Just a t-shirt in the kitchen With no make-up and a million Other things that I could look at my whole life A love like that makes a man have second thoughts",
+      "valence": 3.39,
+      "arousal": 3.63,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "With no make-up and a million Other things that I could look at my whole life A love like that makes a man have second thoughts Maybe some things last forever after all",
+      "valence": 3.46,
+      "arousal": 3.6,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Other things that I could look at my whole life A love like that makes a man have second thoughts Maybe some things last forever after all They say nothing lasts forever",
+      "valence": 3.67,
+      "arousal": 3.59,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "A love like that makes a man have second thoughts Maybe some things last forever after all They say nothing lasts forever But they ain't seen us together",
+      "valence": 3.32,
+      "arousal": 3.42,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Maybe some things last forever after all They say nothing lasts forever But they ain't seen us together Or the way the moonlight dances in your eyes",
+      "valence": 3.27,
+      "arousal": 3.22,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "They say nothing lasts forever But they ain't seen us together Or the way the moonlight dances in your eyes And I know there'll be that moment",
+      "valence": 3.25,
+      "arousal": 3.37,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "But they ain't seen us together Or the way the moonlight dances in your eyes And I know there'll be that moment The good Lord calls one of us home and",
+      "valence": 3.31,
+      "arousal": 3.37,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Or the way the moonlight dances in your eyes And I know there'll be that moment The good Lord calls one of us home and One won't have the other by their side",
+      "valence": 3.36,
+      "arousal": 3.35,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "And I know there'll be that moment The good Lord calls one of us home and One won't have the other by their side But heaven knows that that won't last too long",
+      "valence": 2.93,
+      "arousal": 3.25,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "The good Lord calls one of us home and One won't have the other by their side But heaven knows that that won't last too long Maybe some things last forever after all",
+      "valence": 3.01,
+      "arousal": 3.15,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "One won't have the other by their side But heaven knows that that won't last too long Maybe some things last forever after all After all",
+      "valence": 2.89,
+      "arousal": 3.1,
+      "dominance": 3.04
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "artist": "Billie Eilish",
+  "overall_vad": {
+    "valence": 2.6,
+    "arousal": 3.34,
+    "dominance": 3.11
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Something's in the- Something's in the air right now Like I'm losing track of time Like I don't really care right now, but maybe that's fine",
+      "valence": 2.82,
+      "arousal": 2.94,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Something's in the air right now Like I'm losing track of time Like I don't really care right now, but maybe that's fine You weren't even there that day",
+      "valence": 2.79,
+      "arousal": 3.0,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Like I'm losing track of time Like I don't really care right now, but maybe that's fine You weren't even there that day I was waitin' on you",
+      "valence": 2.76,
+      "arousal": 3.07,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Like I don't really care right now, but maybe that's fine You weren't even there that day I was waitin' on you I wondered if you aware that day was the last straw for me and I know",
+      "valence": 2.66,
+      "arousal": 3.2,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "You weren't even there that day I was waitin' on you I wondered if you aware that day was the last straw for me and I know I sent you flowers",
+      "valence": 2.81,
+      "arousal": 3.45,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I was waitin' on you I wondered if you aware that day was the last straw for me and I know I sent you flowers Did you even care?",
+      "valence": 2.9,
+      "arousal": 3.4,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I wondered if you aware that day was the last straw for me and I know I sent you flowers Did you even care? You ran the shower and left them by the stairs",
+      "valence": 2.77,
+      "arousal": 3.39,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I sent you flowers Did you even care? You ran the shower and left them by the stairs Ooh-ooh-ooh, ooh, ooh",
+      "valence": 3.26,
+      "arousal": 3.53,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Did you even care? You ran the shower and left them by the stairs Ooh-ooh-ooh, ooh, ooh Ay-ay-ay-ay, ay, ay",
+      "valence": 2.63,
+      "arousal": 3.29,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "You ran the shower and left them by the stairs Ooh-ooh-ooh, ooh, ooh Ay-ay-ay-ay, ay, ay Thought you had your shit together, but damn, I was wrong",
+      "valence": 2.36,
+      "arousal": 3.75,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Ooh-ooh-ooh, ooh, ooh Ay-ay-ay-ay, ay, ay Thought you had your shit together, but damn, I was wrong You ain't nothin' but a lost cause",
+      "valence": 2.32,
+      "arousal": 3.72,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Ay-ay-ay-ay, ay, ay Thought you had your shit together, but damn, I was wrong You ain't nothin' but a lost cause And this ain't nothin' like it once was",
+      "valence": 2.18,
+      "arousal": 3.56,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Thought you had your shit together, but damn, I was wrong You ain't nothin' but a lost cause And this ain't nothin' like it once was I know you think you're such an outlaw",
+      "valence": 2.09,
+      "arousal": 3.55,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "You ain't nothin' but a lost cause And this ain't nothin' like it once was I know you think you're such an outlaw But you got no job",
+      "valence": 2.15,
+      "arousal": 3.33,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And this ain't nothin' like it once was I know you think you're such an outlaw But you got no job You ain't nothin' but a lost cause",
+      "valence": 2.18,
+      "arousal": 3.31,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I know you think you're such an outlaw But you got no job You ain't nothin' but a lost cause And this ain't nothin' like it oncÐµ was",
+      "valence": 2.23,
+      "arousal": 3.37,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "But you got no job You ain't nothin' but a lost cause And this ain't nothin' like it oncÐµ was I know you think you're such an outlaw",
+      "valence": 2.19,
+      "arousal": 3.41,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "You ain't nothin' but a lost cause And this ain't nothin' like it oncÐµ was I know you think you're such an outlaw But you got no job",
+      "valence": 2.16,
+      "arousal": 3.35,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "And this ain't nothin' like it oncÐµ was I know you think you're such an outlaw But you got no job I used to think you were shy",
+      "valence": 2.29,
+      "arousal": 3.34,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I know you think you're such an outlaw But you got no job I used to think you were shy But maybe you just had nothing on your mind",
+      "valence": 2.75,
+      "arousal": 3.16,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "But you got no job I used to think you were shy But maybe you just had nothing on your mind Maybe you were thinkin' 'bout yourself all the time",
+      "valence": 2.73,
+      "arousal": 3.0,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I used to think you were shy But maybe you just had nothing on your mind Maybe you were thinkin' 'bout yourself all the time I used to wish you were mine",
+      "valence": 3.0,
+      "arousal": 3.22,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "But maybe you just had nothing on your mind Maybe you were thinkin' 'bout yourself all the time I used to wish you were mine But that was way before I realized",
+      "valence": 2.81,
+      "arousal": 3.08,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Maybe you were thinkin' 'bout yourself all the time I used to wish you were mine But that was way before I realized Someone like you would always be so easy to find",
+      "valence": 3.1,
+      "arousal": 3.27,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I used to wish you were mine But that was way before I realized Someone like you would always be so easy to find So easy (so easy)",
+      "valence": 3.14,
+      "arousal": 3.36,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "But that was way before I realized Someone like you would always be so easy to find So easy (so easy) He-hee, mm-mm-mm, mm",
+      "valence": 3.22,
+      "arousal": 3.19,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Someone like you would always be so easy to find So easy (so easy) He-hee, mm-mm-mm, mm Gave me no flowers",
+      "valence": 3.08,
+      "arousal": 3.01,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "So easy (so easy) He-hee, mm-mm-mm, mm Gave me no flowers Wish I didn't care",
+      "valence": 3.17,
+      "arousal": 3.16,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "He-hee, mm-mm-mm, mm Gave me no flowers Wish I didn't care You'd been gone for hours",
+      "valence": 2.5,
+      "arousal": 3.12,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Gave me no flowers Wish I didn't care You'd been gone for hours Could be anywhere",
+      "valence": 2.44,
+      "arousal": 2.98,
+      "dominance": 2.69
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Wish I didn't care You'd been gone for hours Could be anywhere Ooh, ooh-ooh, ooh-ooh",
+      "valence": 2.64,
+      "arousal": 3.39,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "You'd been gone for hours Could be anywhere Ooh, ooh-ooh, ooh-ooh Ah-ah-ah-ah-ah",
+      "valence": 2.8,
+      "arousal": 3.4,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Could be anywhere Ooh, ooh-ooh, ooh-ooh Ah-ah-ah-ah-ah Thought you would've grown eventually, but you proved me wrong",
+      "valence": 3.14,
+      "arousal": 3.53,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Ooh, ooh-ooh, ooh-ooh Ah-ah-ah-ah-ah Thought you would've grown eventually, but you proved me wrong You ain't nothing but a lost cause",
+      "valence": 2.74,
+      "arousal": 3.61,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Ah-ah-ah-ah-ah Thought you would've grown eventually, but you proved me wrong You ain't nothing but a lost cause And this ain't nothing like it once was",
+      "valence": 2.32,
+      "arousal": 3.35,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Thought you would've grown eventually, but you proved me wrong You ain't nothing but a lost cause And this ain't nothing like it once was I know you think you're such an outlaw (yeah)",
+      "valence": 2.44,
+      "arousal": 3.42,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "You ain't nothing but a lost cause And this ain't nothing like it once was I know you think you're such an outlaw (yeah) But you got no job",
+      "valence": 2.26,
+      "arousal": 3.36,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "And this ain't nothing like it once was I know you think you're such an outlaw (yeah) But you got no job You ain't nothing but a lost cause",
+      "valence": 2.27,
+      "arousal": 3.36,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I know you think you're such an outlaw (yeah) But you got no job You ain't nothing but a lost cause And this ain't nothing like it once was",
+      "valence": 2.3,
+      "arousal": 3.3,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "But you got no job You ain't nothing but a lost cause And this ain't nothing like it once was I know you think you're such an outlaw (think you're such an outlaw)",
+      "valence": 2.21,
+      "arousal": 3.43,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "You ain't nothing but a lost cause And this ain't nothing like it once was I know you think you're such an outlaw (think you're such an outlaw) But you got no job",
+      "valence": 2.21,
+      "arousal": 3.39,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "And this ain't nothing like it once was I know you think you're such an outlaw (think you're such an outlaw) But you got no job What did I tell you?",
+      "valence": 2.2,
+      "arousal": 3.51,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I know you think you're such an outlaw (think you're such an outlaw) But you got no job What did I tell you? Don't get complacent",
+      "valence": 2.43,
+      "arousal": 3.42,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "But you got no job What did I tell you? Don't get complacent It's time to face it now, na-na, na-na, na-na",
+      "valence": 2.34,
+      "arousal": 3.46,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "What did I tell you? Don't get complacent It's time to face it now, na-na, na-na, na-na What did I tell you?",
+      "valence": 2.67,
+      "arousal": 3.48,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Don't get complacent It's time to face it now, na-na, na-na, na-na What did I tell you? Don't get complacent",
+      "valence": 2.75,
+      "arousal": 3.44,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "It's time to face it now, na-na, na-na, na-na What did I tell you? Don't get complacent It's time to face it now, na-na-na",
+      "valence": 2.8,
+      "arousal": 3.43,
+      "dominance": 3.52
+    }
+  ]
+}

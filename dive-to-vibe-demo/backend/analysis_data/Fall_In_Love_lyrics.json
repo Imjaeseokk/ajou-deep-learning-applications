@@ -1,0 +1,430 @@
+{
+  "artist": "Bailey Zimmerman",
+  "overall_vad": {
+    "valence": 3.02,
+    "arousal": 3.5,
+    "dominance": 3.06
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Heard you moved out to South Carolina Just like you always said we would Packed your bags in that old 4Runner That I bought you when things were good",
+      "valence": 3.12,
+      "arousal": 3.09,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Just like you always said we would Packed your bags in that old 4Runner That I bought you when things were good I'm glad to see the stop sign didn't hit ya",
+      "valence": 3.51,
+      "arousal": 3.34,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Packed your bags in that old 4Runner That I bought you when things were good I'm glad to see the stop sign didn't hit ya Bring you back to your senses",
+      "valence": 3.58,
+      "arousal": 3.3,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "That I bought you when things were good I'm glad to see the stop sign didn't hit ya Bring you back to your senses Oh, it waved you gone, goodbye",
+      "valence": 3.58,
+      "arousal": 3.35,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I'm glad to see the stop sign didn't hit ya Bring you back to your senses Oh, it waved you gone, goodbye Yeah, it waved you gone, goodbye",
+      "valence": 3.59,
+      "arousal": 3.3,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Bring you back to your senses Oh, it waved you gone, goodbye Yeah, it waved you gone, goodbye I heard you found yourself a brand new man",
+      "valence": 3.27,
+      "arousal": 3.43,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Oh, it waved you gone, goodbye Yeah, it waved you gone, goodbye I heard you found yourself a brand new man Put a rock on your finger",
+      "valence": 2.86,
+      "arousal": 3.4,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Yeah, it waved you gone, goodbye I heard you found yourself a brand new man Put a rock on your finger And he vowed you a second chance",
+      "valence": 3.12,
+      "arousal": 3.46,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I heard you found yourself a brand new man Put a rock on your finger And he vowed you a second chance Built a house right by the coast",
+      "valence": 3.48,
+      "arousal": 3.44,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Put a rock on your finger And he vowed you a second chance Built a house right by the coast That ocean view is beautiful",
+      "valence": 3.46,
+      "arousal": 3.37,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "And he vowed you a second chance Built a house right by the coast That ocean view is beautiful But baby, I just want you to know",
+      "valence": 3.36,
+      "arousal": 3.36,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Built a house right by the coast That ocean view is beautiful But baby, I just want you to know He don't know you like I did",
+      "valence": 3.1,
+      "arousal": 3.28,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "That ocean view is beautiful But baby, I just want you to know He don't know you like I did Well money talks, but I ain't buying",
+      "valence": 3.02,
+      "arousal": 3.39,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "But baby, I just want you to know He don't know you like I did Well money talks, but I ain't buying 'Cause love's a smoke ring",
+      "valence": 2.68,
+      "arousal": 3.41,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "He don't know you like I did Well money talks, but I ain't buying 'Cause love's a smoke ring Wrapped around your finger",
+      "valence": 2.77,
+      "arousal": 3.62,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Well money talks, but I ain't buying 'Cause love's a smoke ring Wrapped around your finger One second it's a blessing",
+      "valence": 3.28,
+      "arousal": 3.54,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "'Cause love's a smoke ring Wrapped around your finger One second it's a blessing And the next it's already gone",
+      "valence": 3.62,
+      "arousal": 3.66,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Wrapped around your finger One second it's a blessing And the next it's already gone A broken heart, I'm a walking testimony",
+      "valence": 2.88,
+      "arousal": 3.5,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "One second it's a blessing And the next it's already gone A broken heart, I'm a walking testimony My confession is a lesson",
+      "valence": 2.86,
+      "arousal": 3.54,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "And the next it's already gone A broken heart, I'm a walking testimony My confession is a lesson That I'm pouring out in this song",
+      "valence": 2.74,
+      "arousal": 3.51,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "A broken heart, I'm a walking testimony My confession is a lesson That I'm pouring out in this song Oh-whoa-whoa, oh-whoa-whoa",
+      "valence": 3.07,
+      "arousal": 3.8,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "My confession is a lesson That I'm pouring out in this song Oh-whoa-whoa, oh-whoa-whoa You don't wanna fall in love",
+      "valence": 2.89,
+      "arousal": 3.58,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "That I'm pouring out in this song Oh-whoa-whoa, oh-whoa-whoa You don't wanna fall in love Oh-whoa-whoa, oh-whoa-whoa",
+      "valence": 2.99,
+      "arousal": 3.75,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Oh-whoa-whoa, oh-whoa-whoa You don't wanna fall in love Oh-whoa-whoa, oh-whoa-whoa You don't wanna fall in love",
+      "valence": 2.41,
+      "arousal": 3.49,
+      "dominance": 2.7
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "You don't wanna fall in love Oh-whoa-whoa, oh-whoa-whoa You don't wanna fall in love I seen your mama walking out the county market",
+      "valence": 2.57,
+      "arousal": 3.6,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Oh-whoa-whoa, oh-whoa-whoa You don't wanna fall in love I seen your mama walking out the county market And I thought to ask her how she's been",
+      "valence": 2.95,
+      "arousal": 3.87,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "You don't wanna fall in love I seen your mama walking out the county market And I thought to ask her how she's been She said she's missing ya",
+      "valence": 2.9,
+      "arousal": 3.37,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I seen your mama walking out the county market And I thought to ask her how she's been She said she's missing ya And tried to go convincing ya",
+      "valence": 2.96,
+      "arousal": 3.24,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "And I thought to ask her how she's been She said she's missing ya And tried to go convincing ya Not to settle down with him",
+      "valence": 2.94,
+      "arousal": 3.24,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "She said she's missing ya And tried to go convincing ya Not to settle down with him She ain't wrong, the whole town knows it",
+      "valence": 2.72,
+      "arousal": 3.38,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "And tried to go convincing ya Not to settle down with him She ain't wrong, the whole town knows it You had a bed of roses",
+      "valence": 2.99,
+      "arousal": 3.38,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Not to settle down with him She ain't wrong, the whole town knows it You had a bed of roses But girl, you couldn't walk that line",
+      "valence": 2.96,
+      "arousal": 3.21,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "She ain't wrong, the whole town knows it You had a bed of roses But girl, you couldn't walk that line You can act like you're doin' fine",
+      "valence": 3.08,
+      "arousal": 3.23,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "You had a bed of roses But girl, you couldn't walk that line You can act like you're doin' fine 'Cause love's a smoke ring",
+      "valence": 3.13,
+      "arousal": 3.29,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "But girl, you couldn't walk that line You can act like you're doin' fine 'Cause love's a smoke ring Wrapped around your finger",
+      "valence": 3.26,
+      "arousal": 3.57,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "You can act like you're doin' fine 'Cause love's a smoke ring Wrapped around your finger One second it's a blessing",
+      "valence": 3.78,
+      "arousal": 3.59,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "'Cause love's a smoke ring Wrapped around your finger One second it's a blessing And the next it's already gone",
+      "valence": 3.62,
+      "arousal": 3.66,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Wrapped around your finger One second it's a blessing And the next it's already gone A broken heart, I'm a walking testimony",
+      "valence": 2.88,
+      "arousal": 3.5,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "One second it's a blessing And the next it's already gone A broken heart, I'm a walking testimony My confession is a lesson",
+      "valence": 2.86,
+      "arousal": 3.54,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "And the next it's already gone A broken heart, I'm a walking testimony My confession is a lesson That I'm pouring out in this song",
+      "valence": 2.74,
+      "arousal": 3.51,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "A broken heart, I'm a walking testimony My confession is a lesson That I'm pouring out in this song Oh-whoa-whoa, oh-whoa-whoa",
+      "valence": 3.07,
+      "arousal": 3.8,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "My confession is a lesson That I'm pouring out in this song Oh-whoa-whoa, oh-whoa-whoa You don't wanna fall in love",
+      "valence": 2.89,
+      "arousal": 3.58,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "That I'm pouring out in this song Oh-whoa-whoa, oh-whoa-whoa You don't wanna fall in love Oh-whoa-whoa, oh-whoa-whoa",
+      "valence": 2.99,
+      "arousal": 3.75,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Oh-whoa-whoa, oh-whoa-whoa You don't wanna fall in love Oh-whoa-whoa, oh-whoa-whoa You don't wanna fall in love",
+      "valence": 2.41,
+      "arousal": 3.49,
+      "dominance": 2.7
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "You don't wanna fall in love Oh-whoa-whoa, oh-whoa-whoa You don't wanna fall in love 'Cause love's a smoke ring",
+      "valence": 2.74,
+      "arousal": 3.35,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Oh-whoa-whoa, oh-whoa-whoa You don't wanna fall in love 'Cause love's a smoke ring Wrapped around your finger",
+      "valence": 3.14,
+      "arousal": 3.69,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "You don't wanna fall in love 'Cause love's a smoke ring Wrapped around your finger One second it's a blessing",
+      "valence": 3.5,
+      "arousal": 3.67,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "'Cause love's a smoke ring Wrapped around your finger One second it's a blessing And the next it's already gone",
+      "valence": 3.62,
+      "arousal": 3.66,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Wrapped around your finger One second it's a blessing And the next it's already gone A broken heart, I'm a walking testimony",
+      "valence": 2.88,
+      "arousal": 3.5,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "One second it's a blessing And the next it's already gone A broken heart, I'm a walking testimony My confession is a lesson",
+      "valence": 2.86,
+      "arousal": 3.54,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "And the next it's already gone A broken heart, I'm a walking testimony My confession is a lesson That I'm pouring out in this song",
+      "valence": 2.74,
+      "arousal": 3.51,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "A broken heart, I'm a walking testimony My confession is a lesson That I'm pouring out in this song Oh-whoa-whoa, oh-whoa-whoa",
+      "valence": 3.07,
+      "arousal": 3.8,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "My confession is a lesson That I'm pouring out in this song Oh-whoa-whoa, oh-whoa-whoa You don't wanna fall in love",
+      "valence": 2.89,
+      "arousal": 3.58,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "That I'm pouring out in this song Oh-whoa-whoa, oh-whoa-whoa You don't wanna fall in love Oh-whoa-whoa, oh-whoa-whoa",
+      "valence": 2.99,
+      "arousal": 3.75,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Oh-whoa-whoa, oh-whoa-whoa You don't wanna fall in love Oh-whoa-whoa, oh-whoa-whoa You don't wanna fall in love",
+      "valence": 2.41,
+      "arousal": 3.49,
+      "dominance": 2.7
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "You don't wanna fall in love Oh-whoa-whoa, oh-whoa-whoa You don't wanna fall in love Oh-whoa-whoa, oh-whoa-whoa",
+      "valence": 2.46,
+      "arousal": 3.43,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Oh-whoa-whoa, oh-whoa-whoa You don't wanna fall in love Oh-whoa-whoa, oh-whoa-whoa You don't wanna fall in love",
+      "valence": 2.41,
+      "arousal": 3.49,
+      "dominance": 2.7
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "You don't wanna fall in love Oh-whoa-whoa, oh-whoa-whoa You don't wanna fall in love Oh-whoa-whoa, oh-whoa-whoa",
+      "valence": 2.46,
+      "arousal": 3.43,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Oh-whoa-whoa, oh-whoa-whoa You don't wanna fall in love Oh-whoa-whoa, oh-whoa-whoa Heard you moved out to South Carolina",
+      "valence": 2.75,
+      "arousal": 3.69,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "You don't wanna fall in love Oh-whoa-whoa, oh-whoa-whoa Heard you moved out to South Carolina Just like you always said we would",
+      "valence": 3.22,
+      "arousal": 3.69,
+      "dominance": 3.01
+    }
+  ]
+}

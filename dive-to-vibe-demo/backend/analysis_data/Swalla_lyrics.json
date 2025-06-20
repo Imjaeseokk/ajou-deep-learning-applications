@@ -1,0 +1,521 @@
+{
+  "artist": "Jason Derulo Featuring Nicki Minaj & Ty Dolla $ign",
+  "overall_vad": {
+    "valence": 3.07,
+    "arousal": 3.45,
+    "dominance": 3.27
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Drank Young Money Love in a thousand different flavours I wish that I could taste them all tonight",
+      "valence": 3.36,
+      "arousal": 3.68,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Young Money Love in a thousand different flavours I wish that I could taste them all tonight No, I ain't got no dinner plans",
+      "valence": 3.13,
+      "arousal": 3.6,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Love in a thousand different flavours I wish that I could taste them all tonight No, I ain't got no dinner plans So you should bring all your friends",
+      "valence": 3.69,
+      "arousal": 3.94,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I wish that I could taste them all tonight No, I ain't got no dinner plans So you should bring all your friends I swear that to all y'all my type",
+      "valence": 2.86,
+      "arousal": 3.61,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "No, I ain't got no dinner plans So you should bring all your friends I swear that to all y'all my type All you girls in here, if you're feeling thirsty",
+      "valence": 2.83,
+      "arousal": 3.5,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "So you should bring all your friends I swear that to all y'all my type All you girls in here, if you're feeling thirsty Come on take a sip 'cause you know what I'm servin'",
+      "valence": 3.17,
+      "arousal": 3.48,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I swear that to all y'all my type All you girls in here, if you're feeling thirsty Come on take a sip 'cause you know what I'm servin' Shimmy shimmy yay, shimmy yay, shimmy ya (drank)",
+      "valence": 3.08,
+      "arousal": 3.46,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "All you girls in here, if you're feeling thirsty Come on take a sip 'cause you know what I'm servin' Shimmy shimmy yay, shimmy yay, shimmy ya (drank) Swalla-la-la (drank)",
+      "valence": 3.12,
+      "arousal": 3.22,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Come on take a sip 'cause you know what I'm servin' Shimmy shimmy yay, shimmy yay, shimmy ya (drank) Swalla-la-la (drank) Swalla-la-la (swalla-la-la)",
+      "valence": 3.1,
+      "arousal": 3.18,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Shimmy shimmy yay, shimmy yay, shimmy ya (drank) Swalla-la-la (drank) Swalla-la-la (swalla-la-la) Swalla-la-la",
+      "valence": 3.12,
+      "arousal": 3.23,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Swalla-la-la (drank) Swalla-la-la (swalla-la-la) Swalla-la-la Shimmy shimmy yay, shimmy yay, shimmy ya (drank)",
+      "valence": 3.0,
+      "arousal": 3.17,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Swalla-la-la (swalla-la-la) Swalla-la-la Shimmy shimmy yay, shimmy yay, shimmy ya (drank) Swalla-la-la (drank)",
+      "valence": 3.02,
+      "arousal": 3.16,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Swalla-la-la Shimmy shimmy yay, shimmy yay, shimmy ya (drank) Swalla-la-la (drank) Swalla-la-la (swalla-la-la)",
+      "valence": 2.98,
+      "arousal": 3.21,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Shimmy shimmy yay, shimmy yay, shimmy ya (drank) Swalla-la-la (drank) Swalla-la-la (swalla-la-la) Swalla-la-la",
+      "valence": 3.12,
+      "arousal": 3.23,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Swalla-la-la (drank) Swalla-la-la (swalla-la-la) Swalla-la-la Freaky, freaky gyal",
+      "valence": 3.3,
+      "arousal": 3.37,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Swalla-la-la (swalla-la-la) Swalla-la-la Freaky, freaky gyal My freaky, freaky gyal",
+      "valence": 3.48,
+      "arousal": 3.55,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Swalla-la-la Freaky, freaky gyal My freaky, freaky gyal Shimmy shimmy shimmy yay, shimmy yah",
+      "valence": 3.63,
+      "arousal": 3.68,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Freaky, freaky gyal My freaky, freaky gyal Shimmy shimmy shimmy yay, shimmy yah Bad girls gon' swalla-la-la",
+      "valence": 3.49,
+      "arousal": 3.74,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "My freaky, freaky gyal Shimmy shimmy shimmy yay, shimmy yah Bad girls gon' swalla-la-la Bust down on my wrist in this bitch",
+      "valence": 2.9,
+      "arousal": 3.83,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Shimmy shimmy shimmy yay, shimmy yah Bad girls gon' swalla-la-la Bust down on my wrist in this bitch My pinky-ring bigger than this",
+      "valence": 2.56,
+      "arousal": 3.6,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Bad girls gon' swalla-la-la Bust down on my wrist in this bitch My pinky-ring bigger than this Met her out in Beverly Hills, ay",
+      "valence": 2.26,
+      "arousal": 3.62,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Bust down on my wrist in this bitch My pinky-ring bigger than this Met her out in Beverly Hills, ay Dolla got too many girls, ay",
+      "valence": 2.38,
+      "arousal": 3.5,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "My pinky-ring bigger than this Met her out in Beverly Hills, ay Dolla got too many girls, ay Met her out in Beverly Hills",
+      "valence": 2.88,
+      "arousal": 3.25,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Met her out in Beverly Hills, ay Dolla got too many girls, ay Met her out in Beverly Hills All she wear is red bottom heels",
+      "valence": 3.0,
+      "arousal": 3.31,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Dolla got too many girls, ay Met her out in Beverly Hills All she wear is red bottom heels When she back it up, put it on the Snap'",
+      "valence": 2.88,
+      "arousal": 3.26,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Met her out in Beverly Hills All she wear is red bottom heels When she back it up, put it on the Snap' When she droppin' low, put it on the 'Gram",
+      "valence": 3.09,
+      "arousal": 3.19,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "All she wear is red bottom heels When she back it up, put it on the Snap' When she droppin' low, put it on the 'Gram DJ poppin', she gon' swallow that",
+      "valence": 3.03,
+      "arousal": 3.2,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "When she back it up, put it on the Snap' When she droppin' low, put it on the 'Gram DJ poppin', she gon' swallow that Champagne poppin', she gon' swallow that",
+      "valence": 3.02,
+      "arousal": 3.24,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "When she droppin' low, put it on the 'Gram DJ poppin', she gon' swallow that Champagne poppin', she gon' swallow that All you girls in here, if you're feeling thirsty",
+      "valence": 3.07,
+      "arousal": 3.24,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "DJ poppin', she gon' swallow that Champagne poppin', she gon' swallow that All you girls in here, if you're feeling thirsty Come on take a sip 'cause you know what I'm servin'",
+      "valence": 3.16,
+      "arousal": 3.28,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Champagne poppin', she gon' swallow that All you girls in here, if you're feeling thirsty Come on take a sip 'cause you know what I'm servin' Shimmy shimmy yay, shimmy yay, shimmy ya (drank)",
+      "valence": 3.1,
+      "arousal": 3.29,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "All you girls in here, if you're feeling thirsty Come on take a sip 'cause you know what I'm servin' Shimmy shimmy yay, shimmy yay, shimmy ya (drank) Swalla-la-la (drank)",
+      "valence": 3.12,
+      "arousal": 3.22,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Come on take a sip 'cause you know what I'm servin' Shimmy shimmy yay, shimmy yay, shimmy ya (drank) Swalla-la-la (drank) Swalla-la-la (swalla-la-la)",
+      "valence": 3.1,
+      "arousal": 3.18,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Shimmy shimmy yay, shimmy yay, shimmy ya (drank) Swalla-la-la (drank) Swalla-la-la (swalla-la-la) Swalla-la-la",
+      "valence": 3.12,
+      "arousal": 3.23,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Swalla-la-la (drank) Swalla-la-la (swalla-la-la) Swalla-la-la Shimmy shimmy yay, shimmy yay, shimmy ya (drank)",
+      "valence": 3.0,
+      "arousal": 3.17,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Swalla-la-la (swalla-la-la) Swalla-la-la Shimmy shimmy yay, shimmy yay, shimmy ya (drank) Swalla-la-la (drank)",
+      "valence": 3.02,
+      "arousal": 3.16,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Swalla-la-la Shimmy shimmy yay, shimmy yay, shimmy ya (drank) Swalla-la-la (drank) Swalla-la-la (swalla-la-la)",
+      "valence": 2.98,
+      "arousal": 3.21,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Shimmy shimmy yay, shimmy yay, shimmy ya (drank) Swalla-la-la (drank) Swalla-la-la (swalla-la-la) Swalla-la-la",
+      "valence": 3.12,
+      "arousal": 3.23,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Swalla-la-la (drank) Swalla-la-la (swalla-la-la) Swalla-la-la Freaky, freaky gyal",
+      "valence": 3.3,
+      "arousal": 3.37,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Swalla-la-la (swalla-la-la) Swalla-la-la Freaky, freaky gyal My freaky, freaky gyal (yo, yo, ayo)",
+      "valence": 3.33,
+      "arousal": 3.52,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Swalla-la-la Freaky, freaky gyal My freaky, freaky gyal (yo, yo, ayo) Bad gyal nuh swalla nuttin', word to the Dalai Lama",
+      "valence": 3.3,
+      "arousal": 3.62,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Freaky, freaky gyal My freaky, freaky gyal (yo, yo, ayo) Bad gyal nuh swalla nuttin', word to the Dalai Lama He know I'm a fashion killa, word to John Galliano",
+      "valence": 3.13,
+      "arousal": 3.64,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "My freaky, freaky gyal (yo, yo, ayo) Bad gyal nuh swalla nuttin', word to the Dalai Lama He know I'm a fashion killa, word to John Galliano He copping that Valentino, ain't no telling me \"no\"",
+      "valence": 2.93,
+      "arousal": 3.59,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Bad gyal nuh swalla nuttin', word to the Dalai Lama He know I'm a fashion killa, word to John Galliano He copping that Valentino, ain't no telling me \"no\" I'm that bitch, and he know, he know",
+      "valence": 2.27,
+      "arousal": 3.62,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "He know I'm a fashion killa, word to John Galliano He copping that Valentino, ain't no telling me \"no\" I'm that bitch, and he know, he know How y'all wifin' these thots? You don't get wins for that",
+      "valence": 2.33,
+      "arousal": 3.66,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "He copping that Valentino, ain't no telling me \"no\" I'm that bitch, and he know, he know How y'all wifin' these thots? You don't get wins for that I'm havin' another good year, we don't get blimps for that",
+      "valence": 2.46,
+      "arousal": 3.77,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I'm that bitch, and he know, he know How y'all wifin' these thots? You don't get wins for that I'm havin' another good year, we don't get blimps for that Pussy game still cold, we don't get minx for that",
+      "valence": 2.14,
+      "arousal": 3.73,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "How y'all wifin' these thots? You don't get wins for that I'm havin' another good year, we don't get blimps for that Pussy game still cold, we don't get minx for that When I'm poppin' them bananas, we don't link chimps for that",
+      "valence": 2.67,
+      "arousal": 3.3,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I'm havin' another good year, we don't get blimps for that Pussy game still cold, we don't get minx for that When I'm poppin' them bananas, we don't link chimps for that I gave these bitches two years, now your time's up",
+      "valence": 2.93,
+      "arousal": 3.52,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Pussy game still cold, we don't get minx for that When I'm poppin' them bananas, we don't link chimps for that I gave these bitches two years, now your time's up Bless her heart, she throwing shots but every line sucks",
+      "valence": 2.29,
+      "arousal": 3.6,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "When I'm poppin' them bananas, we don't link chimps for that I gave these bitches two years, now your time's up Bless her heart, she throwing shots but every line sucks I'm in that cherry red foreign with the brown guts",
+      "valence": 2.34,
+      "arousal": 3.63,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "I gave these bitches two years, now your time's up Bless her heart, she throwing shots but every line sucks I'm in that cherry red foreign with the brown guts My shit slappin' like dude did LeBron's nuts",
+      "valence": 2.1,
+      "arousal": 3.81,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Bless her heart, she throwing shots but every line sucks I'm in that cherry red foreign with the brown guts My shit slappin' like dude did LeBron's nuts All you girls in here, if you're feeling thirsty",
+      "valence": 2.4,
+      "arousal": 3.75,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "I'm in that cherry red foreign with the brown guts My shit slappin' like dude did LeBron's nuts All you girls in here, if you're feeling thirsty Come on take a sip 'cause you know what I'm servin'",
+      "valence": 2.82,
+      "arousal": 3.48,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "My shit slappin' like dude did LeBron's nuts All you girls in here, if you're feeling thirsty Come on take a sip 'cause you know what I'm servin' Shimmy shimmy yay, shimmy yay, shimmy ya (my love) (drank)",
+      "valence": 3.41,
+      "arousal": 3.85,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "All you girls in here, if you're feeling thirsty Come on take a sip 'cause you know what I'm servin' Shimmy shimmy yay, shimmy yay, shimmy ya (my love) (drank) Swalla-la-la (my love) (drank)",
+      "valence": 3.62,
+      "arousal": 3.69,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Come on take a sip 'cause you know what I'm servin' Shimmy shimmy yay, shimmy yay, shimmy ya (my love) (drank) Swalla-la-la (my love) (drank) Swalla-la-la (swalla-la-la)",
+      "valence": 3.71,
+      "arousal": 3.68,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Shimmy shimmy yay, shimmy yay, shimmy ya (my love) (drank) Swalla-la-la (my love) (drank) Swalla-la-la (swalla-la-la) Swalla-la-la",
+      "valence": 3.85,
+      "arousal": 3.73,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Swalla-la-la (my love) (drank) Swalla-la-la (swalla-la-la) Swalla-la-la Shimmy shimmy yay, shimmy yay, shimmy ya (drank)",
+      "valence": 3.7,
+      "arousal": 3.58,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Swalla-la-la (swalla-la-la) Swalla-la-la Shimmy shimmy yay, shimmy yay, shimmy ya (drank) Swalla-la-la (drank)",
+      "valence": 3.02,
+      "arousal": 3.16,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Swalla-la-la Shimmy shimmy yay, shimmy yay, shimmy ya (drank) Swalla-la-la (drank) Swalla-la-la (swalla-la-la)",
+      "valence": 2.98,
+      "arousal": 3.21,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Shimmy shimmy yay, shimmy yay, shimmy ya (drank) Swalla-la-la (drank) Swalla-la-la (swalla-la-la) Swalla-la-la",
+      "valence": 3.12,
+      "arousal": 3.23,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Swalla-la-la (drank) Swalla-la-la (swalla-la-la) Swalla-la-la Young Money",
+      "valence": 3.04,
+      "arousal": 3.13,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Swalla-la-la (swalla-la-la) Swalla-la-la Young Money Swalla-la-la",
+      "valence": 3.12,
+      "arousal": 3.07,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Swalla-la-la Young Money Swalla-la-la J.D",
+      "valence": 3.1,
+      "arousal": 3.0,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Young Money Swalla-la-la J.D Freaky, freaky gyal",
+      "valence": 3.41,
+      "arousal": 3.49,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Swalla-la-la J.D Freaky, freaky gyal Swalla-la-la",
+      "valence": 3.44,
+      "arousal": 3.43,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "J.D Freaky, freaky gyal Swalla-la-la My freaky, freaky gyal",
+      "valence": 3.55,
+      "arousal": 3.58,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Freaky, freaky gyal Swalla-la-la My freaky, freaky gyal Swalla-la-la",
+      "valence": 3.66,
+      "arousal": 3.64,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Swalla-la-la My freaky, freaky gyal Swalla-la-la My freaky, freaky gyal",
+      "valence": 3.47,
+      "arousal": 3.54,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "My freaky, freaky gyal Swalla-la-la My freaky, freaky gyal Swalla-la-la",
+      "valence": 3.64,
+      "arousal": 3.61,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Swalla-la-la My freaky, freaky gyal Swalla-la-la My freaky, freaky gyal",
+      "valence": 3.47,
+      "arousal": 3.54,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "My freaky, freaky gyal Swalla-la-la My freaky, freaky gyal Derulo",
+      "valence": 3.65,
+      "arousal": 3.59,
+      "dominance": 3.22
+    }
+  ]
+}

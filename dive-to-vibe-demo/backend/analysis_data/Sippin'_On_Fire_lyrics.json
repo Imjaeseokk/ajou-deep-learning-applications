@@ -1,0 +1,283 @@
+{
+  "artist": "Florida Georgia Line",
+  "overall_vad": {
+    "valence": 2.8,
+    "arousal": 3.5,
+    "dominance": 3.16
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Girl, you melt me like ice in whiskey With those blue flame looks that you give me You can't hide what's inside And it's killing me right now to see you wanna slip off with me again",
+      "valence": 2.82,
+      "arousal": 4.0,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "With those blue flame looks that you give me You can't hide what's inside And it's killing me right now to see you wanna slip off with me again Why should we go round and round the truth, like we've been doin'",
+      "valence": 2.4,
+      "arousal": 3.73,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "You can't hide what's inside And it's killing me right now to see you wanna slip off with me again Why should we go round and round the truth, like we've been doin' Every time we lie girl we're losin'",
+      "valence": 2.24,
+      "arousal": 3.73,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "And it's killing me right now to see you wanna slip off with me again Why should we go round and round the truth, like we've been doin' Every time we lie girl we're losin' So why should we spend Saturday night alone",
+      "valence": 2.22,
+      "arousal": 3.74,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Why should we go round and round the truth, like we've been doin' Every time we lie girl we're losin' So why should we spend Saturday night alone When I can call you on the phone, pick you up",
+      "valence": 2.82,
+      "arousal": 3.26,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Every time we lie girl we're losin' So why should we spend Saturday night alone When I can call you on the phone, pick you up Make it up as we go along",
+      "valence": 2.8,
+      "arousal": 3.3,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "So why should we spend Saturday night alone When I can call you on the phone, pick you up Make it up as we go along Pull an all nighter chasing that desire",
+      "valence": 2.95,
+      "arousal": 3.38,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "When I can call you on the phone, pick you up Make it up as we go along Pull an all nighter chasing that desire Sparks flying in her eyes like lighters (like lighters)",
+      "valence": 3.23,
+      "arousal": 3.45,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Make it up as we go along Pull an all nighter chasing that desire Sparks flying in her eyes like lighters (like lighters) Get a little higher (get a little higher)",
+      "valence": 2.94,
+      "arousal": 3.46,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Pull an all nighter chasing that desire Sparks flying in her eyes like lighters (like lighters) Get a little higher (get a little higher) Sippin' on fire (sippin' on fire)",
+      "valence": 2.89,
+      "arousal": 3.6,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Sparks flying in her eyes like lighters (like lighters) Get a little higher (get a little higher) Sippin' on fire (sippin' on fire) Yeah, you act like you don't know what you're missing",
+      "valence": 2.77,
+      "arousal": 3.38,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Get a little higher (get a little higher) Sippin' on fire (sippin' on fire) Yeah, you act like you don't know what you're missing Every time you end up back with him",
+      "valence": 2.77,
+      "arousal": 3.39,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Sippin' on fire (sippin' on fire) Yeah, you act like you don't know what you're missing Every time you end up back with him Cause it's safe, and you're scared",
+      "valence": 2.51,
+      "arousal": 3.43,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Yeah, you act like you don't know what you're missing Every time you end up back with him Cause it's safe, and you're scared Of everything you're feelin' when we're burning the midnight down again",
+      "valence": 2.42,
+      "arousal": 3.49,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Every time you end up back with him Cause it's safe, and you're scared Of everything you're feelin' when we're burning the midnight down again Why should we go round and round the truth, like we've been doin'",
+      "valence": 2.56,
+      "arousal": 3.38,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Cause it's safe, and you're scared Of everything you're feelin' when we're burning the midnight down again Why should we go round and round the truth, like we've been doin' Every time we lie girl we're losin'",
+      "valence": 2.55,
+      "arousal": 3.41,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Of everything you're feelin' when we're burning the midnight down again Why should we go round and round the truth, like we've been doin' Every time we lie girl we're losin' So why should we spend Saturday night alone",
+      "valence": 2.55,
+      "arousal": 3.35,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Why should we go round and round the truth, like we've been doin' Every time we lie girl we're losin' So why should we spend Saturday night alone When I can call you on the phone, pick you up",
+      "valence": 2.82,
+      "arousal": 3.26,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Every time we lie girl we're losin' So why should we spend Saturday night alone When I can call you on the phone, pick you up Make it up as we go along",
+      "valence": 2.8,
+      "arousal": 3.3,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "So why should we spend Saturday night alone When I can call you on the phone, pick you up Make it up as we go along Pull an all nighter chasing that desire",
+      "valence": 2.95,
+      "arousal": 3.38,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "When I can call you on the phone, pick you up Make it up as we go along Pull an all nighter chasing that desire Sparks flying in her eyes like lighters (like lighters)",
+      "valence": 3.23,
+      "arousal": 3.45,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Make it up as we go along Pull an all nighter chasing that desire Sparks flying in her eyes like lighters (like lighters) Get a little higher (get a little higher)",
+      "valence": 2.94,
+      "arousal": 3.46,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Pull an all nighter chasing that desire Sparks flying in her eyes like lighters (like lighters) Get a little higher (get a little higher) Sippin' on fire (sippin' on fire)",
+      "valence": 2.89,
+      "arousal": 3.6,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Sparks flying in her eyes like lighters (like lighters) Get a little higher (get a little higher) Sippin' on fire (sippin' on fire) Every goodbye is bittersweet",
+      "valence": 2.78,
+      "arousal": 3.5,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Get a little higher (get a little higher) Sippin' on fire (sippin' on fire) Every goodbye is bittersweet So why should we fight what we both need?",
+      "valence": 2.75,
+      "arousal": 3.48,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Sippin' on fire (sippin' on fire) Every goodbye is bittersweet So why should we fight what we both need? Why should we go round and round the truth, like we've been doin'",
+      "valence": 2.71,
+      "arousal": 3.39,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Every goodbye is bittersweet So why should we fight what we both need? Why should we go round and round the truth, like we've been doin' Every time we lie girl we're losin'",
+      "valence": 2.71,
+      "arousal": 3.28,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "So why should we fight what we both need? Why should we go round and round the truth, like we've been doin' Every time we lie girl we're losin' So why should we spend Saturday night alone",
+      "valence": 2.68,
+      "arousal": 3.35,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Why should we go round and round the truth, like we've been doin' Every time we lie girl we're losin' So why should we spend Saturday night alone When I can call you on the phone, pick you up",
+      "valence": 2.82,
+      "arousal": 3.26,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Every time we lie girl we're losin' So why should we spend Saturday night alone When I can call you on the phone, pick you up Make it up as we go along",
+      "valence": 2.8,
+      "arousal": 3.3,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "So why should we spend Saturday night alone When I can call you on the phone, pick you up Make it up as we go along Pull an all nighter chasing that desire",
+      "valence": 2.95,
+      "arousal": 3.38,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "When I can call you on the phone, pick you up Make it up as we go along Pull an all nighter chasing that desire Sparks flying in her eyes like lighters (like lighters)",
+      "valence": 3.23,
+      "arousal": 3.45,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Make it up as we go along Pull an all nighter chasing that desire Sparks flying in her eyes like lighters (like lighters) Get a little higher (get a little higher)",
+      "valence": 2.94,
+      "arousal": 3.46,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Pull an all nighter chasing that desire Sparks flying in her eyes like lighters (like lighters) Get a little higher (get a little higher) Sippin' on fire (sippin' on fire)",
+      "valence": 2.89,
+      "arousal": 3.6,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Sparks flying in her eyes like lighters (like lighters) Get a little higher (get a little higher) Sippin' on fire (sippin' on fire) Girl, you melt me like ice in whiskey",
+      "valence": 3.04,
+      "arousal": 3.71,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Get a little higher (get a little higher) Sippin' on fire (sippin' on fire) Girl, you melt me like ice in whiskey With those blue flame looks that you give me",
+      "valence": 3.19,
+      "arousal": 3.79,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Sippin' on fire (sippin' on fire) Girl, you melt me like ice in whiskey With those blue flame looks that you give me You can't hide what's inside",
+      "valence": 3.36,
+      "arousal": 3.81,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Girl, you melt me like ice in whiskey With those blue flame looks that you give me You can't hide what's inside And it's killing me right now to see you wanna slip off with me",
+      "valence": 2.85,
+      "arousal": 4.0,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "With those blue flame looks that you give me You can't hide what's inside And it's killing me right now to see you wanna slip off with me Sippin' on fire",
+      "valence": 2.38,
+      "arousal": 3.72,
+      "dominance": 2.8
+    }
+  ]
+}

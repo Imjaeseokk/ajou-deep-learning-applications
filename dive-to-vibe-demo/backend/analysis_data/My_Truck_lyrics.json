@@ -1,0 +1,465 @@
+{
+  "artist": "BRELAND",
+  "overall_vad": {
+    "valence": 2.72,
+    "arousal": 3.38,
+    "dominance": 3.52
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "You can drink my liquor You can call my lady You can take my money You can smoke my blunt",
+      "valence": 2.89,
+      "arousal": 3.32,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "You can call my lady You can take my money You can smoke my blunt Scuff these Jordans",
+      "valence": 2.98,
+      "arousal": 3.25,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "You can take my money You can smoke my blunt Scuff these Jordans You can say you hate me",
+      "valence": 2.36,
+      "arousal": 3.5,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "You can smoke my blunt Scuff these Jordans You can say you hate me You can call me crazy, but",
+      "valence": 2.62,
+      "arousal": 3.38,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Scuff these Jordans You can say you hate me You can call me crazy, but Don't touch my truck (skrrt, skrrt)",
+      "valence": 2.31,
+      "arousal": 3.52,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "You can say you hate me You can call me crazy, but Don't touch my truck (skrrt, skrrt) Skrrt (yeah, yeah)",
+      "valence": 2.3,
+      "arousal": 3.58,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "You can call me crazy, but Don't touch my truck (skrrt, skrrt) Skrrt (yeah, yeah) Skrrt",
+      "valence": 2.43,
+      "arousal": 3.51,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Don't touch my truck (skrrt, skrrt) Skrrt (yeah, yeah) Skrrt Don't touch my truck (brrp, yeah)",
+      "valence": 2.48,
+      "arousal": 3.32,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Skrrt (yeah, yeah) Skrrt Don't touch my truck (brrp, yeah) Skrrt (woo-oh)",
+      "valence": 2.84,
+      "arousal": 3.69,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Skrrt Don't touch my truck (brrp, yeah) Skrrt (woo-oh) Skrrt",
+      "valence": 2.46,
+      "arousal": 3.66,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Don't touch my truck (brrp, yeah) Skrrt (woo-oh) Skrrt Don't touch my",
+      "valence": 2.37,
+      "arousal": 3.59,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Skrrt (woo-oh) Skrrt Don't touch my V8 engine with the windows tinted",
+      "valence": 2.75,
+      "arousal": 3.45,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Skrrt Don't touch my V8 engine with the windows tinted Boy, we came from the bottom, got it out the mud",
+      "valence": 2.73,
+      "arousal": 3.3,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Don't touch my V8 engine with the windows tinted Boy, we came from the bottom, got it out the mud Whole block jumpin' 'cause the subs stay hittin'",
+      "valence": 2.69,
+      "arousal": 3.29,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "V8 engine with the windows tinted Boy, we came from the bottom, got it out the mud Whole block jumpin' 'cause the subs stay hittin' If they roll up on me, know I keep one tucked (ooh, yeah)",
+      "valence": 2.92,
+      "arousal": 3.31,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Boy, we came from the bottom, got it out the mud Whole block jumpin' 'cause the subs stay hittin' If they roll up on me, know I keep one tucked (ooh, yeah) Woo",
+      "valence": 3.04,
+      "arousal": 3.42,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Whole block jumpin' 'cause the subs stay hittin' If they roll up on me, know I keep one tucked (ooh, yeah) Woo Tell them boys come and get me",
+      "valence": 2.96,
+      "arousal": 3.29,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "If they roll up on me, know I keep one tucked (ooh, yeah) Woo Tell them boys come and get me I be ridin' through the city",
+      "valence": 3.04,
+      "arousal": 3.41,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Woo Tell them boys come and get me I be ridin' through the city Young, rich and I'm pretty",
+      "valence": 3.08,
+      "arousal": 3.4,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Tell them boys come and get me I be ridin' through the city Young, rich and I'm pretty Homie, don't get it twisted",
+      "valence": 2.81,
+      "arousal": 3.35,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I be ridin' through the city Young, rich and I'm pretty Homie, don't get it twisted Keep a semi in the hemi (oh)",
+      "valence": 2.86,
+      "arousal": 3.27,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Young, rich and I'm pretty Homie, don't get it twisted Keep a semi in the hemi (oh) Red cup full of Henny",
+      "valence": 2.91,
+      "arousal": 3.27,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Homie, don't get it twisted Keep a semi in the hemi (oh) Red cup full of Henny My hitters come in plenties, for real",
+      "valence": 2.83,
+      "arousal": 3.28,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Keep a semi in the hemi (oh) Red cup full of Henny My hitters come in plenties, for real You can drink my liquor",
+      "valence": 3.06,
+      "arousal": 3.18,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Red cup full of Henny My hitters come in plenties, for real You can drink my liquor You can call my lady",
+      "valence": 3.22,
+      "arousal": 3.19,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "My hitters come in plenties, for real You can drink my liquor You can call my lady You can take my money",
+      "valence": 2.86,
+      "arousal": 3.32,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "You can drink my liquor You can call my lady You can take my money You can smoke my blunt",
+      "valence": 2.89,
+      "arousal": 3.32,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "You can call my lady You can take my money You can smoke my blunt Scuff these Jordans",
+      "valence": 2.98,
+      "arousal": 3.25,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "You can take my money You can smoke my blunt Scuff these Jordans You can say you hate me",
+      "valence": 2.36,
+      "arousal": 3.5,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "You can smoke my blunt Scuff these Jordans You can say you hate me You can call me crazy, but",
+      "valence": 2.62,
+      "arousal": 3.38,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Scuff these Jordans You can say you hate me You can call me crazy, but Don't touch my truck (skrrt, skrrt)",
+      "valence": 2.31,
+      "arousal": 3.52,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "You can say you hate me You can call me crazy, but Don't touch my truck (skrrt, skrrt) Skrrt (yeah, yeah)",
+      "valence": 2.3,
+      "arousal": 3.58,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "You can call me crazy, but Don't touch my truck (skrrt, skrrt) Skrrt (yeah, yeah) Skrrt",
+      "valence": 2.43,
+      "arousal": 3.51,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Don't touch my truck (skrrt, skrrt) Skrrt (yeah, yeah) Skrrt Don't touch my truck (brrp, yeah)",
+      "valence": 2.48,
+      "arousal": 3.32,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Skrrt (yeah, yeah) Skrrt Don't touch my truck (brrp, yeah) Skrrt (woo-oh)",
+      "valence": 2.84,
+      "arousal": 3.69,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Skrrt Don't touch my truck (brrp, yeah) Skrrt (woo-oh) Skrrt",
+      "valence": 2.46,
+      "arousal": 3.66,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Don't touch my truck (brrp, yeah) Skrrt (woo-oh) Skrrt Don't touch my",
+      "valence": 2.37,
+      "arousal": 3.59,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Skrrt (woo-oh) Skrrt Don't touch my Wood grain dash with the matte black finish",
+      "valence": 2.94,
+      "arousal": 3.21,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Skrrt Don't touch my Wood grain dash with the matte black finish And it match my shawty with the big ol' butt",
+      "valence": 2.73,
+      "arousal": 3.07,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Don't touch my Wood grain dash with the matte black finish And it match my shawty with the big ol' butt Know them boys soft 'cause they got hard feelings",
+      "valence": 2.67,
+      "arousal": 3.04,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Wood grain dash with the matte black finish And it match my shawty with the big ol' butt Know them boys soft 'cause they got hard feelings You can try me if you wanna go and test your luck (woo)",
+      "valence": 3.01,
+      "arousal": 3.34,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "And it match my shawty with the big ol' butt Know them boys soft 'cause they got hard feelings You can try me if you wanna go and test your luck (woo) Tell them boys come and get me (get me)",
+      "valence": 2.93,
+      "arousal": 3.42,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Know them boys soft 'cause they got hard feelings You can try me if you wanna go and test your luck (woo) Tell them boys come and get me (get me) I be ridin' through the city",
+      "valence": 2.8,
+      "arousal": 3.32,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "You can try me if you wanna go and test your luck (woo) Tell them boys come and get me (get me) I be ridin' through the city Young, rich and I'm pretty (yeah)",
+      "valence": 3.15,
+      "arousal": 3.6,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Tell them boys come and get me (get me) I be ridin' through the city Young, rich and I'm pretty (yeah) Homie, don't get it twisted (yeah)",
+      "valence": 2.92,
+      "arousal": 3.51,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I be ridin' through the city Young, rich and I'm pretty (yeah) Homie, don't get it twisted (yeah) Keep a semi in the hemi (in the hemi)",
+      "valence": 3.01,
+      "arousal": 3.33,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Young, rich and I'm pretty (yeah) Homie, don't get it twisted (yeah) Keep a semi in the hemi (in the hemi) Red cup full of Henny (yeah, we drinking)",
+      "valence": 3.08,
+      "arousal": 3.3,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Homie, don't get it twisted (yeah) Keep a semi in the hemi (in the hemi) Red cup full of Henny (yeah, we drinking) My hitters come in plenties, for real",
+      "valence": 2.98,
+      "arousal": 3.17,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Keep a semi in the hemi (in the hemi) Red cup full of Henny (yeah, we drinking) My hitters come in plenties, for real You can drink my liquor",
+      "valence": 3.07,
+      "arousal": 3.13,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Red cup full of Henny (yeah, we drinking) My hitters come in plenties, for real You can drink my liquor You can call my lady",
+      "valence": 3.23,
+      "arousal": 3.25,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "My hitters come in plenties, for real You can drink my liquor You can call my lady You can take my money",
+      "valence": 2.86,
+      "arousal": 3.32,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "You can drink my liquor You can call my lady You can take my money You can smoke my blunt",
+      "valence": 2.89,
+      "arousal": 3.32,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "You can call my lady You can take my money You can smoke my blunt Scuff these Jordans",
+      "valence": 2.98,
+      "arousal": 3.25,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "You can take my money You can smoke my blunt Scuff these Jordans You can say you hate me",
+      "valence": 2.36,
+      "arousal": 3.5,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "You can smoke my blunt Scuff these Jordans You can say you hate me You can call me crazy, but",
+      "valence": 2.62,
+      "arousal": 3.38,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Scuff these Jordans You can say you hate me You can call me crazy, but Don't touch my truck",
+      "valence": 2.35,
+      "arousal": 3.54,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "You can say you hate me You can call me crazy, but Don't touch my truck Skrrt",
+      "valence": 2.29,
+      "arousal": 3.56,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "You can call me crazy, but Don't touch my truck Skrrt Skrrt",
+      "valence": 2.47,
+      "arousal": 3.42,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Don't touch my truck Skrrt Skrrt Don't touch my truck",
+      "valence": 2.49,
+      "arousal": 3.27,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Skrrt Skrrt Don't touch my truck Skrrt",
+      "valence": 2.48,
+      "arousal": 3.27,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Skrrt Don't touch my truck Skrrt Skrrt",
+      "valence": 2.51,
+      "arousal": 3.21,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Don't touch my truck Skrrt Skrrt Don't touch my",
+      "valence": 2.44,
+      "arousal": 3.28,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Skrrt Skrrt Don't touch my Woo, ooh, woo, ooh, woo, ooh",
+      "valence": 2.55,
+      "arousal": 3.57,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Skrrt Don't touch my Woo, ooh, woo, ooh, woo, ooh Don't touch my truck (woo, ooh)",
+      "valence": 2.56,
+      "arousal": 3.47,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Don't touch my Woo, ooh, woo, ooh, woo, ooh Don't touch my truck (woo, ooh) Don't touch my truck",
+      "valence": 2.57,
+      "arousal": 3.54,
+      "dominance": 3.49
+    }
+  ]
+}

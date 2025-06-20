@@ -1,0 +1,318 @@
+{
+  "artist": "The Band Perry",
+  "overall_vad": {
+    "valence": 2.63,
+    "arousal": 3.38,
+    "dominance": 3.0
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "We scratched our names In that oak tree 'Cause I loved you And you loved me",
+      "valence": 3.88,
+      "arousal": 3.65,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "In that oak tree 'Cause I loved you And you loved me A jagged little heart so the whole town knew it",
+      "valence": 3.86,
+      "arousal": 3.73,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "'Cause I loved you And you loved me A jagged little heart so the whole town knew it Carved in the bark with an arrow through it",
+      "valence": 3.77,
+      "arousal": 3.93,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "And you loved me A jagged little heart so the whole town knew it Carved in the bark with an arrow through it Well I came out here to see it one more time",
+      "valence": 3.41,
+      "arousal": 3.65,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "A jagged little heart so the whole town knew it Carved in the bark with an arrow through it Well I came out here to see it one more time And I got my chainsaw",
+      "valence": 2.95,
+      "arousal": 3.32,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Carved in the bark with an arrow through it Well I came out here to see it one more time And I got my chainsaw Oh you know it's got to go, it's such a shame y'all",
+      "valence": 2.47,
+      "arousal": 3.46,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Well I came out here to see it one more time And I got my chainsaw Oh you know it's got to go, it's such a shame y'all But I ain't gonna be happy 'til those names fall",
+      "valence": 2.48,
+      "arousal": 3.44,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "And I got my chainsaw Oh you know it's got to go, it's such a shame y'all But I ain't gonna be happy 'til those names fall And I'm sittin' on a stump",
+      "valence": 2.28,
+      "arousal": 3.34,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Oh you know it's got to go, it's such a shame y'all But I ain't gonna be happy 'til those names fall And I'm sittin' on a stump Love is shady",
+      "valence": 2.3,
+      "arousal": 3.41,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "But I ain't gonna be happy 'til those names fall And I'm sittin' on a stump Love is shady Love is tragic",
+      "valence": 2.23,
+      "arousal": 3.4,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "And I'm sittin' on a stump Love is shady Love is tragic It's hard to bury the hatchet",
+      "valence": 2.4,
+      "arousal": 3.3,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Love is shady Love is tragic It's hard to bury the hatchet Holdin' a chainsaw",
+      "valence": 2.44,
+      "arousal": 3.32,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Love is tragic It's hard to bury the hatchet Holdin' a chainsaw I guess all those years",
+      "valence": 2.46,
+      "arousal": 3.28,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "It's hard to bury the hatchet Holdin' a chainsaw I guess all those years They don't mean a thing",
+      "valence": 2.51,
+      "arousal": 2.9,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Holdin' a chainsaw I guess all those years They don't mean a thing Now I can't wait",
+      "valence": 2.5,
+      "arousal": 3.2,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I guess all those years They don't mean a thing Now I can't wait To count those rings",
+      "valence": 2.62,
+      "arousal": 3.29,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "They don't mean a thing Now I can't wait To count those rings Nothing left of us but dust and splinters",
+      "valence": 2.33,
+      "arousal": 3.32,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Now I can't wait To count those rings Nothing left of us but dust and splinters A big pile of wood to keep me warm through the winter",
+      "valence": 2.6,
+      "arousal": 3.3,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "To count those rings Nothing left of us but dust and splinters A big pile of wood to keep me warm through the winter 'Cause I don't have you",
+      "valence": 2.51,
+      "arousal": 3.15,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Nothing left of us but dust and splinters A big pile of wood to keep me warm through the winter 'Cause I don't have you But I got my chainsaw",
+      "valence": 2.71,
+      "arousal": 3.19,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "A big pile of wood to keep me warm through the winter 'Cause I don't have you But I got my chainsaw Oh you know it's got to go, it's such a shame y'all",
+      "valence": 2.44,
+      "arousal": 3.43,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "'Cause I don't have you But I got my chainsaw Oh you know it's got to go, it's such a shame y'all But I ain't gonna be happy 'til those names fall",
+      "valence": 2.33,
+      "arousal": 3.44,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "But I got my chainsaw Oh you know it's got to go, it's such a shame y'all But I ain't gonna be happy 'til those names fall And I'm sittin' on a stump",
+      "valence": 2.26,
+      "arousal": 3.32,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Oh you know it's got to go, it's such a shame y'all But I ain't gonna be happy 'til those names fall And I'm sittin' on a stump Love is shady",
+      "valence": 2.3,
+      "arousal": 3.41,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "But I ain't gonna be happy 'til those names fall And I'm sittin' on a stump Love is shady Love is tragic",
+      "valence": 2.23,
+      "arousal": 3.4,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "And I'm sittin' on a stump Love is shady Love is tragic It's hard to bury the hatchet",
+      "valence": 2.4,
+      "arousal": 3.3,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Love is shady Love is tragic It's hard to bury the hatchet Holdin' a chainsaw",
+      "valence": 2.44,
+      "arousal": 3.32,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Love is tragic It's hard to bury the hatchet Holdin' a chainsaw Just a lil' old chainsaw",
+      "valence": 2.49,
+      "arousal": 3.33,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "It's hard to bury the hatchet Holdin' a chainsaw Just a lil' old chainsaw I remember what you said that night",
+      "valence": 2.81,
+      "arousal": 3.13,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Holdin' a chainsaw Just a lil' old chainsaw I remember what you said that night That you would love me for the rest of your life",
+      "valence": 3.42,
+      "arousal": 3.47,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Just a lil' old chainsaw I remember what you said that night That you would love me for the rest of your life We wrote forever with a pocketknife",
+      "valence": 3.4,
+      "arousal": 3.41,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I remember what you said that night That you would love me for the rest of your life We wrote forever with a pocketknife But forever's goin' down tonight",
+      "valence": 3.38,
+      "arousal": 3.49,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "That you would love me for the rest of your life We wrote forever with a pocketknife But forever's goin' down tonight 'Cause I got my chainsaw",
+      "valence": 3.29,
+      "arousal": 3.53,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "We wrote forever with a pocketknife But forever's goin' down tonight 'Cause I got my chainsaw It's got to go, it's such a shame doll",
+      "valence": 2.37,
+      "arousal": 3.47,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "But forever's goin' down tonight 'Cause I got my chainsaw It's got to go, it's such a shame doll But I ain't gonna be happy 'til those names fall",
+      "valence": 2.33,
+      "arousal": 3.5,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "'Cause I got my chainsaw It's got to go, it's such a shame doll But I ain't gonna be happy 'til those names fall And I'm sittin' on a stump",
+      "valence": 2.3,
+      "arousal": 3.41,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "It's got to go, it's such a shame doll But I ain't gonna be happy 'til those names fall And I'm sittin' on a stump Love is shady",
+      "valence": 2.25,
+      "arousal": 3.43,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "But I ain't gonna be happy 'til those names fall And I'm sittin' on a stump Love is shady Love is tragic",
+      "valence": 2.23,
+      "arousal": 3.4,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "And I'm sittin' on a stump Love is shady Love is tragic It's hard to bury the hatchet",
+      "valence": 2.4,
+      "arousal": 3.3,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Love is shady Love is tragic It's hard to bury the hatchet Love is shady",
+      "valence": 2.45,
+      "arousal": 3.25,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Love is tragic It's hard to bury the hatchet Love is shady Love is tragic",
+      "valence": 2.3,
+      "arousal": 3.35,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "It's hard to bury the hatchet Love is shady Love is tragic It's hard to bury the hatchet",
+      "valence": 2.37,
+      "arousal": 3.28,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Love is shady Love is tragic It's hard to bury the hatchet Holdin' a chainsaw",
+      "valence": 2.44,
+      "arousal": 3.32,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Love is tragic It's hard to bury the hatchet Holdin' a chainsaw Chain chain chain-saw",
+      "valence": 2.46,
+      "arousal": 3.33,
+      "dominance": 2.93
+    }
+  ]
+}

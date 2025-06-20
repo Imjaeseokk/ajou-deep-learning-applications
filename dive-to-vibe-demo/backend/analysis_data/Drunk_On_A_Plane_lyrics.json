@@ -1,0 +1,367 @@
+{
+  "artist": "Dierks Bentley",
+  "overall_vad": {
+    "valence": 2.98,
+    "arousal": 3.48,
+    "dominance": 3.13
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I took two weeks vacation for the honeymoon A couple tickets all inclusive down in Cancun I couldn't get my money back so I'm in seat 7A I'm getting drunk on a plane",
+      "valence": 2.77,
+      "arousal": 3.34,
+      "dominance": 2.73
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "A couple tickets all inclusive down in Cancun I couldn't get my money back so I'm in seat 7A I'm getting drunk on a plane I bet the fella on the aisle thought I was crazy",
+      "valence": 2.46,
+      "arousal": 3.42,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I couldn't get my money back so I'm in seat 7A I'm getting drunk on a plane I bet the fella on the aisle thought I was crazy 'Cause I taped your picture to the seatback right beside me",
+      "valence": 2.56,
+      "arousal": 3.45,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I'm getting drunk on a plane I bet the fella on the aisle thought I was crazy 'Cause I taped your picture to the seatback right beside me Now I've got empty mini bottles fillin' both our trays",
+      "valence": 2.81,
+      "arousal": 3.3,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I bet the fella on the aisle thought I was crazy 'Cause I taped your picture to the seatback right beside me Now I've got empty mini bottles fillin' both our trays Hmm, I'm getting drunk on a plane",
+      "valence": 2.8,
+      "arousal": 3.46,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "'Cause I taped your picture to the seatback right beside me Now I've got empty mini bottles fillin' both our trays Hmm, I'm getting drunk on a plane Buyin' drinks for everybody",
+      "valence": 3.16,
+      "arousal": 3.39,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Now I've got empty mini bottles fillin' both our trays Hmm, I'm getting drunk on a plane Buyin' drinks for everybody But the pilot, it's a party",
+      "valence": 3.21,
+      "arousal": 3.54,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Hmm, I'm getting drunk on a plane Buyin' drinks for everybody But the pilot, it's a party Got this 737 rocking like a G6",
+      "valence": 3.24,
+      "arousal": 3.49,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Buyin' drinks for everybody But the pilot, it's a party Got this 737 rocking like a G6 Stewardess is somethin' sexy",
+      "valence": 3.54,
+      "arousal": 3.65,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "But the pilot, it's a party Got this 737 rocking like a G6 Stewardess is somethin' sexy Leanin' pourin' Coke and whiskey",
+      "valence": 3.49,
+      "arousal": 3.56,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Got this 737 rocking like a G6 Stewardess is somethin' sexy Leanin' pourin' Coke and whiskey Told her about my condition",
+      "valence": 3.47,
+      "arousal": 3.53,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Stewardess is somethin' sexy Leanin' pourin' Coke and whiskey Told her about my condition Got a little mile-high flight attention",
+      "valence": 3.42,
+      "arousal": 3.49,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Leanin' pourin' Coke and whiskey Told her about my condition Got a little mile-high flight attention It's Mardi Gras up in the clouds",
+      "valence": 3.13,
+      "arousal": 3.14,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Told her about my condition Got a little mile-high flight attention It's Mardi Gras up in the clouds I'm up so high, may never come down",
+      "valence": 3.02,
+      "arousal": 3.18,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Got a little mile-high flight attention It's Mardi Gras up in the clouds I'm up so high, may never come down I'll try anything to drown out the pain",
+      "valence": 2.59,
+      "arousal": 3.48,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "It's Mardi Gras up in the clouds I'm up so high, may never come down I'll try anything to drown out the pain They all know why I'm getting drunk on a plane",
+      "valence": 2.44,
+      "arousal": 3.51,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I'm up so high, may never come down I'll try anything to drown out the pain They all know why I'm getting drunk on a plane We had this date marked on the calendar forever",
+      "valence": 2.49,
+      "arousal": 3.5,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I'll try anything to drown out the pain They all know why I'm getting drunk on a plane We had this date marked on the calendar forever We'd take that new wed limo airport ride together",
+      "valence": 2.64,
+      "arousal": 3.64,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "They all know why I'm getting drunk on a plane We had this date marked on the calendar forever We'd take that new wed limo airport ride together I feel like a plastic groom alone there at the top of the cake",
+      "valence": 3.18,
+      "arousal": 3.45,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "We had this date marked on the calendar forever We'd take that new wed limo airport ride together I feel like a plastic groom alone there at the top of the cake So hey, I'm getting drunk on a plane",
+      "valence": 3.09,
+      "arousal": 3.45,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "We'd take that new wed limo airport ride together I feel like a plastic groom alone there at the top of the cake So hey, I'm getting drunk on a plane Buyin' drinks for everybody",
+      "valence": 3.21,
+      "arousal": 3.31,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I feel like a plastic groom alone there at the top of the cake So hey, I'm getting drunk on a plane Buyin' drinks for everybody But the pilot, it's a party",
+      "valence": 3.17,
+      "arousal": 3.41,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "So hey, I'm getting drunk on a plane Buyin' drinks for everybody But the pilot, it's a party Got this 737 rocking like a G6",
+      "valence": 3.3,
+      "arousal": 3.62,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Buyin' drinks for everybody But the pilot, it's a party Got this 737 rocking like a G6 Stewardess is somethin' sexy",
+      "valence": 3.54,
+      "arousal": 3.65,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "But the pilot, it's a party Got this 737 rocking like a G6 Stewardess is somethin' sexy Leanin' pourin' Coke and whiskey",
+      "valence": 3.49,
+      "arousal": 3.56,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Got this 737 rocking like a G6 Stewardess is somethin' sexy Leanin' pourin' Coke and whiskey Told her about my condition",
+      "valence": 3.47,
+      "arousal": 3.53,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Stewardess is somethin' sexy Leanin' pourin' Coke and whiskey Told her about my condition Got a little mile-high flight attention",
+      "valence": 3.42,
+      "arousal": 3.49,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Leanin' pourin' Coke and whiskey Told her about my condition Got a little mile-high flight attention It's Mardi Gras up in the clouds",
+      "valence": 3.13,
+      "arousal": 3.14,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Told her about my condition Got a little mile-high flight attention It's Mardi Gras up in the clouds I'm up so high, may never come down",
+      "valence": 3.02,
+      "arousal": 3.18,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Got a little mile-high flight attention It's Mardi Gras up in the clouds I'm up so high, may never come down I'll try anything to drown out the pain",
+      "valence": 2.59,
+      "arousal": 3.48,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "It's Mardi Gras up in the clouds I'm up so high, may never come down I'll try anything to drown out the pain They all know why I'm getting drunk on a plane",
+      "valence": 2.44,
+      "arousal": 3.51,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I'm up so high, may never come down I'll try anything to drown out the pain They all know why I'm getting drunk on a plane On my way home I'll bump this seat right up to first class",
+      "valence": 2.47,
+      "arousal": 3.5,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I'll try anything to drown out the pain They all know why I'm getting drunk on a plane On my way home I'll bump this seat right up to first class So I can drink that cheap champagne out of a real glass",
+      "valence": 2.48,
+      "arousal": 3.53,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "They all know why I'm getting drunk on a plane On my way home I'll bump this seat right up to first class So I can drink that cheap champagne out of a real glass And when we land I'll call her up and tell her kiss my ass",
+      "valence": 2.86,
+      "arousal": 3.73,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "On my way home I'll bump this seat right up to first class So I can drink that cheap champagne out of a real glass And when we land I'll call her up and tell her kiss my ass 'Cause hey, I'm drunk on a plane",
+      "valence": 2.94,
+      "arousal": 3.92,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "So I can drink that cheap champagne out of a real glass And when we land I'll call her up and tell her kiss my ass 'Cause hey, I'm drunk on a plane Buyin' drinks for everybody",
+      "valence": 3.01,
+      "arousal": 3.89,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "And when we land I'll call her up and tell her kiss my ass 'Cause hey, I'm drunk on a plane Buyin' drinks for everybody But the pilot, it's a party",
+      "valence": 3.06,
+      "arousal": 3.99,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "'Cause hey, I'm drunk on a plane Buyin' drinks for everybody But the pilot, it's a party Got this 737 rocking like a G6",
+      "valence": 3.29,
+      "arousal": 3.58,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Buyin' drinks for everybody But the pilot, it's a party Got this 737 rocking like a G6 Stewardess is somethin' sexy",
+      "valence": 3.54,
+      "arousal": 3.65,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "But the pilot, it's a party Got this 737 rocking like a G6 Stewardess is somethin' sexy Leanin' pourin' Coke and whiskey",
+      "valence": 3.49,
+      "arousal": 3.56,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Got this 737 rocking like a G6 Stewardess is somethin' sexy Leanin' pourin' Coke and whiskey Told her about my condition",
+      "valence": 3.47,
+      "arousal": 3.53,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Stewardess is somethin' sexy Leanin' pourin' Coke and whiskey Told her about my condition Got a little mile-high flight attention",
+      "valence": 3.42,
+      "arousal": 3.49,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Leanin' pourin' Coke and whiskey Told her about my condition Got a little mile-high flight attention It's Mardi Gras up in the clouds",
+      "valence": 3.13,
+      "arousal": 3.14,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Told her about my condition Got a little mile-high flight attention It's Mardi Gras up in the clouds I'm up so high, may never come down",
+      "valence": 3.02,
+      "arousal": 3.18,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Got a little mile-high flight attention It's Mardi Gras up in the clouds I'm up so high, may never come down I'll try anything to drown out the pain",
+      "valence": 2.59,
+      "arousal": 3.48,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "It's Mardi Gras up in the clouds I'm up so high, may never come down I'll try anything to drown out the pain They all know why I'm getting drunk on a plane",
+      "valence": 2.44,
+      "arousal": 3.51,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I'm up so high, may never come down I'll try anything to drown out the pain They all know why I'm getting drunk on a plane I'm getting drunk on a plane",
+      "valence": 2.37,
+      "arousal": 3.6,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I'll try anything to drown out the pain They all know why I'm getting drunk on a plane I'm getting drunk on a plane I might be passed out",
+      "valence": 2.22,
+      "arousal": 3.75,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "They all know why I'm getting drunk on a plane I'm getting drunk on a plane I might be passed out In the baggage claim, hmm",
+      "valence": 2.59,
+      "arousal": 3.23,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I'm getting drunk on a plane I might be passed out In the baggage claim, hmm But right now",
+      "valence": 2.64,
+      "arousal": 3.24,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I might be passed out In the baggage claim, hmm But right now I'm drunk on a plane",
+      "valence": 2.61,
+      "arousal": 3.16,
+      "dominance": 2.71
+    }
+  ]
+}

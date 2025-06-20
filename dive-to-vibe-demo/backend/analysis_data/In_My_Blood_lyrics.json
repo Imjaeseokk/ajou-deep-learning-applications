@@ -1,0 +1,325 @@
+{
+  "artist": "Shawn Mendes",
+  "overall_vad": {
+    "valence": 2.57,
+    "arousal": 3.57,
+    "dominance": 2.91
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Help me, it's like the walls are caving in Sometimes I feel like giving up But I just can't It isn't in my blood",
+      "valence": 2.47,
+      "arousal": 3.71,
+      "dominance": 2.77
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Sometimes I feel like giving up But I just can't It isn't in my blood Laying on the bathroom floor, feeling nothing",
+      "valence": 2.17,
+      "arousal": 3.32,
+      "dominance": 2.64
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "But I just can't It isn't in my blood Laying on the bathroom floor, feeling nothing I'm overwhelmed and insecure, give me something",
+      "valence": 2.18,
+      "arousal": 3.63,
+      "dominance": 2.75
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "It isn't in my blood Laying on the bathroom floor, feeling nothing I'm overwhelmed and insecure, give me something I could take to ease my mind slowly",
+      "valence": 2.68,
+      "arousal": 3.33,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Laying on the bathroom floor, feeling nothing I'm overwhelmed and insecure, give me something I could take to ease my mind slowly Just have a drink and you'll feel better",
+      "valence": 3.08,
+      "arousal": 3.21,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I'm overwhelmed and insecure, give me something I could take to ease my mind slowly Just have a drink and you'll feel better Just take her home and you'll feel better",
+      "valence": 3.13,
+      "arousal": 3.32,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I could take to ease my mind slowly Just have a drink and you'll feel better Just take her home and you'll feel better Keep telling me that it gets better",
+      "valence": 3.31,
+      "arousal": 3.14,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Just have a drink and you'll feel better Just take her home and you'll feel better Keep telling me that it gets better Does it ever?",
+      "valence": 3.16,
+      "arousal": 3.22,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Just take her home and you'll feel better Keep telling me that it gets better Does it ever? Help me, it's like the walls are caving in",
+      "valence": 2.92,
+      "arousal": 3.48,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Keep telling me that it gets better Does it ever? Help me, it's like the walls are caving in Sometimes I feel like giving up",
+      "valence": 2.56,
+      "arousal": 3.49,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Does it ever? Help me, it's like the walls are caving in Sometimes I feel like giving up No medicine is strong enough",
+      "valence": 2.52,
+      "arousal": 3.44,
+      "dominance": 2.75
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Help me, it's like the walls are caving in Sometimes I feel like giving up No medicine is strong enough Someone help me",
+      "valence": 2.57,
+      "arousal": 3.75,
+      "dominance": 2.67
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Sometimes I feel like giving up No medicine is strong enough Someone help me I'm crawling in my skin",
+      "valence": 2.44,
+      "arousal": 3.62,
+      "dominance": 2.63
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "No medicine is strong enough Someone help me I'm crawling in my skin Sometimes I feel like giving up",
+      "valence": 2.42,
+      "arousal": 3.64,
+      "dominance": 2.69
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Someone help me I'm crawling in my skin Sometimes I feel like giving up But I just can't",
+      "valence": 2.6,
+      "arousal": 3.67,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I'm crawling in my skin Sometimes I feel like giving up But I just can't It isn't in my blood",
+      "valence": 2.54,
+      "arousal": 3.48,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Sometimes I feel like giving up But I just can't It isn't in my blood It isn't in my blood",
+      "valence": 2.42,
+      "arousal": 3.31,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "But I just can't It isn't in my blood It isn't in my blood I'm looking through my phone again, feeling anxious",
+      "valence": 2.39,
+      "arousal": 3.47,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "It isn't in my blood It isn't in my blood I'm looking through my phone again, feeling anxious Afraid to be alone again, I hate this",
+      "valence": 2.17,
+      "arousal": 3.81,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "It isn't in my blood I'm looking through my phone again, feeling anxious Afraid to be alone again, I hate this I'm tryna find a way to chill, can't breathe, oh",
+      "valence": 2.18,
+      "arousal": 3.79,
+      "dominance": 2.55
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I'm looking through my phone again, feeling anxious Afraid to be alone again, I hate this I'm tryna find a way to chill, can't breathe, oh Is there somebody who could help me?",
+      "valence": 2.34,
+      "arousal": 3.89,
+      "dominance": 2.44
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Afraid to be alone again, I hate this I'm tryna find a way to chill, can't breathe, oh Is there somebody who could help me? It's like the walls are caving in",
+      "valence": 2.29,
+      "arousal": 3.89,
+      "dominance": 2.38
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I'm tryna find a way to chill, can't breathe, oh Is there somebody who could help me? It's like the walls are caving in Sometimes I feel like giving up",
+      "valence": 2.56,
+      "arousal": 3.72,
+      "dominance": 2.54
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Is there somebody who could help me? It's like the walls are caving in Sometimes I feel like giving up No medicine is strong enough",
+      "valence": 2.75,
+      "arousal": 3.55,
+      "dominance": 2.69
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "It's like the walls are caving in Sometimes I feel like giving up No medicine is strong enough Someone help me",
+      "valence": 2.5,
+      "arousal": 3.54,
+      "dominance": 2.54
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Sometimes I feel like giving up No medicine is strong enough Someone help me I'm crawling in my skin",
+      "valence": 2.44,
+      "arousal": 3.62,
+      "dominance": 2.63
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "No medicine is strong enough Someone help me I'm crawling in my skin Sometimes I feel like giving up",
+      "valence": 2.42,
+      "arousal": 3.64,
+      "dominance": 2.69
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Someone help me I'm crawling in my skin Sometimes I feel like giving up But I just can't",
+      "valence": 2.6,
+      "arousal": 3.67,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I'm crawling in my skin Sometimes I feel like giving up But I just can't It isn't in my blood",
+      "valence": 2.54,
+      "arousal": 3.48,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Sometimes I feel like giving up But I just can't It isn't in my blood It isn't in my blood (oh)",
+      "valence": 2.44,
+      "arousal": 3.35,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "But I just can't It isn't in my blood It isn't in my blood (oh) I need somebody now",
+      "valence": 2.44,
+      "arousal": 3.69,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "It isn't in my blood It isn't in my blood (oh) I need somebody now I need somebody now",
+      "valence": 2.55,
+      "arousal": 3.55,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "It isn't in my blood (oh) I need somebody now I need somebody now Someone to help me out",
+      "valence": 2.73,
+      "arousal": 3.53,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I need somebody now I need somebody now Someone to help me out I need somebody now",
+      "valence": 2.93,
+      "arousal": 3.67,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I need somebody now Someone to help me out I need somebody now Help me, it's like the walls are caving in",
+      "valence": 2.83,
+      "arousal": 3.75,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Someone to help me out I need somebody now Help me, it's like the walls are caving in Sometimes I feel like giving up",
+      "valence": 2.72,
+      "arousal": 3.75,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I need somebody now Help me, it's like the walls are caving in Sometimes I feel like giving up But I just can't",
+      "valence": 2.53,
+      "arousal": 3.78,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Help me, it's like the walls are caving in Sometimes I feel like giving up But I just can't It isn't in my blood",
+      "valence": 2.47,
+      "arousal": 3.71,
+      "dominance": 2.77
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Sometimes I feel like giving up But I just can't It isn't in my blood It isn't in my blood, oh, oh",
+      "valence": 2.38,
+      "arousal": 3.41,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "But I just can't It isn't in my blood It isn't in my blood, oh, oh (Oh, oh, oh)",
+      "valence": 2.4,
+      "arousal": 3.61,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "It isn't in my blood It isn't in my blood, oh, oh (Oh, oh, oh) It isn't in my blood",
+      "valence": 2.57,
+      "arousal": 3.52,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "It isn't in my blood, oh, oh (Oh, oh, oh) It isn't in my blood I need somebody now",
+      "valence": 2.48,
+      "arousal": 3.74,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "(Oh, oh, oh) It isn't in my blood I need somebody now It isn't in my blood",
+      "valence": 2.61,
+      "arousal": 3.59,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "It isn't in my blood I need somebody now It isn't in my blood I need somebody now",
+      "valence": 2.54,
+      "arousal": 3.69,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I need somebody now It isn't in my blood I need somebody now It isn't in my blood",
+      "valence": 2.58,
+      "arousal": 3.64,
+      "dominance": 3.23
+    }
+  ]
+}

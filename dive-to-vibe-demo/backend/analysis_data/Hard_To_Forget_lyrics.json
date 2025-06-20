@@ -1,0 +1,374 @@
+{
+  "artist": "Sam Hunt",
+  "overall_vad": {
+    "valence": 2.81,
+    "arousal": 3.59,
+    "dominance": 3.16
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "There stands the glass That will ease all my pain That will settle my brain It's my first one today",
+      "valence": 3.49,
+      "arousal": 3.22,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "That will ease all my pain That will settle my brain It's my first one today There stands the glass",
+      "valence": 3.45,
+      "arousal": 3.24,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "That will settle my brain It's my first one today There stands the glass That-that will ease all my pain",
+      "valence": 3.4,
+      "arousal": 3.25,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "It's my first one today There stands the glass That-that will ease all my pain That-that will settle my brain",
+      "valence": 3.47,
+      "arousal": 3.2,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "There stands the glass That-that will ease all my pain That-that will settle my brain It's-it's my first one today",
+      "valence": 3.53,
+      "arousal": 3.24,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "That-that will ease all my pain That-that will settle my brain It's-it's my first one today Hey",
+      "valence": 3.4,
+      "arousal": 3.18,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "That-that will settle my brain It's-it's my first one today Hey I saw your sister at work",
+      "valence": 3.28,
+      "arousal": 3.15,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "It's-it's my first one today Hey I saw your sister at work I saw your mama at church",
+      "valence": 3.52,
+      "arousal": 3.32,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Hey I saw your sister at work I saw your mama at church I'm pretty sure I saw your car at the mall",
+      "valence": 3.27,
+      "arousal": 3.36,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I saw your sister at work I saw your mama at church I'm pretty sure I saw your car at the mall I see your face in the clouds",
+      "valence": 3.33,
+      "arousal": 3.38,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I saw your mama at church I'm pretty sure I saw your car at the mall I see your face in the clouds I smell your perfume in crowds",
+      "valence": 3.57,
+      "arousal": 3.6,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I'm pretty sure I saw your car at the mall I see your face in the clouds I smell your perfume in crowds I swear your number's all my phone wants to call",
+      "valence": 3.44,
+      "arousal": 3.71,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I see your face in the clouds I smell your perfume in crowds I swear your number's all my phone wants to call It's kinda funny how I can't seem to get away from you",
+      "valence": 3.43,
+      "arousal": 3.68,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I smell your perfume in crowds I swear your number's all my phone wants to call It's kinda funny how I can't seem to get away from you It's almost like you don't want me to",
+      "valence": 3.17,
+      "arousal": 3.62,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I swear your number's all my phone wants to call It's kinda funny how I can't seem to get away from you It's almost like you don't want me to You've got a cold heart and the cold hard truth",
+      "valence": 2.52,
+      "arousal": 3.62,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "It's kinda funny how I can't seem to get away from you It's almost like you don't want me to You've got a cold heart and the cold hard truth I got a bottle of whiskey but I got no proof",
+      "valence": 2.39,
+      "arousal": 3.53,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "It's almost like you don't want me to You've got a cold heart and the cold hard truth I got a bottle of whiskey but I got no proof That you showed up tonight in that dress",
+      "valence": 2.3,
+      "arousal": 3.57,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "You've got a cold heart and the cold hard truth I got a bottle of whiskey but I got no proof That you showed up tonight in that dress Just to mess with my head",
+      "valence": 2.25,
+      "arousal": 3.64,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I got a bottle of whiskey but I got no proof That you showed up tonight in that dress Just to mess with my head So much for so long, out of sight, out of mind",
+      "valence": 2.34,
+      "arousal": 3.59,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "That you showed up tonight in that dress Just to mess with my head So much for so long, out of sight, out of mind Girl you're lookin' so good, it's drivin' me out of mine",
+      "valence": 2.86,
+      "arousal": 3.86,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Just to mess with my head So much for so long, out of sight, out of mind Girl you're lookin' so good, it's drivin' me out of mine Oh, you're breakin' my heart",
+      "valence": 2.26,
+      "arousal": 4.04,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "So much for so long, out of sight, out of mind Girl you're lookin' so good, it's drivin' me out of mine Oh, you're breakin' my heart Baby, you're playin' hard to forget",
+      "valence": 3.03,
+      "arousal": 4.1,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Girl you're lookin' so good, it's drivin' me out of mine Oh, you're breakin' my heart Baby, you're playin' hard to forget Told me to leave all your things",
+      "valence": 2.68,
+      "arousal": 4.11,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Oh, you're breakin' my heart Baby, you're playin' hard to forget Told me to leave all your things Out on the porch on the swing",
+      "valence": 2.23,
+      "arousal": 3.93,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Baby, you're playin' hard to forget Told me to leave all your things Out on the porch on the swing You'd come and grab 'em by the end of the week",
+      "valence": 3.0,
+      "arousal": 3.26,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Told me to leave all your things Out on the porch on the swing You'd come and grab 'em by the end of the week Well, it's just some jeans and a shirt",
+      "valence": 2.99,
+      "arousal": 3.06,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Out on the porch on the swing You'd come and grab 'em by the end of the week Well, it's just some jeans and a shirt But it's a whole lot of hurt",
+      "valence": 2.48,
+      "arousal": 3.29,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "You'd come and grab 'em by the end of the week Well, it's just some jeans and a shirt But it's a whole lot of hurt I think I know why you've been draggin' your feet",
+      "valence": 2.4,
+      "arousal": 3.33,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Well, it's just some jeans and a shirt But it's a whole lot of hurt I think I know why you've been draggin' your feet Ain't it funny how I can't seem to get away from you",
+      "valence": 2.16,
+      "arousal": 3.45,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "But it's a whole lot of hurt I think I know why you've been draggin' your feet Ain't it funny how I can't seem to get away from you It's almost like you don't want me to",
+      "valence": 2.01,
+      "arousal": 3.58,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I think I know why you've been draggin' your feet Ain't it funny how I can't seem to get away from you It's almost like you don't want me to You've got a cold heart and the cold hard truth",
+      "valence": 2.37,
+      "arousal": 3.57,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Ain't it funny how I can't seem to get away from you It's almost like you don't want me to You've got a cold heart and the cold hard truth I got a bottle of whiskey but I got no proof",
+      "valence": 2.31,
+      "arousal": 3.57,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "It's almost like you don't want me to You've got a cold heart and the cold hard truth I got a bottle of whiskey but I got no proof That you showed up tonight in that dress",
+      "valence": 2.3,
+      "arousal": 3.57,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "You've got a cold heart and the cold hard truth I got a bottle of whiskey but I got no proof That you showed up tonight in that dress Just to mess with my head",
+      "valence": 2.25,
+      "arousal": 3.64,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I got a bottle of whiskey but I got no proof That you showed up tonight in that dress Just to mess with my head So much for so long, out of sight, out of mind",
+      "valence": 2.34,
+      "arousal": 3.59,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "That you showed up tonight in that dress Just to mess with my head So much for so long, out of sight, out of mind Girl you're lookin' so good, it's drivin' me out of mine",
+      "valence": 2.86,
+      "arousal": 3.86,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Just to mess with my head So much for so long, out of sight, out of mind Girl you're lookin' so good, it's drivin' me out of mine Oh, you're breakin' my heart",
+      "valence": 2.26,
+      "arousal": 4.04,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "So much for so long, out of sight, out of mind Girl you're lookin' so good, it's drivin' me out of mine Oh, you're breakin' my heart Baby, you're playin' hard to forget",
+      "valence": 3.03,
+      "arousal": 4.1,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Girl you're lookin' so good, it's drivin' me out of mine Oh, you're breakin' my heart Baby, you're playin' hard to forget There stands the glass",
+      "valence": 2.92,
+      "arousal": 4.13,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Oh, you're breakin' my heart Baby, you're playin' hard to forget There stands the glass That-that will ease all my pain",
+      "valence": 2.6,
+      "arousal": 3.88,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Baby, you're playin' hard to forget There stands the glass That-that will ease all my pain That-that will settle my brain",
+      "valence": 3.27,
+      "arousal": 3.43,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "There stands the glass That-that will ease all my pain That-that will settle my brain It's-it's my first one today",
+      "valence": 3.53,
+      "arousal": 3.24,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "That-that will ease all my pain That-that will settle my brain It's-it's my first one today You've got a cold heart and the cold hard truth",
+      "valence": 2.92,
+      "arousal": 3.24,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "That-that will settle my brain It's-it's my first one today You've got a cold heart and the cold hard truth I got a bottle of whiskey but I got no proof",
+      "valence": 2.81,
+      "arousal": 3.19,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "It's-it's my first one today You've got a cold heart and the cold hard truth I got a bottle of whiskey but I got no proof That you showed up tonight in that dress",
+      "valence": 2.83,
+      "arousal": 3.32,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "You've got a cold heart and the cold hard truth I got a bottle of whiskey but I got no proof That you showed up tonight in that dress Just to mess with my head",
+      "valence": 2.25,
+      "arousal": 3.64,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I got a bottle of whiskey but I got no proof That you showed up tonight in that dress Just to mess with my head So much for so long, out of sight, out of mind",
+      "valence": 2.34,
+      "arousal": 3.59,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "That you showed up tonight in that dress Just to mess with my head So much for so long, out of sight, out of mind Girl you're lookin' so good, it's drivin' me out of mine",
+      "valence": 2.86,
+      "arousal": 3.86,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Just to mess with my head So much for so long, out of sight, out of mind Girl you're lookin' so good, it's drivin' me out of mine Oh, you're breakin' my heart",
+      "valence": 2.26,
+      "arousal": 4.04,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "So much for so long, out of sight, out of mind Girl you're lookin' so good, it's drivin' me out of mine Oh, you're breakin' my heart Baby, you're playin' hard to forget",
+      "valence": 3.03,
+      "arousal": 4.1,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Girl you're lookin' so good, it's drivin' me out of mine Oh, you're breakin' my heart Baby, you're playin' hard to forget Oh honey, I'm fallin' apart",
+      "valence": 2.82,
+      "arousal": 4.05,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Oh, you're breakin' my heart Baby, you're playin' hard to forget Oh honey, I'm fallin' apart You're playin' hard to forget",
+      "valence": 2.41,
+      "arousal": 3.85,
+      "dominance": 2.9
+    }
+  ]
+}

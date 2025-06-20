@@ -1,0 +1,332 @@
+{
+  "artist": "Em Beihold",
+  "overall_vad": {
+    "valence": 2.69,
+    "arousal": 3.22,
+    "dominance": 2.88
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I don't feel a single thing Have the pills done too much Haven't caught up with my friends in weeks And now we're outta touch",
+      "valence": 2.31,
+      "arousal": 3.36,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Have the pills done too much Haven't caught up with my friends in weeks And now we're outta touch I've been driving in L.A.",
+      "valence": 2.49,
+      "arousal": 3.3,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Haven't caught up with my friends in weeks And now we're outta touch I've been driving in L.A. And the world it feels too big",
+      "valence": 2.6,
+      "arousal": 3.44,
+      "dominance": 2.57
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "And now we're outta touch I've been driving in L.A. And the world it feels too big Like a floating ball that's bound to break",
+      "valence": 2.69,
+      "arousal": 3.39,
+      "dominance": 2.63
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I've been driving in L.A. And the world it feels too big Like a floating ball that's bound to break Snap my psyche like a twig",
+      "valence": 2.59,
+      "arousal": 3.31,
+      "dominance": 2.59
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "And the world it feels too big Like a floating ball that's bound to break Snap my psyche like a twig And I just wanna see if you feel the same as me",
+      "valence": 2.69,
+      "arousal": 3.42,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Like a floating ball that's bound to break Snap my psyche like a twig And I just wanna see if you feel the same as me Do you ever get a little bit tired of life",
+      "valence": 2.78,
+      "arousal": 3.32,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Snap my psyche like a twig And I just wanna see if you feel the same as me Do you ever get a little bit tired of life Like you're not really happy but you don't wanna die",
+      "valence": 2.85,
+      "arousal": 3.17,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "And I just wanna see if you feel the same as me Do you ever get a little bit tired of life Like you're not really happy but you don't wanna die Like you're hanging by a thread but you gotta survive",
+      "valence": 2.86,
+      "arousal": 3.22,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Do you ever get a little bit tired of life Like you're not really happy but you don't wanna die Like you're hanging by a thread but you gotta survive 'Cause you gotta survive",
+      "valence": 2.66,
+      "arousal": 3.22,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Like you're not really happy but you don't wanna die Like you're hanging by a thread but you gotta survive 'Cause you gotta survive Like your body's in the room but you're not really there",
+      "valence": 2.61,
+      "arousal": 3.31,
+      "dominance": 2.71
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Like you're hanging by a thread but you gotta survive 'Cause you gotta survive Like your body's in the room but you're not really there Like you have empathy inside but you don't really care",
+      "valence": 2.72,
+      "arousal": 3.23,
+      "dominance": 2.63
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "'Cause you gotta survive Like your body's in the room but you're not really there Like you have empathy inside but you don't really care Like you're fresh outta love but it's been in the air",
+      "valence": 2.91,
+      "arousal": 3.22,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Like your body's in the room but you're not really there Like you have empathy inside but you don't really care Like you're fresh outta love but it's been in the air Am I past repair",
+      "valence": 2.82,
+      "arousal": 3.16,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Like you have empathy inside but you don't really care Like you're fresh outta love but it's been in the air Am I past repair A little bit tired of tryin' to care when I don't",
+      "valence": 2.58,
+      "arousal": 3.09,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Like you're fresh outta love but it's been in the air Am I past repair A little bit tired of tryin' to care when I don't A little bit tired of quick repairs to cope",
+      "valence": 2.91,
+      "arousal": 3.18,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Am I past repair A little bit tired of tryin' to care when I don't A little bit tired of quick repairs to cope A little bit tired of sinkin'",
+      "valence": 2.6,
+      "arousal": 2.91,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "A little bit tired of tryin' to care when I don't A little bit tired of quick repairs to cope A little bit tired of sinkin' There's water in my boat",
+      "valence": 2.75,
+      "arousal": 2.91,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "A little bit tired of quick repairs to cope A little bit tired of sinkin' There's water in my boat I'm barely breathin'",
+      "valence": 2.41,
+      "arousal": 2.91,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "A little bit tired of sinkin' There's water in my boat I'm barely breathin' Tryna stay afloat",
+      "valence": 2.39,
+      "arousal": 3.04,
+      "dominance": 2.71
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "There's water in my boat I'm barely breathin' Tryna stay afloat So I got these quick repairs to cope",
+      "valence": 2.62,
+      "arousal": 3.27,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I'm barely breathin' Tryna stay afloat So I got these quick repairs to cope Guess I'm just broken and broke",
+      "valence": 2.32,
+      "arousal": 3.44,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Tryna stay afloat So I got these quick repairs to cope Guess I'm just broken and broke The prescriptions on its way",
+      "valence": 2.59,
+      "arousal": 3.26,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "So I got these quick repairs to cope Guess I'm just broken and broke The prescriptions on its way With a name I can't pronounce",
+      "valence": 2.44,
+      "arousal": 3.3,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Guess I'm just broken and broke The prescriptions on its way With a name I can't pronounce And the dose I gotta take",
+      "valence": 2.37,
+      "arousal": 3.25,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "The prescriptions on its way With a name I can't pronounce And the dose I gotta take Boy, I wish that I could count",
+      "valence": 2.59,
+      "arousal": 3.43,
+      "dominance": 2.71
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "With a name I can't pronounce And the dose I gotta take Boy, I wish that I could count 'Cause I just wanna see if this could make me happy",
+      "valence": 3.08,
+      "arousal": 3.54,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "And the dose I gotta take Boy, I wish that I could count 'Cause I just wanna see if this could make me happy Do you ever get a little bit tired of life",
+      "valence": 3.12,
+      "arousal": 3.5,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Boy, I wish that I could count 'Cause I just wanna see if this could make me happy Do you ever get a little bit tired of life Like you're not really happy but you don't wanna die",
+      "valence": 3.18,
+      "arousal": 3.51,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "'Cause I just wanna see if this could make me happy Do you ever get a little bit tired of life Like you're not really happy but you don't wanna die Like you're hanging by a thread but you gotta survive",
+      "valence": 3.1,
+      "arousal": 3.39,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Do you ever get a little bit tired of life Like you're not really happy but you don't wanna die Like you're hanging by a thread but you gotta survive 'Cause you gotta survive",
+      "valence": 2.66,
+      "arousal": 3.22,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Like you're not really happy but you don't wanna die Like you're hanging by a thread but you gotta survive 'Cause you gotta survive Like your body's in the room but you're not really there",
+      "valence": 2.61,
+      "arousal": 3.31,
+      "dominance": 2.71
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Like you're hanging by a thread but you gotta survive 'Cause you gotta survive Like your body's in the room but you're not really there Like you have empathy inside but you don't really care",
+      "valence": 2.72,
+      "arousal": 3.23,
+      "dominance": 2.63
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "'Cause you gotta survive Like your body's in the room but you're not really there Like you have empathy inside but you don't really care Like you're fresh outta love but it's been in the air",
+      "valence": 2.91,
+      "arousal": 3.22,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Like your body's in the room but you're not really there Like you have empathy inside but you don't really care Like you're fresh outta love but it's been in the air Am I past repair",
+      "valence": 2.82,
+      "arousal": 3.16,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Like you have empathy inside but you don't really care Like you're fresh outta love but it's been in the air Am I past repair A little bit tired of tryin' to care when I don't",
+      "valence": 2.58,
+      "arousal": 3.09,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Like you're fresh outta love but it's been in the air Am I past repair A little bit tired of tryin' to care when I don't A little bit tired of quick repairs to cope",
+      "valence": 2.91,
+      "arousal": 3.18,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Am I past repair A little bit tired of tryin' to care when I don't A little bit tired of quick repairs to cope A little bit tired of sinking",
+      "valence": 2.58,
+      "arousal": 2.94,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "A little bit tired of tryin' to care when I don't A little bit tired of quick repairs to cope A little bit tired of sinking There's water in my boat",
+      "valence": 2.73,
+      "arousal": 2.89,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "A little bit tired of quick repairs to cope A little bit tired of sinking There's water in my boat I'm barely breathin'",
+      "valence": 2.36,
+      "arousal": 2.96,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "A little bit tired of sinking There's water in my boat I'm barely breathin' Tryna stay afloat",
+      "valence": 2.34,
+      "arousal": 3.05,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "There's water in my boat I'm barely breathin' Tryna stay afloat So I got these quick repairs to cope",
+      "valence": 2.62,
+      "arousal": 3.27,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I'm barely breathin' Tryna stay afloat So I got these quick repairs to cope Do you ever get a little bit tired of life",
+      "valence": 2.64,
+      "arousal": 3.29,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Tryna stay afloat So I got these quick repairs to cope Do you ever get a little bit tired of life Like you're not really happy but you don't wanna die",
+      "valence": 3.0,
+      "arousal": 3.23,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "So I got these quick repairs to cope Do you ever get a little bit tired of life Like you're not really happy but you don't wanna die Like a numb little bug that's gotta survive",
+      "valence": 2.92,
+      "arousal": 3.16,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Do you ever get a little bit tired of life Like you're not really happy but you don't wanna die Like a numb little bug that's gotta survive That's gotta survive",
+      "valence": 2.57,
+      "arousal": 3.05,
+      "dominance": 3.0
+    }
+  ]
+}

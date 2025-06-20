@@ -1,0 +1,556 @@
+{
+  "artist": "Cardi B, Bad Bunny & J Balvin",
+  "overall_vad": {
+    "valence": 3.29,
+    "arousal": 3.47,
+    "dominance": 3.28
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Yeah baby, I like it like that You gotta' believe me when I tell you I said I like it like that You gotta' believe me when I tell you",
+      "valence": 3.84,
+      "arousal": 3.74,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "You gotta' believe me when I tell you I said I like it like that You gotta' believe me when I tell you I said I like it like",
+      "valence": 3.59,
+      "arousal": 3.74,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I said I like it like that You gotta' believe me when I tell you I said I like it like Now I like dollars, I like diamonds, I like stunting, I like shining",
+      "valence": 3.87,
+      "arousal": 3.52,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "You gotta' believe me when I tell you I said I like it like Now I like dollars, I like diamonds, I like stunting, I like shining I like million dollar deals, where's my pen, bitch I'm signin' (Signin')",
+      "valence": 3.58,
+      "arousal": 3.77,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I said I like it like Now I like dollars, I like diamonds, I like stunting, I like shining I like million dollar deals, where's my pen, bitch I'm signin' (Signin') I like those Balenciagas (Those), the ones that look like socks",
+      "valence": 3.71,
+      "arousal": 3.44,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Now I like dollars, I like diamonds, I like stunting, I like shining I like million dollar deals, where's my pen, bitch I'm signin' (Signin') I like those Balenciagas (Those), the ones that look like socks I like going to the jeweler, I put rocks all in my watch (Cha-ching)",
+      "valence": 3.56,
+      "arousal": 3.4,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I like million dollar deals, where's my pen, bitch I'm signin' (Signin') I like those Balenciagas (Those), the ones that look like socks I like going to the jeweler, I put rocks all in my watch (Cha-ching) I like texts from my exes, when they want a second chance (What?)",
+      "valence": 3.47,
+      "arousal": 3.42,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I like those Balenciagas (Those), the ones that look like socks I like going to the jeweler, I put rocks all in my watch (Cha-ching) I like texts from my exes, when they want a second chance (What?) I like proving niggas wrong, I do what they say I can't (She can't)",
+      "valence": 3.51,
+      "arousal": 3.32,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I like going to the jeweler, I put rocks all in my watch (Cha-ching) I like texts from my exes, when they want a second chance (What?) I like proving niggas wrong, I do what they say I can't (She can't) They call me Cardi Bardi, banging body, spicy mami, hot tamale",
+      "valence": 3.38,
+      "arousal": 3.44,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I like texts from my exes, when they want a second chance (What?) I like proving niggas wrong, I do what they say I can't (She can't) They call me Cardi Bardi, banging body, spicy mami, hot tamale Hotter than a Somali, fur coat, Ferrari",
+      "valence": 3.11,
+      "arousal": 3.54,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I like proving niggas wrong, I do what they say I can't (She can't) They call me Cardi Bardi, banging body, spicy mami, hot tamale Hotter than a Somali, fur coat, Ferrari Hop out the stu', jump in the coupe (Coupe)",
+      "valence": 3.16,
+      "arousal": 3.57,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "They call me Cardi Bardi, banging body, spicy mami, hot tamale Hotter than a Somali, fur coat, Ferrari Hop out the stu', jump in the coupe (Coupe) Big Dipper on top of the roof",
+      "valence": 3.2,
+      "arousal": 3.6,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Hotter than a Somali, fur coat, Ferrari Hop out the stu', jump in the coupe (Coupe) Big Dipper on top of the roof Flexing on bitches as hard as I can",
+      "valence": 3.0,
+      "arousal": 3.3,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Hop out the stu', jump in the coupe (Coupe) Big Dipper on top of the roof Flexing on bitches as hard as I can Eating halal, driving the Lam'",
+      "valence": 3.0,
+      "arousal": 3.17,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Big Dipper on top of the roof Flexing on bitches as hard as I can Eating halal, driving the Lam' Told that bitch I'm sorry (Sorry)",
+      "valence": 2.26,
+      "arousal": 3.46,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Flexing on bitches as hard as I can Eating halal, driving the Lam' Told that bitch I'm sorry (Sorry) 'Bout my coins like Mario (Mario)",
+      "valence": 2.3,
+      "arousal": 3.46,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Eating halal, driving the Lam' Told that bitch I'm sorry (Sorry) 'Bout my coins like Mario (Mario) Yeah they call me Cardi B",
+      "valence": 2.47,
+      "arousal": 3.46,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Told that bitch I'm sorry (Sorry) 'Bout my coins like Mario (Mario) Yeah they call me Cardi B I run this shit like cardio",
+      "valence": 2.35,
+      "arousal": 3.43,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "'Bout my coins like Mario (Mario) Yeah they call me Cardi B I run this shit like cardio Oh, damn",
+      "valence": 2.72,
+      "arousal": 3.69,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Yeah they call me Cardi B I run this shit like cardio Oh, damn Diamond district in the jag (Gang, I said I like it like that)",
+      "valence": 3.14,
+      "arousal": 3.64,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I run this shit like cardio Oh, damn Diamond district in the jag (Gang, I said I like it like that) Certified, you know I'm gang, gang (Gang, gang I said I like it like)",
+      "valence": 3.33,
+      "arousal": 3.6,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Oh, damn Diamond district in the jag (Gang, I said I like it like that) Certified, you know I'm gang, gang (Gang, gang I said I like it like) Drop the top and blow the brains, wouh (Wouh! I said I like it like that)",
+      "valence": 3.44,
+      "arousal": 3.73,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Diamond district in the jag (Gang, I said I like it like that) Certified, you know I'm gang, gang (Gang, gang I said I like it like) Drop the top and blow the brains, wouh (Wouh! I said I like it like that) Oh he's so handsome, what's his name? (Yeah, wouh, I said I like it)",
+      "valence": 3.76,
+      "arousal": 3.68,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Certified, you know I'm gang, gang (Gang, gang I said I like it like) Drop the top and blow the brains, wouh (Wouh! I said I like it like that) Oh he's so handsome, what's his name? (Yeah, wouh, I said I like it) Oh I need the dollars, cha-ching (I said I like it like that)",
+      "valence": 3.75,
+      "arousal": 3.71,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Drop the top and blow the brains, wouh (Wouh! I said I like it like that) Oh he's so handsome, what's his name? (Yeah, wouh, I said I like it) Oh I need the dollars, cha-ching (I said I like it like that) Beat it up like piÃ±atas (I said I like it like)",
+      "valence": 3.68,
+      "arousal": 3.86,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Oh he's so handsome, what's his name? (Yeah, wouh, I said I like it) Oh I need the dollars, cha-ching (I said I like it like that) Beat it up like piÃ±atas (I said I like it like) Tell the driver, close the curtains (I said I like it like that, skrt)",
+      "valence": 3.83,
+      "arousal": 3.67,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Oh I need the dollars, cha-ching (I said I like it like that) Beat it up like piÃ±atas (I said I like it like) Tell the driver, close the curtains (I said I like it like that, skrt) Bad bitch make him nervous (I said I like it)",
+      "valence": 3.43,
+      "arousal": 3.62,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Beat it up like piÃ±atas (I said I like it like) Tell the driver, close the curtains (I said I like it like that, skrt) Bad bitch make him nervous (I said I like it) Cardi B",
+      "valence": 3.37,
+      "arousal": 3.6,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Tell the driver, close the curtains (I said I like it like that, skrt) Bad bitch make him nervous (I said I like it) Cardi B Chambean, chambean, pero no jalan (Â¡Jalan!)",
+      "valence": 2.84,
+      "arousal": 3.8,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Bad bitch make him nervous (I said I like it) Cardi B Chambean, chambean, pero no jalan (Â¡Jalan!) TÃº compras to'a las Jordan, bo', a mÃ­ me las regalan (Hehe-he)",
+      "valence": 3.04,
+      "arousal": 3.58,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Cardi B Chambean, chambean, pero no jalan (Â¡Jalan!) TÃº compras to'a las Jordan, bo', a mÃ­ me las regalan (Hehe-he) I spend in the club (wouh), what you have in the bank (Yeah)",
+      "valence": 2.98,
+      "arousal": 3.46,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Chambean, chambean, pero no jalan (Â¡Jalan!) TÃº compras to'a las Jordan, bo', a mÃ­ me las regalan (Hehe-he) I spend in the club (wouh), what you have in the bank (Yeah) This is the new religion, bang, en Latino gang, gang, yeah",
+      "valence": 2.91,
+      "arousal": 3.52,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "TÃº compras to'a las Jordan, bo', a mÃ­ me las regalan (Hehe-he) I spend in the club (wouh), what you have in the bank (Yeah) This is the new religion, bang, en Latino gang, gang, yeah Trato de hacer dieta (Yeah), pero es que en el closet tengo mucha grasa (Wouh)",
+      "valence": 2.91,
+      "arousal": 3.24,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I spend in the club (wouh), what you have in the bank (Yeah) This is the new religion, bang, en Latino gang, gang, yeah Trato de hacer dieta (Yeah), pero es que en el closet tengo mucha grasa (Wouh) Ya mudÃ© la' Gucci pa' dentro de casa, yeh (Â¡Wouh!)",
+      "valence": 2.99,
+      "arousal": 3.41,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "This is the new religion, bang, en Latino gang, gang, yeah Trato de hacer dieta (Yeah), pero es que en el closet tengo mucha grasa (Wouh) Ya mudÃ© la' Gucci pa' dentro de casa, yeh (Â¡Wouh!) CabrÃ³n, a ti no te conocen ni en Plaza (No)",
+      "valence": 2.98,
+      "arousal": 3.33,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Trato de hacer dieta (Yeah), pero es que en el closet tengo mucha grasa (Wouh) Ya mudÃ© la' Gucci pa' dentro de casa, yeh (Â¡Wouh!) CabrÃ³n, a ti no te conocen ni en Plaza (No) El Diablo me llama, pero Jesucristo me abraza (AmÃ©n)",
+      "valence": 3.01,
+      "arousal": 3.27,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Ya mudÃ© la' Gucci pa' dentro de casa, yeh (Â¡Wouh!) CabrÃ³n, a ti no te conocen ni en Plaza (No) El Diablo me llama, pero Jesucristo me abraza (AmÃ©n) Guerrero como Eddie, que viva la raza, yeh",
+      "valence": 3.07,
+      "arousal": 3.46,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "CabrÃ³n, a ti no te conocen ni en Plaza (No) El Diablo me llama, pero Jesucristo me abraza (AmÃ©n) Guerrero como Eddie, que viva la raza, yeh Me gustan boricuas, me gustan cubana'",
+      "valence": 3.04,
+      "arousal": 3.09,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "El Diablo me llama, pero Jesucristo me abraza (AmÃ©n) Guerrero como Eddie, que viva la raza, yeh Me gustan boricuas, me gustan cubana' Me gusta el acento de las colombianas (Â¿QuÃ© hubo pues?)",
+      "valence": 3.26,
+      "arousal": 3.28,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Guerrero como Eddie, que viva la raza, yeh Me gustan boricuas, me gustan cubana' Me gusta el acento de las colombianas (Â¿QuÃ© hubo pues?) Como mueve el culo la dominicana (Â¿QuÃ© lo que?)",
+      "valence": 3.21,
+      "arousal": 3.29,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Me gustan boricuas, me gustan cubana' Me gusta el acento de las colombianas (Â¿QuÃ© hubo pues?) Como mueve el culo la dominicana (Â¿QuÃ© lo que?) Lo rico que me chingan las venezolanas (Â¡Wouh!)",
+      "valence": 3.34,
+      "arousal": 3.47,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Me gusta el acento de las colombianas (Â¿QuÃ© hubo pues?) Como mueve el culo la dominicana (Â¿QuÃ© lo que?) Lo rico que me chingan las venezolanas (Â¡Wouh!) Andamos activos, Perico Pin Pin (Wouh)",
+      "valence": 3.36,
+      "arousal": 3.58,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Como mueve el culo la dominicana (Â¿QuÃ© lo que?) Lo rico que me chingan las venezolanas (Â¡Wouh!) Andamos activos, Perico Pin Pin (Wouh) Billetes de cien en el maletÃ­n (Ching)",
+      "valence": 3.29,
+      "arousal": 3.66,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Lo rico que me chingan las venezolanas (Â¡Wouh!) Andamos activos, Perico Pin Pin (Wouh) Billetes de cien en el maletÃ­n (Ching) Que retumbe el bajo, Bobby ValentÃ­n, yeh (Boo)",
+      "valence": 3.26,
+      "arousal": 3.67,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Andamos activos, Perico Pin Pin (Wouh) Billetes de cien en el maletÃ­n (Ching) Que retumbe el bajo, Bobby ValentÃ­n, yeh (Boo) AquÃ­ es prohibido amar, diles, CharytÃ­n",
+      "valence": 3.06,
+      "arousal": 3.29,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Billetes de cien en el maletÃ­n (Ching) Que retumbe el bajo, Bobby ValentÃ­n, yeh (Boo) AquÃ­ es prohibido amar, diles, CharytÃ­n Que pal' picor les tengo ClaritÃ­n",
+      "valence": 3.03,
+      "arousal": 3.29,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Que retumbe el bajo, Bobby ValentÃ­n, yeh (Boo) AquÃ­ es prohibido amar, diles, CharytÃ­n Que pal' picor les tengo ClaritÃ­n Yo llego a la disco y se forma el motÃ­n (Rrr)",
+      "valence": 3.02,
+      "arousal": 3.37,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "AquÃ­ es prohibido amar, diles, CharytÃ­n Que pal' picor les tengo ClaritÃ­n Yo llego a la disco y se forma el motÃ­n (Rrr) Diamond district in the jag (Gang, I said I like it like that)",
+      "valence": 3.31,
+      "arousal": 3.36,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Que pal' picor les tengo ClaritÃ­n Yo llego a la disco y se forma el motÃ­n (Rrr) Diamond district in the jag (Gang, I said I like it like that) Bad Bunny baby, bebÃ©, bebÃ©, bebÃ©",
+      "valence": 3.42,
+      "arousal": 3.47,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Yo llego a la disco y se forma el motÃ­n (Rrr) Diamond district in the jag (Gang, I said I like it like that) Bad Bunny baby, bebÃ©, bebÃ©, bebÃ© Certified, you know I'm gang, gang (Gang, gang I said I like it like)",
+      "valence": 3.58,
+      "arousal": 3.54,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Diamond district in the jag (Gang, I said I like it like that) Bad Bunny baby, bebÃ©, bebÃ©, bebÃ© Certified, you know I'm gang, gang (Gang, gang I said I like it like) Drop the top and blow the brains, wouh (Wouh! I said I like it like that)",
+      "valence": 3.61,
+      "arousal": 3.67,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Bad Bunny baby, bebÃ©, bebÃ©, bebÃ© Certified, you know I'm gang, gang (Gang, gang I said I like it like) Drop the top and blow the brains, wouh (Wouh! I said I like it like that) Oh he's so handsome, what's his name? (Yeah, wouh, I said I like it)",
+      "valence": 3.75,
+      "arousal": 3.78,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Certified, you know I'm gang, gang (Gang, gang I said I like it like) Drop the top and blow the brains, wouh (Wouh! I said I like it like that) Oh he's so handsome, what's his name? (Yeah, wouh, I said I like it) Oh I need the dollars, cha-ching (I said I like it like that)",
+      "valence": 3.75,
+      "arousal": 3.71,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Drop the top and blow the brains, wouh (Wouh! I said I like it like that) Oh he's so handsome, what's his name? (Yeah, wouh, I said I like it) Oh I need the dollars, cha-ching (I said I like it like that) Beat it up like piÃ±atas (I said I like it like)",
+      "valence": 3.68,
+      "arousal": 3.86,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Oh he's so handsome, what's his name? (Yeah, wouh, I said I like it) Oh I need the dollars, cha-ching (I said I like it like that) Beat it up like piÃ±atas (I said I like it like) Tell the driver, close the curtains (I said I like it like that, skrt)",
+      "valence": 3.83,
+      "arousal": 3.67,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Oh I need the dollars, cha-ching (I said I like it like that) Beat it up like piÃ±atas (I said I like it like) Tell the driver, close the curtains (I said I like it like that, skrt) Bad bitch make him nervous (I said I like it)",
+      "valence": 3.43,
+      "arousal": 3.62,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Beat it up like piÃ±atas (I said I like it like) Tell the driver, close the curtains (I said I like it like that, skrt) Bad bitch make him nervous (I said I like it) Como Celia Cruz tengo el azÃºcar (azÃºca')",
+      "valence": 3.36,
+      "arousal": 3.58,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Tell the driver, close the curtains (I said I like it like that, skrt) Bad bitch make him nervous (I said I like it) Como Celia Cruz tengo el azÃºcar (azÃºca') Tu jeva me vio y se fue de pecho como Jimmy Snuka (Ah)",
+      "valence": 3.19,
+      "arousal": 3.51,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Bad bitch make him nervous (I said I like it) Como Celia Cruz tengo el azÃºcar (azÃºca') Tu jeva me vio y se fue de pecho como Jimmy Snuka (Ah) Te vamos tumbar la peluca",
+      "valence": 3.36,
+      "arousal": 3.43,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Como Celia Cruz tengo el azÃºcar (azÃºca') Tu jeva me vio y se fue de pecho como Jimmy Snuka (Ah) Te vamos tumbar la peluca Y arranca pal' carajo, cabrÃ³n, que a ti no te vo'a pasar la hookah (Hookah, hookah)",
+      "valence": 3.15,
+      "arousal": 3.32,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Tu jeva me vio y se fue de pecho como Jimmy Snuka (Ah) Te vamos tumbar la peluca Y arranca pal' carajo, cabrÃ³n, que a ti no te vo'a pasar la hookah (Hookah, hookah) Mis tenis Balenciaga me reciben en la entrada (Wouh)",
+      "valence": 3.09,
+      "arousal": 3.24,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Te vamos tumbar la peluca Y arranca pal' carajo, cabrÃ³n, que a ti no te vo'a pasar la hookah (Hookah, hookah) Mis tenis Balenciaga me reciben en la entrada (Wouh) Pa-pa-pa-parazzi, like I'm Lady Gaga (Wouh)",
+      "valence": 3.13,
+      "arousal": 3.33,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Y arranca pal' carajo, cabrÃ³n, que a ti no te vo'a pasar la hookah (Hookah, hookah) Mis tenis Balenciaga me reciben en la entrada (Wouh) Pa-pa-pa-parazzi, like I'm Lady Gaga (Wouh) Y no te me hagas (Hey)",
+      "valence": 3.14,
+      "arousal": 3.28,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Mis tenis Balenciaga me reciben en la entrada (Wouh) Pa-pa-pa-parazzi, like I'm Lady Gaga (Wouh) Y no te me hagas (Hey) Que en cover de Billboard tÃº has visto mi cara (Hey)",
+      "valence": 3.14,
+      "arousal": 3.22,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Pa-pa-pa-parazzi, like I'm Lady Gaga (Wouh) Y no te me hagas (Hey) Que en cover de Billboard tÃº has visto mi cara (Hey) No salgo de tu mente (Wouh)",
+      "valence": 3.09,
+      "arousal": 3.16,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Y no te me hagas (Hey) Que en cover de Billboard tÃº has visto mi cara (Hey) No salgo de tu mente (Wouh) Donde quieras que viajes has escuchado \"Mi Gente\"",
+      "valence": 3.07,
+      "arousal": 3.1,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Que en cover de Billboard tÃº has visto mi cara (Hey) No salgo de tu mente (Wouh) Donde quieras que viajes has escuchado \"Mi Gente\" Yo no soy high (high), soy como el Testarossa ('Rossa)",
+      "valence": 3.24,
+      "arousal": 3.21,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "No salgo de tu mente (Wouh) Donde quieras que viajes has escuchado \"Mi Gente\" Yo no soy high (high), soy como el Testarossa ('Rossa) Yo soy el que se la vive y tambiÃ©n el que la goza (Goza, goza)",
+      "valence": 3.17,
+      "arousal": 3.08,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Donde quieras que viajes has escuchado \"Mi Gente\" Yo no soy high (high), soy como el Testarossa ('Rossa) Yo soy el que se la vive y tambiÃ©n el que la goza (Goza, goza) Es la cosa, mami es la cosa (Cosa, cosa)",
+      "valence": 3.23,
+      "arousal": 3.17,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Yo no soy high (high), soy como el Testarossa ('Rossa) Yo soy el que se la vive y tambiÃ©n el que la goza (Goza, goza) Es la cosa, mami es la cosa (Cosa, cosa) El que mira sufre y el que toca goza (Goza, goza)",
+      "valence": 3.2,
+      "arousal": 3.09,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Yo soy el que se la vive y tambiÃ©n el que la goza (Goza, goza) Es la cosa, mami es la cosa (Cosa, cosa) El que mira sufre y el que toca goza (Goza, goza) I said I like it like that",
+      "valence": 3.52,
+      "arousal": 3.33,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Es la cosa, mami es la cosa (Cosa, cosa) El que mira sufre y el que toca goza (Goza, goza) I said I like it like that I said I like it like that (Rrr)",
+      "valence": 3.61,
+      "arousal": 3.46,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "El que mira sufre y el que toca goza (Goza, goza) I said I like it like that I said I like it like that (Rrr) I said I like it like that (Wouh)",
+      "valence": 3.68,
+      "arousal": 3.5,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "I said I like it like that I said I like it like that (Rrr) I said I like it like that (Wouh) I said I like it like that",
+      "valence": 3.85,
+      "arousal": 3.49,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "I said I like it like that (Rrr) I said I like it like that (Wouh) I said I like it like that Diamond district in the jag (Gang, I said I like it like that)",
+      "valence": 3.72,
+      "arousal": 3.43,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "I said I like it like that (Wouh) I said I like it like that Diamond district in the jag (Gang, I said I like it like that) Certified, you know I'm gang, gang (Gang, gang I said I like it like)",
+      "valence": 3.67,
+      "arousal": 3.47,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "I said I like it like that Diamond district in the jag (Gang, I said I like it like that) Certified, you know I'm gang, gang (Gang, gang I said I like it like) Drop the top and blow the brains, wouh (I said I like it like that)",
+      "valence": 3.61,
+      "arousal": 3.56,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "Diamond district in the jag (Gang, I said I like it like that) Certified, you know I'm gang, gang (Gang, gang I said I like it like) Drop the top and blow the brains, wouh (I said I like it like that) Oh he's so handsome, what's his name? (I said I like it)",
+      "valence": 3.75,
+      "arousal": 3.6,
+      "dominance": 3.3
+    }
+  ]
+}

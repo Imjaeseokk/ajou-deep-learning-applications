@@ -1,0 +1,409 @@
+{
+  "artist": "Meghan Trainor",
+  "overall_vad": {
+    "valence": 3.22,
+    "arousal": 3.51,
+    "dominance": 3.38
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Dear future husband Here's a few things you'll need to know if you wanna be My one and only all my life Take me on a date",
+      "valence": 3.35,
+      "arousal": 3.44,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Here's a few things you'll need to know if you wanna be My one and only all my life Take me on a date I deserve a break",
+      "valence": 3.23,
+      "arousal": 3.47,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "My one and only all my life Take me on a date I deserve a break And don't forget the flowers every anniversary",
+      "valence": 3.43,
+      "arousal": 3.56,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Take me on a date I deserve a break And don't forget the flowers every anniversary 'Cause if you'll treat me right",
+      "valence": 3.33,
+      "arousal": 3.55,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I deserve a break And don't forget the flowers every anniversary 'Cause if you'll treat me right I'll be the perfect wife",
+      "valence": 3.31,
+      "arousal": 3.47,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "And don't forget the flowers every anniversary 'Cause if you'll treat me right I'll be the perfect wife Buying groceries",
+      "valence": 3.53,
+      "arousal": 3.39,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "'Cause if you'll treat me right I'll be the perfect wife Buying groceries Buy-buying what you need",
+      "valence": 3.52,
+      "arousal": 3.33,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I'll be the perfect wife Buying groceries Buy-buying what you need You got that 9 to 5",
+      "valence": 3.37,
+      "arousal": 3.29,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Buying groceries Buy-buying what you need You got that 9 to 5 But, baby, so do I",
+      "valence": 3.1,
+      "arousal": 3.15,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Buy-buying what you need You got that 9 to 5 But, baby, so do I So don't be thinking I'll be home and baking apple pies",
+      "valence": 2.99,
+      "arousal": 3.19,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "You got that 9 to 5 But, baby, so do I So don't be thinking I'll be home and baking apple pies I never learned to cook",
+      "valence": 2.84,
+      "arousal": 3.3,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "But, baby, so do I So don't be thinking I'll be home and baking apple pies I never learned to cook But I can write a hook",
+      "valence": 2.93,
+      "arousal": 3.13,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "So don't be thinking I'll be home and baking apple pies I never learned to cook But I can write a hook Sing along with me",
+      "valence": 3.17,
+      "arousal": 3.29,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I never learned to cook But I can write a hook Sing along with me Sing-sing along with me (hey)",
+      "valence": 3.38,
+      "arousal": 3.46,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "But I can write a hook Sing along with me Sing-sing along with me (hey) You gotta know how to treat me like a lady",
+      "valence": 3.09,
+      "arousal": 3.49,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Sing along with me Sing-sing along with me (hey) You gotta know how to treat me like a lady Even when I'm acting crazy",
+      "valence": 3.24,
+      "arousal": 3.55,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Sing-sing along with me (hey) You gotta know how to treat me like a lady Even when I'm acting crazy Tell me everything's alright",
+      "valence": 2.89,
+      "arousal": 3.57,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "You gotta know how to treat me like a lady Even when I'm acting crazy Tell me everything's alright Dear future husband",
+      "valence": 2.97,
+      "arousal": 3.49,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Even when I'm acting crazy Tell me everything's alright Dear future husband Here's a few things you'll need to know if you wanna be",
+      "valence": 3.15,
+      "arousal": 3.4,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Tell me everything's alright Dear future husband Here's a few things you'll need to know if you wanna be My one and only all my life",
+      "valence": 3.24,
+      "arousal": 3.37,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Dear future husband Here's a few things you'll need to know if you wanna be My one and only all my life Dear future husband",
+      "valence": 3.23,
+      "arousal": 3.32,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Here's a few things you'll need to know if you wanna be My one and only all my life Dear future husband If you wanna get that special lovin'",
+      "valence": 3.43,
+      "arousal": 3.39,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "My one and only all my life Dear future husband If you wanna get that special lovin' Tell me I'm beautiful each and every night (woo)",
+      "valence": 3.98,
+      "arousal": 3.91,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Dear future husband If you wanna get that special lovin' Tell me I'm beautiful each and every night (woo) After every fight",
+      "valence": 3.88,
+      "arousal": 3.92,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "If you wanna get that special lovin' Tell me I'm beautiful each and every night (woo) After every fight Just apologize",
+      "valence": 3.4,
+      "arousal": 3.82,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Tell me I'm beautiful each and every night (woo) After every fight Just apologize And maybe then I'll let you try and rock my body right",
+      "valence": 3.53,
+      "arousal": 3.81,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "After every fight Just apologize And maybe then I'll let you try and rock my body right Even if I was wrong",
+      "valence": 2.92,
+      "arousal": 3.22,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Just apologize And maybe then I'll let you try and rock my body right Even if I was wrong You know I'm never wrong",
+      "valence": 2.97,
+      "arousal": 3.23,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "And maybe then I'll let you try and rock my body right Even if I was wrong You know I'm never wrong Why disagree?",
+      "valence": 2.95,
+      "arousal": 3.36,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Even if I was wrong You know I'm never wrong Why disagree? Why, why disagree?",
+      "valence": 2.81,
+      "arousal": 3.25,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "You know I'm never wrong Why disagree? Why, why disagree? You gotta know how to treat me like a lady",
+      "valence": 2.49,
+      "arousal": 3.69,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Why disagree? Why, why disagree? You gotta know how to treat me like a lady Even when I'm acting crazy",
+      "valence": 2.56,
+      "arousal": 3.7,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Why, why disagree? You gotta know how to treat me like a lady Even when I'm acting crazy Tell me everything's alright",
+      "valence": 2.59,
+      "arousal": 3.7,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "You gotta know how to treat me like a lady Even when I'm acting crazy Tell me everything's alright Dear future husband",
+      "valence": 2.97,
+      "arousal": 3.49,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Even when I'm acting crazy Tell me everything's alright Dear future husband Here's a few things you'll need to know if you wanna be",
+      "valence": 3.15,
+      "arousal": 3.4,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Tell me everything's alright Dear future husband Here's a few things you'll need to know if you wanna be My one and only all my life (hey, baby)",
+      "valence": 3.3,
+      "arousal": 3.45,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Dear future husband Here's a few things you'll need to know if you wanna be My one and only all my life (hey, baby) Dear future husband",
+      "valence": 3.32,
+      "arousal": 3.46,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Here's a few things you'll need to know if you wanna be My one and only all my life (hey, baby) Dear future husband Make time for me",
+      "valence": 3.4,
+      "arousal": 3.52,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "My one and only all my life (hey, baby) Dear future husband Make time for me Don't leave me lonely",
+      "valence": 3.42,
+      "arousal": 3.58,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Dear future husband Make time for me Don't leave me lonely And no, we'll never see your family more than mine",
+      "valence": 3.33,
+      "arousal": 3.45,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Make time for me Don't leave me lonely And no, we'll never see your family more than mine I'll be sleeping on the left side of the bed (hey)",
+      "valence": 3.01,
+      "arousal": 3.44,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Don't leave me lonely And no, we'll never see your family more than mine I'll be sleeping on the left side of the bed (hey) Open doors for me and you might get some kisses",
+      "valence": 3.35,
+      "arousal": 3.7,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "And no, we'll never see your family more than mine I'll be sleeping on the left side of the bed (hey) Open doors for me and you might get some kisses Don't have a dirty mind",
+      "valence": 3.1,
+      "arousal": 3.62,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I'll be sleeping on the left side of the bed (hey) Open doors for me and you might get some kisses Don't have a dirty mind Just be a classy guy",
+      "valence": 3.26,
+      "arousal": 3.57,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Open doors for me and you might get some kisses Don't have a dirty mind Just be a classy guy Buy me a ring",
+      "valence": 3.22,
+      "arousal": 3.61,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Don't have a dirty mind Just be a classy guy Buy me a ring Buy-buy me a ring, babe",
+      "valence": 3.05,
+      "arousal": 3.63,
+      "dominance": 3.81
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Just be a classy guy Buy me a ring Buy-buy me a ring, babe You gotta know how to treat me like a lady",
+      "valence": 3.02,
+      "arousal": 3.6,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Buy me a ring Buy-buy me a ring, babe You gotta know how to treat me like a lady Even when I'm acting crazy",
+      "valence": 3.16,
+      "arousal": 3.73,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Buy-buy me a ring, babe You gotta know how to treat me like a lady Even when I'm acting crazy Tell me everything's alright (woo)",
+      "valence": 3.13,
+      "arousal": 3.8,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "You gotta know how to treat me like a lady Even when I'm acting crazy Tell me everything's alright (woo) Dear future husband",
+      "valence": 2.95,
+      "arousal": 3.61,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Even when I'm acting crazy Tell me everything's alright (woo) Dear future husband Here's a few things you'll need to know if you wanna be",
+      "valence": 3.2,
+      "arousal": 3.46,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Tell me everything's alright (woo) Dear future husband Here's a few things you'll need to know if you wanna be My one and only all my life",
+      "valence": 3.31,
+      "arousal": 3.51,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Dear future husband Here's a few things you'll need to know if you wanna be My one and only all my life Dear future husband",
+      "valence": 3.23,
+      "arousal": 3.32,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Here's a few things you'll need to know if you wanna be My one and only all my life Dear future husband If you wanna get that special loving",
+      "valence": 3.43,
+      "arousal": 3.38,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "My one and only all my life Dear future husband If you wanna get that special loving Tell me I'm beautiful each and every night (that's right)",
+      "valence": 3.88,
+      "arousal": 3.81,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Dear future husband If you wanna get that special loving Tell me I'm beautiful each and every night (that's right) Oh, whoa",
+      "valence": 3.71,
+      "arousal": 3.81,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "If you wanna get that special loving Tell me I'm beautiful each and every night (that's right) Oh, whoa Future husband, better love me right",
+      "valence": 3.96,
+      "arousal": 3.85,
+      "dominance": 3.42
+    }
+  ]
+}

@@ -1,0 +1,2731 @@
+{
+  "song_title": "Blank Space",
+  "audio_path" : "/static/audio/Blank Space.mp3",
+  "time_series_va": [
+    {
+      "timestamp_ms": 0,
+      "valence": 0.1925,
+      "arousal": 0.1596
+    },
+    {
+      "timestamp_ms": 500,
+      "valence": 0.187,
+      "arousal": 0.1335
+    },
+    {
+      "timestamp_ms": 1000,
+      "valence": 0.1896,
+      "arousal": 0.1349
+    },
+    {
+      "timestamp_ms": 1500,
+      "valence": 0.1905,
+      "arousal": 0.1359
+    },
+    {
+      "timestamp_ms": 2000,
+      "valence": 0.1963,
+      "arousal": 0.1425
+    },
+    {
+      "timestamp_ms": 2500,
+      "valence": 0.203,
+      "arousal": 0.1491
+    },
+    {
+      "timestamp_ms": 3000,
+      "valence": 0.2022,
+      "arousal": 0.1493
+    },
+    {
+      "timestamp_ms": 3500,
+      "valence": 0.1962,
+      "arousal": 0.1426
+    },
+    {
+      "timestamp_ms": 4000,
+      "valence": 0.2209,
+      "arousal": 0.1839
+    },
+    {
+      "timestamp_ms": 4500,
+      "valence": 0.2484,
+      "arousal": 0.2187
+    },
+    {
+      "timestamp_ms": 5000,
+      "valence": 0.257,
+      "arousal": 0.2321
+    },
+    {
+      "timestamp_ms": 5500,
+      "valence": 0.251,
+      "arousal": 0.2026
+    },
+    {
+      "timestamp_ms": 6000,
+      "valence": 0.2246,
+      "arousal": 0.1815
+    },
+    {
+      "timestamp_ms": 6500,
+      "valence": 0.2037,
+      "arousal": 0.1886
+    },
+    {
+      "timestamp_ms": 7000,
+      "valence": 0.191,
+      "arousal": 0.1837
+    },
+    {
+      "timestamp_ms": 7500,
+      "valence": 0.1984,
+      "arousal": 0.201
+    },
+    {
+      "timestamp_ms": 8000,
+      "valence": 0.2052,
+      "arousal": 0.2005
+    },
+    {
+      "timestamp_ms": 8500,
+      "valence": 0.2131,
+      "arousal": 0.2286
+    },
+    {
+      "timestamp_ms": 9000,
+      "valence": 0.2092,
+      "arousal": 0.2371
+    },
+    {
+      "timestamp_ms": 9500,
+      "valence": 0.2323,
+      "arousal": 0.259
+    },
+    {
+      "timestamp_ms": 10000,
+      "valence": 0.3225,
+      "arousal": 0.2972
+    },
+    {
+      "timestamp_ms": 10500,
+      "valence": 0.3292,
+      "arousal": 0.293
+    },
+    {
+      "timestamp_ms": 11000,
+      "valence": 0.324,
+      "arousal": 0.2854
+    },
+    {
+      "timestamp_ms": 11500,
+      "valence": 0.3218,
+      "arousal": 0.2894
+    },
+    {
+      "timestamp_ms": 12000,
+      "valence": 0.3294,
+      "arousal": 0.3021
+    },
+    {
+      "timestamp_ms": 12500,
+      "valence": 0.3403,
+      "arousal": 0.3204
+    },
+    {
+      "timestamp_ms": 13000,
+      "valence": 0.3403,
+      "arousal": 0.3221
+    },
+    {
+      "timestamp_ms": 13500,
+      "valence": 0.3408,
+      "arousal": 0.3274
+    },
+    {
+      "timestamp_ms": 14000,
+      "valence": 0.3349,
+      "arousal": 0.3229
+    },
+    {
+      "timestamp_ms": 14500,
+      "valence": 0.3305,
+      "arousal": 0.3185
+    },
+    {
+      "timestamp_ms": 15000,
+      "valence": 0.3294,
+      "arousal": 0.3077
+    },
+    {
+      "timestamp_ms": 15500,
+      "valence": 0.3263,
+      "arousal": 0.2885
+    },
+    {
+      "timestamp_ms": 16000,
+      "valence": 0.321,
+      "arousal": 0.2816
+    },
+    {
+      "timestamp_ms": 16500,
+      "valence": 0.3194,
+      "arousal": 0.2911
+    },
+    {
+      "timestamp_ms": 17000,
+      "valence": 0.314,
+      "arousal": 0.2895
+    },
+    {
+      "timestamp_ms": 17500,
+      "valence": 0.3326,
+      "arousal": 0.3176
+    },
+    {
+      "timestamp_ms": 18000,
+      "valence": 0.3384,
+      "arousal": 0.3135
+    },
+    {
+      "timestamp_ms": 18500,
+      "valence": 0.3412,
+      "arousal": 0.3013
+    },
+    {
+      "timestamp_ms": 19000,
+      "valence": 0.3299,
+      "arousal": 0.2969
+    },
+    {
+      "timestamp_ms": 19500,
+      "valence": 0.3192,
+      "arousal": 0.2975
+    },
+    {
+      "timestamp_ms": 20000,
+      "valence": 0.3157,
+      "arousal": 0.3036
+    },
+    {
+      "timestamp_ms": 20500,
+      "valence": 0.3201,
+      "arousal": 0.2926
+    },
+    {
+      "timestamp_ms": 21000,
+      "valence": 0.3285,
+      "arousal": 0.301
+    },
+    {
+      "timestamp_ms": 21500,
+      "valence": 0.3254,
+      "arousal": 0.302
+    },
+    {
+      "timestamp_ms": 22000,
+      "valence": 0.3196,
+      "arousal": 0.3071
+    },
+    {
+      "timestamp_ms": 22500,
+      "valence": 0.3233,
+      "arousal": 0.3162
+    },
+    {
+      "timestamp_ms": 23000,
+      "valence": 0.3345,
+      "arousal": 0.3171
+    },
+    {
+      "timestamp_ms": 23500,
+      "valence": 0.3399,
+      "arousal": 0.3206
+    },
+    {
+      "timestamp_ms": 24000,
+      "valence": 0.3339,
+      "arousal": 0.3233
+    },
+    {
+      "timestamp_ms": 24500,
+      "valence": 0.3363,
+      "arousal": 0.3317
+    },
+    {
+      "timestamp_ms": 25000,
+      "valence": 0.3479,
+      "arousal": 0.3399
+    },
+    {
+      "timestamp_ms": 25500,
+      "valence": 0.3554,
+      "arousal": 0.3468
+    },
+    {
+      "timestamp_ms": 26000,
+      "valence": 0.357,
+      "arousal": 0.3482
+    },
+    {
+      "timestamp_ms": 26500,
+      "valence": 0.352,
+      "arousal": 0.3412
+    },
+    {
+      "timestamp_ms": 27000,
+      "valence": 0.3495,
+      "arousal": 0.3291
+    },
+    {
+      "timestamp_ms": 27500,
+      "valence": 0.3519,
+      "arousal": 0.3283
+    },
+    {
+      "timestamp_ms": 28000,
+      "valence": 0.3444,
+      "arousal": 0.3114
+    },
+    {
+      "timestamp_ms": 28500,
+      "valence": 0.3446,
+      "arousal": 0.3221
+    },
+    {
+      "timestamp_ms": 29000,
+      "valence": 0.3305,
+      "arousal": 0.3113
+    },
+    {
+      "timestamp_ms": 29500,
+      "valence": 0.3301,
+      "arousal": 0.3183
+    },
+    {
+      "timestamp_ms": 30000,
+      "valence": 0.3906,
+      "arousal": 0.3743
+    },
+    {
+      "timestamp_ms": 30500,
+      "valence": 0.3946,
+      "arousal": 0.3733
+    },
+    {
+      "timestamp_ms": 31000,
+      "valence": 0.3966,
+      "arousal": 0.3767
+    },
+    {
+      "timestamp_ms": 31500,
+      "valence": 0.3987,
+      "arousal": 0.3801
+    },
+    {
+      "timestamp_ms": 32000,
+      "valence": 0.4022,
+      "arousal": 0.3834
+    },
+    {
+      "timestamp_ms": 32500,
+      "valence": 0.4043,
+      "arousal": 0.3895
+    },
+    {
+      "timestamp_ms": 33000,
+      "valence": 0.4041,
+      "arousal": 0.3903
+    },
+    {
+      "timestamp_ms": 33500,
+      "valence": 0.4044,
+      "arousal": 0.3929
+    },
+    {
+      "timestamp_ms": 34000,
+      "valence": 0.4038,
+      "arousal": 0.3883
+    },
+    {
+      "timestamp_ms": 34500,
+      "valence": 0.4063,
+      "arousal": 0.3836
+    },
+    {
+      "timestamp_ms": 35000,
+      "valence": 0.4109,
+      "arousal": 0.3868
+    },
+    {
+      "timestamp_ms": 35500,
+      "valence": 0.4144,
+      "arousal": 0.3883
+    },
+    {
+      "timestamp_ms": 36000,
+      "valence": 0.4179,
+      "arousal": 0.3886
+    },
+    {
+      "timestamp_ms": 36500,
+      "valence": 0.4133,
+      "arousal": 0.3832
+    },
+    {
+      "timestamp_ms": 37000,
+      "valence": 0.4104,
+      "arousal": 0.3791
+    },
+    {
+      "timestamp_ms": 37500,
+      "valence": 0.4106,
+      "arousal": 0.3838
+    },
+    {
+      "timestamp_ms": 38000,
+      "valence": 0.4039,
+      "arousal": 0.3814
+    },
+    {
+      "timestamp_ms": 38500,
+      "valence": 0.4006,
+      "arousal": 0.3856
+    },
+    {
+      "timestamp_ms": 39000,
+      "valence": 0.3954,
+      "arousal": 0.3833
+    },
+    {
+      "timestamp_ms": 39500,
+      "valence": 0.3928,
+      "arousal": 0.3798
+    },
+    {
+      "timestamp_ms": 40000,
+      "valence": 0.3813,
+      "arousal": 0.3857
+    },
+    {
+      "timestamp_ms": 40500,
+      "valence": 0.3794,
+      "arousal": 0.3809
+    },
+    {
+      "timestamp_ms": 41000,
+      "valence": 0.389,
+      "arousal": 0.3936
+    },
+    {
+      "timestamp_ms": 41500,
+      "valence": 0.3917,
+      "arousal": 0.4008
+    },
+    {
+      "timestamp_ms": 42000,
+      "valence": 0.3893,
+      "arousal": 0.4008
+    },
+    {
+      "timestamp_ms": 42500,
+      "valence": 0.3901,
+      "arousal": 0.4029
+    },
+    {
+      "timestamp_ms": 43000,
+      "valence": 0.3949,
+      "arousal": 0.4097
+    },
+    {
+      "timestamp_ms": 43500,
+      "valence": 0.3918,
+      "arousal": 0.4037
+    },
+    {
+      "timestamp_ms": 44000,
+      "valence": 0.3852,
+      "arousal": 0.3995
+    },
+    {
+      "timestamp_ms": 44500,
+      "valence": 0.3887,
+      "arousal": 0.4061
+    },
+    {
+      "timestamp_ms": 45000,
+      "valence": 0.394,
+      "arousal": 0.4052
+    },
+    {
+      "timestamp_ms": 45500,
+      "valence": 0.404,
+      "arousal": 0.4031
+    },
+    {
+      "timestamp_ms": 46000,
+      "valence": 0.4067,
+      "arousal": 0.4015
+    },
+    {
+      "timestamp_ms": 46500,
+      "valence": 0.4063,
+      "arousal": 0.4085
+    },
+    {
+      "timestamp_ms": 47000,
+      "valence": 0.4042,
+      "arousal": 0.4102
+    },
+    {
+      "timestamp_ms": 47500,
+      "valence": 0.4031,
+      "arousal": 0.415
+    },
+    {
+      "timestamp_ms": 48000,
+      "valence": 0.4106,
+      "arousal": 0.4263
+    },
+    {
+      "timestamp_ms": 48500,
+      "valence": 0.4144,
+      "arousal": 0.4328
+    },
+    {
+      "timestamp_ms": 49000,
+      "valence": 0.4111,
+      "arousal": 0.4295
+    },
+    {
+      "timestamp_ms": 49500,
+      "valence": 0.4078,
+      "arousal": 0.4207
+    },
+    {
+      "timestamp_ms": 50000,
+      "valence": 0.45,
+      "arousal": 0.4492
+    },
+    {
+      "timestamp_ms": 50500,
+      "valence": 0.4533,
+      "arousal": 0.4414
+    },
+    {
+      "timestamp_ms": 51000,
+      "valence": 0.455,
+      "arousal": 0.4424
+    },
+    {
+      "timestamp_ms": 51500,
+      "valence": 0.455,
+      "arousal": 0.4396
+    },
+    {
+      "timestamp_ms": 52000,
+      "valence": 0.456,
+      "arousal": 0.4462
+    },
+    {
+      "timestamp_ms": 52500,
+      "valence": 0.4574,
+      "arousal": 0.4616
+    },
+    {
+      "timestamp_ms": 53000,
+      "valence": 0.453,
+      "arousal": 0.4687
+    },
+    {
+      "timestamp_ms": 53500,
+      "valence": 0.4539,
+      "arousal": 0.4704
+    },
+    {
+      "timestamp_ms": 54000,
+      "valence": 0.4569,
+      "arousal": 0.4672
+    },
+    {
+      "timestamp_ms": 54500,
+      "valence": 0.4594,
+      "arousal": 0.4665
+    },
+    {
+      "timestamp_ms": 55000,
+      "valence": 0.462,
+      "arousal": 0.4692
+    },
+    {
+      "timestamp_ms": 55500,
+      "valence": 0.4657,
+      "arousal": 0.4679
+    },
+    {
+      "timestamp_ms": 56000,
+      "valence": 0.4669,
+      "arousal": 0.4678
+    },
+    {
+      "timestamp_ms": 56500,
+      "valence": 0.4642,
+      "arousal": 0.4655
+    },
+    {
+      "timestamp_ms": 57000,
+      "valence": 0.4571,
+      "arousal": 0.4636
+    },
+    {
+      "timestamp_ms": 57500,
+      "valence": 0.455,
+      "arousal": 0.4661
+    },
+    {
+      "timestamp_ms": 58000,
+      "valence": 0.4576,
+      "arousal": 0.4671
+    },
+    {
+      "timestamp_ms": 58500,
+      "valence": 0.4648,
+      "arousal": 0.4677
+    },
+    {
+      "timestamp_ms": 59000,
+      "valence": 0.467,
+      "arousal": 0.4616
+    },
+    {
+      "timestamp_ms": 59500,
+      "valence": 0.4668,
+      "arousal": 0.4632
+    },
+    {
+      "timestamp_ms": 60000,
+      "valence": 0.4726,
+      "arousal": 0.5136
+    },
+    {
+      "timestamp_ms": 60500,
+      "valence": 0.4759,
+      "arousal": 0.5167
+    },
+    {
+      "timestamp_ms": 61000,
+      "valence": 0.478,
+      "arousal": 0.5201
+    },
+    {
+      "timestamp_ms": 61500,
+      "valence": 0.4803,
+      "arousal": 0.5223
+    },
+    {
+      "timestamp_ms": 62000,
+      "valence": 0.4785,
+      "arousal": 0.5247
+    },
+    {
+      "timestamp_ms": 62500,
+      "valence": 0.4774,
+      "arousal": 0.5272
+    },
+    {
+      "timestamp_ms": 63000,
+      "valence": 0.4782,
+      "arousal": 0.525
+    },
+    {
+      "timestamp_ms": 63500,
+      "valence": 0.4789,
+      "arousal": 0.5234
+    },
+    {
+      "timestamp_ms": 64000,
+      "valence": 0.4801,
+      "arousal": 0.525
+    },
+    {
+      "timestamp_ms": 64500,
+      "valence": 0.4812,
+      "arousal": 0.5256
+    },
+    {
+      "timestamp_ms": 65000,
+      "valence": 0.4823,
+      "arousal": 0.526
+    },
+    {
+      "timestamp_ms": 65500,
+      "valence": 0.4861,
+      "arousal": 0.5269
+    },
+    {
+      "timestamp_ms": 66000,
+      "valence": 0.4877,
+      "arousal": 0.5321
+    },
+    {
+      "timestamp_ms": 66500,
+      "valence": 0.4858,
+      "arousal": 0.5319
+    },
+    {
+      "timestamp_ms": 67000,
+      "valence": 0.48,
+      "arousal": 0.5309
+    },
+    {
+      "timestamp_ms": 67500,
+      "valence": 0.4771,
+      "arousal": 0.5297
+    },
+    {
+      "timestamp_ms": 68000,
+      "valence": 0.4785,
+      "arousal": 0.5257
+    },
+    {
+      "timestamp_ms": 68500,
+      "valence": 0.4801,
+      "arousal": 0.526
+    },
+    {
+      "timestamp_ms": 69000,
+      "valence": 0.4821,
+      "arousal": 0.5277
+    },
+    {
+      "timestamp_ms": 69500,
+      "valence": 0.4847,
+      "arousal": 0.53
+    },
+    {
+      "timestamp_ms": 70000,
+      "valence": 0.485,
+      "arousal": 0.5141
+    },
+    {
+      "timestamp_ms": 70500,
+      "valence": 0.4862,
+      "arousal": 0.513
+    },
+    {
+      "timestamp_ms": 71000,
+      "valence": 0.4902,
+      "arousal": 0.5169
+    },
+    {
+      "timestamp_ms": 71500,
+      "valence": 0.4924,
+      "arousal": 0.5191
+    },
+    {
+      "timestamp_ms": 72000,
+      "valence": 0.492,
+      "arousal": 0.5217
+    },
+    {
+      "timestamp_ms": 72500,
+      "valence": 0.4903,
+      "arousal": 0.5247
+    },
+    {
+      "timestamp_ms": 73000,
+      "valence": 0.49,
+      "arousal": 0.527
+    },
+    {
+      "timestamp_ms": 73500,
+      "valence": 0.4918,
+      "arousal": 0.5283
+    },
+    {
+      "timestamp_ms": 74000,
+      "valence": 0.4928,
+      "arousal": 0.5249
+    },
+    {
+      "timestamp_ms": 74500,
+      "valence": 0.4939,
+      "arousal": 0.5235
+    },
+    {
+      "timestamp_ms": 75000,
+      "valence": 0.4961,
+      "arousal": 0.5249
+    },
+    {
+      "timestamp_ms": 75500,
+      "valence": 0.4986,
+      "arousal": 0.5239
+    },
+    {
+      "timestamp_ms": 76000,
+      "valence": 0.5026,
+      "arousal": 0.5235
+    },
+    {
+      "timestamp_ms": 76500,
+      "valence": 0.5026,
+      "arousal": 0.517
+    },
+    {
+      "timestamp_ms": 77000,
+      "valence": 0.4972,
+      "arousal": 0.5171
+    },
+    {
+      "timestamp_ms": 77500,
+      "valence": 0.4932,
+      "arousal": 0.5217
+    },
+    {
+      "timestamp_ms": 78000,
+      "valence": 0.4934,
+      "arousal": 0.5229
+    },
+    {
+      "timestamp_ms": 78500,
+      "valence": 0.4977,
+      "arousal": 0.5245
+    },
+    {
+      "timestamp_ms": 79000,
+      "valence": 0.501,
+      "arousal": 0.5229
+    },
+    {
+      "timestamp_ms": 79500,
+      "valence": 0.5023,
+      "arousal": 0.5231
+    },
+    {
+      "timestamp_ms": 80000,
+      "valence": 0.5199,
+      "arousal": 0.5409
+    },
+    {
+      "timestamp_ms": 80500,
+      "valence": 0.5196,
+      "arousal": 0.5416
+    },
+    {
+      "timestamp_ms": 81000,
+      "valence": 0.5192,
+      "arousal": 0.5439
+    },
+    {
+      "timestamp_ms": 81500,
+      "valence": 0.5168,
+      "arousal": 0.5444
+    },
+    {
+      "timestamp_ms": 82000,
+      "valence": 0.5137,
+      "arousal": 0.5457
+    },
+    {
+      "timestamp_ms": 82500,
+      "valence": 0.5164,
+      "arousal": 0.5486
+    },
+    {
+      "timestamp_ms": 83000,
+      "valence": 0.5208,
+      "arousal": 0.5504
+    },
+    {
+      "timestamp_ms": 83500,
+      "valence": 0.5217,
+      "arousal": 0.5509
+    },
+    {
+      "timestamp_ms": 84000,
+      "valence": 0.5175,
+      "arousal": 0.5453
+    },
+    {
+      "timestamp_ms": 84500,
+      "valence": 0.5149,
+      "arousal": 0.5431
+    },
+    {
+      "timestamp_ms": 85000,
+      "valence": 0.5109,
+      "arousal": 0.5431
+    },
+    {
+      "timestamp_ms": 85500,
+      "valence": 0.5127,
+      "arousal": 0.5455
+    },
+    {
+      "timestamp_ms": 86000,
+      "valence": 0.5206,
+      "arousal": 0.551
+    },
+    {
+      "timestamp_ms": 86500,
+      "valence": 0.5314,
+      "arousal": 0.5572
+    },
+    {
+      "timestamp_ms": 87000,
+      "valence": 0.5385,
+      "arousal": 0.5538
+    },
+    {
+      "timestamp_ms": 87500,
+      "valence": 0.5402,
+      "arousal": 0.5461
+    },
+    {
+      "timestamp_ms": 88000,
+      "valence": 0.5391,
+      "arousal": 0.5432
+    },
+    {
+      "timestamp_ms": 88500,
+      "valence": 0.5349,
+      "arousal": 0.5461
+    },
+    {
+      "timestamp_ms": 89000,
+      "valence": 0.5283,
+      "arousal": 0.5466
+    },
+    {
+      "timestamp_ms": 89500,
+      "valence": 0.5268,
+      "arousal": 0.5389
+    },
+    {
+      "timestamp_ms": 90000,
+      "valence": 0.5466,
+      "arousal": 0.5124
+    },
+    {
+      "timestamp_ms": 90500,
+      "valence": 0.5476,
+      "arousal": 0.5014
+    },
+    {
+      "timestamp_ms": 91000,
+      "valence": 0.5473,
+      "arousal": 0.5001
+    },
+    {
+      "timestamp_ms": 91500,
+      "valence": 0.5465,
+      "arousal": 0.5026
+    },
+    {
+      "timestamp_ms": 92000,
+      "valence": 0.5436,
+      "arousal": 0.5093
+    },
+    {
+      "timestamp_ms": 92500,
+      "valence": 0.5448,
+      "arousal": 0.5256
+    },
+    {
+      "timestamp_ms": 93000,
+      "valence": 0.5462,
+      "arousal": 0.5276
+    },
+    {
+      "timestamp_ms": 93500,
+      "valence": 0.5486,
+      "arousal": 0.5309
+    },
+    {
+      "timestamp_ms": 94000,
+      "valence": 0.5395,
+      "arousal": 0.5253
+    },
+    {
+      "timestamp_ms": 94500,
+      "valence": 0.5373,
+      "arousal": 0.5274
+    },
+    {
+      "timestamp_ms": 95000,
+      "valence": 0.5373,
+      "arousal": 0.5281
+    },
+    {
+      "timestamp_ms": 95500,
+      "valence": 0.5415,
+      "arousal": 0.5296
+    },
+    {
+      "timestamp_ms": 96000,
+      "valence": 0.5472,
+      "arousal": 0.5329
+    },
+    {
+      "timestamp_ms": 96500,
+      "valence": 0.5492,
+      "arousal": 0.5322
+    },
+    {
+      "timestamp_ms": 97000,
+      "valence": 0.5481,
+      "arousal": 0.5334
+    },
+    {
+      "timestamp_ms": 97500,
+      "valence": 0.5467,
+      "arousal": 0.5356
+    },
+    {
+      "timestamp_ms": 98000,
+      "valence": 0.5472,
+      "arousal": 0.5366
+    },
+    {
+      "timestamp_ms": 98500,
+      "valence": 0.5488,
+      "arousal": 0.5379
+    },
+    {
+      "timestamp_ms": 99000,
+      "valence": 0.5478,
+      "arousal": 0.5358
+    },
+    {
+      "timestamp_ms": 99500,
+      "valence": 0.5464,
+      "arousal": 0.5307
+    },
+    {
+      "timestamp_ms": 100000,
+      "valence": 0.5231,
+      "arousal": 0.5013
+    },
+    {
+      "timestamp_ms": 100500,
+      "valence": 0.5271,
+      "arousal": 0.5032
+    },
+    {
+      "timestamp_ms": 101000,
+      "valence": 0.5301,
+      "arousal": 0.5055
+    },
+    {
+      "timestamp_ms": 101500,
+      "valence": 0.5317,
+      "arousal": 0.5092
+    },
+    {
+      "timestamp_ms": 102000,
+      "valence": 0.531,
+      "arousal": 0.5092
+    },
+    {
+      "timestamp_ms": 102500,
+      "valence": 0.5319,
+      "arousal": 0.5113
+    },
+    {
+      "timestamp_ms": 103000,
+      "valence": 0.5313,
+      "arousal": 0.5095
+    },
+    {
+      "timestamp_ms": 103500,
+      "valence": 0.535,
+      "arousal": 0.5126
+    },
+    {
+      "timestamp_ms": 104000,
+      "valence": 0.534,
+      "arousal": 0.5109
+    },
+    {
+      "timestamp_ms": 104500,
+      "valence": 0.5335,
+      "arousal": 0.5134
+    },
+    {
+      "timestamp_ms": 105000,
+      "valence": 0.5363,
+      "arousal": 0.511
+    },
+    {
+      "timestamp_ms": 105500,
+      "valence": 0.5365,
+      "arousal": 0.5111
+    },
+    {
+      "timestamp_ms": 106000,
+      "valence": 0.5386,
+      "arousal": 0.5149
+    },
+    {
+      "timestamp_ms": 106500,
+      "valence": 0.5398,
+      "arousal": 0.5156
+    },
+    {
+      "timestamp_ms": 107000,
+      "valence": 0.5392,
+      "arousal": 0.5177
+    },
+    {
+      "timestamp_ms": 107500,
+      "valence": 0.5362,
+      "arousal": 0.5204
+    },
+    {
+      "timestamp_ms": 108000,
+      "valence": 0.5338,
+      "arousal": 0.5203
+    },
+    {
+      "timestamp_ms": 108500,
+      "valence": 0.5355,
+      "arousal": 0.5193
+    },
+    {
+      "timestamp_ms": 109000,
+      "valence": 0.5373,
+      "arousal": 0.5187
+    },
+    {
+      "timestamp_ms": 109500,
+      "valence": 0.5411,
+      "arousal": 0.5183
+    },
+    {
+      "timestamp_ms": 110000,
+      "valence": 0.5486,
+      "arousal": 0.5204
+    },
+    {
+      "timestamp_ms": 110500,
+      "valence": 0.555,
+      "arousal": 0.5222
+    },
+    {
+      "timestamp_ms": 111000,
+      "valence": 0.5571,
+      "arousal": 0.5199
+    },
+    {
+      "timestamp_ms": 111500,
+      "valence": 0.5542,
+      "arousal": 0.5185
+    },
+    {
+      "timestamp_ms": 112000,
+      "valence": 0.5486,
+      "arousal": 0.5183
+    },
+    {
+      "timestamp_ms": 112500,
+      "valence": 0.5443,
+      "arousal": 0.5221
+    },
+    {
+      "timestamp_ms": 113000,
+      "valence": 0.5421,
+      "arousal": 0.5253
+    },
+    {
+      "timestamp_ms": 113500,
+      "valence": 0.542,
+      "arousal": 0.526
+    },
+    {
+      "timestamp_ms": 114000,
+      "valence": 0.5393,
+      "arousal": 0.5241
+    },
+    {
+      "timestamp_ms": 114500,
+      "valence": 0.537,
+      "arousal": 0.5236
+    },
+    {
+      "timestamp_ms": 115000,
+      "valence": 0.5368,
+      "arousal": 0.5251
+    },
+    {
+      "timestamp_ms": 115500,
+      "valence": 0.5375,
+      "arousal": 0.5256
+    },
+    {
+      "timestamp_ms": 116000,
+      "valence": 0.5412,
+      "arousal": 0.5272
+    },
+    {
+      "timestamp_ms": 116500,
+      "valence": 0.5424,
+      "arousal": 0.5289
+    },
+    {
+      "timestamp_ms": 117000,
+      "valence": 0.5422,
+      "arousal": 0.5294
+    },
+    {
+      "timestamp_ms": 117500,
+      "valence": 0.542,
+      "arousal": 0.5286
+    },
+    {
+      "timestamp_ms": 118000,
+      "valence": 0.5384,
+      "arousal": 0.5242
+    },
+    {
+      "timestamp_ms": 118500,
+      "valence": 0.5375,
+      "arousal": 0.5215
+    },
+    {
+      "timestamp_ms": 119000,
+      "valence": 0.5395,
+      "arousal": 0.524
+    },
+    {
+      "timestamp_ms": 119500,
+      "valence": 0.5408,
+      "arousal": 0.5252
+    },
+    {
+      "timestamp_ms": 120000,
+      "valence": 0.5273,
+      "arousal": 0.5263
+    },
+    {
+      "timestamp_ms": 120500,
+      "valence": 0.5276,
+      "arousal": 0.5259
+    },
+    {
+      "timestamp_ms": 121000,
+      "valence": 0.5296,
+      "arousal": 0.524
+    },
+    {
+      "timestamp_ms": 121500,
+      "valence": 0.5329,
+      "arousal": 0.5225
+    },
+    {
+      "timestamp_ms": 122000,
+      "valence": 0.5346,
+      "arousal": 0.526
+    },
+    {
+      "timestamp_ms": 122500,
+      "valence": 0.5361,
+      "arousal": 0.5321
+    },
+    {
+      "timestamp_ms": 123000,
+      "valence": 0.5383,
+      "arousal": 0.5369
+    },
+    {
+      "timestamp_ms": 123500,
+      "valence": 0.5415,
+      "arousal": 0.5384
+    },
+    {
+      "timestamp_ms": 124000,
+      "valence": 0.5424,
+      "arousal": 0.5384
+    },
+    {
+      "timestamp_ms": 124500,
+      "valence": 0.5416,
+      "arousal": 0.5388
+    },
+    {
+      "timestamp_ms": 125000,
+      "valence": 0.5394,
+      "arousal": 0.5405
+    },
+    {
+      "timestamp_ms": 125500,
+      "valence": 0.5367,
+      "arousal": 0.5408
+    },
+    {
+      "timestamp_ms": 126000,
+      "valence": 0.5355,
+      "arousal": 0.5392
+    },
+    {
+      "timestamp_ms": 126500,
+      "valence": 0.5376,
+      "arousal": 0.5392
+    },
+    {
+      "timestamp_ms": 127000,
+      "valence": 0.539,
+      "arousal": 0.5361
+    },
+    {
+      "timestamp_ms": 127500,
+      "valence": 0.538,
+      "arousal": 0.535
+    },
+    {
+      "timestamp_ms": 128000,
+      "valence": 0.5359,
+      "arousal": 0.5361
+    },
+    {
+      "timestamp_ms": 128500,
+      "valence": 0.5365,
+      "arousal": 0.538
+    },
+    {
+      "timestamp_ms": 129000,
+      "valence": 0.5377,
+      "arousal": 0.535
+    },
+    {
+      "timestamp_ms": 129500,
+      "valence": 0.5406,
+      "arousal": 0.535
+    },
+    {
+      "timestamp_ms": 130000,
+      "valence": 0.5422,
+      "arousal": 0.5587
+    },
+    {
+      "timestamp_ms": 130500,
+      "valence": 0.5454,
+      "arousal": 0.5606
+    },
+    {
+      "timestamp_ms": 131000,
+      "valence": 0.5493,
+      "arousal": 0.558
+    },
+    {
+      "timestamp_ms": 131500,
+      "valence": 0.5519,
+      "arousal": 0.5545
+    },
+    {
+      "timestamp_ms": 132000,
+      "valence": 0.5564,
+      "arousal": 0.5493
+    },
+    {
+      "timestamp_ms": 132500,
+      "valence": 0.5534,
+      "arousal": 0.5473
+    },
+    {
+      "timestamp_ms": 133000,
+      "valence": 0.5536,
+      "arousal": 0.5514
+    },
+    {
+      "timestamp_ms": 133500,
+      "valence": 0.5426,
+      "arousal": 0.5523
+    },
+    {
+      "timestamp_ms": 134000,
+      "valence": 0.5378,
+      "arousal": 0.5617
+    },
+    {
+      "timestamp_ms": 134500,
+      "valence": 0.5355,
+      "arousal": 0.5626
+    },
+    {
+      "timestamp_ms": 135000,
+      "valence": 0.5402,
+      "arousal": 0.5659
+    },
+    {
+      "timestamp_ms": 135500,
+      "valence": 0.5477,
+      "arousal": 0.5696
+    },
+    {
+      "timestamp_ms": 136000,
+      "valence": 0.5536,
+      "arousal": 0.5751
+    },
+    {
+      "timestamp_ms": 136500,
+      "valence": 0.5519,
+      "arousal": 0.576
+    },
+    {
+      "timestamp_ms": 137000,
+      "valence": 0.5462,
+      "arousal": 0.5717
+    },
+    {
+      "timestamp_ms": 137500,
+      "valence": 0.5417,
+      "arousal": 0.5668
+    },
+    {
+      "timestamp_ms": 138000,
+      "valence": 0.5425,
+      "arousal": 0.566
+    },
+    {
+      "timestamp_ms": 138500,
+      "valence": 0.5445,
+      "arousal": 0.5663
+    },
+    {
+      "timestamp_ms": 139000,
+      "valence": 0.5462,
+      "arousal": 0.5673
+    },
+    {
+      "timestamp_ms": 139500,
+      "valence": 0.5495,
+      "arousal": 0.5695
+    },
+    {
+      "timestamp_ms": 140000,
+      "valence": 0.5203,
+      "arousal": 0.5518
+    },
+    {
+      "timestamp_ms": 140500,
+      "valence": 0.5231,
+      "arousal": 0.5519
+    },
+    {
+      "timestamp_ms": 141000,
+      "valence": 0.5264,
+      "arousal": 0.5551
+    },
+    {
+      "timestamp_ms": 141500,
+      "valence": 0.526,
+      "arousal": 0.5569
+    },
+    {
+      "timestamp_ms": 142000,
+      "valence": 0.5235,
+      "arousal": 0.5577
+    },
+    {
+      "timestamp_ms": 142500,
+      "valence": 0.5204,
+      "arousal": 0.5591
+    },
+    {
+      "timestamp_ms": 143000,
+      "valence": 0.5194,
+      "arousal": 0.5589
+    },
+    {
+      "timestamp_ms": 143500,
+      "valence": 0.5206,
+      "arousal": 0.5595
+    },
+    {
+      "timestamp_ms": 144000,
+      "valence": 0.5222,
+      "arousal": 0.5602
+    },
+    {
+      "timestamp_ms": 144500,
+      "valence": 0.5253,
+      "arousal": 0.5604
+    },
+    {
+      "timestamp_ms": 145000,
+      "valence": 0.527,
+      "arousal": 0.5605
+    },
+    {
+      "timestamp_ms": 145500,
+      "valence": 0.5269,
+      "arousal": 0.5621
+    },
+    {
+      "timestamp_ms": 146000,
+      "valence": 0.5269,
+      "arousal": 0.566
+    },
+    {
+      "timestamp_ms": 146500,
+      "valence": 0.525,
+      "arousal": 0.5667
+    },
+    {
+      "timestamp_ms": 147000,
+      "valence": 0.5231,
+      "arousal": 0.5664
+    },
+    {
+      "timestamp_ms": 147500,
+      "valence": 0.5235,
+      "arousal": 0.5648
+    },
+    {
+      "timestamp_ms": 148000,
+      "valence": 0.5256,
+      "arousal": 0.5633
+    },
+    {
+      "timestamp_ms": 148500,
+      "valence": 0.5302,
+      "arousal": 0.5664
+    },
+    {
+      "timestamp_ms": 149000,
+      "valence": 0.5327,
+      "arousal": 0.5685
+    },
+    {
+      "timestamp_ms": 149500,
+      "valence": 0.5363,
+      "arousal": 0.5709
+    },
+    {
+      "timestamp_ms": 150000,
+      "valence": 0.5263,
+      "arousal": 0.556
+    },
+    {
+      "timestamp_ms": 150500,
+      "valence": 0.5307,
+      "arousal": 0.5559
+    },
+    {
+      "timestamp_ms": 151000,
+      "valence": 0.5326,
+      "arousal": 0.5587
+    },
+    {
+      "timestamp_ms": 151500,
+      "valence": 0.5311,
+      "arousal": 0.5606
+    },
+    {
+      "timestamp_ms": 152000,
+      "valence": 0.528,
+      "arousal": 0.5622
+    },
+    {
+      "timestamp_ms": 152500,
+      "valence": 0.5253,
+      "arousal": 0.5634
+    },
+    {
+      "timestamp_ms": 153000,
+      "valence": 0.5249,
+      "arousal": 0.563
+    },
+    {
+      "timestamp_ms": 153500,
+      "valence": 0.5273,
+      "arousal": 0.5644
+    },
+    {
+      "timestamp_ms": 154000,
+      "valence": 0.5286,
+      "arousal": 0.5653
+    },
+    {
+      "timestamp_ms": 154500,
+      "valence": 0.5274,
+      "arousal": 0.566
+    },
+    {
+      "timestamp_ms": 155000,
+      "valence": 0.5267,
+      "arousal": 0.5661
+    },
+    {
+      "timestamp_ms": 155500,
+      "valence": 0.5273,
+      "arousal": 0.5652
+    },
+    {
+      "timestamp_ms": 156000,
+      "valence": 0.5284,
+      "arousal": 0.5651
+    },
+    {
+      "timestamp_ms": 156500,
+      "valence": 0.5287,
+      "arousal": 0.5635
+    },
+    {
+      "timestamp_ms": 157000,
+      "valence": 0.5269,
+      "arousal": 0.563
+    },
+    {
+      "timestamp_ms": 157500,
+      "valence": 0.5229,
+      "arousal": 0.561
+    },
+    {
+      "timestamp_ms": 158000,
+      "valence": 0.5214,
+      "arousal": 0.5586
+    },
+    {
+      "timestamp_ms": 158500,
+      "valence": 0.5238,
+      "arousal": 0.558
+    },
+    {
+      "timestamp_ms": 159000,
+      "valence": 0.5263,
+      "arousal": 0.5578
+    },
+    {
+      "timestamp_ms": 159500,
+      "valence": 0.5297,
+      "arousal": 0.5582
+    },
+    {
+      "timestamp_ms": 160000,
+      "valence": 0.498,
+      "arousal": 0.5234
+    },
+    {
+      "timestamp_ms": 160500,
+      "valence": 0.4992,
+      "arousal": 0.5212
+    },
+    {
+      "timestamp_ms": 161000,
+      "valence": 0.503,
+      "arousal": 0.5241
+    },
+    {
+      "timestamp_ms": 161500,
+      "valence": 0.5014,
+      "arousal": 0.5269
+    },
+    {
+      "timestamp_ms": 162000,
+      "valence": 0.5007,
+      "arousal": 0.5315
+    },
+    {
+      "timestamp_ms": 162500,
+      "valence": 0.5017,
+      "arousal": 0.5372
+    },
+    {
+      "timestamp_ms": 163000,
+      "valence": 0.5038,
+      "arousal": 0.5383
+    },
+    {
+      "timestamp_ms": 163500,
+      "valence": 0.506,
+      "arousal": 0.5389
+    },
+    {
+      "timestamp_ms": 164000,
+      "valence": 0.5062,
+      "arousal": 0.5382
+    },
+    {
+      "timestamp_ms": 164500,
+      "valence": 0.5082,
+      "arousal": 0.5368
+    },
+    {
+      "timestamp_ms": 165000,
+      "valence": 0.5093,
+      "arousal": 0.5366
+    },
+    {
+      "timestamp_ms": 165500,
+      "valence": 0.5099,
+      "arousal": 0.5374
+    },
+    {
+      "timestamp_ms": 166000,
+      "valence": 0.5097,
+      "arousal": 0.5399
+    },
+    {
+      "timestamp_ms": 166500,
+      "valence": 0.5041,
+      "arousal": 0.5408
+    },
+    {
+      "timestamp_ms": 167000,
+      "valence": 0.5006,
+      "arousal": 0.5378
+    },
+    {
+      "timestamp_ms": 167500,
+      "valence": 0.5005,
+      "arousal": 0.5355
+    },
+    {
+      "timestamp_ms": 168000,
+      "valence": 0.5027,
+      "arousal": 0.5368
+    },
+    {
+      "timestamp_ms": 168500,
+      "valence": 0.5063,
+      "arousal": 0.5393
+    },
+    {
+      "timestamp_ms": 169000,
+      "valence": 0.5081,
+      "arousal": 0.5391
+    },
+    {
+      "timestamp_ms": 169500,
+      "valence": 0.5078,
+      "arousal": 0.5384
+    },
+    {
+      "timestamp_ms": 170000,
+      "valence": 0.5107,
+      "arousal": 0.5302
+    },
+    {
+      "timestamp_ms": 170500,
+      "valence": 0.5126,
+      "arousal": 0.5316
+    },
+    {
+      "timestamp_ms": 171000,
+      "valence": 0.5181,
+      "arousal": 0.5359
+    },
+    {
+      "timestamp_ms": 171500,
+      "valence": 0.5301,
+      "arousal": 0.5411
+    },
+    {
+      "timestamp_ms": 172000,
+      "valence": 0.5404,
+      "arousal": 0.5374
+    },
+    {
+      "timestamp_ms": 172500,
+      "valence": 0.5416,
+      "arousal": 0.5326
+    },
+    {
+      "timestamp_ms": 173000,
+      "valence": 0.5394,
+      "arousal": 0.5313
+    },
+    {
+      "timestamp_ms": 173500,
+      "valence": 0.5357,
+      "arousal": 0.5325
+    },
+    {
+      "timestamp_ms": 174000,
+      "valence": 0.5305,
+      "arousal": 0.537
+    },
+    {
+      "timestamp_ms": 174500,
+      "valence": 0.5253,
+      "arousal": 0.5369
+    },
+    {
+      "timestamp_ms": 175000,
+      "valence": 0.5274,
+      "arousal": 0.5318
+    },
+    {
+      "timestamp_ms": 175500,
+      "valence": 0.5258,
+      "arousal": 0.5225
+    },
+    {
+      "timestamp_ms": 176000,
+      "valence": 0.5287,
+      "arousal": 0.5229
+    },
+    {
+      "timestamp_ms": 176500,
+      "valence": 0.5246,
+      "arousal": 0.5203
+    },
+    {
+      "timestamp_ms": 177000,
+      "valence": 0.5099,
+      "arousal": 0.5229
+    },
+    {
+      "timestamp_ms": 177500,
+      "valence": 0.5125,
+      "arousal": 0.5273
+    },
+    {
+      "timestamp_ms": 178000,
+      "valence": 0.5154,
+      "arousal": 0.5314
+    },
+    {
+      "timestamp_ms": 178500,
+      "valence": 0.5142,
+      "arousal": 0.5292
+    },
+    {
+      "timestamp_ms": 179000,
+      "valence": 0.5079,
+      "arousal": 0.5231
+    },
+    {
+      "timestamp_ms": 179500,
+      "valence": 0.5092,
+      "arousal": 0.5243
+    },
+    {
+      "timestamp_ms": 180000,
+      "valence": 0.5035,
+      "arousal": 0.5043
+    },
+    {
+      "timestamp_ms": 180500,
+      "valence": 0.5155,
+      "arousal": 0.5042
+    },
+    {
+      "timestamp_ms": 181000,
+      "valence": 0.5213,
+      "arousal": 0.5085
+    },
+    {
+      "timestamp_ms": 181500,
+      "valence": 0.521,
+      "arousal": 0.5109
+    },
+    {
+      "timestamp_ms": 182000,
+      "valence": 0.5177,
+      "arousal": 0.5128
+    },
+    {
+      "timestamp_ms": 182500,
+      "valence": 0.5142,
+      "arousal": 0.5181
+    },
+    {
+      "timestamp_ms": 183000,
+      "valence": 0.5076,
+      "arousal": 0.5187
+    },
+    {
+      "timestamp_ms": 183500,
+      "valence": 0.5028,
+      "arousal": 0.5215
+    },
+    {
+      "timestamp_ms": 184000,
+      "valence": 0.5013,
+      "arousal": 0.5249
+    },
+    {
+      "timestamp_ms": 184500,
+      "valence": 0.5052,
+      "arousal": 0.5249
+    },
+    {
+      "timestamp_ms": 185000,
+      "valence": 0.5104,
+      "arousal": 0.5261
+    },
+    {
+      "timestamp_ms": 185500,
+      "valence": 0.5123,
+      "arousal": 0.5238
+    },
+    {
+      "timestamp_ms": 186000,
+      "valence": 0.5117,
+      "arousal": 0.5217
+    },
+    {
+      "timestamp_ms": 186500,
+      "valence": 0.5106,
+      "arousal": 0.524
+    },
+    {
+      "timestamp_ms": 187000,
+      "valence": 0.5139,
+      "arousal": 0.523
+    },
+    {
+      "timestamp_ms": 187500,
+      "valence": 0.5206,
+      "arousal": 0.5293
+    },
+    {
+      "timestamp_ms": 188000,
+      "valence": 0.5238,
+      "arousal": 0.528
+    },
+    {
+      "timestamp_ms": 188500,
+      "valence": 0.5261,
+      "arousal": 0.5249
+    },
+    {
+      "timestamp_ms": 189000,
+      "valence": 0.5217,
+      "arousal": 0.5165
+    },
+    {
+      "timestamp_ms": 189500,
+      "valence": 0.5222,
+      "arousal": 0.521
+    },
+    {
+      "timestamp_ms": 190000,
+      "valence": 0.5527,
+      "arousal": 0.5432
+    },
+    {
+      "timestamp_ms": 190500,
+      "valence": 0.5539,
+      "arousal": 0.543
+    },
+    {
+      "timestamp_ms": 191000,
+      "valence": 0.5534,
+      "arousal": 0.5448
+    },
+    {
+      "timestamp_ms": 191500,
+      "valence": 0.554,
+      "arousal": 0.5482
+    },
+    {
+      "timestamp_ms": 192000,
+      "valence": 0.5517,
+      "arousal": 0.5507
+    },
+    {
+      "timestamp_ms": 192500,
+      "valence": 0.5458,
+      "arousal": 0.549
+    },
+    {
+      "timestamp_ms": 193000,
+      "valence": 0.5405,
+      "arousal": 0.5496
+    },
+    {
+      "timestamp_ms": 193500,
+      "valence": 0.537,
+      "arousal": 0.548
+    },
+    {
+      "timestamp_ms": 194000,
+      "valence": 0.538,
+      "arousal": 0.5498
+    },
+    {
+      "timestamp_ms": 194500,
+      "valence": 0.5377,
+      "arousal": 0.5504
+    },
+    {
+      "timestamp_ms": 195000,
+      "valence": 0.5389,
+      "arousal": 0.551
+    },
+    {
+      "timestamp_ms": 195500,
+      "valence": 0.5418,
+      "arousal": 0.5529
+    },
+    {
+      "timestamp_ms": 196000,
+      "valence": 0.5448,
+      "arousal": 0.5569
+    },
+    {
+      "timestamp_ms": 196500,
+      "valence": 0.5429,
+      "arousal": 0.5581
+    },
+    {
+      "timestamp_ms": 197000,
+      "valence": 0.5385,
+      "arousal": 0.5561
+    },
+    {
+      "timestamp_ms": 197500,
+      "valence": 0.5357,
+      "arousal": 0.5526
+    },
+    {
+      "timestamp_ms": 198000,
+      "valence": 0.5372,
+      "arousal": 0.5518
+    },
+    {
+      "timestamp_ms": 198500,
+      "valence": 0.5407,
+      "arousal": 0.5536
+    },
+    {
+      "timestamp_ms": 199000,
+      "valence": 0.5457,
+      "arousal": 0.5564
+    },
+    {
+      "timestamp_ms": 199500,
+      "valence": 0.5506,
+      "arousal": 0.5586
+    },
+    {
+      "timestamp_ms": 200000,
+      "valence": 0.5278,
+      "arousal": 0.548
+    },
+    {
+      "timestamp_ms": 200500,
+      "valence": 0.5259,
+      "arousal": 0.5461
+    },
+    {
+      "timestamp_ms": 201000,
+      "valence": 0.5259,
+      "arousal": 0.5479
+    },
+    {
+      "timestamp_ms": 201500,
+      "valence": 0.5247,
+      "arousal": 0.5499
+    },
+    {
+      "timestamp_ms": 202000,
+      "valence": 0.5247,
+      "arousal": 0.5536
+    },
+    {
+      "timestamp_ms": 202500,
+      "valence": 0.527,
+      "arousal": 0.5564
+    },
+    {
+      "timestamp_ms": 203000,
+      "valence": 0.5295,
+      "arousal": 0.5565
+    },
+    {
+      "timestamp_ms": 203500,
+      "valence": 0.5335,
+      "arousal": 0.558
+    },
+    {
+      "timestamp_ms": 204000,
+      "valence": 0.5364,
+      "arousal": 0.5597
+    },
+    {
+      "timestamp_ms": 204500,
+      "valence": 0.5378,
+      "arousal": 0.5608
+    },
+    {
+      "timestamp_ms": 205000,
+      "valence": 0.5385,
+      "arousal": 0.5608
+    },
+    {
+      "timestamp_ms": 205500,
+      "valence": 0.5398,
+      "arousal": 0.5611
+    },
+    {
+      "timestamp_ms": 206000,
+      "valence": 0.5393,
+      "arousal": 0.5626
+    },
+    {
+      "timestamp_ms": 206500,
+      "valence": 0.5357,
+      "arousal": 0.5622
+    },
+    {
+      "timestamp_ms": 207000,
+      "valence": 0.5327,
+      "arousal": 0.5611
+    },
+    {
+      "timestamp_ms": 207500,
+      "valence": 0.5305,
+      "arousal": 0.5577
+    },
+    {
+      "timestamp_ms": 208000,
+      "valence": 0.5306,
+      "arousal": 0.557
+    },
+    {
+      "timestamp_ms": 208500,
+      "valence": 0.5332,
+      "arousal": 0.559
+    },
+    {
+      "timestamp_ms": 209000,
+      "valence": 0.537,
+      "arousal": 0.5625
+    },
+    {
+      "timestamp_ms": 209500,
+      "valence": 0.5421,
+      "arousal": 0.5657
+    },
+    {
+      "timestamp_ms": 210000,
+      "valence": 0.5416,
+      "arousal": 0.5673
+    },
+    {
+      "timestamp_ms": 210500,
+      "valence": 0.5432,
+      "arousal": 0.5669
+    },
+    {
+      "timestamp_ms": 211000,
+      "valence": 0.5442,
+      "arousal": 0.5681
+    },
+    {
+      "timestamp_ms": 211500,
+      "valence": 0.542,
+      "arousal": 0.5682
+    },
+    {
+      "timestamp_ms": 212000,
+      "valence": 0.5391,
+      "arousal": 0.5683
+    },
+    {
+      "timestamp_ms": 212500,
+      "valence": 0.5374,
+      "arousal": 0.5686
+    },
+    {
+      "timestamp_ms": 213000,
+      "valence": 0.5382,
+      "arousal": 0.569
+    },
+    {
+      "timestamp_ms": 213500,
+      "valence": 0.5397,
+      "arousal": 0.5698
+    },
+    {
+      "timestamp_ms": 214000,
+      "valence": 0.5404,
+      "arousal": 0.5701
+    },
+    {
+      "timestamp_ms": 214500,
+      "valence": 0.5418,
+      "arousal": 0.5716
+    },
+    {
+      "timestamp_ms": 215000,
+      "valence": 0.5424,
+      "arousal": 0.5733
+    },
+    {
+      "timestamp_ms": 215500,
+      "valence": 0.5448,
+      "arousal": 0.5745
+    },
+    {
+      "timestamp_ms": 216000,
+      "valence": 0.5471,
+      "arousal": 0.5758
+    },
+    {
+      "timestamp_ms": 216500,
+      "valence": 0.546,
+      "arousal": 0.5738
+    },
+    {
+      "timestamp_ms": 217000,
+      "valence": 0.5439,
+      "arousal": 0.5713
+    },
+    {
+      "timestamp_ms": 217500,
+      "valence": 0.5404,
+      "arousal": 0.5702
+    },
+    {
+      "timestamp_ms": 218000,
+      "valence": 0.5389,
+      "arousal": 0.57
+    },
+    {
+      "timestamp_ms": 218500,
+      "valence": 0.5401,
+      "arousal": 0.5711
+    },
+    {
+      "timestamp_ms": 219000,
+      "valence": 0.5435,
+      "arousal": 0.5723
+    },
+    {
+      "timestamp_ms": 219500,
+      "valence": 0.5471,
+      "arousal": 0.574
+    },
+    {
+      "timestamp_ms": 220000,
+      "valence": 0.5126,
+      "arousal": 0.5415
+    },
+    {
+      "timestamp_ms": 220500,
+      "valence": 0.5135,
+      "arousal": 0.5406
+    },
+    {
+      "timestamp_ms": 221000,
+      "valence": 0.515,
+      "arousal": 0.5418
+    },
+    {
+      "timestamp_ms": 221500,
+      "valence": 0.5137,
+      "arousal": 0.5412
+    },
+    {
+      "timestamp_ms": 222000,
+      "valence": 0.5115,
+      "arousal": 0.5421
+    },
+    {
+      "timestamp_ms": 222500,
+      "valence": 0.5114,
+      "arousal": 0.5444
+    },
+    {
+      "timestamp_ms": 223000,
+      "valence": 0.5123,
+      "arousal": 0.5453
+    },
+    {
+      "timestamp_ms": 223500,
+      "valence": 0.5137,
+      "arousal": 0.5456
+    },
+    {
+      "timestamp_ms": 224000,
+      "valence": 0.5128,
+      "arousal": 0.5451
+    },
+    {
+      "timestamp_ms": 224500,
+      "valence": 0.5116,
+      "arousal": 0.5442
+    },
+    {
+      "timestamp_ms": 225000,
+      "valence": 0.5125,
+      "arousal": 0.5449
+    },
+    {
+      "timestamp_ms": 225500,
+      "valence": 0.5136,
+      "arousal": 0.5464
+    },
+    {
+      "timestamp_ms": 226000,
+      "valence": 0.5143,
+      "arousal": 0.549
+    },
+    {
+      "timestamp_ms": 226500,
+      "valence": 0.5124,
+      "arousal": 0.5494
+    },
+    {
+      "timestamp_ms": 227000,
+      "valence": 0.5103,
+      "arousal": 0.5484
+    },
+    {
+      "timestamp_ms": 227500,
+      "valence": 0.5091,
+      "arousal": 0.5476
+    },
+    {
+      "timestamp_ms": 228000,
+      "valence": 0.5103,
+      "arousal": 0.5485
+    },
+    {
+      "timestamp_ms": 228500,
+      "valence": 0.5115,
+      "arousal": 0.5506
+    },
+    {
+      "timestamp_ms": 229000,
+      "valence": 0.5115,
+      "arousal": 0.5499
+    },
+    {
+      "timestamp_ms": 229500,
+      "valence": 0.5104,
+      "arousal": 0.548
+    },
+    {
+      "timestamp_ms": 230000,
+      "valence": 0.4215,
+      "arousal": 0.484
+    },
+    {
+      "timestamp_ms": 230500,
+      "valence": 0.4271,
+      "arousal": 0.4855
+    },
+    {
+      "timestamp_ms": 231000,
+      "valence": 0.4295,
+      "arousal": 0.4876
+    },
+    {
+      "timestamp_ms": 231500,
+      "valence": 0.4273,
+      "arousal": 0.486
+    },
+    {
+      "timestamp_ms": 232000,
+      "valence": 0.4244,
+      "arousal": 0.4806
+    },
+    {
+      "timestamp_ms": 232500,
+      "valence": 0.4219,
+      "arousal": 0.4693
+    },
+    {
+      "timestamp_ms": 233000,
+      "valence": 0.4196,
+      "arousal": 0.4684
+    },
+    {
+      "timestamp_ms": 233500,
+      "valence": 0.4138,
+      "arousal": 0.4509
+    },
+    {
+      "timestamp_ms": 234000,
+      "valence": 0.4409,
+      "arousal": 0.4577
+    },
+    {
+      "timestamp_ms": 234500,
+      "valence": 0.4592,
+      "arousal": 0.4665
+    },
+    {
+      "timestamp_ms": 235000,
+      "valence": 0.4626,
+      "arousal": 0.4702
+    },
+    {
+      "timestamp_ms": 235500,
+      "valence": 0.4613,
+      "arousal": 0.4691
+    },
+    {
+      "timestamp_ms": 236000,
+      "valence": 0.454,
+      "arousal": 0.4708
+    },
+    {
+      "timestamp_ms": 236500,
+      "valence": 0.4469,
+      "arousal": 0.4906
+    },
+    {
+      "timestamp_ms": 237000,
+      "valence": 0.4441,
+      "arousal": 0.4868
+    },
+    {
+      "timestamp_ms": 237500,
+      "valence": 0.4399,
+      "arousal": 0.4705
+    },
+    {
+      "timestamp_ms": 238000,
+      "valence": 0.4463,
+      "arousal": 0.464
+    },
+    {
+      "timestamp_ms": 238500,
+      "valence": 0.4545,
+      "arousal": 0.467
+    },
+    {
+      "timestamp_ms": 239000,
+      "valence": 0.4496,
+      "arousal": 0.4681
+    },
+    {
+      "timestamp_ms": 239500,
+      "valence": 0.441,
+      "arousal": 0.4739
+    },
+    {
+      "timestamp_ms": 240000,
+      "valence": 0.1917,
+      "arousal": 0.2389
+    },
+    {
+      "timestamp_ms": 240500,
+      "valence": 0.2038,
+      "arousal": 0.2453
+    },
+    {
+      "timestamp_ms": 241000,
+      "valence": 0.2005,
+      "arousal": 0.2438
+    },
+    {
+      "timestamp_ms": 241500,
+      "valence": 0.1965,
+      "arousal": 0.2401
+    },
+    {
+      "timestamp_ms": 242000,
+      "valence": 0.2043,
+      "arousal": 0.2423
+    },
+    {
+      "timestamp_ms": 242500,
+      "valence": 0.1997,
+      "arousal": 0.2431
+    },
+    {
+      "timestamp_ms": 243000,
+      "valence": 0.2038,
+      "arousal": 0.2368
+    },
+    {
+      "timestamp_ms": 243500,
+      "valence": 0.2056,
+      "arousal": 0.2332
+    },
+    {
+      "timestamp_ms": 244000,
+      "valence": 0.1947,
+      "arousal": 0.2256
+    },
+    {
+      "timestamp_ms": 244500,
+      "valence": 0.1869,
+      "arousal": 0.2293
+    },
+    {
+      "timestamp_ms": 245000,
+      "valence": 0.1947,
+      "arousal": 0.2417
+    },
+    {
+      "timestamp_ms": 245500,
+      "valence": 0.2037,
+      "arousal": 0.2496
+    },
+    {
+      "timestamp_ms": 246000,
+      "valence": 0.1996,
+      "arousal": 0.2514
+    },
+    {
+      "timestamp_ms": 246500,
+      "valence": 0.1938,
+      "arousal": 0.2465
+    },
+    {
+      "timestamp_ms": 247000,
+      "valence": 0.1972,
+      "arousal": 0.2444
+    },
+    {
+      "timestamp_ms": 247500,
+      "valence": 0.1907,
+      "arousal": 0.2411
+    },
+    {
+      "timestamp_ms": 248000,
+      "valence": 0.198,
+      "arousal": 0.2362
+    },
+    {
+      "timestamp_ms": 248500,
+      "valence": 0.2002,
+      "arousal": 0.2351
+    },
+    {
+      "timestamp_ms": 249000,
+      "valence": 0.1819,
+      "arousal": 0.2265
+    },
+    {
+      "timestamp_ms": 249500,
+      "valence": 0.1587,
+      "arousal": 0.2248
+    },
+    {
+      "timestamp_ms": 250000,
+      "valence": 0.1245,
+      "arousal": 0.2385
+    },
+    {
+      "timestamp_ms": 250500,
+      "valence": 0.1325,
+      "arousal": 0.2265
+    },
+    {
+      "timestamp_ms": 251000,
+      "valence": 0.1213,
+      "arousal": 0.2182
+    },
+    {
+      "timestamp_ms": 251500,
+      "valence": 0.1246,
+      "arousal": 0.2115
+    },
+    {
+      "timestamp_ms": 252000,
+      "valence": 0.1245,
+      "arousal": 0.2066
+    },
+    {
+      "timestamp_ms": 252500,
+      "valence": 0.1272,
+      "arousal": 0.2032
+    },
+    {
+      "timestamp_ms": 253000,
+      "valence": 0.1468,
+      "arousal": 0.223
+    },
+    {
+      "timestamp_ms": 253500,
+      "valence": 0.1505,
+      "arousal": 0.2231
+    },
+    {
+      "timestamp_ms": 254000,
+      "valence": 0.139,
+      "arousal": 0.2073
+    },
+    {
+      "timestamp_ms": 254500,
+      "valence": 0.1335,
+      "arousal": 0.1965
+    },
+    {
+      "timestamp_ms": 255000,
+      "valence": 0.1429,
+      "arousal": 0.2062
+    },
+    {
+      "timestamp_ms": 255500,
+      "valence": 0.1491,
+      "arousal": 0.2146
+    },
+    {
+      "timestamp_ms": 256000,
+      "valence": 0.1478,
+      "arousal": 0.2186
+    },
+    {
+      "timestamp_ms": 256500,
+      "valence": 0.1416,
+      "arousal": 0.2198
+    },
+    {
+      "timestamp_ms": 257000,
+      "valence": 0.136,
+      "arousal": 0.2081
+    },
+    {
+      "timestamp_ms": 257500,
+      "valence": 0.1328,
+      "arousal": 0.2
+    },
+    {
+      "timestamp_ms": 258000,
+      "valence": 0.1378,
+      "arousal": 0.2071
+    },
+    {
+      "timestamp_ms": 258500,
+      "valence": 0.1394,
+      "arousal": 0.2086
+    },
+    {
+      "timestamp_ms": 259000,
+      "valence": 0.1346,
+      "arousal": 0.204
+    },
+    {
+      "timestamp_ms": 259500,
+      "valence": 0.1304,
+      "arousal": 0.201
+    },
+    {
+      "timestamp_ms": 260000,
+      "valence": 0.049,
+      "arousal": 0.2234
+    },
+    {
+      "timestamp_ms": 260500,
+      "valence": 0.0433,
+      "arousal": 0.1979
+    },
+    {
+      "timestamp_ms": 261000,
+      "valence": 0.0435,
+      "arousal": 0.1979
+    },
+    {
+      "timestamp_ms": 261500,
+      "valence": 0.0439,
+      "arousal": 0.1987
+    },
+    {
+      "timestamp_ms": 262000,
+      "valence": 0.0423,
+      "arousal": 0.1995
+    },
+    {
+      "timestamp_ms": 262500,
+      "valence": 0.0393,
+      "arousal": 0.2009
+    },
+    {
+      "timestamp_ms": 263000,
+      "valence": 0.037,
+      "arousal": 0.2015
+    },
+    {
+      "timestamp_ms": 263500,
+      "valence": 0.0367,
+      "arousal": 0.2014
+    },
+    {
+      "timestamp_ms": 264000,
+      "valence": 0.039,
+      "arousal": 0.203
+    },
+    {
+      "timestamp_ms": 264500,
+      "valence": 0.0438,
+      "arousal": 0.2077
+    },
+    {
+      "timestamp_ms": 265000,
+      "valence": 0.0494,
+      "arousal": 0.2145
+    },
+    {
+      "timestamp_ms": 265500,
+      "valence": 0.0521,
+      "arousal": 0.2212
+    },
+    {
+      "timestamp_ms": 266000,
+      "valence": 0.051,
+      "arousal": 0.2248
+    },
+    {
+      "timestamp_ms": 266500,
+      "valence": 0.0476,
+      "arousal": 0.2232
+    },
+    {
+      "timestamp_ms": 267000,
+      "valence": 0.0451,
+      "arousal": 0.2188
+    },
+    {
+      "timestamp_ms": 267500,
+      "valence": 0.0451,
+      "arousal": 0.2163
+    },
+    {
+      "timestamp_ms": 268000,
+      "valence": 0.0484,
+      "arousal": 0.2178
+    },
+    {
+      "timestamp_ms": 268500,
+      "valence": 0.0533,
+      "arousal": 0.2225
+    },
+    {
+      "timestamp_ms": 269000,
+      "valence": 0.058,
+      "arousal": 0.2288
+    },
+    {
+      "timestamp_ms": 269500,
+      "valence": 0.0543,
+      "arousal": 0.2305
+    },
+    {
+      "timestamp_ms": 270000,
+      "valence": 0.2123,
+      "arousal": 0.484
+    },
+    {
+      "timestamp_ms": 270500,
+      "valence": 0.2137,
+      "arousal": 0.4796
+    },
+    {
+      "timestamp_ms": 271000,
+      "valence": 0.2197,
+      "arousal": 0.4841
+    },
+    {
+      "timestamp_ms": 271500,
+      "valence": 0.2316,
+      "arousal": 0.4911
+    },
+    {
+      "timestamp_ms": 272000,
+      "valence": 0.237,
+      "arousal": 0.4988
+    }
+  ]
+}

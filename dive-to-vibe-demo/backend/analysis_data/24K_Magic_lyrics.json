@@ -1,0 +1,451 @@
+{
+  "artist": "Bruno Mars",
+  "overall_vad": {
+    "valence": 2.9,
+    "arousal": 3.47,
+    "dominance": 3.33
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Tonight I just want to take you higher Throw your hands up in the sky Let's set this party off right",
+      "valence": 3.23,
+      "arousal": 3.66,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I just want to take you higher Throw your hands up in the sky Let's set this party off right Players, put yo' pinky rings up to the moon",
+      "valence": 3.17,
+      "arousal": 3.64,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Throw your hands up in the sky Let's set this party off right Players, put yo' pinky rings up to the moon Girls, what y'all trying to do?",
+      "valence": 2.87,
+      "arousal": 3.62,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Let's set this party off right Players, put yo' pinky rings up to the moon Girls, what y'all trying to do? Twenty four karat magic in the air",
+      "valence": 3.04,
+      "arousal": 3.48,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Players, put yo' pinky rings up to the moon Girls, what y'all trying to do? Twenty four karat magic in the air Head to toe so player",
+      "valence": 3.01,
+      "arousal": 3.28,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Girls, what y'all trying to do? Twenty four karat magic in the air Head to toe so player Look out uh",
+      "valence": 2.95,
+      "arousal": 3.32,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Twenty four karat magic in the air Head to toe so player Look out uh Pop pop, it's show time (show time)",
+      "valence": 3.27,
+      "arousal": 3.55,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Head to toe so player Look out uh Pop pop, it's show time (show time) Show time (show time)",
+      "valence": 3.18,
+      "arousal": 3.21,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Look out uh Pop pop, it's show time (show time) Show time (show time) Guess who's back again?",
+      "valence": 3.16,
+      "arousal": 3.35,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Pop pop, it's show time (show time) Show time (show time) Guess who's back again? Oh they don't know? (Go on tell 'em)",
+      "valence": 3.1,
+      "arousal": 3.33,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Show time (show time) Guess who's back again? Oh they don't know? (Go on tell 'em) Oh they don't know? (Go on tell 'em)",
+      "valence": 3.04,
+      "arousal": 3.36,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Guess who's back again? Oh they don't know? (Go on tell 'em) Oh they don't know? (Go on tell 'em) I bet they know soon as we walk in (showin' up)",
+      "valence": 3.03,
+      "arousal": 3.26,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Oh they don't know? (Go on tell 'em) Oh they don't know? (Go on tell 'em) I bet they know soon as we walk in (showin' up) Wearing Cuban links (ya)",
+      "valence": 2.98,
+      "arousal": 3.22,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Oh they don't know? (Go on tell 'em) I bet they know soon as we walk in (showin' up) Wearing Cuban links (ya) Designer minks (ya)",
+      "valence": 3.08,
+      "arousal": 3.23,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I bet they know soon as we walk in (showin' up) Wearing Cuban links (ya) Designer minks (ya) Inglewood's finest shoes (whoop, whoop)",
+      "valence": 3.35,
+      "arousal": 3.49,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Wearing Cuban links (ya) Designer minks (ya) Inglewood's finest shoes (whoop, whoop) Don't look too hard might hurt ya'self",
+      "valence": 3.05,
+      "arousal": 3.26,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Designer minks (ya) Inglewood's finest shoes (whoop, whoop) Don't look too hard might hurt ya'self Known to give the color red the blues",
+      "valence": 3.09,
+      "arousal": 3.16,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Inglewood's finest shoes (whoop, whoop) Don't look too hard might hurt ya'self Known to give the color red the blues Oh shit, I'm a dangerous man with some money in my pocket (keep up)",
+      "valence": 2.49,
+      "arousal": 3.83,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Don't look too hard might hurt ya'self Known to give the color red the blues Oh shit, I'm a dangerous man with some money in my pocket (keep up) So many pretty girls around me and they waking up the rocket (keep up)",
+      "valence": 2.38,
+      "arousal": 3.71,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Known to give the color red the blues Oh shit, I'm a dangerous man with some money in my pocket (keep up) So many pretty girls around me and they waking up the rocket (keep up) Why you mad, fix ya face, ain't my fault y'all be jocking (keep up)",
+      "valence": 2.31,
+      "arousal": 3.71,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Oh shit, I'm a dangerous man with some money in my pocket (keep up) So many pretty girls around me and they waking up the rocket (keep up) Why you mad, fix ya face, ain't my fault y'all be jocking (keep up) Players only, come on",
+      "valence": 2.37,
+      "arousal": 3.82,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "So many pretty girls around me and they waking up the rocket (keep up) Why you mad, fix ya face, ain't my fault y'all be jocking (keep up) Players only, come on Put your pinky rings up to the moon",
+      "valence": 2.72,
+      "arousal": 3.45,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Why you mad, fix ya face, ain't my fault y'all be jocking (keep up) Players only, come on Put your pinky rings up to the moon Girls, what y'all trying to do?",
+      "valence": 2.5,
+      "arousal": 3.53,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Players only, come on Put your pinky rings up to the moon Girls, what y'all trying to do? Twenty four karat magic in the air",
+      "valence": 3.02,
+      "arousal": 3.33,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Put your pinky rings up to the moon Girls, what y'all trying to do? Twenty four karat magic in the air Head to toe so player",
+      "valence": 3.0,
+      "arousal": 3.32,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Girls, what y'all trying to do? Twenty four karat magic in the air Head to toe so player Uh, look out!",
+      "valence": 2.96,
+      "arousal": 3.77,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Twenty four karat magic in the air Head to toe so player Uh, look out! Second verse for the hustlas (hustlas) gangstas (gangstas)",
+      "valence": 3.1,
+      "arousal": 3.72,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Head to toe so player Uh, look out! Second verse for the hustlas (hustlas) gangstas (gangstas) Bad bitches and ya ugly ass friends (haha)",
+      "valence": 2.66,
+      "arousal": 3.96,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Uh, look out! Second verse for the hustlas (hustlas) gangstas (gangstas) Bad bitches and ya ugly ass friends (haha) Can I preach? (uh oh) can I preach? (uh oh)",
+      "valence": 2.54,
+      "arousal": 3.87,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Second verse for the hustlas (hustlas) gangstas (gangstas) Bad bitches and ya ugly ass friends (haha) Can I preach? (uh oh) can I preach? (uh oh) I gotta show 'em how a pimp get it in",
+      "valence": 2.31,
+      "arousal": 3.56,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Bad bitches and ya ugly ass friends (haha) Can I preach? (uh oh) can I preach? (uh oh) I gotta show 'em how a pimp get it in First, take your sip (sip), do your dip (dip)",
+      "valence": 2.25,
+      "arousal": 3.61,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Can I preach? (uh oh) can I preach? (uh oh) I gotta show 'em how a pimp get it in First, take your sip (sip), do your dip (dip) Spend your money like money ain't shit (whoop, whoop)",
+      "valence": 2.71,
+      "arousal": 3.4,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I gotta show 'em how a pimp get it in First, take your sip (sip), do your dip (dip) Spend your money like money ain't shit (whoop, whoop) We too fresh",
+      "valence": 2.79,
+      "arousal": 3.42,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "First, take your sip (sip), do your dip (dip) Spend your money like money ain't shit (whoop, whoop) We too fresh Got to blame in on Jesus",
+      "valence": 2.77,
+      "arousal": 3.42,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Spend your money like money ain't shit (whoop, whoop) We too fresh Got to blame in on Jesus Hashtag blessed, they ain't ready for me",
+      "valence": 2.51,
+      "arousal": 3.4,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "We too fresh Got to blame in on Jesus Hashtag blessed, they ain't ready for me I'm a dangerous man with some money in my pocket (keep up)",
+      "valence": 2.49,
+      "arousal": 3.4,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Got to blame in on Jesus Hashtag blessed, they ain't ready for me I'm a dangerous man with some money in my pocket (keep up) So many pretty girls around me and they waking up the rocket (keep up)",
+      "valence": 2.52,
+      "arousal": 3.35,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Hashtag blessed, they ain't ready for me I'm a dangerous man with some money in my pocket (keep up) So many pretty girls around me and they waking up the rocket (keep up) Why you mad, fix ya face, ain't my fault y'all be jocking (keep up)",
+      "valence": 2.49,
+      "arousal": 3.55,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I'm a dangerous man with some money in my pocket (keep up) So many pretty girls around me and they waking up the rocket (keep up) Why you mad, fix ya face, ain't my fault y'all be jocking (keep up) Players only, come on",
+      "valence": 2.51,
+      "arousal": 3.49,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "So many pretty girls around me and they waking up the rocket (keep up) Why you mad, fix ya face, ain't my fault y'all be jocking (keep up) Players only, come on Put your pinky rings up to the moon",
+      "valence": 2.72,
+      "arousal": 3.45,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Why you mad, fix ya face, ain't my fault y'all be jocking (keep up) Players only, come on Put your pinky rings up to the moon Hey girls",
+      "valence": 2.75,
+      "arousal": 3.48,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Players only, come on Put your pinky rings up to the moon Hey girls What y'all trying to do? (What y'all trying to do?)",
+      "valence": 2.93,
+      "arousal": 3.29,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Put your pinky rings up to the moon Hey girls What y'all trying to do? (What y'all trying to do?) Twenty four karat magic in the air",
+      "valence": 3.03,
+      "arousal": 3.37,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Hey girls What y'all trying to do? (What y'all trying to do?) Twenty four karat magic in the air Head to toe so player",
+      "valence": 3.06,
+      "arousal": 3.34,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "What y'all trying to do? (What y'all trying to do?) Twenty four karat magic in the air Head to toe so player Uh, look out!",
+      "valence": 2.95,
+      "arousal": 3.72,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Twenty four karat magic in the air Head to toe so player Uh, look out! everywhere I go they be like",
+      "valence": 3.12,
+      "arousal": 3.56,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Head to toe so player Uh, look out! everywhere I go they be like Ooh, so player",
+      "valence": 3.23,
+      "arousal": 3.73,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Uh, look out! everywhere I go they be like Ooh, so player Everywhere I go they be like (ooh, so player ooh)",
+      "valence": 3.34,
+      "arousal": 3.63,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "everywhere I go they be like Ooh, so player Everywhere I go they be like (ooh, so player ooh) Oh everywhere I go they be like (ooh, so player ooh)",
+      "valence": 3.13,
+      "arousal": 3.29,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Ooh, so player Everywhere I go they be like (ooh, so player ooh) Oh everywhere I go they be like (ooh, so player ooh) Now, now, now watch me break it down like (uh)",
+      "valence": 2.97,
+      "arousal": 3.14,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Everywhere I go they be like (ooh, so player ooh) Oh everywhere I go they be like (ooh, so player ooh) Now, now, now watch me break it down like (uh) Twenty four karat, twenty four karat magic",
+      "valence": 3.03,
+      "arousal": 3.18,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Oh everywhere I go they be like (ooh, so player ooh) Now, now, now watch me break it down like (uh) Twenty four karat, twenty four karat magic What's that sound (twenty four karat, twenty four karat magic)",
+      "valence": 3.05,
+      "arousal": 3.17,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Now, now, now watch me break it down like (uh) Twenty four karat, twenty four karat magic What's that sound (twenty four karat, twenty four karat magic) Come on now",
+      "valence": 3.01,
+      "arousal": 3.24,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Twenty four karat, twenty four karat magic What's that sound (twenty four karat, twenty four karat magic) Come on now Twenty four karat, twenty four karat magic",
+      "valence": 3.03,
+      "arousal": 3.4,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "What's that sound (twenty four karat, twenty four karat magic) Come on now Twenty four karat, twenty four karat magic Don't fight the feeling, invite the feeling",
+      "valence": 2.98,
+      "arousal": 3.37,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Come on now Twenty four karat, twenty four karat magic Don't fight the feeling, invite the feeling Just put your pinky rings up to the moon",
+      "valence": 3.02,
+      "arousal": 3.33,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Twenty four karat, twenty four karat magic Don't fight the feeling, invite the feeling Just put your pinky rings up to the moon Girls, what y'all trying to do? (Tell me what y'all trying to do)",
+      "valence": 2.9,
+      "arousal": 3.36,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Don't fight the feeling, invite the feeling Just put your pinky rings up to the moon Girls, what y'all trying to do? (Tell me what y'all trying to do) Twenty four karat magic in the air",
+      "valence": 2.93,
+      "arousal": 3.32,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Just put your pinky rings up to the moon Girls, what y'all trying to do? (Tell me what y'all trying to do) Twenty four karat magic in the air Head to toe so player (hands up!)",
+      "valence": 3.07,
+      "arousal": 3.7,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Girls, what y'all trying to do? (Tell me what y'all trying to do) Twenty four karat magic in the air Head to toe so player (hands up!) Put your pinky rings up to the moon",
+      "valence": 3.09,
+      "arousal": 3.58,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Twenty four karat magic in the air Head to toe so player (hands up!) Put your pinky rings up to the moon Girls, what y'all trying to do? (Do)",
+      "valence": 3.16,
+      "arousal": 3.7,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Head to toe so player (hands up!) Put your pinky rings up to the moon Girls, what y'all trying to do? (Do) Twenty four karat magic in the air",
+      "valence": 3.17,
+      "arousal": 3.83,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Put your pinky rings up to the moon Girls, what y'all trying to do? (Do) Twenty four karat magic in the air Head to toe so player (twenty four karat) uh, look out",
+      "valence": 2.97,
+      "arousal": 3.33,
+      "dominance": 3.34
+    }
+  ]
+}

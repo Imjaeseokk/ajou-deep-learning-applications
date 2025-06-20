@@ -1,0 +1,437 @@
+{
+  "artist": "Doja Cat",
+  "overall_vad": {
+    "valence": 3.17,
+    "arousal": 3.33,
+    "dominance": 3.37
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Hey, woman Hey, woman Hey, woman Let me be your woman",
+      "valence": 3.17,
+      "arousal": 3.19,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Hey, woman Hey, woman Let me be your woman Woman, woman, woman (ayy)",
+      "valence": 3.15,
+      "arousal": 3.26,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Hey, woman Let me be your woman Woman, woman, woman (ayy) I can be your woman",
+      "valence": 3.23,
+      "arousal": 3.19,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Let me be your woman Woman, woman, woman (ayy) I can be your woman Woman, woman, woman (ayy)",
+      "valence": 3.2,
+      "arousal": 2.95,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Woman, woman, woman (ayy) I can be your woman Woman, woman, woman (ayy) Let me be your woman",
+      "valence": 3.22,
+      "arousal": 3.03,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I can be your woman Woman, woman, woman (ayy) Let me be your woman Woman, woman, woman (ayy)",
+      "valence": 3.21,
+      "arousal": 3.03,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Woman, woman, woman (ayy) Let me be your woman Woman, woman, woman (ayy) I can be your woman",
+      "valence": 3.22,
+      "arousal": 3.01,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Let me be your woman Woman, woman, woman (ayy) I can be your woman Woman, woman, woman (ayy)",
+      "valence": 3.2,
+      "arousal": 2.95,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Woman, woman, woman (ayy) I can be your woman Woman, woman, woman (ayy) What you need?",
+      "valence": 3.18,
+      "arousal": 3.03,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I can be your woman Woman, woman, woman (ayy) What you need? She give tenfold, come here, papa, plant your seed",
+      "valence": 3.34,
+      "arousal": 3.18,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Woman, woman, woman (ayy) What you need? She give tenfold, come here, papa, plant your seed She can grow it from her womb, a family",
+      "valence": 3.25,
+      "arousal": 3.26,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "What you need? She give tenfold, come here, papa, plant your seed She can grow it from her womb, a family Provide lovin' overlooked and unappreciated, you see (yeah)",
+      "valence": 3.22,
+      "arousal": 3.3,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "She give tenfold, come here, papa, plant your seed She can grow it from her womb, a family Provide lovin' overlooked and unappreciated, you see (yeah) You can reciprocate",
+      "valence": 3.43,
+      "arousal": 3.4,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "She can grow it from her womb, a family Provide lovin' overlooked and unappreciated, you see (yeah) You can reciprocate I got delicious taste",
+      "valence": 3.82,
+      "arousal": 3.63,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Provide lovin' overlooked and unappreciated, you see (yeah) You can reciprocate I got delicious taste You need a woman's touch in your place",
+      "valence": 3.5,
+      "arousal": 3.55,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "You can reciprocate I got delicious taste You need a woman's touch in your place Just protect her and keep her safe",
+      "valence": 3.61,
+      "arousal": 3.63,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I got delicious taste You need a woman's touch in your place Just protect her and keep her safe Baby, worship my hips and waist",
+      "valence": 3.63,
+      "arousal": 3.74,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "You need a woman's touch in your place Just protect her and keep her safe Baby, worship my hips and waist So feminine with grace",
+      "valence": 3.5,
+      "arousal": 3.59,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Just protect her and keep her safe Baby, worship my hips and waist So feminine with grace I touch your soul when you hear me say",
+      "valence": 3.81,
+      "arousal": 3.76,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Baby, worship my hips and waist So feminine with grace I touch your soul when you hear me say \"Boy, let me be your woman\"",
+      "valence": 3.88,
+      "arousal": 3.77,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "So feminine with grace I touch your soul when you hear me say \"Boy, let me be your woman\" Let me be your woman",
+      "valence": 3.64,
+      "arousal": 3.52,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I touch your soul when you hear me say \"Boy, let me be your woman\" Let me be your woman Woman, woman, woman (ayy)",
+      "valence": 3.34,
+      "arousal": 3.35,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "\"Boy, let me be your woman\" Let me be your woman Woman, woman, woman (ayy) I can be your woman",
+      "valence": 3.24,
+      "arousal": 3.23,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Let me be your woman Woman, woman, woman (ayy) I can be your woman Woman, woman, woman (ayy)",
+      "valence": 3.2,
+      "arousal": 2.95,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Woman, woman, woman (ayy) I can be your woman Woman, woman, woman (ayy) Let me be your woman",
+      "valence": 3.22,
+      "arousal": 3.03,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I can be your woman Woman, woman, woman (ayy) Let me be your woman Woman, woman, woman (ayy)",
+      "valence": 3.21,
+      "arousal": 3.03,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Woman, woman, woman (ayy) Let me be your woman Woman, woman, woman (ayy) I can be your woman",
+      "valence": 3.22,
+      "arousal": 3.01,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Let me be your woman Woman, woman, woman (ayy) I can be your woman Woman, woman, woman (ayy)",
+      "valence": 3.2,
+      "arousal": 2.95,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Woman, woman, woman (ayy) I can be your woman Woman, woman, woman (ayy) I can be your lady, I'm a woman",
+      "valence": 3.27,
+      "arousal": 3.09,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I can be your woman Woman, woman, woman (ayy) I can be your lady, I'm a woman I'm a motherfucker but they got a problem",
+      "valence": 2.52,
+      "arousal": 3.6,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Woman, woman, woman (ayy) I can be your lady, I'm a woman I'm a motherfucker but they got a problem Put some babies in your life and take away the drama",
+      "valence": 2.48,
+      "arousal": 3.66,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I can be your lady, I'm a woman I'm a motherfucker but they got a problem Put some babies in your life and take away the drama Put that paper in a picture like a diorama",
+      "valence": 2.44,
+      "arousal": 3.68,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I'm a motherfucker but they got a problem Put some babies in your life and take away the drama Put that paper in a picture like a diorama Gotta face a lot people that are opposite",
+      "valence": 2.05,
+      "arousal": 3.87,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Put some babies in your life and take away the drama Put that paper in a picture like a diorama Gotta face a lot people that are opposite 'Cause the world told me, \"We ain't got that common sense\"",
+      "valence": 2.81,
+      "arousal": 3.31,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Put that paper in a picture like a diorama Gotta face a lot people that are opposite 'Cause the world told me, \"We ain't got that common sense\" Gotta prove it to myself that I'm on top of shit",
+      "valence": 2.58,
+      "arousal": 3.6,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Gotta face a lot people that are opposite 'Cause the world told me, \"We ain't got that common sense\" Gotta prove it to myself that I'm on top of shit And you will never know a God without a Goddess",
+      "valence": 2.81,
+      "arousal": 3.54,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "'Cause the world told me, \"We ain't got that common sense\" Gotta prove it to myself that I'm on top of shit And you will never know a God without a Goddess As honest as fuckin' honest get",
+      "valence": 2.72,
+      "arousal": 3.65,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Gotta prove it to myself that I'm on top of shit And you will never know a God without a Goddess As honest as fuckin' honest get And I could be on everything",
+      "valence": 2.88,
+      "arousal": 3.78,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "And you will never know a God without a Goddess As honest as fuckin' honest get And I could be on everything I mean I could be the leader, head of all the states",
+      "valence": 3.04,
+      "arousal": 3.55,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "As honest as fuckin' honest get And I could be on everything I mean I could be the leader, head of all the states I could smile and jiggle it 'til his pockets empty",
+      "valence": 3.08,
+      "arousal": 3.58,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "And I could be on everything I mean I could be the leader, head of all the states I could smile and jiggle it 'til his pockets empty I could be the CEO, just look at Robyn Fenty",
+      "valence": 3.24,
+      "arousal": 3.39,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "I mean I could be the leader, head of all the states I could smile and jiggle it 'til his pockets empty I could be the CEO, just look at Robyn Fenty And I'ma be there for you 'cause you on my team, girl",
+      "valence": 3.47,
+      "arousal": 3.58,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I could smile and jiggle it 'til his pockets empty I could be the CEO, just look at Robyn Fenty And I'ma be there for you 'cause you on my team, girl Don't ever think you ain't hella these niggas dream girl",
+      "valence": 3.43,
+      "arousal": 3.55,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I could be the CEO, just look at Robyn Fenty And I'ma be there for you 'cause you on my team, girl Don't ever think you ain't hella these niggas dream girl They wanna pit us against each other when we succeedin' for no reasons",
+      "valence": 3.27,
+      "arousal": 3.47,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "And I'ma be there for you 'cause you on my team, girl Don't ever think you ain't hella these niggas dream girl They wanna pit us against each other when we succeedin' for no reasons They wanna see us end up like we Regina on Mean Girls",
+      "valence": 3.35,
+      "arousal": 3.57,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Don't ever think you ain't hella these niggas dream girl They wanna pit us against each other when we succeedin' for no reasons They wanna see us end up like we Regina on Mean Girls Princess or queen, tomboy or king (yeah)",
+      "valence": 2.86,
+      "arousal": 3.39,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "They wanna pit us against each other when we succeedin' for no reasons They wanna see us end up like we Regina on Mean Girls Princess or queen, tomboy or king (yeah) You've heard a lot, you've never seen (nah)",
+      "valence": 2.8,
+      "arousal": 3.28,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "They wanna see us end up like we Regina on Mean Girls Princess or queen, tomboy or king (yeah) You've heard a lot, you've never seen (nah) Mother Earth, Mother Mary rise to the top",
+      "valence": 3.06,
+      "arousal": 3.4,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Princess or queen, tomboy or king (yeah) You've heard a lot, you've never seen (nah) Mother Earth, Mother Mary rise to the top Divine feminine, I'm feminine (why?)",
+      "valence": 3.07,
+      "arousal": 3.34,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "You've heard a lot, you've never seen (nah) Mother Earth, Mother Mary rise to the top Divine feminine, I'm feminine (why?) Woman (daddy)",
+      "valence": 3.06,
+      "arousal": 3.34,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Mother Earth, Mother Mary rise to the top Divine feminine, I'm feminine (why?) Woman (daddy) Let me be your woman (let me be your)",
+      "valence": 3.26,
+      "arousal": 3.34,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Divine feminine, I'm feminine (why?) Woman (daddy) Let me be your woman (let me be your) Woman, woman, woman (I need to be your) (daddy)",
+      "valence": 3.09,
+      "arousal": 3.31,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Woman (daddy) Let me be your woman (let me be your) Woman, woman, woman (I need to be your) (daddy) I can be your woman (I know)",
+      "valence": 3.22,
+      "arousal": 3.19,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Let me be your woman (let me be your) Woman, woman, woman (I need to be your) (daddy) I can be your woman (I know) Woman, woman, woman (daddy)",
+      "valence": 3.17,
+      "arousal": 3.09,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Woman, woman, woman (I need to be your) (daddy) I can be your woman (I know) Woman, woman, woman (daddy) Let me be your woman (I know)",
+      "valence": 3.19,
+      "arousal": 3.12,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "I can be your woman (I know) Woman, woman, woman (daddy) Let me be your woman (I know) Woman, woman, woman (daddy)",
+      "valence": 3.18,
+      "arousal": 2.94,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Woman, woman, woman (daddy) Let me be your woman (I know) Woman, woman, woman (daddy) I can be your woman (I know)",
+      "valence": 3.17,
+      "arousal": 2.96,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Let me be your woman (I know) Woman, woman, woman (daddy) I can be your woman (I know) Woman, woman, woman",
+      "valence": 3.21,
+      "arousal": 2.92,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Woman, woman, woman (daddy) I can be your woman (I know) Woman, woman, woman Mm-mm",
+      "valence": 3.22,
+      "arousal": 3.06,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "I can be your woman (I know) Woman, woman, woman Mm-mm (Hey, woman) Mm-mm, mm",
+      "valence": 3.32,
+      "arousal": 3.2,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Woman, woman, woman Mm-mm (Hey, woman) Mm-mm, mm (Hey, woman)",
+      "valence": 3.27,
+      "arousal": 3.31,
+      "dominance": 3.06
+    }
+  ]
+}

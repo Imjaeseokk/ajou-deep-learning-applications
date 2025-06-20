@@ -1,0 +1,724 @@
+{
+  "artist": "Drake Featuring Future",
+  "overall_vad": {
+    "valence": 2.87,
+    "arousal": 3.45,
+    "dominance": 3.26
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Yeah, yeah Yeah, yeah Jheeze, yeah Right, look, look",
+      "valence": 3.22,
+      "arousal": 3.19,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Yeah, yeah Jheeze, yeah Right, look, look Tell me how you really feel",
+      "valence": 3.11,
+      "arousal": 3.3,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Jheeze, yeah Right, look, look Tell me how you really feel Tell me how you really feel",
+      "valence": 3.0,
+      "arousal": 3.33,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Right, look, look Tell me how you really feel Tell me how you really feel I would ask you what's the deal",
+      "valence": 3.02,
+      "arousal": 3.24,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Tell me how you really feel Tell me how you really feel I would ask you what's the deal But y'all don't even got a deal",
+      "valence": 2.84,
+      "arousal": 3.34,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Tell me how you really feel I would ask you what's the deal But y'all don't even got a deal Most - with a deal",
+      "valence": 2.76,
+      "arousal": 3.27,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I would ask you what's the deal But y'all don't even got a deal Most - with a deal Couldn't make a greatest hits",
+      "valence": 2.6,
+      "arousal": 3.13,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "But y'all don't even got a deal Most - with a deal Couldn't make a greatest hits Y'all a whole lot of things",
+      "valence": 2.46,
+      "arousal": 3.06,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Most - with a deal Couldn't make a greatest hits Y'all a whole lot of things But you still ain't this",
+      "valence": 2.61,
+      "arousal": 3.07,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Couldn't make a greatest hits Y'all a whole lot of things But you still ain't this I don't know no one",
+      "valence": 2.45,
+      "arousal": 3.16,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Y'all a whole lot of things But you still ain't this I don't know no one That could tell me what to do",
+      "valence": 2.47,
+      "arousal": 3.32,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "But you still ain't this I don't know no one That could tell me what to do Heard you never claimed the hood",
+      "valence": 2.46,
+      "arousal": 3.28,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I don't know no one That could tell me what to do Heard you never claimed the hood Heard the hood claimed you",
+      "valence": 2.62,
+      "arousal": 3.3,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "That could tell me what to do Heard you never claimed the hood Heard the hood claimed you That can't sit well",
+      "valence": 2.74,
+      "arousal": 3.14,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Heard you never claimed the hood Heard the hood claimed you That can't sit well Oh well, ship sailed",
+      "valence": 2.73,
+      "arousal": 2.96,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Heard the hood claimed you That can't sit well Oh well, ship sailed Still mine, all mine",
+      "valence": 2.92,
+      "arousal": 3.06,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "That can't sit well Oh well, ship sailed Still mine, all mine Cosign, cosign",
+      "valence": 2.97,
+      "arousal": 2.94,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Oh well, ship sailed Still mine, all mine Cosign, cosign I pull up in yachts so big",
+      "valence": 3.09,
+      "arousal": 3.1,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Still mine, all mine Cosign, cosign I pull up in yachts so big That they try to hit me with boat fines",
+      "valence": 2.92,
+      "arousal": 3.26,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Cosign, cosign I pull up in yachts so big That they try to hit me with boat fines Hype Williams, Big Pimpin', yeah",
+      "valence": 2.77,
+      "arousal": 3.46,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I pull up in yachts so big That they try to hit me with boat fines Hype Williams, Big Pimpin', yeah Just like the old times",
+      "valence": 2.9,
+      "arousal": 3.43,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "That they try to hit me with boat fines Hype Williams, Big Pimpin', yeah Just like the old times Same - from the old days",
+      "valence": 2.75,
+      "arousal": 3.15,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Hype Williams, Big Pimpin', yeah Just like the old times Same - from the old days Lotta sides on the same side",
+      "valence": 3.17,
+      "arousal": 3.04,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Just like the old times Same - from the old days Lotta sides on the same side OVO, we a gold mine",
+      "valence": 3.4,
+      "arousal": 3.35,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Same - from the old days Lotta sides on the same side OVO, we a gold mine But I'm goin' gold, no time",
+      "valence": 3.32,
+      "arousal": 3.44,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Lotta sides on the same side OVO, we a gold mine But I'm goin' gold, no time Doing plat, plat only",
+      "valence": 3.33,
+      "arousal": 3.44,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "OVO, we a gold mine But I'm goin' gold, no time Doing plat, plat only Boys better back off me",
+      "valence": 3.18,
+      "arousal": 3.48,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "But I'm goin' gold, no time Doing plat, plat only Boys better back off me Hall of fame, hall of fame",
+      "valence": 3.13,
+      "arousal": 3.28,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Doing plat, plat only Boys better back off me Hall of fame, hall of fame Like I'm shirt off, like I'm shirt off",
+      "valence": 2.96,
+      "arousal": 3.11,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Boys better back off me Hall of fame, hall of fame Like I'm shirt off, like I'm shirt off Like I'm shirt off shorty",
+      "valence": 2.77,
+      "arousal": 3.34,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Hall of fame, hall of fame Like I'm shirt off, like I'm shirt off Like I'm shirt off shorty Whole city goin' crazy",
+      "valence": 3.0,
+      "arousal": 3.46,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Like I'm shirt off, like I'm shirt off Like I'm shirt off shorty Whole city goin' crazy Whole city goin' crazy",
+      "valence": 2.86,
+      "arousal": 3.5,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Like I'm shirt off shorty Whole city goin' crazy Whole city goin' crazy Top five, no debatin'",
+      "valence": 2.7,
+      "arousal": 3.05,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Whole city goin' crazy Whole city goin' crazy Top five, no debatin' Top five, top five, top five",
+      "valence": 2.87,
+      "arousal": 3.12,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Whole city goin' crazy Top five, no debatin' Top five, top five, top five And the whole city rate me",
+      "valence": 3.11,
+      "arousal": 3.23,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Top five, no debatin' Top five, top five, top five And the whole city rate me And I'm back inside The Matrix",
+      "valence": 3.11,
+      "arousal": 3.23,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Top five, top five, top five And the whole city rate me And I'm back inside The Matrix And I said that we would make it",
+      "valence": 3.34,
+      "arousal": 3.44,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "And the whole city rate me And I'm back inside The Matrix And I said that we would make it Aim squad with some traitors",
+      "valence": 2.78,
+      "arousal": 3.32,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "And I'm back inside The Matrix And I said that we would make it Aim squad with some traitors Knew my - from the basement",
+      "valence": 2.85,
+      "arousal": 3.31,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "And I said that we would make it Aim squad with some traitors Knew my - from the basement This ain't no met-along-the-way -",
+      "valence": 2.43,
+      "arousal": 3.33,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Aim squad with some traitors Knew my - from the basement This ain't no met-along-the-way - We done really put some days in",
+      "valence": 2.45,
+      "arousal": 3.38,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Knew my - from the basement This ain't no met-along-the-way - We done really put some days in Hey, why you so excited? You know what I'm sayin'?",
+      "valence": 3.03,
+      "arousal": 3.66,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "This ain't no met-along-the-way - We done really put some days in Hey, why you so excited? You know what I'm sayin'? What happened?",
+      "valence": 2.86,
+      "arousal": 3.58,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "We done really put some days in Hey, why you so excited? You know what I'm sayin'? What happened? Did you win the Grammy? God damn",
+      "valence": 2.75,
+      "arousal": 4.22,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Hey, why you so excited? You know what I'm sayin'? What happened? Did you win the Grammy? God damn You actin' like you - won a trophy and -",
+      "valence": 2.79,
+      "arousal": 4.19,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "What happened? Did you win the Grammy? God damn You actin' like you - won a trophy and - This - turnt the - up",
+      "valence": 2.74,
+      "arousal": 4.01,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Did you win the Grammy? God damn You actin' like you - won a trophy and - This - turnt the - up They gon' think I won a Grammy",
+      "valence": 2.92,
+      "arousal": 4.03,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "You actin' like you - won a trophy and - This - turnt the - up They gon' think I won a Grammy They gon' think I won a Grammy",
+      "valence": 3.52,
+      "arousal": 3.59,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "This - turnt the - up They gon' think I won a Grammy They gon' think I won a Grammy Swervin' out the Panoramic",
+      "valence": 3.27,
+      "arousal": 3.43,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "They gon' think I won a Grammy They gon' think I won a Grammy Swervin' out the Panoramic I'm hangin' out, they can't stand me",
+      "valence": 2.65,
+      "arousal": 3.57,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "They gon' think I won a Grammy Swervin' out the Panoramic I'm hangin' out, they can't stand me They gon' think I won a Grammy",
+      "valence": 2.9,
+      "arousal": 3.59,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Swervin' out the Panoramic I'm hangin' out, they can't stand me They gon' think I won a Grammy They gon' think I won a Grammy",
+      "valence": 2.93,
+      "arousal": 3.6,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "I'm hangin' out, they can't stand me They gon' think I won a Grammy They gon' think I won a Grammy They gon' think I won a Grammy",
+      "valence": 2.82,
+      "arousal": 3.55,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "They gon' think I won a Grammy They gon' think I won a Grammy They gon' think I won a Grammy They gon' think I won a Grammy",
+      "valence": 3.36,
+      "arousal": 3.43,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "They gon' think I won a Grammy They gon' think I won a Grammy They gon' think I won a Grammy I'm showin' out, they can't stand me",
+      "valence": 2.76,
+      "arousal": 3.62,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "They gon' think I won a Grammy They gon' think I won a Grammy I'm showin' out, they can't stand me I'm showin' out, they can't stand me",
+      "valence": 2.81,
+      "arousal": 3.63,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "They gon' think I won a Grammy I'm showin' out, they can't stand me I'm showin' out, they can't stand me I'm swervin' off, they can't stand me",
+      "valence": 2.58,
+      "arousal": 3.69,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "I'm showin' out, they can't stand me I'm showin' out, they can't stand me I'm swervin' off, they can't stand me I'm rr off, can't stand me",
+      "valence": 2.34,
+      "arousal": 3.75,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "I'm showin' out, they can't stand me I'm swervin' off, they can't stand me I'm rr off, can't stand me They gon' think I won a Grammy",
+      "valence": 2.61,
+      "arousal": 3.79,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "I'm swervin' off, they can't stand me I'm rr off, can't stand me They gon' think I won a Grammy They gon' think I won a Grammy",
+      "valence": 2.79,
+      "arousal": 3.9,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "I'm rr off, can't stand me They gon' think I won a Grammy They gon' think I won a Grammy They gon' think I won a Grammy",
+      "valence": 2.79,
+      "arousal": 3.82,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "They gon' think I won a Grammy They gon' think I won a Grammy They gon' think I won a Grammy They gon' think I won a Grammy",
+      "valence": 3.36,
+      "arousal": 3.43,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "They gon' think I won a Grammy They gon' think I won a Grammy They gon' think I won a Grammy Gonna peel off like a bandit",
+      "valence": 2.88,
+      "arousal": 3.58,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "They gon' think I won a Grammy They gon' think I won a Grammy Gonna peel off like a bandit I'm noddin' off on a Xanax",
+      "valence": 2.86,
+      "arousal": 3.6,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "They gon' think I won a Grammy Gonna peel off like a bandit I'm noddin' off on a Xanax Get pissed off, start airin' it",
+      "valence": 2.35,
+      "arousal": 3.96,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Gonna peel off like a bandit I'm noddin' off on a Xanax Get pissed off, start airin' it Get a head start, ain't friendly",
+      "valence": 1.99,
+      "arousal": 3.81,
+      "dominance": 3.81
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "I'm noddin' off on a Xanax Get pissed off, start airin' it Get a head start, ain't friendly I stand out, I don't blend in",
+      "valence": 2.1,
+      "arousal": 3.91,
+      "dominance": 3.77
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Get pissed off, start airin' it Get a head start, ain't friendly I stand out, I don't blend in When I say that I meant that",
+      "valence": 2.14,
+      "arousal": 3.87,
+      "dominance": 3.85
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Get a head start, ain't friendly I stand out, I don't blend in When I say that I meant that I don't want to talk to you has-beens",
+      "valence": 2.36,
+      "arousal": 3.33,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "I stand out, I don't blend in When I say that I meant that I don't want to talk to you has-beens I don't want features from nan them",
+      "valence": 2.4,
+      "arousal": 3.29,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "When I say that I meant that I don't want to talk to you has-beens I don't want features from nan them I don't want features or nothin'",
+      "valence": 2.27,
+      "arousal": 3.36,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "I don't want to talk to you has-beens I don't want features from nan them I don't want features or nothin' You can't even get on my guest list",
+      "valence": 2.23,
+      "arousal": 3.41,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "I don't want features from nan them I don't want features or nothin' You can't even get on my guest list They want me to go to the Met Gala",
+      "valence": 2.55,
+      "arousal": 3.39,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "I don't want features or nothin' You can't even get on my guest list They want me to go to the Met Gala I want a Percocet and a gallon",
+      "valence": 2.5,
+      "arousal": 3.37,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "You can't even get on my guest list They want me to go to the Met Gala I want a Percocet and a gallon That Actavis Hi-Tech it don't matter",
+      "valence": 2.68,
+      "arousal": 3.46,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "They want me to go to the Met Gala I want a Percocet and a gallon That Actavis Hi-Tech it don't matter We sittin' right on the courtside",
+      "valence": 3.06,
+      "arousal": 3.38,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "I want a Percocet and a gallon That Actavis Hi-Tech it don't matter We sittin' right on the courtside I know the players on both side",
+      "valence": 3.04,
+      "arousal": 3.35,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "That Actavis Hi-Tech it don't matter We sittin' right on the courtside I know the players on both side I'm cashin' out, - a cosign",
+      "valence": 3.3,
+      "arousal": 3.41,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "We sittin' right on the courtside I know the players on both side I'm cashin' out, - a cosign I wear the chain like a bowtie",
+      "valence": 3.24,
+      "arousal": 3.17,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "I know the players on both side I'm cashin' out, - a cosign I wear the chain like a bowtie I wear the ring like a fo'-five",
+      "valence": 3.24,
+      "arousal": 3.25,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "I'm cashin' out, - a cosign I wear the chain like a bowtie I wear the ring like a fo'-five Keep a fo'-five for the po' guys",
+      "valence": 3.34,
+      "arousal": 3.38,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "I wear the chain like a bowtie I wear the ring like a fo'-five Keep a fo'-five for the po' guys Black tints, low profile",
+      "valence": 3.23,
+      "arousal": 3.02,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "I wear the ring like a fo'-five Keep a fo'-five for the po' guys Black tints, low profile Celebratin' everyday",
+      "valence": 3.34,
+      "arousal": 3.12,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "Keep a fo'-five for the po' guys Black tints, low profile Celebratin' everyday 'Cause I'm really really fresh out the coke house",
+      "valence": 3.31,
+      "arousal": 3.3,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "Black tints, low profile Celebratin' everyday 'Cause I'm really really fresh out the coke house Countin' up every single day",
+      "valence": 3.31,
+      "arousal": 3.25,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 86,
+      "lyrics_text": "Celebratin' everyday 'Cause I'm really really fresh out the coke house Countin' up every single day 'Bout to bring a whole 'nother whip out",
+      "valence": 3.28,
+      "arousal": 3.47,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 87,
+      "lyrics_text": "'Cause I'm really really fresh out the coke house Countin' up every single day 'Bout to bring a whole 'nother whip out They gon' think I won a Grammy",
+      "valence": 3.25,
+      "arousal": 3.58,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 88,
+      "lyrics_text": "Countin' up every single day 'Bout to bring a whole 'nother whip out They gon' think I won a Grammy They gon' think I won a Grammy",
+      "valence": 3.27,
+      "arousal": 3.56,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 89,
+      "lyrics_text": "'Bout to bring a whole 'nother whip out They gon' think I won a Grammy They gon' think I won a Grammy Swervin' out the Panoramic",
+      "valence": 3.27,
+      "arousal": 3.51,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 90,
+      "lyrics_text": "They gon' think I won a Grammy They gon' think I won a Grammy Swervin' out the Panoramic I'm hangin' out, they can't stand me",
+      "valence": 2.65,
+      "arousal": 3.57,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 91,
+      "lyrics_text": "They gon' think I won a Grammy Swervin' out the Panoramic I'm hangin' out, they can't stand me They gon' think I won a Grammy",
+      "valence": 2.9,
+      "arousal": 3.59,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 92,
+      "lyrics_text": "Swervin' out the Panoramic I'm hangin' out, they can't stand me They gon' think I won a Grammy They gon' think I won a Grammy",
+      "valence": 2.93,
+      "arousal": 3.6,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 93,
+      "lyrics_text": "I'm hangin' out, they can't stand me They gon' think I won a Grammy They gon' think I won a Grammy They gon' think I won a Grammy",
+      "valence": 2.82,
+      "arousal": 3.55,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 94,
+      "lyrics_text": "They gon' think I won a Grammy They gon' think I won a Grammy They gon' think I won a Grammy They gon' think I won a Grammy",
+      "valence": 3.36,
+      "arousal": 3.43,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 95,
+      "lyrics_text": "They gon' think I won a Grammy They gon' think I won a Grammy They gon' think I won a Grammy I'm showin' out, they can't stand me",
+      "valence": 2.76,
+      "arousal": 3.62,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 96,
+      "lyrics_text": "They gon' think I won a Grammy They gon' think I won a Grammy I'm showin' out, they can't stand me I'm showin' out, they can't stand me",
+      "valence": 2.81,
+      "arousal": 3.63,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 97,
+      "lyrics_text": "They gon' think I won a Grammy I'm showin' out, they can't stand me I'm showin' out, they can't stand me I'm swervin' off, they can't stand me",
+      "valence": 2.58,
+      "arousal": 3.69,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 98,
+      "lyrics_text": "I'm showin' out, they can't stand me I'm showin' out, they can't stand me I'm swervin' off, they can't stand me I'm rr off, can't stand me",
+      "valence": 2.34,
+      "arousal": 3.75,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 99,
+      "lyrics_text": "I'm showin' out, they can't stand me I'm swervin' off, they can't stand me I'm rr off, can't stand me They gon' think I won a Grammy",
+      "valence": 2.61,
+      "arousal": 3.79,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 100,
+      "lyrics_text": "I'm swervin' off, they can't stand me I'm rr off, can't stand me They gon' think I won a Grammy They gon' think I won a Grammy",
+      "valence": 2.79,
+      "arousal": 3.9,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 101,
+      "lyrics_text": "I'm rr off, can't stand me They gon' think I won a Grammy They gon' think I won a Grammy They gon' think I won a Grammy",
+      "valence": 2.79,
+      "arousal": 3.82,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 102,
+      "lyrics_text": "They gon' think I won a Grammy They gon' think I won a Grammy They gon' think I won a Grammy They gon' think I won a Grammy",
+      "valence": 3.36,
+      "arousal": 3.43,
+      "dominance": 3.35
+    }
+  ]
+}

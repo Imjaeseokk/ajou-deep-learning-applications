@@ -1,0 +1,157 @@
+{
+  "artist": "Drake",
+  "overall_vad": {
+    "valence": 2.88,
+    "arousal": 3.5,
+    "dominance": 3.25
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Don't think twice We're still in formation Testing the current Already I'm sailing, it's all so sudden",
+      "valence": 2.98,
+      "arousal": 3.37,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "We're still in formation Testing the current Already I'm sailing, it's all so sudden Catching a flight",
+      "valence": 3.12,
+      "arousal": 3.34,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Testing the current Already I'm sailing, it's all so sudden Catching a flight You think we're moving too fast, I'm",
+      "valence": 2.91,
+      "arousal": 3.43,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Already I'm sailing, it's all so sudden Catching a flight You think we're moving too fast, I'm Intoxicated",
+      "valence": 2.74,
+      "arousal": 3.56,
+      "dominance": 2.65
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Catching a flight You think we're moving too fast, I'm Intoxicated We can move in slow motion if that's what you want, babe",
+      "valence": 2.85,
+      "arousal": 3.5,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "You think we're moving too fast, I'm Intoxicated We can move in slow motion if that's what you want, babe I don't want to come on too strong",
+      "valence": 2.56,
+      "arousal": 3.62,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Intoxicated We can move in slow motion if that's what you want, babe I don't want to come on too strong But I'm moving to your room now",
+      "valence": 2.76,
+      "arousal": 3.35,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "We can move in slow motion if that's what you want, babe I don't want to come on too strong But I'm moving to your room now With every move, with every move you make, babe",
+      "valence": 3.15,
+      "arousal": 3.57,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I don't want to come on too strong But I'm moving to your room now With every move, with every move you make, babe I'm tumbling",
+      "valence": 2.9,
+      "arousal": 3.6,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "But I'm moving to your room now With every move, with every move you make, babe I'm tumbling In your own time",
+      "valence": 3.28,
+      "arousal": 3.52,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "With every move, with every move you make, babe I'm tumbling In your own time Would you show me something please, babe?",
+      "valence": 3.22,
+      "arousal": 3.63,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I'm tumbling In your own time Would you show me something please, babe? Don't wanna wait in vain",
+      "valence": 2.87,
+      "arousal": 3.33,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "In your own time Would you show me something please, babe? Don't wanna wait in vain You're the missing piece I, I been longing for",
+      "valence": 2.92,
+      "arousal": 3.47,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Would you show me something please, babe? Don't wanna wait in vain You're the missing piece I, I been longing for Don't deny, oh no",
+      "valence": 2.85,
+      "arousal": 3.62,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Don't wanna wait in vain You're the missing piece I, I been longing for Don't deny, oh no The temperature's rising inside",
+      "valence": 2.76,
+      "arousal": 3.64,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "You're the missing piece I, I been longing for Don't deny, oh no The temperature's rising inside Them cracks'll show you",
+      "valence": 2.78,
+      "arousal": 3.55,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Don't deny, oh no The temperature's rising inside Them cracks'll show you Show me all your colors, I may not deserve you",
+      "valence": 2.5,
+      "arousal": 3.61,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "The temperature's rising inside Them cracks'll show you Show me all your colors, I may not deserve you I don't want to come on too strong",
+      "valence": 2.82,
+      "arousal": 3.38,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Them cracks'll show you Show me all your colors, I may not deserve you I don't want to come on too strong But I'm moving to your room now",
+      "valence": 2.69,
+      "arousal": 3.32,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Show me all your colors, I may not deserve you I don't want to come on too strong But I'm moving to your room now With every move, with every move you make, babe",
+      "valence": 2.96,
+      "arousal": 3.55,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I don't want to come on too strong But I'm moving to your room now With every move, with every move you make, babe I'm tumbling",
+      "valence": 2.9,
+      "arousal": 3.6,
+      "dominance": 3.67
+    }
+  ]
+}

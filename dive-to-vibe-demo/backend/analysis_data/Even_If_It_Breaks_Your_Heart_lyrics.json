@@ -1,0 +1,248 @@
+{
+  "artist": "Eli Young Band",
+  "overall_vad": {
+    "valence": 3.28,
+    "arousal": 3.36,
+    "dominance": 3.19
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Way back on the radio dial A fire got lit inside a bright eyed child Every note just wrapped around a soul From steel guitars to Memphis",
+      "valence": 3.18,
+      "arousal": 3.29,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "A fire got lit inside a bright eyed child Every note just wrapped around a soul From steel guitars to Memphis On the way to rock and roll",
+      "valence": 3.26,
+      "arousal": 3.35,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Every note just wrapped around a soul From steel guitars to Memphis On the way to rock and roll Oh, I can hear em' playing.",
+      "valence": 3.39,
+      "arousal": 3.34,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "From steel guitars to Memphis On the way to rock and roll Oh, I can hear em' playing. I can hear the ringing on a beat up old guitar",
+      "valence": 3.24,
+      "arousal": 3.24,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "On the way to rock and roll Oh, I can hear em' playing. I can hear the ringing on a beat up old guitar Oh, I can hear em singing",
+      "valence": 3.35,
+      "arousal": 3.38,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Oh, I can hear em' playing. I can hear the ringing on a beat up old guitar Oh, I can hear em singing Keep on dreaming",
+      "valence": 3.27,
+      "arousal": 3.35,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I can hear the ringing on a beat up old guitar Oh, I can hear em singing Keep on dreaming Even if it breaks your heart",
+      "valence": 3.15,
+      "arousal": 3.46,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Oh, I can hear em singing Keep on dreaming Even if it breaks your heart Down town is where i used to wonder",
+      "valence": 3.26,
+      "arousal": 3.45,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Keep on dreaming Even if it breaks your heart Down town is where i used to wonder Old enough to get there but to young to get inside",
+      "valence": 3.01,
+      "arousal": 3.37,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Even if it breaks your heart Down town is where i used to wonder Old enough to get there but to young to get inside So i would stand out on the sidewalk",
+      "valence": 2.79,
+      "arousal": 3.18,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Down town is where i used to wonder Old enough to get there but to young to get inside So i would stand out on the sidewalk Listen to the music playing every Friday night",
+      "valence": 3.24,
+      "arousal": 3.17,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Old enough to get there but to young to get inside So i would stand out on the sidewalk Listen to the music playing every Friday night Oh, I can hear em playing",
+      "valence": 3.33,
+      "arousal": 3.17,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "So i would stand out on the sidewalk Listen to the music playing every Friday night Oh, I can hear em playing I can hear the ringing of the beat of old guitar",
+      "valence": 3.43,
+      "arousal": 3.28,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Listen to the music playing every Friday night Oh, I can hear em playing I can hear the ringing of the beat of old guitar Oh, I can hear em singing.",
+      "valence": 3.52,
+      "arousal": 3.25,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Oh, I can hear em playing I can hear the ringing of the beat of old guitar Oh, I can hear em singing. Keep on dreaming",
+      "valence": 3.4,
+      "arousal": 3.35,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I can hear the ringing of the beat of old guitar Oh, I can hear em singing. Keep on dreaming Even if it breaks your heart",
+      "valence": 3.43,
+      "arousal": 3.43,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Oh, I can hear em singing. Keep on dreaming Even if it breaks your heart Some dreams stay with you forever",
+      "valence": 3.43,
+      "arousal": 3.45,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Keep on dreaming Even if it breaks your heart Some dreams stay with you forever Drag you around and bring you back to where you were",
+      "valence": 3.3,
+      "arousal": 3.39,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Even if it breaks your heart Some dreams stay with you forever Drag you around and bring you back to where you were Some dreams keep on getting better",
+      "valence": 3.35,
+      "arousal": 3.34,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Some dreams stay with you forever Drag you around and bring you back to where you were Some dreams keep on getting better You gotta keep believing if you wanna know for sure",
+      "valence": 3.21,
+      "arousal": 3.29,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Drag you around and bring you back to where you were Some dreams keep on getting better You gotta keep believing if you wanna know for sure Oh, I can hear em playing",
+      "valence": 3.24,
+      "arousal": 3.42,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Some dreams keep on getting better You gotta keep believing if you wanna know for sure Oh, I can hear em playing I can hear the ringing of the beat of old guitar",
+      "valence": 3.25,
+      "arousal": 3.32,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "You gotta keep believing if you wanna know for sure Oh, I can hear em playing I can hear the ringing of the beat of old guitar Oh, I can hear em singing",
+      "valence": 3.26,
+      "arousal": 3.3,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Oh, I can hear em playing I can hear the ringing of the beat of old guitar Oh, I can hear em singing Keep on dreaming",
+      "valence": 3.38,
+      "arousal": 3.34,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I can hear the ringing of the beat of old guitar Oh, I can hear em singing Keep on dreaming Even if it breaks your heart",
+      "valence": 3.35,
+      "arousal": 3.41,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Oh, I can hear em singing Keep on dreaming Even if it breaks your heart Oh, I can hear em playing",
+      "valence": 3.45,
+      "arousal": 3.42,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Keep on dreaming Even if it breaks your heart Oh, I can hear em playing I can hear the ringing of the beat of old guitar",
+      "valence": 3.33,
+      "arousal": 3.37,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Even if it breaks your heart Oh, I can hear em playing I can hear the ringing of the beat of old guitar Oh, I can hear em singing",
+      "valence": 3.36,
+      "arousal": 3.38,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Oh, I can hear em playing I can hear the ringing of the beat of old guitar Oh, I can hear em singing Keep on dreaming",
+      "valence": 3.38,
+      "arousal": 3.34,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I can hear the ringing of the beat of old guitar Oh, I can hear em singing Keep on dreaming Even if it breaks your heart",
+      "valence": 3.35,
+      "arousal": 3.41,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Oh, I can hear em singing Keep on dreaming Even if it breaks your heart Keep on dreaming",
+      "valence": 3.35,
+      "arousal": 3.46,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Keep on dreaming Even if it breaks your heart Keep on dreaming Even if it breaks . your heart.",
+      "valence": 3.09,
+      "arousal": 3.42,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Even if it breaks your heart Keep on dreaming Even if it breaks . your heart. Ohhh, Ohhh Keep on dreaming",
+      "valence": 3.09,
+      "arousal": 3.46,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Keep on dreaming Even if it breaks . your heart. Ohhh, Ohhh Keep on dreaming Ohhh, ohhh, Don't let em break your heart",
+      "valence": 3.09,
+      "arousal": 3.49,
+      "dominance": 3.03
+    }
+  ]
+}

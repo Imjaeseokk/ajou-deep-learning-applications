@@ -1,0 +1,206 @@
+{
+  "artist": "XXXTENTACION",
+  "overall_vad": {
+    "valence": 2.63,
+    "arousal": 3.68,
+    "dominance": 3.15
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Yeah Rest in peace to all the kids that lost their lives in the Parkland shooting This song is dedicated to you Okay, she keep cryin', she keep cryin' every single night",
+      "valence": 2.96,
+      "arousal": 3.61,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Rest in peace to all the kids that lost their lives in the Parkland shooting This song is dedicated to you Okay, she keep cryin', she keep cryin' every single night Day and night, on my mind, please don't kill the vibe",
+      "valence": 2.71,
+      "arousal": 3.63,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "This song is dedicated to you Okay, she keep cryin', she keep cryin' every single night Day and night, on my mind, please don't kill the vibe Oh no, I swear to God, I be in my mind",
+      "valence": 2.71,
+      "arousal": 3.7,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Okay, she keep cryin', she keep cryin' every single night Day and night, on my mind, please don't kill the vibe Oh no, I swear to God, I be in my mind Swear I wanna die, yeah, when you cross my-",
+      "valence": 2.05,
+      "arousal": 3.89,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Day and night, on my mind, please don't kill the vibe Oh no, I swear to God, I be in my mind Swear I wanna die, yeah, when you cross my- Said I wanna die, yuh",
+      "valence": 2.26,
+      "arousal": 3.76,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Oh no, I swear to God, I be in my mind Swear I wanna die, yeah, when you cross my- Said I wanna die, yuh No, I'm not alright, yuh",
+      "valence": 2.02,
+      "arousal": 3.78,
+      "dominance": 2.56
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Swear I wanna die, yeah, when you cross my- Said I wanna die, yuh No, I'm not alright, yuh I might start a riot",
+      "valence": 2.1,
+      "arousal": 3.68,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Said I wanna die, yuh No, I'm not alright, yuh I might start a riot I'm so fuckin' tired, yuh",
+      "valence": 2.01,
+      "arousal": 3.85,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "No, I'm not alright, yuh I might start a riot I'm so fuckin' tired, yuh So what's up? What you say?",
+      "valence": 2.23,
+      "arousal": 3.74,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I might start a riot I'm so fuckin' tired, yuh So what's up? What you say? Feelin' good, I'm feelin' great",
+      "valence": 2.91,
+      "arousal": 3.78,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I'm so fuckin' tired, yuh So what's up? What you say? Feelin' good, I'm feelin' great Tired of the fuckin' hate",
+      "valence": 2.69,
+      "arousal": 3.75,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "So what's up? What you say? Feelin' good, I'm feelin' great Tired of the fuckin' hate Stackin' cheese all on my plate",
+      "valence": 3.45,
+      "arousal": 3.57,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Feelin' good, I'm feelin' great Tired of the fuckin' hate Stackin' cheese all on my plate So outside of my misery, I think I'll find",
+      "valence": 3.52,
+      "arousal": 3.6,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Tired of the fuckin' hate Stackin' cheese all on my plate So outside of my misery, I think I'll find A way of envisioning a better life",
+      "valence": 2.65,
+      "arousal": 3.57,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Stackin' cheese all on my plate So outside of my misery, I think I'll find A way of envisioning a better life For the rest of us, the rest of us",
+      "valence": 3.19,
+      "arousal": 3.34,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "So outside of my misery, I think I'll find A way of envisioning a better life For the rest of us, the rest of us There's hope for the rest of us, the rest of us",
+      "valence": 3.45,
+      "arousal": 3.43,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "A way of envisioning a better life For the rest of us, the rest of us There's hope for the rest of us, the rest of us Okay, she keep cryin', she keep cryin' every single night",
+      "valence": 3.22,
+      "arousal": 3.42,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "For the rest of us, the rest of us There's hope for the rest of us, the rest of us Okay, she keep cryin', she keep cryin' every single night Day and night, on my mind, please don't kill the vibe",
+      "valence": 3.02,
+      "arousal": 3.51,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "There's hope for the rest of us, the rest of us Okay, she keep cryin', she keep cryin' every single night Day and night, on my mind, please don't kill the vibe Oh no, I swear to God, I be in my mind",
+      "valence": 2.71,
+      "arousal": 3.7,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Okay, she keep cryin', she keep cryin' every single night Day and night, on my mind, please don't kill the vibe Oh no, I swear to God, I be in my mind Swear I wanna die, yeah, when you cross my-",
+      "valence": 2.05,
+      "arousal": 3.89,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Day and night, on my mind, please don't kill the vibe Oh no, I swear to God, I be in my mind Swear I wanna die, yeah, when you cross my- Said I wanna die, yuh",
+      "valence": 2.26,
+      "arousal": 3.76,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Oh no, I swear to God, I be in my mind Swear I wanna die, yeah, when you cross my- Said I wanna die, yuh No, I'm not alright, yuh",
+      "valence": 2.02,
+      "arousal": 3.78,
+      "dominance": 2.56
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Swear I wanna die, yeah, when you cross my- Said I wanna die, yuh No, I'm not alright, yuh I might start a riot",
+      "valence": 2.1,
+      "arousal": 3.68,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Said I wanna die, yuh No, I'm not alright, yuh I might start a riot I'm so fuckin' tired, yuh",
+      "valence": 2.01,
+      "arousal": 3.85,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "No, I'm not alright, yuh I might start a riot I'm so fuckin' tired, yuh So what's up? What you say?",
+      "valence": 2.23,
+      "arousal": 3.74,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I might start a riot I'm so fuckin' tired, yuh So what's up? What you say? Feelin' good, I'm feelin' great",
+      "valence": 2.91,
+      "arousal": 3.78,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I'm so fuckin' tired, yuh So what's up? What you say? Feelin' good, I'm feelin' great Tired of the fuckin' hate",
+      "valence": 2.69,
+      "arousal": 3.75,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "So what's up? What you say? Feelin' good, I'm feelin' great Tired of the fuckin' hate Stackin' cheese all on my plate",
+      "valence": 3.45,
+      "arousal": 3.57,
+      "dominance": 3.41
+    }
+  ]
+}

@@ -1,0 +1,633 @@
+{
+  "artist": "Silento",
+  "overall_vad": {
+    "valence": 2.93,
+    "arousal": 3.41,
+    "dominance": 3.36
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "You already know who it is Silento, Silento Silento Go on and do it for me",
+      "valence": 3.01,
+      "arousal": 3.47,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Silento, Silento Silento Go on and do it for me Now watch me whip (kill it)",
+      "valence": 2.8,
+      "arousal": 3.63,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Silento Go on and do it for me Now watch me whip (kill it) Now watch me nae nae (okay)",
+      "valence": 2.74,
+      "arousal": 3.53,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Go on and do it for me Now watch me whip (kill it) Now watch me nae nae (okay) Now watch me whip, whip",
+      "valence": 2.76,
+      "arousal": 3.55,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Now watch me whip (kill it) Now watch me nae nae (okay) Now watch me whip, whip Watch me nae nae (watch me do it)",
+      "valence": 2.74,
+      "arousal": 3.5,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Now watch me nae nae (okay) Now watch me whip, whip Watch me nae nae (watch me do it) Now watch me whip (kill it)",
+      "valence": 2.7,
+      "arousal": 3.53,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Now watch me whip, whip Watch me nae nae (watch me do it) Now watch me whip (kill it) Watch me nae nae (okay)",
+      "valence": 2.72,
+      "arousal": 3.51,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Watch me nae nae (watch me do it) Now watch me whip (kill it) Watch me nae nae (okay) Now watch me whip, whip",
+      "valence": 2.79,
+      "arousal": 3.46,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Now watch me whip (kill it) Watch me nae nae (okay) Now watch me whip, whip Watch me nae nae (can you do it?)",
+      "valence": 2.64,
+      "arousal": 3.52,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Watch me nae nae (okay) Now watch me whip, whip Watch me nae nae (can you do it?) Now watch me",
+      "valence": 2.82,
+      "arousal": 3.34,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Now watch me whip, whip Watch me nae nae (can you do it?) Now watch me Ooh, watch me, watch me (yeah)",
+      "valence": 2.9,
+      "arousal": 3.53,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Watch me nae nae (can you do it?) Now watch me Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah)",
+      "valence": 3.01,
+      "arousal": 3.3,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Now watch me Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah)",
+      "valence": 3.21,
+      "arousal": 3.49,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah) Ooh, ooh, ooh, ooh (okay, okay)",
+      "valence": 3.22,
+      "arousal": 3.43,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah) Ooh, ooh, ooh, ooh (okay, okay) Ooh, watch me, watch me (yeah)",
+      "valence": 3.22,
+      "arousal": 3.43,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Ooh, watch me, watch me (yeah) Ooh, ooh, ooh, ooh (okay, okay) Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah) (can you do it?)",
+      "valence": 3.17,
+      "arousal": 3.39,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Ooh, ooh, ooh, ooh (okay, okay) Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah) (can you do it?) Ooh, watch me, watch me (yeah) (can you do it?)",
+      "valence": 3.12,
+      "arousal": 3.36,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah) (can you do it?) Ooh, watch me, watch me (yeah) (can you do it?) Ooh, ooh, ooh, ooh (okay)",
+      "valence": 3.14,
+      "arousal": 3.37,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Ooh, watch me, watch me (yeah) (can you do it?) Ooh, watch me, watch me (yeah) (can you do it?) Ooh, ooh, ooh, ooh (okay) Do the stanky leg (stank)",
+      "valence": 3.03,
+      "arousal": 3.39,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Ooh, watch me, watch me (yeah) (can you do it?) Ooh, ooh, ooh, ooh (okay) Do the stanky leg (stank) Do the stanky leg (stank, stank)",
+      "valence": 3.02,
+      "arousal": 3.41,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Ooh, ooh, ooh, ooh (okay) Do the stanky leg (stank) Do the stanky leg (stank, stank) Do the stanky leg (stank)",
+      "valence": 3.02,
+      "arousal": 3.35,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Do the stanky leg (stank) Do the stanky leg (stank, stank) Do the stanky leg (stank) Do the stanky leg (stank, stank)",
+      "valence": 2.91,
+      "arousal": 3.12,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Do the stanky leg (stank, stank) Do the stanky leg (stank) Do the stanky leg (stank, stank) Do the stanky leg (stank)",
+      "valence": 2.9,
+      "arousal": 3.11,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Do the stanky leg (stank) Do the stanky leg (stank, stank) Do the stanky leg (stank) Do the stanky leg (stank, stank)",
+      "valence": 2.91,
+      "arousal": 3.12,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Do the stanky leg (stank, stank) Do the stanky leg (stank) Do the stanky leg (stank, stank) Do the stanky leg (stank)",
+      "valence": 2.9,
+      "arousal": 3.11,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Do the stanky leg (stank) Do the stanky leg (stank, stank) Do the stanky leg (stank) Do the stanky leg (stank, stank)",
+      "valence": 2.91,
+      "arousal": 3.12,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Do the stanky leg (stank, stank) Do the stanky leg (stank) Do the stanky leg (stank, stank) Now break your legs (break 'em)",
+      "valence": 2.84,
+      "arousal": 3.3,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Do the stanky leg (stank) Do the stanky leg (stank, stank) Now break your legs (break 'em) Break your legs (break 'em)",
+      "valence": 2.71,
+      "arousal": 3.4,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Do the stanky leg (stank, stank) Now break your legs (break 'em) Break your legs (break 'em) Tell 'em, \"Break your legs\" (break 'em)",
+      "valence": 2.61,
+      "arousal": 3.45,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Now break your legs (break 'em) Break your legs (break 'em) Tell 'em, \"Break your legs\" (break 'em) Break your legs (break 'em)",
+      "valence": 2.58,
+      "arousal": 3.51,
+      "dominance": 3.74
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Break your legs (break 'em) Tell 'em, \"Break your legs\" (break 'em) Break your legs (break 'em) Go on and break your legs (break 'em)",
+      "valence": 2.68,
+      "arousal": 3.49,
+      "dominance": 3.77
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Tell 'em, \"Break your legs\" (break 'em) Break your legs (break 'em) Go on and break your legs (break 'em) Break your legs (break 'em)",
+      "valence": 2.71,
+      "arousal": 3.5,
+      "dominance": 3.8
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Break your legs (break 'em) Go on and break your legs (break 'em) Break your legs (break 'em) Go on and break your legs (break 'em)",
+      "valence": 2.6,
+      "arousal": 3.54,
+      "dominance": 3.74
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Go on and break your legs (break 'em) Break your legs (break 'em) Go on and break your legs (break 'em) Break your legs (break 'em)",
+      "valence": 2.58,
+      "arousal": 3.58,
+      "dominance": 3.78
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Break your legs (break 'em) Go on and break your legs (break 'em) Break your legs (break 'em) Now watch me bop (bop), bop, bop (bop, bop)",
+      "valence": 2.81,
+      "arousal": 3.59,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Go on and break your legs (break 'em) Break your legs (break 'em) Now watch me bop (bop), bop, bop (bop, bop) Bop, bop, bop, bop, bop (bop, bop)",
+      "valence": 2.9,
+      "arousal": 3.61,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Break your legs (break 'em) Now watch me bop (bop), bop, bop (bop, bop) Bop, bop, bop, bop, bop (bop, bop) Now watch me bop, bop, bop, bop, bop (bop, bop)",
+      "valence": 3.03,
+      "arousal": 3.5,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Now watch me bop (bop), bop, bop (bop, bop) Bop, bop, bop, bop, bop (bop, bop) Now watch me bop, bop, bop, bop, bop (bop, bop) Bop, bop, bop, bop, bop (bop, bop)",
+      "valence": 3.07,
+      "arousal": 3.28,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Bop, bop, bop, bop, bop (bop, bop) Now watch me bop, bop, bop, bop, bop (bop, bop) Bop, bop, bop, bop, bop (bop, bop) Bop, bop",
+      "valence": 3.07,
+      "arousal": 3.32,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Now watch me bop, bop, bop, bop, bop (bop, bop) Bop, bop, bop, bop, bop (bop, bop) Bop, bop Now watch me whip (ayy) (kill it)",
+      "valence": 2.79,
+      "arousal": 3.52,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Bop, bop, bop, bop, bop (bop, bop) Bop, bop Now watch me whip (ayy) (kill it) Now watch me nae nae (okay)",
+      "valence": 2.75,
+      "arousal": 3.55,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Bop, bop Now watch me whip (ayy) (kill it) Now watch me nae nae (okay) Now watch me whip, whip",
+      "valence": 2.72,
+      "arousal": 3.53,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Now watch me whip (ayy) (kill it) Now watch me nae nae (okay) Now watch me whip, whip Watch me nae nae (watch me do it)",
+      "valence": 2.72,
+      "arousal": 3.56,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Now watch me nae nae (okay) Now watch me whip, whip Watch me nae nae (watch me do it) Now watch me whip (kill it)",
+      "valence": 2.7,
+      "arousal": 3.53,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Now watch me whip, whip Watch me nae nae (watch me do it) Now watch me whip (kill it) Watch me nae nae (okay)",
+      "valence": 2.72,
+      "arousal": 3.51,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Watch me nae nae (watch me do it) Now watch me whip (kill it) Watch me nae nae (okay) Now watch me whip, whip",
+      "valence": 2.79,
+      "arousal": 3.46,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Now watch me whip (kill it) Watch me nae nae (okay) Now watch me whip, whip Watch me nae nae (can you do it?)",
+      "valence": 2.64,
+      "arousal": 3.52,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Watch me nae nae (okay) Now watch me whip, whip Watch me nae nae (can you do it?) Now watch me",
+      "valence": 2.82,
+      "arousal": 3.34,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Now watch me whip, whip Watch me nae nae (can you do it?) Now watch me Ooh, watch me, watch me (yeah)",
+      "valence": 2.9,
+      "arousal": 3.53,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Watch me nae nae (can you do it?) Now watch me Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah)",
+      "valence": 3.01,
+      "arousal": 3.3,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Now watch me Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah)",
+      "valence": 3.21,
+      "arousal": 3.49,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah) Ooh, ooh, ooh, ooh (okay, okay)",
+      "valence": 3.22,
+      "arousal": 3.43,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah) Ooh, ooh, ooh, ooh (okay, okay) Ooh, watch me, watch me (yeah)",
+      "valence": 3.22,
+      "arousal": 3.43,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Ooh, watch me, watch me (yeah) Ooh, ooh, ooh, ooh (okay, okay) Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah)",
+      "valence": 3.24,
+      "arousal": 3.46,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Ooh, ooh, ooh, ooh (okay, okay) Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah)",
+      "valence": 3.21,
+      "arousal": 3.44,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah) Ooh, ooh, ooh, ooh (okay), crank that",
+      "valence": 3.15,
+      "arousal": 3.54,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah) Ooh, ooh, ooh, ooh (okay), crank that Now watch me you (Soulja)",
+      "valence": 3.25,
+      "arousal": 3.64,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Ooh, watch me, watch me (yeah) Ooh, ooh, ooh, ooh (okay), crank that Now watch me you (Soulja) Now watch Superman (okay)",
+      "valence": 3.26,
+      "arousal": 3.55,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Ooh, ooh, ooh, ooh (okay), crank that Now watch me you (Soulja) Now watch Superman (okay) Now watch me you (Soulja)",
+      "valence": 3.14,
+      "arousal": 3.43,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Now watch me you (Soulja) Now watch Superman (okay) Now watch me you (Soulja) Now watch Superman (okay)",
+      "valence": 3.14,
+      "arousal": 3.26,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Now watch Superman (okay) Now watch me you (Soulja) Now watch Superman (okay) Now watch me you (Soulja)",
+      "valence": 3.17,
+      "arousal": 3.26,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Now watch me you (Soulja) Now watch Superman (okay) Now watch me you (Soulja) Now watch Superman (okay)",
+      "valence": 3.14,
+      "arousal": 3.26,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Now watch Superman (okay) Now watch me you (Soulja) Now watch Superman (okay) Now watch me you (Soulja)",
+      "valence": 3.17,
+      "arousal": 3.26,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Now watch me you (Soulja) Now watch Superman (okay) Now watch me you (Soulja) Now watch Superman (okay)",
+      "valence": 3.14,
+      "arousal": 3.26,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Now watch Superman (okay) Now watch me you (Soulja) Now watch Superman (okay) Now watch me duff, duff (duff 'em), duff (duff 'em)",
+      "valence": 3.03,
+      "arousal": 3.25,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Now watch me you (Soulja) Now watch Superman (okay) Now watch me duff, duff (duff 'em), duff (duff 'em) Duff (duff 'em), duff, duff, duff (duff 'em), duff (duff 'em), duff (hold on)",
+      "valence": 2.97,
+      "arousal": 3.22,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Now watch Superman (okay) Now watch me duff, duff (duff 'em), duff (duff 'em) Duff (duff 'em), duff, duff, duff (duff 'em), duff (duff 'em), duff (hold on) Now watch me duff, duff (duff 'em), duff (duff 'em)",
+      "valence": 2.91,
+      "arousal": 3.18,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Now watch me duff, duff (duff 'em), duff (duff 'em) Duff (duff 'em), duff, duff, duff (duff 'em), duff (duff 'em), duff (hold on) Now watch me duff, duff (duff 'em), duff (duff 'em) Duff (duff 'em), duff, duff, duff (duff 'em), duff (duff 'em), duff",
+      "valence": 2.83,
+      "arousal": 3.19,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Duff (duff 'em), duff, duff, duff (duff 'em), duff (duff 'em), duff (hold on) Now watch me duff, duff (duff 'em), duff (duff 'em) Duff (duff 'em), duff, duff, duff (duff 'em), duff (duff 'em), duff Now watch me bop, bop (to the left), bop (bop, bop)",
+      "valence": 2.83,
+      "arousal": 3.25,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Now watch me duff, duff (duff 'em), duff (duff 'em) Duff (duff 'em), duff, duff, duff (duff 'em), duff (duff 'em), duff Now watch me bop, bop (to the left), bop (bop, bop) Bop (to the right), bop, bop, bop (to the left), bop, bop (to the right)",
+      "valence": 2.86,
+      "arousal": 3.24,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Duff (duff 'em), duff, duff, duff (duff 'em), duff (duff 'em), duff Now watch me bop, bop (to the left), bop (bop, bop) Bop (to the right), bop, bop, bop (to the left), bop, bop (to the right) Now watch me bop, bop (to the left), bop (bop, bop)",
+      "valence": 2.8,
+      "arousal": 3.27,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Now watch me bop, bop (to the left), bop (bop, bop) Bop (to the right), bop, bop, bop (to the left), bop, bop (to the right) Now watch me bop, bop (to the left), bop (bop, bop) Bop (to the right), bop, bop, bop (to the left), bop, bop (to the right)",
+      "valence": 3.11,
+      "arousal": 3.13,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Bop (to the right), bop, bop, bop (to the left), bop, bop (to the right) Now watch me bop, bop (to the left), bop (bop, bop) Bop (to the right), bop, bop, bop (to the left), bop, bop (to the right) Now watch me whip (ayy) (kill it)",
+      "valence": 2.75,
+      "arousal": 3.4,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Now watch me bop, bop (to the left), bop (bop, bop) Bop (to the right), bop, bop, bop (to the left), bop, bop (to the right) Now watch me whip (ayy) (kill it) Now watch me nae nae (okay)",
+      "valence": 2.81,
+      "arousal": 3.42,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Bop (to the right), bop, bop, bop (to the left), bop, bop (to the right) Now watch me whip (ayy) (kill it) Now watch me nae nae (okay) Now watch me whip, whip",
+      "valence": 2.74,
+      "arousal": 3.45,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "Now watch me whip (ayy) (kill it) Now watch me nae nae (okay) Now watch me whip, whip Watch me nae nae (watch me do it)",
+      "valence": 2.72,
+      "arousal": 3.56,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "Now watch me nae nae (okay) Now watch me whip, whip Watch me nae nae (watch me do it) Now watch me whip (kill it)",
+      "valence": 2.7,
+      "arousal": 3.53,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "Now watch me whip, whip Watch me nae nae (watch me do it) Now watch me whip (kill it) Watch me nae nae (okay)",
+      "valence": 2.72,
+      "arousal": 3.51,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "Watch me nae nae (watch me do it) Now watch me whip (kill it) Watch me nae nae (okay) Now watch me whip, whip",
+      "valence": 2.79,
+      "arousal": 3.46,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "Now watch me whip (kill it) Watch me nae nae (okay) Now watch me whip, whip Watch me nae nae (can you do it?)",
+      "valence": 2.64,
+      "arousal": 3.52,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "Watch me nae nae (okay) Now watch me whip, whip Watch me nae nae (can you do it?) Now watch me",
+      "valence": 2.82,
+      "arousal": 3.34,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "Now watch me whip, whip Watch me nae nae (can you do it?) Now watch me Ooh, watch me, watch me (yeah)",
+      "valence": 2.9,
+      "arousal": 3.53,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "Watch me nae nae (can you do it?) Now watch me Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah)",
+      "valence": 3.01,
+      "arousal": 3.3,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "Now watch me Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah)",
+      "valence": 3.21,
+      "arousal": 3.49,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah) Ooh, ooh, ooh, ooh (okay, okay)",
+      "valence": 3.22,
+      "arousal": 3.43,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 86,
+      "lyrics_text": "Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah) Ooh, ooh, ooh, ooh (okay, okay) Ooh, watch me, watch me (yeah)",
+      "valence": 3.22,
+      "arousal": 3.43,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 87,
+      "lyrics_text": "Ooh, watch me, watch me (yeah) Ooh, ooh, ooh, ooh (okay, okay) Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah)",
+      "valence": 3.24,
+      "arousal": 3.46,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 88,
+      "lyrics_text": "Ooh, ooh, ooh, ooh (okay, okay) Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah)",
+      "valence": 3.21,
+      "arousal": 3.44,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 89,
+      "lyrics_text": "Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah) Ooh, watch me, watch me (yeah) Ooh, ooh, ooh, ooh (okay), crank that",
+      "valence": 3.15,
+      "arousal": 3.54,
+      "dominance": 3.29
+    }
+  ]
+}

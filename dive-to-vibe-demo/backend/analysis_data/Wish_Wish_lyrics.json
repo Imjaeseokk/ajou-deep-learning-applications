@@ -1,0 +1,451 @@
+{
+  "artist": "DJ Khaled Featuring Cardi B & 21 Savage",
+  "overall_vad": {
+    "valence": 2.68,
+    "arousal": 3.6,
+    "dominance": 3.41
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Cardi, Cardi bops Cardi, Cardi sendin' shots We The Best music Cardi, from the block",
+      "valence": 3.49,
+      "arousal": 3.48,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Cardi, Cardi sendin' shots We The Best music Cardi, from the block Cardi, with the Glock",
+      "valence": 3.41,
+      "arousal": 3.42,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "We The Best music Cardi, from the block Cardi, with the Glock Cardi, yeah",
+      "valence": 3.47,
+      "arousal": 3.41,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Cardi, from the block Cardi, with the Glock Cardi, yeah Cardi, yeah",
+      "valence": 3.32,
+      "arousal": 3.32,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Cardi, with the Glock Cardi, yeah Cardi, yeah Another one",
+      "valence": 3.45,
+      "arousal": 3.51,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Cardi, yeah Cardi, yeah Another one Cardi, yeah, yeah, yeah",
+      "valence": 3.56,
+      "arousal": 3.59,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Cardi, yeah Another one Cardi, yeah, yeah, yeah DJ Khaled",
+      "valence": 3.53,
+      "arousal": 3.49,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Another one Cardi, yeah, yeah, yeah DJ Khaled They say my time is almost up, tell them bitches, \"Wish, wish\"",
+      "valence": 3.14,
+      "arousal": 3.65,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Cardi, yeah, yeah, yeah DJ Khaled They say my time is almost up, tell them bitches, \"Wish, wish\" All these hoes lookin' cold, all these bitches fish sticks",
+      "valence": 2.77,
+      "arousal": 3.47,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "DJ Khaled They say my time is almost up, tell them bitches, \"Wish, wish\" All these hoes lookin' cold, all these bitches fish sticks Put a ribbon on my box 'cause this pussy gifted",
+      "valence": 2.41,
+      "arousal": 3.57,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "They say my time is almost up, tell them bitches, \"Wish, wish\" All these hoes lookin' cold, all these bitches fish sticks Put a ribbon on my box 'cause this pussy gifted I ain't got no free time, all my shit expensive",
+      "valence": 2.22,
+      "arousal": 3.65,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "All these hoes lookin' cold, all these bitches fish sticks Put a ribbon on my box 'cause this pussy gifted I ain't got no free time, all my shit expensive See my ring, my watch, my chain and everything is lit, lit (Ice)",
+      "valence": 2.33,
+      "arousal": 3.57,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Put a ribbon on my box 'cause this pussy gifted I ain't got no free time, all my shit expensive See my ring, my watch, my chain and everything is lit, lit (Ice) All this gold on a bitch, I feel like I'm Slick Rick",
+      "valence": 2.74,
+      "arousal": 3.72,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I ain't got no free time, all my shit expensive See my ring, my watch, my chain and everything is lit, lit (Ice) All this gold on a bitch, I feel like I'm Slick Rick If they love me or they hate me, it don't make no difference (Cardi)",
+      "valence": 2.72,
+      "arousal": 3.69,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "See my ring, my watch, my chain and everything is lit, lit (Ice) All this gold on a bitch, I feel like I'm Slick Rick If they love me or they hate me, it don't make no difference (Cardi) It be hard not to kill a hoe 'cause I be tempted",
+      "valence": 2.93,
+      "arousal": 3.68,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "All this gold on a bitch, I feel like I'm Slick Rick If they love me or they hate me, it don't make no difference (Cardi) It be hard not to kill a hoe 'cause I be tempted Now I be countin' money, buyin' jewelry, hoes be ridin' dick (Dick)",
+      "valence": 2.52,
+      "arousal": 3.65,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "If they love me or they hate me, it don't make no difference (Cardi) It be hard not to kill a hoe 'cause I be tempted Now I be countin' money, buyin' jewelry, hoes be ridin' dick (Dick) I just make my M's and mind my business, hoes be ridin' dick (Dick)",
+      "valence": 2.7,
+      "arousal": 3.42,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "It be hard not to kill a hoe 'cause I be tempted Now I be countin' money, buyin' jewelry, hoes be ridin' dick (Dick) I just make my M's and mind my business, hoes be ridin' dick (Dick) \"I can see Cardi eat so much, \" and that's what got 'em sick",
+      "valence": 2.54,
+      "arousal": 3.49,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Now I be countin' money, buyin' jewelry, hoes be ridin' dick (Dick) I just make my M's and mind my business, hoes be ridin' dick (Dick) \"I can see Cardi eat so much, \" and that's what got 'em sick But I wonder how they still ain't pregnant, all that riding dick",
+      "valence": 2.61,
+      "arousal": 3.48,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I just make my M's and mind my business, hoes be ridin' dick (Dick) \"I can see Cardi eat so much, \" and that's what got 'em sick But I wonder how they still ain't pregnant, all that riding dick Y'all betta go ahead with that weak shit, I'm certified, real street bitch",
+      "valence": 2.34,
+      "arousal": 3.56,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "\"I can see Cardi eat so much, \" and that's what got 'em sick But I wonder how they still ain't pregnant, all that riding dick Y'all betta go ahead with that weak shit, I'm certified, real street bitch Won't be a song if I leak shit, we strapped up like defense",
+      "valence": 2.38,
+      "arousal": 3.59,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "But I wonder how they still ain't pregnant, all that riding dick Y'all betta go ahead with that weak shit, I'm certified, real street bitch Won't be a song if I leak shit, we strapped up like defense Whatever you do, sis, keep it cute, sis",
+      "valence": 2.74,
+      "arousal": 3.64,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Y'all betta go ahead with that weak shit, I'm certified, real street bitch Won't be a song if I leak shit, we strapped up like defense Whatever you do, sis, keep it cute, sis Leave that beefin' shit at Ruth Chris or end up toothless",
+      "valence": 2.48,
+      "arousal": 3.6,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Won't be a song if I leak shit, we strapped up like defense Whatever you do, sis, keep it cute, sis Leave that beefin' shit at Ruth Chris or end up toothless I've been official my whole life, I bought burners, I ain't buy likes (Brr)",
+      "valence": 2.63,
+      "arousal": 3.45,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Whatever you do, sis, keep it cute, sis Leave that beefin' shit at Ruth Chris or end up toothless I've been official my whole life, I bought burners, I ain't buy likes (Brr) How did little ol' me get money? Got everybody all tight",
+      "valence": 2.67,
+      "arousal": 3.47,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Leave that beefin' shit at Ruth Chris or end up toothless I've been official my whole life, I bought burners, I ain't buy likes (Brr) How did little ol' me get money? Got everybody all tight These bitches wack, these bitches garb (Garb), they diss me, I disregard",
+      "valence": 2.26,
+      "arousal": 3.46,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I've been official my whole life, I bought burners, I ain't buy likes (Brr) How did little ol' me get money? Got everybody all tight These bitches wack, these bitches garb (Garb), they diss me, I disregard Bet you if I had a dick, these bitches couldn't get it hard",
+      "valence": 2.29,
+      "arousal": 3.46,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "How did little ol' me get money? Got everybody all tight These bitches wack, these bitches garb (Garb), they diss me, I disregard Bet you if I had a dick, these bitches couldn't get it hard They say my time is almost up, tell them bitches, \"Wish, wish\" (Wish)",
+      "valence": 2.28,
+      "arousal": 3.56,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "These bitches wack, these bitches garb (Garb), they diss me, I disregard Bet you if I had a dick, these bitches couldn't get it hard They say my time is almost up, tell them bitches, \"Wish, wish\" (Wish) All these hoes lookin' cold, all these bitches fish sticks",
+      "valence": 2.09,
+      "arousal": 3.54,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Bet you if I had a dick, these bitches couldn't get it hard They say my time is almost up, tell them bitches, \"Wish, wish\" (Wish) All these hoes lookin' cold, all these bitches fish sticks Put a ribbon on my box 'cause this pussy gifted",
+      "valence": 2.34,
+      "arousal": 3.57,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "They say my time is almost up, tell them bitches, \"Wish, wish\" (Wish) All these hoes lookin' cold, all these bitches fish sticks Put a ribbon on my box 'cause this pussy gifted I ain't got no free time, all my shit expensive",
+      "valence": 2.2,
+      "arousal": 3.67,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "All these hoes lookin' cold, all these bitches fish sticks Put a ribbon on my box 'cause this pussy gifted I ain't got no free time, all my shit expensive See my ring, my watch, my chain and everything is lit, lit (Ice)",
+      "valence": 2.33,
+      "arousal": 3.57,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Put a ribbon on my box 'cause this pussy gifted I ain't got no free time, all my shit expensive See my ring, my watch, my chain and everything is lit, lit (Ice) All this gold on a bitch, I feel like I'm Slick Rick",
+      "valence": 2.74,
+      "arousal": 3.72,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I ain't got no free time, all my shit expensive See my ring, my watch, my chain and everything is lit, lit (Ice) All this gold on a bitch, I feel like I'm Slick Rick If they love me or they hate me, it don't make no difference (Cardi)",
+      "valence": 2.72,
+      "arousal": 3.69,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "See my ring, my watch, my chain and everything is lit, lit (Ice) All this gold on a bitch, I feel like I'm Slick Rick If they love me or they hate me, it don't make no difference (Cardi) It be hard not to kill a hoe 'cause I be tempted (Blaow)",
+      "valence": 2.95,
+      "arousal": 3.7,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "All this gold on a bitch, I feel like I'm Slick Rick If they love me or they hate me, it don't make no difference (Cardi) It be hard not to kill a hoe 'cause I be tempted (Blaow) Bought a Richard Mille, coulda bought me a house (No joke)",
+      "valence": 2.63,
+      "arousal": 3.66,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "If they love me or they hate me, it don't make no difference (Cardi) It be hard not to kill a hoe 'cause I be tempted (Blaow) Bought a Richard Mille, coulda bought me a house (No joke) Feel like I'm the greatest rapper came out the South (Who want smoke?)",
+      "valence": 2.96,
+      "arousal": 3.56,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "It be hard not to kill a hoe 'cause I be tempted (Blaow) Bought a Richard Mille, coulda bought me a house (No joke) Feel like I'm the greatest rapper came out the South (Who want smoke?) She keep tryin' to fuck, I told her top me for now (On God)",
+      "valence": 2.77,
+      "arousal": 3.74,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Bought a Richard Mille, coulda bought me a house (No joke) Feel like I'm the greatest rapper came out the South (Who want smoke?) She keep tryin' to fuck, I told her top me for now (On God) She got ass shots, I told her work on her mouth (Straight up)",
+      "valence": 3.03,
+      "arousal": 3.77,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Feel like I'm the greatest rapper came out the South (Who want smoke?) She keep tryin' to fuck, I told her top me for now (On God) She got ass shots, I told her work on her mouth (Straight up) Everybody talkin' this king talk, nigga we shootin' shit up, we don't battle (Bitch)",
+      "valence": 2.59,
+      "arousal": 3.73,
+      "dominance": 3.84
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "She keep tryin' to fuck, I told her top me for now (On God) She got ass shots, I told her work on her mouth (Straight up) Everybody talkin' this king talk, nigga we shootin' shit up, we don't battle (Bitch) Cornball nigga, you ain't gettin' no money and we don't give a fuck about your talents (Snitch)",
+      "valence": 2.16,
+      "arousal": 3.67,
+      "dominance": 3.86
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "She got ass shots, I told her work on her mouth (Straight up) Everybody talkin' this king talk, nigga we shootin' shit up, we don't battle (Bitch) Cornball nigga, you ain't gettin' no money and we don't give a fuck about your talents (Snitch) Came from the bottom, I'm a multimillionaire, I was just sleeping on pallets (21)",
+      "valence": 2.42,
+      "arousal": 3.57,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Everybody talkin' this king talk, nigga we shootin' shit up, we don't battle (Bitch) Cornball nigga, you ain't gettin' no money and we don't give a fuck about your talents (Snitch) Came from the bottom, I'm a multimillionaire, I was just sleeping on pallets (21) Fuck these rappers, I'm 4L Gang, we the best like DJ Khaled (Straight up)",
+      "valence": 2.31,
+      "arousal": 3.83,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Cornball nigga, you ain't gettin' no money and we don't give a fuck about your talents (Snitch) Came from the bottom, I'm a multimillionaire, I was just sleeping on pallets (21) Fuck these rappers, I'm 4L Gang, we the best like DJ Khaled (Straight up) Your bitch got that crazy head like a Kanye Tweet (21)",
+      "valence": 2.21,
+      "arousal": 3.79,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Came from the bottom, I'm a multimillionaire, I was just sleeping on pallets (21) Fuck these rappers, I'm 4L Gang, we the best like DJ Khaled (Straight up) Your bitch got that crazy head like a Kanye Tweet (21) Had a wedding for my Glocks, call 'em Jay and Bey (21)",
+      "valence": 2.48,
+      "arousal": 3.83,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Fuck these rappers, I'm 4L Gang, we the best like DJ Khaled (Straight up) Your bitch got that crazy head like a Kanye Tweet (21) Had a wedding for my Glocks, call 'em Jay and Bey (21) I split the rent with my chopper 'cause it stay with me (On God)",
+      "valence": 2.44,
+      "arousal": 3.84,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Your bitch got that crazy head like a Kanye Tweet (21) Had a wedding for my Glocks, call 'em Jay and Bey (21) I split the rent with my chopper 'cause it stay with me (On God) Leave you drunk like a shot of liquor, ain't no chasin' me (On God)",
+      "valence": 2.6,
+      "arousal": 3.62,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Had a wedding for my Glocks, call 'em Jay and Bey (21) I split the rent with my chopper 'cause it stay with me (On God) Leave you drunk like a shot of liquor, ain't no chasin' me (On God) He threw in a white flag, but I still want beef (Stupid)",
+      "valence": 2.97,
+      "arousal": 3.58,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I split the rent with my chopper 'cause it stay with me (On God) Leave you drunk like a shot of liquor, ain't no chasin' me (On God) He threw in a white flag, but I still want beef (Stupid) Catch you at your album release you play with Cardi B (Shoot it)",
+      "valence": 2.79,
+      "arousal": 3.46,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Leave you drunk like a shot of liquor, ain't no chasin' me (On God) He threw in a white flag, but I still want beef (Stupid) Catch you at your album release you play with Cardi B (Shoot it) Make this pistol blow both ways, I call it Hennessy",
+      "valence": 2.63,
+      "arousal": 3.55,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "He threw in a white flag, but I still want beef (Stupid) Catch you at your album release you play with Cardi B (Shoot it) Make this pistol blow both ways, I call it Hennessy I know your mama taught you look both ways 'fore crossing me (Lil' bitch)",
+      "valence": 2.4,
+      "arousal": 3.81,
+      "dominance": 3.75
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Catch you at your album release you play with Cardi B (Shoot it) Make this pistol blow both ways, I call it Hennessy I know your mama taught you look both ways 'fore crossing me (Lil' bitch) They say my time is almost up, tell them bitches, \"Wish, wish\"",
+      "valence": 2.74,
+      "arousal": 3.82,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Make this pistol blow both ways, I call it Hennessy I know your mama taught you look both ways 'fore crossing me (Lil' bitch) They say my time is almost up, tell them bitches, \"Wish, wish\" All these hoes lookin' cold, all these bitches fish sticks",
+      "valence": 2.22,
+      "arousal": 3.67,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "I know your mama taught you look both ways 'fore crossing me (Lil' bitch) They say my time is almost up, tell them bitches, \"Wish, wish\" All these hoes lookin' cold, all these bitches fish sticks Put a ribbon on my box 'cause this pussy gifted",
+      "valence": 2.21,
+      "arousal": 3.62,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "They say my time is almost up, tell them bitches, \"Wish, wish\" All these hoes lookin' cold, all these bitches fish sticks Put a ribbon on my box 'cause this pussy gifted I ain't got no free time, all my shit expensive",
+      "valence": 2.22,
+      "arousal": 3.65,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "All these hoes lookin' cold, all these bitches fish sticks Put a ribbon on my box 'cause this pussy gifted I ain't got no free time, all my shit expensive See my ring, my watch, my chain and everything is lit, lit (Ice)",
+      "valence": 2.33,
+      "arousal": 3.57,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Put a ribbon on my box 'cause this pussy gifted I ain't got no free time, all my shit expensive See my ring, my watch, my chain and everything is lit, lit (Ice) All this gold on a bitch, I feel like I'm Slick Rick",
+      "valence": 2.74,
+      "arousal": 3.72,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "I ain't got no free time, all my shit expensive See my ring, my watch, my chain and everything is lit, lit (Ice) All this gold on a bitch, I feel like I'm Slick Rick If they love me or they hate me, it don't make no difference (Cardi)",
+      "valence": 2.72,
+      "arousal": 3.69,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "See my ring, my watch, my chain and everything is lit, lit (Ice) All this gold on a bitch, I feel like I'm Slick Rick If they love me or they hate me, it don't make no difference (Cardi) It be hard not to kill a hoe 'cause I be tempted (Blaow)",
+      "valence": 2.95,
+      "arousal": 3.7,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "All this gold on a bitch, I feel like I'm Slick Rick If they love me or they hate me, it don't make no difference (Cardi) It be hard not to kill a hoe 'cause I be tempted (Blaow) We The Best music",
+      "valence": 2.96,
+      "arousal": 3.66,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "If they love me or they hate me, it don't make no difference (Cardi) It be hard not to kill a hoe 'cause I be tempted (Blaow) We The Best music (What's that on your wrist?)",
+      "valence": 2.97,
+      "arousal": 3.48,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "It be hard not to kill a hoe 'cause I be tempted (Blaow) We The Best music (What's that on your wrist?) (I call it a chandelier)",
+      "valence": 2.89,
+      "arousal": 3.49,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "We The Best music (What's that on your wrist?) (I call it a chandelier) Another one",
+      "valence": 3.24,
+      "arousal": 3.22,
+      "dominance": 3.17
+    }
+  ]
+}

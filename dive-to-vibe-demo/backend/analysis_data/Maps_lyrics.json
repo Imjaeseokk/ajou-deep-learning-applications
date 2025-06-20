@@ -1,0 +1,479 @@
+{
+  "artist": "Maroon 5",
+  "overall_vad": {
+    "valence": 2.96,
+    "arousal": 3.29,
+    "dominance": 3.01
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I miss the taste of a sweeter life I miss the conversation I'm searching for a song tonight I'm changing all of the stations",
+      "valence": 2.9,
+      "arousal": 3.59,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I miss the conversation I'm searching for a song tonight I'm changing all of the stations I like to think that we had it all",
+      "valence": 2.85,
+      "arousal": 3.4,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I'm searching for a song tonight I'm changing all of the stations I like to think that we had it all We drew a map to a better place",
+      "valence": 3.35,
+      "arousal": 3.37,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I'm changing all of the stations I like to think that we had it all We drew a map to a better place But on that road, I took a fall",
+      "valence": 2.8,
+      "arousal": 3.24,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I like to think that we had it all We drew a map to a better place But on that road, I took a fall Oh baby, why did you run away?",
+      "valence": 2.86,
+      "arousal": 3.33,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "We drew a map to a better place But on that road, I took a fall Oh baby, why did you run away? I was there for you in your darkest times",
+      "valence": 2.8,
+      "arousal": 3.45,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "But on that road, I took a fall Oh baby, why did you run away? I was there for you in your darkest times I was there for you in your darkest night",
+      "valence": 2.79,
+      "arousal": 3.57,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Oh baby, why did you run away? I was there for you in your darkest times I was there for you in your darkest night But I wonder, where were you?",
+      "valence": 2.83,
+      "arousal": 3.55,
+      "dominance": 2.71
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I was there for you in your darkest times I was there for you in your darkest night But I wonder, where were you? When I was at my worst down on my knees",
+      "valence": 2.94,
+      "arousal": 3.56,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I was there for you in your darkest night But I wonder, where were you? When I was at my worst down on my knees And you said you had my back",
+      "valence": 2.89,
+      "arousal": 3.54,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "But I wonder, where were you? When I was at my worst down on my knees And you said you had my back So I wonder, where were you?",
+      "valence": 2.74,
+      "arousal": 3.42,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "When I was at my worst down on my knees And you said you had my back So I wonder, where were you? When all the roads you took came back to me",
+      "valence": 2.82,
+      "arousal": 3.46,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "And you said you had my back So I wonder, where were you? When all the roads you took came back to me So I'm following the map that leads to you",
+      "valence": 3.09,
+      "arousal": 3.29,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "So I wonder, where were you? When all the roads you took came back to me So I'm following the map that leads to you The map that leads to you",
+      "valence": 3.12,
+      "arousal": 3.12,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "When all the roads you took came back to me So I'm following the map that leads to you The map that leads to you Ain't nothing I can do",
+      "valence": 3.06,
+      "arousal": 3.06,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "So I'm following the map that leads to you The map that leads to you Ain't nothing I can do The map that leads to you",
+      "valence": 3.03,
+      "arousal": 2.99,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "The map that leads to you Ain't nothing I can do The map that leads to you Following, following, following to you",
+      "valence": 2.78,
+      "arousal": 2.97,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Ain't nothing I can do The map that leads to you Following, following, following to you The map that leads to you",
+      "valence": 2.83,
+      "arousal": 2.93,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "The map that leads to you Following, following, following to you The map that leads to you Ain't nothing I can do",
+      "valence": 2.78,
+      "arousal": 2.95,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Following, following, following to you The map that leads to you Ain't nothing I can do The map that leads to you",
+      "valence": 2.9,
+      "arousal": 2.96,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "The map that leads to you Ain't nothing I can do The map that leads to you Following, following, following",
+      "valence": 2.76,
+      "arousal": 2.94,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Ain't nothing I can do The map that leads to you Following, following, following I hear your voice in my sleep at night",
+      "valence": 2.94,
+      "arousal": 3.21,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "The map that leads to you Following, following, following I hear your voice in my sleep at night Hard to resist temptation",
+      "valence": 2.97,
+      "arousal": 3.35,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Following, following, following I hear your voice in my sleep at night Hard to resist temptation 'Cause something strange has come over me",
+      "valence": 2.9,
+      "arousal": 3.54,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I hear your voice in my sleep at night Hard to resist temptation 'Cause something strange has come over me Now, I can't get over you",
+      "valence": 2.9,
+      "arousal": 3.62,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Hard to resist temptation 'Cause something strange has come over me Now, I can't get over you No, I just can't get over you",
+      "valence": 2.65,
+      "arousal": 3.74,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "'Cause something strange has come over me Now, I can't get over you No, I just can't get over you I was there for you in your darkest times",
+      "valence": 2.69,
+      "arousal": 3.67,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Now, I can't get over you No, I just can't get over you I was there for you in your darkest times I was there for you in your darkest night",
+      "valence": 2.76,
+      "arousal": 3.76,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "No, I just can't get over you I was there for you in your darkest times I was there for you in your darkest night But I wonder, where were you?",
+      "valence": 2.94,
+      "arousal": 3.53,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I was there for you in your darkest times I was there for you in your darkest night But I wonder, where were you? When I was at my worst down on my knees",
+      "valence": 2.94,
+      "arousal": 3.56,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I was there for you in your darkest night But I wonder, where were you? When I was at my worst down on my knees And you said you had my back",
+      "valence": 2.89,
+      "arousal": 3.54,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "But I wonder, where were you? When I was at my worst down on my knees And you said you had my back So I wonder, where were you?",
+      "valence": 2.74,
+      "arousal": 3.42,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "When I was at my worst down on my knees And you said you had my back So I wonder, where were you? When all the roads you took came back to me",
+      "valence": 2.82,
+      "arousal": 3.46,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "And you said you had my back So I wonder, where were you? When all the roads you took came back to me So I'm following the map that leads to you",
+      "valence": 3.09,
+      "arousal": 3.29,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "So I wonder, where were you? When all the roads you took came back to me So I'm following the map that leads to you The map that leads to you",
+      "valence": 3.12,
+      "arousal": 3.12,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "When all the roads you took came back to me So I'm following the map that leads to you The map that leads to you Ain't nothing I can do",
+      "valence": 3.06,
+      "arousal": 3.06,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "So I'm following the map that leads to you The map that leads to you Ain't nothing I can do The map that leads to you",
+      "valence": 3.03,
+      "arousal": 2.99,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "The map that leads to you Ain't nothing I can do The map that leads to you Following, following, following to you",
+      "valence": 2.78,
+      "arousal": 2.97,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Ain't nothing I can do The map that leads to you Following, following, following to you The map that leads to you",
+      "valence": 2.83,
+      "arousal": 2.93,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "The map that leads to you Following, following, following to you The map that leads to you Ain't nothing I can do",
+      "valence": 2.78,
+      "arousal": 2.95,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Following, following, following to you The map that leads to you Ain't nothing I can do The map that leads to you",
+      "valence": 2.9,
+      "arousal": 2.96,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "The map that leads to you Ain't nothing I can do The map that leads to you Oh, oh, oh, ah",
+      "valence": 2.64,
+      "arousal": 3.13,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Ain't nothing I can do The map that leads to you Oh, oh, oh, ah Oh, oh, oh, ah",
+      "valence": 2.67,
+      "arousal": 3.07,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "The map that leads to you Oh, oh, oh, ah Oh, oh, oh, ah Ye, ye, ye, ah",
+      "valence": 3.05,
+      "arousal": 3.11,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Oh, oh, oh, ah Oh, oh, oh, ah Ye, ye, ye, ah Ah, ah, mmh, ah",
+      "valence": 3.04,
+      "arousal": 3.2,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Oh, oh, oh, ah Ye, ye, ye, ah Ah, ah, mmh, ah Oh, I was there for you",
+      "valence": 3.34,
+      "arousal": 3.34,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Ye, ye, ye, ah Ah, ah, mmh, ah Oh, I was there for you Oh, in your darkest times",
+      "valence": 3.32,
+      "arousal": 3.4,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Ah, ah, mmh, ah Oh, I was there for you Oh, in your darkest times Oh, I was there for you",
+      "valence": 3.46,
+      "arousal": 3.47,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Oh, I was there for you Oh, in your darkest times Oh, I was there for you Oh, in your darkest night",
+      "valence": 3.46,
+      "arousal": 3.59,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Oh, in your darkest times Oh, I was there for you Oh, in your darkest night Oh, I was there for you",
+      "valence": 3.46,
+      "arousal": 3.59,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Oh, I was there for you Oh, in your darkest night Oh, I was there for you Oh, in your darkest times",
+      "valence": 3.46,
+      "arousal": 3.6,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Oh, in your darkest night Oh, I was there for you Oh, in your darkest times Oh, I was there for you",
+      "valence": 3.44,
+      "arousal": 3.6,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Oh, I was there for you Oh, in your darkest times Oh, I was there for you Oh, in your darkest night",
+      "valence": 3.46,
+      "arousal": 3.59,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Oh, in your darkest times Oh, I was there for you Oh, in your darkest night But I wonder, where were you?",
+      "valence": 3.12,
+      "arousal": 3.43,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Oh, I was there for you Oh, in your darkest night But I wonder, where were you? When I was at my worst down on my knees",
+      "valence": 2.93,
+      "arousal": 3.51,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Oh, in your darkest night But I wonder, where were you? When I was at my worst down on my knees And you said you had my back",
+      "valence": 2.65,
+      "arousal": 3.47,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "But I wonder, where were you? When I was at my worst down on my knees And you said you had my back So I wonder, where were you?",
+      "valence": 2.74,
+      "arousal": 3.42,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "When I was at my worst down on my knees And you said you had my back So I wonder, where were you? When all the roads you took came back to me",
+      "valence": 2.82,
+      "arousal": 3.46,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "And you said you had my back So I wonder, where were you? When all the roads you took came back to me So I'm following the map that leads to you",
+      "valence": 3.09,
+      "arousal": 3.29,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "So I wonder, where were you? When all the roads you took came back to me So I'm following the map that leads to you The map that leads to you",
+      "valence": 3.12,
+      "arousal": 3.12,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "When all the roads you took came back to me So I'm following the map that leads to you The map that leads to you Ain't nothing I can do",
+      "valence": 3.06,
+      "arousal": 3.06,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "So I'm following the map that leads to you The map that leads to you Ain't nothing I can do The map that leads to you",
+      "valence": 3.03,
+      "arousal": 2.99,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "The map that leads to you Ain't nothing I can do The map that leads to you Following, following, following to you",
+      "valence": 2.78,
+      "arousal": 2.97,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Ain't nothing I can do The map that leads to you Following, following, following to you The map that leads to you",
+      "valence": 2.83,
+      "arousal": 2.93,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "The map that leads to you Following, following, following to you The map that leads to you Ain't nothing I can do",
+      "valence": 2.78,
+      "arousal": 2.95,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Following, following, following to you The map that leads to you Ain't nothing I can do The map that leads to you",
+      "valence": 2.9,
+      "arousal": 2.96,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "The map that leads to you Ain't nothing I can do The map that leads to you Following, following, following",
+      "valence": 2.76,
+      "arousal": 2.94,
+      "dominance": 3.05
+    }
+  ]
+}

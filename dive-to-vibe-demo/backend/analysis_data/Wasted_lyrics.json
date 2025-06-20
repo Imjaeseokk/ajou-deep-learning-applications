@@ -1,0 +1,122 @@
+{
+  "artist": "Tiesto Featuring Matthew Koma",
+  "overall_vad": {
+    "valence": 2.82,
+    "arousal": 3.27,
+    "dominance": 3.18
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "You are my glass half empty Sipping my ocean dry Emotionally spin me 'Till none of our planets could align",
+      "valence": 2.92,
+      "arousal": 3.24,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Sipping my ocean dry Emotionally spin me 'Till none of our planets could align But I could stand you one more night",
+      "valence": 2.84,
+      "arousal": 3.36,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Emotionally spin me 'Till none of our planets could align But I could stand you one more night You are a catch-22, either way I miss out",
+      "valence": 2.55,
+      "arousal": 3.48,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "'Till none of our planets could align But I could stand you one more night You are a catch-22, either way I miss out All of the grief I give you",
+      "valence": 2.39,
+      "arousal": 3.54,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "But I could stand you one more night You are a catch-22, either way I miss out All of the grief I give you Is energy I can live without",
+      "valence": 2.51,
+      "arousal": 3.49,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "You are a catch-22, either way I miss out All of the grief I give you Is energy I can live without But I could stand you one more night",
+      "valence": 2.52,
+      "arousal": 3.46,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "All of the grief I give you Is energy I can live without But I could stand you one more night I like us better when we're wasted",
+      "valence": 2.58,
+      "arousal": 3.33,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Is energy I can live without But I could stand you one more night I like us better when we're wasted It makes it easier to fake it",
+      "valence": 2.9,
+      "arousal": 3.18,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "But I could stand you one more night I like us better when we're wasted It makes it easier to fake it The only time we really talk",
+      "valence": 2.95,
+      "arousal": 3.25,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I like us better when we're wasted It makes it easier to fake it The only time we really talk Is when our clothes are coming off",
+      "valence": 3.12,
+      "arousal": 3.08,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "It makes it easier to fake it The only time we really talk Is when our clothes are coming off I like us better when we're wasted",
+      "valence": 2.96,
+      "arousal": 3.19,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "The only time we really talk Is when our clothes are coming off I like us better when we're wasted I like us better when we're wasted",
+      "valence": 2.96,
+      "arousal": 3.22,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Is when our clothes are coming off I like us better when we're wasted I like us better when we're wasted It makes it easier to say it",
+      "valence": 3.02,
+      "arousal": 3.19,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I like us better when we're wasted I like us better when we're wasted It makes it easier to say it Lay all your laundry on the bed",
+      "valence": 2.94,
+      "arousal": 3.12,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I like us better when we're wasted It makes it easier to say it Lay all your laundry on the bed And then I'll lay in it instead",
+      "valence": 3.02,
+      "arousal": 3.11,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "It makes it easier to say it Lay all your laundry on the bed And then I'll lay in it instead I like us better when we're wasted",
+      "valence": 2.87,
+      "arousal": 3.1,
+      "dominance": 3.45
+    }
+  ]
+}

@@ -1,0 +1,507 @@
+{
+  "artist": "Bad Bunny & Chencho Corleone",
+  "overall_vad": {
+    "valence": 2.98,
+    "arousal": 3.12,
+    "dominance": 3.1
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Yeah-yeah-yeah-yeah-yeah-yeah, ey En la guagua se quedÃ³ el olor De tu perfume TÃº ere' una bellaca, yo soy un bellaco",
+      "valence": 3.26,
+      "arousal": 3.37,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "En la guagua se quedÃ³ el olor De tu perfume TÃº ere' una bellaca, yo soy un bellaco Eso e' lo que no' une",
+      "valence": 3.01,
+      "arousal": 3.19,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "De tu perfume TÃº ere' una bellaca, yo soy un bellaco Eso e' lo que no' une Ella sabe que estÃ¡ buenota",
+      "valence": 3.06,
+      "arousal": 3.14,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "TÃº ere' una bellaca, yo soy un bellaco Eso e' lo que no' une Ella sabe que estÃ¡ buenota Y no la presumen",
+      "valence": 3.0,
+      "arousal": 3.08,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Eso e' lo que no' une Ella sabe que estÃ¡ buenota Y no la presumen Si yo fuera tu gato",
+      "valence": 2.88,
+      "arousal": 3.12,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Ella sabe que estÃ¡ buenota Y no la presumen Si yo fuera tu gato Subiera una foto los vierne' y los lune' (so)",
+      "valence": 2.85,
+      "arousal": 3.1,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Y no la presumen Si yo fuera tu gato Subiera una foto los vierne' y los lune' (so) Pa' que to' el mundo vea",
+      "valence": 2.87,
+      "arousal": 3.07,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Si yo fuera tu gato Subiera una foto los vierne' y los lune' (so) Pa' que to' el mundo vea Lo rica que tÃº estÃ¡', que tÃº estÃ¡'",
+      "valence": 2.96,
+      "arousal": 3.15,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Subiera una foto los vierne' y los lune' (so) Pa' que to' el mundo vea Lo rica que tÃº estÃ¡', que tÃº estÃ¡' Contigo tengo que apretar",
+      "valence": 2.94,
+      "arousal": 3.09,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Pa' que to' el mundo vea Lo rica que tÃº estÃ¡', que tÃº estÃ¡' Contigo tengo que apretar Y en la calle ando suelto",
+      "valence": 2.98,
+      "arousal": 3.15,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Lo rica que tÃº estÃ¡', que tÃº estÃ¡' Contigo tengo que apretar Y en la calle ando suelto Pero por ti me quito",
+      "valence": 3.01,
+      "arousal": 3.13,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Contigo tengo que apretar Y en la calle ando suelto Pero por ti me quito Si tÃº me lo pides",
+      "valence": 2.96,
+      "arousal": 3.04,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Y en la calle ando suelto Pero por ti me quito Si tÃº me lo pides Yo me porto bonito",
+      "valence": 3.17,
+      "arousal": 3.33,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Pero por ti me quito Si tÃº me lo pides Yo me porto bonito Y subo un selfie pa' que vean",
+      "valence": 3.13,
+      "arousal": 3.27,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Si tÃº me lo pides Yo me porto bonito Y subo un selfie pa' que vean Lo rica que tÃº estÃ¡', que tÃº estÃ¡'",
+      "valence": 3.01,
+      "arousal": 3.31,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Yo me porto bonito Y subo un selfie pa' que vean Lo rica que tÃº estÃ¡', que tÃº estÃ¡' Las otras tienen que apretar",
+      "valence": 3.13,
+      "arousal": 3.26,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Y subo un selfie pa' que vean Lo rica que tÃº estÃ¡', que tÃº estÃ¡' Las otras tienen que apretar En la calle ando suelto",
+      "valence": 3.04,
+      "arousal": 3.05,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Lo rica que tÃº estÃ¡', que tÃº estÃ¡' Las otras tienen que apretar En la calle ando suelto Pero por ti me quito",
+      "valence": 3.02,
+      "arousal": 3.09,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Las otras tienen que apretar En la calle ando suelto Pero por ti me quito Si tÃº me lo pide'",
+      "valence": 3.0,
+      "arousal": 2.98,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "En la calle ando suelto Pero por ti me quito Si tÃº me lo pide' Yo me porto bonito",
+      "valence": 3.22,
+      "arousal": 3.36,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Pero por ti me quito Si tÃº me lo pide' Yo me porto bonito Ey, ey",
+      "valence": 3.07,
+      "arousal": 3.31,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Si tÃº me lo pide' Yo me porto bonito Ey, ey TÃº no ere' bebecita",
+      "valence": 2.85,
+      "arousal": 3.2,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Yo me porto bonito Ey, ey TÃº no ere' bebecita TÃº ere' bebesota",
+      "valence": 2.85,
+      "arousal": 3.1,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Ey, ey TÃº no ere' bebecita TÃº ere' bebesota Frikitona, ma', se te nota",
+      "valence": 2.72,
+      "arousal": 3.01,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "TÃº no ere' bebecita TÃº ere' bebesota Frikitona, ma', se te nota Le gustan los trÃ­o'",
+      "valence": 2.83,
+      "arousal": 2.97,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "TÃº ere' bebesota Frikitona, ma', se te nota Le gustan los trÃ­o' Cuando estÃ¡ en la nota",
+      "valence": 2.88,
+      "arousal": 3.13,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Frikitona, ma', se te nota Le gustan los trÃ­o' Cuando estÃ¡ en la nota Si el novio no sirve",
+      "valence": 2.85,
+      "arousal": 3.04,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Le gustan los trÃ­o' Cuando estÃ¡ en la nota Si el novio no sirve De una lo bota",
+      "valence": 2.88,
+      "arousal": 3.06,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Cuando estÃ¡ en la nota Si el novio no sirve De una lo bota Y waoh, mami",
+      "valence": 2.98,
+      "arousal": 3.11,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Si el novio no sirve De una lo bota Y waoh, mami Dime dÃ³nde dejo el resume",
+      "valence": 2.83,
+      "arousal": 3.0,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "De una lo bota Y waoh, mami Dime dÃ³nde dejo el resume SÃ© que te dejaste hace un me'",
+      "valence": 2.92,
+      "arousal": 3.14,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Y waoh, mami Dime dÃ³nde dejo el resume SÃ© que te dejaste hace un me' Y de una de pecho me zumbÃ©",
+      "valence": 3.04,
+      "arousal": 3.21,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Dime dÃ³nde dejo el resume SÃ© que te dejaste hace un me' Y de una de pecho me zumbÃ© Si quiere' te hago un bebÃ©",
+      "valence": 2.88,
+      "arousal": 3.18,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "SÃ© que te dejaste hace un me' Y de una de pecho me zumbÃ© Si quiere' te hago un bebÃ© O te traigo la' Plan B",
+      "valence": 3.01,
+      "arousal": 3.24,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Y de una de pecho me zumbÃ© Si quiere' te hago un bebÃ© O te traigo la' Plan B Uff, mami, quÃ© rica tÃº te ve'",
+      "valence": 3.08,
+      "arousal": 3.36,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Si quiere' te hago un bebÃ© O te traigo la' Plan B Uff, mami, quÃ© rica tÃº te ve' Pa' los 2000 escuchaba RBD",
+      "valence": 3.1,
+      "arousal": 3.26,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "O te traigo la' Plan B Uff, mami, quÃ© rica tÃº te ve' Pa' los 2000 escuchaba RBD Y ahora quiere perreo",
+      "valence": 3.13,
+      "arousal": 3.33,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Uff, mami, quÃ© rica tÃº te ve' Pa' los 2000 escuchaba RBD Y ahora quiere perreo Toa' la noche en la pared",
+      "valence": 3.16,
+      "arousal": 3.27,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Pa' los 2000 escuchaba RBD Y ahora quiere perreo Toa' la noche en la pared Te obsesiono, CBD",
+      "valence": 3.02,
+      "arousal": 3.04,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Y ahora quiere perreo Toa' la noche en la pared Te obsesiono, CBD Mami, tÃº ere' Ã©lite",
+      "valence": 3.08,
+      "arousal": 3.18,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Toa' la noche en la pared Te obsesiono, CBD Mami, tÃº ere' Ã©lite No te me limite'",
+      "valence": 2.84,
+      "arousal": 3.01,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Te obsesiono, CBD Mami, tÃº ere' Ã©lite No te me limite' DÃ©jame hacerte",
+      "valence": 2.8,
+      "arousal": 3.14,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Mami, tÃº ere' Ã©lite No te me limite' DÃ©jame hacerte Lo que amerite y te levite",
+      "valence": 2.92,
+      "arousal": 3.11,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "No te me limite' DÃ©jame hacerte Lo que amerite y te levite Dale pa'l escondite",
+      "valence": 2.93,
+      "arousal": 3.08,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "DÃ©jame hacerte Lo que amerite y te levite Dale pa'l escondite No te me arisque'",
+      "valence": 2.91,
+      "arousal": 3.1,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Lo que amerite y te levite Dale pa'l escondite No te me arisque' Que aquÃ­ no van a poder llegar lo' satÃ©lite'",
+      "valence": 2.97,
+      "arousal": 3.01,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Dale pa'l escondite No te me arisque' Que aquÃ­ no van a poder llegar lo' satÃ©lite' Mami, sube algo",
+      "valence": 2.93,
+      "arousal": 2.88,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "No te me arisque' Que aquÃ­ no van a poder llegar lo' satÃ©lite' Mami, sube algo Dame contenido",
+      "valence": 2.95,
+      "arousal": 2.95,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Que aquÃ­ no van a poder llegar lo' satÃ©lite' Mami, sube algo Dame contenido Ese culo sÃºbelo mÃ¡' seguido",
+      "valence": 2.98,
+      "arousal": 3.02,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Mami, sube algo Dame contenido Ese culo sÃºbelo mÃ¡' seguido Me paso jangueando",
+      "valence": 2.99,
+      "arousal": 3.14,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Dame contenido Ese culo sÃºbelo mÃ¡' seguido Me paso jangueando A ver si coincido, ey",
+      "valence": 3.0,
+      "arousal": 3.17,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Ese culo sÃºbelo mÃ¡' seguido Me paso jangueando A ver si coincido, ey Y por fin doy contigo",
+      "valence": 2.93,
+      "arousal": 3.17,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Me paso jangueando A ver si coincido, ey Y por fin doy contigo Mai, nuestra' bellaquera'",
+      "valence": 2.95,
+      "arousal": 3.16,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "A ver si coincido, ey Y por fin doy contigo Mai, nuestra' bellaquera' Nunca la' olvido",
+      "valence": 2.94,
+      "arousal": 3.08,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Y por fin doy contigo Mai, nuestra' bellaquera' Nunca la' olvido Ninguna como tÃº",
+      "valence": 2.91,
+      "arousal": 3.02,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Mai, nuestra' bellaquera' Nunca la' olvido Ninguna como tÃº A mÃ­ me ha complacido",
+      "valence": 2.95,
+      "arousal": 3.09,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Nunca la' olvido Ninguna como tÃº A mÃ­ me ha complacido TÃº cree' que a toda'",
+      "valence": 3.04,
+      "arousal": 3.07,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Ninguna como tÃº A mÃ­ me ha complacido TÃº cree' que a toda' Siempre les digo lo mismo",
+      "valence": 3.0,
+      "arousal": 3.07,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "A mÃ­ me ha complacido TÃº cree' que a toda' Siempre les digo lo mismo Quiere chingar",
+      "valence": 3.06,
+      "arousal": 3.15,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "TÃº cree' que a toda' Siempre les digo lo mismo Quiere chingar Pero no quiere na' fijo, ey",
+      "valence": 2.99,
+      "arousal": 2.96,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Siempre les digo lo mismo Quiere chingar Pero no quiere na' fijo, ey Pero en confianza me confiesa",
+      "valence": 3.06,
+      "arousal": 3.0,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Quiere chingar Pero no quiere na' fijo, ey Pero en confianza me confiesa Dice que nadie le interesa",
+      "valence": 2.92,
+      "arousal": 2.9,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Pero no quiere na' fijo, ey Pero en confianza me confiesa Dice que nadie le interesa Pero cuando sale, se pone traviesa (ey)",
+      "valence": 2.94,
+      "arousal": 2.98,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Pero en confianza me confiesa Dice que nadie le interesa Pero cuando sale, se pone traviesa (ey) Pa' que to' el mundo vea",
+      "valence": 2.95,
+      "arousal": 2.85,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Dice que nadie le interesa Pero cuando sale, se pone traviesa (ey) Pa' que to' el mundo vea Lo rica que tÃº estÃ¡', que tÃº estÃ¡', ey",
+      "valence": 2.89,
+      "arousal": 3.0,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Pero cuando sale, se pone traviesa (ey) Pa' que to' el mundo vea Lo rica que tÃº estÃ¡', que tÃº estÃ¡', ey Contigo tengo que apretar",
+      "valence": 2.94,
+      "arousal": 3.11,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Pa' que to' el mundo vea Lo rica que tÃº estÃ¡', que tÃº estÃ¡', ey Contigo tengo que apretar Y en la calle ando suelto",
+      "valence": 2.99,
+      "arousal": 3.16,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Lo rica que tÃº estÃ¡', que tÃº estÃ¡', ey Contigo tengo que apretar Y en la calle ando suelto Pero por ti me quito",
+      "valence": 3.0,
+      "arousal": 3.16,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Contigo tengo que apretar Y en la calle ando suelto Pero por ti me quito Si tÃº me lo pide'",
+      "valence": 2.99,
+      "arousal": 3.05,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Y en la calle ando suelto Pero por ti me quito Si tÃº me lo pide' Yo me porto bonito",
+      "valence": 3.2,
+      "arousal": 3.35,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Pero por ti me quito Si tÃº me lo pide' Yo me porto bonito Translate to English",
+      "valence": 3.11,
+      "arousal": 3.26,
+      "dominance": 3.31
+    }
+  ]
+}

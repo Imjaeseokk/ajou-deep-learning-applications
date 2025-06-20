@@ -1,0 +1,220 @@
+{
+  "artist": "Sam Smith & Normani",
+  "overall_vad": {
+    "valence": 3.19,
+    "arousal": 3.66,
+    "dominance": 3.18
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Hmm, hmm I don't wanna be alone tonight (alone tonight) It's pretty clear that I'm not over you (over you, over you) I'm still thinking 'bout the things you do (things you do)",
+      "valence": 2.48,
+      "arousal": 3.48,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I don't wanna be alone tonight (alone tonight) It's pretty clear that I'm not over you (over you, over you) I'm still thinking 'bout the things you do (things you do) So I don't wanna be alone tonight, alone tonight, alone tonight",
+      "valence": 2.38,
+      "arousal": 3.47,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "It's pretty clear that I'm not over you (over you, over you) I'm still thinking 'bout the things you do (things you do) So I don't wanna be alone tonight, alone tonight, alone tonight Can you light the fire? (light the fire, light the fire)",
+      "valence": 2.8,
+      "arousal": 3.54,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I'm still thinking 'bout the things you do (things you do) So I don't wanna be alone tonight, alone tonight, alone tonight Can you light the fire? (light the fire, light the fire) I need somebody who can take control (take control)",
+      "valence": 2.69,
+      "arousal": 3.56,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "So I don't wanna be alone tonight, alone tonight, alone tonight Can you light the fire? (light the fire, light the fire) I need somebody who can take control (take control) I know exactly what I need to do",
+      "valence": 2.87,
+      "arousal": 3.54,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Can you light the fire? (light the fire, light the fire) I need somebody who can take control (take control) I know exactly what I need to do 'Cause I don't wanna be alone tonight, alone tonight, alone tonight",
+      "valence": 2.9,
+      "arousal": 3.41,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I need somebody who can take control (take control) I know exactly what I need to do 'Cause I don't wanna be alone tonight, alone tonight, alone tonight Look what you made me do, I'm with somebody new",
+      "valence": 2.98,
+      "arousal": 3.58,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I know exactly what I need to do 'Cause I don't wanna be alone tonight, alone tonight, alone tonight Look what you made me do, I'm with somebody new Ooh, baby, baby, I'm dancing with a stranger",
+      "valence": 3.16,
+      "arousal": 3.69,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "'Cause I don't wanna be alone tonight, alone tonight, alone tonight Look what you made me do, I'm with somebody new Ooh, baby, baby, I'm dancing with a stranger Look what you made me do, I'm with somebody new",
+      "valence": 3.16,
+      "arousal": 3.82,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Look what you made me do, I'm with somebody new Ooh, baby, baby, I'm dancing with a stranger Look what you made me do, I'm with somebody new Ooh, baby, baby, I'm dancing with a stranger",
+      "valence": 3.44,
+      "arousal": 3.61,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Ooh, baby, baby, I'm dancing with a stranger Look what you made me do, I'm with somebody new Ooh, baby, baby, I'm dancing with a stranger Dancing with a stranger",
+      "valence": 3.57,
+      "arousal": 3.66,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Look what you made me do, I'm with somebody new Ooh, baby, baby, I'm dancing with a stranger Dancing with a stranger I wasn't even goin' out tonight (out tonight)",
+      "valence": 3.48,
+      "arousal": 3.71,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Ooh, baby, baby, I'm dancing with a stranger Dancing with a stranger I wasn't even goin' out tonight (out tonight) But, boy, I need to get you off of my mind (off of my mind)",
+      "valence": 3.03,
+      "arousal": 3.81,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Dancing with a stranger I wasn't even goin' out tonight (out tonight) But, boy, I need to get you off of my mind (off of my mind) I know exactly what I have to do",
+      "valence": 2.66,
+      "arousal": 3.67,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I wasn't even goin' out tonight (out tonight) But, boy, I need to get you off of my mind (off of my mind) I know exactly what I have to do I don't wanna be alone tonight, alone tonight, alone tonight",
+      "valence": 2.29,
+      "arousal": 3.59,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "But, boy, I need to get you off of my mind (off of my mind) I know exactly what I have to do I don't wanna be alone tonight, alone tonight, alone tonight Look what you made me do, I'm with somebody new",
+      "valence": 2.57,
+      "arousal": 3.89,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I know exactly what I have to do I don't wanna be alone tonight, alone tonight, alone tonight Look what you made me do, I'm with somebody new Ooh, baby, baby, I'm dancing with a stranger",
+      "valence": 3.07,
+      "arousal": 3.76,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I don't wanna be alone tonight, alone tonight, alone tonight Look what you made me do, I'm with somebody new Ooh, baby, baby, I'm dancing with a stranger Look what you made me do, I'm with somebody new",
+      "valence": 3.21,
+      "arousal": 3.82,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Look what you made me do, I'm with somebody new Ooh, baby, baby, I'm dancing with a stranger Look what you made me do, I'm with somebody new Ooh, baby, baby, I'm dancing with a stranger",
+      "valence": 3.44,
+      "arousal": 3.61,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Ooh, baby, baby, I'm dancing with a stranger Look what you made me do, I'm with somebody new Ooh, baby, baby, I'm dancing with a stranger Dancing with a stranger",
+      "valence": 3.57,
+      "arousal": 3.66,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Look what you made me do, I'm with somebody new Ooh, baby, baby, I'm dancing with a stranger Dancing with a stranger Dancing with a stranger",
+      "valence": 3.49,
+      "arousal": 3.66,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Ooh, baby, baby, I'm dancing with a stranger Dancing with a stranger Dancing with a stranger Dancing, yeah, ooh",
+      "valence": 3.5,
+      "arousal": 3.67,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Dancing with a stranger Dancing with a stranger Dancing, yeah, ooh Look what you made me do (ooh), I'm with somebody new",
+      "valence": 3.56,
+      "arousal": 3.64,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Dancing with a stranger Dancing, yeah, ooh Look what you made me do (ooh), I'm with somebody new Ooh, baby, baby, I'm dancing with a stranger",
+      "valence": 3.59,
+      "arousal": 3.71,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Dancing, yeah, ooh Look what you made me do (ooh), I'm with somebody new Ooh, baby, baby, I'm dancing with a stranger Look what you made me do, I'm with somebody new",
+      "valence": 3.71,
+      "arousal": 3.75,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Look what you made me do (ooh), I'm with somebody new Ooh, baby, baby, I'm dancing with a stranger Look what you made me do, I'm with somebody new Ooh, baby, baby, I'm dancing with a stranger",
+      "valence": 3.47,
+      "arousal": 3.65,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Ooh, baby, baby, I'm dancing with a stranger Look what you made me do, I'm with somebody new Ooh, baby, baby, I'm dancing with a stranger I'm dancing, I'm dancing (ooh)",
+      "valence": 3.68,
+      "arousal": 3.78,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Look what you made me do, I'm with somebody new Ooh, baby, baby, I'm dancing with a stranger I'm dancing, I'm dancing (ooh) I'm dancing, I'm dancing (dancing with a stranger)",
+      "valence": 3.62,
+      "arousal": 3.73,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Ooh, baby, baby, I'm dancing with a stranger I'm dancing, I'm dancing (ooh) I'm dancing, I'm dancing (dancing with a stranger) I'm dancing, I'm dancing (dancing with a stranger)",
+      "valence": 3.62,
+      "arousal": 3.74,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I'm dancing, I'm dancing (ooh) I'm dancing, I'm dancing (dancing with a stranger) I'm dancing, I'm dancing (dancing with a stranger) I'm dancing, I'm dancing (dancing with a stranger)",
+      "valence": 3.6,
+      "arousal": 3.61,
+      "dominance": 3.15
+    }
+  ]
+}

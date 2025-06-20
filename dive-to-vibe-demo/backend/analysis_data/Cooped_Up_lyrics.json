@@ -1,0 +1,444 @@
+{
+  "artist": "Post Malone Featuring Roddy Ricch",
+  "overall_vad": {
+    "valence": 2.71,
+    "arousal": 3.6,
+    "dominance": 3.17
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Mm-mm-mm I'm about to pull up Hit switch, pull curtain (hit switch, pull curtain) And I've been waitin' so long",
+      "valence": 3.12,
+      "arousal": 3.43,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I'm about to pull up Hit switch, pull curtain (hit switch, pull curtain) And I've been waitin' so long Now I gotta resurface (I gotta resurface)",
+      "valence": 2.76,
+      "arousal": 3.5,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Hit switch, pull curtain (hit switch, pull curtain) And I've been waitin' so long Now I gotta resurface (I gotta resurface) And yeah, we 'bout to toast up",
+      "valence": 2.89,
+      "arousal": 3.4,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "And I've been waitin' so long Now I gotta resurface (I gotta resurface) And yeah, we 'bout to toast up All that bread that we burnin' (burnin', burnin', burnin')",
+      "valence": 2.72,
+      "arousal": 3.45,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Now I gotta resurface (I gotta resurface) And yeah, we 'bout to toast up All that bread that we burnin' (burnin', burnin', burnin') 'Cause I've been feelin' cooped up (yeah)",
+      "valence": 2.59,
+      "arousal": 3.48,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "And yeah, we 'bout to toast up All that bread that we burnin' (burnin', burnin', burnin') 'Cause I've been feelin' cooped up (yeah) I've been fuckin' cooped up (mm-mm-mm)",
+      "valence": 2.49,
+      "arousal": 3.7,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "All that bread that we burnin' (burnin', burnin', burnin') 'Cause I've been feelin' cooped up (yeah) I've been fuckin' cooped up (mm-mm-mm) Yeah, I'm off the Bud Light, not the bourbon (mm)",
+      "valence": 2.23,
+      "arousal": 3.56,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "'Cause I've been feelin' cooped up (yeah) I've been fuckin' cooped up (mm-mm-mm) Yeah, I'm off the Bud Light, not the bourbon (mm) I might chop the roof off the Suburban (skrrt)",
+      "valence": 2.25,
+      "arousal": 3.65,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I've been fuckin' cooped up (mm-mm-mm) Yeah, I'm off the Bud Light, not the bourbon (mm) I might chop the roof off the Suburban (skrrt) Tried to Bia Nice Guy, John Terzian (wow)",
+      "valence": 2.43,
+      "arousal": 3.73,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Yeah, I'm off the Bud Light, not the bourbon (mm) I might chop the roof off the Suburban (skrrt) Tried to Bia Nice Guy, John Terzian (wow) 'Til I started throwin' up in your Birkin (ooh)",
+      "valence": 2.84,
+      "arousal": 3.47,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I might chop the roof off the Suburban (skrrt) Tried to Bia Nice Guy, John Terzian (wow) 'Til I started throwin' up in your Birkin (ooh) Then I woke up in the mornin'",
+      "valence": 2.6,
+      "arousal": 3.51,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Tried to Bia Nice Guy, John Terzian (wow) 'Til I started throwin' up in your Birkin (ooh) Then I woke up in the mornin' Police showed up at my door with a warrant (fuck that shit)",
+      "valence": 2.36,
+      "arousal": 3.95,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "'Til I started throwin' up in your Birkin (ooh) Then I woke up in the mornin' Police showed up at my door with a warrant (fuck that shit) I remember flushin' somethin' down the toilet (flush, flush)",
+      "valence": 2.19,
+      "arousal": 3.93,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Then I woke up in the mornin' Police showed up at my door with a warrant (fuck that shit) I remember flushin' somethin' down the toilet (flush, flush) Guess he gotta let me off with a warnin'",
+      "valence": 2.19,
+      "arousal": 3.9,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Police showed up at my door with a warrant (fuck that shit) I remember flushin' somethin' down the toilet (flush, flush) Guess he gotta let me off with a warnin' Return of the Mack (ah)",
+      "valence": 2.29,
+      "arousal": 3.89,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I remember flushin' somethin' down the toilet (flush, flush) Guess he gotta let me off with a warnin' Return of the Mack (ah) Feelin' like an outcast, I'm the only guy in slacks",
+      "valence": 2.61,
+      "arousal": 3.21,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Guess he gotta let me off with a warnin' Return of the Mack (ah) Feelin' like an outcast, I'm the only guy in slacks That'll cost you three stacks (three stacks, three stacks)",
+      "valence": 2.59,
+      "arousal": 3.31,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Return of the Mack (ah) Feelin' like an outcast, I'm the only guy in slacks That'll cost you three stacks (three stacks, three stacks) Now you savin' that check, why you takin' my swag?",
+      "valence": 2.7,
+      "arousal": 3.45,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Feelin' like an outcast, I'm the only guy in slacks That'll cost you three stacks (three stacks, three stacks) Now you savin' that check, why you takin' my swag? Can you give me that back?",
+      "valence": 2.68,
+      "arousal": 3.47,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "That'll cost you three stacks (three stacks, three stacks) Now you savin' that check, why you takin' my swag? Can you give me that back? Gucci my Prada, Miyake (ooh)",
+      "valence": 2.9,
+      "arousal": 3.65,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Now you savin' that check, why you takin' my swag? Can you give me that back? Gucci my Prada, Miyake (ooh) Louis, Bottega, and Tommy",
+      "valence": 2.86,
+      "arousal": 3.54,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Can you give me that back? Gucci my Prada, Miyake (ooh) Louis, Bottega, and Tommy All of these things on my body, let's party (ah-ah-ah)",
+      "valence": 3.18,
+      "arousal": 3.68,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Gucci my Prada, Miyake (ooh) Louis, Bottega, and Tommy All of these things on my body, let's party (ah-ah-ah) I'm about to pull up",
+      "valence": 3.39,
+      "arousal": 3.71,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Louis, Bottega, and Tommy All of these things on my body, let's party (ah-ah-ah) I'm about to pull up Hit switch, pull curtain (hit switch, pull curtain)",
+      "valence": 3.25,
+      "arousal": 3.64,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "All of these things on my body, let's party (ah-ah-ah) I'm about to pull up Hit switch, pull curtain (hit switch, pull curtain) And I've been waitin' so long",
+      "valence": 3.15,
+      "arousal": 3.66,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I'm about to pull up Hit switch, pull curtain (hit switch, pull curtain) And I've been waitin' so long Now I gotta resurface (I gotta resurface)",
+      "valence": 2.76,
+      "arousal": 3.5,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Hit switch, pull curtain (hit switch, pull curtain) And I've been waitin' so long Now I gotta resurface (I gotta resurface) And yeah, we 'bout to toast up",
+      "valence": 2.89,
+      "arousal": 3.4,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "And I've been waitin' so long Now I gotta resurface (I gotta resurface) And yeah, we 'bout to toast up All that bread that we burnin' (burnin', burnin', burnin')",
+      "valence": 2.72,
+      "arousal": 3.45,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Now I gotta resurface (I gotta resurface) And yeah, we 'bout to toast up All that bread that we burnin' (burnin', burnin', burnin') 'Cause I've been feelin' cooped up (yeah)",
+      "valence": 2.59,
+      "arousal": 3.48,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "And yeah, we 'bout to toast up All that bread that we burnin' (burnin', burnin', burnin') 'Cause I've been feelin' cooped up (yeah) I've been fuckin' cooped up (cooped up, mm-mm-mm)",
+      "valence": 2.52,
+      "arousal": 3.67,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "All that bread that we burnin' (burnin', burnin', burnin') 'Cause I've been feelin' cooped up (yeah) I've been fuckin' cooped up (cooped up, mm-mm-mm) Shit, gotta pull up",
+      "valence": 1.87,
+      "arousal": 3.86,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "'Cause I've been feelin' cooped up (yeah) I've been fuckin' cooped up (cooped up, mm-mm-mm) Shit, gotta pull up Pull up, I'ma pull up",
+      "valence": 1.98,
+      "arousal": 3.84,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I've been fuckin' cooped up (cooped up, mm-mm-mm) Shit, gotta pull up Pull up, I'ma pull up I pull up, ayy",
+      "valence": 2.06,
+      "arousal": 3.89,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Shit, gotta pull up Pull up, I'ma pull up I pull up, ayy Got black minks all on the rug, whoa, whoa",
+      "valence": 2.53,
+      "arousal": 3.86,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Pull up, I'ma pull up I pull up, ayy Got black minks all on the rug, whoa, whoa Got hella hoes poppin' drugs, whoa, whoa",
+      "valence": 2.69,
+      "arousal": 3.56,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I pull up, ayy Got black minks all on the rug, whoa, whoa Got hella hoes poppin' drugs, whoa, whoa In every hood, they show us love, whoa, whoa",
+      "valence": 3.46,
+      "arousal": 3.72,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Got black minks all on the rug, whoa, whoa Got hella hoes poppin' drugs, whoa, whoa In every hood, they show us love, whoa, whoa Partner in crime with me while we whippin' in the spaceship",
+      "valence": 3.31,
+      "arousal": 3.66,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Got hella hoes poppin' drugs, whoa, whoa In every hood, they show us love, whoa, whoa Partner in crime with me while we whippin' in the spaceship Got it out the pavement, now we gettin' payment",
+      "valence": 3.01,
+      "arousal": 3.58,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "In every hood, they show us love, whoa, whoa Partner in crime with me while we whippin' in the spaceship Got it out the pavement, now we gettin' payment Everybody 'round me gettin' money, it's too contagious",
+      "valence": 3.26,
+      "arousal": 3.59,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Partner in crime with me while we whippin' in the spaceship Got it out the pavement, now we gettin' payment Everybody 'round me gettin' money, it's too contagious Kept it solid, now we real rich to they amazement",
+      "valence": 3.19,
+      "arousal": 3.39,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Got it out the pavement, now we gettin' payment Everybody 'round me gettin' money, it's too contagious Kept it solid, now we real rich to they amazement I pulled up the Black Badge 'cause it was cleaner",
+      "valence": 3.21,
+      "arousal": 3.32,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Everybody 'round me gettin' money, it's too contagious Kept it solid, now we real rich to they amazement I pulled up the Black Badge 'cause it was cleaner I 'member I was just posted up with the demons",
+      "valence": 3.01,
+      "arousal": 3.37,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Kept it solid, now we real rich to they amazement I pulled up the Black Badge 'cause it was cleaner I 'member I was just posted up with the demons And Posty took me on my first damn tour date",
+      "valence": 3.38,
+      "arousal": 3.59,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I pulled up the Black Badge 'cause it was cleaner I 'member I was just posted up with the demons And Posty took me on my first damn tour date He had me rockin' every night, sold out arenas",
+      "valence": 3.35,
+      "arousal": 3.62,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I 'member I was just posted up with the demons And Posty took me on my first damn tour date He had me rockin' every night, sold out arenas A project nigga, I never thought I would see shit",
+      "valence": 3.19,
+      "arousal": 3.74,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "And Posty took me on my first damn tour date He had me rockin' every night, sold out arenas A project nigga, I never thought I would see shit If I tried to tell you, you prolly wouldn't believe us",
+      "valence": 3.17,
+      "arousal": 3.73,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "He had me rockin' every night, sold out arenas A project nigga, I never thought I would see shit If I tried to tell you, you prolly wouldn't believe us I'm about to pull up",
+      "valence": 2.94,
+      "arousal": 3.59,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "A project nigga, I never thought I would see shit If I tried to tell you, you prolly wouldn't believe us I'm about to pull up Hit switch, pull curtain (hit switch, pull curtain)",
+      "valence": 2.7,
+      "arousal": 3.39,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "If I tried to tell you, you prolly wouldn't believe us I'm about to pull up Hit switch, pull curtain (hit switch, pull curtain) And I've been waitin' so long",
+      "valence": 2.65,
+      "arousal": 3.57,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I'm about to pull up Hit switch, pull curtain (hit switch, pull curtain) And I've been waitin' so long Now I gotta resurface (I gotta resurface)",
+      "valence": 2.76,
+      "arousal": 3.5,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Hit switch, pull curtain (hit switch, pull curtain) And I've been waitin' so long Now I gotta resurface (I gotta resurface) And yeah, we 'bout to toast up",
+      "valence": 2.89,
+      "arousal": 3.4,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "And I've been waitin' so long Now I gotta resurface (I gotta resurface) And yeah, we 'bout to toast up All that bread that we burnin' (burnin', burnin', burnin')",
+      "valence": 2.72,
+      "arousal": 3.45,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Now I gotta resurface (I gotta resurface) And yeah, we 'bout to toast up All that bread that we burnin' (burnin', burnin', burnin') 'Cause I've been feelin' cooped up (yeah)",
+      "valence": 2.59,
+      "arousal": 3.48,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "And yeah, we 'bout to toast up All that bread that we burnin' (burnin', burnin', burnin') 'Cause I've been feelin' cooped up (yeah) I've been fuckin' cooped up (cooped up, mm-mm-mm)",
+      "valence": 2.52,
+      "arousal": 3.67,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "All that bread that we burnin' (burnin', burnin', burnin') 'Cause I've been feelin' cooped up (yeah) I've been fuckin' cooped up (cooped up, mm-mm-mm) 'Til the daylight come, 'til the daylight come",
+      "valence": 2.29,
+      "arousal": 3.54,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "'Cause I've been feelin' cooped up (yeah) I've been fuckin' cooped up (cooped up, mm-mm-mm) 'Til the daylight come, 'til the daylight come I got sake in my tummy, cigarette in my lungs",
+      "valence": 2.19,
+      "arousal": 3.56,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "I've been fuckin' cooped up (cooped up, mm-mm-mm) 'Til the daylight come, 'til the daylight come I got sake in my tummy, cigarette in my lungs It's eleven in the mornin' and we still ain't done",
+      "valence": 2.24,
+      "arousal": 3.56,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "'Til the daylight come, 'til the daylight come I got sake in my tummy, cigarette in my lungs It's eleven in the mornin' and we still ain't done And I'm still that bitch, so what?",
+      "valence": 2.47,
+      "arousal": 3.67,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "I got sake in my tummy, cigarette in my lungs It's eleven in the mornin' and we still ain't done And I'm still that bitch, so what? Yeah, we 'bout to toast up",
+      "valence": 2.51,
+      "arousal": 3.69,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "It's eleven in the mornin' and we still ain't done And I'm still that bitch, so what? Yeah, we 'bout to toast up All that bread that we burnin' (burnin', burnin', burnin')",
+      "valence": 2.38,
+      "arousal": 3.76,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "And I'm still that bitch, so what? Yeah, we 'bout to toast up All that bread that we burnin' (burnin', burnin', burnin') 'Cause I've been feelin' cooped up (yeah)",
+      "valence": 2.16,
+      "arousal": 3.81,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Yeah, we 'bout to toast up All that bread that we burnin' (burnin', burnin', burnin') 'Cause I've been feelin' cooped up (yeah) I've been fuckin' cooped up (mm-mm-mm)",
+      "valence": 2.56,
+      "arousal": 3.65,
+      "dominance": 3.26
+    }
+  ]
+}

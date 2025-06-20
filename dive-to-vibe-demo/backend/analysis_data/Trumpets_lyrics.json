@@ -1,0 +1,388 @@
+{
+  "artist": "Jason Derulo",
+  "overall_vad": {
+    "valence": 3.09,
+    "arousal": 3.4,
+    "dominance": 3.15
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Every time that you get undressed I hear symphonies in my head I wrote this song just looking at you, oh, oh Yeah, the drums they swing low",
+      "valence": 3.17,
+      "arousal": 3.51,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I hear symphonies in my head I wrote this song just looking at you, oh, oh Yeah, the drums they swing low And the trumpets they go",
+      "valence": 3.28,
+      "arousal": 3.46,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I wrote this song just looking at you, oh, oh Yeah, the drums they swing low And the trumpets they go And the trumpets they go",
+      "valence": 3.23,
+      "arousal": 3.37,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Yeah, the drums they swing low And the trumpets they go And the trumpets they go Yeah, the trumpets they go",
+      "valence": 3.09,
+      "arousal": 3.3,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "And the trumpets they go And the trumpets they go Yeah, the trumpets they go Da da, da ra-ra da",
+      "valence": 3.05,
+      "arousal": 3.25,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "And the trumpets they go Yeah, the trumpets they go Da da, da ra-ra da Da da, da ra-ra da",
+      "valence": 3.07,
+      "arousal": 3.29,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Yeah, the trumpets they go Da da, da ra-ra da Da da, da ra-ra da Da da, da ra-ra da",
+      "valence": 3.06,
+      "arousal": 3.27,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Da da, da ra-ra da Da da, da ra-ra da Da da, da ra-ra da Da da, da ra-ra da",
+      "valence": 3.02,
+      "arousal": 3.23,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Da da, da ra-ra da Da da, da ra-ra da Da da, da ra-ra da Da da, da ra-ra da (Ooh)",
+      "valence": 3.03,
+      "arousal": 3.44,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Da da, da ra-ra da Da da, da ra-ra da Da da, da ra-ra da (Ooh) Da da, da ra-ra da",
+      "valence": 2.97,
+      "arousal": 3.5,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Da da, da ra-ra da Da da, da ra-ra da (Ooh) Da da, da ra-ra da They go",
+      "valence": 2.94,
+      "arousal": 3.46,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Da da, da ra-ra da (Ooh) Da da, da ra-ra da They go Heh, is it weird that I hear",
+      "valence": 2.86,
+      "arousal": 3.38,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Da da, da ra-ra da They go Heh, is it weird that I hear Violins whenever you're gone? (Whenever you're gone)",
+      "valence": 3.0,
+      "arousal": 3.2,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "They go Heh, is it weird that I hear Violins whenever you're gone? (Whenever you're gone) Yeah, is it weird that your ass",
+      "valence": 2.84,
+      "arousal": 3.3,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Heh, is it weird that I hear Violins whenever you're gone? (Whenever you're gone) Yeah, is it weird that your ass Remind me of a Kanye West song? (Kanye West song)",
+      "valence": 2.9,
+      "arousal": 3.29,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Violins whenever you're gone? (Whenever you're gone) Yeah, is it weird that your ass Remind me of a Kanye West song? (Kanye West song) Is it weird that I hear",
+      "valence": 2.81,
+      "arousal": 3.24,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Yeah, is it weird that your ass Remind me of a Kanye West song? (Kanye West song) Is it weird that I hear Trumpets when you're turning me on? (Turning me on)",
+      "valence": 2.83,
+      "arousal": 3.53,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Remind me of a Kanye West song? (Kanye West song) Is it weird that I hear Trumpets when you're turning me on? (Turning me on) Is it weird that your bra",
+      "valence": 3.04,
+      "arousal": 3.32,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Is it weird that I hear Trumpets when you're turning me on? (Turning me on) Is it weird that your bra Remind me of a Katy Perry song?",
+      "valence": 2.98,
+      "arousal": 3.49,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Trumpets when you're turning me on? (Turning me on) Is it weird that your bra Remind me of a Katy Perry song? Every time that you get undressed",
+      "valence": 3.01,
+      "arousal": 3.51,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Is it weird that your bra Remind me of a Katy Perry song? Every time that you get undressed I hear symphonies in my head",
+      "valence": 2.99,
+      "arousal": 3.38,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Remind me of a Katy Perry song? Every time that you get undressed I hear symphonies in my head I wrote this song just looking at you, oh, oh",
+      "valence": 3.15,
+      "arousal": 3.43,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Every time that you get undressed I hear symphonies in my head I wrote this song just looking at you, oh, oh Yeah, the drums they swing low",
+      "valence": 3.17,
+      "arousal": 3.51,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I hear symphonies in my head I wrote this song just looking at you, oh, oh Yeah, the drums they swing low And the trumpets they go (And they playing for you girl)",
+      "valence": 3.39,
+      "arousal": 3.53,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I wrote this song just looking at you, oh, oh Yeah, the drums they swing low And the trumpets they go (And they playing for you girl) And the trumpets they go (Ah, yeah)",
+      "valence": 3.38,
+      "arousal": 3.44,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Yeah, the drums they swing low And the trumpets they go (And they playing for you girl) And the trumpets they go (Ah, yeah) Yeah, the trumpets they go",
+      "valence": 3.26,
+      "arousal": 3.35,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "And the trumpets they go (And they playing for you girl) And the trumpets they go (Ah, yeah) Yeah, the trumpets they go Da da, da ra-ra da",
+      "valence": 3.25,
+      "arousal": 3.31,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "And the trumpets they go (Ah, yeah) Yeah, the trumpets they go Da da, da ra-ra da Da da, da ra-ra da",
+      "valence": 3.16,
+      "arousal": 3.26,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Yeah, the trumpets they go Da da, da ra-ra da Da da, da ra-ra da Da da, da ra-ra da (Oh)",
+      "valence": 3.06,
+      "arousal": 3.24,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Da da, da ra-ra da Da da, da ra-ra da Da da, da ra-ra da (Oh) Yeah, the trumpets they go",
+      "valence": 3.14,
+      "arousal": 3.25,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Da da, da ra-ra da Da da, da ra-ra da (Oh) Yeah, the trumpets they go Da da, da ra-ra da (Go, go, go)",
+      "valence": 3.14,
+      "arousal": 3.34,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Da da, da ra-ra da (Oh) Yeah, the trumpets they go Da da, da ra-ra da (Go, go, go) Da da, da ra-ra da (Go, go)",
+      "valence": 3.15,
+      "arousal": 3.3,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Yeah, the trumpets they go Da da, da ra-ra da (Go, go, go) Da da, da ra-ra da (Go, go) Da da, da ra-ra da (Go, go, go)",
+      "valence": 3.08,
+      "arousal": 3.29,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Da da, da ra-ra da (Go, go, go) Da da, da ra-ra da (Go, go) Da da, da ra-ra da (Go, go, go) And they go",
+      "valence": 3.08,
+      "arousal": 3.22,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Da da, da ra-ra da (Go, go) Da da, da ra-ra da (Go, go, go) And they go Is it weird that I hear",
+      "valence": 2.94,
+      "arousal": 3.3,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Da da, da ra-ra da (Go, go, go) And they go Is it weird that I hear Angels every time that you moan? (Time that you moan)",
+      "valence": 2.83,
+      "arousal": 3.26,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "And they go Is it weird that I hear Angels every time that you moan? (Time that you moan) Oh yeah, is it weird that your eyes",
+      "valence": 2.93,
+      "arousal": 3.28,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Is it weird that I hear Angels every time that you moan? (Time that you moan) Oh yeah, is it weird that your eyes Remind me of a Coldplay song? (Coldplay song)",
+      "valence": 2.99,
+      "arousal": 3.29,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Angels every time that you moan? (Time that you moan) Oh yeah, is it weird that your eyes Remind me of a Coldplay song? (Coldplay song) Is it weird that I hear",
+      "valence": 2.9,
+      "arousal": 3.32,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Oh yeah, is it weird that your eyes Remind me of a Coldplay song? (Coldplay song) Is it weird that I hear Trumpets when you're turning me on? (Turning me on)",
+      "valence": 3.05,
+      "arousal": 3.4,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Remind me of a Coldplay song? (Coldplay song) Is it weird that I hear Trumpets when you're turning me on? (Turning me on) Is it weird that your bra",
+      "valence": 3.06,
+      "arousal": 3.33,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Is it weird that I hear Trumpets when you're turning me on? (Turning me on) Is it weird that your bra Remind me of a Katy Perry song?",
+      "valence": 2.98,
+      "arousal": 3.49,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Trumpets when you're turning me on? (Turning me on) Is it weird that your bra Remind me of a Katy Perry song? Every time that you get undressed",
+      "valence": 3.01,
+      "arousal": 3.51,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Is it weird that your bra Remind me of a Katy Perry song? Every time that you get undressed I hear symphonies in my head",
+      "valence": 2.99,
+      "arousal": 3.38,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Remind me of a Katy Perry song? Every time that you get undressed I hear symphonies in my head I wrote this song looking at you, oh, oh",
+      "valence": 3.09,
+      "arousal": 3.41,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Every time that you get undressed I hear symphonies in my head I wrote this song looking at you, oh, oh Oh, yeah",
+      "valence": 3.1,
+      "arousal": 3.51,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I hear symphonies in my head I wrote this song looking at you, oh, oh Oh, yeah Every timethat you get undressed",
+      "valence": 3.15,
+      "arousal": 3.4,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I wrote this song looking at you, oh, oh Oh, yeah Every timethat you get undressed I hear symphonies in my head (Haha)",
+      "valence": 3.32,
+      "arousal": 3.65,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Oh, yeah Every timethat you get undressed I hear symphonies in my head (Haha) I wrote this song just looking at you, oh, oh (Just looking at you girl)",
+      "valence": 3.49,
+      "arousal": 3.77,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Every timethat you get undressed I hear symphonies in my head (Haha) I wrote this song just looking at you, oh, oh (Just looking at you girl) Uh, yeah, the drums they swing low",
+      "valence": 3.35,
+      "arousal": 3.65,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I hear symphonies in my head (Haha) I wrote this song just looking at you, oh, oh (Just looking at you girl) Uh, yeah, the drums they swing low And the trumpets they go (Ha! Acapella on 'em)",
+      "valence": 3.48,
+      "arousal": 3.69,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "I wrote this song just looking at you, oh, oh (Just looking at you girl) Uh, yeah, the drums they swing low And the trumpets they go (Ha! Acapella on 'em) They go, oh-oh, oh-yeah",
+      "valence": 3.42,
+      "arousal": 3.55,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Uh, yeah, the drums they swing low And the trumpets they go (Ha! Acapella on 'em) They go, oh-oh, oh-yeah Uh come on, come on, come on",
+      "valence": 3.22,
+      "arousal": 3.68,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "And the trumpets they go (Ha! Acapella on 'em) They go, oh-oh, oh-yeah Uh come on, come on, come on They go",
+      "valence": 3.2,
+      "arousal": 3.66,
+      "dominance": 3.27
+    }
+  ]
+}

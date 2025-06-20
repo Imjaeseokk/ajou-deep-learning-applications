@@ -1,0 +1,339 @@
+{
+  "artist": "Drake",
+  "overall_vad": {
+    "valence": 2.88,
+    "arousal": 3.46,
+    "dominance": 3.1
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "You get in my bed, you twist up my head I'm changing for you, changing for you You get in my bed, you twist up my head I'm changing for you, changing for you",
+      "valence": 3.08,
+      "arousal": 3.29,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I'm changing for you, changing for you You get in my bed, you twist up my head I'm changing for you, changing for you You die with the lie",
+      "valence": 2.64,
+      "arousal": 3.44,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "You get in my bed, you twist up my head I'm changing for you, changing for you You die with the lie You lie and a piece of me dies",
+      "valence": 2.29,
+      "arousal": 3.51,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I'm changing for you, changing for you You die with the lie You lie and a piece of me dies Inside out, I pray, so much I can take",
+      "valence": 2.27,
+      "arousal": 3.59,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "You die with the lie You lie and a piece of me dies Inside out, I pray, so much I can take I'm here for the ride, your pride might be the reason why",
+      "valence": 2.21,
+      "arousal": 3.51,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "You lie and a piece of me dies Inside out, I pray, so much I can take I'm here for the ride, your pride might be the reason why We don't even make it to see the days",
+      "valence": 2.34,
+      "arousal": 3.39,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Inside out, I pray, so much I can take I'm here for the ride, your pride might be the reason why We don't even make it to see the days Woah",
+      "valence": 2.99,
+      "arousal": 3.37,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I'm here for the ride, your pride might be the reason why We don't even make it to see the days Woah Woah, woah, woah, woah, woah",
+      "valence": 3.04,
+      "arousal": 3.57,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "We don't even make it to see the days Woah Woah, woah, woah, woah, woah Woah, woah, woah, woah, woah, woah",
+      "valence": 2.43,
+      "arousal": 3.22,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Woah Woah, woah, woah, woah, woah Woah, woah, woah, woah, woah, woah Needed you, wanted you to stay mine",
+      "valence": 3.19,
+      "arousal": 3.68,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Woah, woah, woah, woah, woah Woah, woah, woah, woah, woah, woah Needed you, wanted you to stay mine Winter came, you left me 'round my favorite time, yeah",
+      "valence": 3.48,
+      "arousal": 3.68,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Woah, woah, woah, woah, woah, woah Needed you, wanted you to stay mine Winter came, you left me 'round my favorite time, yeah We been down this road, past this street a hundred times",
+      "valence": 3.43,
+      "arousal": 3.65,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Needed you, wanted you to stay mine Winter came, you left me 'round my favorite time, yeah We been down this road, past this street a hundred times Claimed you haven't eaten in days",
+      "valence": 3.25,
+      "arousal": 3.55,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Winter came, you left me 'round my favorite time, yeah We been down this road, past this street a hundred times Claimed you haven't eaten in days Drinking, you wade in champagne",
+      "valence": 3.46,
+      "arousal": 3.43,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "We been down this road, past this street a hundred times Claimed you haven't eaten in days Drinking, you wade in champagne You're too busy dancing in the club to our songs",
+      "valence": 3.01,
+      "arousal": 3.46,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Claimed you haven't eaten in days Drinking, you wade in champagne You're too busy dancing in the club to our songs Turned up on my phone, changing your whole tone",
+      "valence": 3.05,
+      "arousal": 3.32,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Drinking, you wade in champagne You're too busy dancing in the club to our songs Turned up on my phone, changing your whole tone Playing with my emotions, playing with my emotions",
+      "valence": 3.29,
+      "arousal": 3.53,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "You're too busy dancing in the club to our songs Turned up on my phone, changing your whole tone Playing with my emotions, playing with my emotions Playing with my emotions, playing with my emotions",
+      "valence": 3.25,
+      "arousal": 3.47,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Turned up on my phone, changing your whole tone Playing with my emotions, playing with my emotions Playing with my emotions, playing with my emotions You're too busy dancing in the club to our songs",
+      "valence": 3.4,
+      "arousal": 3.54,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Playing with my emotions, playing with my emotions Playing with my emotions, playing with my emotions You're too busy dancing in the club to our songs Turned up on my phone, playing with my emotions",
+      "valence": 3.38,
+      "arousal": 3.3,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Playing with my emotions, playing with my emotions You're too busy dancing in the club to our songs Turned up on my phone, playing with my emotions Playing with my emotions, playing with my emotions",
+      "valence": 3.44,
+      "arousal": 3.32,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "You're too busy dancing in the club to our songs Turned up on my phone, playing with my emotions Playing with my emotions, playing with my emotions Playing with my emotions, playing with my emotions",
+      "valence": 3.28,
+      "arousal": 3.29,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Turned up on my phone, playing with my emotions Playing with my emotions, playing with my emotions Playing with my emotions, playing with my emotions Playing with my",
+      "valence": 3.27,
+      "arousal": 3.17,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Playing with my emotions, playing with my emotions Playing with my emotions, playing with my emotions Playing with my You get in my bed, you twist up my head",
+      "valence": 3.22,
+      "arousal": 3.3,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Playing with my emotions, playing with my emotions Playing with my You get in my bed, you twist up my head I'm changing for you, changing for you",
+      "valence": 3.32,
+      "arousal": 3.45,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Playing with my You get in my bed, you twist up my head I'm changing for you, changing for you You get in my bed, you twist up my head",
+      "valence": 3.1,
+      "arousal": 3.24,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "You get in my bed, you twist up my head I'm changing for you, changing for you You get in my bed, you twist up my head I'm changing for you, changing for you",
+      "valence": 3.08,
+      "arousal": 3.29,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I'm changing for you, changing for you You get in my bed, you twist up my head I'm changing for you, changing for you You die with the lie",
+      "valence": 2.64,
+      "arousal": 3.44,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "You get in my bed, you twist up my head I'm changing for you, changing for you You die with the lie You lie and a piece of me dies",
+      "valence": 2.29,
+      "arousal": 3.51,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I'm changing for you, changing for you You die with the lie You lie and a piece of me dies Inside out, I pray, so much I can take",
+      "valence": 2.27,
+      "arousal": 3.59,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "You die with the lie You lie and a piece of me dies Inside out, I pray, so much I can take I'm here for the ride, your pride might be the reason why",
+      "valence": 2.21,
+      "arousal": 3.51,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "You lie and a piece of me dies Inside out, I pray, so much I can take I'm here for the ride, your pride might be the reason why We don't even make it to see the days",
+      "valence": 2.34,
+      "arousal": 3.39,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Inside out, I pray, so much I can take I'm here for the ride, your pride might be the reason why We don't even make it to see the days Woah",
+      "valence": 2.99,
+      "arousal": 3.37,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I'm here for the ride, your pride might be the reason why We don't even make it to see the days Woah Flying places 'cause you know to travel lonely",
+      "valence": 3.06,
+      "arousal": 3.38,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "We don't even make it to see the days Woah Flying places 'cause you know to travel lonely Judging me lately, banging the gravel on me",
+      "valence": 2.31,
+      "arousal": 3.21,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Woah Flying places 'cause you know to travel lonely Judging me lately, banging the gravel on me Friends wanna tattle on me",
+      "valence": 2.36,
+      "arousal": 3.48,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Flying places 'cause you know to travel lonely Judging me lately, banging the gravel on me Friends wanna tattle on me You put your words together like you getting points for that shit, like you playing Scrabble on me",
+      "valence": 2.28,
+      "arousal": 3.54,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Judging me lately, banging the gravel on me Friends wanna tattle on me You put your words together like you getting points for that shit, like you playing Scrabble on me Your mama the sweetest lady, that apple fell far from the tree",
+      "valence": 2.64,
+      "arousal": 3.74,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Friends wanna tattle on me You put your words together like you getting points for that shit, like you playing Scrabble on me Your mama the sweetest lady, that apple fell far from the tree Can't you be honest about your past? Like, how hard can it be?",
+      "valence": 2.61,
+      "arousal": 3.65,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "You put your words together like you getting points for that shit, like you playing Scrabble on me Your mama the sweetest lady, that apple fell far from the tree Can't you be honest about your past? Like, how hard can it be? You know I showed them songs you been playing all on repeat",
+      "valence": 2.73,
+      "arousal": 3.51,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Your mama the sweetest lady, that apple fell far from the tree Can't you be honest about your past? Like, how hard can it be? You know I showed them songs you been playing all on repeat You found replacements for me, but you know it's hard to compete",
+      "valence": 3.08,
+      "arousal": 3.31,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Can't you be honest about your past? Like, how hard can it be? You know I showed them songs you been playing all on repeat You found replacements for me, but you know it's hard to compete Woah",
+      "valence": 2.76,
+      "arousal": 3.18,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "You know I showed them songs you been playing all on repeat You found replacements for me, but you know it's hard to compete Woah Calling me daddy, I taught you things that a father can't teach",
+      "valence": 3.22,
+      "arousal": 3.49,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "You found replacements for me, but you know it's hard to compete Woah Calling me daddy, I taught you things that a father can't teach At the beginning, it feel like you're going harder than me",
+      "valence": 3.05,
+      "arousal": 3.46,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Woah Calling me daddy, I taught you things that a father can't teach At the beginning, it feel like you're going harder than me Then you stepped back on this shit, girl, you hit the Harden on me",
+      "valence": 3.17,
+      "arousal": 3.76,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Calling me daddy, I taught you things that a father can't teach At the beginning, it feel like you're going harder than me Then you stepped back on this shit, girl, you hit the Harden on me Woah, woah, woah, woah",
+      "valence": 2.82,
+      "arousal": 3.73,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "At the beginning, it feel like you're going harder than me Then you stepped back on this shit, girl, you hit the Harden on me Woah, woah, woah, woah Woah, woah",
+      "valence": 2.6,
+      "arousal": 3.83,
+      "dominance": 3.2
+    }
+  ]
+}

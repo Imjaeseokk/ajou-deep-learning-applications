@@ -1,0 +1,332 @@
+{
+  "artist": "Scotty McCreery",
+  "overall_vad": {
+    "valence": 3.0,
+    "arousal": 3.05,
+    "dominance": 3.15
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I'm a little bit a ball cap Little bit a pearl snap button down shirt Little bit a big city concrete But a lot more small town dirt",
+      "valence": 3.07,
+      "arousal": 2.89,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Little bit a pearl snap button down shirt Little bit a big city concrete But a lot more small town dirt I can see your pretty eyes",
+      "valence": 3.18,
+      "arousal": 3.13,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Little bit a big city concrete But a lot more small town dirt I can see your pretty eyes Reading me like a map",
+      "valence": 2.95,
+      "arousal": 3.1,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "But a lot more small town dirt I can see your pretty eyes Reading me like a map Wondering who I am",
+      "valence": 2.94,
+      "arousal": 3.14,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I can see your pretty eyes Reading me like a map Wondering who I am And where I'm at",
+      "valence": 3.17,
+      "arousal": 3.33,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Reading me like a map Wondering who I am And where I'm at I'm in between",
+      "valence": 2.96,
+      "arousal": 3.08,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Wondering who I am And where I'm at I'm in between Friday night wild and quiet Sunday morning",
+      "valence": 2.89,
+      "arousal": 3.12,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "And where I'm at I'm in between Friday night wild and quiet Sunday morning Between",
+      "valence": 3.03,
+      "arousal": 2.86,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I'm in between Friday night wild and quiet Sunday morning Between Done after one and keep on pouring",
+      "valence": 3.07,
+      "arousal": 3.02,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Friday night wild and quiet Sunday morning Between Done after one and keep on pouring Ain't too high",
+      "valence": 3.07,
+      "arousal": 2.94,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Between Done after one and keep on pouring Ain't too high Ain't too low",
+      "valence": 3.01,
+      "arousal": 3.08,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Done after one and keep on pouring Ain't too high Ain't too low Just holding down the middle I'm steady as I go",
+      "valence": 3.04,
+      "arousal": 2.99,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Ain't too high Ain't too low Just holding down the middle I'm steady as I go I ain't all holy water and I ain't all Jim Beam",
+      "valence": 3.07,
+      "arousal": 2.88,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Ain't too low Just holding down the middle I'm steady as I go I ain't all holy water and I ain't all Jim Beam I'm somewhere in between",
+      "valence": 3.1,
+      "arousal": 2.86,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Just holding down the middle I'm steady as I go I ain't all holy water and I ain't all Jim Beam I'm somewhere in between I can be a steel toe work boot",
+      "valence": 3.0,
+      "arousal": 2.94,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I ain't all holy water and I ain't all Jim Beam I'm somewhere in between I can be a steel toe work boot 40 hour blue collar, mud on my jeans",
+      "valence": 2.78,
+      "arousal": 2.97,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I'm somewhere in between I can be a steel toe work boot 40 hour blue collar, mud on my jeans Then on weekend pack a bag",
+      "valence": 2.97,
+      "arousal": 3.09,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I can be a steel toe work boot 40 hour blue collar, mud on my jeans Then on weekend pack a bag Disappear kick back on a white sand beach",
+      "valence": 3.09,
+      "arousal": 3.12,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "40 hour blue collar, mud on my jeans Then on weekend pack a bag Disappear kick back on a white sand beach I'm a far cry from being",
+      "valence": 2.6,
+      "arousal": 3.14,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Then on weekend pack a bag Disappear kick back on a white sand beach I'm a far cry from being A one night stand",
+      "valence": 3.06,
+      "arousal": 3.26,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Disappear kick back on a white sand beach I'm a far cry from being A one night stand But I ain't ready",
+      "valence": 2.55,
+      "arousal": 3.1,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I'm a far cry from being A one night stand But I ain't ready For a ring on my hand",
+      "valence": 2.69,
+      "arousal": 3.15,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "A one night stand But I ain't ready For a ring on my hand I'm in between",
+      "valence": 2.66,
+      "arousal": 3.18,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "But I ain't ready For a ring on my hand I'm in between Friday night wild and quiet Sunday morning",
+      "valence": 2.64,
+      "arousal": 3.13,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "For a ring on my hand I'm in between Friday night wild and quiet Sunday morning Between",
+      "valence": 3.18,
+      "arousal": 3.18,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I'm in between Friday night wild and quiet Sunday morning Between Done after one and keep on pouring",
+      "valence": 3.07,
+      "arousal": 3.02,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Friday night wild and quiet Sunday morning Between Done after one and keep on pouring Ain't too high",
+      "valence": 3.07,
+      "arousal": 2.94,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Between Done after one and keep on pouring Ain't too high Ain't too low",
+      "valence": 3.01,
+      "arousal": 3.08,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Done after one and keep on pouring Ain't too high Ain't too low Just holding down the middle I'm steady as I go",
+      "valence": 3.04,
+      "arousal": 2.99,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Ain't too high Ain't too low Just holding down the middle I'm steady as I go I ain't all holy water and I ain't all Jim Beam",
+      "valence": 3.07,
+      "arousal": 2.88,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Ain't too low Just holding down the middle I'm steady as I go I ain't all holy water and I ain't all Jim Beam I'm somewhere in between",
+      "valence": 3.1,
+      "arousal": 2.86,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Just holding down the middle I'm steady as I go I ain't all holy water and I ain't all Jim Beam I'm somewhere in between I can see your pretty eyes",
+      "valence": 3.26,
+      "arousal": 3.18,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I ain't all holy water and I ain't all Jim Beam I'm somewhere in between I can see your pretty eyes Reading me like a map",
+      "valence": 2.97,
+      "arousal": 3.26,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I'm somewhere in between I can see your pretty eyes Reading me like a map Wondering who I am",
+      "valence": 3.12,
+      "arousal": 3.35,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I can see your pretty eyes Reading me like a map Wondering who I am And where I'm at",
+      "valence": 3.17,
+      "arousal": 3.33,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Reading me like a map Wondering who I am And where I'm at I'm in between",
+      "valence": 2.96,
+      "arousal": 3.08,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Wondering who I am And where I'm at I'm in between Friday night wild and quiet Sunday morning",
+      "valence": 2.89,
+      "arousal": 3.12,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "And where I'm at I'm in between Friday night wild and quiet Sunday morning Between",
+      "valence": 3.03,
+      "arousal": 2.86,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I'm in between Friday night wild and quiet Sunday morning Between Done after one and keep on pouring",
+      "valence": 3.07,
+      "arousal": 3.02,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Friday night wild and quiet Sunday morning Between Done after one and keep on pouring Ain't too high",
+      "valence": 3.07,
+      "arousal": 2.94,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Between Done after one and keep on pouring Ain't too high Ain't too low",
+      "valence": 3.01,
+      "arousal": 3.08,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Done after one and keep on pouring Ain't too high Ain't too low Just holding down the middle I'm steady as I go",
+      "valence": 3.04,
+      "arousal": 2.99,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Ain't too high Ain't too low Just holding down the middle I'm steady as I go I ain't all holy water and I ain't all Jim Beam",
+      "valence": 3.07,
+      "arousal": 2.88,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Ain't too low Just holding down the middle I'm steady as I go I ain't all holy water and I ain't all Jim Beam I'm somewhere in between",
+      "valence": 3.1,
+      "arousal": 2.86,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Just holding down the middle I'm steady as I go I ain't all holy water and I ain't all Jim Beam I'm somewhere in between Yeah, I'm somewhere in between",
+      "valence": 3.01,
+      "arousal": 2.94,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I ain't all holy water and I ain't all Jim Beam I'm somewhere in between Yeah, I'm somewhere in between (Ain't too high, ain't too low)",
+      "valence": 3.01,
+      "arousal": 3.01,
+      "dominance": 3.21
+    }
+  ]
+}

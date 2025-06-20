@@ -1,0 +1,402 @@
+{
+  "artist": "Adele",
+  "overall_vad": {
+    "valence": 2.75,
+    "arousal": 3.54,
+    "dominance": 3.09
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I let it fall, my heart And as it fell, you rose to claim it It was dark and I was over Until you kissed my lips and you saved me",
+      "valence": 3.36,
+      "arousal": 3.81,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "And as it fell, you rose to claim it It was dark and I was over Until you kissed my lips and you saved me My hands, they're strong",
+      "valence": 3.6,
+      "arousal": 3.76,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "It was dark and I was over Until you kissed my lips and you saved me My hands, they're strong But my knees were far too weak",
+      "valence": 3.26,
+      "arousal": 3.79,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Until you kissed my lips and you saved me My hands, they're strong But my knees were far too weak To stand in your arms",
+      "valence": 3.39,
+      "arousal": 3.78,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "My hands, they're strong But my knees were far too weak To stand in your arms Without falling to your feet",
+      "valence": 2.76,
+      "arousal": 3.22,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "But my knees were far too weak To stand in your arms Without falling to your feet But there's a side to you",
+      "valence": 3.07,
+      "arousal": 3.41,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "To stand in your arms Without falling to your feet But there's a side to you That I never knew, never knew",
+      "valence": 3.22,
+      "arousal": 3.43,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Without falling to your feet But there's a side to you That I never knew, never knew All the things you'd say",
+      "valence": 3.09,
+      "arousal": 3.25,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "But there's a side to you That I never knew, never knew All the things you'd say They were never true, never true",
+      "valence": 2.95,
+      "arousal": 3.17,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "That I never knew, never knew All the things you'd say They were never true, never true And the games you play",
+      "valence": 2.65,
+      "arousal": 3.06,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "All the things you'd say They were never true, never true And the games you play You would always win, always win",
+      "valence": 3.07,
+      "arousal": 3.19,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "They were never true, never true And the games you play You would always win, always win But I set fire to the rain",
+      "valence": 2.66,
+      "arousal": 3.26,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "And the games you play You would always win, always win But I set fire to the rain Watched it pour as I touched your face",
+      "valence": 3.21,
+      "arousal": 3.48,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "You would always win, always win But I set fire to the rain Watched it pour as I touched your face Well, it burned while I cried",
+      "valence": 2.7,
+      "arousal": 3.68,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "But I set fire to the rain Watched it pour as I touched your face Well, it burned while I cried 'Cause I heard it screaming out your name",
+      "valence": 2.29,
+      "arousal": 3.8,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Watched it pour as I touched your face Well, it burned while I cried 'Cause I heard it screaming out your name Your name",
+      "valence": 2.38,
+      "arousal": 3.98,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Well, it burned while I cried 'Cause I heard it screaming out your name Your name When I lay with you",
+      "valence": 2.34,
+      "arousal": 4.0,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "'Cause I heard it screaming out your name Your name When I lay with you I could stay there",
+      "valence": 2.96,
+      "arousal": 3.92,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Your name When I lay with you I could stay there Close my eyes",
+      "valence": 3.12,
+      "arousal": 2.94,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "When I lay with you I could stay there Close my eyes Feel you here forever",
+      "valence": 3.41,
+      "arousal": 3.34,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I could stay there Close my eyes Feel you here forever You and me together, nothing gets better",
+      "valence": 3.29,
+      "arousal": 3.36,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Close my eyes Feel you here forever You and me together, nothing gets better 'Cause there's a side to you",
+      "valence": 3.46,
+      "arousal": 3.46,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Feel you here forever You and me together, nothing gets better 'Cause there's a side to you That I never knew, never knew",
+      "valence": 3.4,
+      "arousal": 3.62,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "You and me together, nothing gets better 'Cause there's a side to you That I never knew, never knew All the things you'd say",
+      "valence": 3.36,
+      "arousal": 3.53,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "'Cause there's a side to you That I never knew, never knew All the things you'd say They were never true, never true",
+      "valence": 2.95,
+      "arousal": 3.21,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "That I never knew, never knew All the things you'd say They were never true, never true And the games you'd play",
+      "valence": 2.62,
+      "arousal": 3.16,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "All the things you'd say They were never true, never true And the games you'd play You would always win, always win",
+      "valence": 3.06,
+      "arousal": 3.22,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "They were never true, never true And the games you'd play You would always win, always win But I set fire to the rain",
+      "valence": 2.59,
+      "arousal": 3.26,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "And the games you'd play You would always win, always win But I set fire to the rain Watched it pour as I touched your face",
+      "valence": 3.2,
+      "arousal": 3.48,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "You would always win, always win But I set fire to the rain Watched it pour as I touched your face Well, it burned while I cried",
+      "valence": 2.7,
+      "arousal": 3.68,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "But I set fire to the rain Watched it pour as I touched your face Well, it burned while I cried 'Cause I heard it screaming out your name",
+      "valence": 2.29,
+      "arousal": 3.8,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Watched it pour as I touched your face Well, it burned while I cried 'Cause I heard it screaming out your name Your name",
+      "valence": 2.38,
+      "arousal": 3.98,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Well, it burned while I cried 'Cause I heard it screaming out your name Your name I set fire to the rain",
+      "valence": 2.16,
+      "arousal": 4.01,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "'Cause I heard it screaming out your name Your name I set fire to the rain And I threw us into the flames",
+      "valence": 2.69,
+      "arousal": 4.04,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Your name I set fire to the rain And I threw us into the flames When it fell, something died",
+      "valence": 2.41,
+      "arousal": 3.56,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I set fire to the rain And I threw us into the flames When it fell, something died 'Cause I knew that that was",
+      "valence": 2.29,
+      "arousal": 3.46,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "And I threw us into the flames When it fell, something died 'Cause I knew that that was The last time, the last time",
+      "valence": 2.26,
+      "arousal": 3.46,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "When it fell, something died 'Cause I knew that that was The last time, the last time Sometimes I wake up by the door",
+      "valence": 2.26,
+      "arousal": 3.22,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "'Cause I knew that that was The last time, the last time Sometimes I wake up by the door That heart you caught must be waiting for you",
+      "valence": 2.69,
+      "arousal": 3.37,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "The last time, the last time Sometimes I wake up by the door That heart you caught must be waiting for you Even now, when we're already over",
+      "valence": 2.72,
+      "arousal": 3.33,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Sometimes I wake up by the door That heart you caught must be waiting for you Even now, when we're already over I can't help myself from looking for you",
+      "valence": 2.97,
+      "arousal": 3.47,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "That heart you caught must be waiting for you Even now, when we're already over I can't help myself from looking for you I set fire to the rain",
+      "valence": 2.79,
+      "arousal": 3.5,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Even now, when we're already over I can't help myself from looking for you I set fire to the rain Watched it pour as I touched your face",
+      "valence": 2.83,
+      "arousal": 3.49,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I can't help myself from looking for you I set fire to the rain Watched it pour as I touched your face Well, it burned while I cried",
+      "valence": 2.43,
+      "arousal": 3.71,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I set fire to the rain Watched it pour as I touched your face Well, it burned while I cried 'Cause I heard it screaming out your name",
+      "valence": 2.33,
+      "arousal": 3.82,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Watched it pour as I touched your face Well, it burned while I cried 'Cause I heard it screaming out your name Your name",
+      "valence": 2.38,
+      "arousal": 3.98,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Well, it burned while I cried 'Cause I heard it screaming out your name Your name I set fire to the rain",
+      "valence": 2.16,
+      "arousal": 4.01,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "'Cause I heard it screaming out your name Your name I set fire to the rain And I threw us into the flames",
+      "valence": 2.69,
+      "arousal": 4.04,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Your name I set fire to the rain And I threw us into the flames When it fell, something died",
+      "valence": 2.41,
+      "arousal": 3.56,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I set fire to the rain And I threw us into the flames When it fell, something died 'Cause I knew that that was the last time",
+      "valence": 2.26,
+      "arousal": 3.45,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "And I threw us into the flames When it fell, something died 'Cause I knew that that was the last time The last time",
+      "valence": 2.28,
+      "arousal": 3.45,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "When it fell, something died 'Cause I knew that that was the last time The last time Oh, oh, no",
+      "valence": 2.18,
+      "arousal": 3.33,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "'Cause I knew that that was the last time The last time Oh, oh, no Let it burn",
+      "valence": 2.46,
+      "arousal": 3.36,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "The last time Oh, oh, no Let it burn Oh, oh",
+      "valence": 2.45,
+      "arousal": 3.43,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Oh, oh, no Let it burn Oh, oh Let it burn",
+      "valence": 2.28,
+      "arousal": 3.58,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Let it burn Oh, oh Let it burn Let it burn",
+      "valence": 2.68,
+      "arousal": 3.6,
+      "dominance": 3.26
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "artist": "Polo G",
+  "overall_vad": {
+    "valence": 2.56,
+    "arousal": 3.59,
+    "dominance": 3.15
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Uh (Tuned up) Copped a BMW, new deposit, I picked up another bag Like, \"Fuck it, I'ma count while I'm in it\" I hear planes flyin', crowds screamin', money counters, chains clangin'",
+      "valence": 2.57,
+      "arousal": 3.73,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Copped a BMW, new deposit, I picked up another bag Like, \"Fuck it, I'ma count while I'm in it\" I hear planes flyin', crowds screamin', money counters, chains clangin' Shit, I guess that's how it sound when you winnin'",
+      "valence": 2.47,
+      "arousal": 3.86,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Like, \"Fuck it, I'ma count while I'm in it\" I hear planes flyin', crowds screamin', money counters, chains clangin' Shit, I guess that's how it sound when you winnin' I ain't jokin', do it sound like I'm kiddin'?",
+      "valence": 2.21,
+      "arousal": 3.98,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I hear planes flyin', crowds screamin', money counters, chains clangin' Shit, I guess that's how it sound when you winnin' I ain't jokin', do it sound like I'm kiddin'? I've been makin' like two thousand a minute",
+      "valence": 2.56,
+      "arousal": 3.72,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Shit, I guess that's how it sound when you winnin' I ain't jokin', do it sound like I'm kiddin'? I've been makin' like two thousand a minute So high up through the clouds, I was swimmin'",
+      "valence": 2.55,
+      "arousal": 3.47,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I ain't jokin', do it sound like I'm kiddin'? I've been makin' like two thousand a minute So high up through the clouds, I was swimmin' I'm probably gon' drown when I'm in it",
+      "valence": 2.57,
+      "arousal": 3.4,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I've been makin' like two thousand a minute So high up through the clouds, I was swimmin' I'm probably gon' drown when I'm in it I bet she gon' get loud when I'm in it",
+      "valence": 2.82,
+      "arousal": 3.45,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "So high up through the clouds, I was swimmin' I'm probably gon' drown when I'm in it I bet she gon' get loud when I'm in it And we might have a child when I'm finished",
+      "valence": 2.77,
+      "arousal": 3.45,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I'm probably gon' drown when I'm in it I bet she gon' get loud when I'm in it And we might have a child when I'm finished Uh, I won't love a ho, after we fuck she can't get near me",
+      "valence": 2.22,
+      "arousal": 3.6,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I bet she gon' get loud when I'm in it And we might have a child when I'm finished Uh, I won't love a ho, after we fuck she can't get near me Only bitch I give a conversation to is Siri",
+      "valence": 2.38,
+      "arousal": 3.47,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "And we might have a child when I'm finished Uh, I won't love a ho, after we fuck she can't get near me Only bitch I give a conversation to is Siri My pants Amiri, yes, I'm winnin', clearly",
+      "valence": 2.53,
+      "arousal": 3.62,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Uh, I won't love a ho, after we fuck she can't get near me Only bitch I give a conversation to is Siri My pants Amiri, yes, I'm winnin', clearly I'm the chosen one, seen my potential so they fear me",
+      "valence": 2.41,
+      "arousal": 3.73,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Only bitch I give a conversation to is Siri My pants Amiri, yes, I'm winnin', clearly I'm the chosen one, seen my potential so they fear me Lately, I've been prayin', God, I wonder, can you hear me?",
+      "valence": 2.93,
+      "arousal": 3.58,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "My pants Amiri, yes, I'm winnin', clearly I'm the chosen one, seen my potential so they fear me Lately, I've been prayin', God, I wonder, can you hear me? Thinkin' 'bout the old me, I swear I miss you dearly",
+      "valence": 3.4,
+      "arousal": 3.57,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I'm the chosen one, seen my potential so they fear me Lately, I've been prayin', God, I wonder, can you hear me? Thinkin' 'bout the old me, I swear I miss you dearly Stay down 'til you come up, I've been stickin' to that theory",
+      "valence": 3.09,
+      "arousal": 3.46,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Lately, I've been prayin', God, I wonder, can you hear me? Thinkin' 'bout the old me, I swear I miss you dearly Stay down 'til you come up, I've been stickin' to that theory Every day a battle, I'm exhausted and I'm weary",
+      "valence": 2.76,
+      "arousal": 3.38,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Thinkin' 'bout the old me, I swear I miss you dearly Stay down 'til you come up, I've been stickin' to that theory Every day a battle, I'm exhausted and I'm weary Make sure I smile in public, when alone, my eyes teary",
+      "valence": 2.97,
+      "arousal": 3.3,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Stay down 'til you come up, I've been stickin' to that theory Every day a battle, I'm exhausted and I'm weary Make sure I smile in public, when alone, my eyes teary I fought through it all, but that shit hurt me severely",
+      "valence": 2.57,
+      "arousal": 3.39,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Every day a battle, I'm exhausted and I'm weary Make sure I smile in public, when alone, my eyes teary I fought through it all, but that shit hurt me severely I've been gettin' high to hide behind my insecurities",
+      "valence": 2.27,
+      "arousal": 3.46,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Make sure I smile in public, when alone, my eyes teary I fought through it all, but that shit hurt me severely I've been gettin' high to hide behind my insecurities Takin' different pills but I know it ain't gon'",
+      "valence": 2.48,
+      "arousal": 3.54,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I fought through it all, but that shit hurt me severely I've been gettin' high to hide behind my insecurities Takin' different pills but I know it ain't gon' Uh, copped a BMW, new deposit, I picked up another bag",
+      "valence": 2.38,
+      "arousal": 3.39,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I've been gettin' high to hide behind my insecurities Takin' different pills but I know it ain't gon' Uh, copped a BMW, new deposit, I picked up another bag Like, \"Fuck it, I'ma count while I'm in it\"",
+      "valence": 2.26,
+      "arousal": 3.64,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Takin' different pills but I know it ain't gon' Uh, copped a BMW, new deposit, I picked up another bag Like, \"Fuck it, I'ma count while I'm in it\" I hear planes flyin', crowds screamin', money counters, chains clangin'",
+      "valence": 2.38,
+      "arousal": 3.71,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Uh, copped a BMW, new deposit, I picked up another bag Like, \"Fuck it, I'ma count while I'm in it\" I hear planes flyin', crowds screamin', money counters, chains clangin' Shit, I guess that's how it sound when you winnin'",
+      "valence": 2.47,
+      "arousal": 3.87,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Like, \"Fuck it, I'ma count while I'm in it\" I hear planes flyin', crowds screamin', money counters, chains clangin' Shit, I guess that's how it sound when you winnin' I ain't jokin', do it sound like I'm kiddin'?",
+      "valence": 2.21,
+      "arousal": 3.98,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I hear planes flyin', crowds screamin', money counters, chains clangin' Shit, I guess that's how it sound when you winnin' I ain't jokin', do it sound like I'm kiddin'? I've been makin' like two thousand a minute",
+      "valence": 2.56,
+      "arousal": 3.72,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Shit, I guess that's how it sound when you winnin' I ain't jokin', do it sound like I'm kiddin'? I've been makin' like two thousand a minute So high up through the clouds, I was swimmin'",
+      "valence": 2.55,
+      "arousal": 3.47,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I ain't jokin', do it sound like I'm kiddin'? I've been makin' like two thousand a minute So high up through the clouds, I was swimmin' I'm probably gon' drown when I'm in it",
+      "valence": 2.57,
+      "arousal": 3.4,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I've been makin' like two thousand a minute So high up through the clouds, I was swimmin' I'm probably gon' drown when I'm in it I bet she gon' get loud when I'm in it (uh, uh)",
+      "valence": 2.8,
+      "arousal": 3.41,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "So high up through the clouds, I was swimmin' I'm probably gon' drown when I'm in it I bet she gon' get loud when I'm in it (uh, uh) And we might have a child when I'm finished",
+      "valence": 2.77,
+      "arousal": 3.38,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I'm probably gon' drown when I'm in it I bet she gon' get loud when I'm in it (uh, uh) And we might have a child when I'm finished They say I'm Pac rebirth, never put out a weak verse",
+      "valence": 2.86,
+      "arousal": 3.31,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I bet she gon' get loud when I'm in it (uh, uh) And we might have a child when I'm finished They say I'm Pac rebirth, never put out a weak verse Homicides when we lurk, I'ma step 'til my feet hurt",
+      "valence": 2.7,
+      "arousal": 3.37,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "And we might have a child when I'm finished They say I'm Pac rebirth, never put out a weak verse Homicides when we lurk, I'ma step 'til my feet hurt Been puttin' them streets first",
+      "valence": 2.76,
+      "arousal": 3.33,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "They say I'm Pac rebirth, never put out a weak verse Homicides when we lurk, I'ma step 'til my feet hurt Been puttin' them streets first White tees turned burgundy T-shirts",
+      "valence": 2.73,
+      "arousal": 3.38,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Homicides when we lurk, I'ma step 'til my feet hurt Been puttin' them streets first White tees turned burgundy T-shirts Lookin' for somethin' real, he stuck in a deep search",
+      "valence": 2.5,
+      "arousal": 3.49,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Been puttin' them streets first White tees turned burgundy T-shirts Lookin' for somethin' real, he stuck in a deep search Anxiety killin' me, I just wanna leave Earth",
+      "valence": 2.72,
+      "arousal": 3.48,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "White tees turned burgundy T-shirts Lookin' for somethin' real, he stuck in a deep search Anxiety killin' me, I just wanna leave Earth When they ask if I'm okay, it just make everything seem worse",
+      "valence": 2.46,
+      "arousal": 3.55,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Lookin' for somethin' real, he stuck in a deep search Anxiety killin' me, I just wanna leave Earth When they ask if I'm okay, it just make everything seem worse Tryna explain your feelings sound like something you rehearsed",
+      "valence": 2.32,
+      "arousal": 3.57,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Anxiety killin' me, I just wanna leave Earth When they ask if I'm okay, it just make everything seem worse Tryna explain your feelings sound like something you rehearsed Stabbed me in my back with a clean smirk",
+      "valence": 2.25,
+      "arousal": 3.81,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "When they ask if I'm okay, it just make everything seem worse Tryna explain your feelings sound like something you rehearsed Stabbed me in my back with a clean smirk Lookin' so deep into your eyes, I can read your thoughts, so",
+      "valence": 2.43,
+      "arousal": 3.69,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Tryna explain your feelings sound like something you rehearsed Stabbed me in my back with a clean smirk Lookin' so deep into your eyes, I can read your thoughts, so Shut the fuck, I mean, please don't talk",
+      "valence": 2.18,
+      "arousal": 3.92,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Stabbed me in my back with a clean smirk Lookin' so deep into your eyes, I can read your thoughts, so Shut the fuck, I mean, please don't talk I done been through too much and I don't need another loss",
+      "valence": 2.37,
+      "arousal": 3.9,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Lookin' so deep into your eyes, I can read your thoughts, so Shut the fuck, I mean, please don't talk I done been through too much and I don't need another loss Put that on every war scar, for every battle I fought",
+      "valence": 2.34,
+      "arousal": 3.88,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Shut the fuck, I mean, please don't talk I done been through too much and I don't need another loss Put that on every war scar, for every battle I fought Uh, copped a BMW, new deposit, I picked up another bag",
+      "valence": 2.25,
+      "arousal": 3.92,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I done been through too much and I don't need another loss Put that on every war scar, for every battle I fought Uh, copped a BMW, new deposit, I picked up another bag Like, \"Fuck it, I'ma count while I'm in it\"",
+      "valence": 2.18,
+      "arousal": 3.76,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Put that on every war scar, for every battle I fought Uh, copped a BMW, new deposit, I picked up another bag Like, \"Fuck it, I'ma count while I'm in it\" I hear planes flyin', crowds screamin', money counters, chains clangin'",
+      "valence": 2.43,
+      "arousal": 3.86,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Uh, copped a BMW, new deposit, I picked up another bag Like, \"Fuck it, I'ma count while I'm in it\" I hear planes flyin', crowds screamin', money counters, chains clangin' Shit, I guess that's how it sound when you winnin'",
+      "valence": 2.47,
+      "arousal": 3.87,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Like, \"Fuck it, I'ma count while I'm in it\" I hear planes flyin', crowds screamin', money counters, chains clangin' Shit, I guess that's how it sound when you winnin' I ain't jokin', do it sound like I'm kiddin'?",
+      "valence": 2.21,
+      "arousal": 3.98,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I hear planes flyin', crowds screamin', money counters, chains clangin' Shit, I guess that's how it sound when you winnin' I ain't jokin', do it sound like I'm kiddin'? I've been makin' like two thousand a minute",
+      "valence": 2.56,
+      "arousal": 3.72,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Shit, I guess that's how it sound when you winnin' I ain't jokin', do it sound like I'm kiddin'? I've been makin' like two thousand a minute So high up through the clouds, I was swimmin'",
+      "valence": 2.55,
+      "arousal": 3.47,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I ain't jokin', do it sound like I'm kiddin'? I've been makin' like two thousand a minute So high up through the clouds, I was swimmin' I'm probably gon' drown when I'm in it",
+      "valence": 2.57,
+      "arousal": 3.4,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "I've been makin' like two thousand a minute So high up through the clouds, I was swimmin' I'm probably gon' drown when I'm in it I bet she gon' get loud when I'm in it",
+      "valence": 2.82,
+      "arousal": 3.45,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "So high up through the clouds, I was swimmin' I'm probably gon' drown when I'm in it I bet she gon' get loud when I'm in it And we might have a child when I'm finished",
+      "valence": 2.77,
+      "arousal": 3.45,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "I'm probably gon' drown when I'm in it I bet she gon' get loud when I'm in it And we might have a child when I'm finished When I'm finished",
+      "valence": 2.68,
+      "arousal": 3.43,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "I bet she gon' get loud when I'm in it And we might have a child when I'm finished When I'm finished When I'm finished",
+      "valence": 3.11,
+      "arousal": 3.41,
+      "dominance": 3.27
+    }
+  ]
+}

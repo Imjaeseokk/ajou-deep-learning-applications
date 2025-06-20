@@ -1,0 +1,304 @@
+{
+  "artist": "Panic! At The Disco",
+  "overall_vad": {
+    "valence": 2.79,
+    "arousal": 3.39,
+    "dominance": 2.8
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Been travelin' in packs that I can't carry anymore Been waitin' for somebody else to carry me There's nothin' that's there for me at my door All the people I know aren't who they used to be",
+      "valence": 2.39,
+      "arousal": 3.14,
+      "dominance": 2.65
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Been waitin' for somebody else to carry me There's nothin' that's there for me at my door All the people I know aren't who they used to be And if I try to change my life one more day",
+      "valence": 2.42,
+      "arousal": 3.22,
+      "dominance": 2.75
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "There's nothin' that's there for me at my door All the people I know aren't who they used to be And if I try to change my life one more day There would be nobody else to save",
+      "valence": 2.31,
+      "arousal": 3.14,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "All the people I know aren't who they used to be And if I try to change my life one more day There would be nobody else to save And I can't change into a person I don't wanna be, so",
+      "valence": 2.28,
+      "arousal": 3.27,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "And if I try to change my life one more day There would be nobody else to save And I can't change into a person I don't wanna be, so Oh, it's Saturday night, yeah",
+      "valence": 2.5,
+      "arousal": 3.23,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "There would be nobody else to save And I can't change into a person I don't wanna be, so Oh, it's Saturday night, yeah I pray for the wicked on the weekend",
+      "valence": 2.46,
+      "arousal": 3.38,
+      "dominance": 2.77
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "And I can't change into a person I don't wanna be, so Oh, it's Saturday night, yeah I pray for the wicked on the weekend Mama, can I get another amen?",
+      "valence": 2.55,
+      "arousal": 3.45,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Oh, it's Saturday night, yeah I pray for the wicked on the weekend Mama, can I get another amen? Oh, oh, oh, oh, oh, oh, oh, it's Saturday night, yeah",
+      "valence": 2.75,
+      "arousal": 3.57,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I pray for the wicked on the weekend Mama, can I get another amen? Oh, oh, oh, oh, oh, oh, oh, it's Saturday night, yeah Swear to God, I ain't ever gonna repent",
+      "valence": 2.57,
+      "arousal": 3.46,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Mama, can I get another amen? Oh, oh, oh, oh, oh, oh, oh, it's Saturday night, yeah Swear to God, I ain't ever gonna repent Mama, can I get another amen?",
+      "valence": 2.84,
+      "arousal": 3.35,
+      "dominance": 2.64
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Oh, oh, oh, oh, oh, oh, oh, it's Saturday night, yeah Swear to God, I ain't ever gonna repent Mama, can I get another amen? Oh, oh, oh, oh, oh, oh, oh, it's Saturday night, yeah",
+      "valence": 2.79,
+      "arousal": 3.2,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Swear to God, I ain't ever gonna repent Mama, can I get another amen? Oh, oh, oh, oh, oh, oh, oh, it's Saturday night, yeah And every mornin' when I wake up",
+      "valence": 2.65,
+      "arousal": 3.3,
+      "dominance": 2.75
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Mama, can I get another amen? Oh, oh, oh, oh, oh, oh, oh, it's Saturday night, yeah And every mornin' when I wake up I wanna be who I couldn't say I'd ever been",
+      "valence": 3.06,
+      "arousal": 3.41,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Oh, oh, oh, oh, oh, oh, oh, it's Saturday night, yeah And every mornin' when I wake up I wanna be who I couldn't say I'd ever been But it's so much more than I ever was",
+      "valence": 3.26,
+      "arousal": 3.66,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And every mornin' when I wake up I wanna be who I couldn't say I'd ever been But it's so much more than I ever was If every night I go to sleep knowin'",
+      "valence": 2.84,
+      "arousal": 3.54,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I wanna be who I couldn't say I'd ever been But it's so much more than I ever was If every night I go to sleep knowin' That I gave everything that I had to give",
+      "valence": 3.32,
+      "arousal": 3.61,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "But it's so much more than I ever was If every night I go to sleep knowin' That I gave everything that I had to give Then it's all I could've asked for",
+      "valence": 3.57,
+      "arousal": 3.57,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "If every night I go to sleep knowin' That I gave everything that I had to give Then it's all I could've asked for I've been standing up beside everything I've ever said, but",
+      "valence": 3.07,
+      "arousal": 3.43,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "That I gave everything that I had to give Then it's all I could've asked for I've been standing up beside everything I've ever said, but Oh, it's Saturday night, yeah",
+      "valence": 3.34,
+      "arousal": 3.49,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Then it's all I could've asked for I've been standing up beside everything I've ever said, but Oh, it's Saturday night, yeah I pray for the wicked on the weekend",
+      "valence": 2.63,
+      "arousal": 3.45,
+      "dominance": 2.67
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I've been standing up beside everything I've ever said, but Oh, it's Saturday night, yeah I pray for the wicked on the weekend Mama, can I get another amen?",
+      "valence": 2.7,
+      "arousal": 3.52,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Oh, it's Saturday night, yeah I pray for the wicked on the weekend Mama, can I get another amen? Oh, oh, oh, oh, oh, oh, oh, it's Saturday night, yeah",
+      "valence": 2.75,
+      "arousal": 3.57,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I pray for the wicked on the weekend Mama, can I get another amen? Oh, oh, oh, oh, oh, oh, oh, it's Saturday night, yeah Swear to God, I ain't ever gonna repent",
+      "valence": 2.57,
+      "arousal": 3.46,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Mama, can I get another amen? Oh, oh, oh, oh, oh, oh, oh, it's Saturday night, yeah Swear to God, I ain't ever gonna repent Mama, can I get another amen?",
+      "valence": 2.84,
+      "arousal": 3.35,
+      "dominance": 2.64
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Oh, oh, oh, oh, oh, oh, oh, it's Saturday night, yeah Swear to God, I ain't ever gonna repent Mama, can I get another amen? Oh, oh, oh, oh, oh, oh, oh, it's Saturday night, yeah",
+      "valence": 2.79,
+      "arousal": 3.2,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Swear to God, I ain't ever gonna repent Mama, can I get another amen? Oh, oh, oh, oh, oh, oh, oh, it's Saturday night, yeah If I had one more day to wish",
+      "valence": 2.79,
+      "arousal": 3.31,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Mama, can I get another amen? Oh, oh, oh, oh, oh, oh, oh, it's Saturday night, yeah If I had one more day to wish If I had one more day",
+      "valence": 3.13,
+      "arousal": 3.4,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Oh, oh, oh, oh, oh, oh, oh, it's Saturday night, yeah If I had one more day to wish If I had one more day To be better than I could have ever been",
+      "valence": 3.05,
+      "arousal": 3.48,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "If I had one more day to wish If I had one more day To be better than I could have ever been If I had one more day to wish",
+      "valence": 3.19,
+      "arousal": 3.24,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "If I had one more day To be better than I could have ever been If I had one more day to wish If I had one more day",
+      "valence": 3.02,
+      "arousal": 3.36,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "To be better than I could have ever been If I had one more day to wish If I had one more day I could be better, but, baby",
+      "valence": 2.76,
+      "arousal": 3.3,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "If I had one more day to wish If I had one more day I could be better, but, baby Oh, it's Saturday night, yeah",
+      "valence": 2.62,
+      "arousal": 3.24,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "If I had one more day I could be better, but, baby Oh, it's Saturday night, yeah I pray for the wicked on the weekend",
+      "valence": 2.5,
+      "arousal": 3.48,
+      "dominance": 2.7
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I could be better, but, baby Oh, it's Saturday night, yeah I pray for the wicked on the weekend Mama, can I get another amen?",
+      "valence": 2.52,
+      "arousal": 3.45,
+      "dominance": 2.69
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Oh, it's Saturday night, yeah I pray for the wicked on the weekend Mama, can I get another amen? Oh, oh, oh, oh, oh, oh, oh, it's Saturday night, yeah",
+      "valence": 2.75,
+      "arousal": 3.57,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I pray for the wicked on the weekend Mama, can I get another amen? Oh, oh, oh, oh, oh, oh, oh, it's Saturday night, yeah Swear to God, I ain't ever gonna repent",
+      "valence": 2.57,
+      "arousal": 3.46,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Mama, can I get another amen? Oh, oh, oh, oh, oh, oh, oh, it's Saturday night, yeah Swear to God, I ain't ever gonna repent Mama, can I get another amen?",
+      "valence": 2.84,
+      "arousal": 3.35,
+      "dominance": 2.64
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Oh, oh, oh, oh, oh, oh, oh, it's Saturday night, yeah Swear to God, I ain't ever gonna repent Mama, can I get another amen? Oh, oh, oh, oh, oh, oh, oh, it's Saturday night, yeah",
+      "valence": 2.79,
+      "arousal": 3.2,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Swear to God, I ain't ever gonna repent Mama, can I get another amen? Oh, oh, oh, oh, oh, oh, oh, it's Saturday night, yeah It's Saturday, Saturday, Saturday",
+      "valence": 2.72,
+      "arousal": 3.29,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Mama, can I get another amen? Oh, oh, oh, oh, oh, oh, oh, it's Saturday night, yeah It's Saturday, Saturday, Saturday Oh, oh, oh, oh, oh, oh, oh, it's Saturday night, yeah",
+      "valence": 3.12,
+      "arousal": 3.28,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Oh, oh, oh, oh, oh, oh, oh, it's Saturday night, yeah It's Saturday, Saturday, Saturday Oh, oh, oh, oh, oh, oh, oh, it's Saturday night, yeah Swear to God, swear to God, swear to God",
+      "valence": 2.85,
+      "arousal": 3.54,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "It's Saturday, Saturday, Saturday Oh, oh, oh, oh, oh, oh, oh, it's Saturday night, yeah Swear to God, swear to God, swear to God Oh, oh, oh, oh, oh, oh, oh, it's Saturday night, yeah",
+      "valence": 2.88,
+      "arousal": 3.4,
+      "dominance": 2.82
+    }
+  ]
+}

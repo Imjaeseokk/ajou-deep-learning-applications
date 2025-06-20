@@ -1,0 +1,290 @@
+{
+  "artist": "Justin Moore",
+  "overall_vad": {
+    "valence": 2.99,
+    "arousal": 3.18,
+    "dominance": 3.04
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Tour was up, middle of June She was plannin' a welcome home barbecue Green bean casserole, Grandma's recipe There was a knock on her door 'round two o'clock",
+      "valence": 3.32,
+      "arousal": 3.21,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "She was plannin' a welcome home barbecue Green bean casserole, Grandma's recipe There was a knock on her door 'round two o'clock Two uniforms and her heart stopped",
+      "valence": 3.37,
+      "arousal": 3.45,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Green bean casserole, Grandma's recipe There was a knock on her door 'round two o'clock Two uniforms and her heart stopped Yellow ribbon 'round an oak tree",
+      "valence": 3.25,
+      "arousal": 3.37,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "There was a knock on her door 'round two o'clock Two uniforms and her heart stopped Yellow ribbon 'round an oak tree Blowing in the breeze",
+      "valence": 3.4,
+      "arousal": 3.38,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Two uniforms and her heart stopped Yellow ribbon 'round an oak tree Blowing in the breeze Here's to the ones that didn't make it back home",
+      "valence": 3.07,
+      "arousal": 3.2,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Yellow ribbon 'round an oak tree Blowing in the breeze Here's to the ones that didn't make it back home The ones we ain't seen in so long",
+      "valence": 3.24,
+      "arousal": 3.03,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Blowing in the breeze Here's to the ones that didn't make it back home The ones we ain't seen in so long The hold up a beer ones, the wish they were here ones",
+      "valence": 3.14,
+      "arousal": 3.11,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Here's to the ones that didn't make it back home The ones we ain't seen in so long The hold up a beer ones, the wish they were here ones The not forgotten but gone",
+      "valence": 2.9,
+      "arousal": 3.01,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "The ones we ain't seen in so long The hold up a beer ones, the wish they were here ones The not forgotten but gone They're in a better place up there",
+      "valence": 2.99,
+      "arousal": 3.18,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "The hold up a beer ones, the wish they were here ones The not forgotten but gone They're in a better place up there But they sure left a hole down here",
+      "valence": 2.86,
+      "arousal": 3.16,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "The not forgotten but gone They're in a better place up there But they sure left a hole down here We just go on livin' and go on missin' the ones",
+      "valence": 2.86,
+      "arousal": 3.06,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "They're in a better place up there But they sure left a hole down here We just go on livin' and go on missin' the ones The ones that didn't make it back home",
+      "valence": 2.83,
+      "arousal": 3.07,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "But they sure left a hole down here We just go on livin' and go on missin' the ones The ones that didn't make it back home The whole town shut down, the whole town showed up",
+      "valence": 2.55,
+      "arousal": 3.14,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "We just go on livin' and go on missin' the ones The ones that didn't make it back home The whole town shut down, the whole town showed up Sang Amazing Grace, watched a slideshow of",
+      "valence": 2.91,
+      "arousal": 3.17,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "The ones that didn't make it back home The whole town shut down, the whole town showed up Sang Amazing Grace, watched a slideshow of His twenty-two years",
+      "valence": 3.04,
+      "arousal": 3.18,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "The whole town shut down, the whole town showed up Sang Amazing Grace, watched a slideshow of His twenty-two years There was laughs and there was tears",
+      "valence": 3.43,
+      "arousal": 3.55,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Sang Amazing Grace, watched a slideshow of His twenty-two years There was laughs and there was tears And that preacher talked about sacrifice",
+      "valence": 3.47,
+      "arousal": 3.3,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "His twenty-two years There was laughs and there was tears And that preacher talked about sacrifice And traffic stopped for them Cadillac lights",
+      "valence": 3.25,
+      "arousal": 3.47,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "There was laughs and there was tears And that preacher talked about sacrifice And traffic stopped for them Cadillac lights Johnny sold beer half price that night",
+      "valence": 3.42,
+      "arousal": 3.53,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "And that preacher talked about sacrifice And traffic stopped for them Cadillac lights Johnny sold beer half price that night And everybody raised 'em high, singin'",
+      "valence": 2.99,
+      "arousal": 3.45,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "And traffic stopped for them Cadillac lights Johnny sold beer half price that night And everybody raised 'em high, singin' Here's to the ones that didn't make it back home",
+      "valence": 2.92,
+      "arousal": 3.3,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Johnny sold beer half price that night And everybody raised 'em high, singin' Here's to the ones that didn't make it back home The ones we ain't seen in so long",
+      "valence": 2.99,
+      "arousal": 3.26,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "And everybody raised 'em high, singin' Here's to the ones that didn't make it back home The ones we ain't seen in so long The hold up a beer ones, the wish they were here ones",
+      "valence": 3.15,
+      "arousal": 3.4,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Here's to the ones that didn't make it back home The ones we ain't seen in so long The hold up a beer ones, the wish they were here ones The not forgotten but gone",
+      "valence": 2.9,
+      "arousal": 3.01,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "The ones we ain't seen in so long The hold up a beer ones, the wish they were here ones The not forgotten but gone They're in a better place up there",
+      "valence": 2.99,
+      "arousal": 3.18,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "The hold up a beer ones, the wish they were here ones The not forgotten but gone They're in a better place up there But they sure left a hole down here",
+      "valence": 2.86,
+      "arousal": 3.16,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "The not forgotten but gone They're in a better place up there But they sure left a hole down here We just go on livin' and go on missin' the ones",
+      "valence": 2.86,
+      "arousal": 3.06,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "They're in a better place up there But they sure left a hole down here We just go on livin' and go on missin' the ones The ones that didn't make it back home",
+      "valence": 2.83,
+      "arousal": 3.07,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "But they sure left a hole down here We just go on livin' and go on missin' the ones The ones that didn't make it back home Back to that front porch",
+      "valence": 2.62,
+      "arousal": 2.99,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "We just go on livin' and go on missin' the ones The ones that didn't make it back home Back to that front porch Back through that front door",
+      "valence": 2.76,
+      "arousal": 2.96,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "The ones that didn't make it back home Back to that front porch Back through that front door To the life they were fightin' for",
+      "valence": 2.86,
+      "arousal": 3.08,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Back to that front porch Back through that front door To the life they were fightin' for Here's to the ones that didn't make it back home",
+      "valence": 2.87,
+      "arousal": 3.04,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Back through that front door To the life they were fightin' for Here's to the ones that didn't make it back home The ones we ain't seen in so long",
+      "valence": 2.89,
+      "arousal": 2.96,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "To the life they were fightin' for Here's to the ones that didn't make it back home The ones we ain't seen in so long The hold up a beer ones, the wish they were here ones",
+      "valence": 2.86,
+      "arousal": 3.14,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Here's to the ones that didn't make it back home The ones we ain't seen in so long The hold up a beer ones, the wish they were here ones The not forgotten but gone",
+      "valence": 2.9,
+      "arousal": 3.01,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "The ones we ain't seen in so long The hold up a beer ones, the wish they were here ones The not forgotten but gone They're in a better place up there",
+      "valence": 2.99,
+      "arousal": 3.18,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "The hold up a beer ones, the wish they were here ones The not forgotten but gone They're in a better place up there But they sure left a hole down here",
+      "valence": 2.86,
+      "arousal": 3.16,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "The not forgotten but gone They're in a better place up there But they sure left a hole down here We just go on livin' and go on missin' the ones",
+      "valence": 2.86,
+      "arousal": 3.06,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "They're in a better place up there But they sure left a hole down here We just go on livin' and go on missin' the ones The ones that didn't make it back home",
+      "valence": 2.83,
+      "arousal": 3.07,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "But they sure left a hole down here We just go on livin' and go on missin' the ones The ones that didn't make it back home The ones that didn't make it back home",
+      "valence": 2.61,
+      "arousal": 2.93,
+      "dominance": 2.92
+    }
+  ]
+}

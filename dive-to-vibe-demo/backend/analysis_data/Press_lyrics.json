@@ -1,0 +1,479 @@
+{
+  "artist": "Cardi B",
+  "overall_vad": {
+    "valence": 2.51,
+    "arousal": 3.68,
+    "dominance": 3.53
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Bardi Woo, yeah Bitches be pressed (woo) Bitches be pressed (pressed)",
+      "valence": 3.09,
+      "arousal": 3.41,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Woo, yeah Bitches be pressed (woo) Bitches be pressed (pressed) Woo, yeah, yeah, woo",
+      "valence": 3.2,
+      "arousal": 3.66,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Bitches be pressed (woo) Bitches be pressed (pressed) Woo, yeah, yeah, woo Bitches be pressed (pressed)",
+      "valence": 3.0,
+      "arousal": 3.48,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Bitches be pressed (pressed) Woo, yeah, yeah, woo Bitches be pressed (pressed) They know how I'm comin', real bitch in the flesh (woo)",
+      "valence": 2.44,
+      "arousal": 3.67,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Woo, yeah, yeah, woo Bitches be pressed (pressed) They know how I'm comin', real bitch in the flesh (woo) Who the fuck she gon' check? (Who?)",
+      "valence": 2.51,
+      "arousal": 3.78,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Bitches be pressed (pressed) They know how I'm comin', real bitch in the flesh (woo) Who the fuck she gon' check? (Who?) She be talkin' that shit, talkin' out of her neck (brr)",
+      "valence": 2.17,
+      "arousal": 3.65,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "They know how I'm comin', real bitch in the flesh (woo) Who the fuck she gon' check? (Who?) She be talkin' that shit, talkin' out of her neck (brr) Put blood on her dress (woo)",
+      "valence": 2.27,
+      "arousal": 3.71,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Who the fuck she gon' check? (Who?) She be talkin' that shit, talkin' out of her neck (brr) Put blood on her dress (woo) Bitches be mad when they see Cardi step in the spot (whoa)",
+      "valence": 2.35,
+      "arousal": 3.76,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "She be talkin' that shit, talkin' out of her neck (brr) Put blood on her dress (woo) Bitches be mad when they see Cardi step in the spot (whoa) Said that you 'bout it, we know that you not",
+      "valence": 2.27,
+      "arousal": 3.75,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Put blood on her dress (woo) Bitches be mad when they see Cardi step in the spot (whoa) Said that you 'bout it, we know that you not I'ma pull up on bitches as soon as I drop",
+      "valence": 2.27,
+      "arousal": 3.71,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Bitches be mad when they see Cardi step in the spot (whoa) Said that you 'bout it, we know that you not I'ma pull up on bitches as soon as I drop Bought a new foreign, I might cop a yacht (skrrt)",
+      "valence": 2.45,
+      "arousal": 3.58,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Said that you 'bout it, we know that you not I'ma pull up on bitches as soon as I drop Bought a new foreign, I might cop a yacht (skrrt) Bitches in my business, they tryna plot (woo)",
+      "valence": 2.67,
+      "arousal": 3.52,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I'ma pull up on bitches as soon as I drop Bought a new foreign, I might cop a yacht (skrrt) Bitches in my business, they tryna plot (woo) Hoes poppin' shit like they hot but they not (no)",
+      "valence": 2.58,
+      "arousal": 3.42,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Bought a new foreign, I might cop a yacht (skrrt) Bitches in my business, they tryna plot (woo) Hoes poppin' shit like they hot but they not (no) Just flooded the wrist, the Patek, the watch (whoa)",
+      "valence": 2.73,
+      "arousal": 3.42,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Bitches in my business, they tryna plot (woo) Hoes poppin' shit like they hot but they not (no) Just flooded the wrist, the Patek, the watch (whoa) Niggas be flexin', we know what you got",
+      "valence": 2.41,
+      "arousal": 3.39,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Hoes poppin' shit like they hot but they not (no) Just flooded the wrist, the Patek, the watch (whoa) Niggas be flexin', we know what you got Cardi done had got the game in a knot",
+      "valence": 2.72,
+      "arousal": 3.46,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Just flooded the wrist, the Patek, the watch (whoa) Niggas be flexin', we know what you got Cardi done had got the game in a knot Fuckin' your nigga, I got him on lock",
+      "valence": 2.59,
+      "arousal": 3.94,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Niggas be flexin', we know what you got Cardi done had got the game in a knot Fuckin' your nigga, I got him on lock This go bang bang like I'm choppin' them chops",
+      "valence": 2.44,
+      "arousal": 3.87,
+      "dominance": 3.84
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Cardi done had got the game in a knot Fuckin' your nigga, I got him on lock This go bang bang like I'm choppin' them chops VVS chain, I'm in love with the rocks (whoa)",
+      "valence": 3.4,
+      "arousal": 4.27,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Fuckin' your nigga, I got him on lock This go bang bang like I'm choppin' them chops VVS chain, I'm in love with the rocks (whoa) You said you gon' take it, bitch, you got me chopped (whoa)",
+      "valence": 2.69,
+      "arousal": 4.31,
+      "dominance": 3.88
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "This go bang bang like I'm choppin' them chops VVS chain, I'm in love with the rocks (whoa) You said you gon' take it, bitch, you got me chopped (whoa) They throwin' shade 'cause they see me on top",
+      "valence": 3.24,
+      "arousal": 4.18,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "VVS chain, I'm in love with the rocks (whoa) You said you gon' take it, bitch, you got me chopped (whoa) They throwin' shade 'cause they see me on top Tell that bitch to pull up, I'ma send you the drop",
+      "valence": 3.44,
+      "arousal": 4.19,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "You said you gon' take it, bitch, you got me chopped (whoa) They throwin' shade 'cause they see me on top Tell that bitch to pull up, I'ma send you the drop Press, press, press, press, press",
+      "valence": 2.24,
+      "arousal": 3.83,
+      "dominance": 3.8
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "They throwin' shade 'cause they see me on top Tell that bitch to pull up, I'ma send you the drop Press, press, press, press, press Cardi don't need more press",
+      "valence": 2.39,
+      "arousal": 3.56,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Tell that bitch to pull up, I'ma send you the drop Press, press, press, press, press Cardi don't need more press Kill 'em all, put them hoes to rest",
+      "valence": 2.31,
+      "arousal": 3.58,
+      "dominance": 3.78
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Press, press, press, press, press Cardi don't need more press Kill 'em all, put them hoes to rest Walk in, bulletproof vest",
+      "valence": 2.6,
+      "arousal": 3.44,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Cardi don't need more press Kill 'em all, put them hoes to rest Walk in, bulletproof vest Please tell me who she gon' check",
+      "valence": 2.69,
+      "arousal": 3.39,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Kill 'em all, put them hoes to rest Walk in, bulletproof vest Please tell me who she gon' check Murder scene, Cardi made a mess",
+      "valence": 2.4,
+      "arousal": 3.67,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Walk in, bulletproof vest Please tell me who she gon' check Murder scene, Cardi made a mess Pop up, guess who, bitch?",
+      "valence": 2.54,
+      "arousal": 3.63,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Please tell me who she gon' check Murder scene, Cardi made a mess Pop up, guess who, bitch? Pop up, guess who, bitch? (Cardi)",
+      "valence": 2.29,
+      "arousal": 3.8,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Murder scene, Cardi made a mess Pop up, guess who, bitch? Pop up, guess who, bitch? (Cardi) Ding-dong",
+      "valence": 2.28,
+      "arousal": 3.64,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Pop up, guess who, bitch? Pop up, guess who, bitch? (Cardi) Ding-dong Must be that whip that I ordered (ordered)",
+      "valence": 2.36,
+      "arousal": 3.7,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Pop up, guess who, bitch? (Cardi) Ding-dong Must be that whip that I ordered (ordered) And a new crib for my daughter (daughter)",
+      "valence": 2.49,
+      "arousal": 3.68,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Ding-dong Must be that whip that I ordered (ordered) And a new crib for my daughter (daughter) You know a bad bitch gon' spoil her",
+      "valence": 2.32,
+      "arousal": 3.42,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Must be that whip that I ordered (ordered) And a new crib for my daughter (daughter) You know a bad bitch gon' spoil her Got one in New York, need one in Georgia (yeah)",
+      "valence": 2.66,
+      "arousal": 3.41,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "And a new crib for my daughter (daughter) You know a bad bitch gon' spoil her Got one in New York, need one in Georgia (yeah) New Bentley truck cost a quarter (quarter)",
+      "valence": 2.43,
+      "arousal": 3.45,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "You know a bad bitch gon' spoil her Got one in New York, need one in Georgia (yeah) New Bentley truck cost a quarter (quarter) My money still long like weave (woo)",
+      "valence": 2.37,
+      "arousal": 3.52,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Got one in New York, need one in Georgia (yeah) New Bentley truck cost a quarter (quarter) My money still long like weave (woo) Pussy still wet like Florida (woo)",
+      "valence": 2.97,
+      "arousal": 3.35,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "New Bentley truck cost a quarter (quarter) My money still long like weave (woo) Pussy still wet like Florida (woo) Everyone drop on the floor (floor)",
+      "valence": 2.83,
+      "arousal": 3.48,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "My money still long like weave (woo) Pussy still wet like Florida (woo) Everyone drop on the floor (floor) She was talkin' but not anymore (no)",
+      "valence": 2.72,
+      "arousal": 3.3,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Pussy still wet like Florida (woo) Everyone drop on the floor (floor) She was talkin' but not anymore (no) MAC to your face like contour (brrt)",
+      "valence": 2.71,
+      "arousal": 3.39,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Everyone drop on the floor (floor) She was talkin' but not anymore (no) MAC to your face like contour (brrt) This chopper come straight from Dior",
+      "valence": 2.76,
+      "arousal": 3.48,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "She was talkin' but not anymore (no) MAC to your face like contour (brrt) This chopper come straight from Dior Done with the talkin', I'm open to violence",
+      "valence": 2.49,
+      "arousal": 3.62,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "MAC to your face like contour (brrt) This chopper come straight from Dior Done with the talkin', I'm open to violence Ask anybody, they know I'm about it",
+      "valence": 2.61,
+      "arousal": 3.65,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "This chopper come straight from Dior Done with the talkin', I'm open to violence Ask anybody, they know I'm about it Hashtag whip that ho ass",
+      "valence": 2.57,
+      "arousal": 3.74,
+      "dominance": 3.74
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Done with the talkin', I'm open to violence Ask anybody, they know I'm about it Hashtag whip that ho ass Fuck around, we gon' start a new challenge (woo)",
+      "valence": 2.45,
+      "arousal": 3.92,
+      "dominance": 3.99
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Ask anybody, they know I'm about it Hashtag whip that ho ass Fuck around, we gon' start a new challenge (woo) I come in this bitch and I'm strapped up and ready (vroom)",
+      "valence": 2.7,
+      "arousal": 3.89,
+      "dominance": 3.92
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Hashtag whip that ho ass Fuck around, we gon' start a new challenge (woo) I come in this bitch and I'm strapped up and ready (vroom) Ridin' that dick like I'm Cardi Andretti",
+      "valence": 2.6,
+      "arousal": 3.9,
+      "dominance": 3.86
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Fuck around, we gon' start a new challenge (woo) I come in this bitch and I'm strapped up and ready (vroom) Ridin' that dick like I'm Cardi Andretti Fuck at your crib, we don't go to no 'telly",
+      "valence": 2.35,
+      "arousal": 3.98,
+      "dominance": 3.86
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I come in this bitch and I'm strapped up and ready (vroom) Ridin' that dick like I'm Cardi Andretti Fuck at your crib, we don't go to no 'telly I sit on his face whenever I'm ready (woo)",
+      "valence": 2.28,
+      "arousal": 3.89,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Ridin' that dick like I'm Cardi Andretti Fuck at your crib, we don't go to no 'telly I sit on his face whenever I'm ready (woo) Bitch, I'm a freak like Greek (like Greek)",
+      "valence": 1.95,
+      "arousal": 3.93,
+      "dominance": 3.83
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Fuck at your crib, we don't go to no 'telly I sit on his face whenever I'm ready (woo) Bitch, I'm a freak like Greek (like Greek) Got the biggest house on my street (my street)",
+      "valence": 1.76,
+      "arousal": 4.08,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "I sit on his face whenever I'm ready (woo) Bitch, I'm a freak like Greek (like Greek) Got the biggest house on my street (my street) All you little hoes look cheap (look cheap)",
+      "valence": 2.1,
+      "arousal": 3.81,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Bitch, I'm a freak like Greek (like Greek) Got the biggest house on my street (my street) All you little hoes look cheap (look cheap) They suckin' on my dick with no teeth",
+      "valence": 1.93,
+      "arousal": 3.81,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Got the biggest house on my street (my street) All you little hoes look cheap (look cheap) They suckin' on my dick with no teeth Press, press, press, press, press (Cardi)",
+      "valence": 2.29,
+      "arousal": 3.59,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "All you little hoes look cheap (look cheap) They suckin' on my dick with no teeth Press, press, press, press, press (Cardi) Cardi don't need more press (yeah)",
+      "valence": 2.2,
+      "arousal": 3.55,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "They suckin' on my dick with no teeth Press, press, press, press, press (Cardi) Cardi don't need more press (yeah) Kill 'em all, put them hoes to rest (woo)",
+      "valence": 2.24,
+      "arousal": 3.7,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Press, press, press, press, press (Cardi) Cardi don't need more press (yeah) Kill 'em all, put them hoes to rest (woo) Walk in, bulletproof vest (yeah)",
+      "valence": 2.67,
+      "arousal": 3.53,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Cardi don't need more press (yeah) Kill 'em all, put them hoes to rest (woo) Walk in, bulletproof vest (yeah) Please tell me who she gon' check (who?)",
+      "valence": 2.72,
+      "arousal": 3.54,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Kill 'em all, put them hoes to rest (woo) Walk in, bulletproof vest (yeah) Please tell me who she gon' check (who?) Murder scene, Cardi made a mess (whoa, Cardi)",
+      "valence": 2.54,
+      "arousal": 3.81,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Walk in, bulletproof vest (yeah) Please tell me who she gon' check (who?) Murder scene, Cardi made a mess (whoa, Cardi) Pop up, guess who, bitch? (Yeah)",
+      "valence": 2.63,
+      "arousal": 3.67,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Please tell me who she gon' check (who?) Murder scene, Cardi made a mess (whoa, Cardi) Pop up, guess who, bitch? (Yeah) Pop up, guess who, bitch? (Cardi)",
+      "valence": 2.43,
+      "arousal": 3.75,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Murder scene, Cardi made a mess (whoa, Cardi) Pop up, guess who, bitch? (Yeah) Pop up, guess who, bitch? (Cardi) Press, press, press, press, press",
+      "valence": 2.28,
+      "arousal": 3.74,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Pop up, guess who, bitch? (Yeah) Pop up, guess who, bitch? (Cardi) Press, press, press, press, press Press, press, press, press, press",
+      "valence": 2.33,
+      "arousal": 3.75,
+      "dominance": 3.78
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Pop up, guess who, bitch? (Cardi) Press, press, press, press, press Press, press, press, press, press Press, press, press, press, press",
+      "valence": 2.38,
+      "arousal": 3.69,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Press, press, press, press, press Press, press, press, press, press Press, press, press, press, press Pop up, guess who, bitch? (Yeah)",
+      "valence": 2.31,
+      "arousal": 3.67,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Press, press, press, press, press Press, press, press, press, press Pop up, guess who, bitch? (Yeah) Pop up, guess who, bitch? (Cardi)",
+      "valence": 2.32,
+      "arousal": 3.74,
+      "dominance": 3.66
+    }
+  ]
+}

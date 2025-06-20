@@ -1,0 +1,941 @@
+{
+  "artist": "Lil Uzi Vert",
+  "overall_vad": {
+    "valence": 2.94,
+    "arousal": 3.48,
+    "dominance": 3.41
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "We be throwin' money in a spiral Every time your girl hear my song Yeah, turn her right into my ho She shake her ass do the eye roll",
+      "valence": 3.06,
+      "arousal": 3.64,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Every time your girl hear my song Yeah, turn her right into my ho She shake her ass do the eye roll Got a skinny thong like a tightrope",
+      "valence": 3.19,
+      "arousal": 3.58,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Yeah, turn her right into my ho She shake her ass do the eye roll Got a skinny thong like a tightrope I be blowin' up like some pyro",
+      "valence": 2.92,
+      "arousal": 3.49,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "She shake her ass do the eye roll Got a skinny thong like a tightrope I be blowin' up like some pyro Coupe 150, call it Kyro",
+      "valence": 2.91,
+      "arousal": 3.43,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Got a skinny thong like a tightrope I be blowin' up like some pyro Coupe 150, call it Kyro If she left with me, she the right ho",
+      "valence": 2.96,
+      "arousal": 3.42,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I be blowin' up like some pyro Coupe 150, call it Kyro If she left with me, she the right ho Man, she ridin' me like a BMX",
+      "valence": 2.9,
+      "arousal": 3.46,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Coupe 150, call it Kyro If she left with me, she the right ho Man, she ridin' me like a BMX Man, she said the D is for Dyno",
+      "valence": 2.99,
+      "arousal": 3.3,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "If she left with me, she the right ho Man, she ridin' me like a BMX Man, she said the D is for Dyno I got two horns like a rhino",
+      "valence": 2.92,
+      "arousal": 3.31,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Man, she ridin' me like a BMX Man, she said the D is for Dyno I got two horns like a rhino It's no way you can buy ho",
+      "valence": 2.85,
+      "arousal": 3.36,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Man, she said the D is for Dyno I got two horns like a rhino It's no way you can buy ho But I bought a mansion",
+      "valence": 3.06,
+      "arousal": 3.51,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I got two horns like a rhino It's no way you can buy ho But I bought a mansion With a slide door",
+      "valence": 3.09,
+      "arousal": 3.39,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "It's no way you can buy ho But I bought a mansion With a slide door Yes, I opened up the slide door",
+      "valence": 3.23,
+      "arousal": 3.38,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "But I bought a mansion With a slide door Yes, I opened up the slide door So you can hear it hit the high note",
+      "valence": 3.41,
+      "arousal": 3.47,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "With a slide door Yes, I opened up the slide door So you can hear it hit the high note I like the way you (Ayy)",
+      "valence": 3.66,
+      "arousal": 3.41,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Yes, I opened up the slide door So you can hear it hit the high note I like the way you (Ayy) You do it (Ayy)",
+      "valence": 3.77,
+      "arousal": 3.51,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "So you can hear it hit the high note I like the way you (Ayy) You do it (Ayy) You do it (Ayy)",
+      "valence": 3.78,
+      "arousal": 3.59,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I like the way you (Ayy) You do it (Ayy) You do it (Ayy) You do it (Ayy)",
+      "valence": 3.82,
+      "arousal": 3.51,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "You do it (Ayy) You do it (Ayy) You do it (Ayy) You do it (Ayy)",
+      "valence": 3.29,
+      "arousal": 3.45,
+      "dominance": 3.86
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "You do it (Ayy) You do it (Ayy) You do it (Ayy) You do it (Ayy)",
+      "valence": 3.29,
+      "arousal": 3.45,
+      "dominance": 3.86
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "You do it (Ayy) You do it (Ayy) You do it (Ayy) You do it (Ayy)",
+      "valence": 3.29,
+      "arousal": 3.45,
+      "dominance": 3.86
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "You do it (Ayy) You do it (Ayy) You do it (Ayy) Money keep coming in, I can't lose",
+      "valence": 3.27,
+      "arousal": 3.55,
+      "dominance": 3.83
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "You do it (Ayy) You do it (Ayy) Money keep coming in, I can't lose Money keep coming in, I can't lose",
+      "valence": 3.16,
+      "arousal": 3.53,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "You do it (Ayy) Money keep coming in, I can't lose Money keep coming in, I can't lose Foreign girls and they tens, I can't choose",
+      "valence": 2.85,
+      "arousal": 3.46,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Money keep coming in, I can't lose Money keep coming in, I can't lose Foreign girls and they tens, I can't choose Foreign car got V10, I can't cruise",
+      "valence": 2.76,
+      "arousal": 3.45,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Money keep coming in, I can't lose Foreign girls and they tens, I can't choose Foreign car got V10, I can't cruise I got different color on my diamonds",
+      "valence": 2.84,
+      "arousal": 3.32,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Foreign girls and they tens, I can't choose Foreign car got V10, I can't cruise I got different color on my diamonds I can't even see the time",
+      "valence": 2.79,
+      "arousal": 3.35,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Foreign car got V10, I can't cruise I got different color on my diamonds I can't even see the time I don't wanna see her face",
+      "valence": 2.73,
+      "arousal": 3.44,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I got different color on my diamonds I can't even see the time I don't wanna see her face I'ma go and get behind",
+      "valence": 2.89,
+      "arousal": 3.37,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I can't even see the time I don't wanna see her face I'ma go and get behind Drop the top on the Wraith",
+      "valence": 2.72,
+      "arousal": 3.47,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I don't wanna see her face I'ma go and get behind Drop the top on the Wraith I'ma make him lose his mind",
+      "valence": 2.39,
+      "arousal": 3.63,
+      "dominance": 3.84
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I'ma go and get behind Drop the top on the Wraith I'ma make him lose his mind I just made 100k, it was quicker than a Vine",
+      "valence": 3.09,
+      "arousal": 3.61,
+      "dominance": 3.74
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Drop the top on the Wraith I'ma make him lose his mind I just made 100k, it was quicker than a Vine I was swinging from a vine",
+      "valence": 3.01,
+      "arousal": 3.65,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I'ma make him lose his mind I just made 100k, it was quicker than a Vine I was swinging from a vine Tryna put me down, but I climb",
+      "valence": 2.79,
+      "arousal": 3.66,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I just made 100k, it was quicker than a Vine I was swinging from a vine Tryna put me down, but I climb I'ma get it, keep tryin'",
+      "valence": 3.23,
+      "arousal": 3.55,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I was swinging from a vine Tryna put me down, but I climb I'ma get it, keep tryin' There's no reason for the cryin'",
+      "valence": 2.69,
+      "arousal": 3.42,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Tryna put me down, but I climb I'ma get it, keep tryin' There's no reason for the cryin' We the ones that be slidin'",
+      "valence": 2.64,
+      "arousal": 3.49,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I'ma get it, keep tryin' There's no reason for the cryin' We the ones that be slidin' They the ones that be dyin'",
+      "valence": 2.7,
+      "arousal": 3.34,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "There's no reason for the cryin' We the ones that be slidin' They the ones that be dyin' Know my boys, they be ridin'",
+      "valence": 2.57,
+      "arousal": 3.27,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "We the ones that be slidin' They the ones that be dyin' Know my boys, they be ridin' Yeah, my doors suicide",
+      "valence": 2.78,
+      "arousal": 3.31,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "They the ones that be dyin' Know my boys, they be ridin' Yeah, my doors suicide Side note, you will never reach my goals",
+      "valence": 2.52,
+      "arousal": 3.38,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Know my boys, they be ridin' Yeah, my doors suicide Side note, you will never reach my goals I be walkin' with a slimed nose",
+      "valence": 2.45,
+      "arousal": 3.5,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Yeah, my doors suicide Side note, you will never reach my goals I be walkin' with a slimed nose And I'm also walkin' with my side ho",
+      "valence": 2.37,
+      "arousal": 3.43,
+      "dominance": 2.71
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Side note, you will never reach my goals I be walkin' with a slimed nose And I'm also walkin' with my side ho Only time I be walkin' when I'm on the moon",
+      "valence": 2.71,
+      "arousal": 3.21,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I be walkin' with a slimed nose And I'm also walkin' with my side ho Only time I be walkin' when I'm on the moon So I feel like Michael",
+      "valence": 3.01,
+      "arousal": 3.05,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "And I'm also walkin' with my side ho Only time I be walkin' when I'm on the moon So I feel like Michael I was talking to my lil' slime",
+      "valence": 3.11,
+      "arousal": 3.04,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Only time I be walkin' when I'm on the moon So I feel like Michael I was talking to my lil' slime That's a lil' lizard, call her Geico",
+      "valence": 3.06,
+      "arousal": 3.03,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "So I feel like Michael I was talking to my lil' slime That's a lil' lizard, call her Geico In reality I'm 5'4",
+      "valence": 2.99,
+      "arousal": 3.13,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I was talking to my lil' slime That's a lil' lizard, call her Geico In reality I'm 5'4 Stand on my money now I'm 6'6",
+      "valence": 3.07,
+      "arousal": 3.31,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "That's a lil' lizard, call her Geico In reality I'm 5'4 Stand on my money now I'm 6'6 Hit her once now she dismissed",
+      "valence": 2.66,
+      "arousal": 3.5,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "In reality I'm 5'4 Stand on my money now I'm 6'6 Hit her once now she dismissed Can't fuck her sister make her lick dick",
+      "valence": 2.51,
+      "arousal": 3.72,
+      "dominance": 3.78
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Stand on my money now I'm 6'6 Hit her once now she dismissed Can't fuck her sister make her lick dick .40 on me make my hip thick",
+      "valence": 2.32,
+      "arousal": 3.88,
+      "dominance": 3.85
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Hit her once now she dismissed Can't fuck her sister make her lick dick .40 on me make my hip thick When I see an opp, make the clip hit",
+      "valence": 2.36,
+      "arousal": 3.82,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Can't fuck her sister make her lick dick .40 on me make my hip thick When I see an opp, make the clip hit Aiming at his top, boy you need a mop",
+      "valence": 2.27,
+      "arousal": 3.74,
+      "dominance": 3.79
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": ".40 on me make my hip thick When I see an opp, make the clip hit Aiming at his top, boy you need a mop Man I'm goin' out with a vengeance",
+      "valence": 2.99,
+      "arousal": 3.54,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "When I see an opp, make the clip hit Aiming at his top, boy you need a mop Man I'm goin' out with a vengeance My pants, Raf Simons",
+      "valence": 3.04,
+      "arousal": 3.58,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Aiming at his top, boy you need a mop Man I'm goin' out with a vengeance My pants, Raf Simons My shoes, Rick-Rick",
+      "valence": 2.89,
+      "arousal": 3.45,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Man I'm goin' out with a vengeance My pants, Raf Simons My shoes, Rick-Rick Your girl dipped my tartar sauce",
+      "valence": 3.23,
+      "arousal": 3.66,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "My pants, Raf Simons My shoes, Rick-Rick Your girl dipped my tartar sauce So she ate my dick like a fish stick",
+      "valence": 2.88,
+      "arousal": 3.58,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "My shoes, Rick-Rick Your girl dipped my tartar sauce So she ate my dick like a fish stick Hit it raw, yes I am a dog",
+      "valence": 2.82,
+      "arousal": 3.63,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Your girl dipped my tartar sauce So she ate my dick like a fish stick Hit it raw, yes I am a dog I don't do this shit for no image",
+      "valence": 2.52,
+      "arousal": 3.76,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "So she ate my dick like a fish stick Hit it raw, yes I am a dog I don't do this shit for no image All my diamonds, they be hittin' hard",
+      "valence": 2.5,
+      "arousal": 3.76,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Hit it raw, yes I am a dog I don't do this shit for no image All my diamonds, they be hittin' hard Try to play me boy, that's a scrimmage",
+      "valence": 2.62,
+      "arousal": 3.66,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "I don't do this shit for no image All my diamonds, they be hittin' hard Try to play me boy, that's a scrimmage I got different color on my diamonds",
+      "valence": 2.49,
+      "arousal": 3.53,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "All my diamonds, they be hittin' hard Try to play me boy, that's a scrimmage I got different color on my diamonds I can't even see the time",
+      "valence": 2.85,
+      "arousal": 3.47,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Try to play me boy, that's a scrimmage I got different color on my diamonds I can't even see the time I don't wanna see her face",
+      "valence": 2.58,
+      "arousal": 3.36,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "I got different color on my diamonds I can't even see the time I don't wanna see her face I'ma go and get behind",
+      "valence": 2.89,
+      "arousal": 3.37,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "I can't even see the time I don't wanna see her face I'ma go and get behind Drop the top on the Wraith",
+      "valence": 2.72,
+      "arousal": 3.47,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "I don't wanna see her face I'ma go and get behind Drop the top on the Wraith I'ma make him lose his mind",
+      "valence": 2.39,
+      "arousal": 3.63,
+      "dominance": 3.84
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "I'ma go and get behind Drop the top on the Wraith I'ma make him lose his mind I just made 100k",
+      "valence": 2.97,
+      "arousal": 3.64,
+      "dominance": 3.77
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Drop the top on the Wraith I'ma make him lose his mind I just made 100k It was quicker than a Vine",
+      "valence": 2.94,
+      "arousal": 3.61,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "I'ma make him lose his mind I just made 100k It was quicker than a Vine I was swinging from a vine",
+      "valence": 2.9,
+      "arousal": 3.67,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "I just made 100k It was quicker than a Vine I was swinging from a vine Tryna put me down, but I climb",
+      "valence": 3.13,
+      "arousal": 3.43,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "It was quicker than a Vine I was swinging from a vine Tryna put me down, but I climb I'ma get it, keep tryin'",
+      "valence": 3.02,
+      "arousal": 3.51,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "I was swinging from a vine Tryna put me down, but I climb I'ma get it, keep tryin' There's no reason for the cryin'",
+      "valence": 2.69,
+      "arousal": 3.42,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Tryna put me down, but I climb I'ma get it, keep tryin' There's no reason for the cryin' We the ones that be slidin'",
+      "valence": 2.64,
+      "arousal": 3.49,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "I'ma get it, keep tryin' There's no reason for the cryin' We the ones that be slidin' They the ones that be dyin'",
+      "valence": 2.7,
+      "arousal": 3.34,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "There's no reason for the cryin' We the ones that be slidin' They the ones that be dyin' Know my boys, they be ridin',",
+      "valence": 2.57,
+      "arousal": 3.28,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "We the ones that be slidin' They the ones that be dyin' Know my boys, they be ridin', Yeah, my doors suicide",
+      "valence": 2.76,
+      "arousal": 3.31,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "They the ones that be dyin' Know my boys, they be ridin', Yeah, my doors suicide Live it up, you can just go any day now",
+      "valence": 3.08,
+      "arousal": 3.51,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "Know my boys, they be ridin', Yeah, my doors suicide Live it up, you can just go any day now Mykko Montana",
+      "valence": 3.37,
+      "arousal": 3.48,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "Yeah, my doors suicide Live it up, you can just go any day now Mykko Montana This beat is from K Camp",
+      "valence": 3.23,
+      "arousal": 3.54,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "Live it up, you can just go any day now Mykko Montana This beat is from K Camp Got frost on my diamonds",
+      "valence": 3.16,
+      "arousal": 3.36,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "Mykko Montana This beat is from K Camp Got frost on my diamonds I'm getting the cake now",
+      "valence": 3.44,
+      "arousal": 3.44,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "This beat is from K Camp Got frost on my diamonds I'm getting the cake now I stay on your stomach lil' bitch",
+      "valence": 3.05,
+      "arousal": 3.72,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "Got frost on my diamonds I'm getting the cake now I stay on your stomach lil' bitch When you lay down",
+      "valence": 2.64,
+      "arousal": 3.72,
+      "dominance": 3.78
+    },
+    {
+      "chunk_id": 86,
+      "lyrics_text": "I'm getting the cake now I stay on your stomach lil' bitch When you lay down Live it up, cause",
+      "valence": 2.37,
+      "arousal": 3.64,
+      "dominance": 3.89
+    },
+    {
+      "chunk_id": 87,
+      "lyrics_text": "I stay on your stomach lil' bitch When you lay down Live it up, cause You can go any day now",
+      "valence": 2.23,
+      "arousal": 3.6,
+      "dominance": 3.8
+    },
+    {
+      "chunk_id": 88,
+      "lyrics_text": "When you lay down Live it up, cause You can go any day now Mykko Montana",
+      "valence": 3.11,
+      "arousal": 3.24,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 89,
+      "lyrics_text": "Live it up, cause You can go any day now Mykko Montana This beat is from K Camp",
+      "valence": 3.15,
+      "arousal": 3.4,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 90,
+      "lyrics_text": "You can go any day now Mykko Montana This beat is from K Camp Frost on my diamonds",
+      "valence": 3.13,
+      "arousal": 3.04,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 91,
+      "lyrics_text": "Mykko Montana This beat is from K Camp Frost on my diamonds 'Cause I got the cake now",
+      "valence": 3.22,
+      "arousal": 3.21,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 92,
+      "lyrics_text": "This beat is from K Camp Frost on my diamonds 'Cause I got the cake now When you on your stomach lil' bitch better lay down",
+      "valence": 3.0,
+      "arousal": 3.44,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 93,
+      "lyrics_text": "Frost on my diamonds 'Cause I got the cake now When you on your stomach lil' bitch better lay down I'm so up and I can't turn it down",
+      "valence": 2.96,
+      "arousal": 3.69,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 94,
+      "lyrics_text": "'Cause I got the cake now When you on your stomach lil' bitch better lay down I'm so up and I can't turn it down They counted me out",
+      "valence": 2.44,
+      "arousal": 3.73,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 95,
+      "lyrics_text": "When you on your stomach lil' bitch better lay down I'm so up and I can't turn it down They counted me out My whole life turned around",
+      "valence": 2.27,
+      "arousal": 3.83,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 96,
+      "lyrics_text": "I'm so up and I can't turn it down They counted me out My whole life turned around Clean up my diamonds",
+      "valence": 2.78,
+      "arousal": 3.54,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 97,
+      "lyrics_text": "They counted me out My whole life turned around Clean up my diamonds You know I got rented",
+      "valence": 2.84,
+      "arousal": 3.2,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 98,
+      "lyrics_text": "My whole life turned around Clean up my diamonds You know I got rented Know my boys coming and",
+      "valence": 3.42,
+      "arousal": 3.42,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 99,
+      "lyrics_text": "Clean up my diamonds You know I got rented Know my boys coming and You know they mean business",
+      "valence": 3.21,
+      "arousal": 3.24,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 100,
+      "lyrics_text": "You know I got rented Know my boys coming and You know they mean business That advance that you waitin' for",
+      "valence": 3.27,
+      "arousal": 3.35,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 101,
+      "lyrics_text": "Know my boys coming and You know they mean business That advance that you waitin' for Already spent it",
+      "valence": 3.38,
+      "arousal": 3.38,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 102,
+      "lyrics_text": "You know they mean business That advance that you waitin' for Already spent it When I'm on the beat man",
+      "valence": 3.11,
+      "arousal": 3.17,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 103,
+      "lyrics_text": "That advance that you waitin' for Already spent it When I'm on the beat man You know I'm gon' kill it",
+      "valence": 2.92,
+      "arousal": 3.83,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 104,
+      "lyrics_text": "Already spent it When I'm on the beat man You know I'm gon' kill it We be throwin' money in a spiral",
+      "valence": 2.74,
+      "arousal": 3.63,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 105,
+      "lyrics_text": "When I'm on the beat man You know I'm gon' kill it We be throwin' money in a spiral Every time your girl hear my song",
+      "valence": 3.07,
+      "arousal": 3.81,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 106,
+      "lyrics_text": "You know I'm gon' kill it We be throwin' money in a spiral Every time your girl hear my song Yeah, turn her right into my ho",
+      "valence": 3.0,
+      "arousal": 3.81,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 107,
+      "lyrics_text": "We be throwin' money in a spiral Every time your girl hear my song Yeah, turn her right into my ho She shake her ass, do the eye roll",
+      "valence": 3.05,
+      "arousal": 3.66,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 108,
+      "lyrics_text": "Every time your girl hear my song Yeah, turn her right into my ho She shake her ass, do the eye roll Got a skinny thong like a tightrope",
+      "valence": 3.16,
+      "arousal": 3.58,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 109,
+      "lyrics_text": "Yeah, turn her right into my ho She shake her ass, do the eye roll Got a skinny thong like a tightrope I be blowin' up like some pyro",
+      "valence": 2.89,
+      "arousal": 3.52,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 110,
+      "lyrics_text": "She shake her ass, do the eye roll Got a skinny thong like a tightrope I be blowin' up like some pyro Coupe 150, call it Kyro",
+      "valence": 2.89,
+      "arousal": 3.45,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 111,
+      "lyrics_text": "Got a skinny thong like a tightrope I be blowin' up like some pyro Coupe 150, call it Kyro I got different color on my diamonds",
+      "valence": 3.12,
+      "arousal": 3.31,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 112,
+      "lyrics_text": "I be blowin' up like some pyro Coupe 150, call it Kyro I got different color on my diamonds I can't even see the time",
+      "valence": 3.07,
+      "arousal": 3.39,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 113,
+      "lyrics_text": "Coupe 150, call it Kyro I got different color on my diamonds I can't even see the time I don't wanna see her face",
+      "valence": 2.84,
+      "arousal": 3.46,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 114,
+      "lyrics_text": "I got different color on my diamonds I can't even see the time I don't wanna see her face I'ma go and get behind",
+      "valence": 2.89,
+      "arousal": 3.37,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 115,
+      "lyrics_text": "I can't even see the time I don't wanna see her face I'ma go and get behind Drop the top on the Wraith",
+      "valence": 2.72,
+      "arousal": 3.47,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 116,
+      "lyrics_text": "I don't wanna see her face I'ma go and get behind Drop the top on the Wraith I'ma make him lose his mind",
+      "valence": 2.39,
+      "arousal": 3.63,
+      "dominance": 3.84
+    },
+    {
+      "chunk_id": 117,
+      "lyrics_text": "I'ma go and get behind Drop the top on the Wraith I'ma make him lose his mind I just made 100k",
+      "valence": 2.97,
+      "arousal": 3.64,
+      "dominance": 3.77
+    },
+    {
+      "chunk_id": 118,
+      "lyrics_text": "Drop the top on the Wraith I'ma make him lose his mind I just made 100k It was quicker than a Vine",
+      "valence": 2.94,
+      "arousal": 3.61,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 119,
+      "lyrics_text": "I'ma make him lose his mind I just made 100k It was quicker than a Vine I was swinging from a vine",
+      "valence": 2.9,
+      "arousal": 3.67,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 120,
+      "lyrics_text": "I just made 100k It was quicker than a Vine I was swinging from a vine Tryna put me down, but I climb",
+      "valence": 3.13,
+      "arousal": 3.43,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 121,
+      "lyrics_text": "It was quicker than a Vine I was swinging from a vine Tryna put me down, but I climb I'ma get it, keep tryin'",
+      "valence": 3.02,
+      "arousal": 3.51,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 122,
+      "lyrics_text": "I was swinging from a vine Tryna put me down, but I climb I'ma get it, keep tryin' There's no reason for the cryin'",
+      "valence": 2.69,
+      "arousal": 3.42,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 123,
+      "lyrics_text": "Tryna put me down, but I climb I'ma get it, keep tryin' There's no reason for the cryin' We the ones that be slidin'",
+      "valence": 2.64,
+      "arousal": 3.49,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 124,
+      "lyrics_text": "I'ma get it, keep tryin' There's no reason for the cryin' We the ones that be slidin' They the ones that be dyin'",
+      "valence": 2.7,
+      "arousal": 3.34,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 125,
+      "lyrics_text": "There's no reason for the cryin' We the ones that be slidin' They the ones that be dyin' Know my boys, they be ridin'",
+      "valence": 2.57,
+      "arousal": 3.27,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 126,
+      "lyrics_text": "We the ones that be slidin' They the ones that be dyin' Know my boys, they be ridin' Yeah, my doors suicide",
+      "valence": 2.78,
+      "arousal": 3.31,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 127,
+      "lyrics_text": "They the ones that be dyin' Know my boys, they be ridin' Yeah, my doors suicide I like the way you (Ayy)",
+      "valence": 3.76,
+      "arousal": 3.56,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 128,
+      "lyrics_text": "Know my boys, they be ridin' Yeah, my doors suicide I like the way you (Ayy) You do it (Ayy)",
+      "valence": 3.89,
+      "arousal": 3.57,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 129,
+      "lyrics_text": "Yeah, my doors suicide I like the way you (Ayy) You do it (Ayy) You do it (Ayy)",
+      "valence": 3.98,
+      "arousal": 3.63,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 130,
+      "lyrics_text": "I like the way you (Ayy) You do it (Ayy) You do it (Ayy) You do it (Ayy)",
+      "valence": 3.82,
+      "arousal": 3.51,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 131,
+      "lyrics_text": "You do it (Ayy) You do it (Ayy) You do it (Ayy) You do it (Ayy)",
+      "valence": 3.29,
+      "arousal": 3.45,
+      "dominance": 3.86
+    },
+    {
+      "chunk_id": 132,
+      "lyrics_text": "You do it (Ayy) You do it (Ayy) You do it (Ayy) You do it (Ayy)",
+      "valence": 3.29,
+      "arousal": 3.45,
+      "dominance": 3.86
+    },
+    {
+      "chunk_id": 133,
+      "lyrics_text": "You do it (Ayy) You do it (Ayy) You do it (Ayy) You do it (Ayy)",
+      "valence": 3.29,
+      "arousal": 3.45,
+      "dominance": 3.86
+    }
+  ]
+}

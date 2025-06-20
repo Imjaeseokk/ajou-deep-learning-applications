@@ -1,0 +1,171 @@
+{
+  "artist": "Lil Nas X",
+  "overall_vad": {
+    "valence": 2.85,
+    "arousal": 3.53,
+    "dominance": 3.26
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Day-Day-Daytrip took it to ten (Hey) Ayy, Panini, don't you be a meanie Thought you wanted me to go up Why you tryna keep me teeny? I",
+      "valence": 2.75,
+      "arousal": 3.41,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Ayy, Panini, don't you be a meanie Thought you wanted me to go up Why you tryna keep me teeny? I It's a dream, he wished it on a genie",
+      "valence": 2.49,
+      "arousal": 3.58,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Thought you wanted me to go up Why you tryna keep me teeny? I It's a dream, he wished it on a genie I got fans finally, ain't you wanting them to see me? I",
+      "valence": 3.11,
+      "arousal": 3.42,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Why you tryna keep me teeny? I It's a dream, he wished it on a genie I got fans finally, ain't you wanting them to see me? I I thought you want this for my life, for my life",
+      "valence": 3.11,
+      "arousal": 3.57,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "It's a dream, he wished it on a genie I got fans finally, ain't you wanting them to see me? I I thought you want this for my life, for my life Said you wanted to see me thrive, you lied",
+      "valence": 3.33,
+      "arousal": 3.6,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I got fans finally, ain't you wanting them to see me? I I thought you want this for my life, for my life Said you wanted to see me thrive, you lied Just say to me what you want from me",
+      "valence": 3.02,
+      "arousal": 3.67,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I thought you want this for my life, for my life Said you wanted to see me thrive, you lied Just say to me what you want from me Just say to me what you want from me",
+      "valence": 2.75,
+      "arousal": 3.63,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Said you wanted to see me thrive, you lied Just say to me what you want from me Just say to me what you want from me Ayy, Panini, don't you be a meanie",
+      "valence": 2.47,
+      "arousal": 3.65,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Just say to me what you want from me Just say to me what you want from me Ayy, Panini, don't you be a meanie Thought you wanted me to go up",
+      "valence": 2.55,
+      "arousal": 3.58,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Just say to me what you want from me Ayy, Panini, don't you be a meanie Thought you wanted me to go up Why you tryna keep me teeny now?",
+      "valence": 2.41,
+      "arousal": 3.57,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Ayy, Panini, don't you be a meanie Thought you wanted me to go up Why you tryna keep me teeny now? Now they need me, number one on streamin'",
+      "valence": 2.51,
+      "arousal": 3.63,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Thought you wanted me to go up Why you tryna keep me teeny now? Now they need me, number one on streamin' Oh yeah, you used to love me",
+      "valence": 3.17,
+      "arousal": 3.64,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Why you tryna keep me teeny now? Now they need me, number one on streamin' Oh yeah, you used to love me So what happened, what's the meaning? I",
+      "valence": 2.93,
+      "arousal": 3.58,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Now they need me, number one on streamin' Oh yeah, you used to love me So what happened, what's the meaning? I I thought you want this for my life, for my life",
+      "valence": 2.99,
+      "arousal": 3.69,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Oh yeah, you used to love me So what happened, what's the meaning? I I thought you want this for my life, for my life Said you wanted to see me thrive, you lied",
+      "valence": 2.92,
+      "arousal": 3.6,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "So what happened, what's the meaning? I I thought you want this for my life, for my life Said you wanted to see me thrive, you lied Now when it's all done, I get the upper hand",
+      "valence": 2.77,
+      "arousal": 3.51,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I thought you want this for my life, for my life Said you wanted to see me thrive, you lied Now when it's all done, I get the upper hand I need a big Benz, not another fan",
+      "valence": 2.64,
+      "arousal": 3.55,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Said you wanted to see me thrive, you lied Now when it's all done, I get the upper hand I need a big Benz, not another fan But I still want you as a fan",
+      "valence": 2.94,
+      "arousal": 3.55,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Now when it's all done, I get the upper hand I need a big Benz, not another fan But I still want you as a fan I'ma need to sit down, don't mean to make demands",
+      "valence": 2.89,
+      "arousal": 3.4,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I need a big Benz, not another fan But I still want you as a fan I'ma need to sit down, don't mean to make demands But I need you to...",
+      "valence": 2.89,
+      "arousal": 3.34,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "But I still want you as a fan I'ma need to sit down, don't mean to make demands But I need you to... Say to me what you want from me",
+      "valence": 3.06,
+      "arousal": 3.42,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I'ma need to sit down, don't mean to make demands But I need you to... Say to me what you want from me Just say to me what you want from me",
+      "valence": 2.86,
+      "arousal": 3.29,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "But I need you to... Say to me what you want from me Just say to me what you want from me D-D-Daytrip took it to ten (Hey)",
+      "valence": 3.0,
+      "arousal": 3.36,
+      "dominance": 3.33
+    }
+  ]
+}

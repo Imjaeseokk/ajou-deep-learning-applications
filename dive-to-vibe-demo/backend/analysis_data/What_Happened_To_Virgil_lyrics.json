@@ -1,0 +1,507 @@
+{
+  "artist": "Lil Durk Featuring Gunna",
+  "overall_vad": {
+    "valence": 2.66,
+    "arousal": 3.62,
+    "dominance": 3.37
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Last time you told me you proud of me, you wasn't proud of me You was the nigga who doubted me I was too mad at you You let 'em come kill you, my brother",
+      "valence": 2.21,
+      "arousal": 3.66,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "You was the nigga who doubted me I was too mad at you You let 'em come kill you, my brother That shit was a tragedy",
+      "valence": 1.99,
+      "arousal": 3.66,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I was too mad at you You let 'em come kill you, my brother That shit was a tragedy But magically I got the strategy",
+      "valence": 2.38,
+      "arousal": 3.65,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "You let 'em come kill you, my brother That shit was a tragedy But magically I got the strategy I was so sick and tired of niggas keep askin' me",
+      "valence": 2.14,
+      "arousal": 3.62,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "That shit was a tragedy But magically I got the strategy I was so sick and tired of niggas keep askin' me \"Who was the killers between the hood?\" (DJ on the beat so it's a banger)",
+      "valence": 2.66,
+      "arousal": 3.56,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "But magically I got the strategy I was so sick and tired of niggas keep askin' me \"Who was the killers between the hood?\" (DJ on the beat so it's a banger) Bro I'm a king, that mean we good",
+      "valence": 3.18,
+      "arousal": 3.57,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I was so sick and tired of niggas keep askin' me \"Who was the killers between the hood?\" (DJ on the beat so it's a banger) Bro I'm a king, that mean we good Talked to my TT about my problems",
+      "valence": 2.72,
+      "arousal": 3.57,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "\"Who was the killers between the hood?\" (DJ on the beat so it's a banger) Bro I'm a king, that mean we good Talked to my TT about my problems Learned to survive, I carry my choppa",
+      "valence": 2.98,
+      "arousal": 3.43,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Bro I'm a king, that mean we good Talked to my TT about my problems Learned to survive, I carry my choppa Before I was 12, I went to the doctor",
+      "valence": 2.9,
+      "arousal": 3.34,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Talked to my TT about my problems Learned to survive, I carry my choppa Before I was 12, I went to the doctor Fucked on a stripper and I took me a Roxy",
+      "valence": 2.79,
+      "arousal": 3.24,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Learned to survive, I carry my choppa Before I was 12, I went to the doctor Fucked on a stripper and I took me a Roxy How you my blooda? You say you gon' pop me",
+      "valence": 2.82,
+      "arousal": 3.39,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Before I was 12, I went to the doctor Fucked on a stripper and I took me a Roxy How you my blooda? You say you gon' pop me Fall over loyalty, never 'bout thotties",
+      "valence": 2.48,
+      "arousal": 3.6,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Fucked on a stripper and I took me a Roxy How you my blooda? You say you gon' pop me Fall over loyalty, never 'bout thotties Don't mention my name if you mention them bodies",
+      "valence": 2.38,
+      "arousal": 3.69,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "How you my blooda? You say you gon' pop me Fall over loyalty, never 'bout thotties Don't mention my name if you mention them bodies Don't mention my name if you mention them bodies",
+      "valence": 2.42,
+      "arousal": 3.6,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Fall over loyalty, never 'bout thotties Don't mention my name if you mention them bodies Don't mention my name if you mention them bodies \"Stop takin' drugs after sendin' a song\"",
+      "valence": 2.61,
+      "arousal": 3.27,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Don't mention my name if you mention them bodies Don't mention my name if you mention them bodies \"Stop takin' drugs after sendin' a song\" How you gon' blame me? I give her cabaÃ±a",
+      "valence": 2.55,
+      "arousal": 3.34,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Don't mention my name if you mention them bodies \"Stop takin' drugs after sendin' a song\" How you gon' blame me? I give her cabaÃ±a Bitch I'm a star, gotta use condom",
+      "valence": 2.45,
+      "arousal": 3.58,
+      "dominance": 3.74
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "\"Stop takin' drugs after sendin' a song\" How you gon' blame me? I give her cabaÃ±a Bitch I'm a star, gotta use condom Don't drink Par, only like Wocka",
+      "valence": 2.5,
+      "arousal": 3.54,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "How you gon' blame me? I give her cabaÃ±a Bitch I'm a star, gotta use condom Don't drink Par, only like Wocka Sippin' on Wocka, I feel like I'm Flocka",
+      "valence": 2.61,
+      "arousal": 3.55,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Bitch I'm a star, gotta use condom Don't drink Par, only like Wocka Sippin' on Wocka, I feel like I'm Flocka Shit in my pocket, that shit'll go blocka",
+      "valence": 2.38,
+      "arousal": 3.64,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Don't drink Par, only like Wocka Sippin' on Wocka, I feel like I'm Flocka Shit in my pocket, that shit'll go blocka Say that I'm mean, what you mean? I caught you",
+      "valence": 2.4,
+      "arousal": 3.58,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Sippin' on Wocka, I feel like I'm Flocka Shit in my pocket, that shit'll go blocka Say that I'm mean, what you mean? I caught you Get away from her, high speed, I'm toxic",
+      "valence": 2.22,
+      "arousal": 3.69,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Shit in my pocket, that shit'll go blocka Say that I'm mean, what you mean? I caught you Get away from her, high speed, I'm toxic Called you a bitch, I'm sorry I lost it",
+      "valence": 1.94,
+      "arousal": 3.92,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Say that I'm mean, what you mean? I caught you Get away from her, high speed, I'm toxic Called you a bitch, I'm sorry I lost it Head down, X pill, Percocet, off it",
+      "valence": 2.17,
+      "arousal": 3.87,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Get away from her, high speed, I'm toxic Called you a bitch, I'm sorry I lost it Head down, X pill, Percocet, off it Bitch my phone died, pass me a charger",
+      "valence": 1.81,
+      "arousal": 4.07,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Called you a bitch, I'm sorry I lost it Head down, X pill, Percocet, off it Bitch my phone died, pass me a charger Ain't have a coat, walked to school in a thermal",
+      "valence": 1.87,
+      "arousal": 3.76,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Head down, X pill, Percocet, off it Bitch my phone died, pass me a charger Ain't have a coat, walked to school in a thermal Bitches you lookin' up to, they'll burn you",
+      "valence": 2.34,
+      "arousal": 3.57,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Bitch my phone died, pass me a charger Ain't have a coat, walked to school in a thermal Bitches you lookin' up to, they'll burn you Get out my business, this shit don't concern you",
+      "valence": 2.08,
+      "arousal": 3.81,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Ain't have a coat, walked to school in a thermal Bitches you lookin' up to, they'll burn you Get out my business, this shit don't concern you I get to diggin' this shit when I learn you",
+      "valence": 2.19,
+      "arousal": 3.68,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Bitches you lookin' up to, they'll burn you Get out my business, this shit don't concern you I get to diggin' this shit when I learn you I love the trenches, this shit is eternal",
+      "valence": 2.14,
+      "arousal": 3.84,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Get out my business, this shit don't concern you I get to diggin' this shit when I learn you I love the trenches, this shit is eternal Oh my God, what happened to Virgil?",
+      "valence": 2.25,
+      "arousal": 4.1,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I get to diggin' this shit when I learn you I love the trenches, this shit is eternal Oh my God, what happened to Virgil? I wish my brother had made it out surgery",
+      "valence": 2.84,
+      "arousal": 3.93,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I love the trenches, this shit is eternal Oh my God, what happened to Virgil? I wish my brother had made it out surgery I be up thinkin', that shit do be hurtin' me",
+      "valence": 3.35,
+      "arousal": 4.12,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Oh my God, what happened to Virgil? I wish my brother had made it out surgery I be up thinkin', that shit do be hurtin' me If they gon' catch me, them niggas gon' murder me (oh no, oh)",
+      "valence": 2.07,
+      "arousal": 4.0,
+      "dominance": 2.66
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I wish my brother had made it out surgery I be up thinkin', that shit do be hurtin' me If they gon' catch me, them niggas gon' murder me (oh no, oh) Gave my bro twenty, he caught for a burglary",
+      "valence": 2.15,
+      "arousal": 3.63,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I be up thinkin', that shit do be hurtin' me If they gon' catch me, them niggas gon' murder me (oh no, oh) Gave my bro twenty, he caught for a burglary I love the bitches who say they ain't heard of me",
+      "valence": 2.43,
+      "arousal": 3.76,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "If they gon' catch me, them niggas gon' murder me (oh no, oh) Gave my bro twenty, he caught for a burglary I love the bitches who say they ain't heard of me Never seen blood, that shit'll turn burgundy",
+      "valence": 2.48,
+      "arousal": 3.96,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Gave my bro twenty, he caught for a burglary I love the bitches who say they ain't heard of me Never seen blood, that shit'll turn burgundy Oh my God, what happened to Virgil?",
+      "valence": 2.93,
+      "arousal": 3.97,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I love the bitches who say they ain't heard of me Never seen blood, that shit'll turn burgundy Oh my God, what happened to Virgil? Oh my God, what happened to Virgil?",
+      "valence": 3.0,
+      "arousal": 3.99,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Never seen blood, that shit'll turn burgundy Oh my God, what happened to Virgil? Oh my God, what happened to Virgil? Fresh like the first day of school, I'm a scholar",
+      "valence": 2.56,
+      "arousal": 3.93,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Oh my God, what happened to Virgil? Oh my God, what happened to Virgil? Fresh like the first day of school, I'm a scholar Found the solution and got some more problems",
+      "valence": 2.67,
+      "arousal": 3.89,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Oh my God, what happened to Virgil? Fresh like the first day of school, I'm a scholar Found the solution and got some more problems We from the sandbox, my dog since a toddler",
+      "valence": 2.69,
+      "arousal": 3.77,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Fresh like the first day of school, I'm a scholar Found the solution and got some more problems We from the sandbox, my dog since a toddler Sixteen year old when I shot my first chopper",
+      "valence": 3.12,
+      "arousal": 3.36,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Found the solution and got some more problems We from the sandbox, my dog since a toddler Sixteen year old when I shot my first chopper Flew out of Van Nuys, landed in Opa Locka",
+      "valence": 2.83,
+      "arousal": 3.28,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "We from the sandbox, my dog since a toddler Sixteen year old when I shot my first chopper Flew out of Van Nuys, landed in Opa Locka Quit flyin' the G5, fly helicopters (fly helicopters)",
+      "valence": 3.02,
+      "arousal": 3.28,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Sixteen year old when I shot my first chopper Flew out of Van Nuys, landed in Opa Locka Quit flyin' the G5, fly helicopters (fly helicopters) I count every blessin' and count every dollar",
+      "valence": 3.54,
+      "arousal": 3.43,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Flew out of Van Nuys, landed in Opa Locka Quit flyin' the G5, fly helicopters (fly helicopters) I count every blessin' and count every dollar I'm 'bout to go factory plain",
+      "valence": 3.39,
+      "arousal": 3.36,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Quit flyin' the G5, fly helicopters (fly helicopters) I count every blessin' and count every dollar I'm 'bout to go factory plain I treat all of my dogs the same",
+      "valence": 3.17,
+      "arousal": 3.34,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I count every blessin' and count every dollar I'm 'bout to go factory plain I treat all of my dogs the same Take care all of my bitches the same",
+      "valence": 3.3,
+      "arousal": 3.4,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I'm 'bout to go factory plain I treat all of my dogs the same Take care all of my bitches the same I just hope you financially sane",
+      "valence": 3.2,
+      "arousal": 3.34,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I treat all of my dogs the same Take care all of my bitches the same I just hope you financially sane Never turnin' my back on the gang",
+      "valence": 3.04,
+      "arousal": 3.39,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Take care all of my bitches the same I just hope you financially sane Never turnin' my back on the gang From the A, we was taught to be brave",
+      "valence": 2.93,
+      "arousal": 3.43,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "I just hope you financially sane Never turnin' my back on the gang From the A, we was taught to be brave Had to squabble and take a few fades",
+      "valence": 3.05,
+      "arousal": 3.21,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Never turnin' my back on the gang From the A, we was taught to be brave Had to squabble and take a few fades Stay rock solid, you'll get through the phase",
+      "valence": 3.06,
+      "arousal": 3.2,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "From the A, we was taught to be brave Had to squabble and take a few fades Stay rock solid, you'll get through the phase That my nigga, what happened to Virgil?",
+      "valence": 2.85,
+      "arousal": 3.29,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Had to squabble and take a few fades Stay rock solid, you'll get through the phase That my nigga, what happened to Virgil? Talked to God, I don't wanna get murdered",
+      "valence": 2.65,
+      "arousal": 3.48,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Stay rock solid, you'll get through the phase That my nigga, what happened to Virgil? Talked to God, I don't wanna get murdered I got style, I don't know what you heard of",
+      "valence": 2.57,
+      "arousal": 3.66,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "That my nigga, what happened to Virgil? Talked to God, I don't wanna get murdered I got style, I don't know what you heard of You lil' pussy, you soft and fertile",
+      "valence": 2.33,
+      "arousal": 3.8,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Talked to God, I don't wanna get murdered I got style, I don't know what you heard of You lil' pussy, you soft and fertile Only rumors throughout my circle",
+      "valence": 2.34,
+      "arousal": 3.88,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "I got style, I don't know what you heard of You lil' pussy, you soft and fertile Only rumors throughout my circle Only rumors throughout my circle, oh",
+      "valence": 2.69,
+      "arousal": 3.72,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "You lil' pussy, you soft and fertile Only rumors throughout my circle Only rumors throughout my circle, oh R.I.P. Prince, I'ma pour up some purple",
+      "valence": 3.11,
+      "arousal": 3.71,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Only rumors throughout my circle Only rumors throughout my circle, oh R.I.P. Prince, I'ma pour up some purple 600 Maybach, the one with the curtain",
+      "valence": 2.95,
+      "arousal": 3.3,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Only rumors throughout my circle, oh R.I.P. Prince, I'ma pour up some purple 600 Maybach, the one with the curtain Young GunnaWunna, the boy bought the Birkin",
+      "valence": 3.05,
+      "arousal": 3.32,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "R.I.P. Prince, I'ma pour up some purple 600 Maybach, the one with the curtain Young GunnaWunna, the boy bought the Birkin I'm goin' hard, now you proud of me workin'",
+      "valence": 3.49,
+      "arousal": 3.36,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "600 Maybach, the one with the curtain Young GunnaWunna, the boy bought the Birkin I'm goin' hard, now you proud of me workin' Ridin' round the town sippin' and swervin'",
+      "valence": 3.52,
+      "arousal": 3.33,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Young GunnaWunna, the boy bought the Birkin I'm goin' hard, now you proud of me workin' Ridin' round the town sippin' and swervin' Hold it down, do this shit with a purpose",
+      "valence": 3.19,
+      "arousal": 3.54,
+      "dominance": 3.75
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "I'm goin' hard, now you proud of me workin' Ridin' round the town sippin' and swervin' Hold it down, do this shit with a purpose Louis down, man, this shit came from Virgil (this shit came from Virgil)",
+      "valence": 2.96,
+      "arousal": 3.68,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Ridin' round the town sippin' and swervin' Hold it down, do this shit with a purpose Louis down, man, this shit came from Virgil (this shit came from Virgil) Oh my God, what happened to Virgil?",
+      "valence": 2.44,
+      "arousal": 3.94,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Hold it down, do this shit with a purpose Louis down, man, this shit came from Virgil (this shit came from Virgil) Oh my God, what happened to Virgil? Oh my God, what happened to Virgil?",
+      "valence": 2.43,
+      "arousal": 3.95,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Louis down, man, this shit came from Virgil (this shit came from Virgil) Oh my God, what happened to Virgil? Oh my God, what happened to Virgil? Oh my God, what happened to Virgil?",
+      "valence": 2.44,
+      "arousal": 4.01,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Oh my God, what happened to Virgil? Oh my God, what happened to Virgil? Oh my God, what happened to Virgil? Oh my God, what happened to Virgil?",
+      "valence": 2.75,
+      "arousal": 4.02,
+      "dominance": 2.7
+    }
+  ]
+}

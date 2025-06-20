@@ -1,0 +1,780 @@
+{
+  "artist": "Migos Featuring Gucci Mane",
+  "overall_vad": {
+    "valence": 2.75,
+    "arousal": 3.51,
+    "dominance": 3.46
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Pop a perky just to start up (pop it, pop it pop it) Two cups of purple just to warm up (two cups, drank) I heard your bitch she got that water (Splash, drip, drip, woo, splash)",
+      "valence": 2.86,
+      "arousal": 3.37,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Two cups of purple just to warm up (two cups, drank) I heard your bitch she got that water (Splash, drip, drip, woo, splash) Slippery, 'scuse me, please me (please)",
+      "valence": 2.5,
+      "arousal": 3.63,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I heard your bitch she got that water (Splash, drip, drip, woo, splash) Slippery, 'scuse me, please me (please) Arm up, or believe me, believe me (believe me)",
+      "valence": 2.41,
+      "arousal": 3.72,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "(Splash, drip, drip, woo, splash) Slippery, 'scuse me, please me (please) Arm up, or believe me, believe me (believe me) Get beat, cause I'm flexin' 'Rari's (skrt)",
+      "valence": 2.82,
+      "arousal": 3.64,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Slippery, 'scuse me, please me (please) Arm up, or believe me, believe me (believe me) Get beat, cause I'm flexin' 'Rari's (skrt) You can bet on me (skr, skr)",
+      "valence": 2.64,
+      "arousal": 3.58,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Arm up, or believe me, believe me (believe me) Get beat, cause I'm flexin' 'Rari's (skrt) You can bet on me (skr, skr) Hey, hey, hey, tater tot",
+      "valence": 3.02,
+      "arousal": 3.61,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Get beat, cause I'm flexin' 'Rari's (skrt) You can bet on me (skr, skr) Hey, hey, hey, tater tot Fuck niggas on my radar watch (watchin')",
+      "valence": 2.69,
+      "arousal": 3.69,
+      "dominance": 3.78
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "You can bet on me (skr, skr) Hey, hey, hey, tater tot Fuck niggas on my radar watch (watchin') Crocodile hunter, turn 'em to some gator shots (urr)",
+      "valence": 2.46,
+      "arousal": 3.62,
+      "dominance": 3.79
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Hey, hey, hey, tater tot Fuck niggas on my radar watch (watchin') Crocodile hunter, turn 'em to some gator shots (urr) Iced out watch (ice), ridin' round ten o' clock (ten)",
+      "valence": 2.5,
+      "arousal": 3.59,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Fuck niggas on my radar watch (watchin') Crocodile hunter, turn 'em to some gator shots (urr) Iced out watch (ice), ridin' round ten o' clock (ten) Ridin' round, geeked up, damn, think it's three o' clock (three)",
+      "valence": 2.22,
+      "arousal": 3.75,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Crocodile hunter, turn 'em to some gator shots (urr) Iced out watch (ice), ridin' round ten o' clock (ten) Ridin' round, geeked up, damn, think it's three o' clock (three) Four o' clock (four), five o' clock, six o' clock (five)",
+      "valence": 2.8,
+      "arousal": 3.4,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Iced out watch (ice), ridin' round ten o' clock (ten) Ridin' round, geeked up, damn, think it's three o' clock (three) Four o' clock (four), five o' clock, six o' clock (five) I'm gon pop, if I don't I'm back to the pot (whip)",
+      "valence": 2.75,
+      "arousal": 3.4,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Ridin' round, geeked up, damn, think it's three o' clock (three) Four o' clock (four), five o' clock, six o' clock (five) I'm gon pop, if I don't I'm back to the pot (whip) I got rocks (rocks), big bales, big arms (bales)",
+      "valence": 2.86,
+      "arousal": 3.5,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Four o' clock (four), five o' clock, six o' clock (five) I'm gon pop, if I don't I'm back to the pot (whip) I got rocks (rocks), big bales, big arms (bales) Tommy gun, come out and play let's have fun (yeah)",
+      "valence": 3.32,
+      "arousal": 3.67,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I'm gon pop, if I don't I'm back to the pot (whip) I got rocks (rocks), big bales, big arms (bales) Tommy gun, come out and play let's have fun (yeah) Big scales (scales), fishscale, big weight (fish)",
+      "valence": 3.27,
+      "arousal": 3.63,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I got rocks (rocks), big bales, big arms (bales) Tommy gun, come out and play let's have fun (yeah) Big scales (scales), fishscale, big weight (fish) Iceberg (ice), ice tray, ice tray (woo)",
+      "valence": 3.52,
+      "arousal": 3.6,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Tommy gun, come out and play let's have fun (yeah) Big scales (scales), fishscale, big weight (fish) Iceberg (ice), ice tray, ice tray (woo) Plug called (called), tried to front, I don't need it (brrt)",
+      "valence": 3.26,
+      "arousal": 3.58,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Big scales (scales), fishscale, big weight (fish) Iceberg (ice), ice tray, ice tray (woo) Plug called (called), tried to front, I don't need it (brrt) I don't need it (brrt)",
+      "valence": 2.57,
+      "arousal": 3.33,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Iceberg (ice), ice tray, ice tray (woo) Plug called (called), tried to front, I don't need it (brrt) I don't need it (brrt) Pockets strong, wrist anemic (strong)",
+      "valence": 2.68,
+      "arousal": 3.3,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Plug called (called), tried to front, I don't need it (brrt) I don't need it (brrt) Pockets strong, wrist anemic (strong) Get freezy (freezy), young nigga pay your debt-is (debt-is)",
+      "valence": 2.46,
+      "arousal": 3.34,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I don't need it (brrt) Pockets strong, wrist anemic (strong) Get freezy (freezy), young nigga pay your debt-is (debt-is) Grandma (grandma) auntie Ab and auntie Neesa (Neese)",
+      "valence": 2.65,
+      "arousal": 3.17,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Pockets strong, wrist anemic (strong) Get freezy (freezy), young nigga pay your debt-is (debt-is) Grandma (grandma) auntie Ab and auntie Neesa (Neese) Uncle Bo, auntie Greta serve ya perkys (Greta)",
+      "valence": 3.06,
+      "arousal": 3.11,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Get freezy (freezy), young nigga pay your debt-is (debt-is) Grandma (grandma) auntie Ab and auntie Neesa (Neese) Uncle Bo, auntie Greta serve ya perkys (Greta) Auntie Eva, she got a pound she might just serve it (serve)",
+      "valence": 3.12,
+      "arousal": 3.14,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Grandma (grandma) auntie Ab and auntie Neesa (Neese) Uncle Bo, auntie Greta serve ya perkys (Greta) Auntie Eva, she got a pound she might just serve it (serve) Pop a perky just to start up",
+      "valence": 3.22,
+      "arousal": 3.15,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Uncle Bo, auntie Greta serve ya perkys (Greta) Auntie Eva, she got a pound she might just serve it (serve) Pop a perky just to start up (Pop it, pop it pop it)",
+      "valence": 3.17,
+      "arousal": 3.32,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Auntie Eva, she got a pound she might just serve it (serve) Pop a perky just to start up (Pop it, pop it pop it) Two cups of purple just to warm up",
+      "valence": 3.24,
+      "arousal": 3.21,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Pop a perky just to start up (Pop it, pop it pop it) Two cups of purple just to warm up (Two cups, drank)",
+      "valence": 3.11,
+      "arousal": 3.05,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "(Pop it, pop it pop it) Two cups of purple just to warm up (Two cups, drank) I heard your bitch she got that water",
+      "valence": 2.83,
+      "arousal": 3.28,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Two cups of purple just to warm up (Two cups, drank) I heard your bitch she got that water Slippery, excuse me, please me (please)",
+      "valence": 2.53,
+      "arousal": 3.47,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "(Two cups, drank) I heard your bitch she got that water Slippery, excuse me, please me (please) Arm up, or believe me, believe me (believe me)",
+      "valence": 2.35,
+      "arousal": 3.63,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I heard your bitch she got that water Slippery, excuse me, please me (please) Arm up, or believe me, believe me (believe me) Get beat, cause I'm flexin' 'Rari's (skrt)",
+      "valence": 2.32,
+      "arousal": 3.67,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Slippery, excuse me, please me (please) Arm up, or believe me, believe me (believe me) Get beat, cause I'm flexin' 'Rari's (skrt) You can bet on me (skr, skr)",
+      "valence": 2.77,
+      "arousal": 3.53,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Arm up, or believe me, believe me (believe me) Get beat, cause I'm flexin' 'Rari's (skrt) You can bet on me (skr, skr) Hey, hey (Offset!)",
+      "valence": 3.19,
+      "arousal": 3.79,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Get beat, cause I'm flexin' 'Rari's (skrt) You can bet on me (skr, skr) Hey, hey (Offset!) Hey, hey, hey, slippery, she numbin' me, that tongue on me",
+      "valence": 2.94,
+      "arousal": 3.8,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "You can bet on me (skr, skr) Hey, hey (Offset!) Hey, hey, hey, slippery, she numbin' me, that tongue on me Honestly (honest), she fuck with me, a wife to be (wife)",
+      "valence": 2.47,
+      "arousal": 4.02,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Hey, hey (Offset!) Hey, hey, hey, slippery, she numbin' me, that tongue on me Honestly (honest), she fuck with me, a wife to be (wife) In Italy, bought her a fur, look like the wildebeest (rarr)",
+      "valence": 2.47,
+      "arousal": 4.12,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Hey, hey, hey, slippery, she numbin' me, that tongue on me Honestly (honest), she fuck with me, a wife to be (wife) In Italy, bought her a fur, look like the wildebeest (rarr) Just chill with me (chill)",
+      "valence": 2.23,
+      "arousal": 3.94,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Honestly (honest), she fuck with me, a wife to be (wife) In Italy, bought her a fur, look like the wildebeest (rarr) Just chill with me (chill) It is no worry, it is a bill to me (it ain't nothin')",
+      "valence": 2.35,
+      "arousal": 3.9,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "In Italy, bought her a fur, look like the wildebeest (rarr) Just chill with me (chill) It is no worry, it is a bill to me (it ain't nothin') I pull up Diablo, I pull up with models",
+      "valence": 3.07,
+      "arousal": 3.25,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Just chill with me (chill) It is no worry, it is a bill to me (it ain't nothin') I pull up Diablo, I pull up with models I gave her her first Philippe (Philippe)",
+      "valence": 3.24,
+      "arousal": 3.25,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "It is no worry, it is a bill to me (it ain't nothin') I pull up Diablo, I pull up with models I gave her her first Philippe (Philippe) We goin' full throttle, she swallowed the bottle",
+      "valence": 3.15,
+      "arousal": 3.42,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "I pull up Diablo, I pull up with models I gave her her first Philippe (Philippe) We goin' full throttle, she swallowed the bottle I'm all in her ovaries (ahh)",
+      "valence": 3.27,
+      "arousal": 3.65,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I gave her her first Philippe (Philippe) We goin' full throttle, she swallowed the bottle I'm all in her ovaries (ahh) I gave her some dollars",
+      "valence": 3.2,
+      "arousal": 3.61,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "We goin' full throttle, she swallowed the bottle I'm all in her ovaries (ahh) I gave her some dollars I Gucci'd her collar now she can't get over me (hey)",
+      "valence": 2.78,
+      "arousal": 3.79,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I'm all in her ovaries (ahh) I gave her some dollars I Gucci'd her collar now she can't get over me (hey) She wanna dose of me (dose)",
+      "valence": 2.84,
+      "arousal": 3.76,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I gave her some dollars I Gucci'd her collar now she can't get over me (hey) She wanna dose of me (dose) Just hop in the Ghost with me (Ghost)",
+      "valence": 2.96,
+      "arousal": 3.54,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I Gucci'd her collar now she can't get over me (hey) She wanna dose of me (dose) Just hop in the Ghost with me (Ghost) Perky and molly, don't vote for nobody",
+      "valence": 2.82,
+      "arousal": 3.49,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "She wanna dose of me (dose) Just hop in the Ghost with me (Ghost) Perky and molly, don't vote for nobody These bitch ass niggas ain't solid (solid)",
+      "valence": 2.63,
+      "arousal": 3.43,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Just hop in the Ghost with me (Ghost) Perky and molly, don't vote for nobody These bitch ass niggas ain't solid (solid) Run in your house and with pumps and the shotties",
+      "valence": 2.44,
+      "arousal": 3.48,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Perky and molly, don't vote for nobody These bitch ass niggas ain't solid (solid) Run in your house and with pumps and the shotties Your mom might be up inside it (bah)",
+      "valence": 2.21,
+      "arousal": 3.52,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "These bitch ass niggas ain't solid (solid) Run in your house and with pumps and the shotties Your mom might be up inside it (bah) Cars robotic, bad bitch with a body",
+      "valence": 2.04,
+      "arousal": 3.56,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Run in your house and with pumps and the shotties Your mom might be up inside it (bah) Cars robotic, bad bitch with a body But really don't care nothing about it (uh-uh)",
+      "valence": 2.23,
+      "arousal": 3.41,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Your mom might be up inside it (bah) Cars robotic, bad bitch with a body But really don't care nothing about it (uh-uh) Cappin' and poppin', I seen that lil Masi",
+      "valence": 2.38,
+      "arousal": 3.48,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Cars robotic, bad bitch with a body But really don't care nothing about it (uh-uh) Cappin' and poppin', I seen that lil Masi I coulda pulled up and just shot ya (brrt)",
+      "valence": 2.21,
+      "arousal": 3.51,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "But really don't care nothing about it (uh-uh) Cappin' and poppin', I seen that lil Masi I coulda pulled up and just shot ya (brrt) It's a jungle, I let off some fire (some fire)",
+      "valence": 2.68,
+      "arousal": 3.38,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Cappin' and poppin', I seen that lil Masi I coulda pulled up and just shot ya (brrt) It's a jungle, I let off some fire (some fire) Pop a perky just to start up",
+      "valence": 3.05,
+      "arousal": 3.44,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "I coulda pulled up and just shot ya (brrt) It's a jungle, I let off some fire (some fire) Pop a perky just to start up (Pop it, pop it pop it)",
+      "valence": 2.97,
+      "arousal": 3.48,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "It's a jungle, I let off some fire (some fire) Pop a perky just to start up (Pop it, pop it pop it) Two cups of purple just to warm up",
+      "valence": 3.14,
+      "arousal": 3.16,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Pop a perky just to start up (Pop it, pop it pop it) Two cups of purple just to warm up (Two cups, drank)",
+      "valence": 3.11,
+      "arousal": 3.05,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "(Pop it, pop it pop it) Two cups of purple just to warm up (Two cups, drank) I heard your bitch she got that water",
+      "valence": 2.83,
+      "arousal": 3.28,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Two cups of purple just to warm up (Two cups, drank) I heard your bitch she got that water (Splash, drip, drip, woo, splash)",
+      "valence": 2.71,
+      "arousal": 3.46,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "(Two cups, drank) I heard your bitch she got that water (Splash, drip, drip, woo, splash) Slippery, excuse me, please me (please)",
+      "valence": 2.49,
+      "arousal": 3.59,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "I heard your bitch she got that water (Splash, drip, drip, woo, splash) Slippery, excuse me, please me (please) Arm up, or believe me, believe me (believe me)",
+      "valence": 2.51,
+      "arousal": 3.69,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "(Splash, drip, drip, woo, splash) Slippery, excuse me, please me (please) Arm up, or believe me, believe me (believe me) Get beat, cause I'm flexin' 'Rari's (skrt)",
+      "valence": 2.95,
+      "arousal": 3.63,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Slippery, excuse me, please me (please) Arm up, or believe me, believe me (believe me) Get beat, cause I'm flexin' 'Rari's (skrt) You can bet on me (skr, skr)",
+      "valence": 2.77,
+      "arousal": 3.53,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Arm up, or believe me, believe me (believe me) Get beat, cause I'm flexin' 'Rari's (skrt) You can bet on me (skr, skr) I rock water, diamonds, I'm drippin' but not slippin'",
+      "valence": 3.07,
+      "arousal": 3.58,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Get beat, cause I'm flexin' 'Rari's (skrt) You can bet on me (skr, skr) I rock water, diamonds, I'm drippin' but not slippin' I threw a quarter, (well damn) but no I'm not trippin'",
+      "valence": 2.79,
+      "arousal": 3.56,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "You can bet on me (skr, skr) I rock water, diamonds, I'm drippin' but not slippin' I threw a quarter, (well damn) but no I'm not trippin' Bugatti on Forgi's, and nawl, I'm not crippin'",
+      "valence": 2.64,
+      "arousal": 3.41,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "I rock water, diamonds, I'm drippin' but not slippin' I threw a quarter, (well damn) but no I'm not trippin' Bugatti on Forgi's, and nawl, I'm not crippin' I buy Ferrari's like Jordans",
+      "valence": 2.63,
+      "arousal": 3.48,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "I threw a quarter, (well damn) but no I'm not trippin' Bugatti on Forgi's, and nawl, I'm not crippin' I buy Ferrari's like Jordans I'm Mike and y'all Pippen",
+      "valence": 2.54,
+      "arousal": 3.54,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Bugatti on Forgi's, and nawl, I'm not crippin' I buy Ferrari's like Jordans I'm Mike and y'all Pippen Chillin', just me and my millions",
+      "valence": 2.92,
+      "arousal": 3.35,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "I buy Ferrari's like Jordans I'm Mike and y'all Pippen Chillin', just me and my millions Niggas, they all in they feelin's",
+      "valence": 3.16,
+      "arousal": 3.23,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "I'm Mike and y'all Pippen Chillin', just me and my millions Niggas, they all in they feelin's My bitches, I spoil them like they children",
+      "valence": 3.33,
+      "arousal": 3.42,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Chillin', just me and my millions Niggas, they all in they feelin's My bitches, I spoil them like they children So persistent, if I want it, I go get it",
+      "valence": 3.25,
+      "arousal": 3.53,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Niggas, they all in they feelin's My bitches, I spoil them like they children So persistent, if I want it, I go get it I'm so slimy, grimy, sheisty but still shining",
+      "valence": 2.8,
+      "arousal": 3.55,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "My bitches, I spoil them like they children So persistent, if I want it, I go get it I'm so slimy, grimy, sheisty but still shining Rude and unkindly, cruel with no conscious",
+      "valence": 2.46,
+      "arousal": 3.53,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "So persistent, if I want it, I go get it I'm so slimy, grimy, sheisty but still shining Rude and unkindly, cruel with no conscious Drop the top on College, nigga I ain't with no nonsense",
+      "valence": 2.55,
+      "arousal": 3.62,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "I'm so slimy, grimy, sheisty but still shining Rude and unkindly, cruel with no conscious Drop the top on College, nigga I ain't with no nonsense And I'm a murderer nigga but I don't promote violence",
+      "valence": 2.13,
+      "arousal": 3.56,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "Rude and unkindly, cruel with no conscious Drop the top on College, nigga I ain't with no nonsense And I'm a murderer nigga but I don't promote violence Dead shot (brrt), AK make your head rock (brrt)",
+      "valence": 2.01,
+      "arousal": 3.64,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "Drop the top on College, nigga I ain't with no nonsense And I'm a murderer nigga but I don't promote violence Dead shot (brrt), AK make your head rock (brrt) Red dot, retro 8, Jordan they in stock",
+      "valence": 2.33,
+      "arousal": 3.63,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "And I'm a murderer nigga but I don't promote violence Dead shot (brrt), AK make your head rock (brrt) Red dot, retro 8, Jordan they in stock Lean on rocks (Act)",
+      "valence": 2.41,
+      "arousal": 3.5,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "Dead shot (brrt), AK make your head rock (brrt) Red dot, retro 8, Jordan they in stock Lean on rocks (Act) Perkys, mollies, xannies, rocks (roxies)",
+      "valence": 2.96,
+      "arousal": 3.17,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "Red dot, retro 8, Jordan they in stock Lean on rocks (Act) Perkys, mollies, xannies, rocks (roxies) Oxycontin (oxyies)",
+      "valence": 3.0,
+      "arousal": 3.06,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "Lean on rocks (Act) Perkys, mollies, xannies, rocks (roxies) Oxycontin (oxyies) Takeoff I'm your med doc (Takeoff!)",
+      "valence": 3.18,
+      "arousal": 3.53,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "Perkys, mollies, xannies, rocks (roxies) Oxycontin (oxyies) Takeoff I'm your med doc (Takeoff!) Leg lock (leg)",
+      "valence": 3.02,
+      "arousal": 3.5,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 86,
+      "lyrics_text": "Oxycontin (oxyies) Takeoff I'm your med doc (Takeoff!) Leg lock (leg) The key I got, unlock the box (box)",
+      "valence": 3.14,
+      "arousal": 3.57,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 87,
+      "lyrics_text": "Takeoff I'm your med doc (Takeoff!) Leg lock (leg) The key I got, unlock the box (box) What's in that box, huh?",
+      "valence": 3.1,
+      "arousal": 3.51,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 88,
+      "lyrics_text": "Leg lock (leg) The key I got, unlock the box (box) What's in that box, huh? Don't tell em they might show the cops (shh)",
+      "valence": 2.83,
+      "arousal": 3.28,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 89,
+      "lyrics_text": "The key I got, unlock the box (box) What's in that box, huh? Don't tell em they might show the cops (shh) Wrist watch (bite), abnormal so I flood the clock (ice)",
+      "valence": 2.8,
+      "arousal": 3.28,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 90,
+      "lyrics_text": "What's in that box, huh? Don't tell em they might show the cops (shh) Wrist watch (bite), abnormal so I flood the clock (ice) Money flop, panties drop, that's when them titties pop (woo)",
+      "valence": 2.88,
+      "arousal": 3.52,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 91,
+      "lyrics_text": "Don't tell em they might show the cops (shh) Wrist watch (bite), abnormal so I flood the clock (ice) Money flop, panties drop, that's when them titties pop (woo) Free my partners (John Wicc)",
+      "valence": 2.94,
+      "arousal": 3.61,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 92,
+      "lyrics_text": "Wrist watch (bite), abnormal so I flood the clock (ice) Money flop, panties drop, that's when them titties pop (woo) Free my partners (John Wicc) 'Til they free it's fuck the cops (fuck 'em)",
+      "valence": 2.59,
+      "arousal": 3.85,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 93,
+      "lyrics_text": "Money flop, panties drop, that's when them titties pop (woo) Free my partners (John Wicc) 'Til they free it's fuck the cops (fuck 'em) They know I geek a lot",
+      "valence": 2.81,
+      "arousal": 3.89,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 94,
+      "lyrics_text": "Free my partners (John Wicc) 'Til they free it's fuck the cops (fuck 'em) They know I geek a lot They don't know I keep a Glock (clueless)",
+      "valence": 2.3,
+      "arousal": 3.79,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 95,
+      "lyrics_text": "'Til they free it's fuck the cops (fuck 'em) They know I geek a lot They don't know I keep a Glock (clueless) Ain't been no drought (where)",
+      "valence": 2.15,
+      "arousal": 3.88,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 96,
+      "lyrics_text": "They know I geek a lot They don't know I keep a Glock (clueless) Ain't been no drought (where) They think I been sleep a lot",
+      "valence": 2.63,
+      "arousal": 3.06,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 97,
+      "lyrics_text": "They don't know I keep a Glock (clueless) Ain't been no drought (where) They think I been sleep a lot They think I'm dumb (dumb)",
+      "valence": 2.31,
+      "arousal": 3.33,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 98,
+      "lyrics_text": "Ain't been no drought (where) They think I been sleep a lot They think I'm dumb (dumb) They don't know I see the plot (see it)",
+      "valence": 2.6,
+      "arousal": 3.15,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 99,
+      "lyrics_text": "They think I been sleep a lot They think I'm dumb (dumb) They don't know I see the plot (see it) Fuck it I seize a knot",
+      "valence": 2.05,
+      "arousal": 3.94,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 100,
+      "lyrics_text": "They think I'm dumb (dumb) They don't know I see the plot (see it) Fuck it I seize a knot Pop a perky just to start up",
+      "valence": 2.11,
+      "arousal": 3.96,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 101,
+      "lyrics_text": "They don't know I see the plot (see it) Fuck it I seize a knot Pop a perky just to start up (Pop it, pop it pop it)",
+      "valence": 2.46,
+      "arousal": 3.89,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 102,
+      "lyrics_text": "Fuck it I seize a knot Pop a perky just to start up (Pop it, pop it pop it) Two cups of purple just to warm up",
+      "valence": 2.52,
+      "arousal": 3.72,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 103,
+      "lyrics_text": "Pop a perky just to start up (Pop it, pop it pop it) Two cups of purple just to warm up (Two cups, drank)",
+      "valence": 3.11,
+      "arousal": 3.05,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 104,
+      "lyrics_text": "(Pop it, pop it pop it) Two cups of purple just to warm up (Two cups, drank) I heard your bitch she got that water",
+      "valence": 2.83,
+      "arousal": 3.28,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 105,
+      "lyrics_text": "Two cups of purple just to warm up (Two cups, drank) I heard your bitch she got that water (Splash, drip, drip, woo, splash)",
+      "valence": 2.71,
+      "arousal": 3.46,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 106,
+      "lyrics_text": "(Two cups, drank) I heard your bitch she got that water (Splash, drip, drip, woo, splash) Slippery, excuse me, please me (please)",
+      "valence": 2.49,
+      "arousal": 3.59,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 107,
+      "lyrics_text": "I heard your bitch she got that water (Splash, drip, drip, woo, splash) Slippery, excuse me, please me (please) Arm up, or believe me, believe me (believe me)",
+      "valence": 2.51,
+      "arousal": 3.69,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 108,
+      "lyrics_text": "(Splash, drip, drip, woo, splash) Slippery, excuse me, please me (please) Arm up, or believe me, believe me (believe me) Get beat, cause I'm flexin' 'Rari's (skrt)",
+      "valence": 2.95,
+      "arousal": 3.63,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 109,
+      "lyrics_text": "Slippery, excuse me, please me (please) Arm up, or believe me, believe me (believe me) Get beat, cause I'm flexin' 'Rari's (skrt) You can bet on me (skr, skr)",
+      "valence": 2.77,
+      "arousal": 3.53,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 110,
+      "lyrics_text": "Arm up, or believe me, believe me (believe me) Get beat, cause I'm flexin' 'Rari's (skrt) You can bet on me (skr, skr) Hey, hey, hey",
+      "valence": 2.98,
+      "arousal": 3.62,
+      "dominance": 3.59
+    }
+  ]
+}

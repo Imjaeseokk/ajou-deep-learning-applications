@@ -1,0 +1,290 @@
+{
+  "artist": "Lady Gaga",
+  "overall_vad": {
+    "valence": 2.88,
+    "arousal": 3.64,
+    "dominance": 3.15
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Tell me you need me Hold my hand, everything will be okay I heard from the heavens that clouds have been grey Pull me close, wrap me in your aching arms",
+      "valence": 3.23,
+      "arousal": 3.63,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Hold my hand, everything will be okay I heard from the heavens that clouds have been grey Pull me close, wrap me in your aching arms I see that you're hurtin', why'd you take so long",
+      "valence": 3.13,
+      "arousal": 3.77,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I heard from the heavens that clouds have been grey Pull me close, wrap me in your aching arms I see that you're hurtin', why'd you take so long To tell me you need me? I see that you're bleeding",
+      "valence": 2.57,
+      "arousal": 3.75,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Pull me close, wrap me in your aching arms I see that you're hurtin', why'd you take so long To tell me you need me? I see that you're bleeding You don't need to show me again",
+      "valence": 2.71,
+      "arousal": 3.79,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I see that you're hurtin', why'd you take so long To tell me you need me? I see that you're bleeding You don't need to show me again But if you decide to, I'll ride in this life with you",
+      "valence": 2.61,
+      "arousal": 3.52,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "To tell me you need me? I see that you're bleeding You don't need to show me again But if you decide to, I'll ride in this life with you I won't let go 'til the end",
+      "valence": 2.8,
+      "arousal": 3.45,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "You don't need to show me again But if you decide to, I'll ride in this life with you I won't let go 'til the end So cry tonight",
+      "valence": 2.49,
+      "arousal": 3.48,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "But if you decide to, I'll ride in this life with you I won't let go 'til the end So cry tonight But don't you let go of my hand",
+      "valence": 2.61,
+      "arousal": 3.5,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I won't let go 'til the end So cry tonight But don't you let go of my hand You can cry every last tear",
+      "valence": 2.05,
+      "arousal": 3.74,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "So cry tonight But don't you let go of my hand You can cry every last tear I won't leave 'til I understand",
+      "valence": 2.03,
+      "arousal": 3.85,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "But don't you let go of my hand You can cry every last tear I won't leave 'til I understand Promise me, just hold my hand",
+      "valence": 2.71,
+      "arousal": 3.76,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "You can cry every last tear I won't leave 'til I understand Promise me, just hold my hand Raise your head, look into my wishful eyes",
+      "valence": 2.44,
+      "arousal": 3.59,
+      "dominance": 2.64
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I won't leave 'til I understand Promise me, just hold my hand Raise your head, look into my wishful eyes That fear that's inside you will lift, give it time",
+      "valence": 2.95,
+      "arousal": 3.32,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Promise me, just hold my hand Raise your head, look into my wishful eyes That fear that's inside you will lift, give it time I can see everything you're blind to now",
+      "valence": 2.87,
+      "arousal": 3.46,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Raise your head, look into my wishful eyes That fear that's inside you will lift, give it time I can see everything you're blind to now Your prayers will be answered, let God whisper how",
+      "valence": 2.93,
+      "arousal": 3.37,
+      "dominance": 2.6
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "That fear that's inside you will lift, give it time I can see everything you're blind to now Your prayers will be answered, let God whisper how To tell me you need me, I see that you're bleeding",
+      "valence": 3.0,
+      "arousal": 3.46,
+      "dominance": 2.77
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I can see everything you're blind to now Your prayers will be answered, let God whisper how To tell me you need me, I see that you're bleeding You don't need to show me again",
+      "valence": 2.83,
+      "arousal": 3.57,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Your prayers will be answered, let God whisper how To tell me you need me, I see that you're bleeding You don't need to show me again But if you decide to, I'll ride in this life with you",
+      "valence": 3.12,
+      "arousal": 3.51,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "To tell me you need me, I see that you're bleeding You don't need to show me again But if you decide to, I'll ride in this life with you I won't let go 'til the end",
+      "valence": 2.82,
+      "arousal": 3.43,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "You don't need to show me again But if you decide to, I'll ride in this life with you I won't let go 'til the end So cry tonight",
+      "valence": 2.49,
+      "arousal": 3.48,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "But if you decide to, I'll ride in this life with you I won't let go 'til the end So cry tonight But don't you let go of my hand",
+      "valence": 2.61,
+      "arousal": 3.5,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I won't let go 'til the end So cry tonight But don't you let go of my hand You can cry every last tear",
+      "valence": 2.05,
+      "arousal": 3.74,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "So cry tonight But don't you let go of my hand You can cry every last tear I won't leave 'til I understand",
+      "valence": 2.03,
+      "arousal": 3.85,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "But don't you let go of my hand You can cry every last tear I won't leave 'til I understand Promise you'll just hold my hand",
+      "valence": 2.54,
+      "arousal": 3.74,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "You can cry every last tear I won't leave 'til I understand Promise you'll just hold my hand Hold my hand, hold my",
+      "valence": 2.87,
+      "arousal": 3.85,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I won't leave 'til I understand Promise you'll just hold my hand Hold my hand, hold my Hold my hand, my hand",
+      "valence": 2.96,
+      "arousal": 3.59,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Promise you'll just hold my hand Hold my hand, hold my Hold my hand, my hand I'll be right here, hold my hand",
+      "valence": 3.31,
+      "arousal": 3.74,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Hold my hand, hold my Hold my hand, my hand I'll be right here, hold my hand Hold my hand, hold my",
+      "valence": 3.34,
+      "arousal": 3.82,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Hold my hand, my hand I'll be right here, hold my hand Hold my hand, hold my Hold my hand, my hand",
+      "valence": 3.32,
+      "arousal": 3.76,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I'll be right here, hold my hand Hold my hand, hold my Hold my hand, my hand I'll be right here, hold my hand",
+      "valence": 3.4,
+      "arousal": 3.81,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Hold my hand, hold my Hold my hand, my hand I'll be right here, hold my hand I know you're scared and your pain is imperfect",
+      "valence": 3.04,
+      "arousal": 3.93,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Hold my hand, my hand I'll be right here, hold my hand I know you're scared and your pain is imperfect But don't you give up on yourself",
+      "valence": 2.98,
+      "arousal": 3.8,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I'll be right here, hold my hand I know you're scared and your pain is imperfect But don't you give up on yourself I've heard a story, a girl, she once told me",
+      "valence": 3.01,
+      "arousal": 3.62,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I know you're scared and your pain is imperfect But don't you give up on yourself I've heard a story, a girl, she once told me That I would be happy again",
+      "valence": 3.2,
+      "arousal": 3.49,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "But don't you give up on yourself I've heard a story, a girl, she once told me That I would be happy again Hold my hand",
+      "valence": 3.33,
+      "arousal": 3.49,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I've heard a story, a girl, she once told me That I would be happy again Hold my hand Hold my hand",
+      "valence": 3.59,
+      "arousal": 3.51,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "That I would be happy again Hold my hand Hold my hand Hold my hand, hold my hand",
+      "valence": 3.81,
+      "arousal": 3.71,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Hold my hand Hold my hand Hold my hand, hold my hand Hold my hand, hold my hand",
+      "valence": 3.2,
+      "arousal": 3.77,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Hold my hand Hold my hand, hold my hand Hold my hand, hold my hand Hold my hand",
+      "valence": 3.2,
+      "arousal": 3.74,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Hold my hand, hold my hand Hold my hand, hold my hand Hold my hand I heard from the heavens",
+      "valence": 3.21,
+      "arousal": 3.82,
+      "dominance": 3.21
+    }
+  ]
+}

@@ -1,0 +1,570 @@
+{
+  "artist": "Lunay, Daddy Yankee & Bad Bunny",
+  "overall_vad": {
+    "valence": 3.0,
+    "arousal": 3.06,
+    "dominance": 3.05
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Lu-lu-lunay Ella lo que quiere e' joder, vacilar Solita pa' romper la disco Ella lo que quiere e' joder, vacilar (Chi-chi-chium)",
+      "valence": 3.12,
+      "arousal": 3.13,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Ella lo que quiere e' joder, vacilar Solita pa' romper la disco Ella lo que quiere e' joder, vacilar (Chi-chi-chium) Dale hasta abajo, pa' hasta abajo sin parar",
+      "valence": 2.93,
+      "arousal": 3.11,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Solita pa' romper la disco Ella lo que quiere e' joder, vacilar (Chi-chi-chium) Dale hasta abajo, pa' hasta abajo sin parar Y estar soltera estÃ¡ de moda",
+      "valence": 2.96,
+      "arousal": 3.05,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Ella lo que quiere e' joder, vacilar (Chi-chi-chium) Dale hasta abajo, pa' hasta abajo sin parar Y estar soltera estÃ¡ de moda Por eso ella no se enamora",
+      "valence": 2.89,
+      "arousal": 3.0,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Dale hasta abajo, pa' hasta abajo sin parar Y estar soltera estÃ¡ de moda Por eso ella no se enamora Y estar soltera estÃ¡ de moda",
+      "valence": 2.83,
+      "arousal": 2.96,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Y estar soltera estÃ¡ de moda Por eso ella no se enamora Y estar soltera estÃ¡ de moda Por eso no va a cambiar",
+      "valence": 2.94,
+      "arousal": 2.91,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Por eso ella no se enamora Y estar soltera estÃ¡ de moda Por eso no va a cambiar Estar soltera estÃ¡ de moda",
+      "valence": 2.99,
+      "arousal": 2.96,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Y estar soltera estÃ¡ de moda Por eso no va a cambiar Estar soltera estÃ¡ de moda Por eso ella no se enamora",
+      "valence": 2.93,
+      "arousal": 2.92,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Por eso no va a cambiar Estar soltera estÃ¡ de moda Por eso ella no se enamora Estar soltera estÃ¡ de moda",
+      "valence": 3.03,
+      "arousal": 2.95,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Estar soltera estÃ¡ de moda Por eso ella no se enamora Estar soltera estÃ¡ de moda Por eso no va a cam-cam-cambiar",
+      "valence": 3.01,
+      "arousal": 2.91,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Por eso ella no se enamora Estar soltera estÃ¡ de moda Por eso no va a cam-cam-cambiar Que nadie la reclame",
+      "valence": 2.98,
+      "arousal": 2.89,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Estar soltera estÃ¡ de moda Por eso no va a cam-cam-cambiar Que nadie la reclame Celu en modo aviÃ³n, no quiere que la llamen",
+      "valence": 3.01,
+      "arousal": 2.92,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Por eso no va a cam-cam-cambiar Que nadie la reclame Celu en modo aviÃ³n, no quiere que la llamen Le da lo mismo que la quieran o la amen",
+      "valence": 3.01,
+      "arousal": 2.97,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Que nadie la reclame Celu en modo aviÃ³n, no quiere que la llamen Le da lo mismo que la quieran o la amen Vacilar y joder, eso' son su plane'",
+      "valence": 2.97,
+      "arousal": 3.05,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Celu en modo aviÃ³n, no quiere que la llamen Le da lo mismo que la quieran o la amen Vacilar y joder, eso' son su plane' Y por ahora eso no va a cambiar",
+      "valence": 3.01,
+      "arousal": 3.0,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Le da lo mismo que la quieran o la amen Vacilar y joder, eso' son su plane' Y por ahora eso no va a cambiar Cero compromiso, sÃ³lo quiere bellaquear",
+      "valence": 3.03,
+      "arousal": 3.09,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Vacilar y joder, eso' son su plane' Y por ahora eso no va a cambiar Cero compromiso, sÃ³lo quiere bellaquear Porque no quiere que nadie le vuelva a fallar",
+      "valence": 3.0,
+      "arousal": 3.1,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Y por ahora eso no va a cambiar Cero compromiso, sÃ³lo quiere bellaquear Porque no quiere que nadie le vuelva a fallar Beber y joder, no se va a amarrar",
+      "valence": 2.99,
+      "arousal": 3.04,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Cero compromiso, sÃ³lo quiere bellaquear Porque no quiere que nadie le vuelva a fallar Beber y joder, no se va a amarrar Y por ahora eso no va a cambiar",
+      "valence": 2.99,
+      "arousal": 3.05,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Porque no quiere que nadie le vuelva a fallar Beber y joder, no se va a amarrar Y por ahora eso no va a cambiar Cero compromiso, sÃ³lo quiere bellaquear",
+      "valence": 3.0,
+      "arousal": 3.07,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Beber y joder, no se va a amarrar Y por ahora eso no va a cambiar Cero compromiso, sÃ³lo quiere bellaquear Porque no quiere que nadie le vuelva a fallar",
+      "valence": 2.95,
+      "arousal": 3.03,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Y por ahora eso no va a cambiar Cero compromiso, sÃ³lo quiere bellaquear Porque no quiere que nadie le vuelva a fallar Beber y joder, no se va a amarrar",
+      "valence": 2.99,
+      "arousal": 3.04,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Cero compromiso, sÃ³lo quiere bellaquear Porque no quiere que nadie le vuelva a fallar Beber y joder, no se va a amarrar Ella lo que quiere e' joder, vacilar",
+      "valence": 3.02,
+      "arousal": 3.08,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Porque no quiere que nadie le vuelva a fallar Beber y joder, no se va a amarrar Ella lo que quiere e' joder, vacilar Solita pa' romper la disco",
+      "valence": 3.14,
+      "arousal": 3.16,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Beber y joder, no se va a amarrar Ella lo que quiere e' joder, vacilar Solita pa' romper la disco Ella lo que quiere e' joder, vacilar (Chi-chi-chium)",
+      "valence": 3.08,
+      "arousal": 3.06,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Ella lo que quiere e' joder, vacilar Solita pa' romper la disco Ella lo que quiere e' joder, vacilar (Chi-chi-chium) Dale hasta abajo, pa' hasta abajo sin parar",
+      "valence": 2.93,
+      "arousal": 3.11,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Solita pa' romper la disco Ella lo que quiere e' joder, vacilar (Chi-chi-chium) Dale hasta abajo, pa' hasta abajo sin parar Y estar soltera estÃ¡ de moda",
+      "valence": 2.96,
+      "arousal": 3.05,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Ella lo que quiere e' joder, vacilar (Chi-chi-chium) Dale hasta abajo, pa' hasta abajo sin parar Y estar soltera estÃ¡ de moda Por eso ella no se enamora",
+      "valence": 2.89,
+      "arousal": 3.0,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Dale hasta abajo, pa' hasta abajo sin parar Y estar soltera estÃ¡ de moda Por eso ella no se enamora Y estar soltera estÃ¡ de moda",
+      "valence": 2.83,
+      "arousal": 2.96,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Y estar soltera estÃ¡ de moda Por eso ella no se enamora Y estar soltera estÃ¡ de moda Por eso no va a cambiar (No va a cambiar)",
+      "valence": 2.95,
+      "arousal": 2.96,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Por eso ella no se enamora Y estar soltera estÃ¡ de moda Por eso no va a cambiar (No va a cambiar) Estar soltera estÃ¡ de moda",
+      "valence": 3.03,
+      "arousal": 2.99,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Y estar soltera estÃ¡ de moda Por eso no va a cambiar (No va a cambiar) Estar soltera estÃ¡ de moda Por eso ella no se enamora (RrÃ¡, rrÃ¡)",
+      "valence": 2.99,
+      "arousal": 2.96,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Por eso no va a cambiar (No va a cambiar) Estar soltera estÃ¡ de moda Por eso ella no se enamora (RrÃ¡, rrÃ¡) Estar soltera estÃ¡ de moda (Chim)",
+      "valence": 3.0,
+      "arousal": 2.94,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Estar soltera estÃ¡ de moda Por eso ella no se enamora (RrÃ¡, rrÃ¡) Estar soltera estÃ¡ de moda (Chim) Por eso no va a cam-cam-cambiar",
+      "valence": 2.94,
+      "arousal": 2.96,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Por eso ella no se enamora (RrÃ¡, rrÃ¡) Estar soltera estÃ¡ de moda (Chim) Por eso no va a cam-cam-cambiar Ponte-ponte pa' la vuelta, que yo voy pa'l party",
+      "valence": 3.0,
+      "arousal": 3.04,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Estar soltera estÃ¡ de moda (Chim) Por eso no va a cam-cam-cambiar Ponte-ponte pa' la vuelta, que yo voy pa'l party Si no nos vemo', mami, en el after party",
+      "valence": 3.07,
+      "arousal": 3.1,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Por eso no va a cam-cam-cambiar Ponte-ponte pa' la vuelta, que yo voy pa'l party Si no nos vemo', mami, en el after party Ponte pa'l problema, Ã¡ndaÃ±e, dÃ©jate ver",
+      "valence": 2.77,
+      "arousal": 3.15,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Ponte-ponte pa' la vuelta, que yo voy pa'l party Si no nos vemo', mami, en el after party Ponte pa'l problema, Ã¡ndaÃ±e, dÃ©jate ver Lo que aquÃ­ empezamo' lo matamo' en el motel",
+      "valence": 2.82,
+      "arousal": 3.14,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Si no nos vemo', mami, en el after party Ponte pa'l problema, Ã¡ndaÃ±e, dÃ©jate ver Lo que aquÃ­ empezamo' lo matamo' en el motel TÃº estÃ¡s suelta por ahÃ­, yo estoy suelto por acÃ¡",
+      "valence": 2.74,
+      "arousal": 3.14,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Ponte pa'l problema, Ã¡ndaÃ±e, dÃ©jate ver Lo que aquÃ­ empezamo' lo matamo' en el motel TÃº estÃ¡s suelta por ahÃ­, yo estoy suelto por acÃ¡ Hacerte wiki wiki, como dice Yaviah",
+      "valence": 2.82,
+      "arousal": 3.2,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Lo que aquÃ­ empezamo' lo matamo' en el motel TÃº estÃ¡s suelta por ahÃ­, yo estoy suelto por acÃ¡ Hacerte wiki wiki, como dice Yaviah SoltÃ³ el corazÃ³n, sacÃ³ a pasear la maldÃ¡'",
+      "valence": 3.12,
+      "arousal": 3.23,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "TÃº estÃ¡s suelta por ahÃ­, yo estoy suelto por acÃ¡ Hacerte wiki wiki, como dice Yaviah SoltÃ³ el corazÃ³n, sacÃ³ a pasear la maldÃ¡' Tiene la mente daÃ±Ã¡'",
+      "valence": 3.09,
+      "arousal": 3.22,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Hacerte wiki wiki, como dice Yaviah SoltÃ³ el corazÃ³n, sacÃ³ a pasear la maldÃ¡' Tiene la mente daÃ±Ã¡' A ella no hay quien la amanse",
+      "valence": 3.02,
+      "arousal": 3.01,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "SoltÃ³ el corazÃ³n, sacÃ³ a pasear la maldÃ¡' Tiene la mente daÃ±Ã¡' A ella no hay quien la amanse Fuma y se va en un trance",
+      "valence": 3.08,
+      "arousal": 3.1,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Tiene la mente daÃ±Ã¡' A ella no hay quien la amanse Fuma y se va en un trance Perreando no pierde el balance",
+      "valence": 3.0,
+      "arousal": 2.98,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "A ella no hay quien la amanse Fuma y se va en un trance Perreando no pierde el balance To'as le tiran y no estÃ¡n al alcance",
+      "valence": 2.9,
+      "arousal": 3.03,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Fuma y se va en un trance Perreando no pierde el balance To'as le tiran y no estÃ¡n al alcance En el romance yo no creo que ella avance, yeah",
+      "valence": 2.9,
+      "arousal": 3.08,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Perreando no pierde el balance To'as le tiran y no estÃ¡n al alcance En el romance yo no creo que ella avance, yeah Y por ahora eso no va a cambiar",
+      "valence": 2.97,
+      "arousal": 3.05,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "To'as le tiran y no estÃ¡n al alcance En el romance yo no creo que ella avance, yeah Y por ahora eso no va a cambiar Cero compromiso, sÃ³lo quiere bellaquear",
+      "valence": 3.01,
+      "arousal": 3.13,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "En el romance yo no creo que ella avance, yeah Y por ahora eso no va a cambiar Cero compromiso, sÃ³lo quiere bellaquear Porque no quiere que nadie le vuelva a fallar",
+      "valence": 3.04,
+      "arousal": 3.06,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Y por ahora eso no va a cambiar Cero compromiso, sÃ³lo quiere bellaquear Porque no quiere que nadie le vuelva a fallar Beber y joder, no se va a amarrar",
+      "valence": 2.99,
+      "arousal": 3.04,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Cero compromiso, sÃ³lo quiere bellaquear Porque no quiere que nadie le vuelva a fallar Beber y joder, no se va a amarrar Ella lo que quiere e' joder, vacilar",
+      "valence": 3.02,
+      "arousal": 3.08,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Porque no quiere que nadie le vuelva a fallar Beber y joder, no se va a amarrar Ella lo que quiere e' joder, vacilar Solita pa' romper la disco",
+      "valence": 3.14,
+      "arousal": 3.16,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Beber y joder, no se va a amarrar Ella lo que quiere e' joder, vacilar Solita pa' romper la disco Ella lo que quiere e' joder, vacilar (Chi-chi-chium)",
+      "valence": 3.08,
+      "arousal": 3.06,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Ella lo que quiere e' joder, vacilar Solita pa' romper la disco Ella lo que quiere e' joder, vacilar (Chi-chi-chium) Dale hasta abajo, pa' hasta abajo sin parar",
+      "valence": 2.93,
+      "arousal": 3.11,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Solita pa' romper la disco Ella lo que quiere e' joder, vacilar (Chi-chi-chium) Dale hasta abajo, pa' hasta abajo sin parar Y estar soltera estÃ¡ de moda",
+      "valence": 2.96,
+      "arousal": 3.05,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Ella lo que quiere e' joder, vacilar (Chi-chi-chium) Dale hasta abajo, pa' hasta abajo sin parar Y estar soltera estÃ¡ de moda Por eso ella no se enamora",
+      "valence": 2.89,
+      "arousal": 3.0,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Dale hasta abajo, pa' hasta abajo sin parar Y estar soltera estÃ¡ de moda Por eso ella no se enamora Y estar soltera estÃ¡ de moda",
+      "valence": 2.83,
+      "arousal": 2.96,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Y estar soltera estÃ¡ de moda Por eso ella no se enamora Y estar soltera estÃ¡ de moda Por eso no va a cambiar (No va a cambiar)",
+      "valence": 2.95,
+      "arousal": 2.96,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Por eso ella no se enamora Y estar soltera estÃ¡ de moda Por eso no va a cambiar (No va a cambiar) Estar soltera estÃ¡ de moda",
+      "valence": 3.03,
+      "arousal": 2.99,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Y estar soltera estÃ¡ de moda Por eso no va a cambiar (No va a cambiar) Estar soltera estÃ¡ de moda Por eso ella no se enamora (RrÃ¡, rrÃ¡)",
+      "valence": 2.99,
+      "arousal": 2.96,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Por eso no va a cambiar (No va a cambiar) Estar soltera estÃ¡ de moda Por eso ella no se enamora (RrÃ¡, rrÃ¡) Estar soltera estÃ¡ de moda (Chim)",
+      "valence": 3.0,
+      "arousal": 2.94,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Estar soltera estÃ¡ de moda Por eso ella no se enamora (RrÃ¡, rrÃ¡) Estar soltera estÃ¡ de moda (Chim) Por eso no va a cam-cam-cambiar",
+      "valence": 2.94,
+      "arousal": 2.96,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Por eso ella no se enamora (RrÃ¡, rrÃ¡) Estar soltera estÃ¡ de moda (Chim) Por eso no va a cam-cam-cambiar Ponte-ponte pa' la vuelta",
+      "valence": 2.95,
+      "arousal": 2.94,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Estar soltera estÃ¡ de moda (Chim) Por eso no va a cam-cam-cambiar Ponte-ponte pa' la vuelta Ponte-ponte pa'l party-pa'l party, pa-party, el party",
+      "valence": 3.04,
+      "arousal": 3.06,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Por eso no va a cam-cam-cambiar Ponte-ponte pa' la vuelta Ponte-ponte pa'l party-pa'l party, pa-party, el party Ponte-pon, Ponte pa'l problema, Ã¡ndale, dÃ©jate ver",
+      "valence": 2.74,
+      "arousal": 3.13,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Ponte-ponte pa' la vuelta Ponte-ponte pa'l party-pa'l party, pa-party, el party Ponte-pon, Ponte pa'l problema, Ã¡ndale, dÃ©jate ver Ãndale de-Ãndale de-Ãndale, dÃ©jate ver",
+      "valence": 2.66,
+      "arousal": 3.23,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Ponte-ponte pa'l party-pa'l party, pa-party, el party Ponte-pon, Ponte pa'l problema, Ã¡ndale, dÃ©jate ver Ãndale de-Ãndale de-Ãndale, dÃ©jate ver Yeah, yeah",
+      "valence": 2.73,
+      "arousal": 3.15,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Ponte-pon, Ponte pa'l problema, Ã¡ndale, dÃ©jate ver Ãndale de-Ãndale de-Ãndale, dÃ©jate ver Yeah, yeah Lu-lu-lunay",
+      "valence": 2.71,
+      "arousal": 3.2,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Ãndale de-Ãndale de-Ãndale, dÃ©jate ver Yeah, yeah Lu-lu-lunay Chri-chri, Chri-Chri-Chris Jeday",
+      "valence": 3.26,
+      "arousal": 3.28,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Yeah, yeah Lu-lu-lunay Chri-chri, Chri-Chri-Chris Jeday Yeah",
+      "valence": 3.29,
+      "arousal": 3.26,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Lu-lu-lunay Chri-chri, Chri-Chri-Chris Jeday Yeah Gaby-gaby Music",
+      "valence": 3.27,
+      "arousal": 3.21,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Chri-chri, Chri-Chri-Chris Jeday Yeah Gaby-gaby Music DÃ­melo Nino",
+      "valence": 3.2,
+      "arousal": 3.15,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Yeah Gaby-gaby Music DÃ­melo Nino Magic Rhythms",
+      "valence": 3.35,
+      "arousal": 3.29,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Gaby-gaby Music DÃ­melo Nino Magic Rhythms Yeah",
+      "valence": 3.23,
+      "arousal": 3.11,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "DÃ­melo Nino Magic Rhythms Yeah Lu-lu",
+      "valence": 3.18,
+      "arousal": 3.14,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "Magic Rhythms Yeah Lu-lu Pr en la casa",
+      "valence": 3.15,
+      "arousal": 3.08,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "Yeah Lu-lu Pr en la casa Ey, candy, candy, dulce como candy",
+      "valence": 3.26,
+      "arousal": 3.34,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "Lu-lu Pr en la casa Ey, candy, candy, dulce como candy Lu-lu-lunay",
+      "valence": 3.18,
+      "arousal": 3.24,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "Pr en la casa Ey, candy, candy, dulce como candy Lu-lu-lunay Translate to English",
+      "valence": 3.11,
+      "arousal": 2.94,
+      "dominance": 3.04
+    }
+  ]
+}

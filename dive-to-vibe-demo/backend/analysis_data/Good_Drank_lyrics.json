@@ -1,0 +1,556 @@
+{
+  "artist": "2 Chainz x Gucci Mane x Quavo",
+  "overall_vad": {
+    "valence": 2.99,
+    "arousal": 3.42,
+    "dominance": 3.34
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Uhh, alright I did it, hahah, yeah Yeah, used to treat my mattress like the ATM, yeah Bond number 9 that's my favorite scent, yeah",
+      "valence": 3.67,
+      "arousal": 3.65,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I did it, hahah, yeah Yeah, used to treat my mattress like the ATM, yeah Bond number 9 that's my favorite scent, yeah Can't forget the kush I'm talking OG, yeah",
+      "valence": 3.61,
+      "arousal": 3.69,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Yeah, used to treat my mattress like the ATM, yeah Bond number 9 that's my favorite scent, yeah Can't forget the kush I'm talking OG, yeah Rest in peace to pop, he was an OG, oh yeah",
+      "valence": 3.55,
+      "arousal": 3.49,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Bond number 9 that's my favorite scent, yeah Can't forget the kush I'm talking OG, yeah Rest in peace to pop, he was an OG, oh yeah 285 I had that pack on me",
+      "valence": 3.56,
+      "arousal": 3.49,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Can't forget the kush I'm talking OG, yeah Rest in peace to pop, he was an OG, oh yeah 285 I had that pack on me Uh, I can not forget I had that strap on me",
+      "valence": 2.99,
+      "arousal": 3.32,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Rest in peace to pop, he was an OG, oh yeah 285 I had that pack on me Uh, I can not forget I had that strap on me Yeah, rest in peace to my nigga Doe (Troup)",
+      "valence": 3.22,
+      "arousal": 3.38,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "285 I had that pack on me Uh, I can not forget I had that strap on me Yeah, rest in peace to my nigga Doe (Troup) All he ever want to do is ball",
+      "valence": 2.92,
+      "arousal": 3.28,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Uh, I can not forget I had that strap on me Yeah, rest in peace to my nigga Doe (Troup) All he ever want to do is ball That was the easy part",
+      "valence": 3.08,
+      "arousal": 3.18,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Yeah, rest in peace to my nigga Doe (Troup) All he ever want to do is ball That was the easy part We playing that Weezy hard",
+      "valence": 3.15,
+      "arousal": 3.14,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "All he ever want to do is ball That was the easy part We playing that Weezy hard We sit in the kitchen late",
+      "valence": 3.12,
+      "arousal": 2.98,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "That was the easy part We playing that Weezy hard We sit in the kitchen late We tryna to make an escape",
+      "valence": 3.05,
+      "arousal": 2.96,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "We playing that Weezy hard We sit in the kitchen late We tryna to make an escape Trying to make me a mil",
+      "valence": 2.87,
+      "arousal": 3.14,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "We sit in the kitchen late We tryna to make an escape Trying to make me a mil So I'mma keep me a plate",
+      "valence": 2.82,
+      "arousal": 3.2,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "We tryna to make an escape Trying to make me a mil So I'mma keep me a plate I told 'em shawty can leave",
+      "valence": 2.71,
+      "arousal": 3.36,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Trying to make me a mil So I'mma keep me a plate I told 'em shawty can leave So I'mma keep me a rake",
+      "valence": 2.92,
+      "arousal": 3.03,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "So I'mma keep me a plate I told 'em shawty can leave So I'mma keep me a rake So I'mma keep me a Wraith",
+      "valence": 2.96,
+      "arousal": 2.99,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I told 'em shawty can leave So I'mma keep me a rake So I'mma keep me a Wraith My jewelry look like a lake (water)",
+      "valence": 2.89,
+      "arousal": 3.04,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "So I'mma keep me a rake So I'mma keep me a Wraith My jewelry look like a lake (water) Today I'm in the Maybach",
+      "valence": 3.2,
+      "arousal": 2.92,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "So I'mma keep me a Wraith My jewelry look like a lake (water) Today I'm in the Maybach And that car came with some drapes",
+      "valence": 3.28,
+      "arousal": 3.0,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "My jewelry look like a lake (water) Today I'm in the Maybach And that car came with some drapes You know I look like a safe",
+      "valence": 3.26,
+      "arousal": 3.06,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Today I'm in the Maybach And that car came with some drapes You know I look like a safe I put you back in your place",
+      "valence": 3.05,
+      "arousal": 3.09,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "And that car came with some drapes You know I look like a safe I put you back in your place I look you right in your face",
+      "valence": 2.97,
+      "arousal": 3.46,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "You know I look like a safe I put you back in your place I look you right in your face Sing to your bitch like I'm Drake, yeah",
+      "valence": 2.7,
+      "arousal": 3.64,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I put you back in your place I look you right in your face Sing to your bitch like I'm Drake, yeah Good drank, big knots",
+      "valence": 2.8,
+      "arousal": 3.64,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I look you right in your face Sing to your bitch like I'm Drake, yeah Good drank, big knots Good drugs, I put a four on the rocks (lean)",
+      "valence": 2.91,
+      "arousal": 3.64,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Sing to your bitch like I'm Drake, yeah Good drank, big knots Good drugs, I put a four on the rocks (lean) Drop top, no hot box",
+      "valence": 2.98,
+      "arousal": 3.52,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Good drank, big knots Good drugs, I put a four on the rocks (lean) Drop top, no hot box 12 tried to pull me over, pink slips to the cops",
+      "valence": 2.9,
+      "arousal": 3.33,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Good drugs, I put a four on the rocks (lean) Drop top, no hot box 12 tried to pull me over, pink slips to the cops She said the molly give her thizz face",
+      "valence": 2.69,
+      "arousal": 3.45,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Drop top, no hot box 12 tried to pull me over, pink slips to the cops She said the molly give her thizz face Put the dick in her rib cage",
+      "valence": 2.45,
+      "arousal": 3.63,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "12 tried to pull me over, pink slips to the cops She said the molly give her thizz face Put the dick in her rib cage Whips out Kunta Kinte",
+      "valence": 2.4,
+      "arousal": 3.58,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "She said the molly give her thizz face Put the dick in her rib cage Whips out Kunta Kinte Diamonds clear like Bombay",
+      "valence": 2.62,
+      "arousal": 3.44,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Put the dick in her rib cage Whips out Kunta Kinte Diamonds clear like Bombay Take your babies, no Harambe",
+      "valence": 2.64,
+      "arousal": 3.46,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Whips out Kunta Kinte Diamonds clear like Bombay Take your babies, no Harambe Play with keys like Doc Dre",
+      "valence": 2.89,
+      "arousal": 3.24,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Diamonds clear like Bombay Take your babies, no Harambe Play with keys like Doc Dre 3K like AndrÃ©",
+      "valence": 2.97,
+      "arousal": 3.19,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Take your babies, no Harambe Play with keys like Doc Dre 3K like AndrÃ© Need a girl call her, come through",
+      "valence": 3.17,
+      "arousal": 3.38,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Play with keys like Doc Dre 3K like AndrÃ© Need a girl call her, come through It's Gucci! Huh (brr!) huh!",
+      "valence": 3.36,
+      "arousal": 3.67,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "3K like AndrÃ© Need a girl call her, come through It's Gucci! Huh (brr!) huh! Your trunk in the front, well check this out my top in the trunk",
+      "valence": 3.4,
+      "arousal": 3.67,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Need a girl call her, come through It's Gucci! Huh (brr!) huh! Your trunk in the front, well check this out my top in the trunk You play with my money then check this out your pop in the trunk",
+      "valence": 3.52,
+      "arousal": 3.79,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "It's Gucci! Huh (brr!) huh! Your trunk in the front, well check this out my top in the trunk You play with my money then check this out your pop in the trunk Three mil in a month, but I just did three years on a bunk",
+      "valence": 3.36,
+      "arousal": 3.7,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Your trunk in the front, well check this out my top in the trunk You play with my money then check this out your pop in the trunk Three mil in a month, but I just did three years on a bunk Oh you in a slump I'm headed to Oakland like Kevin Durant",
+      "valence": 3.0,
+      "arousal": 3.32,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "You play with my money then check this out your pop in the trunk Three mil in a month, but I just did three years on a bunk Oh you in a slump I'm headed to Oakland like Kevin Durant What is your point, square with the stamp, for Kevin Durant",
+      "valence": 2.81,
+      "arousal": 3.41,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Three mil in a month, but I just did three years on a bunk Oh you in a slump I'm headed to Oakland like Kevin Durant What is your point, square with the stamp, for Kevin Durant Lay on on my trap, play with my cap and I'll knock off your hat",
+      "valence": 2.7,
+      "arousal": 3.38,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Oh you in a slump I'm headed to Oakland like Kevin Durant What is your point, square with the stamp, for Kevin Durant Lay on on my trap, play with my cap and I'll knock off your hat I'm taking the cheese and killing the rats",
+      "valence": 2.66,
+      "arousal": 3.61,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "What is your point, square with the stamp, for Kevin Durant Lay on on my trap, play with my cap and I'll knock off your hat I'm taking the cheese and killing the rats Gucci Mane, call me the cat with the rat",
+      "valence": 2.52,
+      "arousal": 3.6,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Lay on on my trap, play with my cap and I'll knock off your hat I'm taking the cheese and killing the rats Gucci Mane, call me the cat with the rat I'm swervin' but I'm in back of the back",
+      "valence": 2.62,
+      "arousal": 3.56,
+      "dominance": 3.74
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I'm taking the cheese and killing the rats Gucci Mane, call me the cat with the rat I'm swervin' but I'm in back of the back I'm Persian, man I got hoes from Iraq",
+      "valence": 2.75,
+      "arousal": 3.55,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Gucci Mane, call me the cat with the rat I'm swervin' but I'm in back of the back I'm Persian, man I got hoes from Iraq I'm servin' I pay a bird for that",
+      "valence": 2.85,
+      "arousal": 3.37,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I'm swervin' but I'm in back of the back I'm Persian, man I got hoes from Iraq I'm servin' I pay a bird for that He nervous, I ain't got no word for that",
+      "valence": 2.74,
+      "arousal": 3.26,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I'm Persian, man I got hoes from Iraq I'm servin' I pay a bird for that He nervous, I ain't got no word for that He heard and want all of his purses back",
+      "valence": 2.68,
+      "arousal": 3.38,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I'm servin' I pay a bird for that He nervous, I ain't got no word for that He heard and want all of his purses back He mixing the seal with the percocets",
+      "valence": 2.66,
+      "arousal": 3.35,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "He nervous, I ain't got no word for that He heard and want all of his purses back He mixing the seal with the percocets She perfect and she got perky breasts",
+      "valence": 2.95,
+      "arousal": 3.53,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "He heard and want all of his purses back He mixing the seal with the percocets She perfect and she got perky breasts I just want some of that turkey neck",
+      "valence": 3.13,
+      "arousal": 3.6,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "He mixing the seal with the percocets She perfect and she got perky breasts I just want some of that turkey neck Trapper of the year I'm from Boulder Crest",
+      "valence": 3.44,
+      "arousal": 3.62,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "She perfect and she got perky breasts I just want some of that turkey neck Trapper of the year I'm from Boulder Crest You snitch of the year cause you told the best",
+      "valence": 3.47,
+      "arousal": 3.66,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "I just want some of that turkey neck Trapper of the year I'm from Boulder Crest You snitch of the year cause you told the best Good drank, big knots",
+      "valence": 3.19,
+      "arousal": 3.57,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Trapper of the year I'm from Boulder Crest You snitch of the year cause you told the best Good drank, big knots Good drugs, I put a four on the rocks",
+      "valence": 3.31,
+      "arousal": 3.55,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "You snitch of the year cause you told the best Good drank, big knots Good drugs, I put a four on the rocks Drop top, no hot box",
+      "valence": 2.88,
+      "arousal": 3.49,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Good drank, big knots Good drugs, I put a four on the rocks Drop top, no hot box 12 tried to pull me over, pink slips to the cops",
+      "valence": 2.98,
+      "arousal": 3.34,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Good drugs, I put a four on the rocks Drop top, no hot box 12 tried to pull me over, pink slips to the cops She said the molly give her thizz face",
+      "valence": 2.7,
+      "arousal": 3.48,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Drop top, no hot box 12 tried to pull me over, pink slips to the cops She said the molly give her thizz face Put the dick in her rib cage",
+      "valence": 2.45,
+      "arousal": 3.63,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "12 tried to pull me over, pink slips to the cops She said the molly give her thizz face Put the dick in her rib cage Whips out Kunta Kinte",
+      "valence": 2.4,
+      "arousal": 3.58,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "She said the molly give her thizz face Put the dick in her rib cage Whips out Kunta Kinte Diamonds clear like Bombay",
+      "valence": 2.62,
+      "arousal": 3.44,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Put the dick in her rib cage Whips out Kunta Kinte Diamonds clear like Bombay Take your babies, no Harambe",
+      "valence": 2.64,
+      "arousal": 3.46,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Whips out Kunta Kinte Diamonds clear like Bombay Take your babies, no Harambe Play with keys like Doc Dre",
+      "valence": 2.89,
+      "arousal": 3.24,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Diamonds clear like Bombay Take your babies, no Harambe Play with keys like Doc Dre 3K like Andre",
+      "valence": 2.94,
+      "arousal": 3.16,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Take your babies, no Harambe Play with keys like Doc Dre 3K like Andre Need a girl call her, come through",
+      "valence": 3.11,
+      "arousal": 3.33,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Play with keys like Doc Dre 3K like Andre Need a girl call her, come through Aye Mike Dean",
+      "valence": 3.1,
+      "arousal": 3.04,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "3K like Andre Need a girl call her, come through Aye Mike Dean This shit hard as fuck, bruh",
+      "valence": 2.58,
+      "arousal": 3.9,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Need a girl call her, come through Aye Mike Dean This shit hard as fuck, bruh You a living legend I appreciate that",
+      "valence": 3.29,
+      "arousal": 3.96,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Aye Mike Dean This shit hard as fuck, bruh You a living legend I appreciate that Aye Guwop I'm glad you home cuz",
+      "valence": 3.5,
+      "arousal": 4.04,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "This shit hard as fuck, bruh You a living legend I appreciate that Aye Guwop I'm glad you home cuz Quavo, you already know man",
+      "valence": 3.45,
+      "arousal": 3.96,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "You a living legend I appreciate that Aye Guwop I'm glad you home cuz Quavo, you already know man You got next on these niggas double salute man",
+      "valence": 3.76,
+      "arousal": 3.53,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Aye Guwop I'm glad you home cuz Quavo, you already know man You got next on these niggas double salute man True shit",
+      "valence": 3.4,
+      "arousal": 3.74,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Quavo, you already know man You got next on these niggas double salute man True shit 2 Chainzzzz",
+      "valence": 2.89,
+      "arousal": 3.55,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "You got next on these niggas double salute man True shit 2 Chainzzzz Hair Weave Killer",
+      "valence": 2.93,
+      "arousal": 3.48,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "True shit 2 Chainzzzz Hair Weave Killer Daniel Son the Necklace Don",
+      "valence": 3.0,
+      "arousal": 3.38,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "2 Chainzzzz Hair Weave Killer Daniel Son the Necklace Don Chapo Jr",
+      "valence": 2.98,
+      "arousal": 2.94,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "Hair Weave Killer Daniel Son the Necklace Don Chapo Jr I mean, I can go on for days",
+      "valence": 2.72,
+      "arousal": 3.15,
+      "dominance": 3.02
+    }
+  ]
+}

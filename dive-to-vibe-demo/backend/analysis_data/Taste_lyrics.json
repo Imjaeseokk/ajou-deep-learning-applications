@@ -1,0 +1,542 @@
+{
+  "artist": "Tyga Featuring Offset",
+  "overall_vad": {
+    "valence": 2.9,
+    "arousal": 3.5,
+    "dominance": 3.37
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Slide on a pimp game with my pinky ring Lotta gang, lotta bitches, and a icy chain Why you claim that you rich? That's a false claim I be straight to the whip, no baggage claim",
+      "valence": 2.69,
+      "arousal": 3.49,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Lotta gang, lotta bitches, and a icy chain Why you claim that you rich? That's a false claim I be straight to the whip, no baggage claim Whole lotta styles, can't even pronounce the name",
+      "valence": 2.58,
+      "arousal": 3.58,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Why you claim that you rich? That's a false claim I be straight to the whip, no baggage claim Whole lotta styles, can't even pronounce the name You ain't got no style, see you on my Instagram",
+      "valence": 2.77,
+      "arousal": 3.57,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I be straight to the whip, no baggage claim Whole lotta styles, can't even pronounce the name You ain't got no style, see you on my Instagram I be rockin' it like it's fresh out the pan",
+      "valence": 3.47,
+      "arousal": 3.61,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Whole lotta styles, can't even pronounce the name You ain't got no style, see you on my Instagram I be rockin' it like it's fresh out the pan Only when I'm takin' pics, I'm the middleman",
+      "valence": 3.5,
+      "arousal": 3.59,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "You ain't got no style, see you on my Instagram I be rockin' it like it's fresh out the pan Only when I'm takin' pics, I'm the middleman Walk, talk it like a boss, I just lift the hand",
+      "valence": 3.33,
+      "arousal": 3.59,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I be rockin' it like it's fresh out the pan Only when I'm takin' pics, I'm the middleman Walk, talk it like a boss, I just lift the hand Three million cash, call me Rain Man",
+      "valence": 3.4,
+      "arousal": 3.53,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Only when I'm takin' pics, I'm the middleman Walk, talk it like a boss, I just lift the hand Three million cash, call me Rain Man Money like a shower, that's my rain dance",
+      "valence": 3.35,
+      "arousal": 3.56,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Walk, talk it like a boss, I just lift the hand Three million cash, call me Rain Man Money like a shower, that's my rain dance And we all in black, like it's Gangland",
+      "valence": 3.26,
+      "arousal": 3.57,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Three million cash, call me Rain Man Money like a shower, that's my rain dance And we all in black, like it's Gangland Say the wrong word, you be hangman",
+      "valence": 3.04,
+      "arousal": 3.49,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Money like a shower, that's my rain dance And we all in black, like it's Gangland Say the wrong word, you be hangman Watch me stick to your bitch like a spray tan",
+      "valence": 2.72,
+      "arousal": 3.56,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "And we all in black, like it's Gangland Say the wrong word, you be hangman Watch me stick to your bitch like a spray tan Aw, Mr. 'What Kind Of Car He In?'",
+      "valence": 2.24,
+      "arousal": 3.59,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Say the wrong word, you be hangman Watch me stick to your bitch like a spray tan Aw, Mr. 'What Kind Of Car He In?' In the city love my name, nigga, I ain't gotta say it",
+      "valence": 2.14,
+      "arousal": 3.87,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Watch me stick to your bitch like a spray tan Aw, Mr. 'What Kind Of Car He In?' In the city love my name, nigga, I ain't gotta say it Taste, taste, she can get a taste",
+      "valence": 2.46,
+      "arousal": 3.96,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Aw, Mr. 'What Kind Of Car He In?' In the city love my name, nigga, I ain't gotta say it Taste, taste, she can get a taste Taste, taste, she can get a taste",
+      "valence": 3.04,
+      "arousal": 3.85,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "In the city love my name, nigga, I ain't gotta say it Taste, taste, she can get a taste Taste, taste, she can get a taste Taste, taste, fuck what a nigga say",
+      "valence": 2.58,
+      "arousal": 4.21,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Taste, taste, she can get a taste Taste, taste, she can get a taste Taste, taste, fuck what a nigga say It's all the same, like Mary-Kate",
+      "valence": 2.52,
+      "arousal": 3.61,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Taste, taste, she can get a taste Taste, taste, fuck what a nigga say It's all the same, like Mary-Kate Taste, taste, she can get a taste",
+      "valence": 2.59,
+      "arousal": 3.61,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Taste, taste, fuck what a nigga say It's all the same, like Mary-Kate Taste, taste, she can get a taste Taste, taste, let you get a taste",
+      "valence": 2.47,
+      "arousal": 3.62,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "It's all the same, like Mary-Kate Taste, taste, she can get a taste Taste, taste, let you get a taste Taste, taste, do you love the taste?",
+      "valence": 3.36,
+      "arousal": 3.3,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Taste, taste, she can get a taste Taste, taste, let you get a taste Taste, taste, do you love the taste? Yeah, that's cool but he ain't like me",
+      "valence": 3.08,
+      "arousal": 3.41,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Taste, taste, let you get a taste Taste, taste, do you love the taste? Yeah, that's cool but he ain't like me Lotta girls like me, niggas wanna fight me",
+      "valence": 2.99,
+      "arousal": 3.38,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Taste, taste, do you love the taste? Yeah, that's cool but he ain't like me Lotta girls like me, niggas wanna fight me Nigga, get yo ass checked like a fuckin' Nike",
+      "valence": 2.69,
+      "arousal": 3.51,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Yeah, that's cool but he ain't like me Lotta girls like me, niggas wanna fight me Nigga, get yo ass checked like a fuckin' Nike Me not icey, that's unlikely",
+      "valence": 2.33,
+      "arousal": 3.52,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Lotta girls like me, niggas wanna fight me Nigga, get yo ass checked like a fuckin' Nike Me not icey, that's unlikely And she gon' suck me like a fuckin' Hi-C",
+      "valence": 2.25,
+      "arousal": 3.71,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Nigga, get yo ass checked like a fuckin' Nike Me not icey, that's unlikely And she gon' suck me like a fuckin' Hi-C Aw, chains on the neck for the whole team",
+      "valence": 2.17,
+      "arousal": 3.78,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Me not icey, that's unlikely And she gon' suck me like a fuckin' Hi-C Aw, chains on the neck for the whole team And I feel like Gucci with the ice cream",
+      "valence": 2.36,
+      "arousal": 3.72,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "And she gon' suck me like a fuckin' Hi-C Aw, chains on the neck for the whole team And I feel like Gucci with the ice cream And my bitch want the Fenty, not the Maybelline",
+      "valence": 2.13,
+      "arousal": 3.88,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Aw, chains on the neck for the whole team And I feel like Gucci with the ice cream And my bitch want the Fenty, not the Maybelline I'm the black JB, the way these bitches scream",
+      "valence": 2.31,
+      "arousal": 3.8,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "And I feel like Gucci with the ice cream And my bitch want the Fenty, not the Maybelline I'm the black JB, the way these bitches scream Make these bitches scream",
+      "valence": 2.19,
+      "arousal": 3.82,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "And my bitch want the Fenty, not the Maybelline I'm the black JB, the way these bitches scream Make these bitches scream Pretty little thing",
+      "valence": 2.05,
+      "arousal": 3.8,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I'm the black JB, the way these bitches scream Make these bitches scream Pretty little thing Like my nigga AE, say, \"yadadamean\"",
+      "valence": 2.21,
+      "arousal": 3.63,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Make these bitches scream Pretty little thing Like my nigga AE, say, \"yadadamean\" Taste, taste, she can get a taste",
+      "valence": 2.43,
+      "arousal": 3.47,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Pretty little thing Like my nigga AE, say, \"yadadamean\" Taste, taste, she can get a taste Taste, taste, she can get a taste",
+      "valence": 3.11,
+      "arousal": 3.05,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Like my nigga AE, say, \"yadadamean\" Taste, taste, she can get a taste Taste, taste, she can get a taste Taste, taste, fuck what a nigga say",
+      "valence": 2.44,
+      "arousal": 3.79,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Taste, taste, she can get a taste Taste, taste, she can get a taste Taste, taste, fuck what a nigga say It's all the same, like Mary-Kate",
+      "valence": 2.52,
+      "arousal": 3.61,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Taste, taste, she can get a taste Taste, taste, fuck what a nigga say It's all the same, like Mary-Kate Taste, taste, she can get a taste",
+      "valence": 2.59,
+      "arousal": 3.61,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Taste, taste, fuck what a nigga say It's all the same, like Mary-Kate Taste, taste, she can get a taste Taste, taste, let you get a taste",
+      "valence": 2.47,
+      "arousal": 3.62,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "It's all the same, like Mary-Kate Taste, taste, she can get a taste Taste, taste, let you get a taste Taste, taste, do you love the taste?",
+      "valence": 3.36,
+      "arousal": 3.3,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Taste, taste, she can get a taste Taste, taste, let you get a taste Taste, taste, do you love the taste? Yeah that's cool",
+      "valence": 3.66,
+      "arousal": 3.54,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Taste, taste, let you get a taste Taste, taste, do you love the taste? Yeah that's cool Yeah, I'ma put the drip on the plate (drip, drip)",
+      "valence": 3.59,
+      "arousal": 3.48,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Taste, taste, do you love the taste? Yeah that's cool Yeah, I'ma put the drip on the plate (drip, drip) Diamond ice glac', niggas imitate (ice, ice)",
+      "valence": 3.59,
+      "arousal": 3.4,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Yeah that's cool Yeah, I'ma put the drip on the plate (drip, drip) Diamond ice glac', niggas imitate (ice, ice) Aye, aye feed me grapes Maybach with the drac' (grape)",
+      "valence": 3.45,
+      "arousal": 3.33,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Yeah, I'ma put the drip on the plate (drip, drip) Diamond ice glac', niggas imitate (ice, ice) Aye, aye feed me grapes Maybach with the drac' (grape) Slow pace in the Wraith, got this shit from bae",
+      "valence": 2.83,
+      "arousal": 3.4,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Diamond ice glac', niggas imitate (ice, ice) Aye, aye feed me grapes Maybach with the drac' (grape) Slow pace in the Wraith, got this shit from bae Diamonds up to par, the cookie hittin' hard (hard)",
+      "valence": 2.87,
+      "arousal": 3.25,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Aye, aye feed me grapes Maybach with the drac' (grape) Slow pace in the Wraith, got this shit from bae Diamonds up to par, the cookie hittin' hard (hard) The 'Rari sit in park, on Addy, on Mars (Mars)",
+      "valence": 3.04,
+      "arousal": 3.2,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Slow pace in the Wraith, got this shit from bae Diamonds up to par, the cookie hittin' hard (hard) The 'Rari sit in park, on Addy, on Mars (Mars) Shotgun shells, we gon' always hit the target (blaow)",
+      "valence": 2.88,
+      "arousal": 3.38,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Diamonds up to par, the cookie hittin' hard (hard) The 'Rari sit in park, on Addy, on Mars (Mars) Shotgun shells, we gon' always hit the target (blaow) Popcorn, big shell poppin' out the cartridge (pop it)",
+      "valence": 3.01,
+      "arousal": 3.19,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "The 'Rari sit in park, on Addy, on Mars (Mars) Shotgun shells, we gon' always hit the target (blaow) Popcorn, big shell poppin' out the cartridge (pop it) 3400 Nawfside, Charles Barkley",
+      "valence": 3.02,
+      "arousal": 3.18,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Shotgun shells, we gon' always hit the target (blaow) Popcorn, big shell poppin' out the cartridge (pop it) 3400 Nawfside, Charles Barkley 4-8-8, Ferrari",
+      "valence": 2.82,
+      "arousal": 3.28,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Popcorn, big shell poppin' out the cartridge (pop it) 3400 Nawfside, Charles Barkley 4-8-8, Ferrari Make her get on top of me and ride me like a Harley",
+      "valence": 3.12,
+      "arousal": 3.51,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "3400 Nawfside, Charles Barkley 4-8-8, Ferrari Make her get on top of me and ride me like a Harley She wanna keep me company and never want depart me (no)",
+      "valence": 3.05,
+      "arousal": 3.63,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "4-8-8, Ferrari Make her get on top of me and ride me like a Harley She wanna keep me company and never want depart me (no) (Depart me) Yeah, fishtail in the parking lot (skrt, skrt)",
+      "valence": 3.04,
+      "arousal": 3.59,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Make her get on top of me and ride me like a Harley She wanna keep me company and never want depart me (no) (Depart me) Yeah, fishtail in the parking lot (skrt, skrt) I don't kick it with these niggas 'cause they talk about 'cha",
+      "valence": 2.78,
+      "arousal": 3.41,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "She wanna keep me company and never want depart me (no) (Depart me) Yeah, fishtail in the parking lot (skrt, skrt) I don't kick it with these niggas 'cause they talk about 'cha And I got the fire, don't make me spark it out 'cha",
+      "valence": 2.81,
+      "arousal": 3.15,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "(Depart me) Yeah, fishtail in the parking lot (skrt, skrt) I don't kick it with these niggas 'cause they talk about 'cha And I got the fire, don't make me spark it out 'cha Keep it in my back pocket like it's a wallet",
+      "valence": 2.82,
+      "arousal": 3.05,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "I don't kick it with these niggas 'cause they talk about 'cha And I got the fire, don't make me spark it out 'cha Keep it in my back pocket like it's a wallet Like the way she suck it, suck it like a Jolly (whoa)",
+      "valence": 2.71,
+      "arousal": 3.37,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "And I got the fire, don't make me spark it out 'cha Keep it in my back pocket like it's a wallet Like the way she suck it, suck it like a Jolly (whoa) Stack it up and put it with the whole project (racks)",
+      "valence": 2.85,
+      "arousal": 3.36,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Keep it in my back pocket like it's a wallet Like the way she suck it, suck it like a Jolly (whoa) Stack it up and put it with the whole project (racks) And she got the Patek on water moccasin",
+      "valence": 2.98,
+      "arousal": 3.22,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Like the way she suck it, suck it like a Jolly (whoa) Stack it up and put it with the whole project (racks) And she got the Patek on water moccasin I'm rich in real life, I get that profit, copy",
+      "valence": 2.78,
+      "arousal": 3.48,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Stack it up and put it with the whole project (racks) And she got the Patek on water moccasin I'm rich in real life, I get that profit, copy Taste, taste, she can get a taste",
+      "valence": 3.18,
+      "arousal": 3.3,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "And she got the Patek on water moccasin I'm rich in real life, I get that profit, copy Taste, taste, she can get a taste Taste, taste, let you get a taste",
+      "valence": 3.18,
+      "arousal": 3.36,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "I'm rich in real life, I get that profit, copy Taste, taste, she can get a taste Taste, taste, let you get a taste Taste, taste, do you love the taste?",
+      "valence": 3.43,
+      "arousal": 3.41,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Taste, taste, she can get a taste Taste, taste, let you get a taste Taste, taste, do you love the taste? Yeah, that's cool, but he ain't like me",
+      "valence": 3.04,
+      "arousal": 3.38,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Taste, taste, let you get a taste Taste, taste, do you love the taste? Yeah, that's cool, but he ain't like me Taste, taste, LA, you can get a taste",
+      "valence": 3.06,
+      "arousal": 3.31,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Taste, taste, do you love the taste? Yeah, that's cool, but he ain't like me Taste, taste, LA, you can get a taste Taste, taste, Miami, you can get a taste",
+      "valence": 2.91,
+      "arousal": 3.24,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Yeah, that's cool, but he ain't like me Taste, taste, LA, you can get a taste Taste, taste, Miami, you can get a taste Taste, taste, Oakland, you can get a taste",
+      "valence": 2.56,
+      "arousal": 3.33,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Taste, taste, LA, you can get a taste Taste, taste, Miami, you can get a taste Taste, taste, Oakland, you can get a taste Taste, taste, New York, do you love the taste?",
+      "valence": 3.59,
+      "arousal": 3.48,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Taste, taste, Miami, you can get a taste Taste, taste, Oakland, you can get a taste Taste, taste, New York, do you love the taste? Taste, taste, Chi-Town, you can get a taste",
+      "valence": 3.52,
+      "arousal": 3.47,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Taste, taste, Oakland, you can get a taste Taste, taste, New York, do you love the taste? Taste, taste, Chi-Town, you can get a taste Taste, taste, Houston, you can get a taste",
+      "valence": 3.55,
+      "arousal": 3.5,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Taste, taste, New York, do you love the taste? Taste, taste, Chi-Town, you can get a taste Taste, taste, Houston, you can get a taste Taste, taste, Portland, you can get a taste",
+      "valence": 3.49,
+      "arousal": 3.44,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Taste, taste, Chi-Town, you can get a taste Taste, taste, Houston, you can get a taste Taste, taste, Portland, you can get a taste Taste, taste, overseas, let them bitches taste",
+      "valence": 3.07,
+      "arousal": 3.33,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Taste, taste, Houston, you can get a taste Taste, taste, Portland, you can get a taste Taste, taste, overseas, let them bitches taste Taste, taste, she can get a taste",
+      "valence": 3.05,
+      "arousal": 3.33,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Taste, taste, Portland, you can get a taste Taste, taste, overseas, let them bitches taste Taste, taste, she can get a taste Taste, taste, she can get a taste",
+      "valence": 3.08,
+      "arousal": 3.31,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Taste, taste, overseas, let them bitches taste Taste, taste, she can get a taste Taste, taste, she can get a taste Taste, taste, do you love the taste?",
+      "valence": 3.23,
+      "arousal": 3.4,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "Taste, taste, she can get a taste Taste, taste, she can get a taste Taste, taste, do you love the taste? Taste, taste, worldwide they gon' get a taste",
+      "valence": 3.4,
+      "arousal": 3.49,
+      "dominance": 3.31
+    }
+  ]
+}

@@ -1,0 +1,451 @@
+{
+  "artist": "Ali Gatie",
+  "overall_vad": {
+    "valence": 2.8,
+    "arousal": 3.58,
+    "dominance": 3.22
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "It's you It's always you If I'm ever gonna fall in love I know it's gon' be you",
+      "valence": 3.52,
+      "arousal": 3.44,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "It's always you If I'm ever gonna fall in love I know it's gon' be you It's you",
+      "valence": 3.51,
+      "arousal": 3.48,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "If I'm ever gonna fall in love I know it's gon' be you It's you It's always you",
+      "valence": 3.45,
+      "arousal": 3.53,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I know it's gon' be you It's you It's always you Met a lot of people",
+      "valence": 3.1,
+      "arousal": 3.17,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "It's you It's always you Met a lot of people But nobody feels like you",
+      "valence": 2.79,
+      "arousal": 2.98,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "It's always you Met a lot of people But nobody feels like you So, please don't break my heart",
+      "valence": 2.53,
+      "arousal": 3.43,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Met a lot of people But nobody feels like you So, please don't break my heart Don't tear me apart",
+      "valence": 2.5,
+      "arousal": 3.61,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "But nobody feels like you So, please don't break my heart Don't tear me apart I know how it starts",
+      "valence": 2.23,
+      "arousal": 3.7,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "So, please don't break my heart Don't tear me apart I know how it starts Trust me I've been broken before",
+      "valence": 2.41,
+      "arousal": 3.84,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Don't tear me apart I know how it starts Trust me I've been broken before Don't break me again",
+      "valence": 2.48,
+      "arousal": 3.63,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I know how it starts Trust me I've been broken before Don't break me again I am delicate",
+      "valence": 2.74,
+      "arousal": 3.44,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Trust me I've been broken before Don't break me again I am delicate Please don't break my heart",
+      "valence": 2.52,
+      "arousal": 3.75,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Don't break me again I am delicate Please don't break my heart Trust me I've been broken before",
+      "valence": 2.49,
+      "arousal": 3.82,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I am delicate Please don't break my heart Trust me I've been broken before I've been broken, yeah",
+      "valence": 2.6,
+      "arousal": 3.61,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Please don't break my heart Trust me I've been broken before I've been broken, yeah I know how it feels",
+      "valence": 2.42,
+      "arousal": 3.84,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Trust me I've been broken before I've been broken, yeah I know how it feels To be open",
+      "valence": 2.97,
+      "arousal": 3.61,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I've been broken, yeah I know how it feels To be open And then find out your love isn't real",
+      "valence": 2.49,
+      "arousal": 3.62,
+      "dominance": 2.67
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I know how it feels To be open And then find out your love isn't real I'm still hurting, yeah",
+      "valence": 2.39,
+      "arousal": 3.65,
+      "dominance": 2.73
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "To be open And then find out your love isn't real I'm still hurting, yeah I'm hurting inside",
+      "valence": 2.14,
+      "arousal": 3.69,
+      "dominance": 2.56
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "And then find out your love isn't real I'm still hurting, yeah I'm hurting inside I'm so scared to fall in love",
+      "valence": 2.23,
+      "arousal": 4.01,
+      "dominance": 2.55
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I'm still hurting, yeah I'm hurting inside I'm so scared to fall in love But if it's you then I'll try",
+      "valence": 2.57,
+      "arousal": 3.83,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I'm hurting inside I'm so scared to fall in love But if it's you then I'll try It's you",
+      "valence": 2.8,
+      "arousal": 3.87,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I'm so scared to fall in love But if it's you then I'll try It's you It's always you",
+      "valence": 3.11,
+      "arousal": 3.53,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "But if it's you then I'll try It's you It's always you If I'm ever gonna fall in love",
+      "valence": 3.29,
+      "arousal": 3.36,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "It's you It's always you If I'm ever gonna fall in love I know it's gon' be you",
+      "valence": 3.52,
+      "arousal": 3.44,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "It's always you If I'm ever gonna fall in love I know it's gon' be you It's you",
+      "valence": 3.51,
+      "arousal": 3.48,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "If I'm ever gonna fall in love I know it's gon' be you It's you It's always you",
+      "valence": 3.45,
+      "arousal": 3.53,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I know it's gon' be you It's you It's always you Met a lot of people",
+      "valence": 3.1,
+      "arousal": 3.17,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "It's you It's always you Met a lot of people But nobody feels like you",
+      "valence": 2.79,
+      "arousal": 2.98,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "It's always you Met a lot of people But nobody feels like you So, please don't break my heart",
+      "valence": 2.53,
+      "arousal": 3.43,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Met a lot of people But nobody feels like you So, please don't break my heart Don't tear me apart",
+      "valence": 2.5,
+      "arousal": 3.61,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "But nobody feels like you So, please don't break my heart Don't tear me apart I know how it starts",
+      "valence": 2.23,
+      "arousal": 3.7,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "So, please don't break my heart Don't tear me apart I know how it starts Trust me I've been broken before",
+      "valence": 2.41,
+      "arousal": 3.84,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Don't tear me apart I know how it starts Trust me I've been broken before Don't break me again",
+      "valence": 2.48,
+      "arousal": 3.63,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I know how it starts Trust me I've been broken before Don't break me again I am delicate",
+      "valence": 2.74,
+      "arousal": 3.44,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Trust me I've been broken before Don't break me again I am delicate Please, don't break my heart",
+      "valence": 2.52,
+      "arousal": 3.78,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Don't break me again I am delicate Please, don't break my heart Trust me I've been broken before",
+      "valence": 2.5,
+      "arousal": 3.81,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "I am delicate Please, don't break my heart Trust me I've been broken before I know I'm not the best at choosing lovers (lovers)",
+      "valence": 2.54,
+      "arousal": 3.54,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Please, don't break my heart Trust me I've been broken before I know I'm not the best at choosing lovers (lovers) We both know my past speaks for itself (for itself)",
+      "valence": 2.38,
+      "arousal": 3.63,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Trust me I've been broken before I know I'm not the best at choosing lovers (lovers) We both know my past speaks for itself (for itself) If you don't think that we're right for each other (for each other)",
+      "valence": 2.88,
+      "arousal": 3.45,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I know I'm not the best at choosing lovers (lovers) We both know my past speaks for itself (for itself) If you don't think that we're right for each other (for each other) Then please don't let history repeat itself",
+      "valence": 2.87,
+      "arousal": 3.24,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "We both know my past speaks for itself (for itself) If you don't think that we're right for each other (for each other) Then please don't let history repeat itself 'Cause I want you",
+      "valence": 3.03,
+      "arousal": 3.65,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "If you don't think that we're right for each other (for each other) Then please don't let history repeat itself 'Cause I want you I want you",
+      "valence": 2.87,
+      "arousal": 3.57,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Then please don't let history repeat itself 'Cause I want you I want you There's nothing else I want",
+      "valence": 2.84,
+      "arousal": 3.62,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "'Cause I want you I want you There's nothing else I want 'Cause I want you",
+      "valence": 3.2,
+      "arousal": 3.9,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I want you There's nothing else I want 'Cause I want you I want you",
+      "valence": 3.24,
+      "arousal": 3.96,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "There's nothing else I want 'Cause I want you I want you And you're the only thing I want",
+      "valence": 3.07,
+      "arousal": 3.8,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "'Cause I want you I want you And you're the only thing I want It's you",
+      "valence": 3.21,
+      "arousal": 3.79,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I want you And you're the only thing I want It's you It's always you",
+      "valence": 3.3,
+      "arousal": 3.67,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "And you're the only thing I want It's you It's always you If I'm ever gonna fall in love",
+      "valence": 3.49,
+      "arousal": 3.7,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "It's you It's always you If I'm ever gonna fall in love I know it's gon' be you",
+      "valence": 3.52,
+      "arousal": 3.44,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "It's always you If I'm ever gonna fall in love I know it's gon' be you It's you",
+      "valence": 3.51,
+      "arousal": 3.48,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "If I'm ever gonna fall in love I know it's gon' be you It's you It's always you",
+      "valence": 3.45,
+      "arousal": 3.53,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "I know it's gon' be you It's you It's always you Met a lot of people",
+      "valence": 3.1,
+      "arousal": 3.17,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "It's you It's always you Met a lot of people But nobody feels like you",
+      "valence": 2.79,
+      "arousal": 2.98,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "It's always you Met a lot of people But nobody feels like you So, please don't break my heart",
+      "valence": 2.53,
+      "arousal": 3.43,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Met a lot of people But nobody feels like you So, please don't break my heart Don't tear me apart",
+      "valence": 2.5,
+      "arousal": 3.61,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "But nobody feels like you So, please don't break my heart Don't tear me apart I know how it starts",
+      "valence": 2.23,
+      "arousal": 3.7,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "So, please don't break my heart Don't tear me apart I know how it starts Trust me, I've been broken before",
+      "valence": 2.36,
+      "arousal": 3.85,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Don't tear me apart I know how it starts Trust me, I've been broken before Don't break me again",
+      "valence": 2.45,
+      "arousal": 3.66,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "I know how it starts Trust me, I've been broken before Don't break me again I am delicate",
+      "valence": 2.72,
+      "arousal": 3.48,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Trust me, I've been broken before Don't break me again I am delicate Please don't break my heart",
+      "valence": 2.55,
+      "arousal": 3.74,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Don't break me again I am delicate Please don't break my heart Trust me, I've been broken before",
+      "valence": 2.51,
+      "arousal": 3.82,
+      "dominance": 3.1
+    }
+  ]
+}

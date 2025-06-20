@@ -1,0 +1,514 @@
+{
+  "artist": "Ty Dolla $ign Featuring Wiz Khalifa & DJ Mustard",
+  "overall_vad": {
+    "valence": 2.55,
+    "arousal": 3.6,
+    "dominance": 3.42
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I gotta lotta cash I don't mind spendin' it Imma smoke this joint then imma brake you off I be lying if I said you ain't the one",
+      "valence": 2.76,
+      "arousal": 3.47,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I don't mind spendin' it Imma smoke this joint then imma brake you off I be lying if I said you ain't the one All these tattoos on my skin they turn you on",
+      "valence": 2.59,
+      "arousal": 3.51,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Imma smoke this joint then imma brake you off I be lying if I said you ain't the one All these tattoos on my skin they turn you on Lotta smokin' drinkin' that's the shit I'm on",
+      "valence": 2.58,
+      "arousal": 3.67,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I be lying if I said you ain't the one All these tattoos on my skin they turn you on Lotta smokin' drinkin' that's the shit I'm on Heard you not the type that you take home to mom",
+      "valence": 2.49,
+      "arousal": 3.63,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "All these tattoos on my skin they turn you on Lotta smokin' drinkin' that's the shit I'm on Heard you not the type that you take home to mom Is we fucking when we leave the club or nah?",
+      "valence": 2.36,
+      "arousal": 3.86,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Lotta smokin' drinkin' that's the shit I'm on Heard you not the type that you take home to mom Is we fucking when we leave the club or nah? I ain't spending cash for nothing I wanna see you take it off",
+      "valence": 2.36,
+      "arousal": 3.75,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Heard you not the type that you take home to mom Is we fucking when we leave the club or nah? I ain't spending cash for nothing I wanna see you take it off Imma pop this bottle you gon' give me brain or nah?",
+      "valence": 2.32,
+      "arousal": 3.69,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Is we fucking when we leave the club or nah? I ain't spending cash for nothing I wanna see you take it off Imma pop this bottle you gon' give me brain or nah? Heard you from the hood you rep that thing or nah?",
+      "valence": 2.36,
+      "arousal": 3.7,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I ain't spending cash for nothing I wanna see you take it off Imma pop this bottle you gon' give me brain or nah? Heard you from the hood you rep that thing or nah? Gotta lotta ass you gonna shake that thing or nah?",
+      "valence": 2.62,
+      "arousal": 3.47,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Imma pop this bottle you gon' give me brain or nah? Heard you from the hood you rep that thing or nah? Gotta lotta ass you gonna shake that thing or nah? Heard you smoke blunts you down with paper planes or nah?",
+      "valence": 2.59,
+      "arousal": 3.37,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Heard you from the hood you rep that thing or nah? Gotta lotta ass you gonna shake that thing or nah? Heard you smoke blunts you down with paper planes or nah? I feel like I'm Tony you my boss I'm thinking nah",
+      "valence": 2.61,
+      "arousal": 3.46,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Gotta lotta ass you gonna shake that thing or nah? Heard you smoke blunts you down with paper planes or nah? I feel like I'm Tony you my boss I'm thinking nah The whole world I take it on",
+      "valence": 2.68,
+      "arousal": 3.6,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Heard you smoke blunts you down with paper planes or nah? I feel like I'm Tony you my boss I'm thinking nah The whole world I take it on You gonna run it for these hundreds girl or nah?",
+      "valence": 2.64,
+      "arousal": 3.53,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I feel like I'm Tony you my boss I'm thinking nah The whole world I take it on You gonna run it for these hundreds girl or nah? Show me is you really 'bout your money girl or nah?",
+      "valence": 2.85,
+      "arousal": 3.56,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "The whole world I take it on You gonna run it for these hundreds girl or nah? Show me is you really 'bout your money girl or nah? Don't play with a boss, Girl take it off",
+      "valence": 2.79,
+      "arousal": 3.69,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "You gonna run it for these hundreds girl or nah? Show me is you really 'bout your money girl or nah? Don't play with a boss, Girl take it off Take it for a real one",
+      "valence": 2.82,
+      "arousal": 3.59,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Show me is you really 'bout your money girl or nah? Don't play with a boss, Girl take it off Take it for a real one You gonna get it all",
+      "valence": 2.8,
+      "arousal": 3.73,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Don't play with a boss, Girl take it off Take it for a real one You gonna get it all Is you really with somebody or nah?",
+      "valence": 2.81,
+      "arousal": 3.48,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Take it for a real one You gonna get it all Is you really with somebody or nah? Can you really take dick or nah?",
+      "valence": 2.78,
+      "arousal": 3.47,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "You gonna get it all Is you really with somebody or nah? Can you really take dick or nah? Can I bring another bitch or nah?",
+      "valence": 2.55,
+      "arousal": 3.68,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Is you really with somebody or nah? Can you really take dick or nah? Can I bring another bitch or nah? Is you with this shits or nah?",
+      "valence": 2.42,
+      "arousal": 3.67,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Can you really take dick or nah? Can I bring another bitch or nah? Is you with this shits or nah? Oh nahhhh, oh nahhhhh",
+      "valence": 2.28,
+      "arousal": 3.71,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Can I bring another bitch or nah? Is you with this shits or nah? Oh nahhhh, oh nahhhhh Would you ride for a nigga or nah?",
+      "valence": 2.46,
+      "arousal": 3.56,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Is you with this shits or nah? Oh nahhhh, oh nahhhhh Would you ride for a nigga or nah? Would you die for a nigga or nah?",
+      "valence": 2.51,
+      "arousal": 3.51,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Oh nahhhh, oh nahhhhh Would you ride for a nigga or nah? Would you die for a nigga or nah? Would you lie to a nigga or nah?",
+      "valence": 2.66,
+      "arousal": 3.42,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Would you ride for a nigga or nah? Would you die for a nigga or nah? Would you lie to a nigga or nah? Oh nahhhh",
+      "valence": 2.67,
+      "arousal": 3.44,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Would you die for a nigga or nah? Would you lie to a nigga or nah? Oh nahhhh Can you really take dick or nah?",
+      "valence": 2.53,
+      "arousal": 3.5,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Would you lie to a nigga or nah? Oh nahhhh Can you really take dick or nah? Can I bring another bitch or nah?",
+      "valence": 2.31,
+      "arousal": 3.65,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Oh nahhhh Can you really take dick or nah? Can I bring another bitch or nah? Is you with this shits or nah?",
+      "valence": 2.31,
+      "arousal": 3.7,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Can you really take dick or nah? Can I bring another bitch or nah? Is you with this shits or nah? Oh nahhhh oh nahhhh",
+      "valence": 2.28,
+      "arousal": 3.72,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Can I bring another bitch or nah? Is you with this shits or nah? Oh nahhhh oh nahhhh Would you ride for a nigga or nah?",
+      "valence": 2.46,
+      "arousal": 3.58,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Is you with this shits or nah? Oh nahhhh oh nahhhh Would you ride for a nigga or nah? Would you die for a nigga or nah?",
+      "valence": 2.49,
+      "arousal": 3.53,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Oh nahhhh oh nahhhh Would you ride for a nigga or nah? Would you die for a nigga or nah? Would you lie to a nigga or nah?",
+      "valence": 2.64,
+      "arousal": 3.44,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Would you ride for a nigga or nah? Would you die for a nigga or nah? Would you lie to a nigga or nah? Oh nahhhh",
+      "valence": 2.67,
+      "arousal": 3.44,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Would you die for a nigga or nah? Would you lie to a nigga or nah? Oh nahhhh Girl make that asss clap for young dolla $ign",
+      "valence": 2.89,
+      "arousal": 3.62,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Would you lie to a nigga or nah? Oh nahhhh Girl make that asss clap for young dolla $ign You already know my money go a long time",
+      "valence": 2.65,
+      "arousal": 3.53,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Oh nahhhh Girl make that asss clap for young dolla $ign You already know my money go a long time I could slide for it, like Nelly",
+      "valence": 2.87,
+      "arousal": 3.54,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Girl make that asss clap for young dolla $ign You already know my money go a long time I could slide for it, like Nelly Imma go as far as you let me",
+      "valence": 2.78,
+      "arousal": 3.35,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "You already know my money go a long time I could slide for it, like Nelly Imma go as far as you let me Girl is you sucking me or fucking me or nah?",
+      "valence": 2.36,
+      "arousal": 3.65,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "I could slide for it, like Nelly Imma go as far as you let me Girl is you sucking me or fucking me or nah? Can I bring another bitch lets have a threesome",
+      "valence": 2.5,
+      "arousal": 3.7,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Imma go as far as you let me Girl is you sucking me or fucking me or nah? Can I bring another bitch lets have a threesome Keep saying you a freak you gon' prove it or nah?",
+      "valence": 2.13,
+      "arousal": 3.88,
+      "dominance": 3.78
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Girl is you sucking me or fucking me or nah? Can I bring another bitch lets have a threesome Keep saying you a freak you gon' prove it or nah? His bitch keep looking at me she choosin' or nah?",
+      "valence": 2.08,
+      "arousal": 3.9,
+      "dominance": 3.79
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Can I bring another bitch lets have a threesome Keep saying you a freak you gon' prove it or nah? His bitch keep looking at me she choosin' or nah? You a ride or die chick you with this shit or nah?",
+      "valence": 2.23,
+      "arousal": 3.76,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Keep saying you a freak you gon' prove it or nah? His bitch keep looking at me she choosin' or nah? You a ride or die chick you with this shit or nah? Say you not a side bitch, you all in or nah?",
+      "valence": 2.08,
+      "arousal": 3.76,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "His bitch keep looking at me she choosin' or nah? You a ride or die chick you with this shit or nah? Say you not a side bitch, you all in or nah? You gon' make them eggs cheesy with them grits or nah?",
+      "valence": 2.3,
+      "arousal": 3.63,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "You a ride or die chick you with this shit or nah? Say you not a side bitch, you all in or nah? You gon' make them eggs cheesy with them grits or nah? Can you do it like that, on this dick or nah?",
+      "valence": 2.47,
+      "arousal": 3.68,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Say you not a side bitch, you all in or nah? You gon' make them eggs cheesy with them grits or nah? Can you do it like that, on this dick or nah? You gonna run it for these hundreds girl or nah?",
+      "valence": 2.73,
+      "arousal": 3.57,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "You gon' make them eggs cheesy with them grits or nah? Can you do it like that, on this dick or nah? You gonna run it for these hundreds girl or nah? Show me is you really 'bout your money girl or nah?",
+      "valence": 2.78,
+      "arousal": 3.52,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Can you do it like that, on this dick or nah? You gonna run it for these hundreds girl or nah? Show me is you really 'bout your money girl or nah? Don't play with a boss, Girl take it off",
+      "valence": 2.68,
+      "arousal": 3.76,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "You gonna run it for these hundreds girl or nah? Show me is you really 'bout your money girl or nah? Don't play with a boss, Girl take it off Take it for a real one",
+      "valence": 2.82,
+      "arousal": 3.59,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Show me is you really 'bout your money girl or nah? Don't play with a boss, Girl take it off Take it for a real one You gonna get it all",
+      "valence": 2.8,
+      "arousal": 3.73,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Don't play with a boss, Girl take it off Take it for a real one You gonna get it all Is you really with somebody or nah?",
+      "valence": 2.81,
+      "arousal": 3.48,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Take it for a real one You gonna get it all Is you really with somebody or nah? Can you really take dick or nah?",
+      "valence": 2.78,
+      "arousal": 3.47,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "You gonna get it all Is you really with somebody or nah? Can you really take dick or nah? Can I bring another bitch or nah?",
+      "valence": 2.55,
+      "arousal": 3.68,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Is you really with somebody or nah? Can you really take dick or nah? Can I bring another bitch or nah? Is you with this shits or nah?",
+      "valence": 2.42,
+      "arousal": 3.67,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Can you really take dick or nah? Can I bring another bitch or nah? Is you with this shits or nah? Oh nahhhh oh nahhhh",
+      "valence": 2.28,
+      "arousal": 3.72,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Can I bring another bitch or nah? Is you with this shits or nah? Oh nahhhh oh nahhhh Would you ride for a nigga or nah?",
+      "valence": 2.46,
+      "arousal": 3.58,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Is you with this shits or nah? Oh nahhhh oh nahhhh Would you ride for a nigga or nah? Would you die for a nigga or nah?",
+      "valence": 2.49,
+      "arousal": 3.53,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Oh nahhhh oh nahhhh Would you ride for a nigga or nah? Would you die for a nigga or nah? Would you lie to a nigga or nah?",
+      "valence": 2.64,
+      "arousal": 3.44,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Would you ride for a nigga or nah? Would you die for a nigga or nah? Would you lie to a nigga or nah? Oh nahhhh",
+      "valence": 2.67,
+      "arousal": 3.44,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Would you die for a nigga or nah? Would you lie to a nigga or nah? Oh nahhhh Can you really take dick or nah?",
+      "valence": 2.53,
+      "arousal": 3.5,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Would you lie to a nigga or nah? Oh nahhhh Can you really take dick or nah? Can I bring another bitch or nah?",
+      "valence": 2.31,
+      "arousal": 3.65,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Oh nahhhh Can you really take dick or nah? Can I bring another bitch or nah? Is you with this shits or nah?",
+      "valence": 2.31,
+      "arousal": 3.7,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Can you really take dick or nah? Can I bring another bitch or nah? Is you with this shits or nah? Oh nahhhh oh nahhhh",
+      "valence": 2.28,
+      "arousal": 3.72,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Can I bring another bitch or nah? Is you with this shits or nah? Oh nahhhh oh nahhhh Would you ride for a nigga or nah?",
+      "valence": 2.46,
+      "arousal": 3.58,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Is you with this shits or nah? Oh nahhhh oh nahhhh Would you ride for a nigga or nah? Would you die for a nigga or nah?",
+      "valence": 2.49,
+      "arousal": 3.53,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Oh nahhhh oh nahhhh Would you ride for a nigga or nah? Would you die for a nigga or nah? Would you lie to a nigga or nah?",
+      "valence": 2.64,
+      "arousal": 3.44,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Would you ride for a nigga or nah? Would you die for a nigga or nah? Would you lie to a nigga or nah? Oh nahhhh",
+      "valence": 2.67,
+      "arousal": 3.44,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Would you die for a nigga or nah? Would you lie to a nigga or nah? Oh nahhhh Gonna make that ass clap",
+      "valence": 2.58,
+      "arousal": 3.67,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Would you lie to a nigga or nah? Oh nahhhh Gonna make that ass clap Gonna make that ass clap",
+      "valence": 2.53,
+      "arousal": 3.56,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Oh nahhhh Gonna make that ass clap Gonna make that ass clap Make make make that ass clap",
+      "valence": 2.87,
+      "arousal": 3.67,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Gonna make that ass clap Gonna make that ass clap Make make make that ass clap Gonna make that ass clap",
+      "valence": 2.85,
+      "arousal": 3.68,
+      "dominance": 3.57
+    }
+  ]
+}

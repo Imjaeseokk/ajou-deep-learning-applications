@@ -1,0 +1,325 @@
+{
+  "artist": "Miranda Lambert",
+  "overall_vad": {
+    "valence": 3.15,
+    "arousal": 3.26,
+    "dominance": 3.3
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Yeah, I'm a turner I turn pages all the time Don't like where I'm at, 34 was bad So I just turn to 35",
+      "valence": 2.7,
+      "arousal": 3.18,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I turn pages all the time Don't like where I'm at, 34 was bad So I just turn to 35 Yeah, I'm a keeper",
+      "valence": 2.93,
+      "arousal": 3.09,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Don't like where I'm at, 34 was bad So I just turn to 35 Yeah, I'm a keeper I keep digging down for the deep",
+      "valence": 2.72,
+      "arousal": 3.1,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "So I just turn to 35 Yeah, I'm a keeper I keep digging down for the deep Like the records I'm playing",
+      "valence": 3.27,
+      "arousal": 3.14,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Yeah, I'm a keeper I keep digging down for the deep Like the records I'm playing They might keep you waiting",
+      "valence": 3.14,
+      "arousal": 3.17,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I keep digging down for the deep Like the records I'm playing They might keep you waiting But you know I'm gonna play 'em for keeps",
+      "valence": 3.09,
+      "arousal": 3.24,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Like the records I'm playing They might keep you waiting But you know I'm gonna play 'em for keeps And if the house just keeps on winning",
+      "valence": 3.19,
+      "arousal": 3.23,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "They might keep you waiting But you know I'm gonna play 'em for keeps And if the house just keeps on winning I got a wildcard up my sleeve",
+      "valence": 3.19,
+      "arousal": 3.3,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "But you know I'm gonna play 'em for keeps And if the house just keeps on winning I got a wildcard up my sleeve And if love keeps giving me lemons",
+      "valence": 3.39,
+      "arousal": 3.43,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "And if the house just keeps on winning I got a wildcard up my sleeve And if love keeps giving me lemons I'll just mix 'em in my drink",
+      "valence": 3.34,
+      "arousal": 3.43,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I got a wildcard up my sleeve And if love keeps giving me lemons I'll just mix 'em in my drink And if the whole wide world stops singing",
+      "valence": 3.07,
+      "arousal": 3.41,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "And if love keeps giving me lemons I'll just mix 'em in my drink And if the whole wide world stops singing And all the stars go dark",
+      "valence": 2.81,
+      "arousal": 3.18,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I'll just mix 'em in my drink And if the whole wide world stops singing And all the stars go dark I'll keep a light on in my soul",
+      "valence": 3.04,
+      "arousal": 3.06,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "And if the whole wide world stops singing And all the stars go dark I'll keep a light on in my soul Keep a bluebird in my heart",
+      "valence": 3.11,
+      "arousal": 3.2,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And all the stars go dark I'll keep a light on in my soul Keep a bluebird in my heart Well, I'm a giver",
+      "valence": 3.34,
+      "arousal": 3.08,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I'll keep a light on in my soul Keep a bluebird in my heart Well, I'm a giver Yeah, and I'm still giving 'em hell",
+      "valence": 3.1,
+      "arousal": 3.26,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Keep a bluebird in my heart Well, I'm a giver Yeah, and I'm still giving 'em hell Forgiving's pretty hard",
+      "valence": 2.73,
+      "arousal": 3.18,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Well, I'm a giver Yeah, and I'm still giving 'em hell Forgiving's pretty hard So I made an art out of forgettin' 'em well",
+      "valence": 2.83,
+      "arousal": 3.2,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Yeah, and I'm still giving 'em hell Forgiving's pretty hard So I made an art out of forgettin' 'em well Yeah, I'm a rhymer",
+      "valence": 3.01,
+      "arousal": 3.25,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Forgiving's pretty hard So I made an art out of forgettin' 'em well Yeah, I'm a rhymer I can turn twenty cents into a ten",
+      "valence": 3.11,
+      "arousal": 3.16,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "So I made an art out of forgettin' 'em well Yeah, I'm a rhymer I can turn twenty cents into a ten And if I get confused, and I start to lose",
+      "valence": 3.09,
+      "arousal": 3.06,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Yeah, I'm a rhymer I can turn twenty cents into a ten And if I get confused, and I start to lose I rhyme a dime 'til it all makes sense",
+      "valence": 3.13,
+      "arousal": 3.13,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I can turn twenty cents into a ten And if I get confused, and I start to lose I rhyme a dime 'til it all makes sense And if the house just keeps on winning",
+      "valence": 3.11,
+      "arousal": 3.13,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "And if I get confused, and I start to lose I rhyme a dime 'til it all makes sense And if the house just keeps on winning I got a wildcard up my sleeve",
+      "valence": 3.1,
+      "arousal": 3.24,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I rhyme a dime 'til it all makes sense And if the house just keeps on winning I got a wildcard up my sleeve And if love keeps giving me lemons",
+      "valence": 3.31,
+      "arousal": 3.3,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "And if the house just keeps on winning I got a wildcard up my sleeve And if love keeps giving me lemons I'll just mix 'em in my drink",
+      "valence": 3.34,
+      "arousal": 3.43,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I got a wildcard up my sleeve And if love keeps giving me lemons I'll just mix 'em in my drink And if the whole wide world stops singing",
+      "valence": 3.07,
+      "arousal": 3.41,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "And if love keeps giving me lemons I'll just mix 'em in my drink And if the whole wide world stops singing And all the stars go dark",
+      "valence": 2.81,
+      "arousal": 3.18,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I'll just mix 'em in my drink And if the whole wide world stops singing And all the stars go dark I turn the light on in my soul",
+      "valence": 2.84,
+      "arousal": 3.22,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "And if the whole wide world stops singing And all the stars go dark I turn the light on in my soul And keep a bluebird in my heart",
+      "valence": 2.92,
+      "arousal": 3.17,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "And all the stars go dark I turn the light on in my soul And keep a bluebird in my heart Ooh, ooh",
+      "valence": 3.32,
+      "arousal": 3.38,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I turn the light on in my soul And keep a bluebird in my heart Ooh, ooh And if the house just keeps on winning",
+      "valence": 3.38,
+      "arousal": 3.31,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "And keep a bluebird in my heart Ooh, ooh And if the house just keeps on winning I got a wildcard up my sleeve",
+      "valence": 3.38,
+      "arousal": 3.39,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Ooh, ooh And if the house just keeps on winning I got a wildcard up my sleeve And if love starts giving me lemons",
+      "valence": 3.3,
+      "arousal": 3.58,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "And if the house just keeps on winning I got a wildcard up my sleeve And if love starts giving me lemons Just mix 'em in my drink",
+      "valence": 3.37,
+      "arousal": 3.53,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I got a wildcard up my sleeve And if love starts giving me lemons Just mix 'em in my drink And if the whole wide world stops singing",
+      "valence": 3.09,
+      "arousal": 3.49,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "And if love starts giving me lemons Just mix 'em in my drink And if the whole wide world stops singing And all the stars go dark",
+      "valence": 2.81,
+      "arousal": 3.31,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Just mix 'em in my drink And if the whole wide world stops singing And all the stars go dark I'll keep the light on in my soul",
+      "valence": 3.08,
+      "arousal": 3.07,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "And if the whole wide world stops singing And all the stars go dark I'll keep the light on in my soul Keep a bluebird in my heart",
+      "valence": 3.17,
+      "arousal": 3.18,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "And all the stars go dark I'll keep the light on in my soul Keep a bluebird in my heart I'll keep a light on in my soul",
+      "valence": 3.42,
+      "arousal": 3.12,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I'll keep the light on in my soul Keep a bluebird in my heart I'll keep a light on in my soul Keep a bluebird in my heart",
+      "valence": 3.5,
+      "arousal": 3.21,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Keep a bluebird in my heart I'll keep a light on in my soul Keep a bluebird in my heart Keep a bluebird in my heart",
+      "valence": 3.49,
+      "arousal": 3.2,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I'll keep a light on in my soul Keep a bluebird in my heart Keep a bluebird in my heart Ooh",
+      "valence": 3.48,
+      "arousal": 3.39,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Keep a bluebird in my heart Keep a bluebird in my heart Ooh And the bluebird sings",
+      "valence": 3.48,
+      "arousal": 3.4,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Keep a bluebird in my heart Ooh And the bluebird sings Ooh",
+      "valence": 3.48,
+      "arousal": 3.41,
+      "dominance": 3.32
+    }
+  ]
+}

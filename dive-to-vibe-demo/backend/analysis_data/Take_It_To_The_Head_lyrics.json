@@ -1,0 +1,605 @@
+{
+  "artist": "DJ Khaled Featuring Chris Brown, Rick Ross, Nicki Minaj & Lil Wayne",
+  "overall_vad": {
+    "valence": 2.67,
+    "arousal": 3.6,
+    "dominance": 3.35
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Working all winter Shining all summer I aint no beginner You scared to...",
+      "valence": 2.73,
+      "arousal": 3.19,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Shining all summer I aint no beginner You scared to... Take it to the head, (yeh yeah)",
+      "valence": 2.68,
+      "arousal": 3.35,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I aint no beginner You scared to... Take it to the head, (yeh yeah) Don't think about it, be about it",
+      "valence": 2.5,
+      "arousal": 3.43,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "You scared to... Take it to the head, (yeh yeah) Don't think about it, be about it Don't be scared to take it to the head (yeh yeah)",
+      "valence": 2.63,
+      "arousal": 3.46,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Take it to the head, (yeh yeah) Don't think about it, be about it Don't be scared to take it to the head (yeh yeah) Girl, you fly but if I tell you than to take it to the head",
+      "valence": 2.95,
+      "arousal": 3.44,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Don't think about it, be about it Don't be scared to take it to the head (yeh yeah) Girl, you fly but if I tell you than to take it to the head Then you might take it to the head",
+      "valence": 2.9,
+      "arousal": 3.45,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Don't be scared to take it to the head (yeh yeah) Girl, you fly but if I tell you than to take it to the head Then you might take it to the head I'm in my zone, damn near got my eyes closed",
+      "valence": 2.71,
+      "arousal": 3.75,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Girl, you fly but if I tell you than to take it to the head Then you might take it to the head I'm in my zone, damn near got my eyes closed One shot, two shots, I'm gone",
+      "valence": 2.53,
+      "arousal": 3.78,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Then you might take it to the head I'm in my zone, damn near got my eyes closed One shot, two shots, I'm gone Take it to the head",
+      "valence": 2.33,
+      "arousal": 3.74,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I'm in my zone, damn near got my eyes closed One shot, two shots, I'm gone Take it to the head I'm in my zone, damn near got my eyes closed",
+      "valence": 2.47,
+      "arousal": 3.7,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "One shot, two shots, I'm gone Take it to the head I'm in my zone, damn near got my eyes closed One shot, two shots, I'm gone",
+      "valence": 2.42,
+      "arousal": 3.75,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Take it to the head I'm in my zone, damn near got my eyes closed One shot, two shots, I'm gone Now we gon' get fucked up, no excuses no apologies",
+      "valence": 2.17,
+      "arousal": 3.76,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I'm in my zone, damn near got my eyes closed One shot, two shots, I'm gone Now we gon' get fucked up, no excuses no apologies Reputation for g's, thats the roll of a boss",
+      "valence": 2.19,
+      "arousal": 3.71,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "One shot, two shots, I'm gone Now we gon' get fucked up, no excuses no apologies Reputation for g's, thats the roll of a boss So amazing to see, black baguettes in my watch",
+      "valence": 2.88,
+      "arousal": 3.84,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Now we gon' get fucked up, no excuses no apologies Reputation for g's, thats the roll of a boss So amazing to see, black baguettes in my watch She say love is for free, just expensive to shop",
+      "valence": 3.06,
+      "arousal": 3.8,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Reputation for g's, thats the roll of a boss So amazing to see, black baguettes in my watch She say love is for free, just expensive to shop But its nothing to me, that extends from my block",
+      "valence": 3.54,
+      "arousal": 3.63,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "So amazing to see, black baguettes in my watch She say love is for free, just expensive to shop But its nothing to me, that extends from my block I got a lot of figures, I'm a father figure",
+      "valence": 3.53,
+      "arousal": 3.6,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "She say love is for free, just expensive to shop But its nothing to me, that extends from my block I got a lot of figures, I'm a father figure She know a lot of niggas, don't know a hotter nigga",
+      "valence": 3.01,
+      "arousal": 3.44,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "But its nothing to me, that extends from my block I got a lot of figures, I'm a father figure She know a lot of niggas, don't know a hotter nigga Come to the winners circle, a lot of men will hurt you",
+      "valence": 2.82,
+      "arousal": 3.27,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I got a lot of figures, I'm a father figure She know a lot of niggas, don't know a hotter nigga Come to the winners circle, a lot of men will hurt you But I'm here to nurture, I wanna take you further",
+      "valence": 3.23,
+      "arousal": 3.51,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "She know a lot of niggas, don't know a hotter nigga Come to the winners circle, a lot of men will hurt you But I'm here to nurture, I wanna take you further She got all them purses, I say in my verses",
+      "valence": 3.22,
+      "arousal": 3.6,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Come to the winners circle, a lot of men will hurt you But I'm here to nurture, I wanna take you further She got all them purses, I say in my verses YSL and Hermes and barely scratch the surface",
+      "valence": 3.33,
+      "arousal": 3.49,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "But I'm here to nurture, I wanna take you further She got all them purses, I say in my verses YSL and Hermes and barely scratch the surface She know on purpose, as I peel the curtains",
+      "valence": 3.24,
+      "arousal": 3.4,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "She got all them purses, I say in my verses YSL and Hermes and barely scratch the surface She know on purpose, as I peel the curtains I always make her nervous, this record's perfect",
+      "valence": 3.16,
+      "arousal": 3.35,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "YSL and Hermes and barely scratch the surface She know on purpose, as I peel the curtains I always make her nervous, this record's perfect Take it to the head, (yeh yeah)",
+      "valence": 3.17,
+      "arousal": 3.36,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "She know on purpose, as I peel the curtains I always make her nervous, this record's perfect Take it to the head, (yeh yeah) Don't think about it, be about it",
+      "valence": 3.08,
+      "arousal": 3.43,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I always make her nervous, this record's perfect Take it to the head, (yeh yeah) Don't think about it, be about it Don't be scared to take it to the head (yeh yeah)",
+      "valence": 3.08,
+      "arousal": 3.54,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Take it to the head, (yeh yeah) Don't think about it, be about it Don't be scared to take it to the head (yeh yeah) Girl, you fly but if I tell you than to take it to the head",
+      "valence": 2.95,
+      "arousal": 3.44,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Don't think about it, be about it Don't be scared to take it to the head (yeh yeah) Girl, you fly but if I tell you than to take it to the head Then you might take it to the head",
+      "valence": 2.9,
+      "arousal": 3.45,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Don't be scared to take it to the head (yeh yeah) Girl, you fly but if I tell you than to take it to the head Then you might take it to the head I'm in my zone, damn near got my eyes closed",
+      "valence": 2.71,
+      "arousal": 3.75,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Girl, you fly but if I tell you than to take it to the head Then you might take it to the head I'm in my zone, damn near got my eyes closed One shot, two shots, I'm gone",
+      "valence": 2.53,
+      "arousal": 3.78,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Then you might take it to the head I'm in my zone, damn near got my eyes closed One shot, two shots, I'm gone Take it to the head",
+      "valence": 2.33,
+      "arousal": 3.74,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I'm in my zone, damn near got my eyes closed One shot, two shots, I'm gone Take it to the head I'm in my zone, damn near got my eyes closed",
+      "valence": 2.47,
+      "arousal": 3.7,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "One shot, two shots, I'm gone Take it to the head I'm in my zone, damn near got my eyes closed One shot, two shots, I'm gone",
+      "valence": 2.42,
+      "arousal": 3.75,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Take it to the head I'm in my zone, damn near got my eyes closed One shot, two shots, I'm gone Now we gon' get fucked up, no excuses no apologies",
+      "valence": 2.17,
+      "arousal": 3.76,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I'm in my zone, damn near got my eyes closed One shot, two shots, I'm gone Now we gon' get fucked up, no excuses no apologies Yo, reputation for bussin'",
+      "valence": 2.21,
+      "arousal": 3.7,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "One shot, two shots, I'm gone Now we gon' get fucked up, no excuses no apologies Yo, reputation for bussin' Pussy open, it's nothin'",
+      "valence": 2.08,
+      "arousal": 3.63,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Now we gon' get fucked up, no excuses no apologies Yo, reputation for bussin' Pussy open, it's nothin' Big fat nigga, all that huffin' and puffin'",
+      "valence": 2.09,
+      "arousal": 3.48,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Yo, reputation for bussin' Pussy open, it's nothin' Big fat nigga, all that huffin' and puffin' Take me shopping in France",
+      "valence": 2.67,
+      "arousal": 3.22,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Pussy open, it's nothin' Big fat nigga, all that huffin' and puffin' Take me shopping in France And he pay in advance",
+      "valence": 2.75,
+      "arousal": 3.12,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Big fat nigga, all that huffin' and puffin' Take me shopping in France And he pay in advance He got big balls, ran a play in his pants",
+      "valence": 2.92,
+      "arousal": 3.32,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Take me shopping in France And he pay in advance He got big balls, ran a play in his pants Ran away with his money just to chill on the Island",
+      "valence": 3.1,
+      "arousal": 3.29,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "And he pay in advance He got big balls, ran a play in his pants Ran away with his money just to chill on the Island All my bitches is stylin'",
+      "valence": 2.83,
+      "arousal": 3.54,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "He got big balls, ran a play in his pants Ran away with his money just to chill on the Island All my bitches is stylin' Beaches and eatin Italian",
+      "valence": 2.85,
+      "arousal": 3.55,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Ran away with his money just to chill on the Island All my bitches is stylin' Beaches and eatin Italian This is real shit, real shit",
+      "valence": 1.96,
+      "arousal": 3.85,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "All my bitches is stylin' Beaches and eatin Italian This is real shit, real shit On the real, nigga fuckin' wit a real bitch",
+      "valence": 1.87,
+      "arousal": 3.82,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Beaches and eatin Italian This is real shit, real shit On the real, nigga fuckin' wit a real bitch I ride for him, DMV",
+      "valence": 2.14,
+      "arousal": 3.66,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "This is real shit, real shit On the real, nigga fuckin' wit a real bitch I ride for him, DMV Stamina, GNC",
+      "valence": 2.02,
+      "arousal": 3.73,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "On the real, nigga fuckin' wit a real bitch I ride for him, DMV Stamina, GNC 3 letters CMB",
+      "valence": 2.73,
+      "arousal": 3.31,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I ride for him, DMV Stamina, GNC 3 letters CMB Competition, I don't see any",
+      "valence": 2.9,
+      "arousal": 3.03,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Stamina, GNC 3 letters CMB Competition, I don't see any Take it to the head, (yeh yeah)",
+      "valence": 2.89,
+      "arousal": 3.06,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "3 letters CMB Competition, I don't see any Take it to the head, (yeh yeah) Don't think about it, be about it",
+      "valence": 2.86,
+      "arousal": 3.05,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Competition, I don't see any Take it to the head, (yeh yeah) Don't think about it, be about it Don't be scared to take it to the head (yeh yeah)",
+      "valence": 2.98,
+      "arousal": 3.31,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Take it to the head, (yeh yeah) Don't think about it, be about it Don't be scared to take it to the head (yeh yeah) Girl, you fly but if I tell you than to take it to the head",
+      "valence": 2.95,
+      "arousal": 3.44,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Don't think about it, be about it Don't be scared to take it to the head (yeh yeah) Girl, you fly but if I tell you than to take it to the head Then you might take it to the head",
+      "valence": 2.9,
+      "arousal": 3.45,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Don't be scared to take it to the head (yeh yeah) Girl, you fly but if I tell you than to take it to the head Then you might take it to the head I'm in my zone, damn near got my eyes closed",
+      "valence": 2.71,
+      "arousal": 3.75,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Girl, you fly but if I tell you than to take it to the head Then you might take it to the head I'm in my zone, damn near got my eyes closed One shot, two shots, I'm gone",
+      "valence": 2.53,
+      "arousal": 3.78,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Then you might take it to the head I'm in my zone, damn near got my eyes closed One shot, two shots, I'm gone Take it to the head",
+      "valence": 2.33,
+      "arousal": 3.74,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "I'm in my zone, damn near got my eyes closed One shot, two shots, I'm gone Take it to the head I'm in my zone, damn near got my eyes closed",
+      "valence": 2.47,
+      "arousal": 3.7,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "One shot, two shots, I'm gone Take it to the head I'm in my zone, damn near got my eyes closed One shot, two shots, I'm gone",
+      "valence": 2.42,
+      "arousal": 3.75,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Take it to the head I'm in my zone, damn near got my eyes closed One shot, two shots, I'm gone Now we gon' get fucked up, no excuses no apologies",
+      "valence": 2.17,
+      "arousal": 3.76,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "I'm in my zone, damn near got my eyes closed One shot, two shots, I'm gone Now we gon' get fucked up, no excuses no apologies Reputation for tastin'",
+      "valence": 2.27,
+      "arousal": 3.68,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "One shot, two shots, I'm gone Now we gon' get fucked up, no excuses no apologies Reputation for tastin' I'm killin' 'em hoes like Jason",
+      "valence": 2.1,
+      "arousal": 3.69,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Now we gon' get fucked up, no excuses no apologies Reputation for tastin' I'm killin' 'em hoes like Jason Got that pussy like medication to patients",
+      "valence": 2.06,
+      "arousal": 3.64,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Reputation for tastin' I'm killin' 'em hoes like Jason Got that pussy like medication to patients Got my eyes closed, like Asian persuasion",
+      "valence": 2.4,
+      "arousal": 3.6,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "I'm killin' 'em hoes like Jason Got that pussy like medication to patients Got my eyes closed, like Asian persuasion Fuck with me baby, it's Tunechi baby",
+      "valence": 2.09,
+      "arousal": 3.86,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Got that pussy like medication to patients Got my eyes closed, like Asian persuasion Fuck with me baby, it's Tunechi baby Buss a nut, smoke a blunt, now I'm rejuvenated",
+      "valence": 2.39,
+      "arousal": 3.83,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Got my eyes closed, like Asian persuasion Fuck with me baby, it's Tunechi baby Buss a nut, smoke a blunt, now I'm rejuvenated With all that pink on, bitch I'm king kong",
+      "valence": 2.49,
+      "arousal": 3.92,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Fuck with me baby, it's Tunechi baby Buss a nut, smoke a blunt, now I'm rejuvenated With all that pink on, bitch I'm king kong I eat her ice cream, she eat my ice cream cone",
+      "valence": 2.4,
+      "arousal": 3.99,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Buss a nut, smoke a blunt, now I'm rejuvenated With all that pink on, bitch I'm king kong I eat her ice cream, she eat my ice cream cone Pop a pill and pop that pussy",
+      "valence": 3.13,
+      "arousal": 3.64,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "With all that pink on, bitch I'm king kong I eat her ice cream, she eat my ice cream cone Pop a pill and pop that pussy I bet you tunechi make her throw away that silver bullet",
+      "valence": 2.71,
+      "arousal": 3.75,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "I eat her ice cream, she eat my ice cream cone Pop a pill and pop that pussy I bet you tunechi make her throw away that silver bullet And she kiss me on my neck and she kiss me on my chest",
+      "valence": 3.37,
+      "arousal": 3.84,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Pop a pill and pop that pussy I bet you tunechi make her throw away that silver bullet And she kiss me on my neck and she kiss me on my chest And then she...",
+      "valence": 3.14,
+      "arousal": 3.83,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "I bet you tunechi make her throw away that silver bullet And she kiss me on my neck and she kiss me on my chest And then she... Take it to the head, (yeh yeah)",
+      "valence": 3.27,
+      "arousal": 3.75,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "And she kiss me on my neck and she kiss me on my chest And then she... Take it to the head, (yeh yeah) Don't think about it, be about it",
+      "valence": 3.3,
+      "arousal": 3.73,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "And then she... Take it to the head, (yeh yeah) Don't think about it, be about it Don't be scared to take it to the head (yeh yeah)",
+      "valence": 2.89,
+      "arousal": 3.4,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "Take it to the head, (yeh yeah) Don't think about it, be about it Don't be scared to take it to the head (yeh yeah) Girl, you fly but if I tell you than to take it to the head",
+      "valence": 2.95,
+      "arousal": 3.44,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "Don't think about it, be about it Don't be scared to take it to the head (yeh yeah) Girl, you fly but if I tell you than to take it to the head Then you might take it to the head",
+      "valence": 2.9,
+      "arousal": 3.45,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "Don't be scared to take it to the head (yeh yeah) Girl, you fly but if I tell you than to take it to the head Then you might take it to the head I'm in my zone, damn near got my eyes closed",
+      "valence": 2.71,
+      "arousal": 3.75,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "Girl, you fly but if I tell you than to take it to the head Then you might take it to the head I'm in my zone, damn near got my eyes closed One shot, two shots, I'm gone",
+      "valence": 2.53,
+      "arousal": 3.78,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "Then you might take it to the head I'm in my zone, damn near got my eyes closed One shot, two shots, I'm gone Take it to the head",
+      "valence": 2.33,
+      "arousal": 3.74,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "I'm in my zone, damn near got my eyes closed One shot, two shots, I'm gone Take it to the head I'm in my zone, damn near got my eyes closed",
+      "valence": 2.47,
+      "arousal": 3.7,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "One shot, two shots, I'm gone Take it to the head I'm in my zone, damn near got my eyes closed One shot, two shots, I'm gone",
+      "valence": 2.42,
+      "arousal": 3.75,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "Take it to the head I'm in my zone, damn near got my eyes closed One shot, two shots, I'm gone Now we gon' get fucked up, no excuses no apologies",
+      "valence": 2.17,
+      "arousal": 3.76,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "I'm in my zone, damn near got my eyes closed One shot, two shots, I'm gone Now we gon' get fucked up, no excuses no apologies Young mula baby!",
+      "valence": 2.41,
+      "arousal": 4.01,
+      "dominance": 3.25
+    }
+  ]
+}

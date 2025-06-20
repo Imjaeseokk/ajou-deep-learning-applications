@@ -1,0 +1,528 @@
+{
+  "artist": "Drake",
+  "overall_vad": {
+    "valence": 2.72,
+    "arousal": 3.4,
+    "dominance": 3.28
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Man don't live of a di hype, huh? Real ting, ay Yeah, I pull up in Lexus' like it's '07 I just hit a lick, I got to hit a next one",
+      "valence": 3.11,
+      "arousal": 3.29,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Real ting, ay Yeah, I pull up in Lexus' like it's '07 I just hit a lick, I got to hit a next one Last year I know you learned your lesson",
+      "valence": 3.17,
+      "arousal": 3.35,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Yeah, I pull up in Lexus' like it's '07 I just hit a lick, I got to hit a next one Last year I know you learned your lesson I could GPS you if you need addressin'",
+      "valence": 3.19,
+      "arousal": 3.3,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I just hit a lick, I got to hit a next one Last year I know you learned your lesson I could GPS you if you need addressin' Boss up, I'm the bigger homie",
+      "valence": 3.29,
+      "arousal": 3.44,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Last year I know you learned your lesson I could GPS you if you need addressin' Boss up, I'm the bigger homie But I'm one year older than my lil' homie",
+      "valence": 2.95,
+      "arousal": 3.34,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I could GPS you if you need addressin' Boss up, I'm the bigger homie But I'm one year older than my lil' homie '09 they was biddin' on me",
+      "valence": 2.97,
+      "arousal": 3.29,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Boss up, I'm the bigger homie But I'm one year older than my lil' homie '09 they was biddin' on me But I'm Young Money, got it written on me",
+      "valence": 2.94,
+      "arousal": 3.54,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "But I'm one year older than my lil' homie '09 they was biddin' on me But I'm Young Money, got it written on me Ok, now we got some action",
+      "valence": 2.95,
+      "arousal": 3.52,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "'09 they was biddin' on me But I'm Young Money, got it written on me Ok, now we got some action Everything I said, it happened",
+      "valence": 2.84,
+      "arousal": 3.56,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "But I'm Young Money, got it written on me Ok, now we got some action Everything I said, it happened That boy light as Michael Jackson",
+      "valence": 3.07,
+      "arousal": 3.54,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Ok, now we got some action Everything I said, it happened That boy light as Michael Jackson But on verses, he been blackin'",
+      "valence": 3.09,
+      "arousal": 3.44,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Everything I said, it happened That boy light as Michael Jackson But on verses, he been blackin' Chasin' women a distraction",
+      "valence": 2.9,
+      "arousal": 3.07,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "That boy light as Michael Jackson But on verses, he been blackin' Chasin' women a distraction They wan' be on TV right next to me",
+      "valence": 2.94,
+      "arousal": 3.24,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "But on verses, he been blackin' Chasin' women a distraction They wan' be on TV right next to me You cannot be here right next to me",
+      "valence": 2.59,
+      "arousal": 3.26,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Chasin' women a distraction They wan' be on TV right next to me You cannot be here right next to me Don't you see Riri right next to me?",
+      "valence": 2.65,
+      "arousal": 3.43,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "They wan' be on TV right next to me You cannot be here right next to me Don't you see Riri right next to me? I hate a rapper especially",
+      "valence": 2.33,
+      "arousal": 3.66,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "You cannot be here right next to me Don't you see Riri right next to me? I hate a rapper especially They feel the same, but they hide it",
+      "valence": 2.52,
+      "arousal": 3.53,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Don't you see Riri right next to me? I hate a rapper especially They feel the same, but they hide it They just discuss it in private",
+      "valence": 2.6,
+      "arousal": 3.38,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I hate a rapper especially They feel the same, but they hide it They just discuss it in private Don't get along, man, we tried it",
+      "valence": 2.37,
+      "arousal": 3.43,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "They feel the same, but they hide it They just discuss it in private Don't get along, man, we tried it What's the point in even tryin'?",
+      "valence": 2.58,
+      "arousal": 3.3,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "They just discuss it in private Don't get along, man, we tried it What's the point in even tryin'? I hate a goofy especially",
+      "valence": 2.49,
+      "arousal": 3.47,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Don't get along, man, we tried it What's the point in even tryin'? I hate a goofy especially They always dyin' to mention me",
+      "valence": 2.46,
+      "arousal": 3.38,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "What's the point in even tryin'? I hate a goofy especially They always dyin' to mention me They gotta die out eventually",
+      "valence": 2.49,
+      "arousal": 3.33,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I hate a goofy especially They always dyin' to mention me They gotta die out eventually I cannot give you the recipe",
+      "valence": 2.47,
+      "arousal": 3.23,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "They always dyin' to mention me They gotta die out eventually I cannot give you the recipe You know the game is sold separately",
+      "valence": 2.63,
+      "arousal": 3.09,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "They gotta die out eventually I cannot give you the recipe You know the game is sold separately Swear I just had an epiphany",
+      "valence": 2.65,
+      "arousal": 3.25,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I cannot give you the recipe You know the game is sold separately Swear I just had an epiphany It cost me 50 at Tiffany's",
+      "valence": 3.01,
+      "arousal": 3.32,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "You know the game is sold separately Swear I just had an epiphany It cost me 50 at Tiffany's Shout out to Tiffany, Stephanie",
+      "valence": 3.32,
+      "arousal": 3.51,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Swear I just had an epiphany It cost me 50 at Tiffany's Shout out to Tiffany, Stephanie They used to always come check for me",
+      "valence": 3.37,
+      "arousal": 3.47,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "It cost me 50 at Tiffany's Shout out to Tiffany, Stephanie They used to always come check for me My enemies wanna be friends with my other enemies",
+      "valence": 3.04,
+      "arousal": 3.43,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Shout out to Tiffany, Stephanie They used to always come check for me My enemies wanna be friends with my other enemies I don't let it get to me",
+      "valence": 3.0,
+      "arousal": 3.43,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "They used to always come check for me My enemies wanna be friends with my other enemies I don't let it get to me Done",
+      "valence": 2.7,
+      "arousal": 3.48,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "My enemies wanna be friends with my other enemies I don't let it get to me Done Look what I've done in my life",
+      "valence": 2.47,
+      "arousal": 3.49,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I don't let it get to me Done Look what I've done in my life I had to count it and count it again",
+      "valence": 2.8,
+      "arousal": 3.31,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Done Look what I've done in my life I had to count it and count it again To make sure the money was right",
+      "valence": 3.02,
+      "arousal": 3.24,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Look what I've done in my life I had to count it and count it again To make sure the money was right They love to talk",
+      "valence": 3.21,
+      "arousal": 3.32,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I had to count it and count it again To make sure the money was right They love to talk Me, I'm just dunnin' the hype",
+      "valence": 3.02,
+      "arousal": 3.42,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "To make sure the money was right They love to talk Me, I'm just dunnin' the hype Me, I'm just dunnin' the hype",
+      "valence": 3.14,
+      "arousal": 3.51,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "They love to talk Me, I'm just dunnin' the hype Me, I'm just dunnin' the hype Me, I'm just done, done, done, done, done",
+      "valence": 2.73,
+      "arousal": 3.28,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Me, I'm just dunnin' the hype Me, I'm just dunnin' the hype Me, I'm just done, done, done, done, done I don't take this shit for granted, I do my own propaganda",
+      "valence": 2.49,
+      "arousal": 3.37,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Me, I'm just dunnin' the hype Me, I'm just done, done, done, done, done I don't take this shit for granted, I do my own propaganda I feel like Juelz Santana, leg hangin' out the Phantom",
+      "valence": 2.71,
+      "arousal": 3.35,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Me, I'm just done, done, done, done, done I don't take this shit for granted, I do my own propaganda I feel like Juelz Santana, leg hangin' out the Phantom 6 cold like Alaska, Views already a classic",
+      "valence": 2.96,
+      "arousal": 3.5,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I don't take this shit for granted, I do my own propaganda I feel like Juelz Santana, leg hangin' out the Phantom 6 cold like Alaska, Views already a classic Roy outta here like NASA, bustin' 1's out the plastic",
+      "valence": 2.67,
+      "arousal": 3.42,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I feel like Juelz Santana, leg hangin' out the Phantom 6 cold like Alaska, Views already a classic Roy outta here like NASA, bustin' 1's out the plastic Her gram too poppin' to fuck her",
+      "valence": 2.67,
+      "arousal": 3.37,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "6 cold like Alaska, Views already a classic Roy outta here like NASA, bustin' 1's out the plastic Her gram too poppin' to fuck her The chain too heavy to tuck it, I'm serious",
+      "valence": 2.42,
+      "arousal": 3.53,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Roy outta here like NASA, bustin' 1's out the plastic Her gram too poppin' to fuck her The chain too heavy to tuck it, I'm serious I feed my family with this",
+      "valence": 2.42,
+      "arousal": 3.69,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Her gram too poppin' to fuck her The chain too heavy to tuck it, I'm serious I feed my family with this So don't play with my money this summer, I'm serious",
+      "valence": 2.38,
+      "arousal": 3.78,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "The chain too heavy to tuck it, I'm serious I feed my family with this So don't play with my money this summer, I'm serious I don't run out of material",
+      "valence": 2.61,
+      "arousal": 3.66,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I feed my family with this So don't play with my money this summer, I'm serious I don't run out of material You shouldn't speak on me, period",
+      "valence": 2.45,
+      "arousal": 3.73,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "So don't play with my money this summer, I'm serious I don't run out of material You shouldn't speak on me, period You try to give 'em your side of the story",
+      "valence": 2.39,
+      "arousal": 3.67,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I don't run out of material You shouldn't speak on me, period You try to give 'em your side of the story They heard it, but they wasn't hearin' it",
+      "valence": 2.44,
+      "arousal": 3.36,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "You shouldn't speak on me, period You try to give 'em your side of the story They heard it, but they wasn't hearin' it They feelin' a way and won't hide it",
+      "valence": 2.46,
+      "arousal": 3.22,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "You try to give 'em your side of the story They heard it, but they wasn't hearin' it They feelin' a way and won't hide it Niggas done bein' silent",
+      "valence": 2.71,
+      "arousal": 3.08,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "They heard it, but they wasn't hearin' it They feelin' a way and won't hide it Niggas done bein' silent Don't get along, man, we tried it",
+      "valence": 2.4,
+      "arousal": 3.3,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "They feelin' a way and won't hide it Niggas done bein' silent Don't get along, man, we tried it What's the point of even tryin'?",
+      "valence": 2.47,
+      "arousal": 3.31,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Niggas done bein' silent Don't get along, man, we tried it What's the point of even tryin'? I hate a goofy especially",
+      "valence": 2.43,
+      "arousal": 3.46,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Don't get along, man, we tried it What's the point of even tryin'? I hate a goofy especially They always dyin' to mention me",
+      "valence": 2.45,
+      "arousal": 3.37,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "What's the point of even tryin'? I hate a goofy especially They always dyin' to mention me They gotta go, they gotta go",
+      "valence": 2.54,
+      "arousal": 3.37,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "I hate a goofy especially They always dyin' to mention me They gotta go, they gotta go They gonna die out eventually",
+      "valence": 2.36,
+      "arousal": 3.19,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "They always dyin' to mention me They gotta go, they gotta go They gonna die out eventually I cannot give 'em no empathy",
+      "valence": 2.47,
+      "arousal": 3.19,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "They gotta go, they gotta go They gonna die out eventually I cannot give 'em no empathy I'ma have B's when I'm 70",
+      "valence": 2.44,
+      "arousal": 3.24,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "They gonna die out eventually I cannot give 'em no empathy I'ma have B's when I'm 70 They cannot fuck with the legacy",
+      "valence": 2.37,
+      "arousal": 3.39,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "I cannot give 'em no empathy I'ma have B's when I'm 70 They cannot fuck with the legacy I don't know what else is left for me",
+      "valence": 2.24,
+      "arousal": 3.59,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "I'ma have B's when I'm 70 They cannot fuck with the legacy I don't know what else is left for me After this no one a threat to me",
+      "valence": 2.44,
+      "arousal": 3.51,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "They cannot fuck with the legacy I don't know what else is left for me After this no one a threat to me My enemies wanna be friends with my other enemies",
+      "valence": 2.33,
+      "arousal": 3.64,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "I don't know what else is left for me After this no one a threat to me My enemies wanna be friends with my other enemies I don't let it get to me",
+      "valence": 2.44,
+      "arousal": 3.52,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "After this no one a threat to me My enemies wanna be friends with my other enemies I don't let it get to me Done",
+      "valence": 2.61,
+      "arousal": 3.47,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "My enemies wanna be friends with my other enemies I don't let it get to me Done Look what I've done in my life",
+      "valence": 2.47,
+      "arousal": 3.49,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "I don't let it get to me Done Look what I've done in my life I had to count it and count it again",
+      "valence": 2.8,
+      "arousal": 3.31,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Done Look what I've done in my life I had to count it and count it again To make sure the money was right",
+      "valence": 3.02,
+      "arousal": 3.24,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Look what I've done in my life I had to count it and count it again To make sure the money was right They love to talk",
+      "valence": 3.21,
+      "arousal": 3.32,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "I had to count it and count it again To make sure the money was right They love to talk Me, I'm just done in the hype",
+      "valence": 2.93,
+      "arousal": 3.29,
+      "dominance": 2.77
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "To make sure the money was right They love to talk Me, I'm just done in the hype Me, I'm just done in the hype",
+      "valence": 3.03,
+      "arousal": 3.26,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "They love to talk Me, I'm just done in the hype Me, I'm just done in the hype Me, I'm just done, done, done, done, done",
+      "valence": 2.99,
+      "arousal": 3.28,
+      "dominance": 3.32
+    }
+  ]
+}

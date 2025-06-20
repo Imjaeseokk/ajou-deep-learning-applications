@@ -1,0 +1,479 @@
+{
+  "artist": "Justin Timberlake",
+  "overall_vad": {
+    "valence": 3.16,
+    "arousal": 3.56,
+    "dominance": 3.23
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Ah, yeah, ah, yeah I got this feelin' inside my bones It goes electric, wavy when I turn it on All through my city, all through my home",
+      "valence": 3.13,
+      "arousal": 3.47,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I got this feelin' inside my bones It goes electric, wavy when I turn it on All through my city, all through my home We're flyin' up, no ceilin', when we in our zone",
+      "valence": 3.0,
+      "arousal": 3.35,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "It goes electric, wavy when I turn it on All through my city, all through my home We're flyin' up, no ceilin', when we in our zone I got that sunshine in my pocket",
+      "valence": 3.36,
+      "arousal": 3.22,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "All through my city, all through my home We're flyin' up, no ceilin', when we in our zone I got that sunshine in my pocket Got that good soul in my feet",
+      "valence": 3.49,
+      "arousal": 3.14,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "We're flyin' up, no ceilin', when we in our zone I got that sunshine in my pocket Got that good soul in my feet I feel that hot blood in my body when it drops (ooh)",
+      "valence": 3.22,
+      "arousal": 3.42,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I got that sunshine in my pocket Got that good soul in my feet I feel that hot blood in my body when it drops (ooh) I can't take my eyes up off it, movin' so phenomenally",
+      "valence": 3.46,
+      "arousal": 3.55,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Got that good soul in my feet I feel that hot blood in my body when it drops (ooh) I can't take my eyes up off it, movin' so phenomenally Room on lock, the way we rock it, so don't stop",
+      "valence": 3.21,
+      "arousal": 3.72,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I feel that hot blood in my body when it drops (ooh) I can't take my eyes up off it, movin' so phenomenally Room on lock, the way we rock it, so don't stop And under the lights when everything goes",
+      "valence": 2.95,
+      "arousal": 3.7,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I can't take my eyes up off it, movin' so phenomenally Room on lock, the way we rock it, so don't stop And under the lights when everything goes Nowhere to hide when I'm gettin' you close",
+      "valence": 2.91,
+      "arousal": 3.41,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Room on lock, the way we rock it, so don't stop And under the lights when everything goes Nowhere to hide when I'm gettin' you close When we move, well, you already know",
+      "valence": 2.9,
+      "arousal": 3.23,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "And under the lights when everything goes Nowhere to hide when I'm gettin' you close When we move, well, you already know So just imagine, just imagine, just imagine",
+      "valence": 2.94,
+      "arousal": 3.34,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Nowhere to hide when I'm gettin' you close When we move, well, you already know So just imagine, just imagine, just imagine Nothin' I can see but you when you dance, dance, dance",
+      "valence": 3.34,
+      "arousal": 3.52,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "When we move, well, you already know So just imagine, just imagine, just imagine Nothin' I can see but you when you dance, dance, dance Feel a good, good creepin' up on you",
+      "valence": 3.55,
+      "arousal": 3.53,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "So just imagine, just imagine, just imagine Nothin' I can see but you when you dance, dance, dance Feel a good, good creepin' up on you So just dance, dance, dance, come on",
+      "valence": 3.47,
+      "arousal": 3.56,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Nothin' I can see but you when you dance, dance, dance Feel a good, good creepin' up on you So just dance, dance, dance, come on All those things I shouldn't do",
+      "valence": 3.43,
+      "arousal": 3.57,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Feel a good, good creepin' up on you So just dance, dance, dance, come on All those things I shouldn't do But you dance, dance, dance",
+      "valence": 3.51,
+      "arousal": 3.55,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "So just dance, dance, dance, come on All those things I shouldn't do But you dance, dance, dance And ain't nobody leavin' soon, so keep dancin'",
+      "valence": 3.16,
+      "arousal": 3.39,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "All those things I shouldn't do But you dance, dance, dance And ain't nobody leavin' soon, so keep dancin' I can't stop the feelin'",
+      "valence": 2.95,
+      "arousal": 3.41,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "But you dance, dance, dance And ain't nobody leavin' soon, so keep dancin' I can't stop the feelin' So just dance, dance, dance",
+      "valence": 3.06,
+      "arousal": 3.49,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "And ain't nobody leavin' soon, so keep dancin' I can't stop the feelin' So just dance, dance, dance I can't stop the feelin'",
+      "valence": 2.95,
+      "arousal": 3.53,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I can't stop the feelin' So just dance, dance, dance I can't stop the feelin' So just dance, dance, dance, come on",
+      "valence": 3.17,
+      "arousal": 3.65,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "So just dance, dance, dance I can't stop the feelin' So just dance, dance, dance, come on Ooh, it's something magical",
+      "valence": 3.8,
+      "arousal": 3.88,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I can't stop the feelin' So just dance, dance, dance, come on Ooh, it's something magical It's in the air, it's in my blood, it's rushin' on (rushin' on)",
+      "valence": 3.66,
+      "arousal": 4.06,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "So just dance, dance, dance, come on Ooh, it's something magical It's in the air, it's in my blood, it's rushin' on (rushin' on) I don't need no reason, don't need control (need control)",
+      "valence": 3.38,
+      "arousal": 3.86,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Ooh, it's something magical It's in the air, it's in my blood, it's rushin' on (rushin' on) I don't need no reason, don't need control (need control) I fly so high, no ceiling, when I'm in my zone",
+      "valence": 3.16,
+      "arousal": 3.71,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "It's in the air, it's in my blood, it's rushin' on (rushin' on) I don't need no reason, don't need control (need control) I fly so high, no ceiling, when I'm in my zone 'Cause I got that sunshine in my pocket",
+      "valence": 3.12,
+      "arousal": 3.52,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I don't need no reason, don't need control (need control) I fly so high, no ceiling, when I'm in my zone 'Cause I got that sunshine in my pocket Got that good soul in my feet",
+      "valence": 3.26,
+      "arousal": 3.28,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I fly so high, no ceiling, when I'm in my zone 'Cause I got that sunshine in my pocket Got that good soul in my feet I feel that hot blood in my body when it drops (ooh)",
+      "valence": 3.31,
+      "arousal": 3.5,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "'Cause I got that sunshine in my pocket Got that good soul in my feet I feel that hot blood in my body when it drops (ooh) I can't take my eyes up off it, moving so phenomenally",
+      "valence": 3.42,
+      "arousal": 3.56,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Got that good soul in my feet I feel that hot blood in my body when it drops (ooh) I can't take my eyes up off it, moving so phenomenally Room on lock, the way we rock it, so don't stop (stop, stop, stop)",
+      "valence": 3.08,
+      "arousal": 3.7,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I feel that hot blood in my body when it drops (ooh) I can't take my eyes up off it, moving so phenomenally Room on lock, the way we rock it, so don't stop (stop, stop, stop) Under the lights when everything goes",
+      "valence": 2.85,
+      "arousal": 3.66,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I can't take my eyes up off it, moving so phenomenally Room on lock, the way we rock it, so don't stop (stop, stop, stop) Under the lights when everything goes Nowhere to hide when I'm gettin' you close",
+      "valence": 2.93,
+      "arousal": 3.48,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Room on lock, the way we rock it, so don't stop (stop, stop, stop) Under the lights when everything goes Nowhere to hide when I'm gettin' you close When we move, well, you already know",
+      "valence": 2.9,
+      "arousal": 3.23,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Under the lights when everything goes Nowhere to hide when I'm gettin' you close When we move, well, you already know So just imagine, just imagine, just imagine",
+      "valence": 2.98,
+      "arousal": 3.36,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Nowhere to hide when I'm gettin' you close When we move, well, you already know So just imagine, just imagine, just imagine Nothing I can see but you when you dance, dance, dance",
+      "valence": 3.3,
+      "arousal": 3.52,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "When we move, well, you already know So just imagine, just imagine, just imagine Nothing I can see but you when you dance, dance, dance Feel a good, good, creepin' up on you",
+      "valence": 3.51,
+      "arousal": 3.58,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "So just imagine, just imagine, just imagine Nothing I can see but you when you dance, dance, dance Feel a good, good, creepin' up on you So just dance, dance, dance, come on",
+      "valence": 3.49,
+      "arousal": 3.61,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Nothing I can see but you when you dance, dance, dance Feel a good, good, creepin' up on you So just dance, dance, dance, come on All those things I shouldn't do",
+      "valence": 3.45,
+      "arousal": 3.58,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Feel a good, good, creepin' up on you So just dance, dance, dance, come on All those things I shouldn't do But you dance, dance, dance",
+      "valence": 3.53,
+      "arousal": 3.53,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "So just dance, dance, dance, come on All those things I shouldn't do But you dance, dance, dance And ain't nobody leavin' soon, so keep dancin'",
+      "valence": 3.16,
+      "arousal": 3.39,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "All those things I shouldn't do But you dance, dance, dance And ain't nobody leavin' soon, so keep dancin' I can't stop the feelin'",
+      "valence": 2.95,
+      "arousal": 3.41,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "But you dance, dance, dance And ain't nobody leavin' soon, so keep dancin' I can't stop the feelin' So just dance, dance, dance",
+      "valence": 3.06,
+      "arousal": 3.49,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "And ain't nobody leavin' soon, so keep dancin' I can't stop the feelin' So just dance, dance, dance I can't stop the feelin'",
+      "valence": 2.95,
+      "arousal": 3.53,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I can't stop the feelin' So just dance, dance, dance I can't stop the feelin' So just dance, dance, dance",
+      "valence": 3.16,
+      "arousal": 3.61,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "So just dance, dance, dance I can't stop the feelin' So just dance, dance, dance I can't stop the feelin'",
+      "valence": 3.17,
+      "arousal": 3.59,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I can't stop the feelin' So just dance, dance, dance I can't stop the feelin' So just dance, dance, dance",
+      "valence": 3.16,
+      "arousal": 3.61,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "So just dance, dance, dance I can't stop the feelin' So just dance, dance, dance I can't stop the feelin' (yeah)",
+      "valence": 3.22,
+      "arousal": 3.6,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I can't stop the feelin' So just dance, dance, dance I can't stop the feelin' (yeah) So keep dancin', come on",
+      "valence": 3.2,
+      "arousal": 3.62,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "So just dance, dance, dance I can't stop the feelin' (yeah) So keep dancin', come on Oh, yeah, yeah",
+      "valence": 3.39,
+      "arousal": 3.7,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I can't stop the feelin' (yeah) So keep dancin', come on Oh, yeah, yeah I can't stop the, I can't stop the",
+      "valence": 2.53,
+      "arousal": 3.54,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "So keep dancin', come on Oh, yeah, yeah I can't stop the, I can't stop the I can't stop the, I can't stop the",
+      "valence": 2.39,
+      "arousal": 3.62,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Oh, yeah, yeah I can't stop the, I can't stop the I can't stop the, I can't stop the I can't stop the feelin'",
+      "valence": 2.48,
+      "arousal": 3.83,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "I can't stop the, I can't stop the I can't stop the, I can't stop the I can't stop the feelin' Nothin' I can see but you when you dance, dance, dance (I can't stop the feelin')",
+      "valence": 2.73,
+      "arousal": 3.77,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "I can't stop the, I can't stop the I can't stop the feelin' Nothin' I can see but you when you dance, dance, dance (I can't stop the feelin') Feel the good, good, creepin' up on you",
+      "valence": 3.41,
+      "arousal": 3.83,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "I can't stop the feelin' Nothin' I can see but you when you dance, dance, dance (I can't stop the feelin') Feel the good, good, creepin' up on you So just dance, dance, dance, come on (I can't stop the feelin')",
+      "valence": 3.4,
+      "arousal": 3.8,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Nothin' I can see but you when you dance, dance, dance (I can't stop the feelin') Feel the good, good, creepin' up on you So just dance, dance, dance, come on (I can't stop the feelin') All those things I shouldn't do",
+      "valence": 3.33,
+      "arousal": 3.68,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Feel the good, good, creepin' up on you So just dance, dance, dance, come on (I can't stop the feelin') All those things I shouldn't do But you dance, dance, dance (dance, dance, dance) (I can't stop the feelin')",
+      "valence": 3.33,
+      "arousal": 3.69,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "So just dance, dance, dance, come on (I can't stop the feelin') All those things I shouldn't do But you dance, dance, dance (dance, dance, dance) (I can't stop the feelin') And ain't nobody leavin' soon, so keep dancin'",
+      "valence": 3.04,
+      "arousal": 3.49,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "All those things I shouldn't do But you dance, dance, dance (dance, dance, dance) (I can't stop the feelin') And ain't nobody leavin' soon, so keep dancin' Everybody sing (I can't stop the feelin')",
+      "valence": 2.91,
+      "arousal": 3.49,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "But you dance, dance, dance (dance, dance, dance) (I can't stop the feelin') And ain't nobody leavin' soon, so keep dancin' Everybody sing (I can't stop the feelin') Got this feeling in my body (I can't stop the feelin')",
+      "valence": 3.2,
+      "arousal": 3.66,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "And ain't nobody leavin' soon, so keep dancin' Everybody sing (I can't stop the feelin') Got this feeling in my body (I can't stop the feelin') Got this feeling in my body (I can't stop the feelin')",
+      "valence": 2.99,
+      "arousal": 3.59,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Everybody sing (I can't stop the feelin') Got this feeling in my body (I can't stop the feelin') Got this feeling in my body (I can't stop the feelin') Wanna see you move your body (I can't stop the feelin')",
+      "valence": 3.05,
+      "arousal": 3.65,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Got this feeling in my body (I can't stop the feelin') Got this feeling in my body (I can't stop the feelin') Wanna see you move your body (I can't stop the feelin') Got this feelin' in my body",
+      "valence": 3.08,
+      "arousal": 3.62,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Got this feeling in my body (I can't stop the feelin') Wanna see you move your body (I can't stop the feelin') Got this feelin' in my body Break it down",
+      "valence": 3.02,
+      "arousal": 3.63,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Wanna see you move your body (I can't stop the feelin') Got this feelin' in my body Break it down Got this feelin' in my body (ah)",
+      "valence": 3.17,
+      "arousal": 3.59,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Got this feelin' in my body Break it down Got this feelin' in my body (ah) Can't stop the feelin'",
+      "valence": 2.81,
+      "arousal": 3.61,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Break it down Got this feelin' in my body (ah) Can't stop the feelin' Got this feelin' in my body, come on (ooh)",
+      "valence": 2.86,
+      "arousal": 3.53,
+      "dominance": 3.24
+    }
+  ]
+}

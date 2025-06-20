@@ -1,0 +1,255 @@
+{
+  "artist": "Easton Corbin",
+  "overall_vad": {
+    "valence": 2.79,
+    "arousal": 3.48,
+    "dominance": 2.97
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "No sir I ain't been drinking I ain't even had one beer This sweet thing's got me buzzing From whispering in my ear",
+      "valence": 2.81,
+      "arousal": 3.58,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I ain't even had one beer This sweet thing's got me buzzing From whispering in my ear Just take a peek up in here",
+      "valence": 3.24,
+      "arousal": 3.69,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "This sweet thing's got me buzzing From whispering in my ear Just take a peek up in here At this little hot mess",
+      "valence": 3.36,
+      "arousal": 3.69,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "From whispering in my ear Just take a peek up in here At this little hot mess Mister, you'll understand",
+      "valence": 2.97,
+      "arousal": 3.34,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Just take a peek up in here At this little hot mess Mister, you'll understand I'm doing my best",
+      "valence": 2.9,
+      "arousal": 3.18,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "At this little hot mess Mister, you'll understand I'm doing my best And I know I'm all over the road",
+      "valence": 2.79,
+      "arousal": 3.11,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Mister, you'll understand I'm doing my best And I know I'm all over the road I can't help but go",
+      "valence": 3.13,
+      "arousal": 3.0,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I'm doing my best And I know I'm all over the road I can't help but go A little bit of left, a little bit of right",
+      "valence": 3.16,
+      "arousal": 3.23,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "And I know I'm all over the road I can't help but go A little bit of left, a little bit of right It's hard to drive with her hand over here on my knee",
+      "valence": 2.68,
+      "arousal": 3.51,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I can't help but go A little bit of left, a little bit of right It's hard to drive with her hand over here on my knee When she's all over me, I'm all outta control",
+      "valence": 2.62,
+      "arousal": 3.7,
+      "dominance": 2.75
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "A little bit of left, a little bit of right It's hard to drive with her hand over here on my knee When she's all over me, I'm all outta control All over the road",
+      "valence": 2.69,
+      "arousal": 3.63,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "It's hard to drive with her hand over here on my knee When she's all over me, I'm all outta control All over the road Don't wanna get no ticket",
+      "valence": 2.57,
+      "arousal": 3.75,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "When she's all over me, I'm all outta control All over the road Don't wanna get no ticket Don't wanna cause no wreck",
+      "valence": 2.54,
+      "arousal": 3.6,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "All over the road Don't wanna get no ticket Don't wanna cause no wreck It's hard to concentrate with her pretty little lips on my neck",
+      "valence": 2.61,
+      "arousal": 3.55,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Don't wanna get no ticket Don't wanna cause no wreck It's hard to concentrate with her pretty little lips on my neck I say \"girl take it easy\"",
+      "valence": 2.76,
+      "arousal": 3.41,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Don't wanna cause no wreck It's hard to concentrate with her pretty little lips on my neck I say \"girl take it easy\" She laughs, says \"it'll be fine\"",
+      "valence": 2.87,
+      "arousal": 3.41,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "It's hard to concentrate with her pretty little lips on my neck I say \"girl take it easy\" She laughs, says \"it'll be fine\" How am I supposed to keep it between the lines",
+      "valence": 3.01,
+      "arousal": 3.54,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I say \"girl take it easy\" She laughs, says \"it'll be fine\" How am I supposed to keep it between the lines Yeah I know I'm all over the road",
+      "valence": 3.13,
+      "arousal": 3.17,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "She laughs, says \"it'll be fine\" How am I supposed to keep it between the lines Yeah I know I'm all over the road I can't help but go",
+      "valence": 3.1,
+      "arousal": 3.27,
+      "dominance": 2.66
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "How am I supposed to keep it between the lines Yeah I know I'm all over the road I can't help but go A little bit of left, a little bit of right",
+      "valence": 2.85,
+      "arousal": 3.26,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Yeah I know I'm all over the road I can't help but go A little bit of left, a little bit of right It's hard to drive with her hand over here on my knee",
+      "valence": 2.72,
+      "arousal": 3.52,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I can't help but go A little bit of left, a little bit of right It's hard to drive with her hand over here on my knee When she's all over me, I'm all outta control",
+      "valence": 2.62,
+      "arousal": 3.7,
+      "dominance": 2.75
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "A little bit of left, a little bit of right It's hard to drive with her hand over here on my knee When she's all over me, I'm all outta control And all over the road",
+      "valence": 2.69,
+      "arousal": 3.6,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "It's hard to drive with her hand over here on my knee When she's all over me, I'm all outta control And all over the road Something 'bout these wheels rolling",
+      "valence": 2.7,
+      "arousal": 3.72,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "When she's all over me, I'm all outta control And all over the road Something 'bout these wheels rolling Radio playing gets her going",
+      "valence": 2.93,
+      "arousal": 3.61,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "And all over the road Something 'bout these wheels rolling Radio playing gets her going I'm trying to get her home as fast as I can go",
+      "valence": 3.14,
+      "arousal": 3.55,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Something 'bout these wheels rolling Radio playing gets her going I'm trying to get her home as fast as I can go And I know I'm all over the road",
+      "valence": 2.96,
+      "arousal": 3.55,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Radio playing gets her going I'm trying to get her home as fast as I can go And I know I'm all over the road I can't help but go",
+      "valence": 2.93,
+      "arousal": 3.7,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I'm trying to get her home as fast as I can go And I know I'm all over the road I can't help but go A little bit of left, a little bit of right",
+      "valence": 2.69,
+      "arousal": 3.59,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "And I know I'm all over the road I can't help but go A little bit of left, a little bit of right It's hard to drive with her hand over here on my knee",
+      "valence": 2.68,
+      "arousal": 3.51,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I can't help but go A little bit of left, a little bit of right It's hard to drive with her hand over here on my knee Have a little mercy on me",
+      "valence": 2.58,
+      "arousal": 3.52,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "A little bit of left, a little bit of right It's hard to drive with her hand over here on my knee Have a little mercy on me Sir I'm sorry I know",
+      "valence": 2.45,
+      "arousal": 3.41,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "It's hard to drive with her hand over here on my knee Have a little mercy on me Sir I'm sorry I know I'm all over the road",
+      "valence": 2.42,
+      "arousal": 3.46,
+      "dominance": 2.67
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Have a little mercy on me Sir I'm sorry I know I'm all over the road All over the road",
+      "valence": 2.3,
+      "arousal": 3.26,
+      "dominance": 2.6
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Sir I'm sorry I know I'm all over the road All over the road All over the road",
+      "valence": 2.25,
+      "arousal": 3.37,
+      "dominance": 2.69
+    }
+  ]
+}

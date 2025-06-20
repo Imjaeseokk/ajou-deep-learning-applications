@@ -1,0 +1,388 @@
+{
+  "artist": "Karmin",
+  "overall_vad": {
+    "valence": 2.83,
+    "arousal": 3.64,
+    "dominance": 3.21
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Oh, yeah Uh, c'mon, yeah This is more than the typical kinda thing Felt a jones in my bones when you were touching me",
+      "valence": 3.03,
+      "arousal": 3.7,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Uh, c'mon, yeah This is more than the typical kinda thing Felt a jones in my bones when you were touching me Uh-oh, didn't wanna take it slow",
+      "valence": 2.88,
+      "arousal": 3.57,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "This is more than the typical kinda thing Felt a jones in my bones when you were touching me Uh-oh, didn't wanna take it slow In a daze, goin' craze, I can barely think",
+      "valence": 2.66,
+      "arousal": 3.66,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Felt a jones in my bones when you were touching me Uh-oh, didn't wanna take it slow In a daze, goin' craze, I can barely think You're replayin' in my brain, find it hard to sleep",
+      "valence": 2.67,
+      "arousal": 3.63,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Uh-oh, didn't wanna take it slow In a daze, goin' craze, I can barely think You're replayin' in my brain, find it hard to sleep Uh-oh, waitin' for my phone to blow",
+      "valence": 2.41,
+      "arousal": 3.51,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "In a daze, goin' craze, I can barely think You're replayin' in my brain, find it hard to sleep Uh-oh, waitin' for my phone to blow Uh-oh, yup",
+      "valence": 2.39,
+      "arousal": 3.55,
+      "dominance": 2.75
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "You're replayin' in my brain, find it hard to sleep Uh-oh, waitin' for my phone to blow Uh-oh, yup Now I'm here in a sticky situation",
+      "valence": 2.41,
+      "arousal": 3.68,
+      "dominance": 2.71
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Uh-oh, waitin' for my phone to blow Uh-oh, yup Now I'm here in a sticky situation Got a bit of trouble, yup, and now I'm pacin'",
+      "valence": 2.48,
+      "arousal": 3.48,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Uh-oh, yup Now I'm here in a sticky situation Got a bit of trouble, yup, and now I'm pacin' Five minutes, ten minutes, now it's been an hour",
+      "valence": 2.57,
+      "arousal": 3.28,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Now I'm here in a sticky situation Got a bit of trouble, yup, and now I'm pacin' Five minutes, ten minutes, now it's been an hour I don't wanna think too hard, but I'm sour",
+      "valence": 2.35,
+      "arousal": 3.25,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Got a bit of trouble, yup, and now I'm pacin' Five minutes, ten minutes, now it's been an hour I don't wanna think too hard, but I'm sour Uh-oh, I can't seem to let you go",
+      "valence": 2.33,
+      "arousal": 3.27,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Five minutes, ten minutes, now it's been an hour I don't wanna think too hard, but I'm sour Uh-oh, I can't seem to let you go See, I've been waitin' all day for you to call me, baby",
+      "valence": 2.42,
+      "arousal": 3.57,
+      "dominance": 2.75
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I don't wanna think too hard, but I'm sour Uh-oh, I can't seem to let you go See, I've been waitin' all day for you to call me, baby So let's get up, let's get on it",
+      "valence": 2.49,
+      "arousal": 3.61,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Uh-oh, I can't seem to let you go See, I've been waitin' all day for you to call me, baby So let's get up, let's get on it Don't you leave me brokenhearted tonight",
+      "valence": 2.56,
+      "arousal": 3.69,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "See, I've been waitin' all day for you to call me, baby So let's get up, let's get on it Don't you leave me brokenhearted tonight Come on, that's right",
+      "valence": 2.92,
+      "arousal": 3.61,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "So let's get up, let's get on it Don't you leave me brokenhearted tonight Come on, that's right Honest, baby, I'll do anything you want to",
+      "valence": 2.83,
+      "arousal": 3.59,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Don't you leave me brokenhearted tonight Come on, that's right Honest, baby, I'll do anything you want to So can we finish what we started?",
+      "valence": 2.71,
+      "arousal": 3.55,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Come on, that's right Honest, baby, I'll do anything you want to So can we finish what we started? Don't you leave me brokenhearted tonight",
+      "valence": 2.93,
+      "arousal": 3.56,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Honest, baby, I'll do anything you want to So can we finish what we started? Don't you leave me brokenhearted tonight Come on, that's right, cheerio!",
+      "valence": 3.1,
+      "arousal": 3.96,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "So can we finish what we started? Don't you leave me brokenhearted tonight Come on, that's right, cheerio! What's the time? Such a crime, not a single word",
+      "valence": 2.53,
+      "arousal": 3.86,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Don't you leave me brokenhearted tonight Come on, that's right, cheerio! What's the time? Such a crime, not a single word Sippin' on that PatrÃ³n, just to calm my nerves",
+      "valence": 2.78,
+      "arousal": 3.93,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Come on, that's right, cheerio! What's the time? Such a crime, not a single word Sippin' on that PatrÃ³n, just to calm my nerves Uh-oh, poppin' bottles by the phone, oh yeah",
+      "valence": 3.0,
+      "arousal": 3.88,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "What's the time? Such a crime, not a single word Sippin' on that PatrÃ³n, just to calm my nerves Uh-oh, poppin' bottles by the phone, oh yeah Had me up, had me down, turned me inside out",
+      "valence": 2.61,
+      "arousal": 3.54,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Sippin' on that PatrÃ³n, just to calm my nerves Uh-oh, poppin' bottles by the phone, oh yeah Had me up, had me down, turned me inside out That's enough, call me up, baby, I'm in doubt",
+      "valence": 2.81,
+      "arousal": 3.55,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Uh-oh, poppin' bottles by the phone, oh yeah Had me up, had me down, turned me inside out That's enough, call me up, baby, I'm in doubt Uh-oh, and I don't even think you know",
+      "valence": 2.57,
+      "arousal": 3.63,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Had me up, had me down, turned me inside out That's enough, call me up, baby, I'm in doubt Uh-oh, and I don't even think you know No, no, no",
+      "valence": 2.41,
+      "arousal": 3.78,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "That's enough, call me up, baby, I'm in doubt Uh-oh, and I don't even think you know No, no, no See, I've been waitin' all day for you to call me, baby",
+      "valence": 2.61,
+      "arousal": 3.72,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Uh-oh, and I don't even think you know No, no, no See, I've been waitin' all day for you to call me, baby So let's get up, let's get on it",
+      "valence": 2.78,
+      "arousal": 3.55,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "No, no, no See, I've been waitin' all day for you to call me, baby So let's get up, let's get on it Don't you leave me brokenhearted tonight",
+      "valence": 2.64,
+      "arousal": 3.68,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "See, I've been waitin' all day for you to call me, baby So let's get up, let's get on it Don't you leave me brokenhearted tonight Come on, that's right",
+      "valence": 2.92,
+      "arousal": 3.61,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "So let's get up, let's get on it Don't you leave me brokenhearted tonight Come on, that's right Honest, baby, I'll do anything you want to",
+      "valence": 2.83,
+      "arousal": 3.59,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Don't you leave me brokenhearted tonight Come on, that's right Honest, baby, I'll do anything you want to So can we finish what we started?",
+      "valence": 2.71,
+      "arousal": 3.55,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Come on, that's right Honest, baby, I'll do anything you want to So can we finish what we started? Don't you leave me brokenhearted tonight",
+      "valence": 2.93,
+      "arousal": 3.56,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Honest, baby, I'll do anything you want to So can we finish what we started? Don't you leave me brokenhearted tonight Come on, that's right, cheerio, ay",
+      "valence": 3.03,
+      "arousal": 3.62,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "So can we finish what we started? Don't you leave me brokenhearted tonight Come on, that's right, cheerio, ay Anything you wanna do, I'll be on it too",
+      "valence": 2.99,
+      "arousal": 3.57,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Don't you leave me brokenhearted tonight Come on, that's right, cheerio, ay Anything you wanna do, I'll be on it too Everything you said, is like gold with a view",
+      "valence": 3.12,
+      "arousal": 3.73,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Come on, that's right, cheerio, ay Anything you wanna do, I'll be on it too Everything you said, is like gold with a view Business in the front, party in the back",
+      "valence": 3.58,
+      "arousal": 3.84,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Anything you wanna do, I'll be on it too Everything you said, is like gold with a view Business in the front, party in the back Maybe I was wrong, was the outfit really wack?",
+      "valence": 3.08,
+      "arousal": 3.43,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Everything you said, is like gold with a view Business in the front, party in the back Maybe I was wrong, was the outfit really wack? This kinda thing doesn't happen usually",
+      "valence": 2.9,
+      "arousal": 3.28,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Business in the front, party in the back Maybe I was wrong, was the outfit really wack? This kinda thing doesn't happen usually I'm on the opposite side of it, truthfully",
+      "valence": 2.84,
+      "arousal": 3.24,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Maybe I was wrong, was the outfit really wack? This kinda thing doesn't happen usually I'm on the opposite side of it, truthfully I know you want it, so come and get it",
+      "valence": 2.84,
+      "arousal": 3.46,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "This kinda thing doesn't happen usually I'm on the opposite side of it, truthfully I know you want it, so come and get it Cheerio",
+      "valence": 3.32,
+      "arousal": 3.71,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I'm on the opposite side of it, truthfully I know you want it, so come and get it Cheerio See, I've been waitin' all day, for you to call me, baby (yeah, yeah, yeah)",
+      "valence": 3.45,
+      "arousal": 3.68,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I know you want it, so come and get it Cheerio See, I've been waitin' all day, for you to call me, baby (yeah, yeah, yeah) So let's get up, let's get on it",
+      "valence": 3.64,
+      "arousal": 3.79,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Cheerio See, I've been waitin' all day, for you to call me, baby (yeah, yeah, yeah) So let's get up, let's get on it Don't you leave me brokenhearted tonight (oh-oh-woah-oh, yeah)",
+      "valence": 3.47,
+      "arousal": 3.85,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "See, I've been waitin' all day, for you to call me, baby (yeah, yeah, yeah) So let's get up, let's get on it Don't you leave me brokenhearted tonight (oh-oh-woah-oh, yeah) Honest, baby, I'll do anything you want to (thing that you want)",
+      "valence": 3.17,
+      "arousal": 3.8,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "So let's get up, let's get on it Don't you leave me brokenhearted tonight (oh-oh-woah-oh, yeah) Honest, baby, I'll do anything you want to (thing that you want) So can we finish what we started?",
+      "valence": 2.92,
+      "arousal": 3.66,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Don't you leave me brokenhearted tonight (oh-oh-woah-oh, yeah) Honest, baby, I'll do anything you want to (thing that you want) So can we finish what we started? Don't you leave me brokenhearted tonight",
+      "valence": 2.52,
+      "arousal": 3.72,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Honest, baby, I'll do anything you want to (thing that you want) So can we finish what we started? Don't you leave me brokenhearted tonight Come on, that's right! Cheeri-cheerio, uh",
+      "valence": 3.23,
+      "arousal": 3.9,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "So can we finish what we started? Don't you leave me brokenhearted tonight Come on, that's right! Cheeri-cheerio, uh When you gonna call?",
+      "valence": 2.87,
+      "arousal": 3.83,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Don't you leave me brokenhearted tonight Come on, that's right! Cheeri-cheerio, uh When you gonna call? Don't leave me brokenhearted",
+      "valence": 2.78,
+      "arousal": 3.88,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Come on, that's right! Cheeri-cheerio, uh When you gonna call? Don't leave me brokenhearted I've been waiting up, let's finish what we started",
+      "valence": 3.38,
+      "arousal": 3.94,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "When you gonna call? Don't leave me brokenhearted I've been waiting up, let's finish what we started Oh oh, I can't seem to let you go",
+      "valence": 2.67,
+      "arousal": 3.67,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Don't leave me brokenhearted I've been waiting up, let's finish what we started Oh oh, I can't seem to let you go Come on, that's right, cheerio, uh",
+      "valence": 2.96,
+      "arousal": 3.6,
+      "dominance": 3.34
+    }
+  ]
+}

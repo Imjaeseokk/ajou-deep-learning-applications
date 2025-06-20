@@ -1,0 +1,325 @@
+{
+  "artist": "Dua Lipa",
+  "overall_vad": {
+    "valence": 2.5,
+    "arousal": 3.54,
+    "dominance": 3.36
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "If you don't wanna see me Did a full 180, crazy Thinking 'bout the way I was Did the heartbreak change me? Maybe",
+      "valence": 2.57,
+      "arousal": 3.41,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Did a full 180, crazy Thinking 'bout the way I was Did the heartbreak change me? Maybe But look at where I ended up",
+      "valence": 2.79,
+      "arousal": 3.33,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Thinking 'bout the way I was Did the heartbreak change me? Maybe But look at where I ended up I'm all good already",
+      "valence": 3.3,
+      "arousal": 3.36,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Did the heartbreak change me? Maybe But look at where I ended up I'm all good already So moved on, it's scary",
+      "valence": 3.14,
+      "arousal": 3.46,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "But look at where I ended up I'm all good already So moved on, it's scary I'm not where you left me at all, so",
+      "valence": 3.16,
+      "arousal": 3.52,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I'm all good already So moved on, it's scary I'm not where you left me at all, so If you don't wanna see me dancing with somebody",
+      "valence": 2.96,
+      "arousal": 3.5,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "So moved on, it's scary I'm not where you left me at all, so If you don't wanna see me dancing with somebody If you wanna believe that anything could stop me",
+      "valence": 2.44,
+      "arousal": 3.63,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I'm not where you left me at all, so If you don't wanna see me dancing with somebody If you wanna believe that anything could stop me Don't show up, don't come out",
+      "valence": 2.44,
+      "arousal": 3.55,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "If you don't wanna see me dancing with somebody If you wanna believe that anything could stop me Don't show up, don't come out Don't start caring about me now",
+      "valence": 2.36,
+      "arousal": 3.59,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "If you wanna believe that anything could stop me Don't show up, don't come out Don't start caring about me now Walk away, you know how",
+      "valence": 2.27,
+      "arousal": 3.59,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Don't show up, don't come out Don't start caring about me now Walk away, you know how Don't start caring about me now",
+      "valence": 2.25,
+      "arousal": 3.55,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Don't start caring about me now Walk away, you know how Don't start caring about me now Aren't you the guy who tried to",
+      "valence": 2.18,
+      "arousal": 3.62,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Walk away, you know how Don't start caring about me now Aren't you the guy who tried to Hurt me with the word \"goodbye\"?",
+      "valence": 2.1,
+      "arousal": 3.73,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Don't start caring about me now Aren't you the guy who tried to Hurt me with the word \"goodbye\"? Though it took some time to survive you",
+      "valence": 2.18,
+      "arousal": 3.69,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Aren't you the guy who tried to Hurt me with the word \"goodbye\"? Though it took some time to survive you I'm better on the other side",
+      "valence": 2.6,
+      "arousal": 3.58,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Hurt me with the word \"goodbye\"? Though it took some time to survive you I'm better on the other side I'm all good already",
+      "valence": 2.7,
+      "arousal": 3.78,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Though it took some time to survive you I'm better on the other side I'm all good already So moved on, it's scary",
+      "valence": 3.2,
+      "arousal": 3.55,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I'm better on the other side I'm all good already So moved on, it's scary I'm not where you left me at all, so",
+      "valence": 3.41,
+      "arousal": 3.52,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I'm all good already So moved on, it's scary I'm not where you left me at all, so If you don't wanna see me dancing with somebody",
+      "valence": 2.96,
+      "arousal": 3.5,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "So moved on, it's scary I'm not where you left me at all, so If you don't wanna see me dancing with somebody If you wanna believe that anything could stop me",
+      "valence": 2.44,
+      "arousal": 3.63,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I'm not where you left me at all, so If you don't wanna see me dancing with somebody If you wanna believe that anything could stop me Don't show up, don't come out",
+      "valence": 2.44,
+      "arousal": 3.55,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "If you don't wanna see me dancing with somebody If you wanna believe that anything could stop me Don't show up, don't come out Don't start caring about me now",
+      "valence": 2.36,
+      "arousal": 3.59,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "If you wanna believe that anything could stop me Don't show up, don't come out Don't start caring about me now Walk away, you know how",
+      "valence": 2.27,
+      "arousal": 3.59,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Don't show up, don't come out Don't start caring about me now Walk away, you know how Don't start caring about me now ('bout me now, 'bout me)",
+      "valence": 2.27,
+      "arousal": 3.52,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Don't start caring about me now Walk away, you know how Don't start caring about me now ('bout me now, 'bout me) Oh, oh",
+      "valence": 2.2,
+      "arousal": 3.59,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Walk away, you know how Don't start caring about me now ('bout me now, 'bout me) Oh, oh Don't come out, out, out",
+      "valence": 2.23,
+      "arousal": 3.48,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Don't start caring about me now ('bout me now, 'bout me) Oh, oh Don't come out, out, out Don't show up, up, up",
+      "valence": 2.28,
+      "arousal": 3.57,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Oh, oh Don't come out, out, out Don't show up, up, up Don't start now (oh)",
+      "valence": 2.38,
+      "arousal": 3.55,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Don't come out, out, out Don't show up, up, up Don't start now (oh) Oh, oh",
+      "valence": 2.4,
+      "arousal": 3.53,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Don't show up, up, up Don't start now (oh) Oh, oh Don't come out, out",
+      "valence": 2.46,
+      "arousal": 3.48,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Don't start now (oh) Oh, oh Don't come out, out I'm not where you left me at all, so",
+      "valence": 2.31,
+      "arousal": 3.68,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Oh, oh Don't come out, out I'm not where you left me at all, so If you don't wanna see me dancing with somebody",
+      "valence": 2.42,
+      "arousal": 3.57,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Don't come out, out I'm not where you left me at all, so If you don't wanna see me dancing with somebody If you wanna believe that anything could stop me",
+      "valence": 2.51,
+      "arousal": 3.42,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I'm not where you left me at all, so If you don't wanna see me dancing with somebody If you wanna believe that anything could stop me Don't show up (don't show up), don't come out (don't come out)",
+      "valence": 2.34,
+      "arousal": 3.65,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "If you don't wanna see me dancing with somebody If you wanna believe that anything could stop me Don't show up (don't show up), don't come out (don't come out) Don't start caring about me now ('bout me now)",
+      "valence": 2.29,
+      "arousal": 3.66,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "If you wanna believe that anything could stop me Don't show up (don't show up), don't come out (don't come out) Don't start caring about me now ('bout me now) Walk away (walk away), you know how (you know how)",
+      "valence": 2.16,
+      "arousal": 3.64,
+      "dominance": 3.77
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Don't show up (don't show up), don't come out (don't come out) Don't start caring about me now ('bout me now) Walk away (walk away), you know how (you know how) Don't start caring about me now (so)",
+      "valence": 2.3,
+      "arousal": 3.48,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Don't start caring about me now ('bout me now) Walk away (walk away), you know how (you know how) Don't start caring about me now (so) Oh, oh",
+      "valence": 2.26,
+      "arousal": 3.58,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Walk away (walk away), you know how (you know how) Don't start caring about me now (so) Oh, oh Don't come out, out, out",
+      "valence": 2.25,
+      "arousal": 3.54,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Don't start caring about me now (so) Oh, oh Don't come out, out, out Don't show up, up, up",
+      "valence": 2.26,
+      "arousal": 3.57,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Oh, oh Don't come out, out, out Don't show up, up, up Walk away, walk away (so)",
+      "valence": 2.46,
+      "arousal": 3.43,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Don't come out, out, out Don't show up, up, up Walk away, walk away (so) Oh, oh",
+      "valence": 2.51,
+      "arousal": 3.39,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Don't show up, up, up Walk away, walk away (so) Oh, oh Don't come out, out, out",
+      "valence": 2.49,
+      "arousal": 3.36,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Walk away, walk away (so) Oh, oh Don't come out, out, out Don't show up, up, up",
+      "valence": 2.49,
+      "arousal": 3.26,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Oh, oh Don't come out, out, out Don't show up, up, up Walk away, walk away, oh",
+      "valence": 2.47,
+      "arousal": 3.43,
+      "dominance": 3.22
+    }
+  ]
+}

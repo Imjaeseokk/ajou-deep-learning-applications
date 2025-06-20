@@ -1,0 +1,262 @@
+{
+  "artist": "Bruno Mars",
+  "overall_vad": {
+    "valence": 3.68,
+    "arousal": 3.6,
+    "dominance": 3.34
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Give me your, give me your, give me your attention, baby (attention, baby) I got to tell you a little something about yourself (self) You're wonderful, flawless, ooh, you a sexy lady (sexy lady) But you walk around here like you wanna be someone else (else)",
+      "valence": 3.54,
+      "arousal": 3.77,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I got to tell you a little something about yourself (self) You're wonderful, flawless, ooh, you a sexy lady (sexy lady) But you walk around here like you wanna be someone else (else) I know that you don't know it",
+      "valence": 3.6,
+      "arousal": 3.63,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "You're wonderful, flawless, ooh, you a sexy lady (sexy lady) But you walk around here like you wanna be someone else (else) I know that you don't know it But you're fine, so fine (fine, so fine)",
+      "valence": 3.62,
+      "arousal": 3.62,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "But you walk around here like you wanna be someone else (else) I know that you don't know it But you're fine, so fine (fine, so fine) (Oh, oh) oh, girl I'm gonna show you",
+      "valence": 3.25,
+      "arousal": 3.43,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I know that you don't know it But you're fine, so fine (fine, so fine) (Oh, oh) oh, girl I'm gonna show you When you're mine, oh, mine (mine, oh, mine)",
+      "valence": 3.45,
+      "arousal": 3.43,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "But you're fine, so fine (fine, so fine) (Oh, oh) oh, girl I'm gonna show you When you're mine, oh, mine (mine, oh, mine) Treasure, that is what you are",
+      "valence": 3.56,
+      "arousal": 3.47,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "(Oh, oh) oh, girl I'm gonna show you When you're mine, oh, mine (mine, oh, mine) Treasure, that is what you are Honey, you're my golden star",
+      "valence": 3.78,
+      "arousal": 3.76,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "When you're mine, oh, mine (mine, oh, mine) Treasure, that is what you are Honey, you're my golden star You know you can make my wish come true",
+      "valence": 3.89,
+      "arousal": 3.68,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Treasure, that is what you are Honey, you're my golden star You know you can make my wish come true If you let me treasure you",
+      "valence": 3.87,
+      "arousal": 3.64,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Honey, you're my golden star You know you can make my wish come true If you let me treasure you If you let me treasure you",
+      "valence": 3.9,
+      "arousal": 3.6,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "You know you can make my wish come true If you let me treasure you If you let me treasure you Oh, oh, oh",
+      "valence": 3.34,
+      "arousal": 3.42,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "If you let me treasure you If you let me treasure you Oh, oh, oh Pretty girl, pretty girl, pretty girl",
+      "valence": 3.35,
+      "arousal": 3.49,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "If you let me treasure you Oh, oh, oh Pretty girl, pretty girl, pretty girl You should be smiling (you should be smiling)",
+      "valence": 3.88,
+      "arousal": 3.64,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Oh, oh, oh Pretty girl, pretty girl, pretty girl You should be smiling (you should be smiling) A girl like you should never look so blue (blue)",
+      "valence": 3.78,
+      "arousal": 3.46,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Pretty girl, pretty girl, pretty girl You should be smiling (you should be smiling) A girl like you should never look so blue (blue) You're everything I see in my dreams",
+      "valence": 3.82,
+      "arousal": 3.61,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "You should be smiling (you should be smiling) A girl like you should never look so blue (blue) You're everything I see in my dreams I wouldn't say that to you if it wasn't true (true)",
+      "valence": 3.49,
+      "arousal": 3.5,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "A girl like you should never look so blue (blue) You're everything I see in my dreams I wouldn't say that to you if it wasn't true (true) I know that you don't know it",
+      "valence": 3.06,
+      "arousal": 3.47,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "You're everything I see in my dreams I wouldn't say that to you if it wasn't true (true) I know that you don't know it But you're fine, so fine (fine, so fine)",
+      "valence": 3.19,
+      "arousal": 3.3,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I wouldn't say that to you if it wasn't true (true) I know that you don't know it But you're fine, so fine (fine, so fine) (Oh, oh) oh girl I'm gonna show you",
+      "valence": 3.42,
+      "arousal": 3.49,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I know that you don't know it But you're fine, so fine (fine, so fine) (Oh, oh) oh girl I'm gonna show you When you're mine, oh mine (mine, oh mine)",
+      "valence": 3.51,
+      "arousal": 3.5,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "But you're fine, so fine (fine, so fine) (Oh, oh) oh girl I'm gonna show you When you're mine, oh mine (mine, oh mine) Treasure, that is what you are",
+      "valence": 3.58,
+      "arousal": 3.51,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "(Oh, oh) oh girl I'm gonna show you When you're mine, oh mine (mine, oh mine) Treasure, that is what you are Honey, you're my golden star",
+      "valence": 3.81,
+      "arousal": 3.77,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "When you're mine, oh mine (mine, oh mine) Treasure, that is what you are Honey, you're my golden star You know you can make my wish come true",
+      "valence": 3.88,
+      "arousal": 3.66,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Treasure, that is what you are Honey, you're my golden star You know you can make my wish come true If you let me treasure you",
+      "valence": 3.87,
+      "arousal": 3.64,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Honey, you're my golden star You know you can make my wish come true If you let me treasure you If you let me treasure",
+      "valence": 3.91,
+      "arousal": 3.59,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "You know you can make my wish come true If you let me treasure you If you let me treasure Oh, oh, oh",
+      "valence": 3.35,
+      "arousal": 3.4,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "If you let me treasure you If you let me treasure Oh, oh, oh You are my treasure, you are my treasure",
+      "valence": 3.53,
+      "arousal": 3.55,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "If you let me treasure Oh, oh, oh You are my treasure, you are my treasure You are my treasure, yeah, you, you, you, you are",
+      "valence": 3.68,
+      "arousal": 3.63,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Oh, oh, oh You are my treasure, you are my treasure You are my treasure, yeah, you, you, you, you are You are my treasure, you are my treasure",
+      "valence": 3.93,
+      "arousal": 3.88,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "You are my treasure, you are my treasure You are my treasure, yeah, you, you, you, you are You are my treasure, you are my treasure You are my treasure, yeah, you, you, you, you are",
+      "valence": 4.04,
+      "arousal": 3.79,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "You are my treasure, yeah, you, you, you, you are You are my treasure, you are my treasure You are my treasure, yeah, you, you, you, you are Treasure, that is what you are (you are my treasure)",
+      "valence": 3.96,
+      "arousal": 3.74,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "You are my treasure, you are my treasure You are my treasure, yeah, you, you, you, you are Treasure, that is what you are (you are my treasure) Honey, you're my golden star (you are my treasure)",
+      "valence": 4.05,
+      "arousal": 3.78,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "You are my treasure, yeah, you, you, you, you are Treasure, that is what you are (you are my treasure) Honey, you're my golden star (you are my treasure) You know you can make my wish come true (you are my treasure)",
+      "valence": 4.02,
+      "arousal": 3.77,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Treasure, that is what you are (you are my treasure) Honey, you're my golden star (you are my treasure) You know you can make my wish come true (you are my treasure) If you let me treasure you (you are my treasure)",
+      "valence": 4.01,
+      "arousal": 3.69,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Honey, you're my golden star (you are my treasure) You know you can make my wish come true (you are my treasure) If you let me treasure you (you are my treasure) If you let me treasure you (you are my treasure)",
+      "valence": 4.0,
+      "arousal": 3.64,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "You know you can make my wish come true (you are my treasure) If you let me treasure you (you are my treasure) If you let me treasure you (you are my treasure) Oh, oh, oh",
+      "valence": 3.7,
+      "arousal": 3.51,
+      "dominance": 3.42
+    }
+  ]
+}

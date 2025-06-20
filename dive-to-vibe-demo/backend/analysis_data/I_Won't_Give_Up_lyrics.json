@@ -1,0 +1,290 @@
+{
+  "artist": "Jason Mraz",
+  "overall_vad": {
+    "valence": 3.48,
+    "arousal": 3.48,
+    "dominance": 3.31
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "When I look into your eyes It's like watching the night sky Or a beautiful sunrise Well there's so much they hold",
+      "valence": 3.5,
+      "arousal": 3.37,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "It's like watching the night sky Or a beautiful sunrise Well there's so much they hold And just like them old stars",
+      "valence": 3.48,
+      "arousal": 3.21,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Or a beautiful sunrise Well there's so much they hold And just like them old stars I see that you've come so far",
+      "valence": 3.66,
+      "arousal": 3.23,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Well there's so much they hold And just like them old stars I see that you've come so far To be right where you are",
+      "valence": 3.45,
+      "arousal": 3.05,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "And just like them old stars I see that you've come so far To be right where you are How old is your soul?",
+      "valence": 3.29,
+      "arousal": 3.08,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I see that you've come so far To be right where you are How old is your soul? Well, I won't give up on us",
+      "valence": 3.23,
+      "arousal": 3.06,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "To be right where you are How old is your soul? Well, I won't give up on us Even if the skies get rough",
+      "valence": 3.12,
+      "arousal": 3.15,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "How old is your soul? Well, I won't give up on us Even if the skies get rough I'm giving you all my love",
+      "valence": 3.6,
+      "arousal": 3.71,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Well, I won't give up on us Even if the skies get rough I'm giving you all my love I'm still looking up",
+      "valence": 3.9,
+      "arousal": 3.8,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Even if the skies get rough I'm giving you all my love I'm still looking up And when you're needing your space",
+      "valence": 3.82,
+      "arousal": 3.73,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I'm giving you all my love I'm still looking up And when you're needing your space To do some navigating",
+      "valence": 4.03,
+      "arousal": 3.69,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I'm still looking up And when you're needing your space To do some navigating I'll be here patiently waiting",
+      "valence": 3.31,
+      "arousal": 3.25,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "And when you're needing your space To do some navigating I'll be here patiently waiting To see what you find",
+      "valence": 3.32,
+      "arousal": 3.27,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "To do some navigating I'll be here patiently waiting To see what you find 'Cause even the stars they burn",
+      "valence": 3.23,
+      "arousal": 3.27,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I'll be here patiently waiting To see what you find 'Cause even the stars they burn Some even fall to the earth",
+      "valence": 3.18,
+      "arousal": 3.4,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "To see what you find 'Cause even the stars they burn Some even fall to the earth We've got a lot to learn",
+      "valence": 3.03,
+      "arousal": 3.15,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "'Cause even the stars they burn Some even fall to the earth We've got a lot to learn God knows we're worth it",
+      "valence": 3.4,
+      "arousal": 3.44,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Some even fall to the earth We've got a lot to learn God knows we're worth it No, I won't give up",
+      "valence": 3.22,
+      "arousal": 3.47,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "We've got a lot to learn God knows we're worth it No, I won't give up I don't wanna be someone who walks away so easily",
+      "valence": 3.25,
+      "arousal": 3.6,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "God knows we're worth it No, I won't give up I don't wanna be someone who walks away so easily I'm here to stay and make the difference that I can make",
+      "valence": 3.46,
+      "arousal": 3.61,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "No, I won't give up I don't wanna be someone who walks away so easily I'm here to stay and make the difference that I can make Our differences they do a lot to teach us how to use the tools and gifts",
+      "valence": 3.36,
+      "arousal": 3.42,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I don't wanna be someone who walks away so easily I'm here to stay and make the difference that I can make Our differences they do a lot to teach us how to use the tools and gifts We got yeah we got a lot at stake",
+      "valence": 3.15,
+      "arousal": 3.38,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I'm here to stay and make the difference that I can make Our differences they do a lot to teach us how to use the tools and gifts We got yeah we got a lot at stake And in the end you're still my friend at least we did intend",
+      "valence": 3.53,
+      "arousal": 3.39,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Our differences they do a lot to teach us how to use the tools and gifts We got yeah we got a lot at stake And in the end you're still my friend at least we did intend For us to work we didn't break, we didn't burn",
+      "valence": 3.25,
+      "arousal": 3.33,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "We got yeah we got a lot at stake And in the end you're still my friend at least we did intend For us to work we didn't break, we didn't burn We had to learn, how to bend without the world caving in",
+      "valence": 3.18,
+      "arousal": 3.38,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "And in the end you're still my friend at least we did intend For us to work we didn't break, we didn't burn We had to learn, how to bend without the world caving in I had to learn what I got, and what I'm not",
+      "valence": 3.18,
+      "arousal": 3.31,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "For us to work we didn't break, we didn't burn We had to learn, how to bend without the world caving in I had to learn what I got, and what I'm not And who I am",
+      "valence": 3.01,
+      "arousal": 3.26,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "We had to learn, how to bend without the world caving in I had to learn what I got, and what I'm not And who I am I won't give up on us",
+      "valence": 2.98,
+      "arousal": 3.3,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I had to learn what I got, and what I'm not And who I am I won't give up on us Even if the skies get rough",
+      "valence": 2.9,
+      "arousal": 3.31,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "And who I am I won't give up on us Even if the skies get rough I'm giving you all my love",
+      "valence": 3.79,
+      "arousal": 3.89,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I won't give up on us Even if the skies get rough I'm giving you all my love I'm still looking up",
+      "valence": 3.76,
+      "arousal": 3.83,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Even if the skies get rough I'm giving you all my love I'm still looking up I'm still looking up",
+      "valence": 4.0,
+      "arousal": 3.85,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I'm giving you all my love I'm still looking up I'm still looking up Well, I won't give up on us (no I'm not giving up)",
+      "valence": 4.06,
+      "arousal": 3.83,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I'm still looking up I'm still looking up Well, I won't give up on us (no I'm not giving up) God knows I'm tough (I am tough) he knows (I am loved)",
+      "valence": 3.6,
+      "arousal": 3.61,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I'm still looking up Well, I won't give up on us (no I'm not giving up) God knows I'm tough (I am tough) he knows (I am loved) We got a lot to learn (we're alive, we are loved)",
+      "valence": 3.81,
+      "arousal": 3.65,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Well, I won't give up on us (no I'm not giving up) God knows I'm tough (I am tough) he knows (I am loved) We got a lot to learn (we're alive, we are loved) God knows we're worth it (and we're worth it)",
+      "valence": 3.77,
+      "arousal": 3.69,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "God knows I'm tough (I am tough) he knows (I am loved) We got a lot to learn (we're alive, we are loved) God knows we're worth it (and we're worth it) I won't give up on us",
+      "valence": 3.76,
+      "arousal": 3.7,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "We got a lot to learn (we're alive, we are loved) God knows we're worth it (and we're worth it) I won't give up on us Even if the skies get rough",
+      "valence": 3.84,
+      "arousal": 3.75,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "God knows we're worth it (and we're worth it) I won't give up on us Even if the skies get rough I'm giving you all my love",
+      "valence": 3.85,
+      "arousal": 3.96,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "I won't give up on us Even if the skies get rough I'm giving you all my love I'm still looking up",
+      "valence": 3.76,
+      "arousal": 3.83,
+      "dominance": 3.35
+    }
+  ]
+}

@@ -1,0 +1,619 @@
+{
+  "artist": "Liam Payne Featuring Quavo",
+  "overall_vad": {
+    "valence": 3.41,
+    "arousal": 3.71,
+    "dominance": 3.32
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Huncho Quavo Yo yo You know, I've been taking some time",
+      "valence": 3.14,
+      "arousal": 3.19,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Quavo Yo yo You know, I've been taking some time And I've been keeping to myself (self)",
+      "valence": 3.06,
+      "arousal": 2.94,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Yo yo You know, I've been taking some time And I've been keeping to myself (self) I had my eyes up on the prize",
+      "valence": 3.19,
+      "arousal": 3.28,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "You know, I've been taking some time And I've been keeping to myself (self) I had my eyes up on the prize Ain't watching anybody else",
+      "valence": 3.02,
+      "arousal": 2.72,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "And I've been keeping to myself (self) I had my eyes up on the prize Ain't watching anybody else But your love, it hit me hard",
+      "valence": 3.25,
+      "arousal": 3.9,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I had my eyes up on the prize Ain't watching anybody else But your love, it hit me hard Girl, yeah, you're bad for my health",
+      "valence": 2.73,
+      "arousal": 4.15,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Ain't watching anybody else But your love, it hit me hard Girl, yeah, you're bad for my health I love the cards, that I've been dealt",
+      "valence": 3.14,
+      "arousal": 4.18,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "But your love, it hit me hard Girl, yeah, you're bad for my health I love the cards, that I've been dealt Do you feel the same as well?",
+      "valence": 3.08,
+      "arousal": 4.14,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Girl, yeah, you're bad for my health I love the cards, that I've been dealt Do you feel the same as well? You know, I used to be in 1D (Now I'm out, free)",
+      "valence": 2.96,
+      "arousal": 3.68,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I love the cards, that I've been dealt Do you feel the same as well? You know, I used to be in 1D (Now I'm out, free) People want me for one thing (That's not me)",
+      "valence": 3.44,
+      "arousal": 3.54,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Do you feel the same as well? You know, I used to be in 1D (Now I'm out, free) People want me for one thing (That's not me) I'm not changing, the way, that I (Used to be)",
+      "valence": 2.78,
+      "arousal": 3.29,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "You know, I used to be in 1D (Now I'm out, free) People want me for one thing (That's not me) I'm not changing, the way, that I (Used to be) I just wanna have fun and (Get rowdy)",
+      "valence": 3.04,
+      "arousal": 3.52,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "People want me for one thing (That's not me) I'm not changing, the way, that I (Used to be) I just wanna have fun and (Get rowdy) One Coke and Bacardi (Sippin' lightly)",
+      "valence": 3.09,
+      "arousal": 3.52,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I'm not changing, the way, that I (Used to be) I just wanna have fun and (Get rowdy) One Coke and Bacardi (Sippin' lightly) When I walk inside the party (Girls on me)",
+      "valence": 3.39,
+      "arousal": 3.64,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I just wanna have fun and (Get rowdy) One Coke and Bacardi (Sippin' lightly) When I walk inside the party (Girls on me) F1 type Ferrari (Six gear speed)",
+      "valence": 3.42,
+      "arousal": 3.72,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "One Coke and Bacardi (Sippin' lightly) When I walk inside the party (Girls on me) F1 type Ferrari (Six gear speed) Girl, I love it when your body (Grinds on me)",
+      "valence": 3.76,
+      "arousal": 3.78,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "When I walk inside the party (Girls on me) F1 type Ferrari (Six gear speed) Girl, I love it when your body (Grinds on me) Oh yeah",
+      "valence": 3.86,
+      "arousal": 3.9,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "F1 type Ferrari (Six gear speed) Girl, I love it when your body (Grinds on me) Oh yeah You know, I love it, when the music's loud",
+      "valence": 3.89,
+      "arousal": 3.77,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Girl, I love it when your body (Grinds on me) Oh yeah You know, I love it, when the music's loud But c'mon, strip that down for me, baby",
+      "valence": 4.03,
+      "arousal": 4.02,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Oh yeah You know, I love it, when the music's loud But c'mon, strip that down for me, baby Now there's a lot of people in the crowd",
+      "valence": 3.45,
+      "arousal": 3.61,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "You know, I love it, when the music's loud But c'mon, strip that down for me, baby Now there's a lot of people in the crowd But only you can dance with me",
+      "valence": 3.51,
+      "arousal": 3.69,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "But c'mon, strip that down for me, baby Now there's a lot of people in the crowd But only you can dance with me So put your hands on my body",
+      "valence": 3.11,
+      "arousal": 3.68,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Now there's a lot of people in the crowd But only you can dance with me So put your hands on my body And swing that round for me, baby (Swing)",
+      "valence": 3.26,
+      "arousal": 3.5,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "But only you can dance with me So put your hands on my body And swing that round for me, baby (Swing) You know, I love it when the music's loud",
+      "valence": 3.65,
+      "arousal": 3.6,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "So put your hands on my body And swing that round for me, baby (Swing) You know, I love it when the music's loud But c'mon, strip that down for me (Yeah, yeah, yeah, yeah)",
+      "valence": 3.71,
+      "arousal": 3.8,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "And swing that round for me, baby (Swing) You know, I love it when the music's loud But c'mon, strip that down for me (Yeah, yeah, yeah, yeah) Oh, strip that down, girl",
+      "valence": 3.64,
+      "arousal": 3.74,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "You know, I love it when the music's loud But c'mon, strip that down for me (Yeah, yeah, yeah, yeah) Oh, strip that down, girl Love when you hit the ground, girl (Yeah, yeah, yeah, yeah)",
+      "valence": 3.98,
+      "arousal": 3.99,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "But c'mon, strip that down for me (Yeah, yeah, yeah, yeah) Oh, strip that down, girl Love when you hit the ground, girl (Yeah, yeah, yeah, yeah) Oh, strip that down, girl",
+      "valence": 3.57,
+      "arousal": 3.99,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Oh, strip that down, girl Love when you hit the ground, girl (Yeah, yeah, yeah, yeah) Oh, strip that down, girl Love, when you hit the ground",
+      "valence": 3.51,
+      "arousal": 3.92,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Love when you hit the ground, girl (Yeah, yeah, yeah, yeah) Oh, strip that down, girl Love, when you hit the ground You know, that since the day I met you",
+      "valence": 4.1,
+      "arousal": 4.21,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Oh, strip that down, girl Love, when you hit the ground You know, that since the day I met you Yeah, you swept me off my feet",
+      "valence": 3.62,
+      "arousal": 4.0,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Love, when you hit the ground You know, that since the day I met you Yeah, you swept me off my feet You know, that I don't need no money",
+      "valence": 3.82,
+      "arousal": 3.94,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "You know, that since the day I met you Yeah, you swept me off my feet You know, that I don't need no money When your love is beside me",
+      "valence": 3.64,
+      "arousal": 3.71,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Yeah, you swept me off my feet You know, that I don't need no money When your love is beside me Yeah, you opened up my heart",
+      "valence": 3.9,
+      "arousal": 3.88,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "You know, that I don't need no money When your love is beside me Yeah, you opened up my heart And then you threw away the key",
+      "valence": 3.42,
+      "arousal": 3.66,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "When your love is beside me Yeah, you opened up my heart And then you threw away the key Girl, now it's just you and me",
+      "valence": 3.66,
+      "arousal": 3.77,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Yeah, you opened up my heart And then you threw away the key Girl, now it's just you and me And you don't care 'bout where I've been",
+      "valence": 2.82,
+      "arousal": 3.56,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "And then you threw away the key Girl, now it's just you and me And you don't care 'bout where I've been You know, I used to be in 1D (Now I'm out, free)",
+      "valence": 2.72,
+      "arousal": 3.43,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Girl, now it's just you and me And you don't care 'bout where I've been You know, I used to be in 1D (Now I'm out, free) People want me for one thing (That's not me)",
+      "valence": 2.77,
+      "arousal": 3.44,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "And you don't care 'bout where I've been You know, I used to be in 1D (Now I'm out, free) People want me for one thing (That's not me) I'm not changing, the way that I (Used to be)",
+      "valence": 2.62,
+      "arousal": 3.31,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "You know, I used to be in 1D (Now I'm out, free) People want me for one thing (That's not me) I'm not changing, the way that I (Used to be) I just wanna have fun and (Get rowdy, ooh)",
+      "valence": 3.07,
+      "arousal": 3.54,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "People want me for one thing (That's not me) I'm not changing, the way that I (Used to be) I just wanna have fun and (Get rowdy, ooh) One Coke and Bacardi (Sippin' lightly)",
+      "valence": 3.11,
+      "arousal": 3.54,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I'm not changing, the way that I (Used to be) I just wanna have fun and (Get rowdy, ooh) One Coke and Bacardi (Sippin' lightly) When I walk inside the party (Girls on me)",
+      "valence": 3.39,
+      "arousal": 3.64,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I just wanna have fun and (Get rowdy, ooh) One Coke and Bacardi (Sippin' lightly) When I walk inside the party (Girls on me) F1 type Ferrari (Six gear speed)",
+      "valence": 3.4,
+      "arousal": 3.7,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "One Coke and Bacardi (Sippin' lightly) When I walk inside the party (Girls on me) F1 type Ferrari (Six gear speed) Girl, I love it when your body (Grinds on me, baby)",
+      "valence": 3.81,
+      "arousal": 3.82,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "When I walk inside the party (Girls on me) F1 type Ferrari (Six gear speed) Girl, I love it when your body (Grinds on me, baby) Ooh",
+      "valence": 3.87,
+      "arousal": 3.93,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "F1 type Ferrari (Six gear speed) Girl, I love it when your body (Grinds on me, baby) Ooh You know, I love it, when the music's loud",
+      "valence": 3.94,
+      "arousal": 3.8,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Girl, I love it when your body (Grinds on me, baby) Ooh You know, I love it, when the music's loud But c'mon, strip that down for me, baby",
+      "valence": 4.11,
+      "arousal": 4.02,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Ooh You know, I love it, when the music's loud But c'mon, strip that down for me, baby Now there's a lot of people in the crowd",
+      "valence": 3.45,
+      "arousal": 3.57,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "You know, I love it, when the music's loud But c'mon, strip that down for me, baby Now there's a lot of people in the crowd But only you can dance with me",
+      "valence": 3.51,
+      "arousal": 3.69,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "But c'mon, strip that down for me, baby Now there's a lot of people in the crowd But only you can dance with me So put your hands on my body",
+      "valence": 3.11,
+      "arousal": 3.68,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Now there's a lot of people in the crowd But only you can dance with me So put your hands on my body And swing that round for me, baby (Yeah)",
+      "valence": 3.22,
+      "arousal": 3.55,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "But only you can dance with me So put your hands on my body And swing that round for me, baby (Yeah) You know, I love it when the music's loud",
+      "valence": 3.63,
+      "arousal": 3.64,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "So put your hands on my body And swing that round for me, baby (Yeah) You know, I love it when the music's loud But c'mon, strip that down for me (Yeah, yeah, yeah, yeah)",
+      "valence": 3.7,
+      "arousal": 3.84,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "And swing that round for me, baby (Yeah) You know, I love it when the music's loud But c'mon, strip that down for me (Yeah, yeah, yeah, yeah) Oh, strip that down, girl",
+      "valence": 3.7,
+      "arousal": 3.76,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "You know, I love it when the music's loud But c'mon, strip that down for me (Yeah, yeah, yeah, yeah) Oh, strip that down, girl Love when you hit the ground, girl (Yeah, yeah, yeah, yeah) (Strip that down)",
+      "valence": 3.9,
+      "arousal": 3.97,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "But c'mon, strip that down for me (Yeah, yeah, yeah, yeah) Oh, strip that down, girl Love when you hit the ground, girl (Yeah, yeah, yeah, yeah) (Strip that down) Oh, strip that down, girl",
+      "valence": 3.56,
+      "arousal": 3.94,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Oh, strip that down, girl Love when you hit the ground, girl (Yeah, yeah, yeah, yeah) (Strip that down) Oh, strip that down, girl Love, when you hit the ground (Yeah, yeah, yeah, yeah)",
+      "valence": 3.54,
+      "arousal": 3.83,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Love when you hit the ground, girl (Yeah, yeah, yeah, yeah) (Strip that down) Oh, strip that down, girl Love, when you hit the ground (Yeah, yeah, yeah, yeah) Oh, strip that down, girl",
+      "valence": 3.92,
+      "arousal": 4.05,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Oh, strip that down, girl Love, when you hit the ground (Yeah, yeah, yeah, yeah) Oh, strip that down, girl Love when you hit the ground, girl (Yeah, yeah, yeah, yeah) (Yeah)",
+      "valence": 3.38,
+      "arousal": 3.77,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Love, when you hit the ground (Yeah, yeah, yeah, yeah) Oh, strip that down, girl Love when you hit the ground, girl (Yeah, yeah, yeah, yeah) (Yeah) Oh, strip that down, girl",
+      "valence": 3.94,
+      "arousal": 4.05,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Oh, strip that down, girl Love when you hit the ground, girl (Yeah, yeah, yeah, yeah) (Yeah) Oh, strip that down, girl Love, when you hit the ground (Yeah, yeah, yeah, yeah)",
+      "valence": 3.48,
+      "arousal": 3.81,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Love when you hit the ground, girl (Yeah, yeah, yeah, yeah) (Yeah) Oh, strip that down, girl Love, when you hit the ground (Yeah, yeah, yeah, yeah) (Quavo)",
+      "valence": 4.02,
+      "arousal": 4.1,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Oh, strip that down, girl Love, when you hit the ground (Yeah, yeah, yeah, yeah) (Quavo) She gon' strip it down for a thug, yeah (Strip it down)",
+      "valence": 3.39,
+      "arousal": 3.94,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Love, when you hit the ground (Yeah, yeah, yeah, yeah) (Quavo) She gon' strip it down for a thug, yeah (Strip it down) Word around town, she got the buzz, yeah (Word)",
+      "valence": 3.65,
+      "arousal": 3.92,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "(Quavo) She gon' strip it down for a thug, yeah (Strip it down) Word around town, she got the buzz, yeah (Word) Five shots in, she in love now (Shots)",
+      "valence": 3.29,
+      "arousal": 3.71,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "She gon' strip it down for a thug, yeah (Strip it down) Word around town, she got the buzz, yeah (Word) Five shots in, she in love now (Shots) I promise, when we pull up, shut the club down (Hey)",
+      "valence": 2.9,
+      "arousal": 3.82,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Word around town, she got the buzz, yeah (Word) Five shots in, she in love now (Shots) I promise, when we pull up, shut the club down (Hey) I took her from her man, don't nobody know (Know)",
+      "valence": 3.3,
+      "arousal": 3.82,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Five shots in, she in love now (Shots) I promise, when we pull up, shut the club down (Hey) I took her from her man, don't nobody know (Know) If you brought the CL, better drive slow (Slow)",
+      "valence": 3.13,
+      "arousal": 3.67,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "I promise, when we pull up, shut the club down (Hey) I took her from her man, don't nobody know (Know) If you brought the CL, better drive slow (Slow) She know how to make me feel with my eyes closed (Skrrt skrrt)",
+      "valence": 2.8,
+      "arousal": 3.6,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "I took her from her man, don't nobody know (Know) If you brought the CL, better drive slow (Slow) She know how to make me feel with my eyes closed (Skrrt skrrt) Anything goes down with the Huncho (Huncho)",
+      "valence": 2.83,
+      "arousal": 3.38,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "If you brought the CL, better drive slow (Slow) She know how to make me feel with my eyes closed (Skrrt skrrt) Anything goes down with the Huncho (Huncho) You know, I love it, when the music's loud",
+      "valence": 3.31,
+      "arousal": 3.44,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "She know how to make me feel with my eyes closed (Skrrt skrrt) Anything goes down with the Huncho (Huncho) You know, I love it, when the music's loud But c'mon, strip that down for me, baby",
+      "valence": 3.5,
+      "arousal": 3.57,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Anything goes down with the Huncho (Huncho) You know, I love it, when the music's loud But c'mon, strip that down for me, baby Now there's a lot of people in the crowd",
+      "valence": 3.42,
+      "arousal": 3.54,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "You know, I love it, when the music's loud But c'mon, strip that down for me, baby Now there's a lot of people in the crowd But only you can dance with me",
+      "valence": 3.51,
+      "arousal": 3.69,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "But c'mon, strip that down for me, baby Now there's a lot of people in the crowd But only you can dance with me So put your hands on my body",
+      "valence": 3.11,
+      "arousal": 3.68,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "Now there's a lot of people in the crowd But only you can dance with me So put your hands on my body And swing that round for me, baby",
+      "valence": 3.19,
+      "arousal": 3.48,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "But only you can dance with me So put your hands on my body And swing that round for me, baby You know, I love it when the music's loud",
+      "valence": 3.65,
+      "arousal": 3.61,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "So put your hands on my body And swing that round for me, baby You know, I love it when the music's loud But c'mon, strip that down for me (Yeah, yeah, yeah, yeah)",
+      "valence": 3.67,
+      "arousal": 3.84,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "And swing that round for me, baby You know, I love it when the music's loud But c'mon, strip that down for me (Yeah, yeah, yeah, yeah) Yeah, yeah, yeah, yeah, c'mon, strip that down for me",
+      "valence": 3.71,
+      "arousal": 3.67,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "You know, I love it when the music's loud But c'mon, strip that down for me (Yeah, yeah, yeah, yeah) Yeah, yeah, yeah, yeah, c'mon, strip that down for me (Yeah, yeah, yeah, yeah) (Ayy)",
+      "valence": 3.72,
+      "arousal": 3.68,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "But c'mon, strip that down for me (Yeah, yeah, yeah, yeah) Yeah, yeah, yeah, yeah, c'mon, strip that down for me (Yeah, yeah, yeah, yeah) (Ayy) Don't say nothing, girl, strip that down for me (Strip it down)",
+      "valence": 3.09,
+      "arousal": 3.51,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "Yeah, yeah, yeah, yeah, c'mon, strip that down for me (Yeah, yeah, yeah, yeah) (Ayy) Don't say nothing, girl, strip that down for me (Strip it down) (Yeah, yeah, yeah, yeah)",
+      "valence": 3.15,
+      "arousal": 3.63,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "(Yeah, yeah, yeah, yeah) (Ayy) Don't say nothing, girl, strip that down for me (Strip it down) (Yeah, yeah, yeah, yeah) All I want, girl, if you strip that down for me (Strip it down)",
+      "valence": 3.2,
+      "arousal": 3.58,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "Don't say nothing, girl, strip that down for me (Strip it down) (Yeah, yeah, yeah, yeah) All I want, girl, if you strip that down for me (Strip it down) (Yeah, yeah, yeah, yeah)",
+      "valence": 3.17,
+      "arousal": 3.61,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 86,
+      "lyrics_text": "(Yeah, yeah, yeah, yeah) All I want, girl, if you strip that down for me (Strip it down) (Yeah, yeah, yeah, yeah) You're the one, girl, c'mon, strip that down for me",
+      "valence": 3.38,
+      "arousal": 3.72,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 87,
+      "lyrics_text": "All I want, girl, if you strip that down for me (Strip it down) (Yeah, yeah, yeah, yeah) You're the one, girl, c'mon, strip that down for me (Yeah, yeah, yeah, yeah)",
+      "valence": 3.22,
+      "arousal": 3.69,
+      "dominance": 3.53
+    }
+  ]
+}

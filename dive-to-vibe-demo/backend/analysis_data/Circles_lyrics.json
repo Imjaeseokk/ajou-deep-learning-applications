@@ -1,0 +1,339 @@
+{
+  "artist": "Post Malone",
+  "overall_vad": {
+    "valence": 2.55,
+    "arousal": 3.61,
+    "dominance": 3.16
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "We couldn't turn around 'Til we were upside down I'll be the bad guy now But no, I ain't too proud",
+      "valence": 2.44,
+      "arousal": 3.3,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "'Til we were upside down I'll be the bad guy now But no, I ain't too proud I couldn't be there",
+      "valence": 2.55,
+      "arousal": 3.31,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I'll be the bad guy now But no, I ain't too proud I couldn't be there Even when I tried",
+      "valence": 2.48,
+      "arousal": 3.2,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "But no, I ain't too proud I couldn't be there Even when I tried You don't believe it",
+      "valence": 2.66,
+      "arousal": 3.13,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I couldn't be there Even when I tried You don't believe it We do this every time",
+      "valence": 2.61,
+      "arousal": 3.43,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Even when I tried You don't believe it We do this every time Seasons change and our love went cold",
+      "valence": 2.82,
+      "arousal": 3.3,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "You don't believe it We do this every time Seasons change and our love went cold Feed the flame 'cause we can't let it go",
+      "valence": 2.99,
+      "arousal": 3.59,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "We do this every time Seasons change and our love went cold Feed the flame 'cause we can't let it go Run away, but we're running in circles",
+      "valence": 2.82,
+      "arousal": 3.48,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Seasons change and our love went cold Feed the flame 'cause we can't let it go Run away, but we're running in circles Run away, run away",
+      "valence": 2.45,
+      "arousal": 3.84,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Feed the flame 'cause we can't let it go Run away, but we're running in circles Run away, run away I dare you to do something",
+      "valence": 2.34,
+      "arousal": 3.96,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Run away, but we're running in circles Run away, run away I dare you to do something I'm waiting on you again",
+      "valence": 2.25,
+      "arousal": 4.03,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Run away, run away I dare you to do something I'm waiting on you again So I don't take the blame",
+      "valence": 2.06,
+      "arousal": 4.08,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I dare you to do something I'm waiting on you again So I don't take the blame Run away, but we're running in circles",
+      "valence": 2.25,
+      "arousal": 3.84,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I'm waiting on you again So I don't take the blame Run away, but we're running in circles Run away, run away, run away",
+      "valence": 2.7,
+      "arousal": 3.66,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "So I don't take the blame Run away, but we're running in circles Run away, run away, run away Let go",
+      "valence": 2.35,
+      "arousal": 3.54,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Run away, but we're running in circles Run away, run away, run away Let go I got a feeling that it's time to let go",
+      "valence": 2.36,
+      "arousal": 3.51,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Run away, run away, run away Let go I got a feeling that it's time to let go I say so",
+      "valence": 2.28,
+      "arousal": 3.58,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Let go I got a feeling that it's time to let go I say so I knew that this was doomed from the get-go",
+      "valence": 2.45,
+      "arousal": 3.3,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I got a feeling that it's time to let go I say so I knew that this was doomed from the get-go You thought that it was special, special",
+      "valence": 3.15,
+      "arousal": 3.33,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I say so I knew that this was doomed from the get-go You thought that it was special, special But it was just the sex though, the sex though",
+      "valence": 3.39,
+      "arousal": 3.5,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I knew that this was doomed from the get-go You thought that it was special, special But it was just the sex though, the sex though And I still hear the echoes (the echoes)",
+      "valence": 3.17,
+      "arousal": 3.44,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "You thought that it was special, special But it was just the sex though, the sex though And I still hear the echoes (the echoes) I got a feeling that it's time to let it go, let it go",
+      "valence": 2.97,
+      "arousal": 3.24,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "But it was just the sex though, the sex though And I still hear the echoes (the echoes) I got a feeling that it's time to let it go, let it go Seasons change and our love went cold",
+      "valence": 2.88,
+      "arousal": 3.51,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "And I still hear the echoes (the echoes) I got a feeling that it's time to let it go, let it go Seasons change and our love went cold Feed the flame 'cause we can't let it go",
+      "valence": 2.65,
+      "arousal": 3.35,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I got a feeling that it's time to let it go, let it go Seasons change and our love went cold Feed the flame 'cause we can't let it go Run away, but we're running in circles",
+      "valence": 2.63,
+      "arousal": 3.5,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Seasons change and our love went cold Feed the flame 'cause we can't let it go Run away, but we're running in circles Run away, run away",
+      "valence": 2.45,
+      "arousal": 3.84,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Feed the flame 'cause we can't let it go Run away, but we're running in circles Run away, run away I dare you to do something",
+      "valence": 2.34,
+      "arousal": 3.96,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Run away, but we're running in circles Run away, run away I dare you to do something I'm waiting on you again",
+      "valence": 2.25,
+      "arousal": 4.03,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Run away, run away I dare you to do something I'm waiting on you again So I don't take the blame",
+      "valence": 2.06,
+      "arousal": 4.08,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I dare you to do something I'm waiting on you again So I don't take the blame Run away, but we're running in circles",
+      "valence": 2.25,
+      "arousal": 3.84,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I'm waiting on you again So I don't take the blame Run away, but we're running in circles Run away, run away, run away",
+      "valence": 2.7,
+      "arousal": 3.66,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "So I don't take the blame Run away, but we're running in circles Run away, run away, run away Maybe you don't understand what I'm going through",
+      "valence": 2.26,
+      "arousal": 3.53,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Run away, but we're running in circles Run away, run away, run away Maybe you don't understand what I'm going through It's only me",
+      "valence": 2.38,
+      "arousal": 3.67,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Run away, run away, run away Maybe you don't understand what I'm going through It's only me What you got to lose?",
+      "valence": 2.16,
+      "arousal": 3.81,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Maybe you don't understand what I'm going through It's only me What you got to lose? Make up your mind, tell me",
+      "valence": 2.54,
+      "arousal": 3.44,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "It's only me What you got to lose? Make up your mind, tell me What are you gonna do?",
+      "valence": 2.83,
+      "arousal": 3.44,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "What you got to lose? Make up your mind, tell me What are you gonna do? It's only me",
+      "valence": 2.78,
+      "arousal": 3.48,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Make up your mind, tell me What are you gonna do? It's only me Let it go",
+      "valence": 2.86,
+      "arousal": 3.37,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "What are you gonna do? It's only me Let it go Seasons change and our love went cold",
+      "valence": 2.63,
+      "arousal": 3.32,
+      "dominance": 2.58
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "It's only me Let it go Seasons change and our love went cold Feed the flame 'cause we can't let it go",
+      "valence": 2.86,
+      "arousal": 3.39,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Let it go Seasons change and our love went cold Feed the flame 'cause we can't let it go Run away, but we're running in circles",
+      "valence": 2.56,
+      "arousal": 3.6,
+      "dominance": 2.7
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Seasons change and our love went cold Feed the flame 'cause we can't let it go Run away, but we're running in circles Run away, run away",
+      "valence": 2.45,
+      "arousal": 3.84,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Feed the flame 'cause we can't let it go Run away, but we're running in circles Run away, run away I dare you to do something",
+      "valence": 2.34,
+      "arousal": 3.96,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Run away, but we're running in circles Run away, run away I dare you to do something I'm waiting on you again",
+      "valence": 2.25,
+      "arousal": 4.03,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Run away, run away I dare you to do something I'm waiting on you again So I don't take the blame",
+      "valence": 2.06,
+      "arousal": 4.08,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I dare you to do something I'm waiting on you again So I don't take the blame Run away, but we're running in circles",
+      "valence": 2.25,
+      "arousal": 3.84,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I'm waiting on you again So I don't take the blame Run away, but we're running in circles Run away, run away, run away",
+      "valence": 2.7,
+      "arousal": 3.66,
+      "dominance": 3.11
+    }
+  ]
+}

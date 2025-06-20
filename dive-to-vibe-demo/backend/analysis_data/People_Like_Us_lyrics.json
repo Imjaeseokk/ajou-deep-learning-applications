@@ -1,0 +1,395 @@
+{
+  "artist": "Kelly Clarkson",
+  "overall_vad": {
+    "valence": 2.82,
+    "arousal": 3.52,
+    "dominance": 3.24
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "We come into this world unknown But know that we are not alone They try and knock us down But change is coming, it's our time now",
+      "valence": 3.06,
+      "arousal": 3.43,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "But know that we are not alone They try and knock us down But change is coming, it's our time now Hey, everybody loses it",
+      "valence": 2.85,
+      "arousal": 3.46,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "They try and knock us down But change is coming, it's our time now Hey, everybody loses it Everybody wants to throw it all away sometimes",
+      "valence": 2.84,
+      "arousal": 3.5,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "But change is coming, it's our time now Hey, everybody loses it Everybody wants to throw it all away sometimes And hey, yeah I know what you're going through",
+      "valence": 2.91,
+      "arousal": 3.35,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Hey, everybody loses it Everybody wants to throw it all away sometimes And hey, yeah I know what you're going through Don't let it get the best of you, you'll make it out alive",
+      "valence": 2.91,
+      "arousal": 3.38,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Everybody wants to throw it all away sometimes And hey, yeah I know what you're going through Don't let it get the best of you, you'll make it out alive Oh, people like us we've gotta stick together",
+      "valence": 3.02,
+      "arousal": 3.48,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "And hey, yeah I know what you're going through Don't let it get the best of you, you'll make it out alive Oh, people like us we've gotta stick together Keep your head up, nothing lasts forever",
+      "valence": 3.24,
+      "arousal": 3.52,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Don't let it get the best of you, you'll make it out alive Oh, people like us we've gotta stick together Keep your head up, nothing lasts forever Here's to the damned to the lost and forgotten",
+      "valence": 3.03,
+      "arousal": 3.51,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Oh, people like us we've gotta stick together Keep your head up, nothing lasts forever Here's to the damned to the lost and forgotten It's hard to get high when you're living on the bottom",
+      "valence": 2.6,
+      "arousal": 3.43,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Keep your head up, nothing lasts forever Here's to the damned to the lost and forgotten It's hard to get high when you're living on the bottom Oh, woah-oh-oh, woah-oh",
+      "valence": 2.4,
+      "arousal": 3.35,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Here's to the damned to the lost and forgotten It's hard to get high when you're living on the bottom Oh, woah-oh-oh, woah-oh We are all misfits living in a world on fire",
+      "valence": 2.19,
+      "arousal": 3.43,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "It's hard to get high when you're living on the bottom Oh, woah-oh-oh, woah-oh We are all misfits living in a world on fire Oh, woah-oh-oh, woah-oh",
+      "valence": 2.49,
+      "arousal": 3.25,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Oh, woah-oh-oh, woah-oh We are all misfits living in a world on fire Oh, woah-oh-oh, woah-oh Sing it for the people like us, the people like us",
+      "valence": 2.83,
+      "arousal": 3.56,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "We are all misfits living in a world on fire Oh, woah-oh-oh, woah-oh Sing it for the people like us, the people like us Hey, this is not a funeral",
+      "valence": 2.77,
+      "arousal": 3.43,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Oh, woah-oh-oh, woah-oh Sing it for the people like us, the people like us Hey, this is not a funeral It's a revolution, after all your tears have turned to rage",
+      "valence": 3.17,
+      "arousal": 3.78,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Sing it for the people like us, the people like us Hey, this is not a funeral It's a revolution, after all your tears have turned to rage Just wait, everything will be okay",
+      "valence": 3.06,
+      "arousal": 3.52,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Hey, this is not a funeral It's a revolution, after all your tears have turned to rage Just wait, everything will be okay Even when you're feeling like it's going down in flames",
+      "valence": 2.77,
+      "arousal": 3.56,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "It's a revolution, after all your tears have turned to rage Just wait, everything will be okay Even when you're feeling like it's going down in flames Oh, people like us we've gotta stick together",
+      "valence": 2.8,
+      "arousal": 3.69,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Just wait, everything will be okay Even when you're feeling like it's going down in flames Oh, people like us we've gotta stick together Keep your head up nothing lasts forever",
+      "valence": 2.95,
+      "arousal": 3.43,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Even when you're feeling like it's going down in flames Oh, people like us we've gotta stick together Keep your head up nothing lasts forever Here's to the damned, to the lost and forgotten",
+      "valence": 2.7,
+      "arousal": 3.48,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Oh, people like us we've gotta stick together Keep your head up nothing lasts forever Here's to the damned, to the lost and forgotten It's hard to get high when you're living on the bottom",
+      "valence": 2.53,
+      "arousal": 3.38,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Keep your head up nothing lasts forever Here's to the damned, to the lost and forgotten It's hard to get high when you're living on the bottom Oh, woah-oh-oh, woah-oh",
+      "valence": 2.35,
+      "arousal": 3.31,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Here's to the damned, to the lost and forgotten It's hard to get high when you're living on the bottom Oh, woah-oh-oh, woah-oh We are all misfits living in a world on fire",
+      "valence": 2.21,
+      "arousal": 3.35,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "It's hard to get high when you're living on the bottom Oh, woah-oh-oh, woah-oh We are all misfits living in a world on fire Oh, woah-oh-oh, woah-oh",
+      "valence": 2.49,
+      "arousal": 3.25,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Oh, woah-oh-oh, woah-oh We are all misfits living in a world on fire Oh, woah-oh-oh, woah-oh Sing it for the people like us, the people like us",
+      "valence": 2.83,
+      "arousal": 3.56,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "We are all misfits living in a world on fire Oh, woah-oh-oh, woah-oh Sing it for the people like us, the people like us Oh, woah-oh-oh, woah-oh",
+      "valence": 2.73,
+      "arousal": 3.46,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Oh, woah-oh-oh, woah-oh Sing it for the people like us, the people like us Oh, woah-oh-oh, woah-oh You've just gotta turn it up loud when the flames get higher",
+      "valence": 3.22,
+      "arousal": 3.7,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Sing it for the people like us, the people like us Oh, woah-oh-oh, woah-oh You've just gotta turn it up loud when the flames get higher Oh, woah-oh-oh, woah-oh",
+      "valence": 3.1,
+      "arousal": 3.54,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Oh, woah-oh-oh, woah-oh You've just gotta turn it up loud when the flames get higher Oh, woah-oh-oh, woah-oh Sing it for the people like us, the people like us",
+      "valence": 3.2,
+      "arousal": 3.8,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "You've just gotta turn it up loud when the flames get higher Oh, woah-oh-oh, woah-oh Sing it for the people like us, the people like us They can't do nothing to you, they can't do nothing to me",
+      "valence": 2.97,
+      "arousal": 3.67,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Oh, woah-oh-oh, woah-oh Sing it for the people like us, the people like us They can't do nothing to you, they can't do nothing to me This is the life that we choose, this is the life that we bleed",
+      "valence": 3.09,
+      "arousal": 3.63,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Sing it for the people like us, the people like us They can't do nothing to you, they can't do nothing to me This is the life that we choose, this is the life that we bleed So throw your fists in the air, come out, come out if you dare",
+      "valence": 2.92,
+      "arousal": 3.68,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "They can't do nothing to you, they can't do nothing to me This is the life that we choose, this is the life that we bleed So throw your fists in the air, come out, come out if you dare Tonight we're gonna change forever",
+      "valence": 2.78,
+      "arousal": 4.03,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "This is the life that we choose, this is the life that we bleed So throw your fists in the air, come out, come out if you dare Tonight we're gonna change forever Everybody loses it",
+      "valence": 2.84,
+      "arousal": 3.93,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "So throw your fists in the air, come out, come out if you dare Tonight we're gonna change forever Everybody loses it Everybody wants to throw it all away sometimes",
+      "valence": 2.88,
+      "arousal": 3.85,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Tonight we're gonna change forever Everybody loses it Everybody wants to throw it all away sometimes Oh, people like us we've gotta stick together",
+      "valence": 2.94,
+      "arousal": 3.74,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Everybody loses it Everybody wants to throw it all away sometimes Oh, people like us we've gotta stick together Keep your head up nothing lasts forever",
+      "valence": 2.69,
+      "arousal": 3.37,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Everybody wants to throw it all away sometimes Oh, people like us we've gotta stick together Keep your head up nothing lasts forever Here's to the damned, to the lost and forgotten",
+      "valence": 2.48,
+      "arousal": 3.42,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Oh, people like us we've gotta stick together Keep your head up nothing lasts forever Here's to the damned, to the lost and forgotten It's hard to get high when you're living on the bottom",
+      "valence": 2.53,
+      "arousal": 3.38,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Keep your head up nothing lasts forever Here's to the damned, to the lost and forgotten It's hard to get high when you're living on the bottom Oh, woah-oh-oh, woah-oh",
+      "valence": 2.35,
+      "arousal": 3.31,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Here's to the damned, to the lost and forgotten It's hard to get high when you're living on the bottom Oh, woah-oh-oh, woah-oh We are all misfits living in a world on fire",
+      "valence": 2.21,
+      "arousal": 3.35,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "It's hard to get high when you're living on the bottom Oh, woah-oh-oh, woah-oh We are all misfits living in a world on fire Oh, woah-oh-oh, woah-oh",
+      "valence": 2.49,
+      "arousal": 3.25,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Oh, woah-oh-oh, woah-oh We are all misfits living in a world on fire Oh, woah-oh-oh, woah-oh Sing it for the people like us, the people like us",
+      "valence": 2.83,
+      "arousal": 3.56,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "We are all misfits living in a world on fire Oh, woah-oh-oh, woah-oh Sing it for the people like us, the people like us Oh, woah-oh-oh, woah-oh",
+      "valence": 2.73,
+      "arousal": 3.46,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Oh, woah-oh-oh, woah-oh Sing it for the people like us, the people like us Oh, woah-oh-oh, woah-oh You've just got to turn it up loud when the flames get higher",
+      "valence": 3.19,
+      "arousal": 3.65,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Sing it for the people like us, the people like us Oh, woah-oh-oh, woah-oh You've just got to turn it up loud when the flames get higher Oh, woah-oh-oh, woah-oh",
+      "valence": 3.07,
+      "arousal": 3.48,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Oh, woah-oh-oh, woah-oh You've just got to turn it up loud when the flames get higher Oh, woah-oh-oh, woah-oh Sing it for the people like us, the people like us",
+      "valence": 3.17,
+      "arousal": 3.74,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "You've just got to turn it up loud when the flames get higher Oh, woah-oh-oh, woah-oh Sing it for the people like us, the people like us Oh, woah-oh-oh, woah-oh",
+      "valence": 3.08,
+      "arousal": 3.59,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Oh, woah-oh-oh, woah-oh Sing it for the people like us, the people like us Oh, woah-oh-oh, woah-oh We're all misfits living in a world on fire",
+      "valence": 2.96,
+      "arousal": 3.51,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Sing it for the people like us, the people like us Oh, woah-oh-oh, woah-oh We're all misfits living in a world on fire Oh, woah-oh-oh, woah-oh",
+      "valence": 2.83,
+      "arousal": 3.39,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Oh, woah-oh-oh, woah-oh We're all misfits living in a world on fire Oh, woah-oh-oh, woah-oh Sing it for the people like us, the people like us",
+      "valence": 2.84,
+      "arousal": 3.59,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "We're all misfits living in a world on fire Oh, woah-oh-oh, woah-oh Sing it for the people like us, the people like us Oh, woah-oh-oh, woah-oh",
+      "valence": 2.75,
+      "arousal": 3.47,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Oh, woah-oh-oh, woah-oh Sing it for the people like us, the people like us Oh, woah-oh-oh, woah-oh You've just got to turn it up loud when the flames get higher",
+      "valence": 3.19,
+      "arousal": 3.65,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Sing it for the people like us, the people like us Oh, woah-oh-oh, woah-oh You've just got to turn it up loud when the flames get higher Oh, woah-oh-oh, woah-oh",
+      "valence": 3.07,
+      "arousal": 3.48,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Oh, woah-oh-oh, woah-oh You've just got to turn it up loud when the flames get higher Oh, woah-oh-oh, woah-oh Sing it for the people like us, the people like us",
+      "valence": 3.17,
+      "arousal": 3.74,
+      "dominance": 3.28
+    }
+  ]
+}

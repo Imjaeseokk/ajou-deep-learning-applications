@@ -1,0 +1,395 @@
+{
+  "artist": "The Weeknd",
+  "overall_vad": {
+    "valence": 3.06,
+    "arousal": 3.55,
+    "dominance": 3.34
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Yeah Yeah Yeah Your man on the road, he doin' promo",
+      "valence": 3.41,
+      "arousal": 3.32,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Yeah Yeah Your man on the road, he doin' promo You said, \"Keep our business on the low-low\"",
+      "valence": 3.25,
+      "arousal": 3.08,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Yeah Your man on the road, he doin' promo You said, \"Keep our business on the low-low\" I'm just tryna get you out the friend zone",
+      "valence": 3.22,
+      "arousal": 3.17,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Your man on the road, he doin' promo You said, \"Keep our business on the low-low\" I'm just tryna get you out the friend zone 'Cause you look even better than the photos",
+      "valence": 3.51,
+      "arousal": 3.48,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "You said, \"Keep our business on the low-low\" I'm just tryna get you out the friend zone 'Cause you look even better than the photos I can't find your house, send me the info",
+      "valence": 3.19,
+      "arousal": 3.42,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I'm just tryna get you out the friend zone 'Cause you look even better than the photos I can't find your house, send me the info Drivin' through the gated residential",
+      "valence": 3.08,
+      "arousal": 3.32,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "'Cause you look even better than the photos I can't find your house, send me the info Drivin' through the gated residential Found out I was comin', sent your friends home",
+      "valence": 3.1,
+      "arousal": 3.46,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I can't find your house, send me the info Drivin' through the gated residential Found out I was comin', sent your friends home Keep on tryna hide it, but your friends know",
+      "valence": 2.7,
+      "arousal": 3.32,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Drivin' through the gated residential Found out I was comin', sent your friends home Keep on tryna hide it, but your friends know I only call you when it's half-past five",
+      "valence": 2.79,
+      "arousal": 3.37,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Found out I was comin', sent your friends home Keep on tryna hide it, but your friends know I only call you when it's half-past five The only time that I'll be by your side",
+      "valence": 3.02,
+      "arousal": 3.39,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Keep on tryna hide it, but your friends know I only call you when it's half-past five The only time that I'll be by your side I only love it when you touch me, not feel me",
+      "valence": 3.42,
+      "arousal": 3.58,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I only call you when it's half-past five The only time that I'll be by your side I only love it when you touch me, not feel me When I'm fucked up, that's the real me",
+      "valence": 3.33,
+      "arousal": 3.58,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "The only time that I'll be by your side I only love it when you touch me, not feel me When I'm fucked up, that's the real me When I'm fucked up, that's the real me, yeah",
+      "valence": 3.35,
+      "arousal": 3.75,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I only love it when you touch me, not feel me When I'm fucked up, that's the real me When I'm fucked up, that's the real me, yeah I only call you when it's half-past five",
+      "valence": 3.44,
+      "arousal": 3.74,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "When I'm fucked up, that's the real me When I'm fucked up, that's the real me, yeah I only call you when it's half-past five The only time I'd ever call you mine",
+      "valence": 2.99,
+      "arousal": 3.49,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "When I'm fucked up, that's the real me, yeah I only call you when it's half-past five The only time I'd ever call you mine I only love it when you touch me, not feel me",
+      "valence": 3.24,
+      "arousal": 3.65,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I only call you when it's half-past five The only time I'd ever call you mine I only love it when you touch me, not feel me When I'm fucked up, that's the real me",
+      "valence": 3.38,
+      "arousal": 3.64,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "The only time I'd ever call you mine I only love it when you touch me, not feel me When I'm fucked up, that's the real me When I'm fucked up, that's the real me, babe",
+      "valence": 3.45,
+      "arousal": 3.91,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I only love it when you touch me, not feel me When I'm fucked up, that's the real me When I'm fucked up, that's the real me, babe I'ma let you know and keep it simple",
+      "valence": 3.39,
+      "arousal": 3.68,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "When I'm fucked up, that's the real me When I'm fucked up, that's the real me, babe I'ma let you know and keep it simple Tryna keep it up don't seem so simple",
+      "valence": 2.94,
+      "arousal": 3.38,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "When I'm fucked up, that's the real me, babe I'ma let you know and keep it simple Tryna keep it up don't seem so simple I just fucked two bitches 'fore I saw you",
+      "valence": 2.79,
+      "arousal": 3.52,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I'ma let you know and keep it simple Tryna keep it up don't seem so simple I just fucked two bitches 'fore I saw you And you gon' have to do it at my tempo",
+      "valence": 2.66,
+      "arousal": 3.52,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Tryna keep it up don't seem so simple I just fucked two bitches 'fore I saw you And you gon' have to do it at my tempo Always tryna send me off to rehab",
+      "valence": 2.33,
+      "arousal": 3.58,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I just fucked two bitches 'fore I saw you And you gon' have to do it at my tempo Always tryna send me off to rehab Drugs started feelin' like it's decaf",
+      "valence": 2.28,
+      "arousal": 3.58,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "And you gon' have to do it at my tempo Always tryna send me off to rehab Drugs started feelin' like it's decaf I'm just tryna live life for the moment",
+      "valence": 2.65,
+      "arousal": 3.24,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Always tryna send me off to rehab Drugs started feelin' like it's decaf I'm just tryna live life for the moment And all these motherfuckers want a relapse",
+      "valence": 2.02,
+      "arousal": 3.58,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Drugs started feelin' like it's decaf I'm just tryna live life for the moment And all these motherfuckers want a relapse I only call you when it's half-past five",
+      "valence": 2.27,
+      "arousal": 3.6,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I'm just tryna live life for the moment And all these motherfuckers want a relapse I only call you when it's half-past five The only time that I'll be by your side",
+      "valence": 2.48,
+      "arousal": 3.6,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "And all these motherfuckers want a relapse I only call you when it's half-past five The only time that I'll be by your side I only love it when you touch me, not feel me",
+      "valence": 2.91,
+      "arousal": 3.74,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I only call you when it's half-past five The only time that I'll be by your side I only love it when you touch me, not feel me When I'm fucked up, that's the real me",
+      "valence": 3.33,
+      "arousal": 3.58,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "The only time that I'll be by your side I only love it when you touch me, not feel me When I'm fucked up, that's the real me When I'm fucked up, that's the real me, yeah",
+      "valence": 3.35,
+      "arousal": 3.75,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I only love it when you touch me, not feel me When I'm fucked up, that's the real me When I'm fucked up, that's the real me, yeah I only call you when it's half-past five",
+      "valence": 3.44,
+      "arousal": 3.74,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "When I'm fucked up, that's the real me When I'm fucked up, that's the real me, yeah I only call you when it's half-past five The only time I'd ever call you mine",
+      "valence": 2.99,
+      "arousal": 3.49,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "When I'm fucked up, that's the real me, yeah I only call you when it's half-past five The only time I'd ever call you mine I only love it when you touch me, not feel me",
+      "valence": 3.24,
+      "arousal": 3.65,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I only call you when it's half-past five The only time I'd ever call you mine I only love it when you touch me, not feel me When I'm fucked up, that's the real me",
+      "valence": 3.38,
+      "arousal": 3.64,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "The only time I'd ever call you mine I only love it when you touch me, not feel me When I'm fucked up, that's the real me When I'm fucked up, that's the real me, babe",
+      "valence": 3.45,
+      "arousal": 3.91,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I only love it when you touch me, not feel me When I'm fucked up, that's the real me When I'm fucked up, that's the real me, babe Hills have eyes, the hills have eyes",
+      "valence": 3.37,
+      "arousal": 3.73,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "When I'm fucked up, that's the real me When I'm fucked up, that's the real me, babe Hills have eyes, the hills have eyes Who are you to judge?",
+      "valence": 2.79,
+      "arousal": 3.42,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "When I'm fucked up, that's the real me, babe Hills have eyes, the hills have eyes Who are you to judge? Who are you to judge?",
+      "valence": 2.68,
+      "arousal": 3.4,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Hills have eyes, the hills have eyes Who are you to judge? Who are you to judge? Hide your lies, girl, hide your lies",
+      "valence": 2.58,
+      "arousal": 3.46,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Who are you to judge? Who are you to judge? Hide your lies, girl, hide your lies Only you to trust, only you",
+      "valence": 2.59,
+      "arousal": 3.59,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Who are you to judge? Hide your lies, girl, hide your lies Only you to trust, only you I only call you when it's half-past five",
+      "valence": 2.69,
+      "arousal": 3.57,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Hide your lies, girl, hide your lies Only you to trust, only you I only call you when it's half-past five The only time that I'll be by your side",
+      "valence": 2.81,
+      "arousal": 3.5,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Only you to trust, only you I only call you when it's half-past five The only time that I'll be by your side I only love it when you touch me, not feel me",
+      "valence": 3.5,
+      "arousal": 3.49,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I only call you when it's half-past five The only time that I'll be by your side I only love it when you touch me, not feel me When I'm fucked up, that's the real me",
+      "valence": 3.33,
+      "arousal": 3.58,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "The only time that I'll be by your side I only love it when you touch me, not feel me When I'm fucked up, that's the real me When I'm fucked up, that's the real me, yeah",
+      "valence": 3.35,
+      "arousal": 3.75,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I only love it when you touch me, not feel me When I'm fucked up, that's the real me When I'm fucked up, that's the real me, yeah I only call you when it's half-past five",
+      "valence": 3.44,
+      "arousal": 3.74,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "When I'm fucked up, that's the real me When I'm fucked up, that's the real me, yeah I only call you when it's half-past five The only time I'd ever call you mine",
+      "valence": 2.99,
+      "arousal": 3.49,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "When I'm fucked up, that's the real me, yeah I only call you when it's half-past five The only time I'd ever call you mine I only love it when you touch me, not feel me",
+      "valence": 3.24,
+      "arousal": 3.65,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I only call you when it's half-past five The only time I'd ever call you mine I only love it when you touch me, not feel me When I'm fucked up, that's the real me",
+      "valence": 3.38,
+      "arousal": 3.64,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "The only time I'd ever call you mine I only love it when you touch me, not feel me When I'm fucked up, that's the real me When I'm fucked up, that's the real me, babe",
+      "valence": 3.45,
+      "arousal": 3.91,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "I only love it when you touch me, not feel me When I'm fucked up, that's the real me When I'm fucked up, that's the real me, babe ?¥á?²á?á",
+      "valence": 3.48,
+      "arousal": 3.78,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "When I'm fucked up, that's the real me When I'm fucked up, that's the real me, babe ?¥á?²á?á ?¨á ?á?? ?¥á?²á?á",
+      "valence": 2.93,
+      "arousal": 3.47,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "When I'm fucked up, that's the real me, babe ?¥á?²á?á ?¨á ?á?? ?¥á?²á?á ?¨á ?á???á???á???á???¨á ?á???á???á???á???¥á?²á?á",
+      "valence": 2.98,
+      "arousal": 3.37,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "?¥á?²á?á ?¨á ?á?? ?¥á?²á?á ?¨á ?á???á???á???á???¨á ?á???á???á???á???¥á?²á?á ?¨á ?á?? ?¥á?²á?á...",
+      "valence": 3.08,
+      "arousal": 3.16,
+      "dominance": 3.01
+    }
+  ]
+}

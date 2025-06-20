@@ -1,0 +1,227 @@
+{
+  "artist": "Dua Lipa",
+  "overall_vad": {
+    "valence": 2.89,
+    "arousal": 3.31,
+    "dominance": 3.39
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I'm on an island Even when you're close Can't take the silence I'd rather be alone",
+      "valence": 2.73,
+      "arousal": 3.05,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Even when you're close Can't take the silence I'd rather be alone I think it's pretty plain and simple",
+      "valence": 2.71,
+      "arousal": 3.02,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Can't take the silence I'd rather be alone I think it's pretty plain and simple We gave it all we could",
+      "valence": 2.78,
+      "arousal": 3.3,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I'd rather be alone I think it's pretty plain and simple We gave it all we could It's time I wave goodbye from the window",
+      "valence": 2.82,
+      "arousal": 3.13,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I think it's pretty plain and simple We gave it all we could It's time I wave goodbye from the window Let's end this like we should and say we're good",
+      "valence": 3.26,
+      "arousal": 3.13,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "We gave it all we could It's time I wave goodbye from the window Let's end this like we should and say we're good We're not meant to be like sleeping and cocaine",
+      "valence": 2.95,
+      "arousal": 3.24,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "It's time I wave goodbye from the window Let's end this like we should and say we're good We're not meant to be like sleeping and cocaine So let's at least agree to go our separate ways",
+      "valence": 2.84,
+      "arousal": 3.24,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Let's end this like we should and say we're good We're not meant to be like sleeping and cocaine So let's at least agree to go our separate ways Not gonna judge you when you're with somebody else",
+      "valence": 2.89,
+      "arousal": 3.29,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "We're not meant to be like sleeping and cocaine So let's at least agree to go our separate ways Not gonna judge you when you're with somebody else As long as you swear you won't be pissed when I do it myself",
+      "valence": 2.83,
+      "arousal": 3.4,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "So let's at least agree to go our separate ways Not gonna judge you when you're with somebody else As long as you swear you won't be pissed when I do it myself Let's end it like we should and say we're good",
+      "valence": 2.97,
+      "arousal": 3.35,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Not gonna judge you when you're with somebody else As long as you swear you won't be pissed when I do it myself Let's end it like we should and say we're good No need to hide it",
+      "valence": 2.95,
+      "arousal": 3.27,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "As long as you swear you won't be pissed when I do it myself Let's end it like we should and say we're good No need to hide it Go get what you want",
+      "valence": 2.83,
+      "arousal": 3.43,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Let's end it like we should and say we're good No need to hide it Go get what you want This won't be a burden if we both don't hold a grudge",
+      "valence": 2.99,
+      "arousal": 3.27,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "No need to hide it Go get what you want This won't be a burden if we both don't hold a grudge I think it's pretty plain and simple",
+      "valence": 2.85,
+      "arousal": 3.3,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Go get what you want This won't be a burden if we both don't hold a grudge I think it's pretty plain and simple We gave it all we could",
+      "valence": 2.97,
+      "arousal": 3.43,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "This won't be a burden if we both don't hold a grudge I think it's pretty plain and simple We gave it all we could It's time I wave goodbye from the window",
+      "valence": 2.86,
+      "arousal": 3.24,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I think it's pretty plain and simple We gave it all we could It's time I wave goodbye from the window Let's end this like we should and say we're good",
+      "valence": 3.26,
+      "arousal": 3.13,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "We gave it all we could It's time I wave goodbye from the window Let's end this like we should and say we're good We're not meant to be like sleeping and cocaine",
+      "valence": 2.95,
+      "arousal": 3.24,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "It's time I wave goodbye from the window Let's end this like we should and say we're good We're not meant to be like sleeping and cocaine So let's at least agree to go our separate ways",
+      "valence": 2.84,
+      "arousal": 3.24,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Let's end this like we should and say we're good We're not meant to be like sleeping and cocaine So let's at least agree to go our separate ways Not gonna judge you when you're with somebody else",
+      "valence": 2.89,
+      "arousal": 3.29,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "We're not meant to be like sleeping and cocaine So let's at least agree to go our separate ways Not gonna judge you when you're with somebody else As long as you swear you won't be pissed when I do it myself",
+      "valence": 2.83,
+      "arousal": 3.4,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "So let's at least agree to go our separate ways Not gonna judge you when you're with somebody else As long as you swear you won't be pissed when I do it myself Let's end it like we should and say we're good",
+      "valence": 2.97,
+      "arousal": 3.35,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Not gonna judge you when you're with somebody else As long as you swear you won't be pissed when I do it myself Let's end it like we should and say we're good Now you're holding this against me",
+      "valence": 2.62,
+      "arousal": 3.5,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "As long as you swear you won't be pissed when I do it myself Let's end it like we should and say we're good Now you're holding this against me Like I knew you would",
+      "valence": 2.58,
+      "arousal": 3.53,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Let's end it like we should and say we're good Now you're holding this against me Like I knew you would I'm trying my best to make this easy",
+      "valence": 2.97,
+      "arousal": 3.43,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Now you're holding this against me Like I knew you would I'm trying my best to make this easy So don't give me that look, just say we're good",
+      "valence": 2.83,
+      "arousal": 3.54,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Like I knew you would I'm trying my best to make this easy So don't give me that look, just say we're good We're not meant to be like sleeping and cocaine",
+      "valence": 3.05,
+      "arousal": 3.42,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I'm trying my best to make this easy So don't give me that look, just say we're good We're not meant to be like sleeping and cocaine So let's at least agree to go our separate ways",
+      "valence": 2.85,
+      "arousal": 3.45,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "So don't give me that look, just say we're good We're not meant to be like sleeping and cocaine So let's at least agree to go our separate ways Not gonna judge you when you're with somebody else",
+      "valence": 2.87,
+      "arousal": 3.33,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "We're not meant to be like sleeping and cocaine So let's at least agree to go our separate ways Not gonna judge you when you're with somebody else As long as you swear you won't be pissed when I do it myself",
+      "valence": 2.83,
+      "arousal": 3.4,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "So let's at least agree to go our separate ways Not gonna judge you when you're with somebody else As long as you swear you won't be pissed when I do it myself Let's end it like we should and say we're good",
+      "valence": 2.97,
+      "arousal": 3.35,
+      "dominance": 3.58
+    }
+  ]
+}

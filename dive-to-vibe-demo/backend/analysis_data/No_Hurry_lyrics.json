@@ -1,0 +1,262 @@
+{
+  "artist": "Zac Brown Band",
+  "overall_vad": {
+    "valence": 2.77,
+    "arousal": 3.14,
+    "dominance": 3.19
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "You know my old car needs washing And the front yard needs a trim And the telephone keeps ringing And the bossman knows I know its him",
+      "valence": 2.7,
+      "arousal": 3.27,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "And the front yard needs a trim And the telephone keeps ringing And the bossman knows I know its him And the bills ain't gonna pay themselves",
+      "valence": 2.51,
+      "arousal": 3.32,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "And the telephone keeps ringing And the bossman knows I know its him And the bills ain't gonna pay themselves No matter anyway",
+      "valence": 2.64,
+      "arousal": 3.29,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "And the bossman knows I know its him And the bills ain't gonna pay themselves No matter anyway Cause I ain't in no hurry today",
+      "valence": 2.55,
+      "arousal": 3.17,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "And the bills ain't gonna pay themselves No matter anyway Cause I ain't in no hurry today There's nothing wrong with an old cane fishing pole",
+      "valence": 2.74,
+      "arousal": 3.09,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "No matter anyway Cause I ain't in no hurry today There's nothing wrong with an old cane fishing pole And the smell of early spring",
+      "valence": 3.02,
+      "arousal": 3.12,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Cause I ain't in no hurry today There's nothing wrong with an old cane fishing pole And the smell of early spring Sit down in a fold-up easy chair",
+      "valence": 3.15,
+      "arousal": 2.99,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "There's nothing wrong with an old cane fishing pole And the smell of early spring Sit down in a fold-up easy chair On a quiet shady river bank",
+      "valence": 3.41,
+      "arousal": 2.89,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "And the smell of early spring Sit down in a fold-up easy chair On a quiet shady river bank Let the world go on without me",
+      "valence": 3.28,
+      "arousal": 3.02,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Sit down in a fold-up easy chair On a quiet shady river bank Let the world go on without me Wouldn't have it any other way",
+      "valence": 3.02,
+      "arousal": 2.85,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "On a quiet shady river bank Let the world go on without me Wouldn't have it any other way Cause I ain't in no hurry today",
+      "valence": 2.8,
+      "arousal": 2.97,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Let the world go on without me Wouldn't have it any other way Cause I ain't in no hurry today Ain't in no hurry",
+      "valence": 2.76,
+      "arousal": 3.07,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Wouldn't have it any other way Cause I ain't in no hurry today Ain't in no hurry I'd Be a fool now to worry",
+      "valence": 2.64,
+      "arousal": 3.18,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Cause I ain't in no hurry today Ain't in no hurry I'd Be a fool now to worry About all those things I can't change",
+      "valence": 2.48,
+      "arousal": 3.17,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Ain't in no hurry I'd Be a fool now to worry About all those things I can't change And the time that I borrow",
+      "valence": 2.63,
+      "arousal": 3.17,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I'd Be a fool now to worry About all those things I can't change And the time that I borrow Can wait till tomorrow",
+      "valence": 2.73,
+      "arousal": 3.12,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "About all those things I can't change And the time that I borrow Can wait till tomorrow Cause I ain't in no hurry today",
+      "valence": 2.82,
+      "arousal": 2.99,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "And the time that I borrow Can wait till tomorrow Cause I ain't in no hurry today When I must return",
+      "valence": 2.87,
+      "arousal": 3.05,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Can wait till tomorrow Cause I ain't in no hurry today When I must return To the cold cold ground",
+      "valence": 2.75,
+      "arousal": 3.02,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Cause I ain't in no hurry today When I must return To the cold cold ground Have 'em take their time",
+      "valence": 2.83,
+      "arousal": 3.03,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "When I must return To the cold cold ground Have 'em take their time When they lay this sinner down",
+      "valence": 2.68,
+      "arousal": 3.14,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "To the cold cold ground Have 'em take their time When they lay this sinner down Heaven knows that I ain't perfect",
+      "valence": 2.41,
+      "arousal": 3.2,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Have 'em take their time When they lay this sinner down Heaven knows that I ain't perfect I've raised a little cain",
+      "valence": 2.68,
+      "arousal": 3.18,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "When they lay this sinner down Heaven knows that I ain't perfect I've raised a little cain And I plan to raise a whole lot more",
+      "valence": 2.54,
+      "arousal": 3.35,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Heaven knows that I ain't perfect I've raised a little cain And I plan to raise a whole lot more Before I hear those angels sing",
+      "valence": 2.86,
+      "arousal": 3.35,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I've raised a little cain And I plan to raise a whole lot more Before I hear those angels sing (Gonna get right with the lord)",
+      "valence": 3.14,
+      "arousal": 3.41,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "And I plan to raise a whole lot more Before I hear those angels sing (Gonna get right with the lord) But there'll be hell to pay",
+      "valence": 2.65,
+      "arousal": 3.41,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Before I hear those angels sing (Gonna get right with the lord) But there'll be hell to pay But I ain't in no hurry",
+      "valence": 2.69,
+      "arousal": 3.28,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "(Gonna get right with the lord) But there'll be hell to pay But I ain't in no hurry Ain't in no hurry",
+      "valence": 2.66,
+      "arousal": 3.14,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "But there'll be hell to pay But I ain't in no hurry Ain't in no hurry Be a fool now to worry",
+      "valence": 2.48,
+      "arousal": 3.2,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "But I ain't in no hurry Ain't in no hurry Be a fool now to worry About all those things I can't change",
+      "valence": 2.55,
+      "arousal": 3.12,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Ain't in no hurry Be a fool now to worry About all those things I can't change And the time that I borrow",
+      "valence": 2.71,
+      "arousal": 3.19,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Be a fool now to worry About all those things I can't change And the time that I borrow Can wait till tomorrow",
+      "valence": 2.72,
+      "arousal": 3.17,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "About all those things I can't change And the time that I borrow Can wait till tomorrow Cause I ain't in no hurry",
+      "valence": 2.8,
+      "arousal": 3.0,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "And the time that I borrow Can wait till tomorrow Cause I ain't in no hurry Ain't in no hurry",
+      "valence": 2.86,
+      "arousal": 3.01,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Can wait till tomorrow Cause I ain't in no hurry Ain't in no hurry Ain't in no hurry today",
+      "valence": 2.86,
+      "arousal": 3.0,
+      "dominance": 3.16
+    }
+  ]
+}

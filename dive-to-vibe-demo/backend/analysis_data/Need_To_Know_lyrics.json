@@ -1,0 +1,542 @@
+{
+  "artist": "Doja Cat",
+  "overall_vad": {
+    "valence": 2.83,
+    "arousal": 3.63,
+    "dominance": 3.33
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Yeah Wanna know what it's like (like) Baby, show me what it's like (like) I don't really got no type (type)",
+      "valence": 2.98,
+      "arousal": 3.26,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Wanna know what it's like (like) Baby, show me what it's like (like) I don't really got no type (type) I just wanna fuck all night",
+      "valence": 2.51,
+      "arousal": 3.65,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Baby, show me what it's like (like) I don't really got no type (type) I just wanna fuck all night Yeah-yeah, oh-whoa-whoa (oh, ooh, mmm)",
+      "valence": 2.52,
+      "arousal": 3.88,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I don't really got no type (type) I just wanna fuck all night Yeah-yeah, oh-whoa-whoa (oh, ooh, mmm) Baby, I need to know, mmm (yeah, need to know)",
+      "valence": 2.24,
+      "arousal": 3.99,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I just wanna fuck all night Yeah-yeah, oh-whoa-whoa (oh, ooh, mmm) Baby, I need to know, mmm (yeah, need to know) I just been fantasizin' (size)",
+      "valence": 2.9,
+      "arousal": 4.12,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Yeah-yeah, oh-whoa-whoa (oh, ooh, mmm) Baby, I need to know, mmm (yeah, need to know) I just been fantasizin' (size) And we got a lotta time (time)",
+      "valence": 3.38,
+      "arousal": 3.85,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Baby, I need to know, mmm (yeah, need to know) I just been fantasizin' (size) And we got a lotta time (time) Baby, come throw the pipe (pipe)",
+      "valence": 3.25,
+      "arousal": 3.6,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I just been fantasizin' (size) And we got a lotta time (time) Baby, come throw the pipe (pipe) Gotta know what it's like (like)",
+      "valence": 3.37,
+      "arousal": 3.57,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "And we got a lotta time (time) Baby, come throw the pipe (pipe) Gotta know what it's like (like) Yeah-yeah, oh-whoa-whoa",
+      "valence": 3.35,
+      "arousal": 3.61,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Baby, come throw the pipe (pipe) Gotta know what it's like (like) Yeah-yeah, oh-whoa-whoa Baby, I need to know, mmm",
+      "valence": 3.09,
+      "arousal": 3.46,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Gotta know what it's like (like) Yeah-yeah, oh-whoa-whoa Baby, I need to know, mmm What's your size? (Size)",
+      "valence": 3.06,
+      "arousal": 3.47,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Yeah-yeah, oh-whoa-whoa Baby, I need to know, mmm What's your size? (Size) Add, subtract, divide ('vide)",
+      "valence": 3.05,
+      "arousal": 3.66,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Baby, I need to know, mmm What's your size? (Size) Add, subtract, divide ('vide) Daddy don't throw no curves (curves)",
+      "valence": 2.93,
+      "arousal": 3.25,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "What's your size? (Size) Add, subtract, divide ('vide) Daddy don't throw no curves (curves) Hold up, I'm goin' wide (wide)",
+      "valence": 2.9,
+      "arousal": 3.15,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Add, subtract, divide ('vide) Daddy don't throw no curves (curves) Hold up, I'm goin' wide (wide) We could just start at ten (ten)",
+      "valence": 2.85,
+      "arousal": 3.08,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Daddy don't throw no curves (curves) Hold up, I'm goin' wide (wide) We could just start at ten (ten) Then we can go to five (five)",
+      "valence": 2.87,
+      "arousal": 3.2,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Hold up, I'm goin' wide (wide) We could just start at ten (ten) Then we can go to five (five) I don't play with my pen (pen)",
+      "valence": 2.83,
+      "arousal": 2.93,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "We could just start at ten (ten) Then we can go to five (five) I don't play with my pen (pen) I mean what I write",
+      "valence": 2.98,
+      "arousal": 2.98,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Then we can go to five (five) I don't play with my pen (pen) I mean what I write Yeah-yeah, whoa-whoa-whoa",
+      "valence": 3.01,
+      "arousal": 3.54,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I don't play with my pen (pen) I mean what I write Yeah-yeah, whoa-whoa-whoa I just can't help but be sexual (whoa)",
+      "valence": 3.01,
+      "arousal": 3.63,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I mean what I write Yeah-yeah, whoa-whoa-whoa I just can't help but be sexual (whoa) Tell me your schedule (yeah)",
+      "valence": 3.17,
+      "arousal": 3.78,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Yeah-yeah, whoa-whoa-whoa I just can't help but be sexual (whoa) Tell me your schedule (yeah) I got a lotta new tricks for you, baby",
+      "valence": 3.32,
+      "arousal": 3.99,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I just can't help but be sexual (whoa) Tell me your schedule (yeah) I got a lotta new tricks for you, baby Just sayin' I'm flexible (I will)",
+      "valence": 3.3,
+      "arousal": 3.79,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Tell me your schedule (yeah) I got a lotta new tricks for you, baby Just sayin' I'm flexible (I will) I do what I can to get you off (I will)",
+      "valence": 3.33,
+      "arousal": 3.43,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I got a lotta new tricks for you, baby Just sayin' I'm flexible (I will) I do what I can to get you off (I will) Might just fuck him with my makeup on (I will)",
+      "valence": 2.94,
+      "arousal": 3.76,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Just sayin' I'm flexible (I will) I do what I can to get you off (I will) Might just fuck him with my makeup on (I will) Eat it like I need an apron on (yeah, ay)",
+      "valence": 2.71,
+      "arousal": 3.7,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I do what I can to get you off (I will) Might just fuck him with my makeup on (I will) Eat it like I need an apron on (yeah, ay) Eat it 'til I need to change my thong (yeah, ay)",
+      "valence": 2.5,
+      "arousal": 3.76,
+      "dominance": 3.83
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Might just fuck him with my makeup on (I will) Eat it like I need an apron on (yeah, ay) Eat it 'til I need to change my thong (yeah, ay) We could do it to your favorite song (yeah, ay)",
+      "valence": 2.86,
+      "arousal": 3.64,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Eat it like I need an apron on (yeah, ay) Eat it 'til I need to change my thong (yeah, ay) We could do it to your favorite song (yeah, ay) Take a ride into the danger zone",
+      "valence": 3.07,
+      "arousal": 3.5,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Eat it 'til I need to change my thong (yeah, ay) We could do it to your favorite song (yeah, ay) Take a ride into the danger zone You know my nigga be buggin' me",
+      "valence": 3.05,
+      "arousal": 3.54,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "We could do it to your favorite song (yeah, ay) Take a ride into the danger zone You know my nigga be buggin' me I just be wonderin' if you can fuck on me better",
+      "valence": 2.86,
+      "arousal": 3.53,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Take a ride into the danger zone You know my nigga be buggin' me I just be wonderin' if you can fuck on me better Itchin' for me like an ugly sweater",
+      "valence": 2.01,
+      "arousal": 3.68,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "You know my nigga be buggin' me I just be wonderin' if you can fuck on me better Itchin' for me like an ugly sweater Need it in me like a Chuck E. need cheddar",
+      "valence": 2.03,
+      "arousal": 3.71,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I just be wonderin' if you can fuck on me better Itchin' for me like an ugly sweater Need it in me like a Chuck E. need cheddar I need to know (yeah)",
+      "valence": 2.22,
+      "arousal": 3.6,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Itchin' for me like an ugly sweater Need it in me like a Chuck E. need cheddar I need to know (yeah) Wanna know what it's like (like)",
+      "valence": 2.78,
+      "arousal": 3.28,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Need it in me like a Chuck E. need cheddar I need to know (yeah) Wanna know what it's like (like) Baby, show me what it's like (like)",
+      "valence": 2.93,
+      "arousal": 3.22,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I need to know (yeah) Wanna know what it's like (like) Baby, show me what it's like (like) I don't really got no type (type)",
+      "valence": 2.9,
+      "arousal": 3.26,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Wanna know what it's like (like) Baby, show me what it's like (like) I don't really got no type (type) I just wanna fuck all night",
+      "valence": 2.51,
+      "arousal": 3.65,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Baby, show me what it's like (like) I don't really got no type (type) I just wanna fuck all night Yeah-yeah, oh-whoa-whoa (oh, ooh, mmm)",
+      "valence": 2.52,
+      "arousal": 3.88,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "I don't really got no type (type) I just wanna fuck all night Yeah-yeah, oh-whoa-whoa (oh, ooh, mmm) Baby, I need to know, mmm (yeah, need to know)",
+      "valence": 2.24,
+      "arousal": 3.99,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I just wanna fuck all night Yeah-yeah, oh-whoa-whoa (oh, ooh, mmm) Baby, I need to know, mmm (yeah, need to know) I just been fantasizin' (size)",
+      "valence": 2.9,
+      "arousal": 4.12,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Yeah-yeah, oh-whoa-whoa (oh, ooh, mmm) Baby, I need to know, mmm (yeah, need to know) I just been fantasizin' (size) And we got a lotta time (time)",
+      "valence": 3.38,
+      "arousal": 3.85,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Baby, I need to know, mmm (yeah, need to know) I just been fantasizin' (size) And we got a lotta time (time) Baby, come throw the pipe (pipe)",
+      "valence": 3.25,
+      "arousal": 3.6,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I just been fantasizin' (size) And we got a lotta time (time) Baby, come throw the pipe (pipe) Gotta know what it's like (like)",
+      "valence": 3.37,
+      "arousal": 3.57,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "And we got a lotta time (time) Baby, come throw the pipe (pipe) Gotta know what it's like (like) Yeah-yeah, oh-whoa-whoa",
+      "valence": 3.35,
+      "arousal": 3.61,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Baby, come throw the pipe (pipe) Gotta know what it's like (like) Yeah-yeah, oh-whoa-whoa Baby, I need to know, mmm",
+      "valence": 3.09,
+      "arousal": 3.46,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Gotta know what it's like (like) Yeah-yeah, oh-whoa-whoa Baby, I need to know, mmm You're exciting, boy, come find me",
+      "valence": 3.43,
+      "arousal": 3.75,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Yeah-yeah, oh-whoa-whoa Baby, I need to know, mmm You're exciting, boy, come find me Your eyes told me, \"Girl, come ride me\"",
+      "valence": 3.58,
+      "arousal": 3.97,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Baby, I need to know, mmm You're exciting, boy, come find me Your eyes told me, \"Girl, come ride me\" Fuck that feeling both us fighting",
+      "valence": 3.32,
+      "arousal": 4.06,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "You're exciting, boy, come find me Your eyes told me, \"Girl, come ride me\" Fuck that feeling both us fighting Could he try me? (Yeah) mmm, most likely",
+      "valence": 3.35,
+      "arousal": 4.17,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Your eyes told me, \"Girl, come ride me\" Fuck that feeling both us fighting Could he try me? (Yeah) mmm, most likely Tryna see if you could handle this ass",
+      "valence": 2.52,
+      "arousal": 3.95,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Fuck that feeling both us fighting Could he try me? (Yeah) mmm, most likely Tryna see if you could handle this ass Prolly give his ass a panic attack",
+      "valence": 2.28,
+      "arousal": 3.73,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Could he try me? (Yeah) mmm, most likely Tryna see if you could handle this ass Prolly give his ass a panic attack Sorry if I gave a random erection",
+      "valence": 2.52,
+      "arousal": 3.46,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Tryna see if you could handle this ass Prolly give his ass a panic attack Sorry if I gave a random erection Prolly thinkin' I'm a telekinetic",
+      "valence": 2.31,
+      "arousal": 3.53,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Prolly give his ass a panic attack Sorry if I gave a random erection Prolly thinkin' I'm a telekinetic Oh, wait, you a fan of the magic?",
+      "valence": 2.41,
+      "arousal": 3.45,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Sorry if I gave a random erection Prolly thinkin' I'm a telekinetic Oh, wait, you a fan of the magic? Poof, pussy like an Alakazam (yeah)",
+      "valence": 2.8,
+      "arousal": 3.23,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Prolly thinkin' I'm a telekinetic Oh, wait, you a fan of the magic? Poof, pussy like an Alakazam (yeah) I heard from a friend of a friend",
+      "valence": 2.88,
+      "arousal": 3.35,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Oh, wait, you a fan of the magic? Poof, pussy like an Alakazam (yeah) I heard from a friend of a friend That that dick was a ten out of ten",
+      "valence": 2.62,
+      "arousal": 3.68,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Poof, pussy like an Alakazam (yeah) I heard from a friend of a friend That that dick was a ten out of ten I can't stand it, just one night me",
+      "valence": 2.22,
+      "arousal": 3.7,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "I heard from a friend of a friend That that dick was a ten out of ten I can't stand it, just one night me Clink with the drink, gimme a sip",
+      "valence": 2.26,
+      "arousal": 3.64,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "That that dick was a ten out of ten I can't stand it, just one night me Clink with the drink, gimme a sip Tell me what's your kink, gimme the dick",
+      "valence": 2.29,
+      "arousal": 3.6,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "I can't stand it, just one night me Clink with the drink, gimme a sip Tell me what's your kink, gimme the dick Spank me, slap me, choke me, bite me (ew)",
+      "valence": 2.07,
+      "arousal": 3.85,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Clink with the drink, gimme a sip Tell me what's your kink, gimme the dick Spank me, slap me, choke me, bite me (ew) Uh, wait, I can take it (ah)",
+      "valence": 2.36,
+      "arousal": 3.75,
+      "dominance": 3.81
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Tell me what's your kink, gimme the dick Spank me, slap me, choke me, bite me (ew) Uh, wait, I can take it (ah) Give a fuck 'bout what your wifey's sayin' (yeah)",
+      "valence": 2.3,
+      "arousal": 3.8,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Spank me, slap me, choke me, bite me (ew) Uh, wait, I can take it (ah) Give a fuck 'bout what your wifey's sayin' (yeah) Wanna know what it's like (like)",
+      "valence": 2.28,
+      "arousal": 3.79,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Uh, wait, I can take it (ah) Give a fuck 'bout what your wifey's sayin' (yeah) Wanna know what it's like (like) Baby, show me what it's like (like)",
+      "valence": 2.61,
+      "arousal": 3.65,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Give a fuck 'bout what your wifey's sayin' (yeah) Wanna know what it's like (like) Baby, show me what it's like (like) I don't really got no type (type)",
+      "valence": 2.51,
+      "arousal": 3.47,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Wanna know what it's like (like) Baby, show me what it's like (like) I don't really got no type (type) I just wanna fuck all night",
+      "valence": 2.51,
+      "arousal": 3.65,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Baby, show me what it's like (like) I don't really got no type (type) I just wanna fuck all night Yeah-yeah, oh-whoa-whoa (oh, ooh, mmm)",
+      "valence": 2.52,
+      "arousal": 3.88,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "I don't really got no type (type) I just wanna fuck all night Yeah-yeah, oh-whoa-whoa (oh, ooh, mmm) Baby, I need to know, mmm (yeah, need to know)",
+      "valence": 2.24,
+      "arousal": 3.99,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "I just wanna fuck all night Yeah-yeah, oh-whoa-whoa (oh, ooh, mmm) Baby, I need to know, mmm (yeah, need to know) I just been fantasizin' (size)",
+      "valence": 2.9,
+      "arousal": 4.12,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Yeah-yeah, oh-whoa-whoa (oh, ooh, mmm) Baby, I need to know, mmm (yeah, need to know) I just been fantasizin' (size) And we got a lotta time (time)",
+      "valence": 3.38,
+      "arousal": 3.85,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Baby, I need to know, mmm (yeah, need to know) I just been fantasizin' (size) And we got a lotta time (time) Baby, come throw the pipe (pipe)",
+      "valence": 3.25,
+      "arousal": 3.6,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "I just been fantasizin' (size) And we got a lotta time (time) Baby, come throw the pipe (pipe) Gotta know what it's like (like)",
+      "valence": 3.37,
+      "arousal": 3.57,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "And we got a lotta time (time) Baby, come throw the pipe (pipe) Gotta know what it's like (like) Yeah-yeah, oh-whoa-whoa",
+      "valence": 3.35,
+      "arousal": 3.61,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "Baby, come throw the pipe (pipe) Gotta know what it's like (like) Yeah-yeah, oh-whoa-whoa Baby, I need to know, mmm",
+      "valence": 3.09,
+      "arousal": 3.46,
+      "dominance": 3.09
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "artist": "Zac Brown Band",
+  "overall_vad": {
+    "valence": 3.77,
+    "arousal": 3.54,
+    "dominance": 3.31
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Every morning when you come downstairs There's a mess but I don't care No makeup on and shining so bright My old sweatshirt never fit so right",
+      "valence": 2.51,
+      "arousal": 3.15,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "There's a mess but I don't care No makeup on and shining so bright My old sweatshirt never fit so right Dancing around to the radio",
+      "valence": 2.72,
+      "arousal": 3.06,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "No makeup on and shining so bright My old sweatshirt never fit so right Dancing around to the radio Humming the words that you don't know",
+      "valence": 3.27,
+      "arousal": 3.18,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "My old sweatshirt never fit so right Dancing around to the radio Humming the words that you don't know Cause I'm finding an angel off my list",
+      "valence": 3.18,
+      "arousal": 3.25,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Dancing around to the radio Humming the words that you don't know Cause I'm finding an angel off my list Thinking that it don't get no better than this",
+      "valence": 2.79,
+      "arousal": 3.35,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Humming the words that you don't know Cause I'm finding an angel off my list Thinking that it don't get no better than this You make loving you easy",
+      "valence": 3.65,
+      "arousal": 3.43,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Cause I'm finding an angel off my list Thinking that it don't get no better than this You make loving you easy You make loving you all I wanna do",
+      "valence": 4.05,
+      "arousal": 3.7,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Thinking that it don't get no better than this You make loving you easy You make loving you all I wanna do Every little smile and every little touch",
+      "valence": 4.05,
+      "arousal": 3.73,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "You make loving you easy You make loving you all I wanna do Every little smile and every little touch Reminds me how just how much it all makes",
+      "valence": 4.2,
+      "arousal": 3.77,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "You make loving you all I wanna do Every little smile and every little touch Reminds me how just how much it all makes Loving you easy",
+      "valence": 4.23,
+      "arousal": 3.82,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Every little smile and every little touch Reminds me how just how much it all makes Loving you easy Wrapped around me late at night",
+      "valence": 4.06,
+      "arousal": 3.58,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Reminds me how just how much it all makes Loving you easy Wrapped around me late at night Pillow talk by candle light",
+      "valence": 3.71,
+      "arousal": 3.33,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Loving you easy Wrapped around me late at night Pillow talk by candle light Gonna slow this down and make it last",
+      "valence": 3.68,
+      "arousal": 3.2,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Wrapped around me late at night Pillow talk by candle light Gonna slow this down and make it last The best things fly by us so fast",
+      "valence": 3.26,
+      "arousal": 3.04,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Pillow talk by candle light Gonna slow this down and make it last The best things fly by us so fast You make loving you easy",
+      "valence": 3.54,
+      "arousal": 3.24,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Gonna slow this down and make it last The best things fly by us so fast You make loving you easy You make loving you all I wanna do",
+      "valence": 3.73,
+      "arousal": 3.62,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "The best things fly by us so fast You make loving you easy You make loving you all I wanna do Every little smile and every little touch",
+      "valence": 4.17,
+      "arousal": 3.83,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "You make loving you easy You make loving you all I wanna do Every little smile and every little touch Reminds me how just how much it all makes",
+      "valence": 4.2,
+      "arousal": 3.77,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "You make loving you all I wanna do Every little smile and every little touch Reminds me how just how much it all makes Loving you easy",
+      "valence": 4.23,
+      "arousal": 3.82,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Every little smile and every little touch Reminds me how just how much it all makes Loving you easy Oh, I wanna sing it again",
+      "valence": 4.02,
+      "arousal": 3.72,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Reminds me how just how much it all makes Loving you easy Oh, I wanna sing it again You make loving you easy",
+      "valence": 3.96,
+      "arousal": 3.64,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Loving you easy Oh, I wanna sing it again You make loving you easy You make loving you all I wanna do",
+      "valence": 4.33,
+      "arousal": 3.84,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Oh, I wanna sing it again You make loving you easy You make loving you all I wanna do Every little smile and every little touch",
+      "valence": 4.18,
+      "arousal": 3.8,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "You make loving you easy You make loving you all I wanna do Every little smile and every little touch Reminds me how just how much it all makes",
+      "valence": 4.2,
+      "arousal": 3.77,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "You make loving you all I wanna do Every little smile and every little touch Reminds me how just how much it all makes Loving you easy",
+      "valence": 4.23,
+      "arousal": 3.82,
+      "dominance": 3.42
+    }
+  ]
+}

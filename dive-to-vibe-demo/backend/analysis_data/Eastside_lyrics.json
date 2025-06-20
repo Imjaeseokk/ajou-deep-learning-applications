@@ -1,0 +1,416 @@
+{
+  "artist": "benny blanco, Halsey & Khalid",
+  "overall_vad": {
+    "valence": 3.12,
+    "arousal": 3.48,
+    "dominance": 3.24
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Uh Yeah, yeah When I was young, I fell in love We used to hold hands, man, that was enough (yeah)",
+      "valence": 3.52,
+      "arousal": 3.61,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Yeah, yeah When I was young, I fell in love We used to hold hands, man, that was enough (yeah) Then we grew up, started to touch",
+      "valence": 3.54,
+      "arousal": 3.62,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "When I was young, I fell in love We used to hold hands, man, that was enough (yeah) Then we grew up, started to touch Used to kiss underneath the light on the back of the bus (yeah)",
+      "valence": 3.53,
+      "arousal": 3.7,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "We used to hold hands, man, that was enough (yeah) Then we grew up, started to touch Used to kiss underneath the light on the back of the bus (yeah) Oh no, your daddy didn't like me much",
+      "valence": 2.73,
+      "arousal": 3.38,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Then we grew up, started to touch Used to kiss underneath the light on the back of the bus (yeah) Oh no, your daddy didn't like me much And he didn't believe me when I said you were the one",
+      "valence": 2.84,
+      "arousal": 3.45,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Used to kiss underneath the light on the back of the bus (yeah) Oh no, your daddy didn't like me much And he didn't believe me when I said you were the one Oh, every day she found a way out of the window to sneak out late",
+      "valence": 2.65,
+      "arousal": 3.38,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Oh no, your daddy didn't like me much And he didn't believe me when I said you were the one Oh, every day she found a way out of the window to sneak out late She used to meet me on the Eastside",
+      "valence": 2.54,
+      "arousal": 3.34,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "And he didn't believe me when I said you were the one Oh, every day she found a way out of the window to sneak out late She used to meet me on the Eastside In the city where the sun don't set",
+      "valence": 2.89,
+      "arousal": 3.27,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Oh, every day she found a way out of the window to sneak out late She used to meet me on the Eastside In the city where the sun don't set And every day you know that we ride",
+      "valence": 3.2,
+      "arousal": 3.13,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "She used to meet me on the Eastside In the city where the sun don't set And every day you know that we ride Through the backstreets of a blue Corvette",
+      "valence": 3.17,
+      "arousal": 3.1,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "In the city where the sun don't set And every day you know that we ride Through the backstreets of a blue Corvette Baby, you know I just wanna leave tonight",
+      "valence": 2.64,
+      "arousal": 3.23,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "And every day you know that we ride Through the backstreets of a blue Corvette Baby, you know I just wanna leave tonight We can go anywhere we want",
+      "valence": 2.96,
+      "arousal": 3.4,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Through the backstreets of a blue Corvette Baby, you know I just wanna leave tonight We can go anywhere we want Drive down to the coast, jump in the seat",
+      "valence": 3.09,
+      "arousal": 3.28,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Baby, you know I just wanna leave tonight We can go anywhere we want Drive down to the coast, jump in the seat Just take my hand and come with me, yeah",
+      "valence": 3.25,
+      "arousal": 3.47,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "We can go anywhere we want Drive down to the coast, jump in the seat Just take my hand and come with me, yeah We can do anything if we put our minds to it",
+      "valence": 3.37,
+      "arousal": 3.47,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Drive down to the coast, jump in the seat Just take my hand and come with me, yeah We can do anything if we put our minds to it Take your whole life then you put a line through it",
+      "valence": 3.2,
+      "arousal": 3.41,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Just take my hand and come with me, yeah We can do anything if we put our minds to it Take your whole life then you put a line through it My love is yours if you're willing to take it",
+      "valence": 3.75,
+      "arousal": 3.83,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "We can do anything if we put our minds to it Take your whole life then you put a line through it My love is yours if you're willing to take it Give me your heart 'cause I ain't gonna break it",
+      "valence": 3.51,
+      "arousal": 3.75,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Take your whole life then you put a line through it My love is yours if you're willing to take it Give me your heart 'cause I ain't gonna break it So come away, starting today",
+      "valence": 3.63,
+      "arousal": 3.8,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "My love is yours if you're willing to take it Give me your heart 'cause I ain't gonna break it So come away, starting today Start a new life, together in a different place",
+      "valence": 3.86,
+      "arousal": 3.82,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Give me your heart 'cause I ain't gonna break it So come away, starting today Start a new life, together in a different place We know that love is how these ideas came to be",
+      "valence": 3.54,
+      "arousal": 3.52,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "So come away, starting today Start a new life, together in a different place We know that love is how these ideas came to be So baby, run away, away with me",
+      "valence": 3.43,
+      "arousal": 3.52,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Start a new life, together in a different place We know that love is how these ideas came to be So baby, run away, away with me Seventeen and we got a dream to have a family",
+      "valence": 3.59,
+      "arousal": 3.59,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "We know that love is how these ideas came to be So baby, run away, away with me Seventeen and we got a dream to have a family A house and everything in between",
+      "valence": 3.37,
+      "arousal": 3.55,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "So baby, run away, away with me Seventeen and we got a dream to have a family A house and everything in between And then, oh, suddenly we turned twenty-three",
+      "valence": 2.73,
+      "arousal": 3.34,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Seventeen and we got a dream to have a family A house and everything in between And then, oh, suddenly we turned twenty-three Now we got pressure for taking our life more seriously",
+      "valence": 2.73,
+      "arousal": 3.38,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "A house and everything in between And then, oh, suddenly we turned twenty-three Now we got pressure for taking our life more seriously We got our dead-end jobs and got bills to pay",
+      "valence": 2.56,
+      "arousal": 3.43,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "And then, oh, suddenly we turned twenty-three Now we got pressure for taking our life more seriously We got our dead-end jobs and got bills to pay Have old friends and know our enemies",
+      "valence": 2.54,
+      "arousal": 3.49,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Now we got pressure for taking our life more seriously We got our dead-end jobs and got bills to pay Have old friends and know our enemies Now I, I'm thinking back to when I was young",
+      "valence": 2.51,
+      "arousal": 3.43,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "We got our dead-end jobs and got bills to pay Have old friends and know our enemies Now I, I'm thinking back to when I was young Back to the day when I was falling in love",
+      "valence": 3.04,
+      "arousal": 3.29,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Have old friends and know our enemies Now I, I'm thinking back to when I was young Back to the day when I was falling in love He used to meet me on the Eastside",
+      "valence": 3.26,
+      "arousal": 3.38,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Now I, I'm thinking back to when I was young Back to the day when I was falling in love He used to meet me on the Eastside In the city where the sun don't set",
+      "valence": 3.5,
+      "arousal": 3.44,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Back to the day when I was falling in love He used to meet me on the Eastside In the city where the sun don't set And every day you know where we ride",
+      "valence": 3.48,
+      "arousal": 3.34,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "He used to meet me on the Eastside In the city where the sun don't set And every day you know where we ride Through the backstreets in a blue Corvette",
+      "valence": 3.15,
+      "arousal": 3.06,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "In the city where the sun don't set And every day you know where we ride Through the backstreets in a blue Corvette And baby, you know I just wanna leave tonight",
+      "valence": 2.79,
+      "arousal": 3.21,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "And every day you know where we ride Through the backstreets in a blue Corvette And baby, you know I just wanna leave tonight We can go anywhere we want",
+      "valence": 3.06,
+      "arousal": 3.35,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Through the backstreets in a blue Corvette And baby, you know I just wanna leave tonight We can go anywhere we want Drive down to the coast, jump in the seat",
+      "valence": 3.11,
+      "arousal": 3.4,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "And baby, you know I just wanna leave tonight We can go anywhere we want Drive down to the coast, jump in the seat Just take my hand and come with me",
+      "valence": 3.23,
+      "arousal": 3.48,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "We can go anywhere we want Drive down to the coast, jump in the seat Just take my hand and come with me Singing",
+      "valence": 3.67,
+      "arousal": 3.46,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Drive down to the coast, jump in the seat Just take my hand and come with me Singing We can do anything if we put our minds to it",
+      "valence": 3.46,
+      "arousal": 3.35,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Just take my hand and come with me Singing We can do anything if we put our minds to it Take your whole life then you put a line through it",
+      "valence": 3.41,
+      "arousal": 3.28,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Singing We can do anything if we put our minds to it Take your whole life then you put a line through it My love is yours if you're willing to take it",
+      "valence": 3.56,
+      "arousal": 3.63,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "We can do anything if we put our minds to it Take your whole life then you put a line through it My love is yours if you're willing to take it Give me your heart 'cause I ain't gonna break it",
+      "valence": 3.51,
+      "arousal": 3.75,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Take your whole life then you put a line through it My love is yours if you're willing to take it Give me your heart 'cause I ain't gonna break it So come away, starting today",
+      "valence": 3.63,
+      "arousal": 3.8,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "My love is yours if you're willing to take it Give me your heart 'cause I ain't gonna break it So come away, starting today Start a new life, together in a different place",
+      "valence": 3.86,
+      "arousal": 3.82,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Give me your heart 'cause I ain't gonna break it So come away, starting today Start a new life, together in a different place We know that love is how these ideas came to be",
+      "valence": 3.54,
+      "arousal": 3.52,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "So come away, starting today Start a new life, together in a different place We know that love is how these ideas came to be So baby, run away with me",
+      "valence": 3.66,
+      "arousal": 3.53,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Start a new life, together in a different place We know that love is how these ideas came to be So baby, run away with me Run away, now",
+      "valence": 3.49,
+      "arousal": 3.62,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "We know that love is how these ideas came to be So baby, run away with me Run away, now Run away, now",
+      "valence": 3.2,
+      "arousal": 3.67,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "So baby, run away with me Run away, now Run away, now Run away, now",
+      "valence": 2.3,
+      "arousal": 3.77,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Run away, now Run away, now Run away, now Run away, now",
+      "valence": 2.15,
+      "arousal": 3.8,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Run away, now Run away, now Run away, now Run away, now",
+      "valence": 2.15,
+      "arousal": 3.8,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Run away, now Run away, now Run away, now Run away, now",
+      "valence": 2.15,
+      "arousal": 3.8,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Run away, now Run away, now Run away, now He used to meet me on the Eastside",
+      "valence": 2.39,
+      "arousal": 3.62,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Run away, now Run away, now He used to meet me on the Eastside She used to meet me on the Eastside",
+      "valence": 2.5,
+      "arousal": 3.55,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Run away, now He used to meet me on the Eastside She used to meet me on the Eastside He used to meet me on the Eastside",
+      "valence": 2.77,
+      "arousal": 3.27,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "He used to meet me on the Eastside She used to meet me on the Eastside He used to meet me on the Eastside She used to meet me on the Eastside",
+      "valence": 3.12,
+      "arousal": 3.14,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "She used to meet me on the Eastside He used to meet me on the Eastside She used to meet me on the Eastside In the city where the sun don't set",
+      "valence": 3.12,
+      "arousal": 3.14,
+      "dominance": 3.1
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "artist": "Katy Perry",
+  "overall_vad": {
+    "valence": 2.75,
+    "arousal": 3.34,
+    "dominance": 3.0
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Told them your dreams, and they all started laughing I guess you're out of your mind 'til it actually happens I'm the small town One in seven billion",
+      "valence": 3.09,
+      "arousal": 3.44,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I guess you're out of your mind 'til it actually happens I'm the small town One in seven billion Why can't it be me?",
+      "valence": 2.71,
+      "arousal": 3.38,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I'm the small town One in seven billion Why can't it be me? They told me I was out there, tried to knock me down",
+      "valence": 2.5,
+      "arousal": 3.39,
+      "dominance": 2.77
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "One in seven billion Why can't it be me? They told me I was out there, tried to knock me down Took those sticks and stones, showed 'em I could build a house",
+      "valence": 2.66,
+      "arousal": 3.28,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Why can't it be me? They told me I was out there, tried to knock me down Took those sticks and stones, showed 'em I could build a house They tell me that I'm crazy, but I'll never let 'em change me",
+      "valence": 2.51,
+      "arousal": 3.41,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "They told me I was out there, tried to knock me down Took those sticks and stones, showed 'em I could build a house They tell me that I'm crazy, but I'll never let 'em change me 'Til they cover me in daisies, daisies, daisies",
+      "valence": 2.54,
+      "arousal": 3.41,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Took those sticks and stones, showed 'em I could build a house They tell me that I'm crazy, but I'll never let 'em change me 'Til they cover me in daisies, daisies, daisies They said I'm going nowhere, tried to count me out",
+      "valence": 2.65,
+      "arousal": 3.4,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "They tell me that I'm crazy, but I'll never let 'em change me 'Til they cover me in daisies, daisies, daisies They said I'm going nowhere, tried to count me out Took those sticks and stones, showed 'em I could build a house",
+      "valence": 2.63,
+      "arousal": 3.39,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "'Til they cover me in daisies, daisies, daisies They said I'm going nowhere, tried to count me out Took those sticks and stones, showed 'em I could build a house They tell me that I'm crazy, but I'll never let 'em change me",
+      "valence": 2.61,
+      "arousal": 3.37,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "They said I'm going nowhere, tried to count me out Took those sticks and stones, showed 'em I could build a house They tell me that I'm crazy, but I'll never let 'em change me 'Til they cover me in daisies, daisies, daisies",
+      "valence": 2.52,
+      "arousal": 3.4,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Took those sticks and stones, showed 'em I could build a house They tell me that I'm crazy, but I'll never let 'em change me 'Til they cover me in daisies, daisies, daisies 'Til they cover me in daisies, daisies, daisies",
+      "valence": 2.82,
+      "arousal": 3.23,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "They tell me that I'm crazy, but I'll never let 'em change me 'Til they cover me in daisies, daisies, daisies 'Til they cover me in daisies, daisies, daisies Hey, hey",
+      "valence": 2.72,
+      "arousal": 3.33,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "'Til they cover me in daisies, daisies, daisies 'Til they cover me in daisies, daisies, daisies Hey, hey Oh, cover me in daisies",
+      "valence": 3.03,
+      "arousal": 3.13,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "'Til they cover me in daisies, daisies, daisies Hey, hey Oh, cover me in daisies Hey, hey",
+      "valence": 3.02,
+      "arousal": 3.22,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Hey, hey Oh, cover me in daisies Hey, hey When did we all stop believing in magic?",
+      "valence": 3.01,
+      "arousal": 3.28,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Oh, cover me in daisies Hey, hey When did we all stop believing in magic? Why did we put all our hopes in a box in the attic?",
+      "valence": 2.95,
+      "arousal": 3.25,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Hey, hey When did we all stop believing in magic? Why did we put all our hopes in a box in the attic? I'm the long shot",
+      "valence": 2.87,
+      "arousal": 3.19,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "When did we all stop believing in magic? Why did we put all our hopes in a box in the attic? I'm the long shot I'm the Hail Mary",
+      "valence": 2.98,
+      "arousal": 3.35,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Why did we put all our hopes in a box in the attic? I'm the long shot I'm the Hail Mary Why can't it be me?",
+      "valence": 2.77,
+      "arousal": 3.4,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I'm the long shot I'm the Hail Mary Why can't it be me? They told me I was out there, tried to knock me down",
+      "valence": 2.71,
+      "arousal": 3.48,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I'm the Hail Mary Why can't it be me? They told me I was out there, tried to knock me down Took those sticks and stones, showed 'em I could build a house",
+      "valence": 2.83,
+      "arousal": 3.4,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Why can't it be me? They told me I was out there, tried to knock me down Took those sticks and stones, showed 'em I could build a house They tell me that I'm crazy, but I'll never let 'em change me",
+      "valence": 2.51,
+      "arousal": 3.41,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "They told me I was out there, tried to knock me down Took those sticks and stones, showed 'em I could build a house They tell me that I'm crazy, but I'll never let 'em change me 'Til they cover me in daisies, daisies, daisies",
+      "valence": 2.54,
+      "arousal": 3.41,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Took those sticks and stones, showed 'em I could build a house They tell me that I'm crazy, but I'll never let 'em change me 'Til they cover me in daisies, daisies, daisies They said I'm going nowhere, tried to count me out (count me out)",
+      "valence": 2.62,
+      "arousal": 3.41,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "They tell me that I'm crazy, but I'll never let 'em change me 'Til they cover me in daisies, daisies, daisies They said I'm going nowhere, tried to count me out (count me out) Took those sticks and stones, showed 'em I could build a house",
+      "valence": 2.61,
+      "arousal": 3.4,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "'Til they cover me in daisies, daisies, daisies They said I'm going nowhere, tried to count me out (count me out) Took those sticks and stones, showed 'em I could build a house They tell me that I'm crazy, but I'll never let 'em change me",
+      "valence": 2.6,
+      "arousal": 3.38,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "They said I'm going nowhere, tried to count me out (count me out) Took those sticks and stones, showed 'em I could build a house They tell me that I'm crazy, but I'll never let 'em change me 'Til they cover me in daisies, daisies, daisies",
+      "valence": 2.53,
+      "arousal": 3.4,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Took those sticks and stones, showed 'em I could build a house They tell me that I'm crazy, but I'll never let 'em change me 'Til they cover me in daisies, daisies, daisies 'Til they cover me in daisies, daisies, daisies",
+      "valence": 2.82,
+      "arousal": 3.23,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "They tell me that I'm crazy, but I'll never let 'em change me 'Til they cover me in daisies, daisies, daisies 'Til they cover me in daisies, daisies, daisies Hey, hey",
+      "valence": 2.72,
+      "arousal": 3.33,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "'Til they cover me in daisies, daisies, daisies 'Til they cover me in daisies, daisies, daisies Hey, hey Oh, cover me in daisies",
+      "valence": 3.03,
+      "arousal": 3.13,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "'Til they cover me in daisies, daisies, daisies Hey, hey Oh, cover me in daisies Hey, hey",
+      "valence": 3.02,
+      "arousal": 3.22,
+      "dominance": 2.98
+    }
+  ]
+}

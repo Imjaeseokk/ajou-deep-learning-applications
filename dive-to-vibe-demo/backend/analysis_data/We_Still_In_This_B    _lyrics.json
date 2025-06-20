@@ -1,0 +1,584 @@
+{
+  "artist": "B.o.B Featuring T.I. & Juicy J",
+  "overall_vad": {
+    "valence": 2.5,
+    "arousal": 3.68,
+    "dominance": 3.44
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I'm in my zone I'm feeling it Stop blowing my buzz quit killing it So buy another round, they try to shut us down Bout an hour ago but we still in this bitch",
+      "valence": 2.43,
+      "arousal": 3.78,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Stop blowing my buzz quit killing it So buy another round, they try to shut us down Bout an hour ago but we still in this bitch We still in this, we still in this bitch, we still in this",
+      "valence": 2.33,
+      "arousal": 3.76,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "So buy another round, they try to shut us down Bout an hour ago but we still in this bitch We still in this, we still in this bitch, we still in this Turn this shit up loud",
+      "valence": 2.4,
+      "arousal": 3.81,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Bout an hour ago but we still in this bitch We still in this, we still in this bitch, we still in this Turn this shit up loud And buy another round",
+      "valence": 2.39,
+      "arousal": 3.71,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "We still in this, we still in this bitch, we still in this Turn this shit up loud And buy another round They try to shut us down",
+      "valence": 2.26,
+      "arousal": 3.86,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Turn this shit up loud And buy another round They try to shut us down Bout an hour ago but we still in this bitch",
+      "valence": 2.36,
+      "arousal": 3.8,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "And buy another round They try to shut us down Bout an hour ago but we still in this bitch I pull up, pull up, pull up, in that automatic cook up",
+      "valence": 2.54,
+      "arousal": 3.44,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "They try to shut us down Bout an hour ago but we still in this bitch I pull up, pull up, pull up, in that automatic cook up B. Rich pull up in that rooster til we wake the fuckin' hood up",
+      "valence": 2.47,
+      "arousal": 3.59,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Bout an hour ago but we still in this bitch I pull up, pull up, pull up, in that automatic cook up B. Rich pull up in that rooster til we wake the fuckin' hood up Got all these pounds of ganja, I work out I'm doin' kush-ups",
+      "valence": 2.63,
+      "arousal": 3.46,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I pull up, pull up, pull up, in that automatic cook up B. Rich pull up in that rooster til we wake the fuckin' hood up Got all these pounds of ganja, I work out I'm doin' kush-ups Bobby Bands is in the building, pop that pussy, throw a foot up",
+      "valence": 2.79,
+      "arousal": 3.51,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "B. Rich pull up in that rooster til we wake the fuckin' hood up Got all these pounds of ganja, I work out I'm doin' kush-ups Bobby Bands is in the building, pop that pussy, throw a foot up In the air, one time for a nigga like me, With a squad like this",
+      "valence": 2.89,
+      "arousal": 3.59,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Got all these pounds of ganja, I work out I'm doin' kush-ups Bobby Bands is in the building, pop that pussy, throw a foot up In the air, one time for a nigga like me, With a squad like this Where the team so strong, and the flow so cold,",
+      "valence": 3.01,
+      "arousal": 3.61,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Bobby Bands is in the building, pop that pussy, throw a foot up In the air, one time for a nigga like me, With a squad like this Where the team so strong, and the flow so cold, Ain't nothin' but some bad bitches in my clique",
+      "valence": 2.6,
+      "arousal": 3.53,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "In the air, one time for a nigga like me, With a squad like this Where the team so strong, and the flow so cold, Ain't nothin' but some bad bitches in my clique Whats up Eastside?",
+      "valence": 2.49,
+      "arousal": 3.26,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Where the team so strong, and the flow so cold, Ain't nothin' but some bad bitches in my clique Whats up Eastside? We in this bitch",
+      "valence": 2.14,
+      "arousal": 3.49,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Ain't nothin' but some bad bitches in my clique Whats up Eastside? We in this bitch They think they seein' me, but they ain't seen shit",
+      "valence": 2.24,
+      "arousal": 3.31,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Whats up Eastside? We in this bitch They think they seein' me, but they ain't seen shit Girls on the pole, yeah they make me rich",
+      "valence": 2.75,
+      "arousal": 3.45,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "We in this bitch They think they seein' me, but they ain't seen shit Girls on the pole, yeah they make me rich Girls at my shows, wanna take my pic",
+      "valence": 3.02,
+      "arousal": 3.62,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "They think they seein' me, but they ain't seen shit Girls on the pole, yeah they make me rich Girls at my shows, wanna take my pic Yeah, we can do this here all night, can't tell me nothin' can't tell me shit",
+      "valence": 3.04,
+      "arousal": 3.66,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Girls on the pole, yeah they make me rich Girls at my shows, wanna take my pic Yeah, we can do this here all night, can't tell me nothin' can't tell me shit All in my zone, all on my own",
+      "valence": 3.23,
+      "arousal": 3.71,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Girls at my shows, wanna take my pic Yeah, we can do this here all night, can't tell me nothin' can't tell me shit All in my zone, all on my own Open that pack, rollin' that strong",
+      "valence": 3.1,
+      "arousal": 3.55,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Yeah, we can do this here all night, can't tell me nothin' can't tell me shit All in my zone, all on my own Open that pack, rollin' that strong And we still up in this, won't turn down, won't go home",
+      "valence": 2.78,
+      "arousal": 3.42,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "All in my zone, all on my own Open that pack, rollin' that strong And we still up in this, won't turn down, won't go home I'm in my zone I'm feeling it",
+      "valence": 3.42,
+      "arousal": 3.43,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Open that pack, rollin' that strong And we still up in this, won't turn down, won't go home I'm in my zone I'm feeling it Stop blowing my buzz quit killing it",
+      "valence": 2.61,
+      "arousal": 3.76,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "And we still up in this, won't turn down, won't go home I'm in my zone I'm feeling it Stop blowing my buzz quit killing it So buy another round, they try to shut us down",
+      "valence": 2.4,
+      "arousal": 3.8,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I'm in my zone I'm feeling it Stop blowing my buzz quit killing it So buy another round, they try to shut us down Bout an hour ago but we still in this bitch",
+      "valence": 2.43,
+      "arousal": 3.78,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Stop blowing my buzz quit killing it So buy another round, they try to shut us down Bout an hour ago but we still in this bitch We still in this, we still in this bitch, we still in this",
+      "valence": 2.33,
+      "arousal": 3.76,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "So buy another round, they try to shut us down Bout an hour ago but we still in this bitch We still in this, we still in this bitch, we still in this Turn this shit up loud",
+      "valence": 2.4,
+      "arousal": 3.81,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Bout an hour ago but we still in this bitch We still in this, we still in this bitch, we still in this Turn this shit up loud And buy another round",
+      "valence": 2.39,
+      "arousal": 3.71,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "We still in this, we still in this bitch, we still in this Turn this shit up loud And buy another round They try to shut us down",
+      "valence": 2.26,
+      "arousal": 3.86,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Turn this shit up loud And buy another round They try to shut us down Bout an hour ago but we still in this bitch",
+      "valence": 2.36,
+      "arousal": 3.8,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "And buy another round They try to shut us down Bout an hour ago but we still in this bitch I got big wheels on my ride",
+      "valence": 2.55,
+      "arousal": 3.58,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "They try to shut us down Bout an hour ago but we still in this bitch I got big wheels on my ride Spent bout six mills on my ride",
+      "valence": 2.56,
+      "arousal": 3.59,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Bout an hour ago but we still in this bitch I got big wheels on my ride Spent bout six mills on my ride You catch me swervin' all over your side of town bumpin' bitch don't kill my vibe",
+      "valence": 2.34,
+      "arousal": 3.64,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I got big wheels on my ride Spent bout six mills on my ride You catch me swervin' all over your side of town bumpin' bitch don't kill my vibe Don't blow my hide just blow my guy",
+      "valence": 2.5,
+      "arousal": 3.67,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Spent bout six mills on my ride You catch me swervin' all over your side of town bumpin' bitch don't kill my vibe Don't blow my hide just blow my guy I'm so paid I'm so fly",
+      "valence": 2.38,
+      "arousal": 3.8,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "You catch me swervin' all over your side of town bumpin' bitch don't kill my vibe Don't blow my hide just blow my guy I'm so paid I'm so fly Your baby daddy disrespect me black his eye, that's no lie",
+      "valence": 2.0,
+      "arousal": 3.91,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Don't blow my hide just blow my guy I'm so paid I'm so fly Your baby daddy disrespect me black his eye, that's no lie I'm on my square, blowin' circles in the air, of that purple",
+      "valence": 2.45,
+      "arousal": 3.84,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I'm so paid I'm so fly Your baby daddy disrespect me black his eye, that's no lie I'm on my square, blowin' circles in the air, of that purple I'ma boss and you a worker, listen here boy don't make me hurt you",
+      "valence": 2.57,
+      "arousal": 3.68,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Your baby daddy disrespect me black his eye, that's no lie I'm on my square, blowin' circles in the air, of that purple I'ma boss and you a worker, listen here boy don't make me hurt you You want trouble, I got plenty",
+      "valence": 2.27,
+      "arousal": 3.62,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I'm on my square, blowin' circles in the air, of that purple I'ma boss and you a worker, listen here boy don't make me hurt you You want trouble, I got plenty How you want it, full or semi",
+      "valence": 2.72,
+      "arousal": 3.44,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "I'ma boss and you a worker, listen here boy don't make me hurt you You want trouble, I got plenty How you want it, full or semi I'm so rich so all that fuck boy shit you kickin' don't offend me",
+      "valence": 2.48,
+      "arousal": 3.65,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "You want trouble, I got plenty How you want it, full or semi I'm so rich so all that fuck boy shit you kickin' don't offend me Don't get killed off in this bitch",
+      "valence": 2.26,
+      "arousal": 3.68,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "How you want it, full or semi I'm so rich so all that fuck boy shit you kickin' don't offend me Don't get killed off in this bitch I spit mills all in this shit",
+      "valence": 2.34,
+      "arousal": 3.7,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I'm so rich so all that fuck boy shit you kickin' don't offend me Don't get killed off in this bitch I spit mills all in this shit Boy it's been 11 years of this shit",
+      "valence": 2.14,
+      "arousal": 3.78,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Don't get killed off in this bitch I spit mills all in this shit Boy it's been 11 years of this shit Look at me now still in this bitch",
+      "valence": 2.04,
+      "arousal": 3.72,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I spit mills all in this shit Boy it's been 11 years of this shit Look at me now still in this bitch I stand tall no cant fall",
+      "valence": 2.16,
+      "arousal": 3.58,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Boy it's been 11 years of this shit Look at me now still in this bitch I stand tall no cant fall You pussy ass niggas can't touch it g",
+      "valence": 2.17,
+      "arousal": 3.69,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Look at me now still in this bitch I stand tall no cant fall You pussy ass niggas can't touch it g See me don't speak ain't nothin' g",
+      "valence": 2.32,
+      "arousal": 3.59,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I stand tall no cant fall You pussy ass niggas can't touch it g See me don't speak ain't nothin' g I'm in my zone nigga don't fuck with me aye!",
+      "valence": 2.15,
+      "arousal": 3.95,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "You pussy ass niggas can't touch it g See me don't speak ain't nothin' g I'm in my zone nigga don't fuck with me aye! I'm in my zone I'm feeling it",
+      "valence": 2.23,
+      "arousal": 4.04,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "See me don't speak ain't nothin' g I'm in my zone nigga don't fuck with me aye! I'm in my zone I'm feeling it Stop blowing my buzz quit killing it",
+      "valence": 2.25,
+      "arousal": 4.06,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "I'm in my zone nigga don't fuck with me aye! I'm in my zone I'm feeling it Stop blowing my buzz quit killing it So buy another round, they try to shut us down",
+      "valence": 2.38,
+      "arousal": 4.25,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "I'm in my zone I'm feeling it Stop blowing my buzz quit killing it So buy another round, they try to shut us down Bout an hour ago but we still in this bitch",
+      "valence": 2.43,
+      "arousal": 3.78,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Stop blowing my buzz quit killing it So buy another round, they try to shut us down Bout an hour ago but we still in this bitch We still in this, we still in this bitch, we still in this",
+      "valence": 2.33,
+      "arousal": 3.76,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "So buy another round, they try to shut us down Bout an hour ago but we still in this bitch We still in this, we still in this bitch, we still in this Turn this shit up loud",
+      "valence": 2.4,
+      "arousal": 3.81,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Bout an hour ago but we still in this bitch We still in this, we still in this bitch, we still in this Turn this shit up loud And buy another round",
+      "valence": 2.39,
+      "arousal": 3.71,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "We still in this, we still in this bitch, we still in this Turn this shit up loud And buy another round They try to shut us down",
+      "valence": 2.26,
+      "arousal": 3.86,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Turn this shit up loud And buy another round They try to shut us down Bout an hour ago but we still in this bitch",
+      "valence": 2.36,
+      "arousal": 3.8,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "And buy another round They try to shut us down Bout an hour ago but we still in this bitch Juicy J stay in the club, me and all my niggas",
+      "valence": 2.52,
+      "arousal": 3.49,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "They try to shut us down Bout an hour ago but we still in this bitch Juicy J stay in the club, me and all my niggas All these bad bitches, all this free liquor",
+      "valence": 2.36,
+      "arousal": 3.56,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Bout an hour ago but we still in this bitch Juicy J stay in the club, me and all my niggas All these bad bitches, all this free liquor Surrounded by so many women one of these hoes might be your wife",
+      "valence": 2.48,
+      "arousal": 3.53,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Juicy J stay in the club, me and all my niggas All these bad bitches, all this free liquor Surrounded by so many women one of these hoes might be your wife She lookin' for a nigga that's ballin' so tonight might be her night",
+      "valence": 2.65,
+      "arousal": 3.53,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "All these bad bitches, all this free liquor Surrounded by so many women one of these hoes might be your wife She lookin' for a nigga that's ballin' so tonight might be her night You know me, I stay stuntin' low key, I threw tuition at onyx",
+      "valence": 2.83,
+      "arousal": 3.43,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Surrounded by so many women one of these hoes might be your wife She lookin' for a nigga that's ballin' so tonight might be her night You know me, I stay stuntin' low key, I threw tuition at onyx Flip money fast lil' sonny rich nigga I speak Ebonics",
+      "valence": 3.16,
+      "arousal": 3.37,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "She lookin' for a nigga that's ballin' so tonight might be her night You know me, I stay stuntin' low key, I threw tuition at onyx Flip money fast lil' sonny rich nigga I speak Ebonics Gotta new car I paid cash",
+      "valence": 3.07,
+      "arousal": 3.31,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "You know me, I stay stuntin' low key, I threw tuition at onyx Flip money fast lil' sonny rich nigga I speak Ebonics Gotta new car I paid cash Gotta new crib with a weed lab",
+      "valence": 2.96,
+      "arousal": 3.31,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Flip money fast lil' sonny rich nigga I speak Ebonics Gotta new car I paid cash Gotta new crib with a weed lab Crisp bills I need that",
+      "valence": 2.9,
+      "arousal": 3.41,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Gotta new car I paid cash Gotta new crib with a weed lab Crisp bills I need that Fuck your team where the freaks at",
+      "valence": 2.46,
+      "arousal": 3.86,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Gotta new crib with a weed lab Crisp bills I need that Fuck your team where the freaks at Hundred deep in VIP niggas always hatin'",
+      "valence": 2.39,
+      "arousal": 3.72,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Crisp bills I need that Fuck your team where the freaks at Hundred deep in VIP niggas always hatin' I came in with a bunch of goons and I'm leavin' out with this lady",
+      "valence": 2.25,
+      "arousal": 3.83,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Fuck your team where the freaks at Hundred deep in VIP niggas always hatin' I came in with a bunch of goons and I'm leavin' out with this lady I got your boo in my Bugatti she bout to swallow my babies",
+      "valence": 2.14,
+      "arousal": 4.0,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Hundred deep in VIP niggas always hatin' I came in with a bunch of goons and I'm leavin' out with this lady I got your boo in my Bugatti she bout to swallow my babies My system loud my weed loud no hair clippers I'm faded trippy",
+      "valence": 2.67,
+      "arousal": 3.63,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "I came in with a bunch of goons and I'm leavin' out with this lady I got your boo in my Bugatti she bout to swallow my babies My system loud my weed loud no hair clippers I'm faded trippy I'm in my zone I'm feeling it",
+      "valence": 2.88,
+      "arousal": 3.82,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "I got your boo in my Bugatti she bout to swallow my babies My system loud my weed loud no hair clippers I'm faded trippy I'm in my zone I'm feeling it Stop blowing my buzz quit killing it",
+      "valence": 2.69,
+      "arousal": 3.92,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "My system loud my weed loud no hair clippers I'm faded trippy I'm in my zone I'm feeling it Stop blowing my buzz quit killing it So buy another round, they try to shut us down",
+      "valence": 2.66,
+      "arousal": 3.71,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "I'm in my zone I'm feeling it Stop blowing my buzz quit killing it So buy another round, they try to shut us down Bout an hour ago but we still in this bitch",
+      "valence": 2.43,
+      "arousal": 3.78,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "Stop blowing my buzz quit killing it So buy another round, they try to shut us down Bout an hour ago but we still in this bitch We still in this, we still in this bitch, we still in this",
+      "valence": 2.33,
+      "arousal": 3.76,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "So buy another round, they try to shut us down Bout an hour ago but we still in this bitch We still in this, we still in this bitch, we still in this Turn this shit up loud",
+      "valence": 2.4,
+      "arousal": 3.81,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "Bout an hour ago but we still in this bitch We still in this, we still in this bitch, we still in this Turn this shit up loud And buy another round",
+      "valence": 2.39,
+      "arousal": 3.71,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "We still in this, we still in this bitch, we still in this Turn this shit up loud And buy another round They try to shut us down",
+      "valence": 2.26,
+      "arousal": 3.86,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "Turn this shit up loud And buy another round They try to shut us down Bout an hour ago but we still in this bitch",
+      "valence": 2.36,
+      "arousal": 3.8,
+      "dominance": 3.52
+    }
+  ]
+}

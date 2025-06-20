@@ -1,0 +1,213 @@
+{
+  "artist": "Luke Bryan",
+  "overall_vad": {
+    "valence": 2.93,
+    "arousal": 3.61,
+    "dominance": 3.31
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "It don't matter what plans I got, I can break 'em. Yeah, I can turn this thing around at the next red light And I don't mind telling all the guys \"I can't meet 'em\". Hell, we can all go raise some hell on any other night",
+      "valence": 2.75,
+      "arousal": 3.42,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Yeah, I can turn this thing around at the next red light And I don't mind telling all the guys \"I can't meet 'em\". Hell, we can all go raise some hell on any other night Girl, I don't care, oh I just gotta see what you're wearing.",
+      "valence": 2.87,
+      "arousal": 3.51,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "And I don't mind telling all the guys \"I can't meet 'em\". Hell, we can all go raise some hell on any other night Girl, I don't care, oh I just gotta see what you're wearing. Your hair, is I put up or falling down?",
+      "valence": 2.79,
+      "arousal": 3.44,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Hell, we can all go raise some hell on any other night Girl, I don't care, oh I just gotta see what you're wearing. Your hair, is I put up or falling down? Oh I just have to see it now.",
+      "valence": 2.79,
+      "arousal": 3.6,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Girl, I don't care, oh I just gotta see what you're wearing. Your hair, is I put up or falling down? Oh I just have to see it now. If you wanna call me, call me, call me you don't have to worry 'bout it baby.",
+      "valence": 2.99,
+      "arousal": 3.57,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Your hair, is I put up or falling down? Oh I just have to see it now. If you wanna call me, call me, call me you don't have to worry 'bout it baby. You can wake me up in the dead of the night; wreck my plans, baby that's alright.",
+      "valence": 2.66,
+      "arousal": 3.67,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Oh I just have to see it now. If you wanna call me, call me, call me you don't have to worry 'bout it baby. You can wake me up in the dead of the night; wreck my plans, baby that's alright. This is a drop everything kind of thing.",
+      "valence": 2.58,
+      "arousal": 3.76,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "If you wanna call me, call me, call me you don't have to worry 'bout it baby. You can wake me up in the dead of the night; wreck my plans, baby that's alright. This is a drop everything kind of thing. Swing on by I will pour you a drink.",
+      "valence": 2.69,
+      "arousal": 3.8,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "You can wake me up in the dead of the night; wreck my plans, baby that's alright. This is a drop everything kind of thing. Swing on by I will pour you a drink. The door's unlocked, I'll leave on the lights",
+      "valence": 2.65,
+      "arousal": 3.55,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "This is a drop everything kind of thing. Swing on by I will pour you a drink. The door's unlocked, I'll leave on the lights Baby you can crash my party anytime.",
+      "valence": 3.15,
+      "arousal": 3.54,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Swing on by I will pour you a drink. The door's unlocked, I'll leave on the lights Baby you can crash my party anytime. Ain't a spot downtown that's rockin' the way that you rock me.",
+      "valence": 3.53,
+      "arousal": 3.64,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "The door's unlocked, I'll leave on the lights Baby you can crash my party anytime. Ain't a spot downtown that's rockin' the way that you rock me. Ain't a bar that can make me buzz the way that you do.",
+      "valence": 3.31,
+      "arousal": 3.75,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Baby you can crash my party anytime. Ain't a spot downtown that's rockin' the way that you rock me. Ain't a bar that can make me buzz the way that you do. I could be on the front row of the best show.",
+      "valence": 3.46,
+      "arousal": 3.93,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Ain't a spot downtown that's rockin' the way that you rock me. Ain't a bar that can make me buzz the way that you do. I could be on the front row of the best show. And look down and see your face on my phone.",
+      "valence": 3.47,
+      "arousal": 3.73,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Ain't a bar that can make me buzz the way that you do. I could be on the front row of the best show. And look down and see your face on my phone. And I'm gone so long, hang on. I'll meet you in a minute or two.",
+      "valence": 3.21,
+      "arousal": 3.53,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I could be on the front row of the best show. And look down and see your face on my phone. And I'm gone so long, hang on. I'll meet you in a minute or two. If you wanna call me, call me, call me you don't have to worry 'bout it baby.",
+      "valence": 3.21,
+      "arousal": 3.69,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "And look down and see your face on my phone. And I'm gone so long, hang on. I'll meet you in a minute or two. If you wanna call me, call me, call me you don't have to worry 'bout it baby. You can wake me up in the dead of the night; wreck my plans, baby that's alright.",
+      "valence": 2.9,
+      "arousal": 3.59,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "And I'm gone so long, hang on. I'll meet you in a minute or two. If you wanna call me, call me, call me you don't have to worry 'bout it baby. You can wake me up in the dead of the night; wreck my plans, baby that's alright. This is a drop everything kind of thing.",
+      "valence": 2.72,
+      "arousal": 3.65,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "If you wanna call me, call me, call me you don't have to worry 'bout it baby. You can wake me up in the dead of the night; wreck my plans, baby that's alright. This is a drop everything kind of thing. Swing on by I will pour you a drink.",
+      "valence": 2.69,
+      "arousal": 3.8,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "You can wake me up in the dead of the night; wreck my plans, baby that's alright. This is a drop everything kind of thing. Swing on by I will pour you a drink. The door's unlocked. I'll leave on the lights",
+      "valence": 2.68,
+      "arousal": 3.5,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "This is a drop everything kind of thing. Swing on by I will pour you a drink. The door's unlocked. I'll leave on the lights Baby you can crash my party anytime.",
+      "valence": 3.12,
+      "arousal": 3.49,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Swing on by I will pour you a drink. The door's unlocked. I'll leave on the lights Baby you can crash my party anytime. If it's 2 in the morning and you're feeling lonely and wondering what I'm doing.",
+      "valence": 3.14,
+      "arousal": 3.35,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "The door's unlocked. I'll leave on the lights Baby you can crash my party anytime. If it's 2 in the morning and you're feeling lonely and wondering what I'm doing. Go ahead and call me, call me, call me you don't have to worry 'bout it baby.",
+      "valence": 3.0,
+      "arousal": 3.54,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Baby you can crash my party anytime. If it's 2 in the morning and you're feeling lonely and wondering what I'm doing. Go ahead and call me, call me, call me you don't have to worry 'bout it baby. You can wake me up in the dead of the night; wreck my plans, baby that's alright.",
+      "valence": 2.55,
+      "arousal": 3.77,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "If it's 2 in the morning and you're feeling lonely and wondering what I'm doing. Go ahead and call me, call me, call me you don't have to worry 'bout it baby. You can wake me up in the dead of the night; wreck my plans, baby that's alright. This is a drop everything kind of thing.",
+      "valence": 2.46,
+      "arousal": 3.73,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Go ahead and call me, call me, call me you don't have to worry 'bout it baby. You can wake me up in the dead of the night; wreck my plans, baby that's alright. This is a drop everything kind of thing. Swing on by I will pour you a drink.",
+      "valence": 2.74,
+      "arousal": 3.76,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "You can wake me up in the dead of the night; wreck my plans, baby that's alright. This is a drop everything kind of thing. Swing on by I will pour you a drink. The door's unlocked. I'll leave on the lights",
+      "valence": 2.68,
+      "arousal": 3.5,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "This is a drop everything kind of thing. Swing on by I will pour you a drink. The door's unlocked. I'll leave on the lights Baby you can crash my party anytime.",
+      "valence": 3.12,
+      "arousal": 3.49,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Swing on by I will pour you a drink. The door's unlocked. I'll leave on the lights Baby you can crash my party anytime. Baby you can crash my party anytime.",
+      "valence": 3.03,
+      "arousal": 3.44,
+      "dominance": 3.49
+    }
+  ]
+}

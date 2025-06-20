@@ -1,0 +1,388 @@
+{
+  "artist": "Carrie Underwood",
+  "overall_vad": {
+    "valence": 2.88,
+    "arousal": 3.42,
+    "dominance": 3.2
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Hey, good girl (hey, good girl) With your head in the clouds I bet you I can tell you, what you're thinkin' about You'll see a good boy (you see a good boy)",
+      "valence": 3.81,
+      "arousal": 3.61,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "With your head in the clouds I bet you I can tell you, what you're thinkin' about You'll see a good boy (you see a good boy) Gonna give you the world",
+      "valence": 3.53,
+      "arousal": 3.48,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I bet you I can tell you, what you're thinkin' about You'll see a good boy (you see a good boy) Gonna give you the world But he's gonna leave you cryin'",
+      "valence": 3.18,
+      "arousal": 3.51,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "You'll see a good boy (you see a good boy) Gonna give you the world But he's gonna leave you cryin' With your heart in the dirt",
+      "valence": 3.05,
+      "arousal": 3.53,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Gonna give you the world But he's gonna leave you cryin' With your heart in the dirt His lips are dripping honey",
+      "valence": 2.65,
+      "arousal": 3.71,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "But he's gonna leave you cryin' With your heart in the dirt His lips are dripping honey But he'll sting you like a bee",
+      "valence": 2.19,
+      "arousal": 3.72,
+      "dominance": 2.61
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "With your heart in the dirt His lips are dripping honey But he'll sting you like a bee So lock up all your loving",
+      "valence": 2.64,
+      "arousal": 3.63,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "His lips are dripping honey But he'll sting you like a bee So lock up all your loving Go and throw away the key",
+      "valence": 2.53,
+      "arousal": 3.72,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "But he'll sting you like a bee So lock up all your loving Go and throw away the key Hey, good girl (hey, good girl)",
+      "valence": 2.84,
+      "arousal": 3.72,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "So lock up all your loving Go and throw away the key Hey, good girl (hey, good girl) Get out while you can",
+      "valence": 2.91,
+      "arousal": 3.66,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Go and throw away the key Hey, good girl (hey, good girl) Get out while you can I know you think you got a good man",
+      "valence": 3.17,
+      "arousal": 3.58,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Hey, good girl (hey, good girl) Get out while you can I know you think you got a good man Why, why you gotta be so blind?",
+      "valence": 3.39,
+      "arousal": 3.67,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Get out while you can I know you think you got a good man Why, why you gotta be so blind? Won't you open up your eyes?",
+      "valence": 2.87,
+      "arousal": 3.45,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I know you think you got a good man Why, why you gotta be so blind? Won't you open up your eyes? It's just a matter of time 'til you find",
+      "valence": 3.05,
+      "arousal": 3.33,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Why, why you gotta be so blind? Won't you open up your eyes? It's just a matter of time 'til you find He's no good, girl",
+      "valence": 2.64,
+      "arousal": 3.4,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Won't you open up your eyes? It's just a matter of time 'til you find He's no good, girl No good for you",
+      "valence": 2.49,
+      "arousal": 3.23,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "It's just a matter of time 'til you find He's no good, girl No good for you You better get to getting on your goodbye shoes and go, go, go",
+      "valence": 2.46,
+      "arousal": 3.22,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "He's no good, girl No good for you You better get to getting on your goodbye shoes and go, go, go Better listen to me, he's low, low, low",
+      "valence": 2.3,
+      "arousal": 3.32,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "No good for you You better get to getting on your goodbye shoes and go, go, go Better listen to me, he's low, low, low Hey, good girl (hey, good girl)",
+      "valence": 2.9,
+      "arousal": 3.52,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "You better get to getting on your goodbye shoes and go, go, go Better listen to me, he's low, low, low Hey, good girl (hey, good girl) You got a heart of gold",
+      "valence": 3.45,
+      "arousal": 3.75,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Better listen to me, he's low, low, low Hey, good girl (hey, good girl) You got a heart of gold You want a white wedding",
+      "valence": 3.25,
+      "arousal": 3.48,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Hey, good girl (hey, good girl) You got a heart of gold You want a white wedding And a hand you can hold",
+      "valence": 3.73,
+      "arousal": 3.56,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "You got a heart of gold You want a white wedding And a hand you can hold Just like you should, girl (just like you should, girl)",
+      "valence": 3.24,
+      "arousal": 3.39,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "You want a white wedding And a hand you can hold Just like you should, girl (just like you should, girl) Like every good girl does",
+      "valence": 3.26,
+      "arousal": 3.33,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "And a hand you can hold Just like you should, girl (just like you should, girl) Like every good girl does Want a fairytale ending, somebody to love",
+      "valence": 3.56,
+      "arousal": 3.44,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Just like you should, girl (just like you should, girl) Like every good girl does Want a fairytale ending, somebody to love But he's really good at lying",
+      "valence": 3.19,
+      "arousal": 3.44,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Like every good girl does Want a fairytale ending, somebody to love But he's really good at lying Yeah, he'll leave you in the dust",
+      "valence": 3.15,
+      "arousal": 3.39,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Want a fairytale ending, somebody to love But he's really good at lying Yeah, he'll leave you in the dust 'Cause when he says forever",
+      "valence": 3.16,
+      "arousal": 3.35,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "But he's really good at lying Yeah, he'll leave you in the dust 'Cause when he says forever Well, it don't mean much",
+      "valence": 2.88,
+      "arousal": 2.99,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Yeah, he'll leave you in the dust 'Cause when he says forever Well, it don't mean much Hey, good girl (hey, good girl)",
+      "valence": 2.92,
+      "arousal": 3.19,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "'Cause when he says forever Well, it don't mean much Hey, good girl (hey, good girl) So good for him",
+      "valence": 3.46,
+      "arousal": 3.29,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Well, it don't mean much Hey, good girl (hey, good girl) So good for him Better back away honey",
+      "valence": 3.12,
+      "arousal": 3.24,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Hey, good girl (hey, good girl) So good for him Better back away honey You don't know where he's been",
+      "valence": 3.69,
+      "arousal": 3.52,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "So good for him Better back away honey You don't know where he's been Why, why you gotta be so blind?",
+      "valence": 3.08,
+      "arousal": 3.34,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Better back away honey You don't know where he's been Why, why you gotta be so blind? Won't you open up your eyes?",
+      "valence": 2.63,
+      "arousal": 3.41,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "You don't know where he's been Why, why you gotta be so blind? Won't you open up your eyes? It's just a matter of time 'til you find",
+      "valence": 2.87,
+      "arousal": 3.4,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Why, why you gotta be so blind? Won't you open up your eyes? It's just a matter of time 'til you find He's no good, girl",
+      "valence": 2.64,
+      "arousal": 3.4,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Won't you open up your eyes? It's just a matter of time 'til you find He's no good, girl No good for you",
+      "valence": 2.49,
+      "arousal": 3.23,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "It's just a matter of time 'til you find He's no good, girl No good for you You better get to getting on your goodbye shoes and go, go, go",
+      "valence": 2.46,
+      "arousal": 3.22,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "He's no good, girl No good for you You better get to getting on your goodbye shoes and go, go, go Yeah yeah yeah, he's low...",
+      "valence": 2.28,
+      "arousal": 3.36,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "No good for you You better get to getting on your goodbye shoes and go, go, go Yeah yeah yeah, he's low... Yeah yeah yeah...",
+      "valence": 2.62,
+      "arousal": 3.25,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "You better get to getting on your goodbye shoes and go, go, go Yeah yeah yeah, he's low... Yeah yeah yeah... Oh, he's no good, girl",
+      "valence": 2.45,
+      "arousal": 3.37,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Yeah yeah yeah, he's low... Yeah yeah yeah... Oh, he's no good, girl Why can't you see?",
+      "valence": 2.55,
+      "arousal": 3.26,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Yeah yeah yeah... Oh, he's no good, girl Why can't you see? He'll take your heart and break it",
+      "valence": 2.53,
+      "arousal": 3.44,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Oh, he's no good, girl Why can't you see? He'll take your heart and break it Listen to me, yeah",
+      "valence": 2.55,
+      "arousal": 3.36,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Why can't you see? He'll take your heart and break it Listen to me, yeah Why, why you gotta be so blind?",
+      "valence": 2.66,
+      "arousal": 3.53,
+      "dominance": 2.75
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "He'll take your heart and break it Listen to me, yeah Why, why you gotta be so blind? Won't you open up your eyes?",
+      "valence": 2.69,
+      "arousal": 3.59,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Listen to me, yeah Why, why you gotta be so blind? Won't you open up your eyes? It's just a matter of time 'til you find",
+      "valence": 2.93,
+      "arousal": 3.39,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Why, why you gotta be so blind? Won't you open up your eyes? It's just a matter of time 'til you find He's no good, he's no good",
+      "valence": 2.71,
+      "arousal": 3.42,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Won't you open up your eyes? It's just a matter of time 'til you find He's no good, he's no good Won't you open up your eyes?",
+      "valence": 2.73,
+      "arousal": 3.25,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "It's just a matter of time 'til you find He's no good, he's no good Won't you open up your eyes? It's just a matter of time 'til you find",
+      "valence": 2.77,
+      "arousal": 3.22,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "He's no good, he's no good Won't you open up your eyes? It's just a matter of time 'til you find He's no good, girl",
+      "valence": 2.45,
+      "arousal": 3.32,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Won't you open up your eyes? It's just a matter of time 'til you find He's no good, girl No good for you",
+      "valence": 2.49,
+      "arousal": 3.23,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "It's just a matter of time 'til you find He's no good, girl No good for you You better get to getting on your goodbye shoes",
+      "valence": 2.51,
+      "arousal": 3.24,
+      "dominance": 3.32
+    }
+  ]
+}

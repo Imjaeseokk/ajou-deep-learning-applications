@@ -1,0 +1,157 @@
+{
+  "artist": "Chris Young",
+  "overall_vad": {
+    "valence": 3.78,
+    "arousal": 3.66,
+    "dominance": 3.42
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I've been a rolling stone all my life Flying all alone, flying blind I've seen it all, I've been around I've been lost and I've been found",
+      "valence": 2.98,
+      "arousal": 3.37,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Flying all alone, flying blind I've seen it all, I've been around I've been lost and I've been found But who I am with you is who I really wanna be",
+      "valence": 3.19,
+      "arousal": 3.51,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I've seen it all, I've been around I've been lost and I've been found But who I am with you is who I really wanna be You're so good for me",
+      "valence": 3.73,
+      "arousal": 3.66,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I've been lost and I've been found But who I am with you is who I really wanna be You're so good for me And when I'm holdin' you, it feels like I've got the world in my hands",
+      "valence": 3.82,
+      "arousal": 3.66,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "But who I am with you is who I really wanna be You're so good for me And when I'm holdin' you, it feels like I've got the world in my hands Yeah, a better man is who I am with you",
+      "valence": 3.79,
+      "arousal": 3.66,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "You're so good for me And when I'm holdin' you, it feels like I've got the world in my hands Yeah, a better man is who I am with you I've got a ways to go on this ride",
+      "valence": 3.96,
+      "arousal": 3.73,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "And when I'm holdin' you, it feels like I've got the world in my hands Yeah, a better man is who I am with you I've got a ways to go on this ride But I got a hand to hold that fits just right",
+      "valence": 3.66,
+      "arousal": 3.65,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Yeah, a better man is who I am with you I've got a ways to go on this ride But I got a hand to hold that fits just right You make me laugh, you make me high,",
+      "valence": 3.63,
+      "arousal": 3.66,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I've got a ways to go on this ride But I got a hand to hold that fits just right You make me laugh, you make me high, You make me wanna hold on tight",
+      "valence": 3.59,
+      "arousal": 3.73,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "But I got a hand to hold that fits just right You make me laugh, you make me high, You make me wanna hold on tight 'Cause who I am with you is who I really wanna be",
+      "valence": 3.81,
+      "arousal": 3.67,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "You make me laugh, you make me high, You make me wanna hold on tight 'Cause who I am with you is who I really wanna be You're so good for me",
+      "valence": 4.0,
+      "arousal": 3.85,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "You make me wanna hold on tight 'Cause who I am with you is who I really wanna be You're so good for me And when I'm holdin' you, it feels like I've got the world in my hands",
+      "valence": 3.82,
+      "arousal": 3.74,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "'Cause who I am with you is who I really wanna be You're so good for me And when I'm holdin' you, it feels like I've got the world in my hands Yeah, a better man is who I am with you",
+      "valence": 3.84,
+      "arousal": 3.68,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "You're so good for me And when I'm holdin' you, it feels like I've got the world in my hands Yeah, a better man is who I am with you Who I am with you",
+      "valence": 3.96,
+      "arousal": 3.67,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And when I'm holdin' you, it feels like I've got the world in my hands Yeah, a better man is who I am with you Who I am with you Because of you I'm a lucky man",
+      "valence": 3.98,
+      "arousal": 3.65,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Yeah, a better man is who I am with you Who I am with you Because of you I'm a lucky man You're the best part of who I am",
+      "valence": 3.89,
+      "arousal": 3.6,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Who I am with you Because of you I'm a lucky man You're the best part of who I am Who I am with you is who I really wanna be",
+      "valence": 3.91,
+      "arousal": 3.65,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Because of you I'm a lucky man You're the best part of who I am Who I am with you is who I really wanna be You're so good for me",
+      "valence": 4.09,
+      "arousal": 3.68,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "You're the best part of who I am Who I am with you is who I really wanna be You're so good for me And when I'm holdin' you, it feels like I've got the world in my hands",
+      "valence": 4.01,
+      "arousal": 3.75,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Who I am with you is who I really wanna be You're so good for me And when I'm holdin' you, it feels like I've got the world in my hands Yeah, a better man is who I am with you",
+      "valence": 3.85,
+      "arousal": 3.69,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "You're so good for me And when I'm holdin' you, it feels like I've got the world in my hands Yeah, a better man is who I am with you Yes, who I am with you",
+      "valence": 3.96,
+      "arousal": 3.65,
+      "dominance": 3.43
+    }
+  ]
+}

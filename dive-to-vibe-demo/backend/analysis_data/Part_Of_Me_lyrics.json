@@ -1,0 +1,395 @@
+{
+  "artist": "Katy Perry",
+  "overall_vad": {
+    "valence": 2.66,
+    "arousal": 3.54,
+    "dominance": 3.37
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Days like this, I want to drive away Pack my bags and watch your shadow fade You chewed me up and spit me out Like I was poison in your mouth",
+      "valence": 2.07,
+      "arousal": 3.78,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Pack my bags and watch your shadow fade You chewed me up and spit me out Like I was poison in your mouth You took my light, you drained me down",
+      "valence": 2.26,
+      "arousal": 3.74,
+      "dominance": 2.6
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "You chewed me up and spit me out Like I was poison in your mouth You took my light, you drained me down But that was then and this is now",
+      "valence": 2.24,
+      "arousal": 3.64,
+      "dominance": 2.73
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Like I was poison in your mouth You took my light, you drained me down But that was then and this is now Now look at me",
+      "valence": 2.32,
+      "arousal": 3.54,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "You took my light, you drained me down But that was then and this is now Now look at me This is the part of me",
+      "valence": 2.57,
+      "arousal": 3.41,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "But that was then and this is now Now look at me This is the part of me That you're never gonna ever take away from me, no",
+      "valence": 2.93,
+      "arousal": 3.27,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Now look at me This is the part of me That you're never gonna ever take away from me, no This is the part of me",
+      "valence": 3.12,
+      "arousal": 3.26,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "This is the part of me That you're never gonna ever take away from me, no This is the part of me That you're never gonna ever take away from me, no",
+      "valence": 2.94,
+      "arousal": 3.33,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "That you're never gonna ever take away from me, no This is the part of me That you're never gonna ever take away from me, no Throw your sticks and your stones",
+      "valence": 2.69,
+      "arousal": 3.45,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "This is the part of me That you're never gonna ever take away from me, no Throw your sticks and your stones Throw your bombs and your blows",
+      "valence": 2.67,
+      "arousal": 3.63,
+      "dominance": 3.79
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "That you're never gonna ever take away from me, no Throw your sticks and your stones Throw your bombs and your blows But you're not gonna break my soul",
+      "valence": 2.22,
+      "arousal": 3.7,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Throw your sticks and your stones Throw your bombs and your blows But you're not gonna break my soul This is the part of me",
+      "valence": 2.45,
+      "arousal": 3.73,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Throw your bombs and your blows But you're not gonna break my soul This is the part of me That you're never gonna ever take away from me, no",
+      "valence": 2.39,
+      "arousal": 3.66,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "But you're not gonna break my soul This is the part of me That you're never gonna ever take away from me, no I just wanna throw my phone away",
+      "valence": 2.38,
+      "arousal": 3.62,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "This is the part of me That you're never gonna ever take away from me, no I just wanna throw my phone away Find out who is really there for me",
+      "valence": 2.72,
+      "arousal": 3.57,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "That you're never gonna ever take away from me, no I just wanna throw my phone away Find out who is really there for me You ripped me off, your love was cheap",
+      "valence": 2.2,
+      "arousal": 3.99,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I just wanna throw my phone away Find out who is really there for me You ripped me off, your love was cheap Was always tearin' at the seams",
+      "valence": 2.31,
+      "arousal": 3.99,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Find out who is really there for me You ripped me off, your love was cheap Was always tearin' at the seams I fell deep, you let me drown",
+      "valence": 2.79,
+      "arousal": 3.56,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "You ripped me off, your love was cheap Was always tearin' at the seams I fell deep, you let me drown But that was then and this is now",
+      "valence": 2.37,
+      "arousal": 3.74,
+      "dominance": 2.61
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Was always tearin' at the seams I fell deep, you let me drown But that was then and this is now Now look at me",
+      "valence": 2.38,
+      "arousal": 3.33,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I fell deep, you let me drown But that was then and this is now Now look at me This is the part of me",
+      "valence": 2.75,
+      "arousal": 3.33,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "But that was then and this is now Now look at me This is the part of me That you're never gonna ever take away from me, no",
+      "valence": 2.93,
+      "arousal": 3.27,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Now look at me This is the part of me That you're never gonna ever take away from me, no This is the part of me",
+      "valence": 3.12,
+      "arousal": 3.26,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "This is the part of me That you're never gonna ever take away from me, no This is the part of me That you're never gonna ever take away from me, no",
+      "valence": 2.94,
+      "arousal": 3.33,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "That you're never gonna ever take away from me, no This is the part of me That you're never gonna ever take away from me, no Throw your sticks and your stones",
+      "valence": 2.69,
+      "arousal": 3.45,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "This is the part of me That you're never gonna ever take away from me, no Throw your sticks and your stones Throw your bombs and your blows",
+      "valence": 2.67,
+      "arousal": 3.63,
+      "dominance": 3.79
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "That you're never gonna ever take away from me, no Throw your sticks and your stones Throw your bombs and your blows But you're not gonna break my soul",
+      "valence": 2.22,
+      "arousal": 3.7,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Throw your sticks and your stones Throw your bombs and your blows But you're not gonna break my soul This is the part of me",
+      "valence": 2.45,
+      "arousal": 3.73,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Throw your bombs and your blows But you're not gonna break my soul This is the part of me That you're never gonna ever take away from me, no",
+      "valence": 2.39,
+      "arousal": 3.66,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "But you're not gonna break my soul This is the part of me That you're never gonna ever take away from me, no Now look at me, I'm sparkling",
+      "valence": 2.58,
+      "arousal": 3.54,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "This is the part of me That you're never gonna ever take away from me, no Now look at me, I'm sparkling A firework, a dancing flame",
+      "valence": 3.41,
+      "arousal": 3.61,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "That you're never gonna ever take away from me, no Now look at me, I'm sparkling A firework, a dancing flame You won't ever put me out again",
+      "valence": 2.91,
+      "arousal": 3.72,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Now look at me, I'm sparkling A firework, a dancing flame You won't ever put me out again I'm glowing, oh, whoa",
+      "valence": 3.31,
+      "arousal": 3.86,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "A firework, a dancing flame You won't ever put me out again I'm glowing, oh, whoa So you can keep the diamond ring",
+      "valence": 3.09,
+      "arousal": 3.78,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "You won't ever put me out again I'm glowing, oh, whoa So you can keep the diamond ring It don't mean nothing anyway",
+      "valence": 2.79,
+      "arousal": 3.71,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I'm glowing, oh, whoa So you can keep the diamond ring It don't mean nothing anyway In fact, you can keep everything",
+      "valence": 3.22,
+      "arousal": 3.58,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "So you can keep the diamond ring It don't mean nothing anyway In fact, you can keep everything Yeah, yeah, except for me",
+      "valence": 2.95,
+      "arousal": 3.1,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "It don't mean nothing anyway In fact, you can keep everything Yeah, yeah, except for me This is the part of me",
+      "valence": 2.92,
+      "arousal": 3.13,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "In fact, you can keep everything Yeah, yeah, except for me This is the part of me That you're never gonna ever take away from me, no",
+      "valence": 2.89,
+      "arousal": 3.29,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Yeah, yeah, except for me This is the part of me That you're never gonna ever take away from me, no This is the part of me",
+      "valence": 2.94,
+      "arousal": 3.3,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "This is the part of me That you're never gonna ever take away from me, no This is the part of me That you're never gonna ever take away from me, no (away from me)",
+      "valence": 2.96,
+      "arousal": 3.32,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "That you're never gonna ever take away from me, no This is the part of me That you're never gonna ever take away from me, no (away from me) Throw your sticks and your stones",
+      "valence": 2.74,
+      "arousal": 3.5,
+      "dominance": 3.81
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "This is the part of me That you're never gonna ever take away from me, no (away from me) Throw your sticks and your stones Throw your bombs and your blows",
+      "valence": 2.64,
+      "arousal": 3.66,
+      "dominance": 3.77
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "That you're never gonna ever take away from me, no (away from me) Throw your sticks and your stones Throw your bombs and your blows But you're not gonna break my soul",
+      "valence": 2.24,
+      "arousal": 3.79,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Throw your sticks and your stones Throw your bombs and your blows But you're not gonna break my soul This is the part of me",
+      "valence": 2.45,
+      "arousal": 3.73,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Throw your bombs and your blows But you're not gonna break my soul This is the part of me That you're never gonna ever take away from me, no",
+      "valence": 2.39,
+      "arousal": 3.66,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "But you're not gonna break my soul This is the part of me That you're never gonna ever take away from me, no This is the part of me (no)",
+      "valence": 2.64,
+      "arousal": 3.44,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "This is the part of me That you're never gonna ever take away from me, no This is the part of me (no) Away from me (no)",
+      "valence": 2.85,
+      "arousal": 3.4,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "That you're never gonna ever take away from me, no This is the part of me (no) Away from me (no) This is the part of me",
+      "valence": 2.87,
+      "arousal": 3.37,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "This is the part of me (no) Away from me (no) This is the part of me No",
+      "valence": 2.75,
+      "arousal": 3.27,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Away from me (no) This is the part of me No Throw your sticks and your stones",
+      "valence": 2.68,
+      "arousal": 3.26,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "This is the part of me No Throw your sticks and your stones Throw your bombs and your blows",
+      "valence": 2.77,
+      "arousal": 3.39,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "No Throw your sticks and your stones Throw your bombs and your blows But you're not gonna break my soul",
+      "valence": 2.3,
+      "arousal": 3.65,
+      "dominance": 3.79
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Throw your sticks and your stones Throw your bombs and your blows But you're not gonna break my soul This is the part of me",
+      "valence": 2.45,
+      "arousal": 3.73,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Throw your bombs and your blows But you're not gonna break my soul This is the part of me That you're never gonna ever take away from me, no",
+      "valence": 2.39,
+      "arousal": 3.66,
+      "dominance": 3.45
+    }
+  ]
+}

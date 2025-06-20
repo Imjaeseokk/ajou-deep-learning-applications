@@ -1,0 +1,353 @@
+{
+  "artist": "Eric Church",
+  "overall_vad": {
+    "valence": 3.19,
+    "arousal": 3.3,
+    "dominance": 3.22
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "To this day, when I hear that song I see you standin' there on that lawn Discount shades, store bought tan Flip flops and cut off jeans",
+      "valence": 3.21,
+      "arousal": 3.38,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I see you standin' there on that lawn Discount shades, store bought tan Flip flops and cut off jeans Somewhere between that settin' sun",
+      "valence": 3.15,
+      "arousal": 3.12,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Discount shades, store bought tan Flip flops and cut off jeans Somewhere between that settin' sun I'm on fire and born to run",
+      "valence": 3.16,
+      "arousal": 3.39,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Flip flops and cut off jeans Somewhere between that settin' sun I'm on fire and born to run You looked at me and I was done",
+      "valence": 2.83,
+      "arousal": 3.33,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Somewhere between that settin' sun I'm on fire and born to run You looked at me and I was done We were just gettin' started",
+      "valence": 2.96,
+      "arousal": 3.39,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I'm on fire and born to run You looked at me and I was done We were just gettin' started I was singin' to you, you were singin' to me",
+      "valence": 3.34,
+      "arousal": 3.73,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "You looked at me and I was done We were just gettin' started I was singin' to you, you were singin' to me I was so alive, never been more free",
+      "valence": 3.74,
+      "arousal": 3.78,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "We were just gettin' started I was singin' to you, you were singin' to me I was so alive, never been more free Fired up my daddy's lighter and we sang",
+      "valence": 3.85,
+      "arousal": 3.84,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I was singin' to you, you were singin' to me I was so alive, never been more free Fired up my daddy's lighter and we sang \"Oh-oh-oh-oh, oh-oh\"",
+      "valence": 3.86,
+      "arousal": 3.9,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I was so alive, never been more free Fired up my daddy's lighter and we sang \"Oh-oh-oh-oh, oh-oh\" Stayed there 'til they forced us out",
+      "valence": 3.41,
+      "arousal": 3.76,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Fired up my daddy's lighter and we sang \"Oh-oh-oh-oh, oh-oh\" Stayed there 'til they forced us out And took the long way to your house",
+      "valence": 3.05,
+      "arousal": 3.56,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "\"Oh-oh-oh-oh, oh-oh\" Stayed there 'til they forced us out And took the long way to your house I can still hear the sound",
+      "valence": 2.57,
+      "arousal": 3.65,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Stayed there 'til they forced us out And took the long way to your house I can still hear the sound Of you sayin' don't go",
+      "valence": 2.51,
+      "arousal": 3.58,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "And took the long way to your house I can still hear the sound Of you sayin' don't go When I think about you",
+      "valence": 2.93,
+      "arousal": 3.4,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I can still hear the sound Of you sayin' don't go When I think about you I think about 17",
+      "valence": 3.1,
+      "arousal": 3.4,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Of you sayin' don't go When I think about you I think about 17 I think about my old Jeep",
+      "valence": 2.9,
+      "arousal": 3.08,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "When I think about you I think about 17 I think about my old Jeep I think about the stars in the sky",
+      "valence": 3.48,
+      "arousal": 3.23,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I think about 17 I think about my old Jeep I think about the stars in the sky Funny how a melody sounds like a memory",
+      "valence": 3.3,
+      "arousal": 3.11,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I think about my old Jeep I think about the stars in the sky Funny how a melody sounds like a memory Like a soundtrack to a July Saturday night",
+      "valence": 3.38,
+      "arousal": 3.19,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I think about the stars in the sky Funny how a melody sounds like a memory Like a soundtrack to a July Saturday night Springsteen",
+      "valence": 3.3,
+      "arousal": 3.12,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Funny how a melody sounds like a memory Like a soundtrack to a July Saturday night Springsteen I bumped into you by happenstance",
+      "valence": 3.25,
+      "arousal": 3.19,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Like a soundtrack to a July Saturday night Springsteen I bumped into you by happenstance You probably wouldn't even know who I am",
+      "valence": 3.2,
+      "arousal": 3.24,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Springsteen I bumped into you by happenstance You probably wouldn't even know who I am But if I whispered your name, I bet",
+      "valence": 3.18,
+      "arousal": 3.22,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I bumped into you by happenstance You probably wouldn't even know who I am But if I whispered your name, I bet Still be a spark",
+      "valence": 3.12,
+      "arousal": 3.17,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "You probably wouldn't even know who I am But if I whispered your name, I bet Still be a spark And back when I was gasoline",
+      "valence": 3.05,
+      "arousal": 3.13,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "But if I whispered your name, I bet Still be a spark And back when I was gasoline And this old tattoo had brand new ink",
+      "valence": 3.14,
+      "arousal": 3.27,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Still be a spark And back when I was gasoline And this old tattoo had brand new ink And we didn't care what would mama think",
+      "valence": 2.99,
+      "arousal": 3.19,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "And back when I was gasoline And this old tattoo had brand new ink And we didn't care what would mama think 'Bout your name on my arms",
+      "valence": 2.96,
+      "arousal": 3.29,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "And this old tattoo had brand new ink And we didn't care what would mama think 'Bout your name on my arms Baby, is it spring or is it summer?",
+      "valence": 2.91,
+      "arousal": 3.35,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "And we didn't care what would mama think 'Bout your name on my arms Baby, is it spring or is it summer? The guitar sound, roll the beat of a drummer",
+      "valence": 2.94,
+      "arousal": 3.36,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "'Bout your name on my arms Baby, is it spring or is it summer? The guitar sound, roll the beat of a drummer You hear sometimes late at night",
+      "valence": 3.22,
+      "arousal": 3.46,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Baby, is it spring or is it summer? The guitar sound, roll the beat of a drummer You hear sometimes late at night On your radio",
+      "valence": 3.08,
+      "arousal": 3.13,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "The guitar sound, roll the beat of a drummer You hear sometimes late at night On your radio Even though you're a million miles away",
+      "valence": 3.18,
+      "arousal": 3.18,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "You hear sometimes late at night On your radio Even though you're a million miles away When you hear \"Born in the USA\"",
+      "valence": 3.11,
+      "arousal": 3.09,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "On your radio Even though you're a million miles away When you hear \"Born in the USA\" You relive those glory days",
+      "valence": 3.3,
+      "arousal": 3.21,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Even though you're a million miles away When you hear \"Born in the USA\" You relive those glory days So long ago",
+      "valence": 3.3,
+      "arousal": 3.3,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "When you hear \"Born in the USA\" You relive those glory days So long ago When you think about me",
+      "valence": 3.39,
+      "arousal": 3.28,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "You relive those glory days So long ago When you think about me Do you think about 17?",
+      "valence": 3.21,
+      "arousal": 3.17,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "So long ago When you think about me Do you think about 17? Do you think about my old Jeep",
+      "valence": 3.11,
+      "arousal": 3.0,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "When you think about me Do you think about 17? Do you think about my old Jeep Think about the stars in the sky?",
+      "valence": 3.21,
+      "arousal": 3.08,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Do you think about 17? Do you think about my old Jeep Think about the stars in the sky? Funny how a melody sounds like a memory",
+      "valence": 3.25,
+      "arousal": 3.11,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Do you think about my old Jeep Think about the stars in the sky? Funny how a melody sounds like a memory Like a soundtrack to a July Saturday night",
+      "valence": 3.33,
+      "arousal": 3.19,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Think about the stars in the sky? Funny how a melody sounds like a memory Like a soundtrack to a July Saturday night Springsteen",
+      "valence": 3.24,
+      "arousal": 3.12,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Funny how a melody sounds like a memory Like a soundtrack to a July Saturday night Springsteen Springsteen",
+      "valence": 3.24,
+      "arousal": 3.09,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Like a soundtrack to a July Saturday night Springsteen Springsteen Funny how a melody sounds like a memory",
+      "valence": 3.23,
+      "arousal": 3.11,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Springsteen Springsteen Funny how a melody sounds like a memory Like a soundtrack to a July Saturday night",
+      "valence": 3.25,
+      "arousal": 3.14,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Springsteen Funny how a melody sounds like a memory Like a soundtrack to a July Saturday night Springsteen",
+      "valence": 3.23,
+      "arousal": 3.14,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Funny how a melody sounds like a memory Like a soundtrack to a July Saturday night Springsteen Springsteen",
+      "valence": 3.24,
+      "arousal": 3.09,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Like a soundtrack to a July Saturday night Springsteen Springsteen Oh, Springsteen",
+      "valence": 3.26,
+      "arousal": 3.33,
+      "dominance": 3.14
+    }
+  ]
+}

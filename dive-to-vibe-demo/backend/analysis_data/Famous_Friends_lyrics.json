@@ -1,0 +1,213 @@
+{
+  "artist": "Chris Young + Kane Brown",
+  "overall_vad": {
+    "valence": 3.43,
+    "arousal": 3.36,
+    "dominance": 3.33
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "My buddy Brandon holds a record For single season touchdown throws And good old Johnny, he's the life of every party It's like Cheers, they know him everywhere he goes",
+      "valence": 3.77,
+      "arousal": 3.53,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "For single season touchdown throws And good old Johnny, he's the life of every party It's like Cheers, they know him everywhere he goes I've got some famous friends you've probably never heard of",
+      "valence": 3.63,
+      "arousal": 3.52,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "And good old Johnny, he's the life of every party It's like Cheers, they know him everywhere he goes I've got some famous friends you've probably never heard of But back in Rutherford County our crowd is second to none",
+      "valence": 3.61,
+      "arousal": 3.5,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "It's like Cheers, they know him everywhere he goes I've got some famous friends you've probably never heard of But back in Rutherford County our crowd is second to none You might not know 'em here in this big city we're in",
+      "valence": 3.53,
+      "arousal": 3.5,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I've got some famous friends you've probably never heard of But back in Rutherford County our crowd is second to none You might not know 'em here in this big city we're in But when I go back home I've got some famous friends",
+      "valence": 3.37,
+      "arousal": 3.25,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "But back in Rutherford County our crowd is second to none You might not know 'em here in this big city we're in But when I go back home I've got some famous friends Yeah, I do",
+      "valence": 3.37,
+      "arousal": 3.28,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "You might not know 'em here in this big city we're in But when I go back home I've got some famous friends Yeah, I do Mmhmm",
+      "valence": 3.37,
+      "arousal": 3.32,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "But when I go back home I've got some famous friends Yeah, I do Mmhmm My buddy Jason, he's the sheriff",
+      "valence": 3.55,
+      "arousal": 3.39,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Yeah, I do Mmhmm My buddy Jason, he's the sheriff He'll flash his lights but let me go",
+      "valence": 3.17,
+      "arousal": 3.29,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Mmhmm My buddy Jason, he's the sheriff He'll flash his lights but let me go My boy Randy, he's a preacher",
+      "valence": 3.18,
+      "arousal": 3.36,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "My buddy Jason, he's the sheriff He'll flash his lights but let me go My boy Randy, he's a preacher My girl Megan, she's been Teacher of the Year",
+      "valence": 3.27,
+      "arousal": 3.41,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "He'll flash his lights but let me go My boy Randy, he's a preacher My girl Megan, she's been Teacher of the Year I swear for five years in a row",
+      "valence": 3.38,
+      "arousal": 3.46,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "My boy Randy, he's a preacher My girl Megan, she's been Teacher of the Year I swear for five years in a row I've got some famous friends you've probably never heard of",
+      "valence": 3.69,
+      "arousal": 3.47,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "My girl Megan, she's been Teacher of the Year I swear for five years in a row I've got some famous friends you've probably never heard of But back in Hamilton County our crowd is second to none",
+      "valence": 3.65,
+      "arousal": 3.55,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I swear for five years in a row I've got some famous friends you've probably never heard of But back in Hamilton County our crowd is second to none You might not know 'em here in this big city we're in",
+      "valence": 3.16,
+      "arousal": 3.38,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I've got some famous friends you've probably never heard of But back in Hamilton County our crowd is second to none You might not know 'em here in this big city we're in But when I go back home I've got some famous friends",
+      "valence": 3.37,
+      "arousal": 3.26,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "But back in Hamilton County our crowd is second to none You might not know 'em here in this big city we're in But when I go back home I've got some famous friends Yeah, I do, ooh",
+      "valence": 3.47,
+      "arousal": 3.4,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "You might not know 'em here in this big city we're in But when I go back home I've got some famous friends Yeah, I do, ooh I got friends in high places on these small-town roads",
+      "valence": 3.47,
+      "arousal": 3.27,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "But when I go back home I've got some famous friends Yeah, I do, ooh I got friends in high places on these small-town roads 'Cause 'round here it's all about the people that you know",
+      "valence": 3.62,
+      "arousal": 3.28,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Yeah, I do, ooh I got friends in high places on these small-town roads 'Cause 'round here it's all about the people that you know And I've got some famous friends you've probably never heard of",
+      "valence": 3.5,
+      "arousal": 3.3,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I got friends in high places on these small-town roads 'Cause 'round here it's all about the people that you know And I've got some famous friends you've probably never heard of But back in Davidson County our crowd is second to none",
+      "valence": 3.46,
+      "arousal": 3.34,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "'Cause 'round here it's all about the people that you know And I've got some famous friends you've probably never heard of But back in Davidson County our crowd is second to none You might not know 'em here in this big city we're in",
+      "valence": 3.34,
+      "arousal": 3.33,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "And I've got some famous friends you've probably never heard of But back in Davidson County our crowd is second to none You might not know 'em here in this big city we're in But when I go back home I've got some famous friends",
+      "valence": 3.42,
+      "arousal": 3.3,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "But back in Davidson County our crowd is second to none You might not know 'em here in this big city we're in But when I go back home I've got some famous friends Yeah, I do, ooh",
+      "valence": 3.48,
+      "arousal": 3.41,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "You might not know 'em here in this big city we're in But when I go back home I've got some famous friends Yeah, I do, ooh Yeah, I do",
+      "valence": 3.46,
+      "arousal": 3.35,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "But when I go back home I've got some famous friends Yeah, I do, ooh Yeah, I do Might not know 'em here in this big city we're in",
+      "valence": 3.23,
+      "arousal": 3.22,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Yeah, I do, ooh Yeah, I do Might not know 'em here in this big city we're in But when I go back home I got some famous friends, yeah",
+      "valence": 3.26,
+      "arousal": 3.22,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Yeah, I do Might not know 'em here in this big city we're in But when I go back home I got some famous friends, yeah I've got some famous friends (I've got some famous friends)",
+      "valence": 3.37,
+      "arousal": 3.26,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Might not know 'em here in this big city we're in But when I go back home I got some famous friends, yeah I've got some famous friends (I've got some famous friends) Yeah",
+      "valence": 3.43,
+      "arousal": 3.3,
+      "dominance": 3.36
+    }
+  ]
+}

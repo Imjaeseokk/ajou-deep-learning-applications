@@ -1,0 +1,472 @@
+{
+  "artist": "Britney Spears & Iggy Azalea",
+  "overall_vad": {
+    "valence": 3.45,
+    "arousal": 3.68,
+    "dominance": 3.24
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "All around the world, pretty girls Wipe the floor with all the boys Pour the drinks, bring the noise (It's Iggy-Iggs!)",
+      "valence": 3.44,
+      "arousal": 3.64,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Wipe the floor with all the boys Pour the drinks, bring the noise (It's Iggy-Iggs!) We're just so pretty!",
+      "valence": 4.07,
+      "arousal": 4.01,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Pour the drinks, bring the noise (It's Iggy-Iggs!) We're just so pretty! All around the world, pretty girls",
+      "valence": 4.08,
+      "arousal": 4.09,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "(It's Iggy-Iggs!) We're just so pretty! All around the world, pretty girls Jump the line, to the front",
+      "valence": 4.15,
+      "arousal": 4.02,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "We're just so pretty! All around the world, pretty girls Jump the line, to the front Do what we like, get what we want",
+      "valence": 4.04,
+      "arousal": 3.93,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "All around the world, pretty girls Jump the line, to the front Do what we like, get what we want (Where you at, Brit?)",
+      "valence": 3.23,
+      "arousal": 3.47,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Jump the line, to the front Do what we like, get what we want (Where you at, Brit?) We're just so pretty!",
+      "valence": 3.71,
+      "arousal": 3.88,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Do what we like, get what we want (Where you at, Brit?) We're just so pretty! Hey, don't you know that it's always the same?",
+      "valence": 3.74,
+      "arousal": 3.95,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "(Where you at, Brit?) We're just so pretty! Hey, don't you know that it's always the same? From Australia 'round to LA",
+      "valence": 4.01,
+      "arousal": 4.01,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "We're just so pretty! Hey, don't you know that it's always the same? From Australia 'round to LA You can betcha', wherever the girls go, boys follow",
+      "valence": 3.81,
+      "arousal": 3.78,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Hey, don't you know that it's always the same? From Australia 'round to LA You can betcha', wherever the girls go, boys follow We be keeping them up on their toes",
+      "valence": 3.37,
+      "arousal": 3.29,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "From Australia 'round to LA You can betcha', wherever the girls go, boys follow We be keeping them up on their toes They can laugh, but they don't get the jokes",
+      "valence": 3.02,
+      "arousal": 3.18,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "You can betcha', wherever the girls go, boys follow We be keeping them up on their toes They can laugh, but they don't get the jokes Just you watch, they're so predictable",
+      "valence": 2.98,
+      "arousal": 3.16,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "We be keeping them up on their toes They can laugh, but they don't get the jokes Just you watch, they're so predictable (Some things don't change...)",
+      "valence": 2.84,
+      "arousal": 3.1,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "They can laugh, but they don't get the jokes Just you watch, they're so predictable (Some things don't change...) Windows roll down",
+      "valence": 2.69,
+      "arousal": 3.02,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Just you watch, they're so predictable (Some things don't change...) Windows roll down (Eyes on us)",
+      "valence": 2.96,
+      "arousal": 3.16,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "(Some things don't change...) Windows roll down (Eyes on us) Jaws on the ground",
+      "valence": 2.9,
+      "arousal": 3.16,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Windows roll down (Eyes on us) Jaws on the ground (Watch them go)",
+      "valence": 2.97,
+      "arousal": 3.38,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "(Eyes on us) Jaws on the ground (Watch them go) It's just so funny",
+      "valence": 3.55,
+      "arousal": 3.58,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Jaws on the ground (Watch them go) It's just so funny (Like bees to the honey!)",
+      "valence": 3.64,
+      "arousal": 3.62,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "(Watch them go) It's just so funny (Like bees to the honey!) All around the world, pretty girls",
+      "valence": 3.78,
+      "arousal": 3.68,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "It's just so funny (Like bees to the honey!) All around the world, pretty girls Wipe the floor with all the boys",
+      "valence": 3.7,
+      "arousal": 3.66,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "(Like bees to the honey!) All around the world, pretty girls Wipe the floor with all the boys Pour the drinks, bring the noise",
+      "valence": 3.49,
+      "arousal": 3.67,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "All around the world, pretty girls Wipe the floor with all the boys Pour the drinks, bring the noise We're just so pretty!",
+      "valence": 3.99,
+      "arousal": 3.95,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Wipe the floor with all the boys Pour the drinks, bring the noise We're just so pretty! All around the world, pretty girls",
+      "valence": 4.02,
+      "arousal": 4.03,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Pour the drinks, bring the noise We're just so pretty! All around the world, pretty girls Jump the line, to the front",
+      "valence": 4.11,
+      "arousal": 4.15,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "We're just so pretty! All around the world, pretty girls Jump the line, to the front Do what we like, get what we want",
+      "valence": 4.04,
+      "arousal": 3.93,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "All around the world, pretty girls Jump the line, to the front Do what we like, get what we want We're just so pretty!",
+      "valence": 3.83,
+      "arousal": 3.9,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Jump the line, to the front Do what we like, get what we want We're just so pretty! Tell me, is it true that these men are from Mars?",
+      "valence": 3.38,
+      "arousal": 3.67,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Do what we like, get what we want We're just so pretty! Tell me, is it true that these men are from Mars? Is that why they be acting bizarre?",
+      "valence": 3.32,
+      "arousal": 3.81,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "We're just so pretty! Tell me, is it true that these men are from Mars? Is that why they be acting bizarre? Every time I walk out of my house it's like, \"Hey, baby!\"",
+      "valence": 3.44,
+      "arousal": 3.86,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Tell me, is it true that these men are from Mars? Is that why they be acting bizarre? Every time I walk out of my house it's like, \"Hey, baby!\" They don't see me rolling my eyes",
+      "valence": 2.89,
+      "arousal": 3.5,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Is that why they be acting bizarre? Every time I walk out of my house it's like, \"Hey, baby!\" They don't see me rolling my eyes They buzzing around me like flies",
+      "valence": 2.76,
+      "arousal": 3.51,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Every time I walk out of my house it's like, \"Hey, baby!\" They don't see me rolling my eyes They buzzing around me like flies They got one thing on their minds",
+      "valence": 2.92,
+      "arousal": 3.73,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "They don't see me rolling my eyes They buzzing around me like flies They got one thing on their minds (Some things don't change...)",
+      "valence": 2.74,
+      "arousal": 3.33,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "They buzzing around me like flies They got one thing on their minds (Some things don't change...) Windows roll down",
+      "valence": 2.7,
+      "arousal": 3.33,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "They got one thing on their minds (Some things don't change...) Windows roll down (Eyes on us)",
+      "valence": 2.9,
+      "arousal": 3.33,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "(Some things don't change...) Windows roll down (Eyes on us) Jaws on the ground",
+      "valence": 2.9,
+      "arousal": 3.16,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Windows roll down (Eyes on us) Jaws on the ground (Watch them go)",
+      "valence": 2.97,
+      "arousal": 3.38,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "(Eyes on us) Jaws on the ground (Watch them go) It's just so funny",
+      "valence": 3.55,
+      "arousal": 3.58,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Jaws on the ground (Watch them go) It's just so funny (Like bees to the honey!)",
+      "valence": 3.64,
+      "arousal": 3.62,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "(Watch them go) It's just so funny (Like bees to the honey!) All around the world, pretty girls",
+      "valence": 3.78,
+      "arousal": 3.68,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "It's just so funny (Like bees to the honey!) All around the world, pretty girls Wipe the floor with all the boys",
+      "valence": 3.7,
+      "arousal": 3.66,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "(Like bees to the honey!) All around the world, pretty girls Wipe the floor with all the boys Pour the drinks, bring the noise",
+      "valence": 3.49,
+      "arousal": 3.67,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "All around the world, pretty girls Wipe the floor with all the boys Pour the drinks, bring the noise We're just so pretty!",
+      "valence": 3.99,
+      "arousal": 3.95,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Wipe the floor with all the boys Pour the drinks, bring the noise We're just so pretty! All around the world, pretty girls",
+      "valence": 4.02,
+      "arousal": 4.03,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Pour the drinks, bring the noise We're just so pretty! All around the world, pretty girls Jump the line, to the front",
+      "valence": 4.11,
+      "arousal": 4.15,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "We're just so pretty! All around the world, pretty girls Jump the line, to the front Do what we like, get what we want",
+      "valence": 4.04,
+      "arousal": 3.93,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "All around the world, pretty girls Jump the line, to the front Do what we like, get what we want We're just so pretty!",
+      "valence": 3.83,
+      "arousal": 3.9,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Jump the line, to the front Do what we like, get what we want We're just so pretty! If you ask me, I'm killing them softly",
+      "valence": 3.2,
+      "arousal": 3.85,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Do what we like, get what we want We're just so pretty! If you ask me, I'm killing them softly I would spend time with you but that'd cost me",
+      "valence": 3.5,
+      "arousal": 4.03,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "We're just so pretty! If you ask me, I'm killing them softly I would spend time with you but that'd cost me They pray that Iggy-Iggy give 'em one more chance",
+      "valence": 3.6,
+      "arousal": 4.07,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "If you ask me, I'm killing them softly I would spend time with you but that'd cost me They pray that Iggy-Iggy give 'em one more chance But busy Iggy wouldn't even give 'em one more glance",
+      "valence": 2.46,
+      "arousal": 3.65,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "I would spend time with you but that'd cost me They pray that Iggy-Iggy give 'em one more chance But busy Iggy wouldn't even give 'em one more glance See, enter in line between the beauty and a beast",
+      "valence": 2.96,
+      "arousal": 3.31,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "They pray that Iggy-Iggy give 'em one more chance But busy Iggy wouldn't even give 'em one more glance See, enter in line between the beauty and a beast Slim waist, thick cake, the whole world want a piece",
+      "valence": 2.95,
+      "arousal": 3.42,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "But busy Iggy wouldn't even give 'em one more glance See, enter in line between the beauty and a beast Slim waist, thick cake, the whole world want a piece Bad girl, good (ooh) would make you lose your mind",
+      "valence": 2.88,
+      "arousal": 3.47,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "See, enter in line between the beauty and a beast Slim waist, thick cake, the whole world want a piece Bad girl, good (ooh) would make you lose your mind All of the boys begging Britney, hit 'em one more time",
+      "valence": 2.96,
+      "arousal": 3.63,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Slim waist, thick cake, the whole world want a piece Bad girl, good (ooh) would make you lose your mind All of the boys begging Britney, hit 'em one more time Iggs",
+      "valence": 2.75,
+      "arousal": 3.67,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Bad girl, good (ooh) would make you lose your mind All of the boys begging Britney, hit 'em one more time Iggs All around the world, pretty girls",
+      "valence": 2.79,
+      "arousal": 3.61,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "All of the boys begging Britney, hit 'em one more time Iggs All around the world, pretty girls Wipe the floor with all the boys",
+      "valence": 2.86,
+      "arousal": 3.57,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Iggs All around the world, pretty girls Wipe the floor with all the boys Pour the drinks, bring the noise",
+      "valence": 3.36,
+      "arousal": 3.41,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "All around the world, pretty girls Wipe the floor with all the boys Pour the drinks, bring the noise We're just so pretty!",
+      "valence": 3.99,
+      "arousal": 3.95,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Wipe the floor with all the boys Pour the drinks, bring the noise We're just so pretty! All around the world, pretty girls",
+      "valence": 4.02,
+      "arousal": 4.03,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Pour the drinks, bring the noise We're just so pretty! All around the world, pretty girls Jump the line, to the front",
+      "valence": 4.11,
+      "arousal": 4.15,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "We're just so pretty! All around the world, pretty girls Jump the line, to the front Do what we like, get what we want",
+      "valence": 4.04,
+      "arousal": 3.93,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "All around the world, pretty girls Jump the line, to the front Do what we like, get what we want We're just so pretty!",
+      "valence": 3.83,
+      "arousal": 3.9,
+      "dominance": 3.34
+    }
+  ]
+}

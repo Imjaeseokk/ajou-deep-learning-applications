@@ -1,0 +1,353 @@
+{
+  "artist": "Drake",
+  "overall_vad": {
+    "valence": 2.79,
+    "arousal": 3.31,
+    "dominance": 3.13
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Okay, okay Okay, okay I found a new muse That's bad news for you",
+      "valence": 2.57,
+      "arousal": 3.19,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Okay, okay I found a new muse That's bad news for you Why would I keep you around?",
+      "valence": 2.74,
+      "arousal": 3.26,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I found a new muse That's bad news for you Why would I keep you around? Why would I keep you around?",
+      "valence": 2.7,
+      "arousal": 3.38,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "That's bad news for you Why would I keep you around? Why would I keep you around? Why would I keep you around?",
+      "valence": 2.48,
+      "arousal": 3.24,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Why would I keep you around? Why would I keep you around? Why would I keep you around? Why would I keep?",
+      "valence": 2.92,
+      "arousal": 3.09,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Why would I keep you around? Why would I keep you around? Why would I keep? I found a new muse",
+      "valence": 3.32,
+      "arousal": 3.25,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Why would I keep you around? Why would I keep? I found a new muse That's bad news for you",
+      "valence": 2.54,
+      "arousal": 3.28,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Why would I keep? I found a new muse That's bad news for you Why would I keep you around?",
+      "valence": 2.75,
+      "arousal": 3.37,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I found a new muse That's bad news for you Why would I keep you around? Why would I keep you around?",
+      "valence": 2.7,
+      "arousal": 3.38,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "That's bad news for you Why would I keep you around? Why would I keep you around? Why would I keep you around?",
+      "valence": 2.48,
+      "arousal": 3.24,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Why would I keep you around? Why would I keep you around? Why would I keep you around? Why would I keep?",
+      "valence": 2.92,
+      "arousal": 3.09,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Why would I keep you around? Why would I keep you around? Why would I keep? Yeah, whoa, yeah",
+      "valence": 2.92,
+      "arousal": 3.17,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Why would I keep you around? Why would I keep? Yeah, whoa, yeah And I wrote, licks I hit on my ones when I didn't have no friends to ride",
+      "valence": 2.96,
+      "arousal": 3.3,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Why would I keep? Yeah, whoa, yeah And I wrote, licks I hit on my ones when I didn't have no friends to ride Sticks on my dawgs, and I can't even lie to you",
+      "valence": 2.93,
+      "arousal": 3.31,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Yeah, whoa, yeah And I wrote, licks I hit on my ones when I didn't have no friends to ride Sticks on my dawgs, and I can't even lie to you Got too much pride for you",
+      "valence": 3.45,
+      "arousal": 3.52,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "And I wrote, licks I hit on my ones when I didn't have no friends to ride Sticks on my dawgs, and I can't even lie to you Got too much pride for you Gotta stay safe in these streets",
+      "valence": 3.23,
+      "arousal": 3.47,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Sticks on my dawgs, and I can't even lie to you Got too much pride for you Gotta stay safe in these streets Streets don't play favorites, though",
+      "valence": 2.86,
+      "arousal": 3.4,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Got too much pride for you Gotta stay safe in these streets Streets don't play favorites, though I'm not afraid of it though",
+      "valence": 2.75,
+      "arousal": 3.28,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Gotta stay safe in these streets Streets don't play favorites, though I'm not afraid of it though God is okay with me, so",
+      "valence": 2.87,
+      "arousal": 3.3,
+      "dominance": 2.67
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Streets don't play favorites, though I'm not afraid of it though God is okay with me, so Life of that shade that you throw",
+      "valence": 2.92,
+      "arousal": 2.94,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I'm not afraid of it though God is okay with me, so Life of that shade that you throw I've seen you take it low",
+      "valence": 3.0,
+      "arousal": 3.33,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "God is okay with me, so Life of that shade that you throw I've seen you take it low Limbo right under that hoe",
+      "valence": 3.04,
+      "arousal": 3.38,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Life of that shade that you throw I've seen you take it low Limbo right under that hoe Fuck out my face",
+      "valence": 2.38,
+      "arousal": 3.76,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I've seen you take it low Limbo right under that hoe Fuck out my face I found a new muse",
+      "valence": 2.71,
+      "arousal": 3.96,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Limbo right under that hoe Fuck out my face I found a new muse That's bad news for you",
+      "valence": 2.23,
+      "arousal": 3.66,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Fuck out my face I found a new muse That's bad news for you Why would I keep you around?",
+      "valence": 2.19,
+      "arousal": 4.02,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I found a new muse That's bad news for you Why would I keep you around? Why would I keep you around?",
+      "valence": 2.7,
+      "arousal": 3.38,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "That's bad news for you Why would I keep you around? Why would I keep you around? Why would I keep you around?",
+      "valence": 2.48,
+      "arousal": 3.24,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Why would I keep you around? Why would I keep you around? Why would I keep you around? Why would I keep?",
+      "valence": 2.92,
+      "arousal": 3.09,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Why would I keep you around? Why would I keep you around? Why would I keep? I found a new muse",
+      "valence": 3.32,
+      "arousal": 3.25,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Why would I keep you around? Why would I keep? I found a new muse That's bad news for you",
+      "valence": 2.54,
+      "arousal": 3.28,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Why would I keep? I found a new muse That's bad news for you Why would I keep you around?",
+      "valence": 2.75,
+      "arousal": 3.37,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I found a new muse That's bad news for you Why would I keep you around? Why would I keep you around?",
+      "valence": 2.7,
+      "arousal": 3.38,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "That's bad news for you Why would I keep you around? Why would I keep you around? Why would I keep you around?",
+      "valence": 2.48,
+      "arousal": 3.24,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Why would I keep you around? Why would I keep you around? Why would I keep you around? Why would I keep?",
+      "valence": 2.92,
+      "arousal": 3.09,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Why would I keep you around? Why would I keep you around? Why would I keep? Once is a lot of things",
+      "valence": 2.92,
+      "arousal": 3.02,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Why would I keep you around? Why would I keep? Once is a lot of things Twice is a decision",
+      "valence": 2.96,
+      "arousal": 3.09,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Why would I keep? Once is a lot of things Twice is a decision Told me a lot of things",
+      "valence": 2.97,
+      "arousal": 3.11,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Once is a lot of things Twice is a decision Told me a lot of things Forced into submission, got you Mercedes Benz",
+      "valence": 2.71,
+      "arousal": 3.42,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Twice is a decision Told me a lot of things Forced into submission, got you Mercedes Benz But that don't make you driven",
+      "valence": 2.59,
+      "arousal": 3.47,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Told me a lot of things Forced into submission, got you Mercedes Benz But that don't make you driven What can I do for you? How can I make a difference?",
+      "valence": 2.64,
+      "arousal": 3.52,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Forced into submission, got you Mercedes Benz But that don't make you driven What can I do for you? How can I make a difference? Friendship and loyalty, that's not what it's giving",
+      "valence": 2.52,
+      "arousal": 3.49,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "But that don't make you driven What can I do for you? How can I make a difference? Friendship and loyalty, that's not what it's giving Giving that, \"Why would I keep you around?\"",
+      "valence": 2.77,
+      "arousal": 3.3,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "What can I do for you? How can I make a difference? Friendship and loyalty, that's not what it's giving Giving that, \"Why would I keep you around?\" Why would I keep you around?",
+      "valence": 2.78,
+      "arousal": 3.28,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Friendship and loyalty, that's not what it's giving Giving that, \"Why would I keep you around?\" Why would I keep you around? Why would I keep you around?",
+      "valence": 2.61,
+      "arousal": 3.25,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Giving that, \"Why would I keep you around?\" Why would I keep you around? Why would I keep you around? Why would I keep you around?",
+      "valence": 2.91,
+      "arousal": 3.13,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Why would I keep you around? Why would I keep you around? Why would I keep you around? Why would I keep?",
+      "valence": 2.92,
+      "arousal": 3.09,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Why would I keep you around? Why would I keep you around? Why would I keep? Okay, okay",
+      "valence": 2.94,
+      "arousal": 3.08,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Why would I keep you around? Why would I keep? Okay, okay Okay, okay",
+      "valence": 2.94,
+      "arousal": 3.03,
+      "dominance": 3.03
+    }
+  ]
+}

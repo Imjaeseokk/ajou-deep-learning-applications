@@ -1,0 +1,353 @@
+{
+  "artist": "Bebe Rexha & Florida Georgia Line",
+  "overall_vad": {
+    "valence": 3.14,
+    "arousal": 3.37,
+    "dominance": 3.24
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Baby, lay on back and relax Kick your pretty feet up on my dash No need to go nowhere fast Let's enjoy right here where we at",
+      "valence": 3.89,
+      "arousal": 3.52,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Kick your pretty feet up on my dash No need to go nowhere fast Let's enjoy right here where we at Who knows where this road is supposed to lead",
+      "valence": 3.5,
+      "arousal": 3.55,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "No need to go nowhere fast Let's enjoy right here where we at Who knows where this road is supposed to lead We got nothing but time",
+      "valence": 3.46,
+      "arousal": 3.3,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Let's enjoy right here where we at Who knows where this road is supposed to lead We got nothing but time As long as you're right here next to me",
+      "valence": 3.59,
+      "arousal": 3.34,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Who knows where this road is supposed to lead We got nothing but time As long as you're right here next to me Everything's gonna be alright",
+      "valence": 3.12,
+      "arousal": 3.22,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "We got nothing but time As long as you're right here next to me Everything's gonna be alright If it's meant to be, it'll be, it'll be",
+      "valence": 3.07,
+      "arousal": 3.21,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "As long as you're right here next to me Everything's gonna be alright If it's meant to be, it'll be, it'll be Baby, just let it be",
+      "valence": 3.25,
+      "arousal": 3.23,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Everything's gonna be alright If it's meant to be, it'll be, it'll be Baby, just let it be If it's meant to be, it'll be, it'll be",
+      "valence": 3.22,
+      "arousal": 3.17,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "If it's meant to be, it'll be, it'll be Baby, just let it be If it's meant to be, it'll be, it'll be Baby, just let it be",
+      "valence": 3.16,
+      "arousal": 3.16,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Baby, just let it be If it's meant to be, it'll be, it'll be Baby, just let it be So, won't you ride with me, ride with me?",
+      "valence": 3.13,
+      "arousal": 3.23,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "If it's meant to be, it'll be, it'll be Baby, just let it be So, won't you ride with me, ride with me? See where this thing goes",
+      "valence": 3.15,
+      "arousal": 3.3,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Baby, just let it be So, won't you ride with me, ride with me? See where this thing goes If it's meant to be, it'll be, it'll be",
+      "valence": 3.11,
+      "arousal": 3.31,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "So, won't you ride with me, ride with me? See where this thing goes If it's meant to be, it'll be, it'll be Baby, if it's meant to be",
+      "valence": 3.17,
+      "arousal": 3.39,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "See where this thing goes If it's meant to be, it'll be, it'll be Baby, if it's meant to be I don't mean to be so uptight",
+      "valence": 2.95,
+      "arousal": 3.29,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "If it's meant to be, it'll be, it'll be Baby, if it's meant to be I don't mean to be so uptight But my heart's been hurt a couple times",
+      "valence": 2.61,
+      "arousal": 3.48,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Baby, if it's meant to be I don't mean to be so uptight But my heart's been hurt a couple times By a couple guys that didn't treat me right",
+      "valence": 2.48,
+      "arousal": 3.45,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I don't mean to be so uptight But my heart's been hurt a couple times By a couple guys that didn't treat me right I ain't gonna lie, ain't gonna lie",
+      "valence": 2.1,
+      "arousal": 3.46,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "But my heart's been hurt a couple times By a couple guys that didn't treat me right I ain't gonna lie, ain't gonna lie 'Cause I'm tired of the fake love, show me what you're made of",
+      "valence": 2.22,
+      "arousal": 3.73,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "By a couple guys that didn't treat me right I ain't gonna lie, ain't gonna lie 'Cause I'm tired of the fake love, show me what you're made of Boy, make me believe",
+      "valence": 2.45,
+      "arousal": 3.6,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I ain't gonna lie, ain't gonna lie 'Cause I'm tired of the fake love, show me what you're made of Boy, make me believe Whoa, hold up, girl, don't you know you're beautiful?",
+      "valence": 3.24,
+      "arousal": 3.89,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "'Cause I'm tired of the fake love, show me what you're made of Boy, make me believe Whoa, hold up, girl, don't you know you're beautiful? And it's easy to see",
+      "valence": 3.28,
+      "arousal": 3.91,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Boy, make me believe Whoa, hold up, girl, don't you know you're beautiful? And it's easy to see If it's meant to be, it'll be, it'll be",
+      "valence": 3.68,
+      "arousal": 3.8,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Whoa, hold up, girl, don't you know you're beautiful? And it's easy to see If it's meant to be, it'll be, it'll be Baby, just let it be",
+      "valence": 3.61,
+      "arousal": 3.59,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "And it's easy to see If it's meant to be, it'll be, it'll be Baby, just let it be If it's meant to be, it'll be, it'll be",
+      "valence": 3.09,
+      "arousal": 3.04,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "If it's meant to be, it'll be, it'll be Baby, just let it be If it's meant to be, it'll be, it'll be Baby, just let it be",
+      "valence": 3.16,
+      "arousal": 3.16,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Baby, just let it be If it's meant to be, it'll be, it'll be Baby, just let it be So, won't you ride with me, ride with me?",
+      "valence": 3.13,
+      "arousal": 3.23,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "If it's meant to be, it'll be, it'll be Baby, just let it be So, won't you ride with me, ride with me? See where this thing goes",
+      "valence": 3.15,
+      "arousal": 3.3,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Baby, just let it be So, won't you ride with me, ride with me? See where this thing goes If it's meant to be, it'll be, it'll be",
+      "valence": 3.11,
+      "arousal": 3.31,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "So, won't you ride with me, ride with me? See where this thing goes If it's meant to be, it'll be, it'll be Baby, if it's meant to be",
+      "valence": 3.17,
+      "arousal": 3.39,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "See where this thing goes If it's meant to be, it'll be, it'll be Baby, if it's meant to be So, come on, ride with me, ride with me",
+      "valence": 3.27,
+      "arousal": 3.41,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "If it's meant to be, it'll be, it'll be Baby, if it's meant to be So, come on, ride with me, ride with me See where this thing goes",
+      "valence": 3.27,
+      "arousal": 3.4,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Baby, if it's meant to be So, come on, ride with me, ride with me See where this thing goes So, come on, ride with me, ride with me",
+      "valence": 3.33,
+      "arousal": 3.5,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "So, come on, ride with me, ride with me See where this thing goes So, come on, ride with me, ride with me Baby, if it's meant to be",
+      "valence": 3.43,
+      "arousal": 3.61,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "See where this thing goes So, come on, ride with me, ride with me Baby, if it's meant to be Maybe we do",
+      "valence": 3.36,
+      "arousal": 3.55,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "So, come on, ride with me, ride with me Baby, if it's meant to be Maybe we do Maybe we don't",
+      "valence": 3.31,
+      "arousal": 3.48,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Baby, if it's meant to be Maybe we do Maybe we don't Maybe we will",
+      "valence": 3.06,
+      "arousal": 3.25,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Maybe we do Maybe we don't Maybe we will Maybe we won't",
+      "valence": 2.91,
+      "arousal": 3.18,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Maybe we don't Maybe we will Maybe we won't But if it's meant to be, it'll be, it'll be",
+      "valence": 3.01,
+      "arousal": 3.11,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Maybe we will Maybe we won't But if it's meant to be, it'll be, it'll be Baby, just let it be (sing it, Bebe)",
+      "valence": 3.18,
+      "arousal": 3.31,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Maybe we won't But if it's meant to be, it'll be, it'll be Baby, just let it be (sing it, Bebe) If it's meant to be, it'll be, it'll be (come on)",
+      "valence": 3.14,
+      "arousal": 3.31,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "But if it's meant to be, it'll be, it'll be Baby, just let it be (sing it, Bebe) If it's meant to be, it'll be, it'll be (come on) Baby, just let it be (let's go)",
+      "valence": 3.29,
+      "arousal": 3.33,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Baby, just let it be (sing it, Bebe) If it's meant to be, it'll be, it'll be (come on) Baby, just let it be (let's go) So, won't you ride with me, ride with me?",
+      "valence": 3.29,
+      "arousal": 3.38,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "If it's meant to be, it'll be, it'll be (come on) Baby, just let it be (let's go) So, won't you ride with me, ride with me? See where this thing goes",
+      "valence": 3.13,
+      "arousal": 3.36,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Baby, just let it be (let's go) So, won't you ride with me, ride with me? See where this thing goes If it's meant to be, it'll be, it'll be",
+      "valence": 3.15,
+      "arousal": 3.33,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "So, won't you ride with me, ride with me? See where this thing goes If it's meant to be, it'll be, it'll be Baby, if it's meant to be (yeah)",
+      "valence": 3.19,
+      "arousal": 3.41,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "See where this thing goes If it's meant to be, it'll be, it'll be Baby, if it's meant to be (yeah) If it's meant to be, it'll be, it'll be",
+      "valence": 3.11,
+      "arousal": 3.16,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "If it's meant to be, it'll be, it'll be Baby, if it's meant to be (yeah) If it's meant to be, it'll be, it'll be Baby, if it's meant to be",
+      "valence": 3.11,
+      "arousal": 3.15,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Baby, if it's meant to be (yeah) If it's meant to be, it'll be, it'll be Baby, if it's meant to be If it's meant to be, it'll be, it'll be",
+      "valence": 3.11,
+      "arousal": 3.12,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "If it's meant to be, it'll be, it'll be Baby, if it's meant to be If it's meant to be, it'll be, it'll be Baby, if it's meant to be (mm)",
+      "valence": 3.11,
+      "arousal": 3.14,
+      "dominance": 3.19
+    }
+  ]
+}

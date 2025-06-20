@@ -1,0 +1,717 @@
+{
+  "artist": "Childish Gambino",
+  "overall_vad": {
+    "valence": 2.96,
+    "arousal": 3.54,
+    "dominance": 3.43
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Yeah, yeah, yeah, yeah, yeah Yeah, yeah, yeah, go, go away Yeah, yeah, yeah, yeah, yeah Yeah, yeah, yeah, go, go away",
+      "valence": 2.82,
+      "arousal": 3.27,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Yeah, yeah, yeah, go, go away Yeah, yeah, yeah, yeah, yeah Yeah, yeah, yeah, go, go away Yeah, yeah, yeah, yeah, yeah",
+      "valence": 2.89,
+      "arousal": 3.29,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Yeah, yeah, yeah, yeah, yeah Yeah, yeah, yeah, go, go away Yeah, yeah, yeah, yeah, yeah Yeah, yeah, yeah, go, go away",
+      "valence": 2.82,
+      "arousal": 3.27,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Yeah, yeah, yeah, go, go away Yeah, yeah, yeah, yeah, yeah Yeah, yeah, yeah, go, go away Yeah, yeah, yeah, yeah, yeah",
+      "valence": 2.89,
+      "arousal": 3.29,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Yeah, yeah, yeah, yeah, yeah Yeah, yeah, yeah, go, go away Yeah, yeah, yeah, yeah, yeah Yeah, yeah, yeah, go, go away",
+      "valence": 2.82,
+      "arousal": 3.27,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Yeah, yeah, yeah, go, go away Yeah, yeah, yeah, yeah, yeah Yeah, yeah, yeah, go, go away We just wanna party",
+      "valence": 2.98,
+      "arousal": 3.53,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Yeah, yeah, yeah, yeah, yeah Yeah, yeah, yeah, go, go away We just wanna party Party just for you",
+      "valence": 3.26,
+      "arousal": 3.63,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Yeah, yeah, yeah, go, go away We just wanna party Party just for you We just want the money",
+      "valence": 2.9,
+      "arousal": 3.49,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "We just wanna party Party just for you We just want the money Money just for you",
+      "valence": 3.19,
+      "arousal": 3.44,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Party just for you We just want the money Money just for you I know you wanna party (yeah)",
+      "valence": 3.35,
+      "arousal": 3.52,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "We just want the money Money just for you I know you wanna party (yeah) Party just for free",
+      "valence": 3.12,
+      "arousal": 3.52,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Money just for you I know you wanna party (yeah) Party just for free Girl, you got me dancin' (girl, you got me dancin')",
+      "valence": 3.5,
+      "arousal": 3.79,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I know you wanna party (yeah) Party just for free Girl, you got me dancin' (girl, you got me dancin') Dance and shake the frame",
+      "valence": 3.59,
+      "arousal": 3.85,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Party just for free Girl, you got me dancin' (girl, you got me dancin') Dance and shake the frame We just wanna party (yeah)",
+      "valence": 3.61,
+      "arousal": 3.9,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Girl, you got me dancin' (girl, you got me dancin') Dance and shake the frame We just wanna party (yeah) Party just for you (yeah)",
+      "valence": 3.69,
+      "arousal": 3.99,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Dance and shake the frame We just wanna party (yeah) Party just for you (yeah) We just want the money (yeah)",
+      "valence": 3.37,
+      "arousal": 3.68,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "We just wanna party (yeah) Party just for you (yeah) We just want the money (yeah) Money just for you (ooh)",
+      "valence": 3.33,
+      "arousal": 3.64,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Party just for you (yeah) We just want the money (yeah) Money just for you (ooh) I know you wanna party (yeah)",
+      "valence": 3.35,
+      "arousal": 3.62,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "We just want the money (yeah) Money just for you (ooh) I know you wanna party (yeah) Party just for free (yeah)",
+      "valence": 3.14,
+      "arousal": 3.57,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Money just for you (ooh) I know you wanna party (yeah) Party just for free (yeah) Girl, you got me dancin' (girl, you got me dancin')",
+      "valence": 3.53,
+      "arousal": 3.8,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I know you wanna party (yeah) Party just for free (yeah) Girl, you got me dancin' (girl, you got me dancin') Dance and shake the frame (ooh)",
+      "valence": 3.58,
+      "arousal": 3.86,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Party just for free (yeah) Girl, you got me dancin' (girl, you got me dancin') Dance and shake the frame (ooh) This is America",
+      "valence": 3.49,
+      "arousal": 3.83,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Girl, you got me dancin' (girl, you got me dancin') Dance and shake the frame (ooh) This is America Don't catch you slippin' now",
+      "valence": 3.02,
+      "arousal": 3.71,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Dance and shake the frame (ooh) This is America Don't catch you slippin' now Don't catch you slippin' now",
+      "valence": 2.81,
+      "arousal": 3.47,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "This is America Don't catch you slippin' now Don't catch you slippin' now Look what I'm whippin' now",
+      "valence": 2.55,
+      "arousal": 3.47,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Don't catch you slippin' now Don't catch you slippin' now Look what I'm whippin' now This is America (woo)",
+      "valence": 2.68,
+      "arousal": 3.61,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Don't catch you slippin' now Look what I'm whippin' now This is America (woo) Don't catch you slippin' now",
+      "valence": 2.48,
+      "arousal": 3.53,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Look what I'm whippin' now This is America (woo) Don't catch you slippin' now Don't catch you slippin' now",
+      "valence": 2.89,
+      "arousal": 3.57,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "This is America (woo) Don't catch you slippin' now Don't catch you slippin' now Look what I'm whippin' now",
+      "valence": 2.71,
+      "arousal": 3.53,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Don't catch you slippin' now Don't catch you slippin' now Look what I'm whippin' now This is America (skrrt, skrrt, woo)",
+      "valence": 2.68,
+      "arousal": 3.49,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Don't catch you slippin' now Look what I'm whippin' now This is America (skrrt, skrrt, woo) Don't catch you slippin' now (ayy)",
+      "valence": 2.69,
+      "arousal": 3.47,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Look what I'm whippin' now This is America (skrrt, skrrt, woo) Don't catch you slippin' now (ayy) Look at how I'm livin' now",
+      "valence": 3.05,
+      "arousal": 3.47,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "This is America (skrrt, skrrt, woo) Don't catch you slippin' now (ayy) Look at how I'm livin' now Police be trippin' now (woo)",
+      "valence": 2.8,
+      "arousal": 3.5,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Don't catch you slippin' now (ayy) Look at how I'm livin' now Police be trippin' now (woo) Yeah, this is America (woo, ayy)",
+      "valence": 2.89,
+      "arousal": 3.64,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Look at how I'm livin' now Police be trippin' now (woo) Yeah, this is America (woo, ayy) Guns in my area (word, my area)",
+      "valence": 2.66,
+      "arousal": 3.75,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Police be trippin' now (woo) Yeah, this is America (woo, ayy) Guns in my area (word, my area) I got the strap (ayy, ayy)",
+      "valence": 2.83,
+      "arousal": 3.74,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Yeah, this is America (woo, ayy) Guns in my area (word, my area) I got the strap (ayy, ayy) I gotta carry 'em",
+      "valence": 2.9,
+      "arousal": 3.79,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Guns in my area (word, my area) I got the strap (ayy, ayy) I gotta carry 'em Yeah, yeah, I'ma go into this (ugh)",
+      "valence": 2.75,
+      "arousal": 3.52,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I got the strap (ayy, ayy) I gotta carry 'em Yeah, yeah, I'ma go into this (ugh) Yeah, yeah, this is guerilla, woo",
+      "valence": 2.77,
+      "arousal": 3.47,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "I gotta carry 'em Yeah, yeah, I'ma go into this (ugh) Yeah, yeah, this is guerilla, woo Yeah, yeah, I'ma go get the bag",
+      "valence": 2.73,
+      "arousal": 3.48,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Yeah, yeah, I'ma go into this (ugh) Yeah, yeah, this is guerilla, woo Yeah, yeah, I'ma go get the bag Yeah, yeah, or I'ma get the pad",
+      "valence": 2.74,
+      "arousal": 3.44,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Yeah, yeah, this is guerilla, woo Yeah, yeah, I'ma go get the bag Yeah, yeah, or I'ma get the pad Yeah, yeah, I'm so cold like yeah (yeah)",
+      "valence": 2.71,
+      "arousal": 3.43,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Yeah, yeah, I'ma go get the bag Yeah, yeah, or I'ma get the pad Yeah, yeah, I'm so cold like yeah (yeah) I'm so dope like yeah (woo)",
+      "valence": 3.83,
+      "arousal": 3.95,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Yeah, yeah, or I'ma get the pad Yeah, yeah, I'm so cold like yeah (yeah) I'm so dope like yeah (woo) We gon' blow like yeah (straight up, uh)",
+      "valence": 3.46,
+      "arousal": 3.93,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Yeah, yeah, I'm so cold like yeah (yeah) I'm so dope like yeah (woo) We gon' blow like yeah (straight up, uh) Ooh-ooh-ooh-ooh-ooh, tell somebody",
+      "valence": 3.43,
+      "arousal": 4.06,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I'm so dope like yeah (woo) We gon' blow like yeah (straight up, uh) Ooh-ooh-ooh-ooh-ooh, tell somebody You go tell somebody",
+      "valence": 3.47,
+      "arousal": 4.14,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "We gon' blow like yeah (straight up, uh) Ooh-ooh-ooh-ooh-ooh, tell somebody You go tell somebody Grandma told me",
+      "valence": 2.98,
+      "arousal": 3.67,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Ooh-ooh-ooh-ooh-ooh, tell somebody You go tell somebody Grandma told me Get your money, black man (get your money)",
+      "valence": 2.81,
+      "arousal": 3.62,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "You go tell somebody Grandma told me Get your money, black man (get your money) Get your money, black man (get your money)",
+      "valence": 2.75,
+      "arousal": 3.29,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Grandma told me Get your money, black man (get your money) Get your money, black man (get your money) Get your money, black man (get your, black man)",
+      "valence": 2.88,
+      "arousal": 3.18,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Get your money, black man (get your money) Get your money, black man (get your money) Get your money, black man (get your, black man) Get your money, black man (get your, black man)",
+      "valence": 2.79,
+      "arousal": 3.25,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Get your money, black man (get your money) Get your money, black man (get your, black man) Get your money, black man (get your, black man) Black man",
+      "valence": 2.78,
+      "arousal": 3.19,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Get your money, black man (get your, black man) Get your money, black man (get your, black man) Black man This is America (woo, ayy)",
+      "valence": 3.01,
+      "arousal": 3.47,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Get your money, black man (get your, black man) Black man This is America (woo, ayy) Don't catch you slippin' now (woo, woo, don't catch you slippin', now)",
+      "valence": 2.64,
+      "arousal": 3.52,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Black man This is America (woo, ayy) Don't catch you slippin' now (woo, woo, don't catch you slippin', now) Don't catch you slippin' now (ayy, woah)",
+      "valence": 2.7,
+      "arousal": 3.56,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "This is America (woo, ayy) Don't catch you slippin' now (woo, woo, don't catch you slippin', now) Don't catch you slippin' now (ayy, woah) Look what I'm whippin' now (Slime!)",
+      "valence": 2.94,
+      "arousal": 3.83,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Don't catch you slippin' now (woo, woo, don't catch you slippin', now) Don't catch you slippin' now (ayy, woah) Look what I'm whippin' now (Slime!) This is America (yeah, yeah)",
+      "valence": 2.91,
+      "arousal": 3.9,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Don't catch you slippin' now (ayy, woah) Look what I'm whippin' now (Slime!) This is America (yeah, yeah) Don't catch you slippin' now (woah, ayy)",
+      "valence": 2.5,
+      "arousal": 3.84,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Look what I'm whippin' now (Slime!) This is America (yeah, yeah) Don't catch you slippin' now (woah, ayy) Don't catch you slippin' now (ayy, woo)",
+      "valence": 3.17,
+      "arousal": 3.86,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "This is America (yeah, yeah) Don't catch you slippin' now (woah, ayy) Don't catch you slippin' now (ayy, woo) Look what I'm whippin' now (ayy)",
+      "valence": 2.76,
+      "arousal": 3.55,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Don't catch you slippin' now (woah, ayy) Don't catch you slippin' now (ayy, woo) Look what I'm whippin' now (ayy) Look how I'm geekin' out (hey)",
+      "valence": 2.66,
+      "arousal": 3.61,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Don't catch you slippin' now (ayy, woo) Look what I'm whippin' now (ayy) Look how I'm geekin' out (hey) I'm so fitted (I'm so fitted, woo)",
+      "valence": 3.07,
+      "arousal": 3.67,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Look what I'm whippin' now (ayy) Look how I'm geekin' out (hey) I'm so fitted (I'm so fitted, woo) I'm on Gucci (I'm on Gucci)",
+      "valence": 3.42,
+      "arousal": 3.76,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Look how I'm geekin' out (hey) I'm so fitted (I'm so fitted, woo) I'm on Gucci (I'm on Gucci) I'm so pretty (yeah, yeah)",
+      "valence": 3.86,
+      "arousal": 3.83,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "I'm so fitted (I'm so fitted, woo) I'm on Gucci (I'm on Gucci) I'm so pretty (yeah, yeah) I'm gon' get it (ayy, I'm gon' get it)",
+      "valence": 4.02,
+      "arousal": 4.02,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "I'm on Gucci (I'm on Gucci) I'm so pretty (yeah, yeah) I'm gon' get it (ayy, I'm gon' get it) Watch me move (blaow)",
+      "valence": 3.81,
+      "arousal": 3.95,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "I'm so pretty (yeah, yeah) I'm gon' get it (ayy, I'm gon' get it) Watch me move (blaow) This a celly (ha)",
+      "valence": 3.64,
+      "arousal": 3.88,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "I'm gon' get it (ayy, I'm gon' get it) Watch me move (blaow) This a celly (ha) That's a tool (yeah)",
+      "valence": 2.82,
+      "arousal": 3.65,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Watch me move (blaow) This a celly (ha) That's a tool (yeah) On my Kodak (woo, Black)",
+      "valence": 2.85,
+      "arousal": 3.46,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "This a celly (ha) That's a tool (yeah) On my Kodak (woo, Black) Ooh, know that (yeah, know that, hold on)",
+      "valence": 2.71,
+      "arousal": 3.47,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "That's a tool (yeah) On my Kodak (woo, Black) Ooh, know that (yeah, know that, hold on) Get it (get it, get it)",
+      "valence": 2.75,
+      "arousal": 3.53,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "On my Kodak (woo, Black) Ooh, know that (yeah, know that, hold on) Get it (get it, get it) Ooh, work it (21)",
+      "valence": 3.08,
+      "arousal": 3.54,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Ooh, know that (yeah, know that, hold on) Get it (get it, get it) Ooh, work it (21) Hunnid bands, hunnid bands, hunnid bands (hunnid bands)",
+      "valence": 3.02,
+      "arousal": 3.47,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Get it (get it, get it) Ooh, work it (21) Hunnid bands, hunnid bands, hunnid bands (hunnid bands) Contraband, contraband, contraband (contraband)",
+      "valence": 2.85,
+      "arousal": 3.44,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Ooh, work it (21) Hunnid bands, hunnid bands, hunnid bands (hunnid bands) Contraband, contraband, contraband (contraband) I got the plug on Oaxaca (woah)",
+      "valence": 3.08,
+      "arousal": 3.37,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "Hunnid bands, hunnid bands, hunnid bands (hunnid bands) Contraband, contraband, contraband (contraband) I got the plug on Oaxaca (woah) They gonna find you like blocka (blaow)",
+      "valence": 3.09,
+      "arousal": 3.42,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "Contraband, contraband, contraband (contraband) I got the plug on Oaxaca (woah) They gonna find you like blocka (blaow) Ooh-ooh-ooh-ooh-ooh, tell somebody",
+      "valence": 2.76,
+      "arousal": 3.46,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "I got the plug on Oaxaca (woah) They gonna find you like blocka (blaow) Ooh-ooh-ooh-ooh-ooh, tell somebody (America, I just checked my following list and)",
+      "valence": 3.25,
+      "arousal": 3.48,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "They gonna find you like blocka (blaow) Ooh-ooh-ooh-ooh-ooh, tell somebody (America, I just checked my following list and) You go tell somebody",
+      "valence": 2.88,
+      "arousal": 3.5,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "Ooh-ooh-ooh-ooh-ooh, tell somebody (America, I just checked my following list and) You go tell somebody (You mothafuckas owe me)",
+      "valence": 2.99,
+      "arousal": 3.68,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "(America, I just checked my following list and) You go tell somebody (You mothafuckas owe me) Grandma told me",
+      "valence": 2.84,
+      "arousal": 3.32,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "You go tell somebody (You mothafuckas owe me) Grandma told me Get your money, black man (black man)",
+      "valence": 2.32,
+      "arousal": 3.5,
+      "dominance": 3.81
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "(You mothafuckas owe me) Grandma told me Get your money, black man (black man) Get your money, black man (black man)",
+      "valence": 2.44,
+      "arousal": 3.46,
+      "dominance": 3.74
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "Grandma told me Get your money, black man (black man) Get your money, black man (black man) Get your money, black man (black man)",
+      "valence": 2.83,
+      "arousal": 3.23,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "Get your money, black man (black man) Get your money, black man (black man) Get your money, black man (black man) Get your money, black man (black man)",
+      "valence": 2.76,
+      "arousal": 3.28,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 86,
+      "lyrics_text": "Get your money, black man (black man) Get your money, black man (black man) Get your money, black man (black man) Black man (one, two, three, get down)",
+      "valence": 2.66,
+      "arousal": 3.35,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 87,
+      "lyrics_text": "Get your money, black man (black man) Get your money, black man (black man) Black man (one, two, three, get down) Ooh-ooh-ooh-ooh-ooh, tell somebody",
+      "valence": 2.68,
+      "arousal": 3.49,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 88,
+      "lyrics_text": "Get your money, black man (black man) Black man (one, two, three, get down) Ooh-ooh-ooh-ooh-ooh, tell somebody You go tell somebody",
+      "valence": 2.73,
+      "arousal": 3.52,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 89,
+      "lyrics_text": "Black man (one, two, three, get down) Ooh-ooh-ooh-ooh-ooh, tell somebody You go tell somebody Grandma told me, \"Get your money, \" black man",
+      "valence": 2.76,
+      "arousal": 3.48,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 90,
+      "lyrics_text": "Ooh-ooh-ooh-ooh-ooh, tell somebody You go tell somebody Grandma told me, \"Get your money, \" black man Get your money, black man (black man)",
+      "valence": 2.97,
+      "arousal": 3.49,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 91,
+      "lyrics_text": "You go tell somebody Grandma told me, \"Get your money, \" black man Get your money, black man (black man) Get your money, black man (black man)",
+      "valence": 2.87,
+      "arousal": 3.2,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 92,
+      "lyrics_text": "Grandma told me, \"Get your money, \" black man Get your money, black man (black man) Get your money, black man (black man) Get your money, black man (black man)",
+      "valence": 2.9,
+      "arousal": 3.17,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 93,
+      "lyrics_text": "Get your money, black man (black man) Get your money, black man (black man) Get your money, black man (black man) Black man",
+      "valence": 2.76,
+      "arousal": 3.26,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 94,
+      "lyrics_text": "Get your money, black man (black man) Get your money, black man (black man) Black man You just a black man in this world",
+      "valence": 2.63,
+      "arousal": 3.34,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 95,
+      "lyrics_text": "Get your money, black man (black man) Black man You just a black man in this world You just a barcode, ayy",
+      "valence": 2.54,
+      "arousal": 3.34,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 96,
+      "lyrics_text": "Black man You just a black man in this world You just a barcode, ayy You just a black man in this world",
+      "valence": 2.62,
+      "arousal": 3.13,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 97,
+      "lyrics_text": "You just a black man in this world You just a barcode, ayy You just a black man in this world Drivin' expensive foreigns, ayy",
+      "valence": 2.56,
+      "arousal": 3.24,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 98,
+      "lyrics_text": "You just a barcode, ayy You just a black man in this world Drivin' expensive foreigns, ayy You just a big dawg, yeah",
+      "valence": 2.65,
+      "arousal": 3.3,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 99,
+      "lyrics_text": "You just a black man in this world Drivin' expensive foreigns, ayy You just a big dawg, yeah I kenneled him in the backyard",
+      "valence": 2.56,
+      "arousal": 3.4,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 100,
+      "lyrics_text": "Drivin' expensive foreigns, ayy You just a big dawg, yeah I kenneled him in the backyard No proper life to a dog",
+      "valence": 2.63,
+      "arousal": 3.28,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 101,
+      "lyrics_text": "You just a big dawg, yeah I kenneled him in the backyard No proper life to a dog For a big dog",
+      "valence": 2.72,
+      "arousal": 3.1,
+      "dominance": 3.32
+    }
+  ]
+}

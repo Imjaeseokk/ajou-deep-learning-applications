@@ -1,0 +1,458 @@
+{
+  "artist": "George Ezra",
+  "overall_vad": {
+    "valence": 2.96,
+    "arousal": 3.28,
+    "dominance": 3.17
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "My house in Budapest, my My hidden treasure chest Golden grand piano My beautiful Castillo",
+      "valence": 3.83,
+      "arousal": 3.58,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "My hidden treasure chest Golden grand piano My beautiful Castillo You",
+      "valence": 3.8,
+      "arousal": 3.53,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Golden grand piano My beautiful Castillo You You",
+      "valence": 3.91,
+      "arousal": 3.44,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "My beautiful Castillo You You I'd leave it all",
+      "valence": 3.47,
+      "arousal": 3.28,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "You You I'd leave it all My acres of a land",
+      "valence": 3.08,
+      "arousal": 2.92,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "You I'd leave it all My acres of a land I have achieved",
+      "valence": 3.31,
+      "arousal": 3.01,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I'd leave it all My acres of a land I have achieved It may be hard for you to",
+      "valence": 3.34,
+      "arousal": 3.03,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "My acres of a land I have achieved It may be hard for you to Stop and believe",
+      "valence": 3.68,
+      "arousal": 3.46,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I have achieved It may be hard for you to Stop and believe But for you",
+      "valence": 3.5,
+      "arousal": 3.42,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "It may be hard for you to Stop and believe But for you You",
+      "valence": 3.07,
+      "arousal": 3.23,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Stop and believe But for you You I'd leave it all",
+      "valence": 2.9,
+      "arousal": 3.09,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "But for you You I'd leave it all Oh, for you",
+      "valence": 3.07,
+      "arousal": 3.11,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "You I'd leave it all Oh, for you You",
+      "valence": 3.09,
+      "arousal": 3.12,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I'd leave it all Oh, for you You I'd leave it all",
+      "valence": 3.1,
+      "arousal": 3.21,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Oh, for you You I'd leave it all Give me one good reason",
+      "valence": 2.94,
+      "arousal": 3.07,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "You I'd leave it all Give me one good reason Why I should never make a change",
+      "valence": 2.61,
+      "arousal": 2.96,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I'd leave it all Give me one good reason Why I should never make a change And, baby, if you hold me",
+      "valence": 2.78,
+      "arousal": 3.19,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Give me one good reason Why I should never make a change And, baby, if you hold me Then all of this will go away",
+      "valence": 2.72,
+      "arousal": 3.32,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Why I should never make a change And, baby, if you hold me Then all of this will go away My many artifacts",
+      "valence": 2.67,
+      "arousal": 3.22,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "And, baby, if you hold me Then all of this will go away My many artifacts The list goes on",
+      "valence": 3.14,
+      "arousal": 3.29,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Then all of this will go away My many artifacts The list goes on If you just say the words, I'll",
+      "valence": 2.79,
+      "arousal": 3.09,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "My many artifacts The list goes on If you just say the words, I'll I'll up and run",
+      "valence": 3.18,
+      "arousal": 3.19,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "The list goes on If you just say the words, I'll I'll up and run Oh, to you",
+      "valence": 3.18,
+      "arousal": 3.3,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "If you just say the words, I'll I'll up and run Oh, to you You",
+      "valence": 3.24,
+      "arousal": 3.25,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I'll up and run Oh, to you You I'd leave it all",
+      "valence": 2.95,
+      "arousal": 3.12,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Oh, to you You I'd leave it all Oh, for you",
+      "valence": 3.03,
+      "arousal": 3.11,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "You I'd leave it all Oh, for you Ooh",
+      "valence": 3.03,
+      "arousal": 3.16,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I'd leave it all Oh, for you Ooh I'd leave it all",
+      "valence": 3.04,
+      "arousal": 3.24,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Oh, for you Ooh I'd leave it all Give me one good reason",
+      "valence": 2.8,
+      "arousal": 3.11,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Ooh I'd leave it all Give me one good reason Why I should never make a change",
+      "valence": 2.54,
+      "arousal": 2.97,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I'd leave it all Give me one good reason Why I should never make a change And, baby, if you hold me",
+      "valence": 2.78,
+      "arousal": 3.19,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Give me one good reason Why I should never make a change And, baby, if you hold me Then all of this will go away",
+      "valence": 2.72,
+      "arousal": 3.32,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Why I should never make a change And, baby, if you hold me Then all of this will go away Give me one good reason",
+      "valence": 2.72,
+      "arousal": 3.36,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "And, baby, if you hold me Then all of this will go away Give me one good reason Why I should never make a change",
+      "valence": 2.74,
+      "arousal": 3.39,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Then all of this will go away Give me one good reason Why I should never make a change Baby, if you hold me",
+      "valence": 2.75,
+      "arousal": 3.31,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Give me one good reason Why I should never make a change Baby, if you hold me Then all of this will go away",
+      "valence": 2.66,
+      "arousal": 3.31,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Why I should never make a change Baby, if you hold me Then all of this will go away My friends and family",
+      "valence": 2.61,
+      "arousal": 3.3,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Baby, if you hold me Then all of this will go away My friends and family They don't understand",
+      "valence": 2.95,
+      "arousal": 3.43,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Then all of this will go away My friends and family They don't understand They fear they'll lose so much",
+      "valence": 2.33,
+      "arousal": 3.4,
+      "dominance": 2.62
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "My friends and family They don't understand They fear they'll lose so much If you take my hand",
+      "valence": 2.49,
+      "arousal": 3.36,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "They don't understand They fear they'll lose so much If you take my hand But for you",
+      "valence": 2.65,
+      "arousal": 3.25,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "They fear they'll lose so much If you take my hand But for you You",
+      "valence": 2.78,
+      "arousal": 3.28,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "If you take my hand But for you You I'd lose it all",
+      "valence": 2.56,
+      "arousal": 3.44,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "But for you You I'd lose it all Oh, for you",
+      "valence": 2.46,
+      "arousal": 3.38,
+      "dominance": 2.75
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "You I'd lose it all Oh, for you You",
+      "valence": 2.5,
+      "arousal": 3.52,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I'd lose it all Oh, for you You I'd lose it all",
+      "valence": 2.27,
+      "arousal": 3.6,
+      "dominance": 2.66
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Oh, for you You I'd lose it all Give me one good reason",
+      "valence": 2.4,
+      "arousal": 3.41,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "You I'd lose it all Give me one good reason Why I should never make a change",
+      "valence": 2.24,
+      "arousal": 3.37,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I'd lose it all Give me one good reason Why I should never make a change And, baby, if you hold me",
+      "valence": 2.57,
+      "arousal": 3.48,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Give me one good reason Why I should never make a change And, baby, if you hold me Then all of this will go away",
+      "valence": 2.72,
+      "arousal": 3.32,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Why I should never make a change And, baby, if you hold me Then all of this will go away Give me one good reason",
+      "valence": 2.72,
+      "arousal": 3.36,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "And, baby, if you hold me Then all of this will go away Give me one good reason Why I should never make a change",
+      "valence": 2.74,
+      "arousal": 3.39,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Then all of this will go away Give me one good reason Why I should never make a change And, baby, if you hold me",
+      "valence": 2.7,
+      "arousal": 3.29,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Give me one good reason Why I should never make a change And, baby, if you hold me Then all of this will go away",
+      "valence": 2.72,
+      "arousal": 3.32,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Why I should never make a change And, baby, if you hold me Then all of this will go away My house in Budapest, my",
+      "valence": 2.56,
+      "arousal": 3.29,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "And, baby, if you hold me Then all of this will go away My house in Budapest, my My hidden treasure chest",
+      "valence": 3.01,
+      "arousal": 3.34,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Then all of this will go away My house in Budapest, my My hidden treasure chest Golden grand piano",
+      "valence": 2.8,
+      "arousal": 3.19,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "My house in Budapest, my My hidden treasure chest Golden grand piano My beautiful Castillo",
+      "valence": 3.83,
+      "arousal": 3.58,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "My hidden treasure chest Golden grand piano My beautiful Castillo You",
+      "valence": 3.8,
+      "arousal": 3.53,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Golden grand piano My beautiful Castillo You You",
+      "valence": 3.91,
+      "arousal": 3.44,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "My beautiful Castillo You You I'd leave it all",
+      "valence": 3.47,
+      "arousal": 3.28,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "You You I'd leave it all Oh, for you",
+      "valence": 3.04,
+      "arousal": 3.1,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "You I'd leave it all Oh, for you You",
+      "valence": 3.09,
+      "arousal": 3.12,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "I'd leave it all Oh, for you You I'd leave it all",
+      "valence": 3.1,
+      "arousal": 3.21,
+      "dominance": 3.18
+    }
+  ]
+}

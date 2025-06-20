@@ -1,0 +1,290 @@
+{
+  "artist": "Miley Cyrus",
+  "overall_vad": {
+    "valence": 3.3,
+    "arousal": 3.31,
+    "dominance": 3.09
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I never came to the beach or stood by the ocean I never sat by the shore under the sun with my feet in the sand But you brought me here and I'm happy that you did 'Cause now I'm as free as birds catching the wind",
+      "valence": 3.72,
+      "arousal": 3.26,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I never sat by the shore under the sun with my feet in the sand But you brought me here and I'm happy that you did 'Cause now I'm as free as birds catching the wind I always thought I would sink, so I never swam",
+      "valence": 3.75,
+      "arousal": 3.25,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "But you brought me here and I'm happy that you did 'Cause now I'm as free as birds catching the wind I always thought I would sink, so I never swam I never went boatin', don't get how they are floatin'",
+      "valence": 3.61,
+      "arousal": 3.27,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "'Cause now I'm as free as birds catching the wind I always thought I would sink, so I never swam I never went boatin', don't get how they are floatin' And sometimes I get so scared of what I can't understand",
+      "valence": 2.63,
+      "arousal": 3.31,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I always thought I would sink, so I never swam I never went boatin', don't get how they are floatin' And sometimes I get so scared of what I can't understand But here I am",
+      "valence": 2.32,
+      "arousal": 3.28,
+      "dominance": 2.71
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I never went boatin', don't get how they are floatin' And sometimes I get so scared of what I can't understand But here I am Next to you",
+      "valence": 2.55,
+      "arousal": 3.35,
+      "dominance": 2.77
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "And sometimes I get so scared of what I can't understand But here I am Next to you The sky is more blue",
+      "valence": 3.0,
+      "arousal": 3.43,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "But here I am Next to you The sky is more blue In Malibu",
+      "valence": 3.31,
+      "arousal": 3.12,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Next to you The sky is more blue In Malibu Next to you",
+      "valence": 3.33,
+      "arousal": 3.18,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "The sky is more blue In Malibu Next to you In Malibu",
+      "valence": 3.42,
+      "arousal": 3.08,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "In Malibu Next to you In Malibu Next to you",
+      "valence": 3.14,
+      "arousal": 3.01,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Next to you In Malibu Next to you We watched the sun go down as we were walking",
+      "valence": 3.14,
+      "arousal": 2.96,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "In Malibu Next to you We watched the sun go down as we were walking I'd spend the rest of my life just standing here talking",
+      "valence": 2.97,
+      "arousal": 3.01,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Next to you We watched the sun go down as we were walking I'd spend the rest of my life just standing here talking You would explain the current, as I just smile",
+      "valence": 3.41,
+      "arousal": 3.17,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "We watched the sun go down as we were walking I'd spend the rest of my life just standing here talking You would explain the current, as I just smile Hoping I just stay the same and nothing will change",
+      "valence": 3.14,
+      "arousal": 3.08,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I'd spend the rest of my life just standing here talking You would explain the current, as I just smile Hoping I just stay the same and nothing will change And it'll be us, just for a while",
+      "valence": 3.16,
+      "arousal": 3.07,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "You would explain the current, as I just smile Hoping I just stay the same and nothing will change And it'll be us, just for a while Do we even exist?",
+      "valence": 3.1,
+      "arousal": 3.16,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Hoping I just stay the same and nothing will change And it'll be us, just for a while Do we even exist? That's when I make the wish",
+      "valence": 2.87,
+      "arousal": 3.17,
+      "dominance": 2.75
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "And it'll be us, just for a while Do we even exist? That's when I make the wish To swim away with the fish",
+      "valence": 2.96,
+      "arousal": 3.2,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Do we even exist? That's when I make the wish To swim away with the fish Is it supposed to be this hot all summer long?",
+      "valence": 2.96,
+      "arousal": 3.33,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "That's when I make the wish To swim away with the fish Is it supposed to be this hot all summer long? I never would've believed you",
+      "valence": 3.1,
+      "arousal": 3.26,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "To swim away with the fish Is it supposed to be this hot all summer long? I never would've believed you If three years ago you told me",
+      "valence": 2.86,
+      "arousal": 3.3,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Is it supposed to be this hot all summer long? I never would've believed you If three years ago you told me I'd be here writing this song",
+      "valence": 3.07,
+      "arousal": 3.56,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I never would've believed you If three years ago you told me I'd be here writing this song But here I am",
+      "valence": 3.49,
+      "arousal": 3.59,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "If three years ago you told me I'd be here writing this song But here I am Next to you",
+      "valence": 3.38,
+      "arousal": 3.51,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I'd be here writing this song But here I am Next to you The sky is so blue",
+      "valence": 3.43,
+      "arousal": 3.42,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "But here I am Next to you The sky is so blue In Malibu",
+      "valence": 3.39,
+      "arousal": 3.21,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Next to you The sky is so blue In Malibu Next to you",
+      "valence": 3.6,
+      "arousal": 3.36,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "The sky is so blue In Malibu Next to you In Malibu",
+      "valence": 3.71,
+      "arousal": 3.35,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "In Malibu Next to you In Malibu Next to you",
+      "valence": 3.14,
+      "arousal": 3.01,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Next to you In Malibu Next to you Next to you",
+      "valence": 3.11,
+      "arousal": 3.02,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "In Malibu Next to you Next to you The sky is so blue",
+      "valence": 3.48,
+      "arousal": 3.33,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Next to you Next to you The sky is so blue In Malibu",
+      "valence": 3.61,
+      "arousal": 3.33,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Next to you The sky is so blue In Malibu Next to you",
+      "valence": 3.6,
+      "arousal": 3.36,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "The sky is so blue In Malibu Next to you We are just like the waves that flow back and forth",
+      "valence": 3.64,
+      "arousal": 3.38,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "In Malibu Next to you We are just like the waves that flow back and forth Sometimes I feel like I'm drowning and you're there to save me",
+      "valence": 3.32,
+      "arousal": 3.37,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Next to you We are just like the waves that flow back and forth Sometimes I feel like I'm drowning and you're there to save me And I wanna thank you with all of my heart",
+      "valence": 3.62,
+      "arousal": 3.7,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "We are just like the waves that flow back and forth Sometimes I feel like I'm drowning and you're there to save me And I wanna thank you with all of my heart It's a brand new start",
+      "valence": 3.83,
+      "arousal": 3.79,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Sometimes I feel like I'm drowning and you're there to save me And I wanna thank you with all of my heart It's a brand new start A dream come true",
+      "valence": 4.07,
+      "arousal": 4.01,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "And I wanna thank you with all of my heart It's a brand new start A dream come true In Malibu",
+      "valence": 4.23,
+      "arousal": 3.66,
+      "dominance": 3.3
+    }
+  ]
+}

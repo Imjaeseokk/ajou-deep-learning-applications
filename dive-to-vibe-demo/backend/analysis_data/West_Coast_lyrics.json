@@ -1,0 +1,206 @@
+{
+  "artist": "Lana Del Rey",
+  "overall_vad": {
+    "valence": 3.59,
+    "arousal": 3.66,
+    "dominance": 3.32
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I can see my baby swingin' Ooh baby baby bae, I love you I can see my baby swingin' Ooh baby baby bae, I love you",
+      "valence": 4.32,
+      "arousal": 4.07,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Ooh baby baby bae, I love you I can see my baby swingin' Ooh baby baby bae, I love you I can see my baby swingin'",
+      "valence": 4.34,
+      "arousal": 4.01,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I can see my baby swingin' Ooh baby baby bae, I love you I can see my baby swingin' Ooh baby baby bae, I love you",
+      "valence": 4.32,
+      "arousal": 4.07,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Ooh baby baby bae, I love you I can see my baby swingin' Ooh baby baby bae, I love you I can see my baby swingin'",
+      "valence": 4.34,
+      "arousal": 4.01,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I can see my baby swingin' Ooh baby baby bae, I love you I can see my baby swingin' Down on the West Coast they got a sayin'",
+      "valence": 4.2,
+      "arousal": 3.99,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Ooh baby baby bae, I love you I can see my baby swingin' Down on the West Coast they got a sayin' \"If you're not drinkin' then you're not playin'\"",
+      "valence": 4.06,
+      "arousal": 3.94,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I can see my baby swingin' Down on the West Coast they got a sayin' \"If you're not drinkin' then you're not playin'\" But you've got the music, you've got the music",
+      "valence": 3.43,
+      "arousal": 3.41,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Down on the West Coast they got a sayin' \"If you're not drinkin' then you're not playin'\" But you've got the music, you've got the music In you, don't you?",
+      "valence": 3.15,
+      "arousal": 3.32,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "\"If you're not drinkin' then you're not playin'\" But you've got the music, you've got the music In you, don't you? Down on the West Coast, I get this feeling like",
+      "valence": 3.09,
+      "arousal": 3.38,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "But you've got the music, you've got the music In you, don't you? Down on the West Coast, I get this feeling like It all could happen, that's why I'm leaving",
+      "valence": 3.13,
+      "arousal": 3.53,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "In you, don't you? Down on the West Coast, I get this feeling like It all could happen, that's why I'm leaving You for the moment, you for the moment",
+      "valence": 2.78,
+      "arousal": 3.19,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Down on the West Coast, I get this feeling like It all could happen, that's why I'm leaving You for the moment, you for the moment Boy blue, yeah you",
+      "valence": 2.96,
+      "arousal": 3.32,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "It all could happen, that's why I'm leaving You for the moment, you for the moment Boy blue, yeah you I can see my baby swingin'",
+      "valence": 3.28,
+      "arousal": 3.39,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "You for the moment, you for the moment Boy blue, yeah you I can see my baby swingin' I can see my baby swingin'",
+      "valence": 3.65,
+      "arousal": 3.55,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Boy blue, yeah you I can see my baby swingin' I can see my baby swingin' Down on the West Coast, they got their icons",
+      "valence": 3.54,
+      "arousal": 3.4,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I can see my baby swingin' I can see my baby swingin' Down on the West Coast, they got their icons Their silver starlets, their Queens of Saigons",
+      "valence": 3.72,
+      "arousal": 3.51,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I can see my baby swingin' Down on the West Coast, they got their icons Their silver starlets, their Queens of Saigons And you've got the music, you've got the music",
+      "valence": 3.81,
+      "arousal": 3.62,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Down on the West Coast, they got their icons Their silver starlets, their Queens of Saigons And you've got the music, you've got the music In you, don't you?",
+      "valence": 3.52,
+      "arousal": 3.48,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Their silver starlets, their Queens of Saigons And you've got the music, you've got the music In you, don't you? Down on the West Coast, they love their movies",
+      "valence": 3.81,
+      "arousal": 3.61,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "And you've got the music, you've got the music In you, don't you? Down on the West Coast, they love their movies Their golden gods and rock and roll groupies",
+      "valence": 3.65,
+      "arousal": 3.58,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "In you, don't you? Down on the West Coast, they love their movies Their golden gods and rock and roll groupies And you've got the music, you've got the music",
+      "valence": 3.71,
+      "arousal": 3.52,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Down on the West Coast, they love their movies Their golden gods and rock and roll groupies And you've got the music, you've got the music In you, don't you?",
+      "valence": 3.76,
+      "arousal": 3.59,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Their golden gods and rock and roll groupies And you've got the music, you've got the music In you, don't you? I can see my baby swingin'",
+      "valence": 3.59,
+      "arousal": 3.59,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "And you've got the music, you've got the music In you, don't you? I can see my baby swingin' I can see my baby swingin'",
+      "valence": 3.56,
+      "arousal": 3.59,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "In you, don't you? I can see my baby swingin' I can see my baby swingin' You push it hard, I pull away, I'm feeling hotter than fire",
+      "valence": 2.78,
+      "arousal": 3.81,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I can see my baby swingin' I can see my baby swingin' You push it hard, I pull away, I'm feeling hotter than fire I guess that no one ever really made me feel that much higher",
+      "valence": 2.99,
+      "arousal": 3.99,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I can see my baby swingin' You push it hard, I pull away, I'm feeling hotter than fire I guess that no one ever really made me feel that much higher Te deseo, cariÃ±o, boy, it's you I desire",
+      "valence": 3.25,
+      "arousal": 3.94,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "You push it hard, I pull away, I'm feeling hotter than fire I guess that no one ever really made me feel that much higher Te deseo, cariÃ±o, boy, it's you I desire Your love, your love",
+      "valence": 3.69,
+      "arousal": 4.16,
+      "dominance": 3.33
+    }
+  ]
+}

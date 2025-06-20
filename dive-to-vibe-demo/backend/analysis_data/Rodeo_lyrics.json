@@ -1,0 +1,283 @@
+{
+  "artist": "Lil Nas X & Cardi B Or Nas",
+  "overall_vad": {
+    "valence": 2.8,
+    "arousal": 3.48,
+    "dominance": 3.16
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Daytrip took it to 10 (hey) Oh here we go, please let me know Off we go, don't leave me in the cold If I took you everywhere, then well, you wouldn't know how to walk",
+      "valence": 2.85,
+      "arousal": 3.2,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Oh here we go, please let me know Off we go, don't leave me in the cold If I took you everywhere, then well, you wouldn't know how to walk If I spoke on your behalf, then well, you wouldn't know how to talk",
+      "valence": 2.76,
+      "arousal": 3.3,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Off we go, don't leave me in the cold If I took you everywhere, then well, you wouldn't know how to walk If I spoke on your behalf, then well, you wouldn't know how to talk If I gave you everything and everything is what I bought",
+      "valence": 2.72,
+      "arousal": 3.35,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "If I took you everywhere, then well, you wouldn't know how to walk If I spoke on your behalf, then well, you wouldn't know how to talk If I gave you everything and everything is what I bought I can take it all back, I never cared 'bout what you thought",
+      "valence": 2.79,
+      "arousal": 3.33,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "If I spoke on your behalf, then well, you wouldn't know how to talk If I gave you everything and everything is what I bought I can take it all back, I never cared 'bout what you thought I didn't mean to make you mad, I don't like when you're upset",
+      "valence": 2.54,
+      "arousal": 3.39,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "If I gave you everything and everything is what I bought I can take it all back, I never cared 'bout what you thought I didn't mean to make you mad, I don't like when you're upset I'ma call you later on, baby girl, don't you forget",
+      "valence": 2.7,
+      "arousal": 3.51,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I can take it all back, I never cared 'bout what you thought I didn't mean to make you mad, I don't like when you're upset I'ma call you later on, baby girl, don't you forget I'ma take you from this party, we might go and have some sex",
+      "valence": 2.69,
+      "arousal": 3.74,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I didn't mean to make you mad, I don't like when you're upset I'ma call you later on, baby girl, don't you forget I'ma take you from this party, we might go and have some sex Or we do that later on, now we lit like cigarettes",
+      "valence": 2.68,
+      "arousal": 3.64,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I'ma call you later on, baby girl, don't you forget I'ma take you from this party, we might go and have some sex Or we do that later on, now we lit like cigarettes I thought you would stay with me",
+      "valence": 3.24,
+      "arousal": 3.57,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I'ma take you from this party, we might go and have some sex Or we do that later on, now we lit like cigarettes I thought you would stay with me I'm yours and you're mine, I envy",
+      "valence": 3.38,
+      "arousal": 3.66,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Or we do that later on, now we lit like cigarettes I thought you would stay with me I'm yours and you're mine, I envy So what I'm gon' do?",
+      "valence": 3.05,
+      "arousal": 3.33,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I thought you would stay with me I'm yours and you're mine, I envy So what I'm gon' do? I don't have no clue, ain't no me without you",
+      "valence": 3.34,
+      "arousal": 3.49,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I'm yours and you're mine, I envy So what I'm gon' do? I don't have no clue, ain't no me without you Oh here we go, please let me know",
+      "valence": 3.26,
+      "arousal": 3.58,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "So what I'm gon' do? I don't have no clue, ain't no me without you Oh here we go, please let me know Off we go, don't leave me in the cold",
+      "valence": 2.68,
+      "arousal": 3.41,
+      "dominance": 2.7
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I don't have no clue, ain't no me without you Oh here we go, please let me know Off we go, don't leave me in the cold If I took you everywhere, then well, you wouldn't know how to walk",
+      "valence": 2.72,
+      "arousal": 3.24,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Oh here we go, please let me know Off we go, don't leave me in the cold If I took you everywhere, then well, you wouldn't know how to walk If I spoke on your behalf, then well, you wouldn't know how to talk",
+      "valence": 2.76,
+      "arousal": 3.3,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Off we go, don't leave me in the cold If I took you everywhere, then well, you wouldn't know how to walk If I spoke on your behalf, then well, you wouldn't know how to talk If I gave you everything and everything is what I bought",
+      "valence": 2.72,
+      "arousal": 3.35,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "If I took you everywhere, then well, you wouldn't know how to walk If I spoke on your behalf, then well, you wouldn't know how to talk If I gave you everything and everything is what I bought I can take it all back, I never cared 'bout what you thought (Cardi)",
+      "valence": 2.85,
+      "arousal": 3.38,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "If I spoke on your behalf, then well, you wouldn't know how to talk If I gave you everything and everything is what I bought I can take it all back, I never cared 'bout what you thought (Cardi) Look, gunshot, gunshot",
+      "valence": 2.63,
+      "arousal": 3.47,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "If I gave you everything and everything is what I bought I can take it all back, I never cared 'bout what you thought (Cardi) Look, gunshot, gunshot Thought you heard about me, must not, must not",
+      "valence": 2.8,
+      "arousal": 3.47,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I can take it all back, I never cared 'bout what you thought (Cardi) Look, gunshot, gunshot Thought you heard about me, must not, must not Last nigga did me dirty, dirty",
+      "valence": 2.43,
+      "arousal": 3.43,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Look, gunshot, gunshot Thought you heard about me, must not, must not Last nigga did me dirty, dirty Like a bathroom in a truck stop, truck stop",
+      "valence": 2.17,
+      "arousal": 3.37,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Thought you heard about me, must not, must not Last nigga did me dirty, dirty Like a bathroom in a truck stop, truck stop Now my heart, it feels like Brillo, I'm hard like armadillo",
+      "valence": 2.65,
+      "arousal": 3.77,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Last nigga did me dirty, dirty Like a bathroom in a truck stop, truck stop Now my heart, it feels like Brillo, I'm hard like armadillo Can't be no nigga ex, I could only be his widow",
+      "valence": 2.34,
+      "arousal": 3.66,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Like a bathroom in a truck stop, truck stop Now my heart, it feels like Brillo, I'm hard like armadillo Can't be no nigga ex, I could only be his widow That's a fact, dressed in black, my heart break, bones will crack",
+      "valence": 2.54,
+      "arousal": 3.85,
+      "dominance": 2.77
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Now my heart, it feels like Brillo, I'm hard like armadillo Can't be no nigga ex, I could only be his widow That's a fact, dressed in black, my heart break, bones will crack I be chilling, watching Oxygen, my favorite show is \"Snapped\" (\"Snapped\", \"Snapped\")",
+      "valence": 2.9,
+      "arousal": 3.85,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Can't be no nigga ex, I could only be his widow That's a fact, dressed in black, my heart break, bones will crack I be chilling, watching Oxygen, my favorite show is \"Snapped\" (\"Snapped\", \"Snapped\") Now you know how I get, every day, a foreign whip",
+      "valence": 2.63,
+      "arousal": 3.55,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "That's a fact, dressed in black, my heart break, bones will crack I be chilling, watching Oxygen, my favorite show is \"Snapped\" (\"Snapped\", \"Snapped\") Now you know how I get, every day, a foreign whip Rather see you in a hearse than see you with some other bitch",
+      "valence": 2.56,
+      "arousal": 3.74,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I be chilling, watching Oxygen, my favorite show is \"Snapped\" (\"Snapped\", \"Snapped\") Now you know how I get, every day, a foreign whip Rather see you in a hearse than see you with some other bitch Huh?",
+      "valence": 2.99,
+      "arousal": 3.46,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Now you know how I get, every day, a foreign whip Rather see you in a hearse than see you with some other bitch Huh? Oh here we go, please let me know",
+      "valence": 2.63,
+      "arousal": 3.45,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Rather see you in a hearse than see you with some other bitch Huh? Oh here we go, please let me know Off we go, don't leave me in the cold",
+      "valence": 2.47,
+      "arousal": 3.56,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Huh? Oh here we go, please let me know Off we go, don't leave me in the cold If I took you everywhere, then well, you wouldn't know how to walk",
+      "valence": 2.81,
+      "arousal": 3.3,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Oh here we go, please let me know Off we go, don't leave me in the cold If I took you everywhere, then well, you wouldn't know how to walk If I spoke on your behalf, then well, you wouldn't know how to talk",
+      "valence": 2.76,
+      "arousal": 3.3,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Off we go, don't leave me in the cold If I took you everywhere, then well, you wouldn't know how to walk If I spoke on your behalf, then well, you wouldn't know how to talk If I gave you everything and everything is what I bought",
+      "valence": 2.72,
+      "arousal": 3.35,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "If I took you everywhere, then well, you wouldn't know how to walk If I spoke on your behalf, then well, you wouldn't know how to talk If I gave you everything and everything is what I bought I can take it all back, I never cared 'bout what you thought",
+      "valence": 2.79,
+      "arousal": 3.33,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "If I spoke on your behalf, then well, you wouldn't know how to talk If I gave you everything and everything is what I bought I can take it all back, I never cared 'bout what you thought (I thought you would stay with me",
+      "valence": 2.85,
+      "arousal": 3.26,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "If I gave you everything and everything is what I bought I can take it all back, I never cared 'bout what you thought (I thought you would stay with me I'm yours and you're mine, I envy",
+      "valence": 3.45,
+      "arousal": 3.62,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "I can take it all back, I never cared 'bout what you thought (I thought you would stay with me I'm yours and you're mine, I envy So what I'm gon' do?",
+      "valence": 3.21,
+      "arousal": 3.56,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "(I thought you would stay with me I'm yours and you're mine, I envy So what I'm gon' do? I don't have no clue, ain't no me without you)",
+      "valence": 3.24,
+      "arousal": 3.46,
+      "dominance": 3.09
+    }
+  ]
+}

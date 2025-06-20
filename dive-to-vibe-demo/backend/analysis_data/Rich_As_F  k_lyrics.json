@@ -1,0 +1,556 @@
+{
+  "artist": "Lil Wayne Featuring 2 Chainz",
+  "overall_vad": {
+    "valence": 2.39,
+    "arousal": 3.7,
+    "dominance": 3.57
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Uh, AK on my night stand, right next to that bible But I swear with these 50 shots, I'll shoot it out with 5-0 Pockets gettin' too fat, no Weight Watchers, no lipo Money talks, bullshit walks, on a motherfuckin' tight rope",
+      "valence": 2.63,
+      "arousal": 3.71,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "But I swear with these 50 shots, I'll shoot it out with 5-0 Pockets gettin' too fat, no Weight Watchers, no lipo Money talks, bullshit walks, on a motherfuckin' tight rope And I make that pussy tap out",
+      "valence": 2.47,
+      "arousal": 3.72,
+      "dominance": 3.84
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Pockets gettin' too fat, no Weight Watchers, no lipo Money talks, bullshit walks, on a motherfuckin' tight rope And I make that pussy tap out I knock that pussy out cold",
+      "valence": 2.25,
+      "arousal": 3.7,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Money talks, bullshit walks, on a motherfuckin' tight rope And I make that pussy tap out I knock that pussy out cold Nigga you get beat the crap out",
+      "valence": 2.07,
+      "arousal": 3.86,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "And I make that pussy tap out I knock that pussy out cold Nigga you get beat the crap out But that's just how a dice roll",
+      "valence": 2.21,
+      "arousal": 3.72,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I knock that pussy out cold Nigga you get beat the crap out But that's just how a dice roll These hoes hold that hose pipe",
+      "valence": 2.1,
+      "arousal": 3.73,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Nigga you get beat the crap out But that's just how a dice roll These hoes hold that hose pipe So I give all these hoes pipe",
+      "valence": 2.41,
+      "arousal": 3.36,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "But that's just how a dice roll These hoes hold that hose pipe So I give all these hoes pipe She get on that dick and stay on",
+      "valence": 2.72,
+      "arousal": 3.27,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "These hoes hold that hose pipe So I give all these hoes pipe She get on that dick and stay on All night like porch lights",
+      "valence": 2.71,
+      "arousal": 3.22,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "So I give all these hoes pipe She get on that dick and stay on All night like porch lights Lets do it, fuck talkin'",
+      "valence": 2.09,
+      "arousal": 3.78,
+      "dominance": 3.78
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "She get on that dick and stay on All night like porch lights Lets do it, fuck talkin' We out here, we ballin'",
+      "valence": 2.19,
+      "arousal": 3.89,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "All night like porch lights Lets do it, fuck talkin' We out here, we ballin' And I'm sprayin' at these rusty niggas like WD-40",
+      "valence": 2.15,
+      "arousal": 3.81,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Lets do it, fuck talkin' We out here, we ballin' And I'm sprayin' at these rusty niggas like WD-40 We fucked up, we Truk'd up",
+      "valence": 1.91,
+      "arousal": 3.84,
+      "dominance": 3.88
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "We out here, we ballin' And I'm sprayin' at these rusty niggas like WD-40 We fucked up, we Truk'd up No if, ands, or butt-fucks",
+      "valence": 2.08,
+      "arousal": 3.62,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And I'm sprayin' at these rusty niggas like WD-40 We fucked up, we Truk'd up No if, ands, or butt-fucks Bitch niggas go behind your back like nunchucks",
+      "valence": 2.07,
+      "arousal": 3.55,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "We fucked up, we Truk'd up No if, ands, or butt-fucks Bitch niggas go behind your back like nunchucks And that's fucked up",
+      "valence": 1.91,
+      "arousal": 3.64,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "No if, ands, or butt-fucks Bitch niggas go behind your back like nunchucks And that's fucked up But my hoes down and my cup's up",
+      "valence": 2.03,
+      "arousal": 3.63,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Bitch niggas go behind your back like nunchucks And that's fucked up But my hoes down and my cup's up My niggas down for whatever",
+      "valence": 2.08,
+      "arousal": 3.58,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "And that's fucked up But my hoes down and my cup's up My niggas down for whatever These bitches think they too fly",
+      "valence": 2.05,
+      "arousal": 3.48,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "But my hoes down and my cup's up My niggas down for whatever These bitches think they too fly Well, tell them hoes I pluck feathers",
+      "valence": 2.69,
+      "arousal": 3.15,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "My niggas down for whatever These bitches think they too fly Well, tell them hoes I pluck feathers I'm Tunechi, Young Tunechi, I wear Trukfit, fuck Gucci",
+      "valence": 2.45,
+      "arousal": 3.57,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "These bitches think they too fly Well, tell them hoes I pluck feathers I'm Tunechi, Young Tunechi, I wear Trukfit, fuck Gucci She blowin kisses at me with her pussy lips, smooches",
+      "valence": 2.79,
+      "arousal": 3.82,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Well, tell them hoes I pluck feathers I'm Tunechi, Young Tunechi, I wear Trukfit, fuck Gucci She blowin kisses at me with her pussy lips, smooches And that's 2 Chainz",
+      "valence": 2.97,
+      "arousal": 3.9,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I'm Tunechi, Young Tunechi, I wear Trukfit, fuck Gucci She blowin kisses at me with her pussy lips, smooches And that's 2 Chainz Look at you, now look at us",
+      "valence": 3.21,
+      "arousal": 4.01,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "She blowin kisses at me with her pussy lips, smooches And that's 2 Chainz Look at you, now look at us All my niggas look rich as fuck (yeah)",
+      "valence": 3.63,
+      "arousal": 3.93,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "And that's 2 Chainz Look at you, now look at us All my niggas look rich as fuck (yeah) All my niggas look rich as fuck (yeah)",
+      "valence": 3.1,
+      "arousal": 3.59,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Look at you, now look at us All my niggas look rich as fuck (yeah) All my niggas look rich as fuck (yeah) A-All my niggas look rich as fuck (yeah)",
+      "valence": 3.03,
+      "arousal": 3.58,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "All my niggas look rich as fuck (yeah) All my niggas look rich as fuck (yeah) A-All my niggas look rich as fuck (yeah) Look at you (look at you), now look at us (now look at us)",
+      "valence": 2.86,
+      "arousal": 3.58,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "All my niggas look rich as fuck (yeah) A-All my niggas look rich as fuck (yeah) Look at you (look at you), now look at us (now look at us) All my niggas look rich as fuck (bitch)",
+      "valence": 2.52,
+      "arousal": 3.78,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "A-All my niggas look rich as fuck (yeah) Look at you (look at you), now look at us (now look at us) All my niggas look rich as fuck (bitch) A-All my niggas look rich as fuck (you hoe ass bi-)",
+      "valence": 2.43,
+      "arousal": 3.78,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Look at you (look at you), now look at us (now look at us) All my niggas look rich as fuck (bitch) A-All my niggas look rich as fuck (you hoe ass bi-) Never talk to the cops, I don't speak pig latin",
+      "valence": 2.23,
+      "arousal": 3.76,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "All my niggas look rich as fuck (bitch) A-All my niggas look rich as fuck (you hoe ass bi-) Never talk to the cops, I don't speak pig latin I turned a penny to a motherfuckin' Janet Jackson",
+      "valence": 2.16,
+      "arousal": 3.86,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "A-All my niggas look rich as fuck (you hoe ass bi-) Never talk to the cops, I don't speak pig latin I turned a penny to a motherfuckin' Janet Jackson Tell the bitches that be hatin' I aint' got no worries",
+      "valence": 2.17,
+      "arousal": 3.78,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Never talk to the cops, I don't speak pig latin I turned a penny to a motherfuckin' Janet Jackson Tell the bitches that be hatin' I aint' got no worries I just wanna hit and run like I ain't got insurance hoe",
+      "valence": 2.24,
+      "arousal": 3.77,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I turned a penny to a motherfuckin' Janet Jackson Tell the bitches that be hatin' I aint' got no worries I just wanna hit and run like I ain't got insurance hoe What's yo' name? Whats yo' sign? Zodiac killer",
+      "valence": 2.34,
+      "arousal": 3.81,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Tell the bitches that be hatin' I aint' got no worries I just wanna hit and run like I ain't got insurance hoe What's yo' name? Whats yo' sign? Zodiac killer All rats gotta die, even Master Splinter, yeah",
+      "valence": 2.43,
+      "arousal": 3.59,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I just wanna hit and run like I ain't got insurance hoe What's yo' name? Whats yo' sign? Zodiac killer All rats gotta die, even Master Splinter, yeah Murder 187, I be killin' them bitches",
+      "valence": 2.23,
+      "arousal": 3.73,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "What's yo' name? Whats yo' sign? Zodiac killer All rats gotta die, even Master Splinter, yeah Murder 187, I be killin' them bitches I hope all dogs go to heaven",
+      "valence": 2.12,
+      "arousal": 3.73,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "All rats gotta die, even Master Splinter, yeah Murder 187, I be killin' them bitches I hope all dogs go to heaven And I got Xanax, Percocet, Promethazine with Codeine",
+      "valence": 2.18,
+      "arousal": 3.63,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Murder 187, I be killin' them bitches I hope all dogs go to heaven And I got Xanax, Percocet, Promethazine with Codeine Call me Mr. Sandman, I'm selling all these hoes dreams",
+      "valence": 2.33,
+      "arousal": 3.7,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I hope all dogs go to heaven And I got Xanax, Percocet, Promethazine with Codeine Call me Mr. Sandman, I'm selling all these hoes dreams Got a white girl with big titties",
+      "valence": 3.16,
+      "arousal": 3.57,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "And I got Xanax, Percocet, Promethazine with Codeine Call me Mr. Sandman, I'm selling all these hoes dreams Got a white girl with big titties Flat-ass TV screen",
+      "valence": 2.9,
+      "arousal": 3.51,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Call me Mr. Sandman, I'm selling all these hoes dreams Got a white girl with big titties Flat-ass TV screen I keep a bad bitch, call me the B.B. King",
+      "valence": 2.43,
+      "arousal": 3.63,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Got a white girl with big titties Flat-ass TV screen I keep a bad bitch, call me the B.B. King And you know I got that mouth out her",
+      "valence": 2.26,
+      "arousal": 3.58,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Flat-ass TV screen I keep a bad bitch, call me the B.B. King And you know I got that mouth out her Then put the bitch out like a house fire",
+      "valence": 1.89,
+      "arousal": 3.65,
+      "dominance": 3.75
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I keep a bad bitch, call me the B.B. King And you know I got that mouth out her Then put the bitch out like a house fire I'm killin' these hoes like Michael Myers",
+      "valence": 1.91,
+      "arousal": 3.72,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "And you know I got that mouth out her Then put the bitch out like a house fire I'm killin' these hoes like Michael Myers I eat that cat just like a lion",
+      "valence": 2.19,
+      "arousal": 3.72,
+      "dominance": 3.87
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Then put the bitch out like a house fire I'm killin' these hoes like Michael Myers I eat that cat just like a lion And I can't trust none of these niggas",
+      "valence": 1.97,
+      "arousal": 3.76,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I'm killin' these hoes like Michael Myers I eat that cat just like a lion And I can't trust none of these niggas Can't trust none of these hoes",
+      "valence": 2.17,
+      "arousal": 3.67,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I eat that cat just like a lion And I can't trust none of these niggas Can't trust none of these hoes And I see your girl when I want",
+      "valence": 2.47,
+      "arousal": 3.44,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "And I can't trust none of these niggas Can't trust none of these hoes And I see your girl when I want I got that hoe TiVo'd",
+      "valence": 2.48,
+      "arousal": 3.42,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Can't trust none of these hoes And I see your girl when I want I got that hoe TiVo'd Got a red ass bitch with a red ass pussy",
+      "valence": 2.34,
+      "arousal": 3.5,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "And I see your girl when I want I got that hoe TiVo'd Got a red ass bitch with a red ass pussy Nigga try me thats a dead ass pussy",
+      "valence": 2.35,
+      "arousal": 3.58,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "I got that hoe TiVo'd Got a red ass bitch with a red ass pussy Nigga try me thats a dead ass pussy Since y'all motherfuckers so blind to the fact",
+      "valence": 2.13,
+      "arousal": 3.68,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Got a red ass bitch with a red ass pussy Nigga try me thats a dead ass pussy Since y'all motherfuckers so blind to the fact To tell you the truth, I don't care who's lookin'",
+      "valence": 1.86,
+      "arousal": 3.7,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Nigga try me thats a dead ass pussy Since y'all motherfuckers so blind to the fact To tell you the truth, I don't care who's lookin' All I know is I love my bitch",
+      "valence": 2.2,
+      "arousal": 3.97,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Since y'all motherfuckers so blind to the fact To tell you the truth, I don't care who's lookin' All I know is I love my bitch That pussy feel just like heaven on earth",
+      "valence": 2.97,
+      "arousal": 4.09,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "To tell you the truth, I don't care who's lookin' All I know is I love my bitch That pussy feel just like heaven on earth Six feet deepn dick shovelin' the dirt",
+      "valence": 3.36,
+      "arousal": 4.04,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "All I know is I love my bitch That pussy feel just like heaven on earth Six feet deepn dick shovelin' the dirt R.I.P., Rest In Pussy",
+      "valence": 3.9,
+      "arousal": 4.06,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "That pussy feel just like heaven on earth Six feet deepn dick shovelin' the dirt R.I.P., Rest In Pussy Light that shit then pass that shit",
+      "valence": 2.79,
+      "arousal": 3.61,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Six feet deepn dick shovelin' the dirt R.I.P., Rest In Pussy Light that shit then pass that shit We gon' get so smoked out",
+      "valence": 2.15,
+      "arousal": 3.61,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "R.I.P., Rest In Pussy Light that shit then pass that shit We gon' get so smoked out And then I went and got locked up",
+      "valence": 2.21,
+      "arousal": 3.47,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Light that shit then pass that shit We gon' get so smoked out And then I went and got locked up Every night I dreamed I broke out",
+      "valence": 2.24,
+      "arousal": 3.58,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "We gon' get so smoked out And then I went and got locked up Every night I dreamed I broke out One time for them pussy niggas",
+      "valence": 2.23,
+      "arousal": 3.55,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "And then I went and got locked up Every night I dreamed I broke out One time for them pussy niggas That's that shit I don't like",
+      "valence": 2.08,
+      "arousal": 3.57,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Every night I dreamed I broke out One time for them pussy niggas That's that shit I don't like We eatin' over here nigga",
+      "valence": 2.24,
+      "arousal": 3.54,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "One time for them pussy niggas That's that shit I don't like We eatin' over here nigga Fuck around and have a food fight",
+      "valence": 1.95,
+      "arousal": 3.62,
+      "dominance": 3.74
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "That's that shit I don't like We eatin' over here nigga Fuck around and have a food fight And that's 2 Chainz",
+      "valence": 2.07,
+      "arousal": 3.66,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "We eatin' over here nigga Fuck around and have a food fight And that's 2 Chainz Look at you (uh), now look at us (yeah)",
+      "valence": 2.18,
+      "arousal": 3.75,
+      "dominance": 3.75
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Fuck around and have a food fight And that's 2 Chainz Look at you (uh), now look at us (yeah) All my niggas look rich as fuck (what?)",
+      "valence": 2.45,
+      "arousal": 3.85,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "And that's 2 Chainz Look at you (uh), now look at us (yeah) All my niggas look rich as fuck (what?) All my niggas look rich as fuck (what?)",
+      "valence": 2.6,
+      "arousal": 3.77,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Look at you (uh), now look at us (yeah) All my niggas look rich as fuck (what?) All my niggas look rich as fuck (what?) A-All my niggas look rich as fuck (yeah)",
+      "valence": 2.64,
+      "arousal": 3.76,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "All my niggas look rich as fuck (what?) All my niggas look rich as fuck (what?) A-All my niggas look rich as fuck (yeah) Look at you, now look at us (aye yo fuck all y'all bitches, straight up)",
+      "valence": 2.29,
+      "arousal": 3.91,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "All my niggas look rich as fuck (what?) A-All my niggas look rich as fuck (yeah) Look at you, now look at us (aye yo fuck all y'all bitches, straight up) (Any bitch out there that didn't wanna give me no pussy)",
+      "valence": 2.29,
+      "arousal": 3.86,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "A-All my niggas look rich as fuck (yeah) Look at you, now look at us (aye yo fuck all y'all bitches, straight up) (Any bitch out there that didn't wanna give me no pussy) All my niggas look rich as fuck (fuck you in yo' asshole bitch)",
+      "valence": 2.24,
+      "arousal": 3.99,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "Look at you, now look at us (aye yo fuck all y'all bitches, straight up) (Any bitch out there that didn't wanna give me no pussy) All my niggas look rich as fuck (fuck you in yo' asshole bitch) All my, all my niggas look rich as fuck",
+      "valence": 2.09,
+      "arousal": 3.91,
+      "dominance": 3.74
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "(Any bitch out there that didn't wanna give me no pussy) All my niggas look rich as fuck (fuck you in yo' asshole bitch) All my, all my niggas look rich as fuck All my, a-all my niggas look rich as fuck",
+      "valence": 2.22,
+      "arousal": 4.06,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "All my niggas look rich as fuck (fuck you in yo' asshole bitch) All my, all my niggas look rich as fuck All my, a-all my niggas look rich as fuck And yo' nigga a hoe",
+      "valence": 2.19,
+      "arousal": 4.09,
+      "dominance": 3.54
+    }
+  ]
+}

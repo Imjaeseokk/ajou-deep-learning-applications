@@ -1,0 +1,395 @@
+{
+  "artist": "Maroon 5",
+  "overall_vad": {
+    "valence": 2.83,
+    "arousal": 3.68,
+    "dominance": 3.08
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Ooh, ooh ooh ooh, ooh ooh, ooh ooh You and I go hard At each other like we're going to war You and I go rough",
+      "valence": 2.74,
+      "arousal": 3.71,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "You and I go hard At each other like we're going to war You and I go rough We keep throwing things and slamming the doors",
+      "valence": 2.38,
+      "arousal": 3.72,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "At each other like we're going to war You and I go rough We keep throwing things and slamming the doors You and I get so damn dysfunctional we stop keeping score",
+      "valence": 2.09,
+      "arousal": 3.7,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "You and I go rough We keep throwing things and slamming the doors You and I get so damn dysfunctional we stop keeping score You and I get sick",
+      "valence": 2.04,
+      "arousal": 3.6,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "We keep throwing things and slamming the doors You and I get so damn dysfunctional we stop keeping score You and I get sick Yeah, I know that we can't do this no more, yeah",
+      "valence": 2.0,
+      "arousal": 3.7,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "You and I get so damn dysfunctional we stop keeping score You and I get sick Yeah, I know that we can't do this no more, yeah But baby there you go again, there you go again making me love you",
+      "valence": 3.02,
+      "arousal": 4.03,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "You and I get sick Yeah, I know that we can't do this no more, yeah But baby there you go again, there you go again making me love you Yeah, I stopped using my head, using my head",
+      "valence": 3.0,
+      "arousal": 3.91,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Yeah, I know that we can't do this no more, yeah But baby there you go again, there you go again making me love you Yeah, I stopped using my head, using my head Let it all go",
+      "valence": 3.17,
+      "arousal": 3.74,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "But baby there you go again, there you go again making me love you Yeah, I stopped using my head, using my head Let it all go Got you stuck on my body, on my body like a tattoo",
+      "valence": 3.58,
+      "arousal": 3.87,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Yeah, I stopped using my head, using my head Let it all go Got you stuck on my body, on my body like a tattoo And now I'm feeling stupid, feeling stupid crawling back to you",
+      "valence": 2.35,
+      "arousal": 3.6,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Let it all go Got you stuck on my body, on my body like a tattoo And now I'm feeling stupid, feeling stupid crawling back to you So I cross my heart, and I hope to die",
+      "valence": 2.2,
+      "arousal": 3.59,
+      "dominance": 2.7
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Got you stuck on my body, on my body like a tattoo And now I'm feeling stupid, feeling stupid crawling back to you So I cross my heart, and I hope to die That I'll only stay with you one more night",
+      "valence": 2.29,
+      "arousal": 3.58,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "And now I'm feeling stupid, feeling stupid crawling back to you So I cross my heart, and I hope to die That I'll only stay with you one more night And I know, I said it a million times",
+      "valence": 2.09,
+      "arousal": 3.58,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "So I cross my heart, and I hope to die That I'll only stay with you one more night And I know, I said it a million times But I'll only stay with you one more night",
+      "valence": 2.35,
+      "arousal": 3.56,
+      "dominance": 2.55
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "That I'll only stay with you one more night And I know, I said it a million times But I'll only stay with you one more night Try to tell you, \"No\"",
+      "valence": 2.45,
+      "arousal": 3.63,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "And I know, I said it a million times But I'll only stay with you one more night Try to tell you, \"No\" But my body keeps on telling you, \"Yes\"",
+      "valence": 2.79,
+      "arousal": 3.51,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "But I'll only stay with you one more night Try to tell you, \"No\" But my body keeps on telling you, \"Yes\" Try to tell you, \"Stop\"",
+      "valence": 2.57,
+      "arousal": 3.54,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Try to tell you, \"No\" But my body keeps on telling you, \"Yes\" Try to tell you, \"Stop\" But your lipstick got me so out of breath",
+      "valence": 2.46,
+      "arousal": 3.82,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "But my body keeps on telling you, \"Yes\" Try to tell you, \"Stop\" But your lipstick got me so out of breath I'll be waking up",
+      "valence": 2.43,
+      "arousal": 3.82,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Try to tell you, \"Stop\" But your lipstick got me so out of breath I'll be waking up In the morning probably hating myself",
+      "valence": 2.08,
+      "arousal": 3.89,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "But your lipstick got me so out of breath I'll be waking up In the morning probably hating myself And I'll be waking up",
+      "valence": 2.14,
+      "arousal": 3.68,
+      "dominance": 2.77
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I'll be waking up In the morning probably hating myself And I'll be waking up Feeling satisfied, but guilty as hell, yeah",
+      "valence": 2.5,
+      "arousal": 3.36,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "In the morning probably hating myself And I'll be waking up Feeling satisfied, but guilty as hell, yeah But baby there you go again, there you go again making me love you",
+      "valence": 3.34,
+      "arousal": 3.76,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "And I'll be waking up Feeling satisfied, but guilty as hell, yeah But baby there you go again, there you go again making me love you (Making me you love you)",
+      "valence": 3.42,
+      "arousal": 3.8,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Feeling satisfied, but guilty as hell, yeah But baby there you go again, there you go again making me love you (Making me you love you) Yeah, I stopped using my head, using my head",
+      "valence": 3.49,
+      "arousal": 3.77,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "But baby there you go again, there you go again making me love you (Making me you love you) Yeah, I stopped using my head, using my head Let it all go (let it all go)",
+      "valence": 3.68,
+      "arousal": 3.84,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "(Making me you love you) Yeah, I stopped using my head, using my head Let it all go (let it all go) Got you stuck on my body, on my body like a tattoo",
+      "valence": 3.2,
+      "arousal": 3.62,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Yeah, I stopped using my head, using my head Let it all go (let it all go) Got you stuck on my body, on my body like a tattoo (Like a tattoo, yeah)",
+      "valence": 2.83,
+      "arousal": 3.34,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Let it all go (let it all go) Got you stuck on my body, on my body like a tattoo (Like a tattoo, yeah) And now I'm feeling stupid, feeling stupid crawling back to you (ah)",
+      "valence": 2.36,
+      "arousal": 3.61,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Got you stuck on my body, on my body like a tattoo (Like a tattoo, yeah) And now I'm feeling stupid, feeling stupid crawling back to you (ah) So I cross my heart, and I hope to die (yeah)",
+      "valence": 2.32,
+      "arousal": 3.65,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "(Like a tattoo, yeah) And now I'm feeling stupid, feeling stupid crawling back to you (ah) So I cross my heart, and I hope to die (yeah) That I'll only stay with you one more night (oh-oh-oh)",
+      "valence": 2.44,
+      "arousal": 3.53,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "And now I'm feeling stupid, feeling stupid crawling back to you (ah) So I cross my heart, and I hope to die (yeah) That I'll only stay with you one more night (oh-oh-oh) And I know, I've said it a million times (yeah)",
+      "valence": 2.25,
+      "arousal": 3.62,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "So I cross my heart, and I hope to die (yeah) That I'll only stay with you one more night (oh-oh-oh) And I know, I've said it a million times (yeah) But I'll only stay with you one more night (yeah)",
+      "valence": 2.5,
+      "arousal": 3.56,
+      "dominance": 2.62
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "That I'll only stay with you one more night (oh-oh-oh) And I know, I've said it a million times (yeah) But I'll only stay with you one more night (yeah) Ooh, ooh ooh ooh, ooh ooh, ooh ooh",
+      "valence": 3.07,
+      "arousal": 3.57,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "And I know, I've said it a million times (yeah) But I'll only stay with you one more night (yeah) Ooh, ooh ooh ooh, ooh ooh, ooh ooh Yeah, baby, give me one more night",
+      "valence": 3.25,
+      "arousal": 3.63,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "But I'll only stay with you one more night (yeah) Ooh, ooh ooh ooh, ooh ooh, ooh ooh Yeah, baby, give me one more night Ooh, ooh ooh ooh, ooh ooh, ooh ooh",
+      "valence": 3.1,
+      "arousal": 3.56,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Ooh, ooh ooh ooh, ooh ooh, ooh ooh Yeah, baby, give me one more night Ooh, ooh ooh ooh, ooh ooh, ooh ooh Yeah, baby, give me one more night",
+      "valence": 3.14,
+      "arousal": 3.63,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Yeah, baby, give me one more night Ooh, ooh ooh ooh, ooh ooh, ooh ooh Yeah, baby, give me one more night Ooh, ooh ooh ooh, ooh ooh, ooh ooh",
+      "valence": 2.99,
+      "arousal": 3.57,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Ooh, ooh ooh ooh, ooh ooh, ooh ooh Yeah, baby, give me one more night Ooh, ooh ooh ooh, ooh ooh, ooh ooh Oh, yeah",
+      "valence": 3.14,
+      "arousal": 3.7,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Yeah, baby, give me one more night Ooh, ooh ooh ooh, ooh ooh, ooh ooh Oh, yeah Yeah, baby, give me one more night",
+      "valence": 3.18,
+      "arousal": 3.6,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Ooh, ooh ooh ooh, ooh ooh, ooh ooh Oh, yeah Yeah, baby, give me one more night Ooh, ooh ooh ooh, ooh ooh, ooh ooh",
+      "valence": 3.17,
+      "arousal": 3.67,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Oh, yeah Yeah, baby, give me one more night Ooh, ooh ooh ooh, ooh ooh, ooh ooh Oh, yea-yea-yeah",
+      "valence": 3.28,
+      "arousal": 3.61,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Yeah, baby, give me one more night Ooh, ooh ooh ooh, ooh ooh, ooh ooh Oh, yea-yea-yeah But baby there you go again, there you go again making me love you",
+      "valence": 3.91,
+      "arousal": 3.96,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Ooh, ooh ooh ooh, ooh ooh, ooh ooh Oh, yea-yea-yeah But baby there you go again, there you go again making me love you Yeah, I stopped using my head, using my head, let it all go",
+      "valence": 3.79,
+      "arousal": 3.91,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Oh, yea-yea-yeah But baby there you go again, there you go again making me love you Yeah, I stopped using my head, using my head, let it all go Got you stuck on my body, on my body like a tattoo, yeah-yeah-yeah, yeah",
+      "valence": 3.77,
+      "arousal": 4.0,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "But baby there you go again, there you go again making me love you Yeah, I stopped using my head, using my head, let it all go Got you stuck on my body, on my body like a tattoo, yeah-yeah-yeah, yeah So I cross my heart, and I hope to die (oh-oh, oh-oh)",
+      "valence": 3.61,
+      "arousal": 3.98,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Yeah, I stopped using my head, using my head, let it all go Got you stuck on my body, on my body like a tattoo, yeah-yeah-yeah, yeah So I cross my heart, and I hope to die (oh-oh, oh-oh) That I'll only stay with you one more night (oh, oh-oh oh)",
+      "valence": 2.67,
+      "arousal": 3.58,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Got you stuck on my body, on my body like a tattoo, yeah-yeah-yeah, yeah So I cross my heart, and I hope to die (oh-oh, oh-oh) That I'll only stay with you one more night (oh, oh-oh oh) And I know I've said it a million times (oh, I've said it a million times)",
+      "valence": 2.88,
+      "arousal": 3.78,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "So I cross my heart, and I hope to die (oh-oh, oh-oh) That I'll only stay with you one more night (oh, oh-oh oh) And I know I've said it a million times (oh, I've said it a million times) But I'll only stay with you one more night",
+      "valence": 2.48,
+      "arousal": 3.65,
+      "dominance": 2.64
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "That I'll only stay with you one more night (oh, oh-oh oh) And I know I've said it a million times (oh, I've said it a million times) But I'll only stay with you one more night (Yeah, baby, give me one more night)",
+      "valence": 3.2,
+      "arousal": 3.66,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "And I know I've said it a million times (oh, I've said it a million times) But I'll only stay with you one more night (Yeah, baby, give me one more night) So I cross my heart and I hope to die (yeah, yeah)",
+      "valence": 2.78,
+      "arousal": 3.74,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "But I'll only stay with you one more night (Yeah, baby, give me one more night) So I cross my heart and I hope to die (yeah, yeah) That I'll only stay with you one more night (yeah, yeah)",
+      "valence": 2.77,
+      "arousal": 3.72,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "(Yeah, baby, give me one more night) So I cross my heart and I hope to die (yeah, yeah) That I'll only stay with you one more night (yeah, yeah) And I know, I've said it a million times (yeah, yeah)",
+      "valence": 3.02,
+      "arousal": 3.75,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "So I cross my heart and I hope to die (yeah, yeah) That I'll only stay with you one more night (yeah, yeah) And I know, I've said it a million times (yeah, yeah) But I'll only stay with you one more night (yeah, yeah)",
+      "valence": 2.67,
+      "arousal": 3.56,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "That I'll only stay with you one more night (yeah, yeah) And I know, I've said it a million times (yeah, yeah) But I'll only stay with you one more night (yeah, yeah) (I don't know, whatever)",
+      "valence": 3.1,
+      "arousal": 3.41,
+      "dominance": 3.24
+    }
+  ]
+}

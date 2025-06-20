@@ -1,0 +1,227 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f7f6;
+    color: #333;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #3f51b5;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+h1, h2, h3, h4 {
+    color: #3f51b5;
+}
+
+header h1 {
+    color: white;
+}
+
+main {
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+section {
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #eee;
+}
+
+section:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+#song-selection select {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: white;
+    margin-top: 10px;
+}
+
+.result-card {
+    background-color: #f9f9f9;
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.plot-container {
+    height: 350px; /* 그래프 높이 고정 */
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 1px solid #eee;
+    background-color: white;
+}
+
+#lyrics-text-container {
+    background-color: #f0f0f0;
+    padding: 15px;
+    border-radius: 5px;
+    max-height: 200px;
+    overflow-y: auto;
+}
+
+#displayed-lyrics {
+    white-space: pre-wrap; /* 줄 바꿈 유지 */
+}
+
+/* 감성 키워드 하이라이팅을 위한 스타일 (main.js에서 동적으로 추가) */
+.sentiment-positive {
+    background-color: rgba(144, 238, 144, 0.6); /* 연한 녹색 */
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+
+.sentiment-negative {
+    background-color: rgba(255, 99, 71, 0.6); /* 연한 주황색/빨강 */
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+
+#footer-note {
+    text-align: center;
+    color: #888;
+    font-size: 0.9em;
+    margin-top: 30px;
+}
+
+
+/* 기존 CSS 내용 유지 */
+
+.lyrics-chart-wrapper {
+    display: flex; /* Flexbox 레이아웃 적용 */
+    gap: 20px; /* 요소들 사이 간격 */
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.lyrics-chart-wrapper #lyrics-vad-plot {
+    flex: 2; /* 그래프가 2/3 공간 차지 */
+}
+
+.hover-content-box {
+    flex: 1; /* 가사 박스가 1/3 공간 차지 */
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    padding: 15px;
+    background-color: #ffffff;
+    font-size: 0.9em;
+    display: flex;
+    align-items: center; /* 세로 중앙 정렬 */
+    justify-content: center; /* 가로 중앙 정렬 */
+    text-align: center;
+    min-height: 350px; /* 그래프 높이와 동일하게 맞춰줌 */
+    overflow-y: auto; /* 내용 길어지면 스크롤 */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.hover-content-box p {
+    margin: 0;
+    line-height: 1.5;
+    color: #555;
+}
+
+/* 감성 키워드 하이라이팅 스타일은 기존과 동일 */
+.sentiment-positive {
+    background-color: rgba(144, 238, 144, 0.6);
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+
+.sentiment-negative {
+    background-color: rgba(255, 99, 71, 0.6);
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+/* 기존 CSS 내용 유지 */
+
+/* 오디오 플레이어 컨트롤 스타일 */
+.audio-player-controls {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* 요소들 사이 간격 */
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: #f0f3f6;
+    padding: 10px 15px;
+    border-radius: 8px;
+    box-shadow: inset 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.audio-player-controls button {
+    padding: 8px 12px;
+    font-size: 1.1em;
+    border: none;
+    border-radius: 5px;
+    background-color: #3f51b5;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.audio-player-controls button:hover {
+    background-color: #303f9f;
+}
+
+.audio-player-controls input[type="range"] {
+    flex-grow: 1; /* 남은 공간을 채우도록 확장 */
+    -webkit-appearance: none; /* 기본 스타일 제거 */
+    height: 6px;
+    background: #ddd;
+    border-radius: 3px;
+    outline: none;
+    cursor: pointer;
+}
+
+.audio-player-controls input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: #3f51b5;
+    cursor: grab;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+}
+
+.audio-player-controls span {
+    font-size: 0.9em;
+    color: #555;
+    min-width: 35px; /* 시간 표시 공간 확보 */
+    text-align: center;
+}
+
+.chart-instruction {
+    font-size: 0.85em;
+    color: #666;
+    text-align: center;
+    margin-top: -10px; /* 그래프와의 간격 조절 */
+    margin-bottom: 20px;
+}
+
+/* 기존 CSS 내용 유지 */
+.lyrics-chart-wrapper {
+    display: flex;
+    gap: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+/* ... 이하 기존 CSS 유지 ... */

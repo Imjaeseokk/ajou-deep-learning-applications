@@ -1,0 +1,535 @@
+{
+  "artist": "24kGoldn Featuring iann dior",
+  "overall_vad": {
+    "valence": 2.69,
+    "arousal": 3.48,
+    "dominance": 3.37
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Woah JB, JB Why you always in a mood? Fuckin' 'round, actin' brand new",
+      "valence": 2.56,
+      "arousal": 3.71,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "JB, JB Why you always in a mood? Fuckin' 'round, actin' brand new I ain't tryna tell you what to do",
+      "valence": 2.39,
+      "arousal": 3.69,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Why you always in a mood? Fuckin' 'round, actin' brand new I ain't tryna tell you what to do But try to play it cool",
+      "valence": 2.49,
+      "arousal": 3.71,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Fuckin' 'round, actin' brand new I ain't tryna tell you what to do But try to play it cool Baby, I ain't playing by your rules",
+      "valence": 2.47,
+      "arousal": 3.56,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I ain't tryna tell you what to do But try to play it cool Baby, I ain't playing by your rules Everything look better with a view",
+      "valence": 2.7,
+      "arousal": 3.31,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "But try to play it cool Baby, I ain't playing by your rules Everything look better with a view Why you always in a mood?",
+      "valence": 2.66,
+      "arousal": 3.29,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Baby, I ain't playing by your rules Everything look better with a view Why you always in a mood? Fuckin' 'round, actin' brand new",
+      "valence": 2.31,
+      "arousal": 3.59,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Everything look better with a view Why you always in a mood? Fuckin' 'round, actin' brand new I ain't tryna tell you what to do",
+      "valence": 2.51,
+      "arousal": 3.58,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Why you always in a mood? Fuckin' 'round, actin' brand new I ain't tryna tell you what to do But try to play it cool",
+      "valence": 2.49,
+      "arousal": 3.71,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Fuckin' 'round, actin' brand new I ain't tryna tell you what to do But try to play it cool Baby, I ain't playing by your rules",
+      "valence": 2.47,
+      "arousal": 3.56,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I ain't tryna tell you what to do But try to play it cool Baby, I ain't playing by your rules Everything look better with a view, yeah",
+      "valence": 2.69,
+      "arousal": 3.33,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "But try to play it cool Baby, I ain't playing by your rules Everything look better with a view, yeah You've been in a mood, you've been givin' hella attitude",
+      "valence": 2.56,
+      "arousal": 3.45,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Baby, I ain't playing by your rules Everything look better with a view, yeah You've been in a mood, you've been givin' hella attitude What I gotta do to get through to ya? Could never lose you",
+      "valence": 2.45,
+      "arousal": 3.48,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Everything look better with a view, yeah You've been in a mood, you've been givin' hella attitude What I gotta do to get through to ya? Could never lose you Maybe spend a night out on the town like we used to",
+      "valence": 2.98,
+      "arousal": 3.4,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "You've been in a mood, you've been givin' hella attitude What I gotta do to get through to ya? Could never lose you Maybe spend a night out on the town like we used to We could sit around, watch funny shit on YouTube",
+      "valence": 2.99,
+      "arousal": 3.58,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "What I gotta do to get through to ya? Could never lose you Maybe spend a night out on the town like we used to We could sit around, watch funny shit on YouTube I know at times I can have a couple screws loose",
+      "valence": 2.72,
+      "arousal": 3.42,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Maybe spend a night out on the town like we used to We could sit around, watch funny shit on YouTube I know at times I can have a couple screws loose I'm tryna connect to your body, girl, like it's Bluetooth",
+      "valence": 3.09,
+      "arousal": 3.53,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "We could sit around, watch funny shit on YouTube I know at times I can have a couple screws loose I'm tryna connect to your body, girl, like it's Bluetooth You know what I mean, you know what I need",
+      "valence": 2.9,
+      "arousal": 3.57,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I know at times I can have a couple screws loose I'm tryna connect to your body, girl, like it's Bluetooth You know what I mean, you know what I need We play games of love to avoid the depression",
+      "valence": 3.23,
+      "arousal": 3.64,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I'm tryna connect to your body, girl, like it's Bluetooth You know what I mean, you know what I need We play games of love to avoid the depression We've been here before and I won't be your victim",
+      "valence": 3.31,
+      "arousal": 3.64,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "You know what I mean, you know what I need We play games of love to avoid the depression We've been here before and I won't be your victim Why you always in a mood?",
+      "valence": 3.16,
+      "arousal": 3.42,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "We play games of love to avoid the depression We've been here before and I won't be your victim Why you always in a mood? Fuckin' 'round, actin' brand new",
+      "valence": 2.89,
+      "arousal": 3.69,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "We've been here before and I won't be your victim Why you always in a mood? Fuckin' 'round, actin' brand new I ain't tryna tell you what to do, but try to play it cool",
+      "valence": 2.46,
+      "arousal": 3.72,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Why you always in a mood? Fuckin' 'round, actin' brand new I ain't tryna tell you what to do, but try to play it cool Baby, I ain't playing by your rules",
+      "valence": 2.39,
+      "arousal": 3.75,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Fuckin' 'round, actin' brand new I ain't tryna tell you what to do, but try to play it cool Baby, I ain't playing by your rules Everything look better with a view",
+      "valence": 2.57,
+      "arousal": 3.56,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I ain't tryna tell you what to do, but try to play it cool Baby, I ain't playing by your rules Everything look better with a view Why you always in a mood?",
+      "valence": 2.77,
+      "arousal": 3.32,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Baby, I ain't playing by your rules Everything look better with a view Why you always in a mood? Fuckin' 'round, actin' brand new",
+      "valence": 2.31,
+      "arousal": 3.59,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Everything look better with a view Why you always in a mood? Fuckin' 'round, actin' brand new I ain't tryna tell you what to do, but try to play it cool",
+      "valence": 2.72,
+      "arousal": 3.55,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Why you always in a mood? Fuckin' 'round, actin' brand new I ain't tryna tell you what to do, but try to play it cool Baby, I ain't playing by your rules",
+      "valence": 2.39,
+      "arousal": 3.75,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Fuckin' 'round, actin' brand new I ain't tryna tell you what to do, but try to play it cool Baby, I ain't playing by your rules Everything look better with a view, yeah",
+      "valence": 2.58,
+      "arousal": 3.57,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I ain't tryna tell you what to do, but try to play it cool Baby, I ain't playing by your rules Everything look better with a view, yeah Yeah, I got JB and JB, you know the bitches goin' crazy",
+      "valence": 2.51,
+      "arousal": 3.53,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Baby, I ain't playing by your rules Everything look better with a view, yeah Yeah, I got JB and JB, you know the bitches goin' crazy Number one song in the world, so now she wanna date me",
+      "valence": 2.66,
+      "arousal": 3.65,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Everything look better with a view, yeah Yeah, I got JB and JB, you know the bitches goin' crazy Number one song in the world, so now she wanna date me Where I'm from people like me don't make it in the mainstream",
+      "valence": 3.01,
+      "arousal": 3.54,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Yeah, I got JB and JB, you know the bitches goin' crazy Number one song in the world, so now she wanna date me Where I'm from people like me don't make it in the mainstream What's with the attitude? Baby, tell me why you hating",
+      "valence": 2.68,
+      "arousal": 3.68,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Number one song in the world, so now she wanna date me Where I'm from people like me don't make it in the mainstream What's with the attitude? Baby, tell me why you hating We fuss and fight, you get into moods",
+      "valence": 2.79,
+      "arousal": 3.55,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Where I'm from people like me don't make it in the mainstream What's with the attitude? Baby, tell me why you hating We fuss and fight, you get into moods Argue all night, what we supposed to do?",
+      "valence": 2.54,
+      "arousal": 3.43,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "What's with the attitude? Baby, tell me why you hating We fuss and fight, you get into moods Argue all night, what we supposed to do? Can't make things right, so I'm on the move",
+      "valence": 2.38,
+      "arousal": 3.63,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "We fuss and fight, you get into moods Argue all night, what we supposed to do? Can't make things right, so I'm on the move Guess it's safe to say",
+      "valence": 2.51,
+      "arousal": 3.48,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Argue all night, what we supposed to do? Can't make things right, so I'm on the move Guess it's safe to say We play games of love to avoid the depression",
+      "valence": 3.13,
+      "arousal": 3.37,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Can't make things right, so I'm on the move Guess it's safe to say We play games of love to avoid the depression We've been here before and I won't be your victim",
+      "valence": 2.97,
+      "arousal": 3.4,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Guess it's safe to say We play games of love to avoid the depression We've been here before and I won't be your victim Why you always in a mood?",
+      "valence": 3.06,
+      "arousal": 3.37,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "We play games of love to avoid the depression We've been here before and I won't be your victim Why you always in a mood? Fuckin' 'round, actin' brand new",
+      "valence": 2.89,
+      "arousal": 3.69,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "We've been here before and I won't be your victim Why you always in a mood? Fuckin' 'round, actin' brand new I ain't tryna tell you what to do",
+      "valence": 2.25,
+      "arousal": 3.76,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Why you always in a mood? Fuckin' 'round, actin' brand new I ain't tryna tell you what to do But try to play it cool",
+      "valence": 2.49,
+      "arousal": 3.71,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Fuckin' 'round, actin' brand new I ain't tryna tell you what to do But try to play it cool Baby, I ain't playing by your rules",
+      "valence": 2.47,
+      "arousal": 3.56,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I ain't tryna tell you what to do But try to play it cool Baby, I ain't playing by your rules Everything look better with a view",
+      "valence": 2.7,
+      "arousal": 3.31,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "But try to play it cool Baby, I ain't playing by your rules Everything look better with a view Why you always in a mood?",
+      "valence": 2.66,
+      "arousal": 3.29,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Baby, I ain't playing by your rules Everything look better with a view Why you always in a mood? Fuckin' 'round, actin' brand new",
+      "valence": 2.31,
+      "arousal": 3.59,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Everything look better with a view Why you always in a mood? Fuckin' 'round, actin' brand new I ain't tryna tell you what to do",
+      "valence": 2.51,
+      "arousal": 3.58,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Why you always in a mood? Fuckin' 'round, actin' brand new I ain't tryna tell you what to do But try to play it cool",
+      "valence": 2.49,
+      "arousal": 3.71,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Fuckin' 'round, actin' brand new I ain't tryna tell you what to do But try to play it cool Baby, I ain't playing by your rules",
+      "valence": 2.47,
+      "arousal": 3.56,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "I ain't tryna tell you what to do But try to play it cool Baby, I ain't playing by your rules Everything look better with a view, yeah (Latino gang, J Balvin, man)",
+      "valence": 2.73,
+      "arousal": 3.33,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "But try to play it cool Baby, I ain't playing by your rules Everything look better with a view, yeah (Latino gang, J Balvin, man) Baby, ya estoy cansado de tu bipolaridad, yah-yah-yeah",
+      "valence": 2.75,
+      "arousal": 3.32,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Baby, I ain't playing by your rules Everything look better with a view, yeah (Latino gang, J Balvin, man) Baby, ya estoy cansado de tu bipolaridad, yah-yah-yeah Deja ya de estar peleando sin una necesidad",
+      "valence": 2.59,
+      "arousal": 3.27,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Everything look better with a view, yeah (Latino gang, J Balvin, man) Baby, ya estoy cansado de tu bipolaridad, yah-yah-yeah Deja ya de estar peleando sin una necesidad ValÃ³rame bebÃ©, yo",
+      "valence": 3.02,
+      "arousal": 3.16,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Baby, ya estoy cansado de tu bipolaridad, yah-yah-yeah Deja ya de estar peleando sin una necesidad ValÃ³rame bebÃ©, yo Con ese humor nadie te aguantarÃ¡",
+      "valence": 3.09,
+      "arousal": 3.27,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Deja ya de estar peleando sin una necesidad ValÃ³rame bebÃ©, yo Con ese humor nadie te aguantarÃ¡ Â¿QuiÃ©n te entiende? Si conmigo no te falta na'",
+      "valence": 2.94,
+      "arousal": 3.11,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "ValÃ³rame bebÃ©, yo Con ese humor nadie te aguantarÃ¡ Â¿QuiÃ©n te entiende? Si conmigo no te falta na' CÃ³gela suave, ma', porque esta bomba explotarÃ¡",
+      "valence": 2.93,
+      "arousal": 3.17,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Con ese humor nadie te aguantarÃ¡ Â¿QuiÃ©n te entiende? Si conmigo no te falta na' CÃ³gela suave, ma', porque esta bomba explotarÃ¡ Si te saco el genio no vuelvo a frotar tu lÃ¡mpara",
+      "valence": 3.01,
+      "arousal": 3.07,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Â¿QuiÃ©n te entiende? Si conmigo no te falta na' CÃ³gela suave, ma', porque esta bomba explotarÃ¡ Si te saco el genio no vuelvo a frotar tu lÃ¡mpara Y listo, te dejÃ© en visto",
+      "valence": 3.0,
+      "arousal": 3.12,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "CÃ³gela suave, ma', porque esta bomba explotarÃ¡ Si te saco el genio no vuelvo a frotar tu lÃ¡mpara Y listo, te dejÃ© en visto Pero fue porque estaba grabando mi disco",
+      "valence": 3.11,
+      "arousal": 3.14,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Si te saco el genio no vuelvo a frotar tu lÃ¡mpara Y listo, te dejÃ© en visto Pero fue porque estaba grabando mi disco Y tÃº pensando que yo estaba en la disco",
+      "valence": 3.04,
+      "arousal": 3.04,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Y listo, te dejÃ© en visto Pero fue porque estaba grabando mi disco Y tÃº pensando que yo estaba en la disco Deja de pelear, que la pasamos mÃ¡s rico",
+      "valence": 3.06,
+      "arousal": 3.1,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Pero fue porque estaba grabando mi disco Y tÃº pensando que yo estaba en la disco Deja de pelear, que la pasamos mÃ¡s rico Why you always in a mood?",
+      "valence": 3.05,
+      "arousal": 3.22,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Y tÃº pensando que yo estaba en la disco Deja de pelear, que la pasamos mÃ¡s rico Why you always in a mood? Fuckin' 'round, actin' brand new",
+      "valence": 2.77,
+      "arousal": 3.56,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Deja de pelear, que la pasamos mÃ¡s rico Why you always in a mood? Fuckin' 'round, actin' brand new I ain't tryna tell you what to do",
+      "valence": 2.48,
+      "arousal": 3.55,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Why you always in a mood? Fuckin' 'round, actin' brand new I ain't tryna tell you what to do But try to play it cool",
+      "valence": 2.49,
+      "arousal": 3.71,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Fuckin' 'round, actin' brand new I ain't tryna tell you what to do But try to play it cool Baby, I ain't playing by your rules",
+      "valence": 2.47,
+      "arousal": 3.56,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "I ain't tryna tell you what to do But try to play it cool Baby, I ain't playing by your rules Everything look better with a view",
+      "valence": 2.7,
+      "arousal": 3.31,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "But try to play it cool Baby, I ain't playing by your rules Everything look better with a view Why you always in a mood?",
+      "valence": 2.66,
+      "arousal": 3.29,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Baby, I ain't playing by your rules Everything look better with a view Why you always in a mood? Fuckin' 'round, actin' brand new",
+      "valence": 2.31,
+      "arousal": 3.59,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Everything look better with a view Why you always in a mood? Fuckin' 'round, actin' brand new I ain't tryna tell you what to do",
+      "valence": 2.51,
+      "arousal": 3.58,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Why you always in a mood? Fuckin' 'round, actin' brand new I ain't tryna tell you what to do But try to play it cool",
+      "valence": 2.49,
+      "arousal": 3.71,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Fuckin' 'round, actin' brand new I ain't tryna tell you what to do But try to play it cool Baby, I ain't playing by your rules",
+      "valence": 2.47,
+      "arousal": 3.56,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "I ain't tryna tell you what to do But try to play it cool Baby, I ain't playing by your rules Everything look better with a view, yeah",
+      "valence": 2.69,
+      "arousal": 3.33,
+      "dominance": 3.42
+    }
+  ]
+}

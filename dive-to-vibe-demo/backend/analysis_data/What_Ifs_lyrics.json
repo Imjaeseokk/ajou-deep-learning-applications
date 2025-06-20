@@ -1,0 +1,514 @@
+{
+  "artist": "Kane Brown Featuring Lauren Alaina",
+  "overall_vad": {
+    "valence": 2.91,
+    "arousal": 3.38,
+    "dominance": 3.02
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "You say what if I hurt you What if I leave you What if I find somebody else And I don't need you",
+      "valence": 2.35,
+      "arousal": 3.44,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "What if I leave you What if I find somebody else And I don't need you What if this goes south",
+      "valence": 2.55,
+      "arousal": 3.32,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "What if I find somebody else And I don't need you What if this goes south What if I mess you up",
+      "valence": 2.51,
+      "arousal": 3.4,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "And I don't need you What if this goes south What if I mess you up You say what if I break your heart",
+      "valence": 2.32,
+      "arousal": 3.51,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "What if this goes south What if I mess you up You say what if I break your heart In two then what",
+      "valence": 2.49,
+      "arousal": 3.55,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "What if I mess you up You say what if I break your heart In two then what Well I hear you girl",
+      "valence": 2.58,
+      "arousal": 3.48,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "You say what if I break your heart In two then what Well I hear you girl I feel you girl but not so fast",
+      "valence": 2.69,
+      "arousal": 3.62,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "In two then what Well I hear you girl I feel you girl but not so fast Before you make your mind up",
+      "valence": 2.99,
+      "arousal": 3.42,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Well I hear you girl I feel you girl but not so fast Before you make your mind up I gotta ask",
+      "valence": 3.06,
+      "arousal": 3.49,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I feel you girl but not so fast Before you make your mind up I gotta ask What if I was made for you",
+      "valence": 3.0,
+      "arousal": 3.55,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Before you make your mind up I gotta ask What if I was made for you And you were made for me",
+      "valence": 3.03,
+      "arousal": 3.3,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I gotta ask What if I was made for you And you were made for me What if this is it",
+      "valence": 2.92,
+      "arousal": 3.37,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "What if I was made for you And you were made for me What if this is it What if it's meant to be",
+      "valence": 3.04,
+      "arousal": 3.24,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "And you were made for me What if this is it What if it's meant to be What if I ain't one of them",
+      "valence": 2.89,
+      "arousal": 3.31,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "What if this is it What if it's meant to be What if I ain't one of them Fools just Playin' some game",
+      "valence": 2.83,
+      "arousal": 3.35,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "What if it's meant to be What if I ain't one of them Fools just Playin' some game What if I just pulled you close",
+      "valence": 2.9,
+      "arousal": 3.42,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "What if I ain't one of them Fools just Playin' some game What if I just pulled you close What if I leaned in",
+      "valence": 2.82,
+      "arousal": 3.46,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Fools just Playin' some game What if I just pulled you close What if I leaned in And the stars line up",
+      "valence": 2.8,
+      "arousal": 3.28,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "What if I just pulled you close What if I leaned in And the stars line up And it's our last first kiss",
+      "valence": 3.12,
+      "arousal": 3.53,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "What if I leaned in And the stars line up And it's our last first kiss What if one of these days baby",
+      "valence": 2.99,
+      "arousal": 3.42,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "And the stars line up And it's our last first kiss What if one of these days baby I'd go and change your name",
+      "valence": 3.21,
+      "arousal": 3.55,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "And it's our last first kiss What if one of these days baby I'd go and change your name What if",
+      "valence": 3.05,
+      "arousal": 3.42,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "What if one of these days baby I'd go and change your name What if I loved all these what ifs away",
+      "valence": 3.18,
+      "arousal": 3.4,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I'd go and change your name What if I loved all these what ifs away What if the sky falls",
+      "valence": 3.04,
+      "arousal": 3.26,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "What if I loved all these what ifs away What if the sky falls (Sky falls)",
+      "valence": 2.99,
+      "arousal": 3.14,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I loved all these what ifs away What if the sky falls (Sky falls) Or the sun stops burning",
+      "valence": 3.25,
+      "arousal": 3.28,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "What if the sky falls (Sky falls) Or the sun stops burning We could worry about them",
+      "valence": 2.8,
+      "arousal": 2.99,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "(Sky falls) Or the sun stops burning We could worry about them What ifs 'til the world stops turnin'",
+      "valence": 2.72,
+      "arousal": 3.02,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Or the sun stops burning We could worry about them What ifs 'til the world stops turnin' Or I could kiss you",
+      "valence": 2.85,
+      "arousal": 3.38,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "We could worry about them What ifs 'til the world stops turnin' Or I could kiss you What if you liked it",
+      "valence": 3.12,
+      "arousal": 3.45,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "What ifs 'til the world stops turnin' Or I could kiss you What if you liked it (Bet I'd like it)",
+      "valence": 3.27,
+      "arousal": 3.54,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Or I could kiss you What if you liked it (Bet I'd like it) Well we ain't",
+      "valence": 3.34,
+      "arousal": 3.49,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "What if you liked it (Bet I'd like it) Well we ain't Never gonna know unless we try it",
+      "valence": 3.4,
+      "arousal": 3.27,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "(Bet I'd like it) Well we ain't Never gonna know unless we try it What if I was made for you",
+      "valence": 3.24,
+      "arousal": 3.31,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Well we ain't Never gonna know unless we try it What if I was made for you And you were made for me",
+      "valence": 2.94,
+      "arousal": 3.18,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Never gonna know unless we try it What if I was made for you And you were made for me What if this is it",
+      "valence": 2.88,
+      "arousal": 3.32,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "What if I was made for you And you were made for me What if this is it What if it's meant to be",
+      "valence": 3.04,
+      "arousal": 3.24,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "And you were made for me What if this is it What if it's meant to be What if I ain't one of them",
+      "valence": 2.89,
+      "arousal": 3.31,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "What if this is it What if it's meant to be What if I ain't one of them Fools just Playin' some game",
+      "valence": 2.83,
+      "arousal": 3.35,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "What if it's meant to be What if I ain't one of them Fools just Playin' some game What if I just pulled you close",
+      "valence": 2.9,
+      "arousal": 3.42,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "What if I ain't one of them Fools just Playin' some game What if I just pulled you close What if I leaned in",
+      "valence": 2.82,
+      "arousal": 3.46,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Fools just Playin' some game What if I just pulled you close What if I leaned in And the stars line up",
+      "valence": 2.8,
+      "arousal": 3.28,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "What if I just pulled you close What if I leaned in And the stars line up And it's our last first kiss",
+      "valence": 3.12,
+      "arousal": 3.53,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "What if I leaned in And the stars line up And it's our last first kiss What if one of these days baby",
+      "valence": 2.99,
+      "arousal": 3.42,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "And the stars line up And it's our last first kiss What if one of these days baby I'd go and change your name",
+      "valence": 3.21,
+      "arousal": 3.55,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "And it's our last first kiss What if one of these days baby I'd go and change your name What if I loved all",
+      "valence": 3.28,
+      "arousal": 3.51,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "What if one of these days baby I'd go and change your name What if I loved all These what ifs away",
+      "valence": 3.26,
+      "arousal": 3.44,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I'd go and change your name What if I loved all These what ifs away Awe yeah",
+      "valence": 3.06,
+      "arousal": 3.37,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "What if I loved all These what ifs away Awe yeah C'mon",
+      "valence": 3.0,
+      "arousal": 3.23,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "These what ifs away Awe yeah C'mon You say what if I hurt you",
+      "valence": 2.56,
+      "arousal": 3.41,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Awe yeah C'mon You say what if I hurt you What if I leave you",
+      "valence": 2.6,
+      "arousal": 3.4,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "C'mon You say what if I hurt you What if I leave you What if I find somebody else and",
+      "valence": 2.55,
+      "arousal": 3.44,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "You say what if I hurt you What if I leave you What if I find somebody else and I don't need you",
+      "valence": 2.37,
+      "arousal": 3.42,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "What if I leave you What if I find somebody else and I don't need you Damn",
+      "valence": 2.48,
+      "arousal": 3.46,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "What if I find somebody else and I don't need you Damn What if I was made for you",
+      "valence": 2.55,
+      "arousal": 3.47,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "I don't need you Damn What if I was made for you And you were made for me",
+      "valence": 2.31,
+      "arousal": 3.6,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Damn What if I was made for you And you were made for me What if this is it",
+      "valence": 2.49,
+      "arousal": 3.8,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "What if I was made for you And you were made for me What if this is it What if it's meant to be",
+      "valence": 3.04,
+      "arousal": 3.24,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "And you were made for me What if this is it What if it's meant to be What if I ain't one of them",
+      "valence": 2.89,
+      "arousal": 3.31,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "What if this is it What if it's meant to be What if I ain't one of them Fools just Playin' some game",
+      "valence": 2.83,
+      "arousal": 3.35,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "What if it's meant to be What if I ain't one of them Fools just Playin' some game Yeah",
+      "valence": 2.84,
+      "arousal": 3.3,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "What if I ain't one of them Fools just Playin' some game Yeah What if I just pulled you close",
+      "valence": 2.81,
+      "arousal": 3.44,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Fools just Playin' some game Yeah What if I just pulled you close What if I leaned in",
+      "valence": 2.73,
+      "arousal": 3.27,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Yeah What if I just pulled you close What if I leaned in And the stars line up and",
+      "valence": 3.03,
+      "arousal": 3.43,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "What if I just pulled you close What if I leaned in And the stars line up and It's our last first kiss",
+      "valence": 3.14,
+      "arousal": 3.53,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "What if I leaned in And the stars line up and It's our last first kiss What if one of these days baby",
+      "valence": 3.03,
+      "arousal": 3.44,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "And the stars line up and It's our last first kiss What if one of these days baby I'd go and change your name",
+      "valence": 3.31,
+      "arousal": 3.61,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "It's our last first kiss What if one of these days baby I'd go and change your name What if I loved all these",
+      "valence": 3.31,
+      "arousal": 3.46,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "What if one of these days baby I'd go and change your name What if I loved all these What if's away",
+      "valence": 3.28,
+      "arousal": 3.39,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "I'd go and change your name What if I loved all these What if's away Away",
+      "valence": 3.25,
+      "arousal": 3.29,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "What if I loved all these What if's away Away (Away)",
+      "valence": 3.14,
+      "arousal": 3.06,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "What if's away Away (Away) What if?",
+      "valence": 2.88,
+      "arousal": 3.04,
+      "dominance": 2.87
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "artist": "Travis Scott",
+  "overall_vad": {
+    "valence": 2.92,
+    "arousal": 3.52,
+    "dominance": 3.29
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Yeah 7:30 in the night, yeah Ooh-ooh, ooh I get those goosebumps every time, yeah, you come around, yeah",
+      "valence": 3.46,
+      "arousal": 3.69,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "7:30 in the night, yeah Ooh-ooh, ooh I get those goosebumps every time, yeah, you come around, yeah You ease my mind, you make everything feel fine",
+      "valence": 3.73,
+      "arousal": 3.67,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Ooh-ooh, ooh I get those goosebumps every time, yeah, you come around, yeah You ease my mind, you make everything feel fine Worried 'bout those comments, I'm way too numb, yeah",
+      "valence": 3.6,
+      "arousal": 3.7,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I get those goosebumps every time, yeah, you come around, yeah You ease my mind, you make everything feel fine Worried 'bout those comments, I'm way too numb, yeah It's way too dumb, yeah",
+      "valence": 3.24,
+      "arousal": 3.54,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "You ease my mind, you make everything feel fine Worried 'bout those comments, I'm way too numb, yeah It's way too dumb, yeah I get those goosebumps every time, I need the Heimlich",
+      "valence": 2.72,
+      "arousal": 3.59,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Worried 'bout those comments, I'm way too numb, yeah It's way too dumb, yeah I get those goosebumps every time, I need the Heimlich Throw that to the side, yeah",
+      "valence": 2.3,
+      "arousal": 3.55,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "It's way too dumb, yeah I get those goosebumps every time, I need the Heimlich Throw that to the side, yeah I get those goosebumps every time, yeah, when you're not around (straight up)",
+      "valence": 2.5,
+      "arousal": 3.58,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I get those goosebumps every time, I need the Heimlich Throw that to the side, yeah I get those goosebumps every time, yeah, when you're not around (straight up) When you throw that to the side, yeah (it's lit)",
+      "valence": 3.1,
+      "arousal": 3.42,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Throw that to the side, yeah I get those goosebumps every time, yeah, when you're not around (straight up) When you throw that to the side, yeah (it's lit) I get those goosebumps every time, yeah",
+      "valence": 3.3,
+      "arousal": 3.53,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I get those goosebumps every time, yeah, when you're not around (straight up) When you throw that to the side, yeah (it's lit) I get those goosebumps every time, yeah 713 through the 281, yeah I'm ridin'",
+      "valence": 3.4,
+      "arousal": 3.58,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "When you throw that to the side, yeah (it's lit) I get those goosebumps every time, yeah 713 through the 281, yeah I'm ridin' Why they on me?",
+      "valence": 3.16,
+      "arousal": 3.54,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I get those goosebumps every time, yeah 713 through the 281, yeah I'm ridin' Why they on me? Why they on me? I'm flyin', sippin' low-key",
+      "valence": 3.28,
+      "arousal": 3.43,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "713 through the 281, yeah I'm ridin' Why they on me? Why they on me? I'm flyin', sippin' low-key I be sippin' low-key in Onyx, rider, rider",
+      "valence": 2.87,
+      "arousal": 3.24,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Why they on me? Why they on me? I'm flyin', sippin' low-key I be sippin' low-key in Onyx, rider, rider When I'm pullin' up right beside ya",
+      "valence": 2.87,
+      "arousal": 3.31,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Why they on me? I'm flyin', sippin' low-key I be sippin' low-key in Onyx, rider, rider When I'm pullin' up right beside ya Pop star, lil' Mariah",
+      "valence": 3.01,
+      "arousal": 3.36,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I be sippin' low-key in Onyx, rider, rider When I'm pullin' up right beside ya Pop star, lil' Mariah When I text, kick game, knowledge",
+      "valence": 3.31,
+      "arousal": 3.23,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "When I'm pullin' up right beside ya Pop star, lil' Mariah When I text, kick game, knowledge Throw a stack on the Bible",
+      "valence": 3.23,
+      "arousal": 3.37,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Pop star, lil' Mariah When I text, kick game, knowledge Throw a stack on the Bible Never Snapchat or took molly",
+      "valence": 3.03,
+      "arousal": 3.19,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "When I text, kick game, knowledge Throw a stack on the Bible Never Snapchat or took molly She fall through plenty, her and all her ginnies, yeah",
+      "valence": 2.85,
+      "arousal": 3.15,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Throw a stack on the Bible Never Snapchat or took molly She fall through plenty, her and all her ginnies, yeah We at the top floor, right there off Doheny, yeah",
+      "valence": 2.87,
+      "arousal": 3.27,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Never Snapchat or took molly She fall through plenty, her and all her ginnies, yeah We at the top floor, right there off Doheny, yeah Oh no, I can't fuck with y'all, yeah",
+      "valence": 2.3,
+      "arousal": 3.82,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "She fall through plenty, her and all her ginnies, yeah We at the top floor, right there off Doheny, yeah Oh no, I can't fuck with y'all, yeah When I'm with my squad I cannot do no wrong, yeah",
+      "valence": 2.43,
+      "arousal": 3.77,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "We at the top floor, right there off Doheny, yeah Oh no, I can't fuck with y'all, yeah When I'm with my squad I cannot do no wrong, yeah Saucin' in the city, don't get misinformed, yeah",
+      "valence": 2.31,
+      "arousal": 3.85,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Oh no, I can't fuck with y'all, yeah When I'm with my squad I cannot do no wrong, yeah Saucin' in the city, don't get misinformed, yeah They gon' pull up on you (brrt, brrt, brrt)",
+      "valence": 2.21,
+      "arousal": 3.83,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "When I'm with my squad I cannot do no wrong, yeah Saucin' in the city, don't get misinformed, yeah They gon' pull up on you (brrt, brrt, brrt) Yeah, we gon' do some things, some things you can't relate",
+      "valence": 2.89,
+      "arousal": 3.26,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Saucin' in the city, don't get misinformed, yeah They gon' pull up on you (brrt, brrt, brrt) Yeah, we gon' do some things, some things you can't relate Yeah, 'cause we from a place, a place you cannot stay",
+      "valence": 2.82,
+      "arousal": 3.33,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "They gon' pull up on you (brrt, brrt, brrt) Yeah, we gon' do some things, some things you can't relate Yeah, 'cause we from a place, a place you cannot stay Oh, you can't go, oh, I don't know",
+      "valence": 2.78,
+      "arousal": 3.27,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Yeah, we gon' do some things, some things you can't relate Yeah, 'cause we from a place, a place you cannot stay Oh, you can't go, oh, I don't know Oh, back the fuck up off me (brrt, brrt, brrt)",
+      "valence": 2.68,
+      "arousal": 3.61,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Yeah, 'cause we from a place, a place you cannot stay Oh, you can't go, oh, I don't know Oh, back the fuck up off me (brrt, brrt, brrt) I get those goosebumps every time, yeah, you come around, yeah",
+      "valence": 2.9,
+      "arousal": 3.62,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Oh, you can't go, oh, I don't know Oh, back the fuck up off me (brrt, brrt, brrt) I get those goosebumps every time, yeah, you come around, yeah You ease my mind, you make everything feel fine",
+      "valence": 3.24,
+      "arousal": 3.66,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Oh, back the fuck up off me (brrt, brrt, brrt) I get those goosebumps every time, yeah, you come around, yeah You ease my mind, you make everything feel fine Worried 'bout those comments, I'm way too numb, yeah",
+      "valence": 3.08,
+      "arousal": 3.64,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I get those goosebumps every time, yeah, you come around, yeah You ease my mind, you make everything feel fine Worried 'bout those comments, I'm way too numb, yeah It's way too dumb, yeah",
+      "valence": 3.24,
+      "arousal": 3.54,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "You ease my mind, you make everything feel fine Worried 'bout those comments, I'm way too numb, yeah It's way too dumb, yeah I get those goosebumps every time, I need the Heimlich",
+      "valence": 2.72,
+      "arousal": 3.59,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Worried 'bout those comments, I'm way too numb, yeah It's way too dumb, yeah I get those goosebumps every time, I need the Heimlich Throw that to the side, yeah",
+      "valence": 2.3,
+      "arousal": 3.55,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "It's way too dumb, yeah I get those goosebumps every time, I need the Heimlich Throw that to the side, yeah I get those goosebumps every time, yeah, when you're not around",
+      "valence": 2.48,
+      "arousal": 3.56,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I get those goosebumps every time, I need the Heimlich Throw that to the side, yeah I get those goosebumps every time, yeah, when you're not around When you throw that to the side, yeah",
+      "valence": 3.04,
+      "arousal": 3.46,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Throw that to the side, yeah I get those goosebumps every time, yeah, when you're not around When you throw that to the side, yeah I get those goosebumps every time",
+      "valence": 3.15,
+      "arousal": 3.46,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "I get those goosebumps every time, yeah, when you're not around When you throw that to the side, yeah I get those goosebumps every time Uh, I wanna press my like, yeah, I wanna press my",
+      "valence": 3.09,
+      "arousal": 3.52,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "When you throw that to the side, yeah I get those goosebumps every time Uh, I wanna press my like, yeah, I wanna press my I want a green light, I wanna be like",
+      "valence": 3.09,
+      "arousal": 3.44,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "I get those goosebumps every time Uh, I wanna press my like, yeah, I wanna press my I want a green light, I wanna be like I wanna press my line, yeah",
+      "valence": 3.02,
+      "arousal": 3.33,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Uh, I wanna press my like, yeah, I wanna press my I want a green light, I wanna be like I wanna press my line, yeah I wanna to take that ride, yeah",
+      "valence": 3.02,
+      "arousal": 3.19,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "I want a green light, I wanna be like I wanna press my line, yeah I wanna to take that ride, yeah I'm gonna press my line",
+      "valence": 3.08,
+      "arousal": 3.09,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I wanna press my line, yeah I wanna to take that ride, yeah I'm gonna press my line I want a green light, I wanna be like, I wanna press my",
+      "valence": 3.03,
+      "arousal": 3.08,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I wanna to take that ride, yeah I'm gonna press my line I want a green light, I wanna be like, I wanna press my Mama, dear, spare your feelings",
+      "valence": 3.0,
+      "arousal": 3.34,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I'm gonna press my line I want a green light, I wanna be like, I wanna press my Mama, dear, spare your feelings I'm relivin' moments, peelin' more residual",
+      "valence": 3.09,
+      "arousal": 3.33,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I want a green light, I wanna be like, I wanna press my Mama, dear, spare your feelings I'm relivin' moments, peelin' more residual I can buy the building, burn the building, take your bitch",
+      "valence": 2.54,
+      "arousal": 3.83,
+      "dominance": 3.75
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Mama, dear, spare your feelings I'm relivin' moments, peelin' more residual I can buy the building, burn the building, take your bitch Rebuild the building just to fuck some more",
+      "valence": 2.33,
+      "arousal": 3.79,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I'm relivin' moments, peelin' more residual I can buy the building, burn the building, take your bitch Rebuild the building just to fuck some more I can justify my love for you",
+      "valence": 2.99,
+      "arousal": 3.91,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I can buy the building, burn the building, take your bitch Rebuild the building just to fuck some more I can justify my love for you And touch the sky for God to stop debatin' war",
+      "valence": 2.39,
+      "arousal": 4.06,
+      "dominance": 3.77
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Rebuild the building just to fuck some more I can justify my love for you And touch the sky for God to stop debatin' war Put the pussy on a pedestal (ayy)",
+      "valence": 2.57,
+      "arousal": 3.95,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I can justify my love for you And touch the sky for God to stop debatin' war Put the pussy on a pedestal (ayy) Put the pussy on a high horse",
+      "valence": 3.09,
+      "arousal": 3.77,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "And touch the sky for God to stop debatin' war Put the pussy on a pedestal (ayy) Put the pussy on a high horse That pussy to die for",
+      "valence": 2.43,
+      "arousal": 3.53,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Put the pussy on a pedestal (ayy) Put the pussy on a high horse That pussy to die for That pussy to die for",
+      "valence": 2.49,
+      "arousal": 3.39,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Put the pussy on a high horse That pussy to die for That pussy to die for Peter Piper, picked a pepper",
+      "valence": 2.31,
+      "arousal": 3.35,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "That pussy to die for That pussy to die for Peter Piper, picked a pepper So I could pick your brain and put your heart together",
+      "valence": 2.19,
+      "arousal": 3.49,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "That pussy to die for Peter Piper, picked a pepper So I could pick your brain and put your heart together We depart the shady parts and party hard, the diamonds yours",
+      "valence": 2.72,
+      "arousal": 3.59,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Peter Piper, picked a pepper So I could pick your brain and put your heart together We depart the shady parts and party hard, the diamonds yours The coupe forever",
+      "valence": 3.27,
+      "arousal": 3.46,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "So I could pick your brain and put your heart together We depart the shady parts and party hard, the diamonds yours The coupe forever My best shot, just might shoot forever like (brrt)",
+      "valence": 3.51,
+      "arousal": 3.66,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "We depart the shady parts and party hard, the diamonds yours The coupe forever My best shot, just might shoot forever like (brrt) I get those goosebumps every time, yeah, you come around, yeah",
+      "valence": 3.7,
+      "arousal": 3.73,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "The coupe forever My best shot, just might shoot forever like (brrt) I get those goosebumps every time, yeah, you come around, yeah You ease my mind, you make everything feel fine",
+      "valence": 3.68,
+      "arousal": 3.55,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "My best shot, just might shoot forever like (brrt) I get those goosebumps every time, yeah, you come around, yeah You ease my mind, you make everything feel fine Worried 'bout those comments, I'm way too numb, yeah",
+      "valence": 3.46,
+      "arousal": 3.53,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "I get those goosebumps every time, yeah, you come around, yeah You ease my mind, you make everything feel fine Worried 'bout those comments, I'm way too numb, yeah It's way too dumb, yeah",
+      "valence": 3.24,
+      "arousal": 3.54,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "You ease my mind, you make everything feel fine Worried 'bout those comments, I'm way too numb, yeah It's way too dumb, yeah I get those goosebumps every time, I need the Heimlich",
+      "valence": 2.72,
+      "arousal": 3.59,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Worried 'bout those comments, I'm way too numb, yeah It's way too dumb, yeah I get those goosebumps every time, I need the Heimlich Throw that to the side, yeah",
+      "valence": 2.3,
+      "arousal": 3.55,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "It's way too dumb, yeah I get those goosebumps every time, I need the Heimlich Throw that to the side, yeah I get those goosebumps every time, yeah, when you're not around",
+      "valence": 2.48,
+      "arousal": 3.56,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "I get those goosebumps every time, I need the Heimlich Throw that to the side, yeah I get those goosebumps every time, yeah, when you're not around When you throw that to the side, yeah",
+      "valence": 3.04,
+      "arousal": 3.46,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Throw that to the side, yeah I get those goosebumps every time, yeah, when you're not around When you throw that to the side, yeah I get those goosebumps every time",
+      "valence": 3.15,
+      "arousal": 3.46,
+      "dominance": 3.25
+    }
+  ]
+}

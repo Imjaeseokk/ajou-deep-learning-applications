@@ -1,0 +1,332 @@
+{
+  "artist": "Blake Shelton",
+  "overall_vad": {
+    "valence": 3.23,
+    "arousal": 3.27,
+    "dominance": 3.25
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Right outside of this one church town There's a gold dirt road to a whole lot of nothin' Got a deed to the land, but it ain't my ground This is God's country",
+      "valence": 2.85,
+      "arousal": 3.15,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "There's a gold dirt road to a whole lot of nothin' Got a deed to the land, but it ain't my ground This is God's country We pray for rain, and thank Him when it's fallen",
+      "valence": 2.94,
+      "arousal": 3.07,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Got a deed to the land, but it ain't my ground This is God's country We pray for rain, and thank Him when it's fallen 'Cause it brings a grain and a little bit of money",
+      "valence": 3.02,
+      "arousal": 3.22,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "This is God's country We pray for rain, and thank Him when it's fallen 'Cause it brings a grain and a little bit of money We put it back in the plate",
+      "valence": 3.42,
+      "arousal": 3.25,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "We pray for rain, and thank Him when it's fallen 'Cause it brings a grain and a little bit of money We put it back in the plate I guess that's why they call it God's country",
+      "valence": 3.3,
+      "arousal": 3.19,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "'Cause it brings a grain and a little bit of money We put it back in the plate I guess that's why they call it God's country I saw the light in the sunrise",
+      "valence": 3.37,
+      "arousal": 3.32,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "We put it back in the plate I guess that's why they call it God's country I saw the light in the sunrise Sittin' back in a 40 on the muddy riverside",
+      "valence": 3.06,
+      "arousal": 3.05,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I guess that's why they call it God's country I saw the light in the sunrise Sittin' back in a 40 on the muddy riverside Gettin' baptized in holy water and 'shine",
+      "valence": 3.2,
+      "arousal": 3.17,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I saw the light in the sunrise Sittin' back in a 40 on the muddy riverside Gettin' baptized in holy water and 'shine With the dogs runnin'",
+      "valence": 3.33,
+      "arousal": 3.07,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Sittin' back in a 40 on the muddy riverside Gettin' baptized in holy water and 'shine With the dogs runnin' Saved by the sound of the been found",
+      "valence": 3.33,
+      "arousal": 3.15,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Gettin' baptized in holy water and 'shine With the dogs runnin' Saved by the sound of the been found Dixie whistled in the wind, that'll get you Heaven bound",
+      "valence": 3.47,
+      "arousal": 3.3,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "With the dogs runnin' Saved by the sound of the been found Dixie whistled in the wind, that'll get you Heaven bound The Devil went down to Georgia but he didn't stick around",
+      "valence": 3.19,
+      "arousal": 3.32,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Saved by the sound of the been found Dixie whistled in the wind, that'll get you Heaven bound The Devil went down to Georgia but he didn't stick around This is God's country",
+      "valence": 3.28,
+      "arousal": 3.29,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Dixie whistled in the wind, that'll get you Heaven bound The Devil went down to Georgia but he didn't stick around This is God's country We turned the dirt and worked until the week's done",
+      "valence": 3.14,
+      "arousal": 3.21,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "The Devil went down to Georgia but he didn't stick around This is God's country We turned the dirt and worked until the week's done We take a break and break bread on Sunday",
+      "valence": 2.97,
+      "arousal": 3.07,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "This is God's country We turned the dirt and worked until the week's done We take a break and break bread on Sunday And then do it all again",
+      "valence": 3.12,
+      "arousal": 3.25,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "We turned the dirt and worked until the week's done We take a break and break bread on Sunday And then do it all again 'Cause we're proud to be from God's country (yeah, yeah)",
+      "valence": 3.49,
+      "arousal": 3.48,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "We take a break and break bread on Sunday And then do it all again 'Cause we're proud to be from God's country (yeah, yeah) I saw the light in the sunrise",
+      "valence": 3.62,
+      "arousal": 3.46,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "And then do it all again 'Cause we're proud to be from God's country (yeah, yeah) I saw the light in the sunrise Sittin' back in a 40 on the muddy riverside",
+      "valence": 3.55,
+      "arousal": 3.51,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "'Cause we're proud to be from God's country (yeah, yeah) I saw the light in the sunrise Sittin' back in a 40 on the muddy riverside Gettin' baptized in holy water and 'shine",
+      "valence": 3.71,
+      "arousal": 3.39,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I saw the light in the sunrise Sittin' back in a 40 on the muddy riverside Gettin' baptized in holy water and 'shine With the dogs runnin'",
+      "valence": 3.33,
+      "arousal": 3.07,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Sittin' back in a 40 on the muddy riverside Gettin' baptized in holy water and 'shine With the dogs runnin' Saved by the sound of the been found",
+      "valence": 3.33,
+      "arousal": 3.15,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Gettin' baptized in holy water and 'shine With the dogs runnin' Saved by the sound of the been found Dixie whistled in the wind, that'll get you Heaven bound",
+      "valence": 3.47,
+      "arousal": 3.3,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "With the dogs runnin' Saved by the sound of the been found Dixie whistled in the wind, that'll get you Heaven bound The Devil went down to Georgia but he didn't stick around",
+      "valence": 3.19,
+      "arousal": 3.32,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Saved by the sound of the been found Dixie whistled in the wind, that'll get you Heaven bound The Devil went down to Georgia but he didn't stick around This is God's country (yeah)",
+      "valence": 3.27,
+      "arousal": 3.34,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Dixie whistled in the wind, that'll get you Heaven bound The Devil went down to Georgia but he didn't stick around This is God's country (yeah) God's country",
+      "valence": 3.1,
+      "arousal": 3.28,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "The Devil went down to Georgia but he didn't stick around This is God's country (yeah) God's country I don't care what my headstone reads",
+      "valence": 2.83,
+      "arousal": 3.4,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "This is God's country (yeah) God's country I don't care what my headstone reads Or what kind of pinewood box I end up in",
+      "valence": 2.9,
+      "arousal": 3.6,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "God's country I don't care what my headstone reads Or what kind of pinewood box I end up in When it's my time, lay me six feet deep",
+      "valence": 2.78,
+      "arousal": 3.4,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I don't care what my headstone reads Or what kind of pinewood box I end up in When it's my time, lay me six feet deep In God's country (yeah, yeah)",
+      "valence": 2.9,
+      "arousal": 3.52,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Or what kind of pinewood box I end up in When it's my time, lay me six feet deep In God's country (yeah, yeah) I saw the light in the sunrise",
+      "valence": 3.06,
+      "arousal": 3.29,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "When it's my time, lay me six feet deep In God's country (yeah, yeah) I saw the light in the sunrise Sittin' back in a 40 on the muddy riverside",
+      "valence": 3.08,
+      "arousal": 3.33,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "In God's country (yeah, yeah) I saw the light in the sunrise Sittin' back in a 40 on the muddy riverside Gettin' baptized in holy water and 'shine",
+      "valence": 3.3,
+      "arousal": 3.29,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I saw the light in the sunrise Sittin' back in a 40 on the muddy riverside Gettin' baptized in holy water and 'shine With the dogs runnin'",
+      "valence": 3.33,
+      "arousal": 3.07,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Sittin' back in a 40 on the muddy riverside Gettin' baptized in holy water and 'shine With the dogs runnin' Saved by the sound of the been found",
+      "valence": 3.33,
+      "arousal": 3.15,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Gettin' baptized in holy water and 'shine With the dogs runnin' Saved by the sound of the been found Dixie whistled in the wind, that'll get you Heaven bound",
+      "valence": 3.47,
+      "arousal": 3.3,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "With the dogs runnin' Saved by the sound of the been found Dixie whistled in the wind, that'll get you Heaven bound The devil went down to Georgia but he didn't stick around",
+      "valence": 3.14,
+      "arousal": 3.33,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Saved by the sound of the been found Dixie whistled in the wind, that'll get you Heaven bound The devil went down to Georgia but he didn't stick around This is God's country (God's country)",
+      "valence": 3.27,
+      "arousal": 3.31,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Dixie whistled in the wind, that'll get you Heaven bound The devil went down to Georgia but he didn't stick around This is God's country (God's country) Yeah, I saw the light in the sunrise",
+      "valence": 3.31,
+      "arousal": 3.33,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "The devil went down to Georgia but he didn't stick around This is God's country (God's country) Yeah, I saw the light in the sunrise Sittin' back in a 40 on the muddy riverside",
+      "valence": 3.04,
+      "arousal": 3.25,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "This is God's country (God's country) Yeah, I saw the light in the sunrise Sittin' back in a 40 on the muddy riverside Gettin' baptized in holy water and 'shine",
+      "valence": 3.35,
+      "arousal": 3.32,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Yeah, I saw the light in the sunrise Sittin' back in a 40 on the muddy riverside Gettin' baptized in holy water and 'shine With the dogs runnin'",
+      "valence": 3.28,
+      "arousal": 3.2,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Sittin' back in a 40 on the muddy riverside Gettin' baptized in holy water and 'shine With the dogs runnin' Saved by the sound of the been found",
+      "valence": 3.33,
+      "arousal": 3.15,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Gettin' baptized in holy water and 'shine With the dogs runnin' Saved by the sound of the been found Dixie whistled in the wind, that'll get you Heaven bound",
+      "valence": 3.47,
+      "arousal": 3.3,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "With the dogs runnin' Saved by the sound of the been found Dixie whistled in the wind, that'll get you Heaven bound The Devil went down to Georgia but he didn't stick around",
+      "valence": 3.19,
+      "arousal": 3.32,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Saved by the sound of the been found Dixie whistled in the wind, that'll get you Heaven bound The Devil went down to Georgia but he didn't stick around This is God's country",
+      "valence": 3.28,
+      "arousal": 3.29,
+      "dominance": 3.27
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "artist": "Ed Sheeran",
+  "overall_vad": {
+    "valence": 3.22,
+    "arousal": 3.43,
+    "dominance": 3.17
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Loving can hurt, loving can hurt sometimes But it's the only thing that I know When it gets hard, you know it can get hard sometimes It is the only thing makes us feel alive",
+      "valence": 3.33,
+      "arousal": 3.37,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "But it's the only thing that I know When it gets hard, you know it can get hard sometimes It is the only thing makes us feel alive We keep this love in a photograph",
+      "valence": 3.73,
+      "arousal": 3.55,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "When it gets hard, you know it can get hard sometimes It is the only thing makes us feel alive We keep this love in a photograph We made these memories for ourselves",
+      "valence": 3.78,
+      "arousal": 3.57,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "It is the only thing makes us feel alive We keep this love in a photograph We made these memories for ourselves Where our eyes are never closing",
+      "valence": 3.99,
+      "arousal": 3.63,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "We keep this love in a photograph We made these memories for ourselves Where our eyes are never closing Hearts are never broken",
+      "valence": 3.84,
+      "arousal": 3.42,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "We made these memories for ourselves Where our eyes are never closing Hearts are never broken And time's forever frozen, still",
+      "valence": 3.36,
+      "arousal": 3.29,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Where our eyes are never closing Hearts are never broken And time's forever frozen, still So you can keep me",
+      "valence": 3.2,
+      "arousal": 3.22,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Hearts are never broken And time's forever frozen, still So you can keep me Inside the pocket of your ripped jeans",
+      "valence": 3.02,
+      "arousal": 3.2,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "And time's forever frozen, still So you can keep me Inside the pocket of your ripped jeans Holding me closer 'til our eyes meet",
+      "valence": 3.07,
+      "arousal": 3.42,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "So you can keep me Inside the pocket of your ripped jeans Holding me closer 'til our eyes meet You won't ever be alone, wait for me to come home",
+      "valence": 3.21,
+      "arousal": 3.59,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Inside the pocket of your ripped jeans Holding me closer 'til our eyes meet You won't ever be alone, wait for me to come home Loving can heal, loving can mend your soul",
+      "valence": 3.58,
+      "arousal": 3.65,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Holding me closer 'til our eyes meet You won't ever be alone, wait for me to come home Loving can heal, loving can mend your soul And it's the only thing that I know, know",
+      "valence": 3.61,
+      "arousal": 3.67,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "You won't ever be alone, wait for me to come home Loving can heal, loving can mend your soul And it's the only thing that I know, know I swear it will get easier",
+      "valence": 3.52,
+      "arousal": 3.65,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Loving can heal, loving can mend your soul And it's the only thing that I know, know I swear it will get easier Remember that with every piece of ya",
+      "valence": 3.75,
+      "arousal": 3.45,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And it's the only thing that I know, know I swear it will get easier Remember that with every piece of ya Hmm, and it's the only thing we take with us when we die",
+      "valence": 2.93,
+      "arousal": 3.19,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I swear it will get easier Remember that with every piece of ya Hmm, and it's the only thing we take with us when we die Hmm, we keep this love in a photograph",
+      "valence": 3.5,
+      "arousal": 3.37,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Remember that with every piece of ya Hmm, and it's the only thing we take with us when we die Hmm, we keep this love in a photograph We made these memories for ourselves",
+      "valence": 3.56,
+      "arousal": 3.33,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Hmm, and it's the only thing we take with us when we die Hmm, we keep this love in a photograph We made these memories for ourselves Where our eyes are never closing",
+      "valence": 3.49,
+      "arousal": 3.38,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Hmm, we keep this love in a photograph We made these memories for ourselves Where our eyes are never closing Hearts were never broken",
+      "valence": 3.78,
+      "arousal": 3.39,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "We made these memories for ourselves Where our eyes are never closing Hearts were never broken And time's forever frozen, still",
+      "valence": 3.36,
+      "arousal": 3.3,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Where our eyes are never closing Hearts were never broken And time's forever frozen, still So you can keep me",
+      "valence": 3.18,
+      "arousal": 3.22,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Hearts were never broken And time's forever frozen, still So you can keep me Inside the pocket of your ripped jeans",
+      "valence": 2.98,
+      "arousal": 3.21,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "And time's forever frozen, still So you can keep me Inside the pocket of your ripped jeans Holding me closer 'til our eyes meet",
+      "valence": 3.07,
+      "arousal": 3.42,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "So you can keep me Inside the pocket of your ripped jeans Holding me closer 'til our eyes meet You won't ever be alone",
+      "valence": 3.22,
+      "arousal": 3.49,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Inside the pocket of your ripped jeans Holding me closer 'til our eyes meet You won't ever be alone And if you hurt me",
+      "valence": 2.81,
+      "arousal": 3.55,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Holding me closer 'til our eyes meet You won't ever be alone And if you hurt me That's okay, baby, only words bleed",
+      "valence": 3.09,
+      "arousal": 3.58,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "You won't ever be alone And if you hurt me That's okay, baby, only words bleed Inside these pages, you just hold me",
+      "valence": 2.93,
+      "arousal": 3.45,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "And if you hurt me That's okay, baby, only words bleed Inside these pages, you just hold me And I won't ever let you go",
+      "valence": 2.82,
+      "arousal": 3.42,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "That's okay, baby, only words bleed Inside these pages, you just hold me And I won't ever let you go Wait for me to come home",
+      "valence": 2.87,
+      "arousal": 3.36,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Inside these pages, you just hold me And I won't ever let you go Wait for me to come home Wait for me to come home",
+      "valence": 3.13,
+      "arousal": 3.48,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "And I won't ever let you go Wait for me to come home Wait for me to come home Wait for me to come home",
+      "valence": 2.45,
+      "arousal": 3.57,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Wait for me to come home Wait for me to come home Wait for me to come home Wait for me to come home",
+      "valence": 2.69,
+      "arousal": 3.42,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Wait for me to come home Wait for me to come home Wait for me to come home Oh, you can fit me",
+      "valence": 2.99,
+      "arousal": 3.41,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Wait for me to come home Wait for me to come home Oh, you can fit me Inside the necklace you got when you were sixteen",
+      "valence": 2.98,
+      "arousal": 3.55,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Wait for me to come home Oh, you can fit me Inside the necklace you got when you were sixteen Next to your heartbeat where I should be",
+      "valence": 3.2,
+      "arousal": 3.45,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Oh, you can fit me Inside the necklace you got when you were sixteen Next to your heartbeat where I should be Keep it deep within your soul",
+      "valence": 3.21,
+      "arousal": 3.23,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Inside the necklace you got when you were sixteen Next to your heartbeat where I should be Keep it deep within your soul And if you hurt me",
+      "valence": 2.76,
+      "arousal": 3.36,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Next to your heartbeat where I should be Keep it deep within your soul And if you hurt me Well, that's okay, baby, only words bleed",
+      "valence": 2.67,
+      "arousal": 3.38,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Keep it deep within your soul And if you hurt me Well, that's okay, baby, only words bleed Inside these pages, you just hold me",
+      "valence": 3.0,
+      "arousal": 3.3,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "And if you hurt me Well, that's okay, baby, only words bleed Inside these pages, you just hold me And I won't ever let you go",
+      "valence": 2.8,
+      "arousal": 3.38,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Well, that's okay, baby, only words bleed Inside these pages, you just hold me And I won't ever let you go When I'm away, I will remember how you kissed me",
+      "valence": 3.17,
+      "arousal": 3.38,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Inside these pages, you just hold me And I won't ever let you go When I'm away, I will remember how you kissed me Under the lamppost back on Sixth street",
+      "valence": 3.41,
+      "arousal": 3.53,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "And I won't ever let you go When I'm away, I will remember how you kissed me Under the lamppost back on Sixth street Hearing you whisper through the phone",
+      "valence": 3.18,
+      "arousal": 3.55,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "When I'm away, I will remember how you kissed me Under the lamppost back on Sixth street Hearing you whisper through the phone \"Wait for me to come home\"",
+      "valence": 3.43,
+      "arousal": 3.65,
+      "dominance": 3.26
+    }
+  ]
+}

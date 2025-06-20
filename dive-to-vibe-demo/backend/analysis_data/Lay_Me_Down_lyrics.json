@@ -1,0 +1,185 @@
+{
+  "artist": "Sam Smith",
+  "overall_vad": {
+    "valence": 2.84,
+    "arousal": 3.52,
+    "dominance": 3.0
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Yes, I do, I believe That one day I will be where I was Right there, right next to you And it's hard, the days just seem so dark",
+      "valence": 3.13,
+      "arousal": 3.5,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "That one day I will be where I was Right there, right next to you And it's hard, the days just seem so dark The moon, and the stars are nothing without you",
+      "valence": 3.2,
+      "arousal": 3.55,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Right there, right next to you And it's hard, the days just seem so dark The moon, and the stars are nothing without you Your touch, your skin, where do I begin?",
+      "valence": 2.89,
+      "arousal": 3.37,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "And it's hard, the days just seem so dark The moon, and the stars are nothing without you Your touch, your skin, where do I begin? No words can explain the way I'm missing you",
+      "valence": 2.77,
+      "arousal": 3.62,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "The moon, and the stars are nothing without you Your touch, your skin, where do I begin? No words can explain the way I'm missing you Deny this emptiness, this hole that I'm inside",
+      "valence": 2.75,
+      "arousal": 3.55,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Your touch, your skin, where do I begin? No words can explain the way I'm missing you Deny this emptiness, this hole that I'm inside These tears, they tell their own story",
+      "valence": 2.55,
+      "arousal": 3.52,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "No words can explain the way I'm missing you Deny this emptiness, this hole that I'm inside These tears, they tell their own story Told me not to cry when you were gone",
+      "valence": 2.26,
+      "arousal": 3.52,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Deny this emptiness, this hole that I'm inside These tears, they tell their own story Told me not to cry when you were gone But the feeling's overwhelming, it's much too strong",
+      "valence": 2.33,
+      "arousal": 3.57,
+      "dominance": 2.71
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "These tears, they tell their own story Told me not to cry when you were gone But the feeling's overwhelming, it's much too strong Can I lay by your side, next to you? You",
+      "valence": 2.67,
+      "arousal": 3.63,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Told me not to cry when you were gone But the feeling's overwhelming, it's much too strong Can I lay by your side, next to you? You And make sure you're alright",
+      "valence": 2.79,
+      "arousal": 3.67,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "But the feeling's overwhelming, it's much too strong Can I lay by your side, next to you? You And make sure you're alright I'll take care of you",
+      "valence": 2.98,
+      "arousal": 3.63,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Can I lay by your side, next to you? You And make sure you're alright I'll take care of you And I don't want to be here if I can't be with you tonight",
+      "valence": 2.93,
+      "arousal": 3.28,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "And make sure you're alright I'll take care of you And I don't want to be here if I can't be with you tonight I'm reaching out to you",
+      "valence": 3.02,
+      "arousal": 3.26,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I'll take care of you And I don't want to be here if I can't be with you tonight I'm reaching out to you Can you hear my call, boy?",
+      "valence": 3.0,
+      "arousal": 3.48,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And I don't want to be here if I can't be with you tonight I'm reaching out to you Can you hear my call, boy? This hurt that I've been through",
+      "valence": 2.39,
+      "arousal": 3.79,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I'm reaching out to you Can you hear my call, boy? This hurt that I've been through I'm missing you, I'm missing you like crazy, you",
+      "valence": 2.99,
+      "arousal": 3.82,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Can you hear my call, boy? This hurt that I've been through I'm missing you, I'm missing you like crazy, you Can I lay by your side? Next to you, to you",
+      "valence": 3.0,
+      "arousal": 3.71,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "This hurt that I've been through I'm missing you, I'm missing you like crazy, you Can I lay by your side? Next to you, to you And make sure you're alright",
+      "valence": 2.8,
+      "arousal": 3.64,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I'm missing you, I'm missing you like crazy, you Can I lay by your side? Next to you, to you And make sure you're alright I'll take care of you",
+      "valence": 2.99,
+      "arousal": 3.57,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Can I lay by your side? Next to you, to you And make sure you're alright I'll take care of you And I don't want to be here if I can't be with you tonight",
+      "valence": 2.89,
+      "arousal": 3.27,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "And make sure you're alright I'll take care of you And I don't want to be here if I can't be with you tonight Oh, lay me down tonight",
+      "valence": 2.74,
+      "arousal": 3.28,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I'll take care of you And I don't want to be here if I can't be with you tonight Oh, lay me down tonight Lay me by your side, whoa",
+      "valence": 2.78,
+      "arousal": 3.53,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "And I don't want to be here if I can't be with you tonight Oh, lay me down tonight Lay me by your side, whoa Lay me down tonight",
+      "valence": 2.65,
+      "arousal": 3.5,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Oh, lay me down tonight Lay me by your side, whoa Lay me down tonight Lay me by your side",
+      "valence": 3.34,
+      "arousal": 3.38,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Lay me by your side, whoa Lay me down tonight Lay me by your side Can I lay by your side? Next to you, you",
+      "valence": 3.2,
+      "arousal": 3.32,
+      "dominance": 3.19
+    }
+  ]
+}

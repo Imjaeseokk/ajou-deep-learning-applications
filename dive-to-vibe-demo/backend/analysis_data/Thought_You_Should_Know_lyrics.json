@@ -1,0 +1,332 @@
+{
+  "artist": "Morgan Wallen",
+  "overall_vad": {
+    "valence": 2.99,
+    "arousal": 3.4,
+    "dominance": 3.22
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "What's goin' on, mama? Something just dawned on me I ain't been home in some months Been chasin' songs and women",
+      "valence": 3.03,
+      "arousal": 3.29,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Something just dawned on me I ain't been home in some months Been chasin' songs and women Makin' some bad decisions",
+      "valence": 2.49,
+      "arousal": 3.27,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I ain't been home in some months Been chasin' songs and women Makin' some bad decisions God knows I'm drinkin' too much",
+      "valence": 2.26,
+      "arousal": 3.17,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Been chasin' songs and women Makin' some bad decisions God knows I'm drinkin' too much Yeah, I know you've been worrying 'bout me",
+      "valence": 2.38,
+      "arousal": 3.09,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Makin' some bad decisions God knows I'm drinkin' too much Yeah, I know you've been worrying 'bout me You've been losin' sleep since '93",
+      "valence": 2.33,
+      "arousal": 3.09,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "God knows I'm drinkin' too much Yeah, I know you've been worrying 'bout me You've been losin' sleep since '93 I thought you should know",
+      "valence": 2.46,
+      "arousal": 3.15,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Yeah, I know you've been worrying 'bout me You've been losin' sleep since '93 I thought you should know That all those prayers you thought you wasted on me",
+      "valence": 2.55,
+      "arousal": 3.27,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "You've been losin' sleep since '93 I thought you should know That all those prayers you thought you wasted on me Must've finally made their way on through",
+      "valence": 2.97,
+      "arousal": 3.09,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I thought you should know That all those prayers you thought you wasted on me Must've finally made their way on through I thought you should know",
+      "valence": 3.02,
+      "arousal": 3.15,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "That all those prayers you thought you wasted on me Must've finally made their way on through I thought you should know I got me a new girl down there in Jefferson City, and",
+      "valence": 3.22,
+      "arousal": 3.38,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Must've finally made their way on through I thought you should know I got me a new girl down there in Jefferson City, and She lets me fish whenever I want to",
+      "valence": 3.39,
+      "arousal": 3.26,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I thought you should know I got me a new girl down there in Jefferson City, and She lets me fish whenever I want to Yeah, I'm still proud of where I came from",
+      "valence": 3.84,
+      "arousal": 3.35,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I got me a new girl down there in Jefferson City, and She lets me fish whenever I want to Yeah, I'm still proud of where I came from Still your only damn son",
+      "valence": 3.51,
+      "arousal": 3.73,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "She lets me fish whenever I want to Yeah, I'm still proud of where I came from Still your only damn son Can you believe I'm on the radio?",
+      "valence": 3.47,
+      "arousal": 3.7,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Yeah, I'm still proud of where I came from Still your only damn son Can you believe I'm on the radio? Just thought you should know, thought you should know, thought you should know",
+      "valence": 3.3,
+      "arousal": 3.83,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Still your only damn son Can you believe I'm on the radio? Just thought you should know, thought you should know, thought you should know Oh, by the way, mama, didn't mean to ramble on ya",
+      "valence": 2.51,
+      "arousal": 3.67,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Can you believe I'm on the radio? Just thought you should know, thought you should know, thought you should know Oh, by the way, mama, didn't mean to ramble on ya How's everything back at home?",
+      "valence": 3.01,
+      "arousal": 3.43,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Just thought you should know, thought you should know, thought you should know Oh, by the way, mama, didn't mean to ramble on ya How's everything back at home? Yeah, how's that garden comin'?",
+      "valence": 2.82,
+      "arousal": 3.17,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Oh, by the way, mama, didn't mean to ramble on ya How's everything back at home? Yeah, how's that garden comin'? Is dad still doing dumb shit?",
+      "valence": 2.67,
+      "arousal": 3.37,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "How's everything back at home? Yeah, how's that garden comin'? Is dad still doing dumb shit? And how'd he keep you this long?",
+      "valence": 2.76,
+      "arousal": 3.4,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Yeah, how's that garden comin'? Is dad still doing dumb shit? And how'd he keep you this long? Yeah, I'm sorry that I called you so late",
+      "valence": 2.66,
+      "arousal": 3.4,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Is dad still doing dumb shit? And how'd he keep you this long? Yeah, I'm sorry that I called you so late I just miss you, but anyways",
+      "valence": 2.53,
+      "arousal": 3.48,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "And how'd he keep you this long? Yeah, I'm sorry that I called you so late I just miss you, but anyways I thought you should know",
+      "valence": 2.85,
+      "arousal": 3.29,
+      "dominance": 2.77
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Yeah, I'm sorry that I called you so late I just miss you, but anyways I thought you should know That all those prayers you thought you wasted on me",
+      "valence": 2.62,
+      "arousal": 3.39,
+      "dominance": 2.71
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I just miss you, but anyways I thought you should know That all those prayers you thought you wasted on me Must've finally made their way on through",
+      "valence": 2.89,
+      "arousal": 3.26,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I thought you should know That all those prayers you thought you wasted on me Must've finally made their way on through I thought you should know",
+      "valence": 3.02,
+      "arousal": 3.15,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "That all those prayers you thought you wasted on me Must've finally made their way on through I thought you should know I got me a new girl down there in Jefferson City, and",
+      "valence": 3.22,
+      "arousal": 3.38,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Must've finally made their way on through I thought you should know I got me a new girl down there in Jefferson City, and She lets me fish whenever I want to",
+      "valence": 3.39,
+      "arousal": 3.26,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I thought you should know I got me a new girl down there in Jefferson City, and She lets me fish whenever I want to Yeah, I'm still proud of where I came from",
+      "valence": 3.84,
+      "arousal": 3.35,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I got me a new girl down there in Jefferson City, and She lets me fish whenever I want to Yeah, I'm still proud of where I came from Still your only damn son",
+      "valence": 3.51,
+      "arousal": 3.73,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "She lets me fish whenever I want to Yeah, I'm still proud of where I came from Still your only damn son Can you believe I'm on the radio?",
+      "valence": 3.47,
+      "arousal": 3.7,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Yeah, I'm still proud of where I came from Still your only damn son Can you believe I'm on the radio? Just thought you should know, thought you should know, thought you should know",
+      "valence": 3.3,
+      "arousal": 3.83,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Still your only damn son Can you believe I'm on the radio? Just thought you should know, thought you should know, thought you should know Yeah, I know you've been worrying 'bout me",
+      "valence": 2.43,
+      "arousal": 3.73,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Can you believe I'm on the radio? Just thought you should know, thought you should know, thought you should know Yeah, I know you've been worrying 'bout me You've been losing sleep since '93",
+      "valence": 2.86,
+      "arousal": 3.51,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Just thought you should know, thought you should know, thought you should know Yeah, I know you've been worrying 'bout me You've been losing sleep since '93 I thought you should know",
+      "valence": 2.58,
+      "arousal": 3.31,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Yeah, I know you've been worrying 'bout me You've been losing sleep since '93 I thought you should know That all those prayers you thought you wasted on me",
+      "valence": 2.51,
+      "arousal": 3.33,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "You've been losing sleep since '93 I thought you should know That all those prayers you thought you wasted on me Must've finally made their way on through",
+      "valence": 2.77,
+      "arousal": 3.23,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "I thought you should know That all those prayers you thought you wasted on me Must've finally made their way on through I thought you should know",
+      "valence": 3.02,
+      "arousal": 3.15,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "That all those prayers you thought you wasted on me Must've finally made their way on through I thought you should know That I really like this girl down in Jefferson City, and",
+      "valence": 3.44,
+      "arousal": 3.33,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Must've finally made their way on through I thought you should know That I really like this girl down in Jefferson City, and Turns out she's a lot like you",
+      "valence": 3.51,
+      "arousal": 3.39,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I thought you should know That I really like this girl down in Jefferson City, and Turns out she's a lot like you Yeah, I'm still proud of where I came from",
+      "valence": 3.82,
+      "arousal": 3.47,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "That I really like this girl down in Jefferson City, and Turns out she's a lot like you Yeah, I'm still proud of where I came from Still your only damn son",
+      "valence": 3.54,
+      "arousal": 3.72,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Turns out she's a lot like you Yeah, I'm still proud of where I came from Still your only damn son The bus is leavin' so I gotta roll",
+      "valence": 3.47,
+      "arousal": 3.74,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Yeah, I'm still proud of where I came from Still your only damn son The bus is leavin' so I gotta roll Just thought you should know, thought you should know, thought you should know",
+      "valence": 3.1,
+      "arousal": 3.65,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Still your only damn son The bus is leavin' so I gotta roll Just thought you should know, thought you should know, thought you should know I thought you should know, thought you should know",
+      "valence": 2.32,
+      "arousal": 3.51,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "The bus is leavin' so I gotta roll Just thought you should know, thought you should know, thought you should know I thought you should know, thought you should know I thought you should know, thought you should know, thought you should know",
+      "valence": 2.75,
+      "arousal": 3.29,
+      "dominance": 3.13
+    }
+  ]
+}

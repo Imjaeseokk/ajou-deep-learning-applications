@@ -1,0 +1,549 @@
+{
+  "artist": "Nicki Minaj Featuring Ariana Grande",
+  "overall_vad": {
+    "valence": 3.23,
+    "arousal": 3.6,
+    "dominance": 3.42
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Got a bed Wit' your name on it Wit' your name on it Got a kiss",
+      "valence": 3.5,
+      "arousal": 3.67,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Wit' your name on it Wit' your name on it Got a kiss Wit' your name on it",
+      "valence": 3.31,
+      "arousal": 3.6,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Wit' your name on it Got a kiss Wit' your name on it Wit' your name on it",
+      "valence": 3.32,
+      "arousal": 3.62,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Got a kiss Wit' your name on it Wit' your name on it Thousand dollar sheets",
+      "valence": 3.5,
+      "arousal": 3.7,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Wit' your name on it Wit' your name on it Thousand dollar sheets Waitin' for you on some thousand dollar sheets",
+      "valence": 3.13,
+      "arousal": 3.33,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Wit' your name on it Thousand dollar sheets Waitin' for you on some thousand dollar sheets I got Carter Three on repeat",
+      "valence": 3.14,
+      "arousal": 3.3,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Thousand dollar sheets Waitin' for you on some thousand dollar sheets I got Carter Three on repeat Back shots to the beat of (a milli') on you",
+      "valence": 3.21,
+      "arousal": 3.46,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Waitin' for you on some thousand dollar sheets I got Carter Three on repeat Back shots to the beat of (a milli') on you Got me acting like you got a milli' on you",
+      "valence": 3.09,
+      "arousal": 3.45,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I got Carter Three on repeat Back shots to the beat of (a milli') on you Got me acting like you got a milli' on you You say I'm the GOAT, yeah, the billy on you",
+      "valence": 2.85,
+      "arousal": 3.56,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Back shots to the beat of (a milli') on you Got me acting like you got a milli' on you You say I'm the GOAT, yeah, the billy on you I could make all your dreams come true",
+      "valence": 3.21,
+      "arousal": 3.7,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Got me acting like you got a milli' on you You say I'm the GOAT, yeah, the billy on you I could make all your dreams come true Wanna fall through",
+      "valence": 2.93,
+      "arousal": 3.66,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "You say I'm the GOAT, yeah, the billy on you I could make all your dreams come true Wanna fall through Then you better come through (come through)",
+      "valence": 3.18,
+      "arousal": 3.71,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I could make all your dreams come true Wanna fall through Then you better come through (come through) But don't make me wait until the morning (the morning)",
+      "valence": 3.12,
+      "arousal": 3.42,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Wanna fall through Then you better come through (come through) But don't make me wait until the morning (the morning) Got a bed",
+      "valence": 2.93,
+      "arousal": 3.29,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Then you better come through (come through) But don't make me wait until the morning (the morning) Got a bed Wit' your name on it",
+      "valence": 2.95,
+      "arousal": 3.33,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "But don't make me wait until the morning (the morning) Got a bed Wit' your name on it Wit' your name on it",
+      "valence": 2.79,
+      "arousal": 3.32,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Got a bed Wit' your name on it Wit' your name on it Got a kiss",
+      "valence": 3.5,
+      "arousal": 3.67,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Wit' your name on it Wit' your name on it Got a kiss Wit' your name on it",
+      "valence": 3.31,
+      "arousal": 3.6,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Wit' your name on it Got a kiss Wit' your name on it Wit' your name on it",
+      "valence": 3.32,
+      "arousal": 3.62,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Got a kiss Wit' your name on it Wit' your name on it Love me good",
+      "valence": 4.05,
+      "arousal": 4.05,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Wit' your name on it Wit' your name on it Love me good Love me down",
+      "valence": 3.97,
+      "arousal": 3.89,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Wit' your name on it Love me good Love me down Don't turn me down",
+      "valence": 3.96,
+      "arousal": 4.01,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Love me good Love me down Don't turn me down Got a bed",
+      "valence": 4.18,
+      "arousal": 4.05,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Love me down Don't turn me down Got a bed Wit' your name on it",
+      "valence": 3.52,
+      "arousal": 3.95,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Don't turn me down Got a bed Wit' your name on it Wit' your name on it",
+      "valence": 2.76,
+      "arousal": 3.33,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Got a bed Wit' your name on it Wit' your name on it Strawberry lingerie",
+      "valence": 3.24,
+      "arousal": 3.47,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Wit' your name on it Wit' your name on it Strawberry lingerie Waitin' for you, strawberries lingerie",
+      "valence": 3.41,
+      "arousal": 3.54,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Wit' your name on it Strawberry lingerie Waitin' for you, strawberries lingerie You told me you on the way",
+      "valence": 3.37,
+      "arousal": 3.6,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Strawberry lingerie Waitin' for you, strawberries lingerie You told me you on the way Messed around, messed around, put it down on you (you)",
+      "valence": 3.09,
+      "arousal": 3.71,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Waitin' for you, strawberries lingerie You told me you on the way Messed around, messed around, put it down on you (you) I'ma do everything I said I'm gon' do (do)",
+      "valence": 3.05,
+      "arousal": 3.69,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "You told me you on the way Messed around, messed around, put it down on you (you) I'ma do everything I said I'm gon' do (do) Pretty little body, it look better on you (you)",
+      "valence": 2.84,
+      "arousal": 3.62,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Messed around, messed around, put it down on you (you) I'ma do everything I said I'm gon' do (do) Pretty little body, it look better on you (you) Might have to blow it like a feather on you (you)",
+      "valence": 2.25,
+      "arousal": 3.6,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I'ma do everything I said I'm gon' do (do) Pretty little body, it look better on you (you) Might have to blow it like a feather on you (you) Waterfalls, ooh",
+      "valence": 2.98,
+      "arousal": 3.55,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Pretty little body, it look better on you (you) Might have to blow it like a feather on you (you) Waterfalls, ooh Yeah, you better come through (come through)",
+      "valence": 3.01,
+      "arousal": 3.45,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Might have to blow it like a feather on you (you) Waterfalls, ooh Yeah, you better come through (come through) But don't make me wait until the morning",
+      "valence": 2.92,
+      "arousal": 3.49,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Waterfalls, ooh Yeah, you better come through (come through) But don't make me wait until the morning Got a bed",
+      "valence": 3.02,
+      "arousal": 3.37,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Yeah, you better come through (come through) But don't make me wait until the morning Got a bed Wit' your name on it",
+      "valence": 3.09,
+      "arousal": 3.42,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "But don't make me wait until the morning Got a bed Wit' your name on it Wit' your name on it",
+      "valence": 2.8,
+      "arousal": 3.24,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Got a bed Wit' your name on it Wit' your name on it Got a kiss",
+      "valence": 3.5,
+      "arousal": 3.67,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Wit' your name on it Wit' your name on it Got a kiss Wit' your name on it",
+      "valence": 3.31,
+      "arousal": 3.6,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Wit' your name on it Got a kiss Wit' your name on it Wit' your name on it",
+      "valence": 3.32,
+      "arousal": 3.62,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Got a kiss Wit' your name on it Wit' your name on it Love me good",
+      "valence": 4.05,
+      "arousal": 4.05,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Wit' your name on it Wit' your name on it Love me good Love me down",
+      "valence": 3.97,
+      "arousal": 3.89,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Wit' your name on it Love me good Love me down Don't turn me down",
+      "valence": 3.96,
+      "arousal": 4.01,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Love me good Love me down Don't turn me down Got a bed",
+      "valence": 4.18,
+      "arousal": 4.05,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Love me down Don't turn me down Got a bed Wit' your name on it (oh yeah)",
+      "valence": 3.62,
+      "arousal": 4.01,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Don't turn me down Got a bed Wit' your name on it (oh yeah) Wit' your name on it (on it)",
+      "valence": 2.89,
+      "arousal": 3.38,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Got a bed Wit' your name on it (oh yeah) Wit' your name on it (on it) O-on, on it (on it)",
+      "valence": 3.04,
+      "arousal": 3.24,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Wit' your name on it (oh yeah) Wit' your name on it (on it) O-on, on it (on it) O-on, on it",
+      "valence": 3.02,
+      "arousal": 3.19,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Wit' your name on it (on it) O-on, on it (on it) O-on, on it O-on, on it",
+      "valence": 2.92,
+      "arousal": 3.12,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "O-on, on it (on it) O-on, on it O-on, on it O-on, on it (but I put your name on it, oh yeah)",
+      "valence": 2.97,
+      "arousal": 3.42,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "O-on, on it O-on, on it O-on, on it (but I put your name on it, oh yeah) Yo, he in my startin' five",
+      "valence": 3.09,
+      "arousal": 3.42,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "O-on, on it O-on, on it (but I put your name on it, oh yeah) Yo, he in my startin' five He get his city live",
+      "valence": 3.02,
+      "arousal": 3.4,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "O-on, on it (but I put your name on it, oh yeah) Yo, he in my startin' five He get his city live These niggas scared they doin' fifty in a fifty-five",
+      "valence": 2.75,
+      "arousal": 3.38,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Yo, he in my startin' five He get his city live These niggas scared they doin' fifty in a fifty-five I'm tryna clap 'em like somebody told 'em, \"Gimme five\"",
+      "valence": 2.74,
+      "arousal": 3.42,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "He get his city live These niggas scared they doin' fifty in a fifty-five I'm tryna clap 'em like somebody told 'em, \"Gimme five\" I'm be a half an hour but I told 'em gimme five",
+      "valence": 2.56,
+      "arousal": 3.43,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "These niggas scared they doin' fifty in a fifty-five I'm tryna clap 'em like somebody told 'em, \"Gimme five\" I'm be a half an hour but I told 'em gimme five I'm tryna dance on 'em, blow my advance on 'em",
+      "valence": 2.81,
+      "arousal": 3.56,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "I'm tryna clap 'em like somebody told 'em, \"Gimme five\" I'm be a half an hour but I told 'em gimme five I'm tryna dance on 'em, blow my advance on 'em I like 'em better when he got some sweatpants on 'em",
+      "valence": 3.11,
+      "arousal": 3.54,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "I'm be a half an hour but I told 'em gimme five I'm tryna dance on 'em, blow my advance on 'em I like 'em better when he got some sweatpants on 'em I like his hang time, he said his head right",
+      "valence": 3.2,
+      "arousal": 3.53,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "I'm tryna dance on 'em, blow my advance on 'em I like 'em better when he got some sweatpants on 'em I like his hang time, he said his head right I said go all the way down and then head right",
+      "valence": 3.26,
+      "arousal": 3.55,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "I like 'em better when he got some sweatpants on 'em I like his hang time, he said his head right I said go all the way down and then head right I watch him fuck it up, look at him luckin' up",
+      "valence": 3.03,
+      "arousal": 3.42,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "I like his hang time, he said his head right I said go all the way down and then head right I watch him fuck it up, look at him luckin' up I said, \"You need some thick skin, baby, suck it up\"",
+      "valence": 2.79,
+      "arousal": 3.6,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "I said go all the way down and then head right I watch him fuck it up, look at him luckin' up I said, \"You need some thick skin, baby, suck it up\" He go insane on it, I put my fame on it",
+      "valence": 2.58,
+      "arousal": 3.76,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "I watch him fuck it up, look at him luckin' up I said, \"You need some thick skin, baby, suck it up\" He go insane on it, I put my fame on it Coulda' put Zayn on it, but I put your name on it",
+      "valence": 2.55,
+      "arousal": 3.7,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "I said, \"You need some thick skin, baby, suck it up\" He go insane on it, I put my fame on it Coulda' put Zayn on it, but I put your name on it (Put your name on it, put your name on it)",
+      "valence": 2.56,
+      "arousal": 3.74,
+      "dominance": 3.94
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "He go insane on it, I put my fame on it Coulda' put Zayn on it, but I put your name on it (Put your name on it, put your name on it) I got a bed",
+      "valence": 2.97,
+      "arousal": 3.45,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Coulda' put Zayn on it, but I put your name on it (Put your name on it, put your name on it) I got a bed Wit' your name on it",
+      "valence": 2.96,
+      "arousal": 3.16,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "(Put your name on it, put your name on it) I got a bed Wit' your name on it Wit' your name on it",
+      "valence": 3.03,
+      "arousal": 3.13,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "I got a bed Wit' your name on it Wit' your name on it Got a kiss",
+      "valence": 3.53,
+      "arousal": 3.73,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Wit' your name on it Wit' your name on it Got a kiss Wit' your name on it",
+      "valence": 3.31,
+      "arousal": 3.6,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Wit' your name on it Got a kiss Wit' your name on it Wit' your name on it, yeah",
+      "valence": 3.37,
+      "arousal": 3.7,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Got a kiss Wit' your name on it Wit' your name on it, yeah Love me good",
+      "valence": 4.11,
+      "arousal": 4.13,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Wit' your name on it Wit' your name on it, yeah Love me good Love me down",
+      "valence": 3.98,
+      "arousal": 4.0,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Wit' your name on it, yeah Love me good Love me down Don't turn me down (turn it down, baby)",
+      "valence": 4.0,
+      "arousal": 4.11,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Love me good Love me down Don't turn me down (turn it down, baby) Got a bed",
+      "valence": 4.16,
+      "arousal": 4.11,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "Love me down Don't turn me down (turn it down, baby) Got a bed Wit' your name on it (your name)",
+      "valence": 3.54,
+      "arousal": 4.01,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "Don't turn me down (turn it down, baby) Got a bed Wit' your name on it (your name) Wit' your name on it",
+      "valence": 2.86,
+      "arousal": 3.62,
+      "dominance": 3.67
+    }
+  ]
+}

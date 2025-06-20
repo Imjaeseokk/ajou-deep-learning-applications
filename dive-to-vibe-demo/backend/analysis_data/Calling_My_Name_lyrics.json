@@ -1,0 +1,171 @@
+{
+  "artist": "Drake",
+  "overall_vad": {
+    "valence": 2.76,
+    "arousal": 3.69,
+    "dominance": 3.35
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Ayy Ayy Mmm, what do I want? Why is it so hard giving you up?",
+      "valence": 2.92,
+      "arousal": 3.38,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Ayy Mmm, what do I want? Why is it so hard giving you up? I'm counting the days 'til you come",
+      "valence": 2.99,
+      "arousal": 3.52,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Mmm, what do I want? Why is it so hard giving you up? I'm counting the days 'til you come I'm counting the ways to make you",
+      "valence": 3.14,
+      "arousal": 3.66,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Why is it so hard giving you up? I'm counting the days 'til you come I'm counting the ways to make you Mmm, what do I want?",
+      "valence": 2.95,
+      "arousal": 3.6,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I'm counting the days 'til you come I'm counting the ways to make you Mmm, what do I want? Why is it so hard giving you up?",
+      "valence": 3.03,
+      "arousal": 3.63,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I'm counting the ways to make you Mmm, what do I want? Why is it so hard giving you up? I'm counting the days 'til you come",
+      "valence": 3.13,
+      "arousal": 3.59,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Mmm, what do I want? Why is it so hard giving you up? I'm counting the days 'til you come I'm counting the ways to make you",
+      "valence": 3.14,
+      "arousal": 3.66,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Why is it so hard giving you up? I'm counting the days 'til you come I'm counting the ways to make you You're my water, my refresher",
+      "valence": 3.37,
+      "arousal": 3.6,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I'm counting the days 'til you come I'm counting the ways to make you You're my water, my refresher Take off your clothes, relieve pressure",
+      "valence": 3.48,
+      "arousal": 3.65,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I'm counting the ways to make you You're my water, my refresher Take off your clothes, relieve pressure I need your touch when I'm with ya",
+      "valence": 3.53,
+      "arousal": 3.62,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "You're my water, my refresher Take off your clothes, relieve pressure I need your touch when I'm with ya My heart, it beats different rhythm",
+      "valence": 3.44,
+      "arousal": 3.57,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Take off your clothes, relieve pressure I need your touch when I'm with ya My heart, it beats different rhythm Killa cop, blood",
+      "valence": 3.15,
+      "arousal": 3.66,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I need your touch when I'm with ya My heart, it beats different rhythm Killa cop, blood Killa cop, blood",
+      "valence": 3.27,
+      "arousal": 3.64,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "My heart, it beats different rhythm Killa cop, blood Killa cop, blood Killa cop, blood",
+      "valence": 2.87,
+      "arousal": 3.59,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Killa cop, blood Killa cop, blood Killa cop, blood Killa cop, blood",
+      "valence": 2.67,
+      "arousal": 3.32,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Killa cop, blood Killa cop, blood Killa cop, blood Your pussy is calling my name",
+      "valence": 2.08,
+      "arousal": 3.9,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Killa cop, blood Killa cop, blood Your pussy is calling my name So come on, baby, let's stop playing games",
+      "valence": 1.99,
+      "arousal": 3.99,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Killa cop, blood Your pussy is calling my name So come on, baby, let's stop playing games Your pussy is calling my name",
+      "valence": 1.99,
+      "arousal": 3.89,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Your pussy is calling my name So come on, baby, let's stop playing games Your pussy is calling my name So come on, baby, let's stop playing games",
+      "valence": 2.01,
+      "arousal": 3.89,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "So come on, baby, let's stop playing games Your pussy is calling my name So come on, baby, let's stop playing games Your pussy is calling my name",
+      "valence": 2.12,
+      "arousal": 3.85,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Your pussy is calling my name So come on, baby, let's stop playing games Your pussy is calling my name So come on, baby, let's stop playing games",
+      "valence": 2.01,
+      "arousal": 3.89,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "So come on, baby, let's stop playing games Your pussy is calling my name So come on, baby, let's stop playing games Your pussy is calling my name",
+      "valence": 2.12,
+      "arousal": 3.85,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Your pussy is calling my name So come on, baby, let's stop playing games Your pussy is calling my name So come on, baby, let's stop playing games, games",
+      "valence": 2.01,
+      "arousal": 3.89,
+      "dominance": 3.65
+    }
+  ]
+}

@@ -1,0 +1,549 @@
+{
+  "artist": "KYLE Featuring Lil Yachty",
+  "overall_vad": {
+    "valence": 2.87,
+    "arousal": 3.44,
+    "dominance": 3.23
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Man, fuck What's wrong Kyle? Man, these kids, man, talkin' shit, makin' me feel bad Man, fuck them kids, bro! Look around, bro, look at life",
+      "valence": 1.89,
+      "arousal": 4.05,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "What's wrong Kyle? Man, these kids, man, talkin' shit, makin' me feel bad Man, fuck them kids, bro! Look around, bro, look at life Man, you're right",
+      "valence": 2.1,
+      "arousal": 3.89,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Man, these kids, man, talkin' shit, makin' me feel bad Man, fuck them kids, bro! Look around, bro, look at life Man, you're right Mmm, you see? You see these fine bitches over here?",
+      "valence": 2.15,
+      "arousal": 3.84,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Man, fuck them kids, bro! Look around, bro, look at life Man, you're right Mmm, you see? You see these fine bitches over here? Yeah, woah...",
+      "valence": 2.19,
+      "arousal": 4.05,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Man, you're right Mmm, you see? You see these fine bitches over here? Yeah, woah... You see these trees man? You see this water?",
+      "valence": 2.97,
+      "arousal": 3.3,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Mmm, you see? You see these fine bitches over here? Yeah, woah... You see these trees man? You see this water? I guess it is okay",
+      "valence": 2.89,
+      "arousal": 3.16,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Yeah, woah... You see these trees man? You see this water? I guess it is okay Come on, man, you got so much more to appreciate, man",
+      "valence": 3.24,
+      "arousal": 3.3,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "You see these trees man? You see this water? I guess it is okay Come on, man, you got so much more to appreciate, man Man you know what, y-you're right...",
+      "valence": 3.13,
+      "arousal": 3.28,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I guess it is okay Come on, man, you got so much more to appreciate, man Man you know what, y-you're right... You damn right I'm right, I can't remember a time I was god-damn wrong",
+      "valence": 2.98,
+      "arousal": 3.64,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Come on, man, you got so much more to appreciate, man Man you know what, y-you're right... You damn right I'm right, I can't remember a time I was god-damn wrong Man, thanks, Lil' Boat",
+      "valence": 3.58,
+      "arousal": 3.7,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Man you know what, y-you're right... You damn right I'm right, I can't remember a time I was god-damn wrong Man, thanks, Lil' Boat Hey man, that's what I'm here for",
+      "valence": 3.45,
+      "arousal": 3.76,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "You damn right I'm right, I can't remember a time I was god-damn wrong Man, thanks, Lil' Boat Hey man, that's what I'm here for I ain't been gettin' high...",
+      "valence": 3.3,
+      "arousal": 3.59,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Man, thanks, Lil' Boat Hey man, that's what I'm here for I ain't been gettin' high... Well maybe a little, baby I don't wanna lie",
+      "valence": 3.45,
+      "arousal": 3.3,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Hey man, that's what I'm here for I ain't been gettin' high... Well maybe a little, baby I don't wanna lie I know when you text me girl, I don't always reply",
+      "valence": 3.01,
+      "arousal": 3.3,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I ain't been gettin' high... Well maybe a little, baby I don't wanna lie I know when you text me girl, I don't always reply Well you're not an angel either, you can't even fly",
+      "valence": 2.81,
+      "arousal": 3.12,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Well maybe a little, baby I don't wanna lie I know when you text me girl, I don't always reply Well you're not an angel either, you can't even fly I notice, you think that you know shit",
+      "valence": 2.63,
+      "arousal": 3.31,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I know when you text me girl, I don't always reply Well you're not an angel either, you can't even fly I notice, you think that you know shit All this shade that's comin' at me, I wonder who throws it",
+      "valence": 2.47,
+      "arousal": 3.27,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Well you're not an angel either, you can't even fly I notice, you think that you know shit All this shade that's comin' at me, I wonder who throws it They can't see the vision, boy they must be out of focus",
+      "valence": 2.49,
+      "arousal": 3.29,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I notice, you think that you know shit All this shade that's comin' at me, I wonder who throws it They can't see the vision, boy they must be out of focus That's a real hot album homie, I wonder who wrote it, oh shit",
+      "valence": 2.55,
+      "arousal": 3.49,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "All this shade that's comin' at me, I wonder who throws it They can't see the vision, boy they must be out of focus That's a real hot album homie, I wonder who wrote it, oh shit Otay, pray them niggas go away",
+      "valence": 2.6,
+      "arousal": 3.6,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "They can't see the vision, boy they must be out of focus That's a real hot album homie, I wonder who wrote it, oh shit Otay, pray them niggas go away Always hella clowns around it look like Cirque Du Soleil",
+      "valence": 2.77,
+      "arousal": 3.55,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "That's a real hot album homie, I wonder who wrote it, oh shit Otay, pray them niggas go away Always hella clowns around it look like Cirque Du Soleil This is not the album either, these are just the throwaways",
+      "valence": 2.99,
+      "arousal": 3.62,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Otay, pray them niggas go away Always hella clowns around it look like Cirque Du Soleil This is not the album either, these are just the throwaways This shit still so cold when it drop, it's gonna be a mothafuckin' snow day",
+      "valence": 2.52,
+      "arousal": 3.43,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Always hella clowns around it look like Cirque Du Soleil This is not the album either, these are just the throwaways This shit still so cold when it drop, it's gonna be a mothafuckin' snow day Ayy, boy is good and he knows it, he don't say it, he shows it",
+      "valence": 2.89,
+      "arousal": 3.24,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "This is not the album either, these are just the throwaways This shit still so cold when it drop, it's gonna be a mothafuckin' snow day Ayy, boy is good and he knows it, he don't say it, he shows it I'm just like DeRozan, if I shoot it, it goes in",
+      "valence": 2.95,
+      "arousal": 3.3,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "This shit still so cold when it drop, it's gonna be a mothafuckin' snow day Ayy, boy is good and he knows it, he don't say it, he shows it I'm just like DeRozan, if I shoot it, it goes in I am in Cali just coastin', get 'em so wet they need coasters",
+      "valence": 3.0,
+      "arousal": 3.52,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Ayy, boy is good and he knows it, he don't say it, he shows it I'm just like DeRozan, if I shoot it, it goes in I am in Cali just coastin', get 'em so wet they need coasters I got a selfie with Oprah, I just ain't never post it",
+      "valence": 3.3,
+      "arousal": 3.42,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I'm just like DeRozan, if I shoot it, it goes in I am in Cali just coastin', get 'em so wet they need coasters I got a selfie with Oprah, I just ain't never post it And I'm in my happy place posted, I ain't frown since '06",
+      "valence": 3.17,
+      "arousal": 3.22,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I am in Cali just coastin', get 'em so wet they need coasters I got a selfie with Oprah, I just ain't never post it And I'm in my happy place posted, I ain't frown since '06 I ain't cried since '01, my pad like Six Flags and your house is no fun",
+      "valence": 3.0,
+      "arousal": 3.47,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I got a selfie with Oprah, I just ain't never post it And I'm in my happy place posted, I ain't frown since '06 I ain't cried since '01, my pad like Six Flags and your house is no fun You can come back to mine though, your friend ain't cute but it's fine though",
+      "valence": 3.24,
+      "arousal": 3.45,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "And I'm in my happy place posted, I ain't frown since '06 I ain't cried since '01, my pad like Six Flags and your house is no fun You can come back to mine though, your friend ain't cute but it's fine though We gon' end on a high note",
+      "valence": 3.4,
+      "arousal": 3.49,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I ain't cried since '01, my pad like Six Flags and your house is no fun You can come back to mine though, your friend ain't cute but it's fine though We gon' end on a high note I spy with my little eye",
+      "valence": 2.84,
+      "arousal": 3.58,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "You can come back to mine though, your friend ain't cute but it's fine though We gon' end on a high note I spy with my little eye A girlie I can get 'cause she don't get too many likes",
+      "valence": 3.12,
+      "arousal": 3.34,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "We gon' end on a high note I spy with my little eye A girlie I can get 'cause she don't get too many likes A curly-headed cutie I can turn into my wife",
+      "valence": 3.47,
+      "arousal": 3.54,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I spy with my little eye A girlie I can get 'cause she don't get too many likes A curly-headed cutie I can turn into my wife Wait, that means forever, ever, hold up, never mind",
+      "valence": 3.0,
+      "arousal": 3.41,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "A girlie I can get 'cause she don't get too many likes A curly-headed cutie I can turn into my wife Wait, that means forever, ever, hold up, never mind Oh, I spy with my little eye",
+      "valence": 2.92,
+      "arousal": 3.38,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "A curly-headed cutie I can turn into my wife Wait, that means forever, ever, hold up, never mind Oh, I spy with my little eye A girlie I can get 'cause she don't get too many likes",
+      "valence": 3.01,
+      "arousal": 3.39,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Wait, that means forever, ever, hold up, never mind Oh, I spy with my little eye A girlie I can get 'cause she don't get too many likes A curly-headed cutie I can turn into my wife",
+      "valence": 2.92,
+      "arousal": 3.46,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Oh, I spy with my little eye A girlie I can get 'cause she don't get too many likes A curly-headed cutie I can turn into my wife Wait, that means forever, ever, hold up, never mind",
+      "valence": 3.05,
+      "arousal": 3.39,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "A girlie I can get 'cause she don't get too many likes A curly-headed cutie I can turn into my wife Wait, that means forever, ever, hold up, never mind Oh I, I spy with my little eye",
+      "valence": 2.93,
+      "arousal": 3.39,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "A curly-headed cutie I can turn into my wife Wait, that means forever, ever, hold up, never mind Oh I, I spy with my little eye I spy, I spy with my little eye",
+      "valence": 2.95,
+      "arousal": 3.39,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Wait, that means forever, ever, hold up, never mind Oh I, I spy with my little eye I spy, I spy with my little eye Oh I, I spy with my little eye",
+      "valence": 2.83,
+      "arousal": 3.33,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Oh I, I spy with my little eye I spy, I spy with my little eye Oh I, I spy with my little eye I spy, I spy with my little eye",
+      "valence": 3.06,
+      "arousal": 3.11,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I spy, I spy with my little eye Oh I, I spy with my little eye I spy, I spy with my little eye Oh I...",
+      "valence": 2.97,
+      "arousal": 3.13,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Oh I, I spy with my little eye I spy, I spy with my little eye Oh I... She said she 21, I might have to I.D. that",
+      "valence": 2.99,
+      "arousal": 3.2,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I spy, I spy with my little eye Oh I... She said she 21, I might have to I.D. that All my bitches come in pairs like balls in my nutsack",
+      "valence": 2.78,
+      "arousal": 3.27,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Oh I... She said she 21, I might have to I.D. that All my bitches come in pairs like balls in my nutsack I remember ridin' around the city in a Hatchback",
+      "valence": 2.85,
+      "arousal": 3.29,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "She said she 21, I might have to I.D. that All my bitches come in pairs like balls in my nutsack I remember ridin' around the city in a Hatchback Lookin' for a problem with my young goblins",
+      "valence": 2.62,
+      "arousal": 3.18,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "All my bitches come in pairs like balls in my nutsack I remember ridin' around the city in a Hatchback Lookin' for a problem with my young goblins I'ma send a model home with her neck throbbin'",
+      "valence": 2.76,
+      "arousal": 3.36,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I remember ridin' around the city in a Hatchback Lookin' for a problem with my young goblins I'ma send a model home with her neck throbbin' I done made so much money that it's non-stoppin'",
+      "valence": 3.21,
+      "arousal": 3.48,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Lookin' for a problem with my young goblins I'ma send a model home with her neck throbbin' I done made so much money that it's non-stoppin' Got my brothers on my back like the last name",
+      "valence": 2.78,
+      "arousal": 3.45,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "I'ma send a model home with her neck throbbin' I done made so much money that it's non-stoppin' Got my brothers on my back like the last name I remember tellin' everyone I couldn't be tamed",
+      "valence": 3.01,
+      "arousal": 3.63,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "I done made so much money that it's non-stoppin' Got my brothers on my back like the last name I remember tellin' everyone I couldn't be tamed Woah, six months later I had snapped and now I'm in the game",
+      "valence": 3.42,
+      "arousal": 3.6,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Got my brothers on my back like the last name I remember tellin' everyone I couldn't be tamed Woah, six months later I had snapped and now I'm in the game Went from fake chains to diamonds in another lane",
+      "valence": 3.28,
+      "arousal": 3.5,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "I remember tellin' everyone I couldn't be tamed Woah, six months later I had snapped and now I'm in the game Went from fake chains to diamonds in another lane Went from \"Can you take me here?\" to skrrting out the lane",
+      "valence": 3.1,
+      "arousal": 3.41,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Woah, six months later I had snapped and now I'm in the game Went from fake chains to diamonds in another lane Went from \"Can you take me here?\" to skrrting out the lane Went from \"Damn this nigga lame\" to remember my name",
+      "valence": 2.9,
+      "arousal": 3.73,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Went from fake chains to diamonds in another lane Went from \"Can you take me here?\" to skrrting out the lane Went from \"Damn this nigga lame\" to remember my name So I remember all the people who ain't fucked with me",
+      "valence": 2.34,
+      "arousal": 3.59,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Went from \"Can you take me here?\" to skrrting out the lane Went from \"Damn this nigga lame\" to remember my name So I remember all the people who ain't fucked with me They went to college, now all them niggas is history",
+      "valence": 2.22,
+      "arousal": 3.59,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Went from \"Damn this nigga lame\" to remember my name So I remember all the people who ain't fucked with me They went to college, now all them niggas is history Upgraded from gold to diamonds in my teeth",
+      "valence": 2.37,
+      "arousal": 3.54,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "So I remember all the people who ain't fucked with me They went to college, now all them niggas is history Upgraded from gold to diamonds in my teeth Riding deep in the van, like we lookin' for a mystery (Raggy!)",
+      "valence": 2.64,
+      "arousal": 3.44,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "They went to college, now all them niggas is history Upgraded from gold to diamonds in my teeth Riding deep in the van, like we lookin' for a mystery (Raggy!) So don't fuck with me",
+      "valence": 2.54,
+      "arousal": 3.77,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Upgraded from gold to diamonds in my teeth Riding deep in the van, like we lookin' for a mystery (Raggy!) So don't fuck with me No, lately I been livin' like luxury",
+      "valence": 2.92,
+      "arousal": 3.51,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Riding deep in the van, like we lookin' for a mystery (Raggy!) So don't fuck with me No, lately I been livin' like luxury Boat and Kyle stick together like piano keys",
+      "valence": 2.69,
+      "arousal": 3.55,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "So don't fuck with me No, lately I been livin' like luxury Boat and Kyle stick together like piano keys And on my mother's mother I won't fuck a bitch without a damn rubber",
+      "valence": 2.19,
+      "arousal": 3.61,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "No, lately I been livin' like luxury Boat and Kyle stick together like piano keys And on my mother's mother I won't fuck a bitch without a damn rubber I spy with my little eye",
+      "valence": 2.39,
+      "arousal": 3.39,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Boat and Kyle stick together like piano keys And on my mother's mother I won't fuck a bitch without a damn rubber I spy with my little eye A girlie I can get 'cause she don't get too many likes",
+      "valence": 2.44,
+      "arousal": 3.44,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "And on my mother's mother I won't fuck a bitch without a damn rubber I spy with my little eye A girlie I can get 'cause she don't get too many likes A curly-headed cutie I can turn into my wife",
+      "valence": 2.34,
+      "arousal": 3.55,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "I spy with my little eye A girlie I can get 'cause she don't get too many likes A curly-headed cutie I can turn into my wife Wait, that means forever, ever, hold up, never mind",
+      "valence": 3.0,
+      "arousal": 3.41,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "A girlie I can get 'cause she don't get too many likes A curly-headed cutie I can turn into my wife Wait, that means forever, ever, hold up, never mind Oh, I... I spy with my little eye",
+      "valence": 2.94,
+      "arousal": 3.4,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "A curly-headed cutie I can turn into my wife Wait, that means forever, ever, hold up, never mind Oh, I... I spy with my little eye A girlie I can get 'cause she don't get too many likes",
+      "valence": 3.01,
+      "arousal": 3.35,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Wait, that means forever, ever, hold up, never mind Oh, I... I spy with my little eye A girlie I can get 'cause she don't get too many likes A curly-headed cutie I can turn into my wife",
+      "valence": 2.91,
+      "arousal": 3.48,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Oh, I... I spy with my little eye A girlie I can get 'cause she don't get too many likes A curly-headed cutie I can turn into my wife Wait, that means forever, ever, hold up, never mind",
+      "valence": 3.08,
+      "arousal": 3.35,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "A girlie I can get 'cause she don't get too many likes A curly-headed cutie I can turn into my wife Wait, that means forever, ever, hold up, never mind Oh I, I spy with my little eye",
+      "valence": 2.93,
+      "arousal": 3.39,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "A curly-headed cutie I can turn into my wife Wait, that means forever, ever, hold up, never mind Oh I, I spy with my little eye I spy, I spy with my little eye",
+      "valence": 2.95,
+      "arousal": 3.39,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Wait, that means forever, ever, hold up, never mind Oh I, I spy with my little eye I spy, I spy with my little eye Oh I, I spy with my little eye",
+      "valence": 2.83,
+      "arousal": 3.33,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "Oh I, I spy with my little eye I spy, I spy with my little eye Oh I, I spy with my little eye I spy, I spy with my little eye",
+      "valence": 3.06,
+      "arousal": 3.11,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "I spy, I spy with my little eye Oh I, I spy with my little eye I spy, I spy with my little eye Oh I...",
+      "valence": 2.97,
+      "arousal": 3.13,
+      "dominance": 3.15
+    }
+  ]
+}

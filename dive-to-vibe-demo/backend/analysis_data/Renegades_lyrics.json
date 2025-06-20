@@ -1,0 +1,269 @@
+{
+  "artist": "X Ambassadors",
+  "overall_vad": {
+    "valence": 3.14,
+    "arousal": 3.32,
+    "dominance": 3.3
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Run away-ay with me Lost souls in revelry Running wild and running free Two kids, you and me",
+      "valence": 3.34,
+      "arousal": 3.32,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Lost souls in revelry Running wild and running free Two kids, you and me And I say",
+      "valence": 3.37,
+      "arousal": 3.35,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Running wild and running free Two kids, you and me And I say Hey, hey-hey-hey",
+      "valence": 3.33,
+      "arousal": 3.36,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Two kids, you and me And I say Hey, hey-hey-hey Livin' like we're renegades",
+      "valence": 3.01,
+      "arousal": 3.32,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "And I say Hey, hey-hey-hey Livin' like we're renegades Hey-hey-hey",
+      "valence": 3.02,
+      "arousal": 3.28,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Hey, hey-hey-hey Livin' like we're renegades Hey-hey-hey Hey-hey-hey",
+      "valence": 3.11,
+      "arousal": 3.4,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Livin' like we're renegades Hey-hey-hey Hey-hey-hey Livin' like we're renegades",
+      "valence": 2.94,
+      "arousal": 3.19,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Hey-hey-hey Hey-hey-hey Livin' like we're renegades Renegades",
+      "valence": 3.02,
+      "arousal": 3.44,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Hey-hey-hey Livin' like we're renegades Renegades Renegades",
+      "valence": 3.02,
+      "arousal": 3.4,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Livin' like we're renegades Renegades Renegades Long live the pioneers",
+      "valence": 3.09,
+      "arousal": 3.23,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Renegades Renegades Long live the pioneers Rebels and mutineers",
+      "valence": 2.99,
+      "arousal": 3.09,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Renegades Long live the pioneers Rebels and mutineers Go forth and have no fear",
+      "valence": 3.08,
+      "arousal": 3.12,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Long live the pioneers Rebels and mutineers Go forth and have no fear Come close and lend an ear",
+      "valence": 3.1,
+      "arousal": 3.2,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Rebels and mutineers Go forth and have no fear Come close and lend an ear And I say",
+      "valence": 2.96,
+      "arousal": 3.3,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Go forth and have no fear Come close and lend an ear And I say Hey, hey-hey-hey",
+      "valence": 3.33,
+      "arousal": 3.32,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Come close and lend an ear And I say Hey, hey-hey-hey Livin' like we're renegades",
+      "valence": 3.06,
+      "arousal": 3.23,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "And I say Hey, hey-hey-hey Livin' like we're renegades Hey-hey-hey",
+      "valence": 3.02,
+      "arousal": 3.28,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Hey, hey-hey-hey Livin' like we're renegades Hey-hey-hey Hey-hey-hey",
+      "valence": 3.11,
+      "arousal": 3.4,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Livin' like we're renegades Hey-hey-hey Hey-hey-hey Livin' like we're renegades",
+      "valence": 2.94,
+      "arousal": 3.19,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Hey-hey-hey Hey-hey-hey Livin' like we're renegades Renegades",
+      "valence": 3.02,
+      "arousal": 3.44,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Hey-hey-hey Livin' like we're renegades Renegades Renegades",
+      "valence": 3.02,
+      "arousal": 3.4,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Livin' like we're renegades Renegades Renegades All hail the underdogs",
+      "valence": 3.28,
+      "arousal": 3.38,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Renegades Renegades All hail the underdogs All hail the new kids",
+      "valence": 3.6,
+      "arousal": 3.48,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Renegades All hail the underdogs All hail the new kids All hail the outlaws",
+      "valence": 3.33,
+      "arousal": 3.42,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "All hail the underdogs All hail the new kids All hail the outlaws Spielbergs and Kubricks",
+      "valence": 3.44,
+      "arousal": 3.45,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "All hail the new kids All hail the outlaws Spielbergs and Kubricks It's our time to make a move",
+      "valence": 3.38,
+      "arousal": 3.44,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "All hail the outlaws Spielbergs and Kubricks It's our time to make a move It's our time to make amends",
+      "valence": 3.17,
+      "arousal": 3.37,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Spielbergs and Kubricks It's our time to make a move It's our time to make amends It's our time to break the rules",
+      "valence": 3.22,
+      "arousal": 3.28,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "It's our time to make a move It's our time to make amends It's our time to break the rules Let's begin",
+      "valence": 3.24,
+      "arousal": 3.33,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "It's our time to make amends It's our time to break the rules Let's begin And I say",
+      "valence": 3.2,
+      "arousal": 3.29,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "It's our time to break the rules Let's begin And I say Hey, hey-hey-hey",
+      "valence": 3.29,
+      "arousal": 3.31,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Let's begin And I say Hey, hey-hey-hey Livin' like we're renegades",
+      "valence": 3.02,
+      "arousal": 3.28,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "And I say Hey, hey-hey-hey Livin' like we're renegades Hey-hey-hey",
+      "valence": 3.02,
+      "arousal": 3.28,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Hey, hey-hey-hey Livin' like we're renegades Hey-hey-hey Hey-hey-hey",
+      "valence": 3.11,
+      "arousal": 3.4,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Livin' like we're renegades Hey-hey-hey Hey-hey-hey Livin' like we're renegades",
+      "valence": 2.94,
+      "arousal": 3.19,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Hey-hey-hey Hey-hey-hey Livin' like we're renegades Renegades",
+      "valence": 3.02,
+      "arousal": 3.44,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Hey-hey-hey Livin' like we're renegades Renegades Renegades",
+      "valence": 3.02,
+      "arousal": 3.4,
+      "dominance": 3.25
+    }
+  ]
+}

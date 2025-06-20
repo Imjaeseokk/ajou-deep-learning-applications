@@ -1,0 +1,696 @@
+{
+  "artist": "Mark Ronson Featuring Bruno Mars",
+  "overall_vad": {
+    "valence": 3.06,
+    "arousal": 3.7,
+    "dominance": 3.5
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "This hit, that ice cold Michelle Pfeiffer, that white gold This one, for them hood girls Them good girls, straight masterpieces",
+      "valence": 3.55,
+      "arousal": 3.44,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Michelle Pfeiffer, that white gold This one, for them hood girls Them good girls, straight masterpieces Stylin', wilin'",
+      "valence": 3.51,
+      "arousal": 3.37,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "This one, for them hood girls Them good girls, straight masterpieces Stylin', wilin' Livin' it up in the city",
+      "valence": 3.54,
+      "arousal": 3.4,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Them good girls, straight masterpieces Stylin', wilin' Livin' it up in the city Got Chucks on with Saint Laurent",
+      "valence": 3.6,
+      "arousal": 3.36,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Stylin', wilin' Livin' it up in the city Got Chucks on with Saint Laurent Gotta kiss myself, I'm so pretty",
+      "valence": 3.99,
+      "arousal": 3.88,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Livin' it up in the city Got Chucks on with Saint Laurent Gotta kiss myself, I'm so pretty I'm too hot (hot damn), uh",
+      "valence": 3.58,
+      "arousal": 3.97,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Got Chucks on with Saint Laurent Gotta kiss myself, I'm so pretty I'm too hot (hot damn), uh Called a police and a fireman",
+      "valence": 3.56,
+      "arousal": 4.11,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Gotta kiss myself, I'm so pretty I'm too hot (hot damn), uh Called a police and a fireman I'm too hot (hot damn)",
+      "valence": 3.41,
+      "arousal": 4.22,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I'm too hot (hot damn), uh Called a police and a fireman I'm too hot (hot damn) Make a dragon wanna retire, man",
+      "valence": 2.44,
+      "arousal": 3.62,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Called a police and a fireman I'm too hot (hot damn) Make a dragon wanna retire, man I'm too hot (hot damn)",
+      "valence": 2.44,
+      "arousal": 3.73,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I'm too hot (hot damn) Make a dragon wanna retire, man I'm too hot (hot damn) Say my name, you know who I am",
+      "valence": 2.74,
+      "arousal": 3.71,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Make a dragon wanna retire, man I'm too hot (hot damn) Say my name, you know who I am I'm too hot (hot damn)",
+      "valence": 2.56,
+      "arousal": 3.77,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I'm too hot (hot damn) Say my name, you know who I am I'm too hot (hot damn) And my band 'bout that money, break it down",
+      "valence": 2.49,
+      "arousal": 3.8,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Say my name, you know who I am I'm too hot (hot damn) And my band 'bout that money, break it down Girls, hit your hallelujah (woo)",
+      "valence": 3.38,
+      "arousal": 4.17,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I'm too hot (hot damn) And my band 'bout that money, break it down Girls, hit your hallelujah (woo) Girls, hit your hallelujah (woo)",
+      "valence": 3.16,
+      "arousal": 4.11,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "And my band 'bout that money, break it down Girls, hit your hallelujah (woo) Girls, hit your hallelujah (woo) Girls, hit your hallelujah (woo)",
+      "valence": 3.45,
+      "arousal": 3.98,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Girls, hit your hallelujah (woo) Girls, hit your hallelujah (woo) Girls, hit your hallelujah (woo) 'Cause uptown funk gon' give it to you (woo)",
+      "valence": 3.41,
+      "arousal": 3.95,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Girls, hit your hallelujah (woo) Girls, hit your hallelujah (woo) 'Cause uptown funk gon' give it to you (woo) ('Cause uptown funk gon' give it to you)",
+      "valence": 3.44,
+      "arousal": 3.91,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Girls, hit your hallelujah (woo) 'Cause uptown funk gon' give it to you (woo) ('Cause uptown funk gon' give it to you) 'Cause uptown funk gon' give it to you",
+      "valence": 3.48,
+      "arousal": 3.85,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "'Cause uptown funk gon' give it to you (woo) ('Cause uptown funk gon' give it to you) 'Cause uptown funk gon' give it to you Saturday night, and we in the spot",
+      "valence": 3.11,
+      "arousal": 3.34,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "('Cause uptown funk gon' give it to you) 'Cause uptown funk gon' give it to you Saturday night, and we in the spot Don't believe me, just watch, come on!",
+      "valence": 3.04,
+      "arousal": 3.66,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "'Cause uptown funk gon' give it to you Saturday night, and we in the spot Don't believe me, just watch, come on! Ah!",
+      "valence": 3.06,
+      "arousal": 3.8,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Saturday night, and we in the spot Don't believe me, just watch, come on! Ah! Don't believe me, just watch, uh",
+      "valence": 3.0,
+      "arousal": 3.8,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Don't believe me, just watch, come on! Ah! Don't believe me, just watch, uh Ah!",
+      "valence": 3.04,
+      "arousal": 3.91,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Ah! Don't believe me, just watch, uh Ah! Don't believe me, just watch, uh",
+      "valence": 3.05,
+      "arousal": 3.67,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Don't believe me, just watch, uh Ah! Don't believe me, just watch, uh Don't believe me, just watch, uh",
+      "valence": 2.92,
+      "arousal": 3.72,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Ah! Don't believe me, just watch, uh Don't believe me, just watch, uh Don't believe me, just watch",
+      "valence": 2.98,
+      "arousal": 3.73,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Don't believe me, just watch, uh Don't believe me, just watch, uh Don't believe me, just watch Don't believe me, just watch",
+      "valence": 2.81,
+      "arousal": 3.64,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Don't believe me, just watch, uh Don't believe me, just watch Don't believe me, just watch Hey, hey, hey, oh!",
+      "valence": 2.86,
+      "arousal": 3.81,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Don't believe me, just watch Don't believe me, just watch Hey, hey, hey, oh! Stop, wait a minute",
+      "valence": 2.76,
+      "arousal": 3.74,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Don't believe me, just watch Hey, hey, hey, oh! Stop, wait a minute Fill my cup, put some liquor in it",
+      "valence": 2.8,
+      "arousal": 3.68,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Hey, hey, hey, oh! Stop, wait a minute Fill my cup, put some liquor in it Take a sip, sign a check",
+      "valence": 2.9,
+      "arousal": 3.71,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Stop, wait a minute Fill my cup, put some liquor in it Take a sip, sign a check Julio, get the stretch!",
+      "valence": 2.95,
+      "arousal": 3.75,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Fill my cup, put some liquor in it Take a sip, sign a check Julio, get the stretch! Ride to Harlem, Hollywood",
+      "valence": 3.28,
+      "arousal": 3.65,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Take a sip, sign a check Julio, get the stretch! Ride to Harlem, Hollywood Jackson, Mississippi",
+      "valence": 3.38,
+      "arousal": 3.72,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Julio, get the stretch! Ride to Harlem, Hollywood Jackson, Mississippi If we show up, we gon' show out",
+      "valence": 3.35,
+      "arousal": 3.79,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Ride to Harlem, Hollywood Jackson, Mississippi If we show up, we gon' show out Smoother than a fresh jar of Skippy (uh)",
+      "valence": 3.26,
+      "arousal": 3.36,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Jackson, Mississippi If we show up, we gon' show out Smoother than a fresh jar of Skippy (uh) I'm too hot (hot damn)",
+      "valence": 2.99,
+      "arousal": 3.89,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "If we show up, we gon' show out Smoother than a fresh jar of Skippy (uh) I'm too hot (hot damn) Called a police and a fireman",
+      "valence": 2.86,
+      "arousal": 3.84,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Smoother than a fresh jar of Skippy (uh) I'm too hot (hot damn) Called a police and a fireman I'm too hot (hot damn)",
+      "valence": 2.3,
+      "arousal": 3.78,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I'm too hot (hot damn) Called a police and a fireman I'm too hot (hot damn) Make a dragon wanna retire, man",
+      "valence": 2.38,
+      "arousal": 3.69,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Called a police and a fireman I'm too hot (hot damn) Make a dragon wanna retire, man I'm too hot (too hot, hot damn, hot damn)",
+      "valence": 2.41,
+      "arousal": 3.73,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I'm too hot (hot damn) Make a dragon wanna retire, man I'm too hot (too hot, hot damn, hot damn) Bitch, say my name, you know who I am",
+      "valence": 2.33,
+      "arousal": 3.91,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Make a dragon wanna retire, man I'm too hot (too hot, hot damn, hot damn) Bitch, say my name, you know who I am I'm too hot (hot damn)",
+      "valence": 2.22,
+      "arousal": 3.96,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I'm too hot (too hot, hot damn, hot damn) Bitch, say my name, you know who I am I'm too hot (hot damn) And my band 'bout that money, break it down",
+      "valence": 2.29,
+      "arousal": 4.03,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Bitch, say my name, you know who I am I'm too hot (hot damn) And my band 'bout that money, break it down Girls, hit your hallelujah (woo)",
+      "valence": 3.17,
+      "arousal": 4.21,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I'm too hot (hot damn) And my band 'bout that money, break it down Girls, hit your hallelujah (woo) Girls, hit your hallelujah (woo)",
+      "valence": 3.16,
+      "arousal": 4.11,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "And my band 'bout that money, break it down Girls, hit your hallelujah (woo) Girls, hit your hallelujah (woo) Girls, hit your hallelujah (woo)",
+      "valence": 3.45,
+      "arousal": 3.98,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Girls, hit your hallelujah (woo) Girls, hit your hallelujah (woo) Girls, hit your hallelujah (woo) 'Cause uptown funk gon' give it to you (woo)",
+      "valence": 3.41,
+      "arousal": 3.95,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Girls, hit your hallelujah (woo) Girls, hit your hallelujah (woo) 'Cause uptown funk gon' give it to you (woo) ('Cause uptown funk gon' give it to you)",
+      "valence": 3.44,
+      "arousal": 3.91,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Girls, hit your hallelujah (woo) 'Cause uptown funk gon' give it to you (woo) ('Cause uptown funk gon' give it to you) 'Cause uptown funk gon' give it to you",
+      "valence": 3.48,
+      "arousal": 3.85,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "'Cause uptown funk gon' give it to you (woo) ('Cause uptown funk gon' give it to you) 'Cause uptown funk gon' give it to you Saturday night, and we in the spot",
+      "valence": 3.11,
+      "arousal": 3.34,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "('Cause uptown funk gon' give it to you) 'Cause uptown funk gon' give it to you Saturday night, and we in the spot Don't believe me, just watch, come on!",
+      "valence": 3.04,
+      "arousal": 3.66,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "'Cause uptown funk gon' give it to you Saturday night, and we in the spot Don't believe me, just watch, come on! Ah!",
+      "valence": 3.06,
+      "arousal": 3.8,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Saturday night, and we in the spot Don't believe me, just watch, come on! Ah! Don't believe me, just watch, uh",
+      "valence": 3.0,
+      "arousal": 3.8,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Don't believe me, just watch, come on! Ah! Don't believe me, just watch, uh Ah!",
+      "valence": 3.04,
+      "arousal": 3.91,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Ah! Don't believe me, just watch, uh Ah! Don't believe me, just watch, uh",
+      "valence": 3.05,
+      "arousal": 3.67,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Don't believe me, just watch, uh Ah! Don't believe me, just watch, uh Don't believe me, just watch, uh",
+      "valence": 2.92,
+      "arousal": 3.72,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Ah! Don't believe me, just watch, uh Don't believe me, just watch, uh Don't believe me, just watch",
+      "valence": 2.98,
+      "arousal": 3.73,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Don't believe me, just watch, uh Don't believe me, just watch, uh Don't believe me, just watch Don't believe me, just watch",
+      "valence": 2.81,
+      "arousal": 3.64,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Don't believe me, just watch, uh Don't believe me, just watch Don't believe me, just watch Hey, hey, hey, oh!",
+      "valence": 2.86,
+      "arousal": 3.81,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Don't believe me, just watch Don't believe me, just watch Hey, hey, hey, oh! Before we leave",
+      "valence": 2.93,
+      "arousal": 3.51,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Don't believe me, just watch Hey, hey, hey, oh! Before we leave Lemme tell y'all a lil' something",
+      "valence": 3.04,
+      "arousal": 3.55,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Hey, hey, hey, oh! Before we leave Lemme tell y'all a lil' something Uptown funk you up, uptown funk you up",
+      "valence": 3.06,
+      "arousal": 3.68,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Before we leave Lemme tell y'all a lil' something Uptown funk you up, uptown funk you up Uptown funk you up, uptown funk you up, uh",
+      "valence": 3.02,
+      "arousal": 3.25,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Lemme tell y'all a lil' something Uptown funk you up, uptown funk you up Uptown funk you up, uptown funk you up, uh I said, uptown funk you up, uptown funk you up, uh",
+      "valence": 3.07,
+      "arousal": 3.29,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Uptown funk you up, uptown funk you up Uptown funk you up, uptown funk you up, uh I said, uptown funk you up, uptown funk you up, uh Uptown funk you up, uptown funk you up",
+      "valence": 3.16,
+      "arousal": 3.34,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Uptown funk you up, uptown funk you up, uh I said, uptown funk you up, uptown funk you up, uh Uptown funk you up, uptown funk you up Come on, dance, jump on it",
+      "valence": 3.37,
+      "arousal": 3.7,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "I said, uptown funk you up, uptown funk you up, uh Uptown funk you up, uptown funk you up Come on, dance, jump on it If you sexy, then flaunt it",
+      "valence": 3.46,
+      "arousal": 3.7,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Uptown funk you up, uptown funk you up Come on, dance, jump on it If you sexy, then flaunt it If you freaky, then own it",
+      "valence": 3.37,
+      "arousal": 3.62,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Come on, dance, jump on it If you sexy, then flaunt it If you freaky, then own it Don't brag about it, come show me",
+      "valence": 3.36,
+      "arousal": 3.62,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "If you sexy, then flaunt it If you freaky, then own it Don't brag about it, come show me Come on, dance, jump on it",
+      "valence": 3.25,
+      "arousal": 3.64,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "If you freaky, then own it Don't brag about it, come show me Come on, dance, jump on it If you sexy, then flaunt it",
+      "valence": 3.17,
+      "arousal": 3.59,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Don't brag about it, come show me Come on, dance, jump on it If you sexy, then flaunt it Well, it's Saturday night, and we in the spot",
+      "valence": 3.34,
+      "arousal": 3.51,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Come on, dance, jump on it If you sexy, then flaunt it Well, it's Saturday night, and we in the spot Don't believe me, just watch, come on!",
+      "valence": 3.58,
+      "arousal": 3.98,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "If you sexy, then flaunt it Well, it's Saturday night, and we in the spot Don't believe me, just watch, come on! Ah!",
+      "valence": 3.36,
+      "arousal": 3.83,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "Well, it's Saturday night, and we in the spot Don't believe me, just watch, come on! Ah! Don't believe me, just watch, uh",
+      "valence": 3.0,
+      "arousal": 3.69,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "Don't believe me, just watch, come on! Ah! Don't believe me, just watch, uh Ah!",
+      "valence": 3.04,
+      "arousal": 3.91,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "Ah! Don't believe me, just watch, uh Ah! Don't believe me, just watch, uh",
+      "valence": 3.05,
+      "arousal": 3.67,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "Don't believe me, just watch, uh Ah! Don't believe me, just watch, uh Don't believe me, just watch, uh",
+      "valence": 2.92,
+      "arousal": 3.72,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "Ah! Don't believe me, just watch, uh Don't believe me, just watch, uh Don't believe me, just watch",
+      "valence": 2.98,
+      "arousal": 3.73,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "Don't believe me, just watch, uh Don't believe me, just watch, uh Don't believe me, just watch Don't believe me, just watch",
+      "valence": 2.81,
+      "arousal": 3.64,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "Don't believe me, just watch, uh Don't believe me, just watch Don't believe me, just watch Hey, hey, hey, oh!",
+      "valence": 2.86,
+      "arousal": 3.81,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "Don't believe me, just watch Don't believe me, just watch Hey, hey, hey, oh! Uptown funk you up (woo, come on)",
+      "valence": 2.75,
+      "arousal": 3.64,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "Don't believe me, just watch Hey, hey, hey, oh! Uptown funk you up (woo, come on) Uptown funk you up (hey, say what?)",
+      "valence": 2.97,
+      "arousal": 3.61,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 86,
+      "lyrics_text": "Hey, hey, hey, oh! Uptown funk you up (woo, come on) Uptown funk you up (hey, say what?) Uptown funk you up (hey)",
+      "valence": 3.2,
+      "arousal": 3.68,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 87,
+      "lyrics_text": "Uptown funk you up (woo, come on) Uptown funk you up (hey, say what?) Uptown funk you up (hey) Uptown funk you up (come on)",
+      "valence": 2.97,
+      "arousal": 3.45,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 88,
+      "lyrics_text": "Uptown funk you up (hey, say what?) Uptown funk you up (hey) Uptown funk you up (come on) Uptown funk you up (woo, come on)",
+      "valence": 3.01,
+      "arousal": 3.44,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 89,
+      "lyrics_text": "Uptown funk you up (hey) Uptown funk you up (come on) Uptown funk you up (woo, come on) Uptown funk you up (hey, say what?)",
+      "valence": 2.94,
+      "arousal": 3.45,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 90,
+      "lyrics_text": "Uptown funk you up (come on) Uptown funk you up (woo, come on) Uptown funk you up (hey, say what?) Uptown funk you up (hey)",
+      "valence": 3.0,
+      "arousal": 3.45,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 91,
+      "lyrics_text": "Uptown funk you up (woo, come on) Uptown funk you up (hey, say what?) Uptown funk you up (hey) Uptown funk you up (come on)",
+      "valence": 2.97,
+      "arousal": 3.45,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 92,
+      "lyrics_text": "Uptown funk you up (hey, say what?) Uptown funk you up (hey) Uptown funk you up (come on) Uptown funk you up (woo, come on)",
+      "valence": 3.01,
+      "arousal": 3.44,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 93,
+      "lyrics_text": "Uptown funk you up (hey) Uptown funk you up (come on) Uptown funk you up (woo, come on) Uptown funk you up (hey, say what?)",
+      "valence": 2.94,
+      "arousal": 3.45,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 94,
+      "lyrics_text": "Uptown funk you up (come on) Uptown funk you up (woo, come on) Uptown funk you up (hey, say what?) Uptown funk you up (hey)",
+      "valence": 3.0,
+      "arousal": 3.45,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 95,
+      "lyrics_text": "Uptown funk you up (woo, come on) Uptown funk you up (hey, say what?) Uptown funk you up (hey) Uptown funk you up (come on)",
+      "valence": 2.97,
+      "arousal": 3.45,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 96,
+      "lyrics_text": "Uptown funk you up (hey, say what?) Uptown funk you up (hey) Uptown funk you up (come on) Uptown funk you up",
+      "valence": 3.0,
+      "arousal": 3.27,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 97,
+      "lyrics_text": "Uptown funk you up (hey) Uptown funk you up (come on) Uptown funk you up Uptown funk you up (say what?)",
+      "valence": 2.97,
+      "arousal": 3.42,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 98,
+      "lyrics_text": "Uptown funk you up (come on) Uptown funk you up Uptown funk you up (say what?) Uptown funk you up",
+      "valence": 3.04,
+      "arousal": 3.47,
+      "dominance": 3.5
+    }
+  ]
+}

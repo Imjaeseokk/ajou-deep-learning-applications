@@ -1,0 +1,311 @@
+{
+  "artist": "Chris Young Duet With Cassadee Pope",
+  "overall_vad": {
+    "valence": 2.73,
+    "arousal": 3.32,
+    "dominance": 2.94
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I walk in on Friday nights Same old bar, same burned out lights Same people and all the same faces So why in the hell does it feel like a different place?",
+      "valence": 2.72,
+      "arousal": 3.36,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Same old bar, same burned out lights Same people and all the same faces So why in the hell does it feel like a different place? Meet my friends for a girls' night out",
+      "valence": 2.99,
+      "arousal": 3.5,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Same people and all the same faces So why in the hell does it feel like a different place? Meet my friends for a girls' night out Seems there ain't much to talk about",
+      "valence": 2.91,
+      "arousal": 3.34,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "So why in the hell does it feel like a different place? Meet my friends for a girls' night out Seems there ain't much to talk about Same drinks that we're all raisin'",
+      "valence": 2.91,
+      "arousal": 3.33,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Meet my friends for a girls' night out Seems there ain't much to talk about Same drinks that we're all raisin' But all of the toasts just don't feel the same",
+      "valence": 2.82,
+      "arousal": 3.2,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Seems there ain't much to talk about Same drinks that we're all raisin' But all of the toasts just don't feel the same We used to be the life of the party",
+      "valence": 2.52,
+      "arousal": 3.19,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Same drinks that we're all raisin' But all of the toasts just don't feel the same We used to be the life of the party We used to be the ones that they wished they were",
+      "valence": 2.56,
+      "arousal": 3.34,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "But all of the toasts just don't feel the same We used to be the life of the party We used to be the ones that they wished they were But now it's like they don't know how to act",
+      "valence": 2.3,
+      "arousal": 3.44,
+      "dominance": 2.66
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "We used to be the life of the party We used to be the ones that they wished they were But now it's like they don't know how to act Maybe they're like me and they want us back",
+      "valence": 2.77,
+      "arousal": 3.48,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "We used to be the ones that they wished they were But now it's like they don't know how to act Maybe they're like me and they want us back It's like there's always an empty space",
+      "valence": 2.63,
+      "arousal": 3.37,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "But now it's like they don't know how to act Maybe they're like me and they want us back It's like there's always an empty space Those memories that nobody can erase",
+      "valence": 2.53,
+      "arousal": 3.36,
+      "dominance": 2.67
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Maybe they're like me and they want us back It's like there's always an empty space Those memories that nobody can erase Of how bright we burned",
+      "valence": 2.77,
+      "arousal": 3.28,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "It's like there's always an empty space Those memories that nobody can erase Of how bright we burned Well, now it hurts, but it's true",
+      "valence": 2.52,
+      "arousal": 3.27,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Those memories that nobody can erase Of how bright we burned Well, now it hurts, but it's true When they think of me, they think of you",
+      "valence": 2.76,
+      "arousal": 3.37,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Of how bright we burned Well, now it hurts, but it's true When they think of me, they think of you They keep askin' how I am",
+      "valence": 2.62,
+      "arousal": 3.3,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Well, now it hurts, but it's true When they think of me, they think of you They keep askin' how I am But they're really askin' where you've been",
+      "valence": 2.59,
+      "arousal": 3.35,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "When they think of me, they think of you They keep askin' how I am But they're really askin' where you've been I can read between all of the lines",
+      "valence": 3.03,
+      "arousal": 3.18,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "They keep askin' how I am But they're really askin' where you've been I can read between all of the lines It ain't just us missin' all of the times",
+      "valence": 2.88,
+      "arousal": 3.11,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "But they're really askin' where you've been I can read between all of the lines It ain't just us missin' all of the times We were the life of the party",
+      "valence": 3.09,
+      "arousal": 3.19,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I can read between all of the lines It ain't just us missin' all of the times We were the life of the party We used to be the ones that they wished they were",
+      "valence": 2.92,
+      "arousal": 3.14,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "It ain't just us missin' all of the times We were the life of the party We used to be the ones that they wished they were But now it's like they don't know how to act",
+      "valence": 2.44,
+      "arousal": 3.35,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "We were the life of the party We used to be the ones that they wished they were But now it's like they don't know how to act Maybe they're like me and they want us back",
+      "valence": 2.75,
+      "arousal": 3.46,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "We used to be the ones that they wished they were But now it's like they don't know how to act Maybe they're like me and they want us back It's like there's always an empty space",
+      "valence": 2.63,
+      "arousal": 3.37,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "But now it's like they don't know how to act Maybe they're like me and they want us back It's like there's always an empty space Those memories that nobody can erase",
+      "valence": 2.53,
+      "arousal": 3.36,
+      "dominance": 2.67
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Maybe they're like me and they want us back It's like there's always an empty space Those memories that nobody can erase Of how bright we burned",
+      "valence": 2.77,
+      "arousal": 3.28,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "It's like there's always an empty space Those memories that nobody can erase Of how bright we burned Well, now it hurts, but it's true",
+      "valence": 2.52,
+      "arousal": 3.27,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Those memories that nobody can erase Of how bright we burned Well, now it hurts, but it's true When they think of me, they think of you",
+      "valence": 2.76,
+      "arousal": 3.37,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Of how bright we burned Well, now it hurts, but it's true When they think of me, they think of you Ain't it funny how a flame like that",
+      "valence": 2.69,
+      "arousal": 3.27,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Well, now it hurts, but it's true When they think of me, they think of you Ain't it funny how a flame like that Oh whoa, when they think of you",
+      "valence": 2.57,
+      "arousal": 3.36,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "When they think of me, they think of you Ain't it funny how a flame like that Oh whoa, when they think of you It can burn when it's in the past",
+      "valence": 2.9,
+      "arousal": 3.13,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Ain't it funny how a flame like that Oh whoa, when they think of you It can burn when it's in the past We used to be the life of the party",
+      "valence": 2.96,
+      "arousal": 3.17,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Oh whoa, when they think of you It can burn when it's in the past We used to be the life of the party We used to be the ones that they wished they were",
+      "valence": 2.83,
+      "arousal": 3.23,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "It can burn when it's in the past We used to be the life of the party We used to be the ones that they wished they were But now it's like they don't know how to act",
+      "valence": 2.55,
+      "arousal": 3.36,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "We used to be the life of the party We used to be the ones that they wished they were But now it's like they don't know how to act Maybe they're like me and they want us back",
+      "valence": 2.77,
+      "arousal": 3.48,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "We used to be the ones that they wished they were But now it's like they don't know how to act Maybe they're like me and they want us back It's like there's always an empty space",
+      "valence": 2.63,
+      "arousal": 3.37,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "But now it's like they don't know how to act Maybe they're like me and they want us back It's like there's always an empty space Those memories that nobody can erase",
+      "valence": 2.53,
+      "arousal": 3.36,
+      "dominance": 2.67
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Maybe they're like me and they want us back It's like there's always an empty space Those memories that nobody can erase Of how bright we burned",
+      "valence": 2.77,
+      "arousal": 3.28,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "It's like there's always an empty space Those memories that nobody can erase Of how bright we burned Well, now it hurts, but it's true",
+      "valence": 2.52,
+      "arousal": 3.27,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Those memories that nobody can erase Of how bright we burned Well, now it hurts, but it's true When they think of me, they think of you",
+      "valence": 2.76,
+      "arousal": 3.37,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Of how bright we burned Well, now it hurts, but it's true When they think of me, they think of you Oh whoa, they think of you",
+      "valence": 2.59,
+      "arousal": 3.35,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Well, now it hurts, but it's true When they think of me, they think of you Oh whoa, they think of you When they think of me",
+      "valence": 2.55,
+      "arousal": 3.34,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "When they think of me, they think of you Oh whoa, they think of you When they think of me Baby, baby (oh)",
+      "valence": 3.31,
+      "arousal": 3.47,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Oh whoa, they think of you When they think of me Baby, baby (oh) Oh, when they think of me, they think of you",
+      "valence": 3.42,
+      "arousal": 3.61,
+      "dominance": 3.09
+    }
+  ]
+}

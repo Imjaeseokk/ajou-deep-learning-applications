@@ -1,0 +1,213 @@
+{
+  "artist": "Kane Brown",
+  "overall_vad": {
+    "valence": 3.24,
+    "arousal": 3.54,
+    "dominance": 3.06
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Mmm This is perfect Come kiss me one more time I couldn't dream this up",
+      "valence": 3.93,
+      "arousal": 3.97,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "This is perfect Come kiss me one more time I couldn't dream this up Even if I tried",
+      "valence": 3.61,
+      "arousal": 3.91,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Come kiss me one more time I couldn't dream this up Even if I tried You and me in this moment",
+      "valence": 3.1,
+      "arousal": 3.72,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I couldn't dream this up Even if I tried You and me in this moment Feels like magic only",
+      "valence": 2.9,
+      "arousal": 3.17,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Even if I tried You and me in this moment Feels like magic only I'm right where I wanna be",
+      "valence": 3.17,
+      "arousal": 3.31,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "You and me in this moment Feels like magic only I'm right where I wanna be Everybody's talkin' 'bout heaven like they just can't wait to go",
+      "valence": 3.52,
+      "arousal": 3.49,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Feels like magic only I'm right where I wanna be Everybody's talkin' 'bout heaven like they just can't wait to go Sayin' how it's gonna be so good, so beautiful",
+      "valence": 3.89,
+      "arousal": 3.7,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I'm right where I wanna be Everybody's talkin' 'bout heaven like they just can't wait to go Sayin' how it's gonna be so good, so beautiful Lyin' next to you, in this bed with you, I ain't convinced",
+      "valence": 3.76,
+      "arousal": 3.69,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Everybody's talkin' 'bout heaven like they just can't wait to go Sayin' how it's gonna be so good, so beautiful Lyin' next to you, in this bed with you, I ain't convinced 'Cause, I don't know how, I don't know how heaven, heaven",
+      "valence": 3.39,
+      "arousal": 3.56,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Sayin' how it's gonna be so good, so beautiful Lyin' next to you, in this bed with you, I ain't convinced 'Cause, I don't know how, I don't know how heaven, heaven Could be better than this",
+      "valence": 3.29,
+      "arousal": 3.49,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Lyin' next to you, in this bed with you, I ain't convinced 'Cause, I don't know how, I don't know how heaven, heaven Could be better than this I swear you're an angel",
+      "valence": 3.0,
+      "arousal": 3.46,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "'Cause, I don't know how, I don't know how heaven, heaven Could be better than this I swear you're an angel Sent to this world",
+      "valence": 2.91,
+      "arousal": 3.45,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Could be better than this I swear you're an angel Sent to this world What did I do right to deserve you, girl?",
+      "valence": 2.68,
+      "arousal": 3.56,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I swear you're an angel Sent to this world What did I do right to deserve you, girl? I could stay here forever",
+      "valence": 2.92,
+      "arousal": 3.67,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Sent to this world What did I do right to deserve you, girl? I could stay here forever I'd be fine if we never had to even leave this room",
+      "valence": 2.62,
+      "arousal": 3.54,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "What did I do right to deserve you, girl? I could stay here forever I'd be fine if we never had to even leave this room Everybody's talkin' 'bout heaven like they just can't wait to go",
+      "valence": 2.73,
+      "arousal": 3.56,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I could stay here forever I'd be fine if we never had to even leave this room Everybody's talkin' 'bout heaven like they just can't wait to go Sayin' how it's gonna be so good, so beautiful",
+      "valence": 3.49,
+      "arousal": 3.53,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I'd be fine if we never had to even leave this room Everybody's talkin' 'bout heaven like they just can't wait to go Sayin' how it's gonna be so good, so beautiful Lyin' next to you, in this bed with you, I ain't convinced",
+      "valence": 3.21,
+      "arousal": 3.42,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Everybody's talkin' 'bout heaven like they just can't wait to go Sayin' how it's gonna be so good, so beautiful Lyin' next to you, in this bed with you, I ain't convinced 'Cause, I don't know how, I don't know how heaven, heaven",
+      "valence": 3.39,
+      "arousal": 3.56,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Sayin' how it's gonna be so good, so beautiful Lyin' next to you, in this bed with you, I ain't convinced 'Cause, I don't know how, I don't know how heaven, heaven Could be better than this",
+      "valence": 3.29,
+      "arousal": 3.49,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Lyin' next to you, in this bed with you, I ain't convinced 'Cause, I don't know how, I don't know how heaven, heaven Could be better than this Could be better than this",
+      "valence": 2.87,
+      "arousal": 3.36,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "'Cause, I don't know how, I don't know how heaven, heaven Could be better than this Could be better than this Everybody's talkin' 'bout heaven like they just can't wait to go",
+      "valence": 2.96,
+      "arousal": 3.24,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Could be better than this Could be better than this Everybody's talkin' 'bout heaven like they just can't wait to go Sayin' how it's gonna be so good, so beautiful",
+      "valence": 3.4,
+      "arousal": 3.43,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Could be better than this Everybody's talkin' 'bout heaven like they just can't wait to go Sayin' how it's gonna be so good, so beautiful Lyin' next to you, in this bed with you, I ain't convinced",
+      "valence": 3.35,
+      "arousal": 3.52,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Everybody's talkin' 'bout heaven like they just can't wait to go Sayin' how it's gonna be so good, so beautiful Lyin' next to you, in this bed with you, I ain't convinced 'Cause, I don't know how, I don't know how heaven, heaven",
+      "valence": 3.39,
+      "arousal": 3.56,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Sayin' how it's gonna be so good, so beautiful Lyin' next to you, in this bed with you, I ain't convinced 'Cause, I don't know how, I don't know how heaven, heaven Could be better than this (heaven)",
+      "valence": 3.3,
+      "arousal": 3.49,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Lyin' next to you, in this bed with you, I ain't convinced 'Cause, I don't know how, I don't know how heaven, heaven Could be better than this (heaven) Could be better than this (heaven, heaven)",
+      "valence": 2.95,
+      "arousal": 3.37,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "'Cause, I don't know how, I don't know how heaven, heaven Could be better than this (heaven) Could be better than this (heaven, heaven) I swear this is perfect",
+      "valence": 3.39,
+      "arousal": 3.52,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Could be better than this (heaven) Could be better than this (heaven, heaven) I swear this is perfect Come kiss me one more time",
+      "valence": 3.66,
+      "arousal": 3.97,
+      "dominance": 3.33
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "artist": "Miguel",
+  "overall_vad": {
+    "valence": 2.98,
+    "arousal": 3.47,
+    "dominance": 3.35
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Frustration, watching you dance Invitation, to get in them pants Come closer baby, so I can touch One question, am I movin' too fast?",
+      "valence": 2.63,
+      "arousal": 3.55,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Invitation, to get in them pants Come closer baby, so I can touch One question, am I movin' too fast? Cause I ain't leavin' alone, I feel like I could be honest, babe",
+      "valence": 3.03,
+      "arousal": 3.35,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Come closer baby, so I can touch One question, am I movin' too fast? Cause I ain't leavin' alone, I feel like I could be honest, babe We both know that we're grown",
+      "valence": 3.03,
+      "arousal": 3.41,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "One question, am I movin' too fast? Cause I ain't leavin' alone, I feel like I could be honest, babe We both know that we're grown That's why I wanna know",
+      "valence": 2.83,
+      "arousal": 3.33,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Cause I ain't leavin' alone, I feel like I could be honest, babe We both know that we're grown That's why I wanna know How many drinks would it take you to leave with me?",
+      "valence": 2.95,
+      "arousal": 3.23,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "We both know that we're grown That's why I wanna know How many drinks would it take you to leave with me? Yeah, you look good and I got money",
+      "valence": 3.22,
+      "arousal": 3.37,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "That's why I wanna know How many drinks would it take you to leave with me? Yeah, you look good and I got money But I don't wanna waste my time",
+      "valence": 3.1,
+      "arousal": 3.33,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "How many drinks would it take you to leave with me? Yeah, you look good and I got money But I don't wanna waste my time Back of my mind, I'm hopin' you say two or three",
+      "valence": 3.17,
+      "arousal": 3.34,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Yeah, you look good and I got money But I don't wanna waste my time Back of my mind, I'm hopin' you say two or three You look good, we came to party",
+      "valence": 3.39,
+      "arousal": 3.46,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "But I don't wanna waste my time Back of my mind, I'm hopin' you say two or three You look good, we came to party But I don't wanna waste my time",
+      "valence": 3.02,
+      "arousal": 3.34,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Back of my mind, I'm hopin' you say two or three You look good, we came to party But I don't wanna waste my time Temptation, is calling your name",
+      "valence": 2.9,
+      "arousal": 3.53,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "You look good, we came to party But I don't wanna waste my time Temptation, is calling your name Sweet persuasion, oh, baby this is a game",
+      "valence": 3.05,
+      "arousal": 3.74,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "But I don't wanna waste my time Temptation, is calling your name Sweet persuasion, oh, baby this is a game Come closer, baby, if you like what you hear",
+      "valence": 3.01,
+      "arousal": 3.7,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Temptation, is calling your name Sweet persuasion, oh, baby this is a game Come closer, baby, if you like what you hear Impassioned, is what I'm makin' you feel",
+      "valence": 3.41,
+      "arousal": 3.77,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Sweet persuasion, oh, baby this is a game Come closer, baby, if you like what you hear Impassioned, is what I'm makin' you feel 'Cause I ain't leavin' alone, I feel like I could be honest, babe",
+      "valence": 3.49,
+      "arousal": 3.65,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Come closer, baby, if you like what you hear Impassioned, is what I'm makin' you feel 'Cause I ain't leavin' alone, I feel like I could be honest, babe We both know that we're grown",
+      "valence": 3.25,
+      "arousal": 3.39,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Impassioned, is what I'm makin' you feel 'Cause I ain't leavin' alone, I feel like I could be honest, babe We both know that we're grown That's why I wanna know",
+      "valence": 3.12,
+      "arousal": 3.68,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "'Cause I ain't leavin' alone, I feel like I could be honest, babe We both know that we're grown That's why I wanna know How many drinks would it take you to leave with me?",
+      "valence": 2.95,
+      "arousal": 3.25,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "We both know that we're grown That's why I wanna know How many drinks would it take you to leave with me? Yeah, you look good and I got money",
+      "valence": 3.22,
+      "arousal": 3.37,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "That's why I wanna know How many drinks would it take you to leave with me? Yeah, you look good and I got money But I don't wanna waste my time",
+      "valence": 3.1,
+      "arousal": 3.33,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "How many drinks would it take you to leave with me? Yeah, you look good and I got money But I don't wanna waste my time Back of my mind I'm hopin' you say two or three",
+      "valence": 3.17,
+      "arousal": 3.35,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Yeah, you look good and I got money But I don't wanna waste my time Back of my mind I'm hopin' you say two or three You look good, we came to party",
+      "valence": 3.36,
+      "arousal": 3.47,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "But I don't wanna waste my time Back of my mind I'm hopin' you say two or three You look good, we came to party But I don't wanna waste my time (Waste my time)",
+      "valence": 2.83,
+      "arousal": 3.41,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Back of my mind I'm hopin' you say two or three You look good, we came to party But I don't wanna waste my time (Waste my time) Aha, and what do we have",
+      "valence": 2.97,
+      "arousal": 3.48,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "You look good, we came to party But I don't wanna waste my time (Waste my time) Aha, and what do we have Your empty heart and my empty bottle and yellow cab",
+      "valence": 2.81,
+      "arousal": 3.57,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "But I don't wanna waste my time (Waste my time) Aha, and what do we have Your empty heart and my empty bottle and yellow cab That you are likely to catch 'cause your latest ex made you mad",
+      "valence": 2.4,
+      "arousal": 3.54,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Aha, and what do we have Your empty heart and my empty bottle and yellow cab That you are likely to catch 'cause your latest ex made you mad So I figured the perfect catch would be you if I made the pass",
+      "valence": 2.92,
+      "arousal": 3.43,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Your empty heart and my empty bottle and yellow cab That you are likely to catch 'cause your latest ex made you mad So I figured the perfect catch would be you if I made the pass Pool full of liquor then we dive, in it",
+      "valence": 2.88,
+      "arousal": 3.4,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "That you are likely to catch 'cause your latest ex made you mad So I figured the perfect catch would be you if I made the pass Pool full of liquor then we dive, in it Knowing if I lick her I might die, in it",
+      "valence": 2.78,
+      "arousal": 3.47,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "So I figured the perfect catch would be you if I made the pass Pool full of liquor then we dive, in it Knowing if I lick her I might die, in it Then reincarnate as a fly, gymnast",
+      "valence": 2.87,
+      "arousal": 3.41,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Pool full of liquor then we dive, in it Knowing if I lick her I might die, in it Then reincarnate as a fly, gymnast Just to flip my tongue on you",
+      "valence": 2.55,
+      "arousal": 3.59,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Knowing if I lick her I might die, in it Then reincarnate as a fly, gymnast Just to flip my tongue on you This the Olympics",
+      "valence": 2.44,
+      "arousal": 3.63,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Then reincarnate as a fly, gymnast Just to flip my tongue on you This the Olympics State your name, live in the moment",
+      "valence": 2.64,
+      "arousal": 3.72,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Just to flip my tongue on you This the Olympics State your name, live in the moment It's your time to own it, I see it in you baby",
+      "valence": 2.86,
+      "arousal": 3.97,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "This the Olympics State your name, live in the moment It's your time to own it, I see it in you baby She tell me that she never get a first let away",
+      "valence": 3.38,
+      "arousal": 3.64,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "State your name, live in the moment It's your time to own it, I see it in you baby She tell me that she never get a first let away And life is a bitch, but every dog has its day",
+      "valence": 3.29,
+      "arousal": 3.65,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "It's your time to own it, I see it in you baby She tell me that she never get a first let away And life is a bitch, but every dog has its day Holla pull up, pull up, bring it back, come rewind",
+      "valence": 3.18,
+      "arousal": 3.52,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "She tell me that she never get a first let away And life is a bitch, but every dog has its day Holla pull up, pull up, bring it back, come rewind Pull up them big trucks, that pack come behind",
+      "valence": 2.74,
+      "arousal": 3.12,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "And life is a bitch, but every dog has its day Holla pull up, pull up, bring it back, come rewind Pull up them big trucks, that pack come behind Pool full of liquor then we dive, in it",
+      "valence": 2.89,
+      "arousal": 3.27,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Holla pull up, pull up, bring it back, come rewind Pull up them big trucks, that pack come behind Pool full of liquor then we dive, in it Pull 'em to the side, let me slide up in it",
+      "valence": 3.09,
+      "arousal": 3.36,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Pull up them big trucks, that pack come behind Pool full of liquor then we dive, in it Pull 'em to the side, let me slide up in it Or waste your time, or waste your time",
+      "valence": 2.82,
+      "arousal": 3.34,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Pool full of liquor then we dive, in it Pull 'em to the side, let me slide up in it Or waste your time, or waste your time Or waste our time, baby it's alright",
+      "valence": 2.89,
+      "arousal": 3.33,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Pull 'em to the side, let me slide up in it Or waste your time, or waste your time Or waste our time, baby it's alright Baby, it's alright, baby, it's alright, yeah",
+      "valence": 2.94,
+      "arousal": 3.45,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Or waste your time, or waste your time Or waste our time, baby it's alright Baby, it's alright, baby, it's alright, yeah Oh, it's alright now",
+      "valence": 2.9,
+      "arousal": 3.4,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Or waste our time, baby it's alright Baby, it's alright, baby, it's alright, yeah Oh, it's alright now Alright, oh yeah",
+      "valence": 3.18,
+      "arousal": 3.22,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Baby, it's alright, baby, it's alright, yeah Oh, it's alright now Alright, oh yeah I don't wanna waste my time, no",
+      "valence": 2.95,
+      "arousal": 3.1,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Oh, it's alright now Alright, oh yeah I don't wanna waste my time, no I don't wanna waste my time, oh no",
+      "valence": 2.74,
+      "arousal": 3.4,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Alright, oh yeah I don't wanna waste my time, no I don't wanna waste my time, oh no I don't wanna waste your time, baby",
+      "valence": 3.0,
+      "arousal": 3.46,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I don't wanna waste my time, no I don't wanna waste my time, oh no I don't wanna waste your time, baby I don't wanna waste our time, oh my time, oh whoa",
+      "valence": 2.74,
+      "arousal": 3.54,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I don't wanna waste my time, oh no I don't wanna waste your time, baby I don't wanna waste our time, oh my time, oh whoa How many drinks would it take you to leave with me? (Oh, yeah)",
+      "valence": 2.77,
+      "arousal": 3.52,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I don't wanna waste your time, baby I don't wanna waste our time, oh my time, oh whoa How many drinks would it take you to leave with me? (Oh, yeah) Yeah, you look good, and I got money",
+      "valence": 3.05,
+      "arousal": 3.64,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "I don't wanna waste our time, oh my time, oh whoa How many drinks would it take you to leave with me? (Oh, yeah) Yeah, you look good, and I got money But I don't wanna waste my time (Come with me baby)",
+      "valence": 3.12,
+      "arousal": 3.58,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "How many drinks would it take you to leave with me? (Oh, yeah) Yeah, you look good, and I got money But I don't wanna waste my time (Come with me baby) Back of my mind, I'm hoping you say two or three",
+      "valence": 3.39,
+      "arousal": 3.56,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Yeah, you look good, and I got money But I don't wanna waste my time (Come with me baby) Back of my mind, I'm hoping you say two or three (Yeah, it's just a short drive home from here)",
+      "valence": 3.39,
+      "arousal": 3.57,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "But I don't wanna waste my time (Come with me baby) Back of my mind, I'm hoping you say two or three (Yeah, it's just a short drive home from here) You look good, we came to party",
+      "valence": 3.36,
+      "arousal": 3.61,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Back of my mind, I'm hoping you say two or three (Yeah, it's just a short drive home from here) You look good, we came to party But I don't wanna waste my time",
+      "valence": 3.24,
+      "arousal": 3.47,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "(Yeah, it's just a short drive home from here) You look good, we came to party But I don't wanna waste my time No no no, I ain't judgin' if you do decide that you might be f-- tonight",
+      "valence": 2.74,
+      "arousal": 3.68,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "You look good, we came to party But I don't wanna waste my time No no no, I ain't judgin' if you do decide that you might be f-- tonight What? More power to you if you do decide that you might be f-- tonight",
+      "valence": 2.74,
+      "arousal": 3.6,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "But I don't wanna waste my time No no no, I ain't judgin' if you do decide that you might be f-- tonight What? More power to you if you do decide that you might be f-- tonight I ain't judgin' if you do decide that you might be f-- tonight",
+      "valence": 2.37,
+      "arousal": 3.45,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "No no no, I ain't judgin' if you do decide that you might be f-- tonight What? More power to you if you do decide that you might be f-- tonight I ain't judgin' if you do decide that you might be f-- tonight What? More power to you if you do decide that you might be f-- tonight",
+      "valence": 2.53,
+      "arousal": 3.46,
+      "dominance": 3.52
+    }
+  ]
+}

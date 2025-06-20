@@ -1,0 +1,500 @@
+{
+  "artist": "Chris Brown",
+  "overall_vad": {
+    "valence": 3.35,
+    "arousal": 3.74,
+    "dominance": 3.45
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Turn up the music 'cause this song just came on Turn up the music if they try to turn us down Turn up the music, can I hear it 'til the speakers blow? Turn up the music, fill your cup and drink it down",
+      "valence": 2.94,
+      "arousal": 3.39,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Turn up the music if they try to turn us down Turn up the music, can I hear it 'til the speakers blow? Turn up the music, fill your cup and drink it down If you sexy and you know it, put your hands up in the air",
+      "valence": 2.97,
+      "arousal": 3.58,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Turn up the music, can I hear it 'til the speakers blow? Turn up the music, fill your cup and drink it down If you sexy and you know it, put your hands up in the air Put your hands up in the air",
+      "valence": 3.16,
+      "arousal": 3.57,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Turn up the music, fill your cup and drink it down If you sexy and you know it, put your hands up in the air Put your hands up in the air Girl, put your hands up (Hands up, hands up, hands up)",
+      "valence": 3.29,
+      "arousal": 3.58,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "If you sexy and you know it, put your hands up in the air Put your hands up in the air Girl, put your hands up (Hands up, hands up, hands up) If you sexy and you know it, put your hands up in the air",
+      "valence": 3.26,
+      "arousal": 3.53,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Put your hands up in the air Girl, put your hands up (Hands up, hands up, hands up) If you sexy and you know it, put your hands up in the air Put your hands up in the air, girl, put your hands up",
+      "valence": 3.18,
+      "arousal": 3.54,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Girl, put your hands up (Hands up, hands up, hands up) If you sexy and you know it, put your hands up in the air Put your hands up in the air, girl, put your hands up And turn up the music, just turn it up louder",
+      "valence": 3.28,
+      "arousal": 3.62,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "If you sexy and you know it, put your hands up in the air Put your hands up in the air, girl, put your hands up And turn up the music, just turn it up louder Turn up the music, I need it in my life, yeah",
+      "valence": 3.44,
+      "arousal": 3.88,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Put your hands up in the air, girl, put your hands up And turn up the music, just turn it up louder Turn up the music, I need it in my life, yeah Turn up the music, just turn it up louder",
+      "valence": 3.29,
+      "arousal": 3.73,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "And turn up the music, just turn it up louder Turn up the music, I need it in my life, yeah Turn up the music, just turn it up louder Turn up the music, I need it in my life, yeah",
+      "valence": 3.54,
+      "arousal": 3.76,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Turn up the music, I need it in my life, yeah Turn up the music, just turn it up louder Turn up the music, I need it in my life, yeah Whoa-oh-oh-oh-oh-whoa-oh",
+      "valence": 3.42,
+      "arousal": 3.85,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Turn up the music, just turn it up louder Turn up the music, I need it in my life, yeah Whoa-oh-oh-oh-oh-whoa-oh Whoa-oh-oh-oh-oh-whoa-oh",
+      "valence": 3.32,
+      "arousal": 3.92,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Turn up the music, I need it in my life, yeah Whoa-oh-oh-oh-oh-whoa-oh Whoa-oh-oh-oh-oh-whoa-oh Turn up the music",
+      "valence": 3.38,
+      "arousal": 3.93,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Whoa-oh-oh-oh-oh-whoa-oh Whoa-oh-oh-oh-oh-whoa-oh Turn up the music Whoa-oh-oh-oh-oh-whoa-oh",
+      "valence": 3.33,
+      "arousal": 3.82,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Whoa-oh-oh-oh-oh-whoa-oh Turn up the music Whoa-oh-oh-oh-oh-whoa-oh Whoa-oh-oh-oh-oh-whoa-oh",
+      "valence": 3.31,
+      "arousal": 3.81,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Turn up the music Whoa-oh-oh-oh-oh-whoa-oh Whoa-oh-oh-oh-oh-whoa-oh Turn up the music",
+      "valence": 3.27,
+      "arousal": 3.79,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Whoa-oh-oh-oh-oh-whoa-oh Whoa-oh-oh-oh-oh-whoa-oh Turn up the music T-T-Turn up the music",
+      "valence": 3.28,
+      "arousal": 3.87,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Whoa-oh-oh-oh-oh-whoa-oh Turn up the music T-T-Turn up the music T-Turn up the",
+      "valence": 3.29,
+      "arousal": 3.83,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Turn up the music T-T-Turn up the music T-Turn up the Turn up the music 'cause the sun just came up",
+      "valence": 3.31,
+      "arousal": 3.42,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "T-T-Turn up the music T-Turn up the Turn up the music 'cause the sun just came up Turn up the music if they try to turn us down",
+      "valence": 2.97,
+      "arousal": 3.4,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "T-Turn up the Turn up the music 'cause the sun just came up Turn up the music if they try to turn us down Turn up the music 'cause I'm tryna hear the speakers blow",
+      "valence": 2.96,
+      "arousal": 3.33,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Turn up the music 'cause the sun just came up Turn up the music if they try to turn us down Turn up the music 'cause I'm tryna hear the speakers blow Turn up the music, fill your cup and drink it down",
+      "valence": 3.04,
+      "arousal": 3.3,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Turn up the music if they try to turn us down Turn up the music 'cause I'm tryna hear the speakers blow Turn up the music, fill your cup and drink it down If you sexy and you know it, put your hands up in the air (Hey, oh)",
+      "valence": 3.06,
+      "arousal": 3.53,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Turn up the music 'cause I'm tryna hear the speakers blow Turn up the music, fill your cup and drink it down If you sexy and you know it, put your hands up in the air (Hey, oh) Put your hands up in the air",
+      "valence": 3.2,
+      "arousal": 3.52,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Turn up the music, fill your cup and drink it down If you sexy and you know it, put your hands up in the air (Hey, oh) Put your hands up in the air Girl, put your hands up (Hands up, hands up, hands up)",
+      "valence": 3.31,
+      "arousal": 3.58,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "If you sexy and you know it, put your hands up in the air (Hey, oh) Put your hands up in the air Girl, put your hands up (Hands up, hands up, hands up) If you sexy and you know it, put your hands up in the air (Up in the air)",
+      "valence": 3.23,
+      "arousal": 3.53,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Put your hands up in the air Girl, put your hands up (Hands up, hands up, hands up) If you sexy and you know it, put your hands up in the air (Up in the air) Put your hands up in the air, girl, put your hands up",
+      "valence": 3.18,
+      "arousal": 3.54,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Girl, put your hands up (Hands up, hands up, hands up) If you sexy and you know it, put your hands up in the air (Up in the air) Put your hands up in the air, girl, put your hands up And turn up the music, just turn it up louder",
+      "valence": 3.3,
+      "arousal": 3.63,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "If you sexy and you know it, put your hands up in the air (Up in the air) Put your hands up in the air, girl, put your hands up And turn up the music, just turn it up louder Turn up the music, I need it in my life, yeah (I need)",
+      "valence": 3.37,
+      "arousal": 3.79,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Put your hands up in the air, girl, put your hands up And turn up the music, just turn it up louder Turn up the music, I need it in my life, yeah (I need) Turn up the music, just turn it up louder",
+      "valence": 3.3,
+      "arousal": 3.7,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "And turn up the music, just turn it up louder Turn up the music, I need it in my life, yeah (I need) Turn up the music, just turn it up louder Turn up the music, I need it in my life, yeah",
+      "valence": 3.44,
+      "arousal": 3.73,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Turn up the music, I need it in my life, yeah (I need) Turn up the music, just turn it up louder Turn up the music, I need it in my life, yeah Whoa-oh-oh-oh-oh-whoa-oh (Oh)",
+      "valence": 3.39,
+      "arousal": 3.82,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Turn up the music, just turn it up louder Turn up the music, I need it in my life, yeah Whoa-oh-oh-oh-oh-whoa-oh (Oh) Whoa-oh-oh-oh-oh-whoa-oh (Yeah)",
+      "valence": 3.34,
+      "arousal": 3.84,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Turn up the music, I need it in my life, yeah Whoa-oh-oh-oh-oh-whoa-oh (Oh) Whoa-oh-oh-oh-oh-whoa-oh (Yeah) Turn up the music",
+      "valence": 3.41,
+      "arousal": 3.86,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Whoa-oh-oh-oh-oh-whoa-oh (Oh) Whoa-oh-oh-oh-oh-whoa-oh (Yeah) Turn up the music Whoa-oh-oh-oh-oh-whoa-oh (Oh)",
+      "valence": 3.37,
+      "arousal": 3.69,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Whoa-oh-oh-oh-oh-whoa-oh (Yeah) Turn up the music Whoa-oh-oh-oh-oh-whoa-oh (Oh) Whoa-oh-oh-oh-oh-whoa-oh",
+      "valence": 3.34,
+      "arousal": 3.73,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Turn up the music Whoa-oh-oh-oh-oh-whoa-oh (Oh) Whoa-oh-oh-oh-oh-whoa-oh Save my life, just dance with me (Oh)",
+      "valence": 3.49,
+      "arousal": 3.95,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Whoa-oh-oh-oh-oh-whoa-oh (Oh) Whoa-oh-oh-oh-oh-whoa-oh Save my life, just dance with me (Oh) All I wanna do is party, so DJ, turn it up (Yeah)",
+      "valence": 3.54,
+      "arousal": 4.06,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Whoa-oh-oh-oh-oh-whoa-oh Save my life, just dance with me (Oh) All I wanna do is party, so DJ, turn it up (Yeah) Girl, dance with me, just dance with me (Yeah)",
+      "valence": 3.52,
+      "arousal": 4.04,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Save my life, just dance with me (Oh) All I wanna do is party, so DJ, turn it up (Yeah) Girl, dance with me, just dance with me (Yeah) Girl, can I see that? (Oh)",
+      "valence": 3.44,
+      "arousal": 3.79,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "All I wanna do is party, so DJ, turn it up (Yeah) Girl, dance with me, just dance with me (Yeah) Girl, can I see that? (Oh) I really wanna touch that (Yeah)",
+      "valence": 3.39,
+      "arousal": 3.63,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Girl, dance with me, just dance with me (Yeah) Girl, can I see that? (Oh) I really wanna touch that (Yeah) Baby, can I beat that?",
+      "valence": 3.42,
+      "arousal": 3.8,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Girl, can I see that? (Oh) I really wanna touch that (Yeah) Baby, can I beat that? Don't stop the",
+      "valence": 3.11,
+      "arousal": 3.78,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I really wanna touch that (Yeah) Baby, can I beat that? Don't stop the Turn it up, just dance with me",
+      "valence": 3.25,
+      "arousal": 3.85,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Baby, can I beat that? Don't stop the Turn it up, just dance with me Turn it up, just dance with me",
+      "valence": 3.19,
+      "arousal": 3.71,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Don't stop the Turn it up, just dance with me Turn it up, just dance with me Turn it up, just dance with me (Dance)",
+      "valence": 3.41,
+      "arousal": 3.7,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Turn it up, just dance with me Turn it up, just dance with me Turn it up, just dance with me (Dance) Turn it up, just dance with me",
+      "valence": 3.56,
+      "arousal": 3.71,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Turn it up, just dance with me Turn it up, just dance with me (Dance) Turn it up, just dance with me Turn it up, just dance with me (Yeah)",
+      "valence": 3.54,
+      "arousal": 3.69,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Turn it up, just dance with me (Dance) Turn it up, just dance with me Turn it up, just dance with me (Yeah) Turn it up, just dance with me (Turn it up)",
+      "valence": 3.51,
+      "arousal": 3.69,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Turn it up, just dance with me Turn it up, just dance with me (Yeah) Turn it up, just dance with me (Turn it up) Turn it up, just dance with me",
+      "valence": 3.51,
+      "arousal": 3.68,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Turn it up, just dance with me (Yeah) Turn it up, just dance with me (Turn it up) Turn it up, just dance with me Turn it up",
+      "valence": 3.47,
+      "arousal": 3.63,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Turn it up, just dance with me (Turn it up) Turn it up, just dance with me Turn it up And turn up the music, just turn it up louder (Yeah, yeah)",
+      "valence": 3.48,
+      "arousal": 3.63,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Turn it up, just dance with me Turn it up And turn up the music, just turn it up louder (Yeah, yeah) Turn up the music, I need it in my life, yeah (Woo)",
+      "valence": 3.57,
+      "arousal": 3.76,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Turn it up And turn up the music, just turn it up louder (Yeah, yeah) Turn up the music, I need it in my life, yeah (Woo) Turn up the music, just turn it up louder (Up louder)",
+      "valence": 3.34,
+      "arousal": 3.64,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "And turn up the music, just turn it up louder (Yeah, yeah) Turn up the music, I need it in my life, yeah (Woo) Turn up the music, just turn it up louder (Up louder) Turn up the music, I need it in my life, yeah (Leggo)",
+      "valence": 3.4,
+      "arousal": 3.67,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Turn up the music, I need it in my life, yeah (Woo) Turn up the music, just turn it up louder (Up louder) Turn up the music, I need it in my life, yeah (Leggo) Whoa-oh-oh-oh-oh-whoa-oh (Oh!)",
+      "valence": 3.44,
+      "arousal": 3.87,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Turn up the music, just turn it up louder (Up louder) Turn up the music, I need it in my life, yeah (Leggo) Whoa-oh-oh-oh-oh-whoa-oh (Oh!) Whoa-oh-oh-oh-oh-whoa-oh",
+      "valence": 3.29,
+      "arousal": 3.8,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Turn up the music, I need it in my life, yeah (Leggo) Whoa-oh-oh-oh-oh-whoa-oh (Oh!) Whoa-oh-oh-oh-oh-whoa-oh Can you turn it up, baby? (Yeah!)",
+      "valence": 3.49,
+      "arousal": 4.05,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Whoa-oh-oh-oh-oh-whoa-oh (Oh!) Whoa-oh-oh-oh-oh-whoa-oh Can you turn it up, baby? (Yeah!) Whoa-oh-oh-oh-oh-whoa-oh (Yeah! Oh-whoa)",
+      "valence": 3.54,
+      "arousal": 4.03,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Whoa-oh-oh-oh-oh-whoa-oh Can you turn it up, baby? (Yeah!) Whoa-oh-oh-oh-oh-whoa-oh (Yeah! Oh-whoa) Whoa-oh-oh-oh-oh-whoa-oh",
+      "valence": 3.51,
+      "arousal": 4.03,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Can you turn it up, baby? (Yeah!) Whoa-oh-oh-oh-oh-whoa-oh (Yeah! Oh-whoa) Whoa-oh-oh-oh-oh-whoa-oh Can you turn it up, baby?",
+      "valence": 3.47,
+      "arousal": 4.02,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Whoa-oh-oh-oh-oh-whoa-oh (Yeah! Oh-whoa) Whoa-oh-oh-oh-oh-whoa-oh Can you turn it up, baby? Turn it up, just dance with me (Hahaha)",
+      "valence": 3.6,
+      "arousal": 4.04,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Whoa-oh-oh-oh-oh-whoa-oh Can you turn it up, baby? Turn it up, just dance with me (Hahaha) Turn it up, just dance with me (Girl)",
+      "valence": 3.49,
+      "arousal": 3.96,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Can you turn it up, baby? Turn it up, just dance with me (Hahaha) Turn it up, just dance with me (Girl) Turn it up, just dance with me (Hahaha)",
+      "valence": 3.52,
+      "arousal": 3.84,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Turn it up, just dance with me (Hahaha) Turn it up, just dance with me (Girl) Turn it up, just dance with me (Hahaha) Turn it up, just dance with me (Don't stop the music)",
+      "valence": 3.48,
+      "arousal": 3.81,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Turn it up, just dance with me (Girl) Turn it up, just dance with me (Hahaha) Turn it up, just dance with me (Don't stop the music) Turn it up, just dance with me (Hahaha)",
+      "valence": 3.5,
+      "arousal": 3.81,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Turn it up, just dance with me (Hahaha) Turn it up, just dance with me (Don't stop the music) Turn it up, just dance with me (Hahaha) Turn it up, just dance with me",
+      "valence": 3.48,
+      "arousal": 3.75,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Turn it up, just dance with me (Don't stop the music) Turn it up, just dance with me (Hahaha) Turn it up, just dance with me Turn it up, just dance with me",
+      "valence": 3.48,
+      "arousal": 3.75,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Turn it up, just dance with me (Hahaha) Turn it up, just dance with me Turn it up, just dance with me T-T-Turn it up",
+      "valence": 3.48,
+      "arousal": 3.78,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Turn it up, just dance with me Turn it up, just dance with me T-T-Turn it up Don't stop the music",
+      "valence": 3.39,
+      "arousal": 3.66,
+      "dominance": 3.61
+    }
+  ]
+}

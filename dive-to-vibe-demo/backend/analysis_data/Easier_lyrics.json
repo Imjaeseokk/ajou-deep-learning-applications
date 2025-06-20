@@ -1,0 +1,374 @@
+{
+  "artist": "5 Seconds Of Summer",
+  "overall_vad": {
+    "valence": 2.92,
+    "arousal": 3.39,
+    "dominance": 3.13
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Is it easier to stay? Is it easier to go? I don't wanna know, oh But I know that I'm never, ever gonna change And you know you don't want it any other way",
+      "valence": 2.79,
+      "arousal": 3.08,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I don't wanna know, oh But I know that I'm never, ever gonna change And you know you don't want it any other way Why do we always gotta run away?",
+      "valence": 2.4,
+      "arousal": 3.36,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "But I know that I'm never, ever gonna change And you know you don't want it any other way Why do we always gotta run away? And we wind up in the same place",
+      "valence": 2.5,
+      "arousal": 3.38,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "And you know you don't want it any other way Why do we always gotta run away? And we wind up in the same place It's like we're looking for the same thing",
+      "valence": 2.66,
+      "arousal": 3.33,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Why do we always gotta run away? And we wind up in the same place It's like we're looking for the same thing Same thing, yeah",
+      "valence": 2.68,
+      "arousal": 3.34,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "And we wind up in the same place It's like we're looking for the same thing Same thing, yeah Yeah, do we really gotta do this now?",
+      "valence": 2.76,
+      "arousal": 3.45,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "It's like we're looking for the same thing Same thing, yeah Yeah, do we really gotta do this now? Right here with all your friends around",
+      "valence": 2.83,
+      "arousal": 3.54,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Same thing, yeah Yeah, do we really gotta do this now? Right here with all your friends around In the morning, we can work it out",
+      "valence": 3.01,
+      "arousal": 3.35,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Yeah, do we really gotta do this now? Right here with all your friends around In the morning, we can work it out Work it out",
+      "valence": 3.02,
+      "arousal": 3.43,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Right here with all your friends around In the morning, we can work it out Work it out I love you so much that I hate you",
+      "valence": 3.54,
+      "arousal": 3.96,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "In the morning, we can work it out Work it out I love you so much that I hate you Right now, it's so hard to blame you",
+      "valence": 3.39,
+      "arousal": 4.01,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Work it out I love you so much that I hate you Right now, it's so hard to blame you 'Cause you're so damn beautiful",
+      "valence": 3.31,
+      "arousal": 4.05,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I love you so much that I hate you Right now, it's so hard to blame you 'Cause you're so damn beautiful You're so damn beautiful",
+      "valence": 3.56,
+      "arousal": 4.25,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Right now, it's so hard to blame you 'Cause you're so damn beautiful You're so damn beautiful Is it easier to stay? Is it easier to go?",
+      "valence": 3.01,
+      "arousal": 3.67,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "'Cause you're so damn beautiful You're so damn beautiful Is it easier to stay? Is it easier to go? I don't wanna know, oh",
+      "valence": 3.23,
+      "arousal": 3.75,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "You're so damn beautiful Is it easier to stay? Is it easier to go? I don't wanna know, oh But I know that I'm never, ever gonna change",
+      "valence": 3.12,
+      "arousal": 3.56,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Is it easier to stay? Is it easier to go? I don't wanna know, oh But I know that I'm never, ever gonna change And you know that you're always gonna stay the same",
+      "valence": 3.0,
+      "arousal": 2.92,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I don't wanna know, oh But I know that I'm never, ever gonna change And you know that you're always gonna stay the same Is it easier to stay? Is it easier to go?",
+      "valence": 2.87,
+      "arousal": 3.01,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "But I know that I'm never, ever gonna change And you know that you're always gonna stay the same Is it easier to stay? Is it easier to go? I don't wanna know, oh",
+      "valence": 2.98,
+      "arousal": 2.98,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "And you know that you're always gonna stay the same Is it easier to stay? Is it easier to go? I don't wanna know, oh But I know that I'm never, ever gonna change",
+      "valence": 2.96,
+      "arousal": 2.96,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Is it easier to stay? Is it easier to go? I don't wanna know, oh But I know that I'm never, ever gonna change And you know you don't want it any other way",
+      "valence": 2.79,
+      "arousal": 3.08,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I don't wanna know, oh But I know that I'm never, ever gonna change And you know you don't want it any other way Every time that you say you're gonna leave",
+      "valence": 2.4,
+      "arousal": 3.18,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "But I know that I'm never, ever gonna change And you know you don't want it any other way Every time that you say you're gonna leave That's when you get the very best of me",
+      "valence": 2.6,
+      "arousal": 3.39,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "And you know you don't want it any other way Every time that you say you're gonna leave That's when you get the very best of me You know we need it like the air we breathe",
+      "valence": 2.84,
+      "arousal": 3.49,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Every time that you say you're gonna leave That's when you get the very best of me You know we need it like the air we breathe Air we breathe, yeah",
+      "valence": 3.04,
+      "arousal": 3.51,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "That's when you get the very best of me You know we need it like the air we breathe Air we breathe, yeah I love you so much that I hate you (oh-oh-oh-oh-oh-oh)",
+      "valence": 3.32,
+      "arousal": 3.9,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "You know we need it like the air we breathe Air we breathe, yeah I love you so much that I hate you (oh-oh-oh-oh-oh-oh) Right now, it's so hard to blame you (oh)",
+      "valence": 2.98,
+      "arousal": 3.73,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Air we breathe, yeah I love you so much that I hate you (oh-oh-oh-oh-oh-oh) Right now, it's so hard to blame you (oh) 'Cause you're so damn beautiful (oh)",
+      "valence": 3.44,
+      "arousal": 4.07,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I love you so much that I hate you (oh-oh-oh-oh-oh-oh) Right now, it's so hard to blame you (oh) 'Cause you're so damn beautiful (oh) You're so damn beautiful (oh-oh, oh-oh)",
+      "valence": 3.22,
+      "arousal": 4.13,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Right now, it's so hard to blame you (oh) 'Cause you're so damn beautiful (oh) You're so damn beautiful (oh-oh, oh-oh) Is it easier to stay? Is it easier to go?",
+      "valence": 3.05,
+      "arousal": 3.7,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "'Cause you're so damn beautiful (oh) You're so damn beautiful (oh-oh, oh-oh) Is it easier to stay? Is it easier to go? I don't wanna know, oh",
+      "valence": 3.26,
+      "arousal": 3.79,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "You're so damn beautiful (oh-oh, oh-oh) Is it easier to stay? Is it easier to go? I don't wanna know, oh But I know that I'm never, ever gonna change",
+      "valence": 3.14,
+      "arousal": 3.63,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Is it easier to stay? Is it easier to go? I don't wanna know, oh But I know that I'm never, ever gonna change And you know that you're always gonna stay the same",
+      "valence": 3.0,
+      "arousal": 2.92,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I don't wanna know, oh But I know that I'm never, ever gonna change And you know that you're always gonna stay the same Is it easier to stay? Is it easier to go?",
+      "valence": 2.87,
+      "arousal": 3.01,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "But I know that I'm never, ever gonna change And you know that you're always gonna stay the same Is it easier to stay? Is it easier to go? I don't wanna know, oh (I don't wanna know)",
+      "valence": 2.95,
+      "arousal": 3.03,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "And you know that you're always gonna stay the same Is it easier to stay? Is it easier to go? I don't wanna know, oh (I don't wanna know) But I know that I'm never, ever gonna change",
+      "valence": 2.99,
+      "arousal": 2.95,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Is it easier to stay? Is it easier to go? I don't wanna know, oh (I don't wanna know) But I know that I'm never, ever gonna change And you know you don't want it any other way",
+      "valence": 2.79,
+      "arousal": 3.07,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "I don't wanna know, oh (I don't wanna know) But I know that I'm never, ever gonna change And you know you don't want it any other way The hardest part of all",
+      "valence": 2.44,
+      "arousal": 3.17,
+      "dominance": 2.75
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "But I know that I'm never, ever gonna change And you know you don't want it any other way The hardest part of all (Da-da-da-dum-da-da)",
+      "valence": 2.56,
+      "arousal": 3.22,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "And you know you don't want it any other way The hardest part of all (Da-da-da-dum-da-da) Is that we're only built to fall",
+      "valence": 2.72,
+      "arousal": 3.22,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "The hardest part of all (Da-da-da-dum-da-da) Is that we're only built to fall (Is it any easier?)",
+      "valence": 2.82,
+      "arousal": 3.2,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "(Da-da-da-dum-da-da) Is that we're only built to fall (Is it any easier?) Is it easier to stay? Is it easier to go?",
+      "valence": 2.97,
+      "arousal": 3.12,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Is that we're only built to fall (Is it any easier?) Is it easier to stay? Is it easier to go? I don't wanna know, oh (oh-oh)",
+      "valence": 2.91,
+      "arousal": 3.11,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "(Is it any easier?) Is it easier to stay? Is it easier to go? I don't wanna know, oh (oh-oh) But I know that I'm never, ever gonna change",
+      "valence": 2.9,
+      "arousal": 2.98,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Is it easier to stay? Is it easier to go? I don't wanna know, oh (oh-oh) But I know that I'm never, ever gonna change And you know that you're always gonna stay the same (is it easier?)",
+      "valence": 2.97,
+      "arousal": 3.02,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I don't wanna know, oh (oh-oh) But I know that I'm never, ever gonna change And you know that you're always gonna stay the same (is it easier?) Is it easier to stay? Is it easier to go? (Yeah)",
+      "valence": 2.96,
+      "arousal": 3.0,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "But I know that I'm never, ever gonna change And you know that you're always gonna stay the same (is it easier?) Is it easier to stay? Is it easier to go? (Yeah) I don't wanna know, oh (oh)",
+      "valence": 2.99,
+      "arousal": 3.02,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "And you know that you're always gonna stay the same (is it easier?) Is it easier to stay? Is it easier to go? (Yeah) I don't wanna know, oh (oh) But I know that I'm never, ever gonna change",
+      "valence": 2.99,
+      "arousal": 2.94,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Is it easier to stay? Is it easier to go? (Yeah) I don't wanna know, oh (oh) But I know that I'm never, ever gonna change And you know you don't want it any other way",
+      "valence": 2.82,
+      "arousal": 3.05,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I don't wanna know, oh (oh) But I know that I'm never, ever gonna change And you know you don't want it any other way I love you so much that I hate you (oh-oh-oh-oh-oh-oh-oh)",
+      "valence": 2.22,
+      "arousal": 3.67,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "But I know that I'm never, ever gonna change And you know you don't want it any other way I love you so much that I hate you (oh-oh-oh-oh-oh-oh-oh) Right now, it's so hard to blame you",
+      "valence": 2.27,
+      "arousal": 3.62,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "And you know you don't want it any other way I love you so much that I hate you (oh-oh-oh-oh-oh-oh-oh) Right now, it's so hard to blame you 'Cause you're so damn beautiful",
+      "valence": 2.88,
+      "arousal": 4.09,
+      "dominance": 3.26
+    }
+  ]
+}

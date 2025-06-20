@@ -1,0 +1,626 @@
+{
+  "artist": "Big Sean Featuring Drake",
+  "overall_vad": {
+    "valence": 3.23,
+    "arousal": 3.48,
+    "dominance": 3.25
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Look I feel blessed Way up, I feel blessed Way up, I feel blessed",
+      "valence": 4.19,
+      "arousal": 3.46,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I feel blessed Way up, I feel blessed Way up, I feel blessed (Straight up, look)",
+      "valence": 4.14,
+      "arousal": 3.54,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Way up, I feel blessed Way up, I feel blessed (Straight up, look) I live the life I deserve, blessed",
+      "valence": 4.18,
+      "arousal": 3.48,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Way up, I feel blessed (Straight up, look) I live the life I deserve, blessed Fuck a vacay I feel better at work",
+      "valence": 4.14,
+      "arousal": 3.54,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "(Straight up, look) I live the life I deserve, blessed Fuck a vacay I feel better at work I mean whatever it's worth",
+      "valence": 3.6,
+      "arousal": 3.52,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I live the life I deserve, blessed Fuck a vacay I feel better at work I mean whatever it's worth I give whatever I'm worth",
+      "valence": 3.81,
+      "arousal": 3.53,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Fuck a vacay I feel better at work I mean whatever it's worth I give whatever I'm worth For my niggas who gon' go to hell and back for me",
+      "valence": 2.99,
+      "arousal": 3.66,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I mean whatever it's worth I give whatever I'm worth For my niggas who gon' go to hell and back for me I'ma give 'em Heaven on earth",
+      "valence": 3.18,
+      "arousal": 3.57,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I give whatever I'm worth For my niggas who gon' go to hell and back for me I'ma give 'em Heaven on earth Or a hell of a check, yeah, whichever come first",
+      "valence": 3.04,
+      "arousal": 3.55,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "For my niggas who gon' go to hell and back for me I'ma give 'em Heaven on earth Or a hell of a check, yeah, whichever come first Blessings on blessings on blessings",
+      "valence": 3.22,
+      "arousal": 3.58,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I'ma give 'em Heaven on earth Or a hell of a check, yeah, whichever come first Blessings on blessings on blessings Look at my life, man, that's lessons on lessons on lessons",
+      "valence": 3.44,
+      "arousal": 3.52,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Or a hell of a check, yeah, whichever come first Blessings on blessings on blessings Look at my life, man, that's lessons on lessons on lessons I treat the beat like it's a reverend",
+      "valence": 3.39,
+      "arousal": 3.37,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Blessings on blessings on blessings Look at my life, man, that's lessons on lessons on lessons I treat the beat like it's a reverend I tell the truth like father, forgive me, these are all my confessions",
+      "valence": 3.28,
+      "arousal": 3.21,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Look at my life, man, that's lessons on lessons on lessons I treat the beat like it's a reverend I tell the truth like father, forgive me, these are all my confessions Man, this wasn't luck, it was destined",
+      "valence": 2.97,
+      "arousal": 3.08,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I treat the beat like it's a reverend I tell the truth like father, forgive me, these are all my confessions Man, this wasn't luck, it was destined I done lost homies who been with me since Ed, Edd n Eddy",
+      "valence": 2.88,
+      "arousal": 3.1,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I tell the truth like father, forgive me, these are all my confessions Man, this wasn't luck, it was destined I done lost homies who been with me since Ed, Edd n Eddy Who flip like confetti",
+      "valence": 2.74,
+      "arousal": 3.22,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Man, this wasn't luck, it was destined I done lost homies who been with me since Ed, Edd n Eddy Who flip like confetti And then when you back, they back to call you \"dog\"",
+      "valence": 2.76,
+      "arousal": 3.21,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I done lost homies who been with me since Ed, Edd n Eddy Who flip like confetti And then when you back, they back to call you \"dog\" That shit get-get petty, bitch, don't give no dap to me, nigga",
+      "valence": 2.27,
+      "arousal": 3.52,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Who flip like confetti And then when you back, they back to call you \"dog\" That shit get-get petty, bitch, don't give no dap to me, nigga Funny thing about talking behind my back",
+      "valence": 2.42,
+      "arousal": 3.5,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "And then when you back, they back to call you \"dog\" That shit get-get petty, bitch, don't give no dap to me, nigga Funny thing about talking behind my back Is that it just keep coming back to me, nigga",
+      "valence": 2.2,
+      "arousal": 3.5,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "That shit get-get petty, bitch, don't give no dap to me, nigga Funny thing about talking behind my back Is that it just keep coming back to me, nigga Was off for a sec, now it's back to me, nigga, you mad at me",
+      "valence": 2.04,
+      "arousal": 3.56,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Funny thing about talking behind my back Is that it just keep coming back to me, nigga Was off for a sec, now it's back to me, nigga, you mad at me This ain't what I want, man, this what it had to be",
+      "valence": 2.38,
+      "arousal": 3.44,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Is that it just keep coming back to me, nigga Was off for a sec, now it's back to me, nigga, you mad at me This ain't what I want, man, this what it had to be This is that late night working after three, man",
+      "valence": 2.29,
+      "arousal": 3.46,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Was off for a sec, now it's back to me, nigga, you mad at me This ain't what I want, man, this what it had to be This is that late night working after three, man This is why my old girl was mad at me",
+      "valence": 2.26,
+      "arousal": 3.46,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "This ain't what I want, man, this what it had to be This is that late night working after three, man This is why my old girl was mad at me This why I'm your majesty, man",
+      "valence": 2.38,
+      "arousal": 3.48,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "This is that late night working after three, man This is why my old girl was mad at me This why I'm your majesty, man The clique is the tightest, the pussy the tightest",
+      "valence": 2.77,
+      "arousal": 3.56,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "This is why my old girl was mad at me This why I'm your majesty, man The clique is the tightest, the pussy the tightest The drinks are the coldest, the future the brightest",
+      "valence": 2.96,
+      "arousal": 3.59,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "This why I'm your majesty, man The clique is the tightest, the pussy the tightest The drinks are the coldest, the future the brightest The feat not divided, the love is divided",
+      "valence": 3.46,
+      "arousal": 3.55,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "The clique is the tightest, the pussy the tightest The drinks are the coldest, the future the brightest The feat not divided, the love is divided And I just gotta thank God that we got it",
+      "valence": 3.5,
+      "arousal": 3.64,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "The drinks are the coldest, the future the brightest The feat not divided, the love is divided And I just gotta thank God that we got it Blessed",
+      "valence": 3.5,
+      "arousal": 3.46,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "The feat not divided, the love is divided And I just gotta thank God that we got it Blessed I don't know what I would do without it",
+      "valence": 3.5,
+      "arousal": 3.5,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "And I just gotta thank God that we got it Blessed I don't know what I would do without it Crew look like we robbed a bank, but all we make is deposits",
+      "valence": 2.89,
+      "arousal": 3.44,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Blessed I don't know what I would do without it Crew look like we robbed a bank, but all we make is deposits Your prophet will profit, oh God",
+      "valence": 2.93,
+      "arousal": 3.34,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I don't know what I would do without it Crew look like we robbed a bank, but all we make is deposits Your prophet will profit, oh God I'm here for a good time, not a long time, you know I",
+      "valence": 2.86,
+      "arousal": 3.43,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Crew look like we robbed a bank, but all we make is deposits Your prophet will profit, oh God I'm here for a good time, not a long time, you know I I haven't had a good time in a long time, you know I",
+      "valence": 2.84,
+      "arousal": 3.45,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Your prophet will profit, oh God I'm here for a good time, not a long time, you know I I haven't had a good time in a long time, you know I I'm way up, I feel blessed",
+      "valence": 3.92,
+      "arousal": 3.57,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I'm here for a good time, not a long time, you know I I haven't had a good time in a long time, you know I I'm way up, I feel blessed Way up, I feel blessed (Straight up)",
+      "valence": 3.92,
+      "arousal": 3.67,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "I haven't had a good time in a long time, you know I I'm way up, I feel blessed Way up, I feel blessed (Straight up) I'm way up, I feel blessed (Straight up, straight up)",
+      "valence": 4.07,
+      "arousal": 3.69,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I'm way up, I feel blessed Way up, I feel blessed (Straight up) I'm way up, I feel blessed (Straight up, straight up) Way up, I feel blessed",
+      "valence": 4.2,
+      "arousal": 3.64,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Way up, I feel blessed (Straight up) I'm way up, I feel blessed (Straight up, straight up) Way up, I feel blessed Look, I ain't gon' say that we back or nothing",
+      "valence": 4.11,
+      "arousal": 3.58,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I'm way up, I feel blessed (Straight up, straight up) Way up, I feel blessed Look, I ain't gon' say that we back or nothing 'Cause that implies that we're back from something",
+      "valence": 4.03,
+      "arousal": 3.54,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Way up, I feel blessed Look, I ain't gon' say that we back or nothing 'Cause that implies that we're back from something If we're back from somethin' there's some checks you owe us",
+      "valence": 3.7,
+      "arousal": 3.54,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Look, I ain't gon' say that we back or nothing 'Cause that implies that we're back from something If we're back from somethin' there's some checks you owe us I expect that payment, nothing less or over",
+      "valence": 2.93,
+      "arousal": 3.32,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "'Cause that implies that we're back from something If we're back from somethin' there's some checks you owe us I expect that payment, nothing less or over I don't need them favors that you ask me for",
+      "valence": 2.93,
+      "arousal": 3.3,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "If we're back from somethin' there's some checks you owe us I expect that payment, nothing less or over I don't need them favors that you ask me for I could give two fucks 'bout where the Grammys go",
+      "valence": 2.73,
+      "arousal": 3.54,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I expect that payment, nothing less or over I don't need them favors that you ask me for I could give two fucks 'bout where the Grammys go I just gave out Grammys on my Instagram",
+      "valence": 2.86,
+      "arousal": 3.49,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I don't need them favors that you ask me for I could give two fucks 'bout where the Grammys go I just gave out Grammys on my Instagram Them OVO boys, the business man",
+      "valence": 2.85,
+      "arousal": 3.48,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I could give two fucks 'bout where the Grammys go I just gave out Grammys on my Instagram Them OVO boys, the business man It is what it is, trust me, you get what you give, yeah",
+      "valence": 3.11,
+      "arousal": 3.53,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I just gave out Grammys on my Instagram Them OVO boys, the business man It is what it is, trust me, you get what you give, yeah You gotta come to my side and see how we live, yeah",
+      "valence": 3.52,
+      "arousal": 3.57,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Them OVO boys, the business man It is what it is, trust me, you get what you give, yeah You gotta come to my side and see how we live, yeah I cannot see Heaven being much better than this, yeah",
+      "valence": 3.16,
+      "arousal": 3.45,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "It is what it is, trust me, you get what you give, yeah You gotta come to my side and see how we live, yeah I cannot see Heaven being much better than this, yeah Blessings on blessings for me and my niggas from the 6",
+      "valence": 3.69,
+      "arousal": 3.57,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "You gotta come to my side and see how we live, yeah I cannot see Heaven being much better than this, yeah Blessings on blessings for me and my niggas from the 6 Look at what we did, yeah",
+      "valence": 3.7,
+      "arousal": 3.62,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "I cannot see Heaven being much better than this, yeah Blessings on blessings for me and my niggas from the 6 Look at what we did, yeah Be quiet, I'm doing a toast",
+      "valence": 3.67,
+      "arousal": 3.58,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Blessings on blessings for me and my niggas from the 6 Look at what we did, yeah Be quiet, I'm doing a toast For niggas that don't really do shit, I swear, y'all be doing the most",
+      "valence": 3.63,
+      "arousal": 3.47,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Look at what we did, yeah Be quiet, I'm doing a toast For niggas that don't really do shit, I swear, y'all be doing the most Stop worrying 'bout whoever's next",
+      "valence": 2.78,
+      "arousal": 3.49,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Be quiet, I'm doing a toast For niggas that don't really do shit, I swear, y'all be doing the most Stop worrying 'bout whoever's next I am just worried 'bout my mama worrying less",
+      "valence": 2.68,
+      "arousal": 3.52,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "For niggas that don't really do shit, I swear, y'all be doing the most Stop worrying 'bout whoever's next I am just worried 'bout my mama worrying less I think I'm famous enough, I don't need any more press",
+      "valence": 2.55,
+      "arousal": 3.43,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Stop worrying 'bout whoever's next I am just worried 'bout my mama worrying less I think I'm famous enough, I don't need any more press I am convinced I'm the only one left",
+      "valence": 2.9,
+      "arousal": 3.35,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "I am just worried 'bout my mama worrying less I think I'm famous enough, I don't need any more press I am convinced I'm the only one left That's still doing this shit, man",
+      "valence": 2.27,
+      "arousal": 3.49,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "I think I'm famous enough, I don't need any more press I am convinced I'm the only one left That's still doing this shit, man I'm here for a good time, not a long time, you know I",
+      "valence": 2.88,
+      "arousal": 3.5,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "I am convinced I'm the only one left That's still doing this shit, man I'm here for a good time, not a long time, you know I I haven't had a good time in a long time, you know I",
+      "valence": 2.46,
+      "arousal": 3.44,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "That's still doing this shit, man I'm here for a good time, not a long time, you know I I haven't had a good time in a long time, you know I I'm way up, I feel blessed",
+      "valence": 3.57,
+      "arousal": 3.7,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "I'm here for a good time, not a long time, you know I I haven't had a good time in a long time, you know I I'm way up, I feel blessed Way up, I feel blessed (Straight up)",
+      "valence": 3.92,
+      "arousal": 3.67,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "I haven't had a good time in a long time, you know I I'm way up, I feel blessed Way up, I feel blessed (Straight up) I'm way up, I feel blessed (Straight up, straight up)",
+      "valence": 4.07,
+      "arousal": 3.69,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "I'm way up, I feel blessed Way up, I feel blessed (Straight up) I'm way up, I feel blessed (Straight up, straight up) Way up, I feel blessed",
+      "valence": 4.2,
+      "arousal": 3.64,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Way up, I feel blessed (Straight up) I'm way up, I feel blessed (Straight up, straight up) Way up, I feel blessed My grandma just died, I'm the man of the house",
+      "valence": 4.12,
+      "arousal": 3.66,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "I'm way up, I feel blessed (Straight up, straight up) Way up, I feel blessed My grandma just died, I'm the man of the house So every morning I'm up 'cause I can't let them down, down",
+      "valence": 3.88,
+      "arousal": 3.64,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Way up, I feel blessed My grandma just died, I'm the man of the house So every morning I'm up 'cause I can't let them down, down Always down for the cause, never down for the count",
+      "valence": 3.45,
+      "arousal": 3.55,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "My grandma just died, I'm the man of the house So every morning I'm up 'cause I can't let them down, down Always down for the cause, never down for the count I guess when your stars align",
+      "valence": 2.56,
+      "arousal": 3.37,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "So every morning I'm up 'cause I can't let them down, down Always down for the cause, never down for the count I guess when your stars align You do like the solar system and plan it out",
+      "valence": 3.13,
+      "arousal": 3.22,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Always down for the cause, never down for the count I guess when your stars align You do like the solar system and plan it out So I'm going over time, on the overtime",
+      "valence": 3.27,
+      "arousal": 3.11,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "I guess when your stars align You do like the solar system and plan it out So I'm going over time, on the overtime Yeah, I'm that invested, but you can't attest it",
+      "valence": 3.18,
+      "arousal": 3.24,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "You do like the solar system and plan it out So I'm going over time, on the overtime Yeah, I'm that invested, but you can't attest it Million dollar goals, managed to manifest it",
+      "valence": 3.4,
+      "arousal": 3.36,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "So I'm going over time, on the overtime Yeah, I'm that invested, but you can't attest it Million dollar goals, managed to manifest it The family never going anorexic",
+      "valence": 3.26,
+      "arousal": 3.27,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Yeah, I'm that invested, but you can't attest it Million dollar goals, managed to manifest it The family never going anorexic I pay mom mortgage and electric",
+      "valence": 3.33,
+      "arousal": 3.41,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "Million dollar goals, managed to manifest it The family never going anorexic I pay mom mortgage and electric Never going under even with anesthetics",
+      "valence": 3.23,
+      "arousal": 3.19,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "The family never going anorexic I pay mom mortgage and electric Never going under even with anesthetics At the top of the rap game and progressin'",
+      "valence": 3.1,
+      "arousal": 3.16,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "I pay mom mortgage and electric Never going under even with anesthetics At the top of the rap game and progressin' Check after check, checking off my check list",
+      "valence": 3.25,
+      "arousal": 3.05,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "Never going under even with anesthetics At the top of the rap game and progressin' Check after check, checking off my check list Try and blow my cake, just know that's a death wish",
+      "valence": 2.48,
+      "arousal": 3.4,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "At the top of the rap game and progressin' Check after check, checking off my check list Try and blow my cake, just know that's a death wish No mistakes in life ever, it's only lessons",
+      "valence": 2.62,
+      "arousal": 3.42,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "Check after check, checking off my check list Try and blow my cake, just know that's a death wish No mistakes in life ever, it's only lessons Shit feel like Shaq and Penny got back together",
+      "valence": 2.68,
+      "arousal": 3.53,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "Try and blow my cake, just know that's a death wish No mistakes in life ever, it's only lessons Shit feel like Shaq and Penny got back together You tore the game apart, who put it back together? I",
+      "valence": 2.49,
+      "arousal": 3.55,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "No mistakes in life ever, it's only lessons Shit feel like Shaq and Penny got back together You tore the game apart, who put it back together? I I'm here for a good time, not a long time, you know I",
+      "valence": 3.23,
+      "arousal": 3.53,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "Shit feel like Shaq and Penny got back together You tore the game apart, who put it back together? I I'm here for a good time, not a long time, you know I I haven't had a good time in a long time, you know I",
+      "valence": 3.0,
+      "arousal": 3.64,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "You tore the game apart, who put it back together? I I'm here for a good time, not a long time, you know I I haven't had a good time in a long time, you know I I'm way up, I feel blessed",
+      "valence": 3.77,
+      "arousal": 3.75,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 86,
+      "lyrics_text": "I'm here for a good time, not a long time, you know I I haven't had a good time in a long time, you know I I'm way up, I feel blessed Way up, I feel blessed (Straight up)",
+      "valence": 3.92,
+      "arousal": 3.67,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 87,
+      "lyrics_text": "I haven't had a good time in a long time, you know I I'm way up, I feel blessed Way up, I feel blessed (Straight up) I'm way up, I feel blessed (Straight up, straight up)",
+      "valence": 4.07,
+      "arousal": 3.69,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 88,
+      "lyrics_text": "I'm way up, I feel blessed Way up, I feel blessed (Straight up) I'm way up, I feel blessed (Straight up, straight up) I'm way up, I feel blessed",
+      "valence": 4.23,
+      "arousal": 3.7,
+      "dominance": 3.41
+    }
+  ]
+}

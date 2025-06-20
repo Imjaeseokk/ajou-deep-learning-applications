@@ -1,0 +1,115 @@
+{
+  "artist": "Calvin Harris",
+  "overall_vad": {
+    "valence": 3.59,
+    "arousal": 3.87,
+    "dominance": 3.32
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I feel so close to you right now It's a force field I wear my heart upon my sleeve, like a big deal Your love pours down on me",
+      "valence": 4.06,
+      "arousal": 4.13,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "It's a force field I wear my heart upon my sleeve, like a big deal Your love pours down on me Surround me like a waterfall",
+      "valence": 3.72,
+      "arousal": 3.87,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I wear my heart upon my sleeve, like a big deal Your love pours down on me Surround me like a waterfall And there's no stopping us right now",
+      "valence": 3.83,
+      "arousal": 3.99,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Your love pours down on me Surround me like a waterfall And there's no stopping us right now I feel so close to you right now",
+      "valence": 3.92,
+      "arousal": 4.19,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Surround me like a waterfall And there's no stopping us right now I feel so close to you right now I feel so close to you right now",
+      "valence": 3.43,
+      "arousal": 3.72,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "And there's no stopping us right now I feel so close to you right now I feel so close to you right now It's a force field",
+      "valence": 3.25,
+      "arousal": 3.76,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I feel so close to you right now I feel so close to you right now It's a force field I wear my heart upon my sleeve, like a big deal",
+      "valence": 3.68,
+      "arousal": 3.83,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I feel so close to you right now It's a force field I wear my heart upon my sleeve, like a big deal Your love pours down on me",
+      "valence": 4.06,
+      "arousal": 4.13,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "It's a force field I wear my heart upon my sleeve, like a big deal Your love pours down on me Surround me like a waterfall",
+      "valence": 3.72,
+      "arousal": 3.87,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I wear my heart upon my sleeve, like a big deal Your love pours down on me Surround me like a waterfall And there's no stopping us right now",
+      "valence": 3.83,
+      "arousal": 3.99,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Your love pours down on me Surround me like a waterfall And there's no stopping us right now I feel so close to you right now",
+      "valence": 3.92,
+      "arousal": 4.19,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Surround me like a waterfall And there's no stopping us right now I feel so close to you right now And there's no stopping us right now",
+      "valence": 3.2,
+      "arousal": 3.65,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "And there's no stopping us right now I feel so close to you right now And there's no stopping us right now And there's no stopping us right now",
+      "valence": 3.04,
+      "arousal": 3.6,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I feel so close to you right now And there's no stopping us right now And there's no stopping us right now And there's no stopping us right now",
+      "valence": 3.08,
+      "arousal": 3.59,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And there's no stopping us right now And there's no stopping us right now And there's no stopping us right now I feel so close to you right now",
+      "valence": 3.1,
+      "arousal": 3.58,
+      "dominance": 3.33
+    }
+  ]
+}

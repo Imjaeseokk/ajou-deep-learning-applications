@@ -1,0 +1,332 @@
+{
+  "artist": "Jason Aldean",
+  "overall_vad": {
+    "valence": 3.4,
+    "arousal": 3.52,
+    "dominance": 3.29
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "You're a crack-of-dawn, Monday-morning, coffee strong Poured everything you got into a paycheck Friday night You're a Powerstroke diesel, backhoe-riding king of beers, eighteen-wheeler Driving, living life in between the lines",
+      "valence": 3.27,
+      "arousal": 3.15,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Poured everything you got into a paycheck Friday night You're a Powerstroke diesel, backhoe-riding king of beers, eighteen-wheeler Driving, living life in between the lines Of clocking in and quitting time",
+      "valence": 3.18,
+      "arousal": 3.17,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "You're a Powerstroke diesel, backhoe-riding king of beers, eighteen-wheeler Driving, living life in between the lines Of clocking in and quitting time But then the six-string circus comes to town",
+      "valence": 3.15,
+      "arousal": 3.18,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Driving, living life in between the lines Of clocking in and quitting time But then the six-string circus comes to town We hang them speakers over the crowd",
+      "valence": 3.07,
+      "arousal": 3.22,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Of clocking in and quitting time But then the six-string circus comes to town We hang them speakers over the crowd When the lights come on, everybody's screaming",
+      "valence": 3.07,
+      "arousal": 3.45,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "But then the six-string circus comes to town We hang them speakers over the crowd When the lights come on, everybody's screaming Lighters in the sky, yeah, everybody's singing",
+      "valence": 3.34,
+      "arousal": 3.45,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "We hang them speakers over the crowd When the lights come on, everybody's screaming Lighters in the sky, yeah, everybody's singing Every word to every song to the girl they're takin' home tonight",
+      "valence": 3.37,
+      "arousal": 3.63,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "When the lights come on, everybody's screaming Lighters in the sky, yeah, everybody's singing Every word to every song to the girl they're takin' home tonight When the lights come on, everybody's feeling",
+      "valence": 3.55,
+      "arousal": 3.71,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Lighters in the sky, yeah, everybody's singing Every word to every song to the girl they're takin' home tonight When the lights come on, everybody's feeling A hallelujah high from the floor to the ceiling",
+      "valence": 3.94,
+      "arousal": 3.91,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Every word to every song to the girl they're takin' home tonight When the lights come on, everybody's feeling A hallelujah high from the floor to the ceiling Yeah, the drink that we're drinking, the smoke that we're smoking",
+      "valence": 3.81,
+      "arousal": 3.86,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "When the lights come on, everybody's feeling A hallelujah high from the floor to the ceiling Yeah, the drink that we're drinking, the smoke that we're smoking The party we throw, it's going all night long",
+      "valence": 3.75,
+      "arousal": 3.86,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "A hallelujah high from the floor to the ceiling Yeah, the drink that we're drinking, the smoke that we're smoking The party we throw, it's going all night long When the lights come on",
+      "valence": 3.59,
+      "arousal": 3.72,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Yeah, the drink that we're drinking, the smoke that we're smoking The party we throw, it's going all night long When the lights come on When the lights come on",
+      "valence": 3.13,
+      "arousal": 3.35,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "The party we throw, it's going all night long When the lights come on When the lights come on You're a little shy thing with a wild side",
+      "valence": 3.22,
+      "arousal": 3.46,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "When the lights come on When the lights come on You're a little shy thing with a wild side On a night like this, you just can't hide",
+      "valence": 3.07,
+      "arousal": 3.2,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "When the lights come on You're a little shy thing with a wild side On a night like this, you just can't hide 'Cause it's time to live it up",
+      "valence": 3.22,
+      "arousal": 3.34,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "You're a little shy thing with a wild side On a night like this, you just can't hide 'Cause it's time to live it up So come on and raise your cup",
+      "valence": 3.25,
+      "arousal": 3.46,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "On a night like this, you just can't hide 'Cause it's time to live it up So come on and raise your cup If we're talkin' 'bout memories, yeah, we're gonna make 'em",
+      "valence": 3.39,
+      "arousal": 3.59,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "'Cause it's time to live it up So come on and raise your cup If we're talkin' 'bout memories, yeah, we're gonna make 'em Talkin' 'bout rules, you know we're gonna break 'em",
+      "valence": 3.24,
+      "arousal": 3.36,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "So come on and raise your cup If we're talkin' 'bout memories, yeah, we're gonna make 'em Talkin' 'bout rules, you know we're gonna break 'em When the lights come on, everybody's screaming",
+      "valence": 2.98,
+      "arousal": 3.36,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "If we're talkin' 'bout memories, yeah, we're gonna make 'em Talkin' 'bout rules, you know we're gonna break 'em When the lights come on, everybody's screaming Lighters in the sky, yeah, everybody's singing",
+      "valence": 3.28,
+      "arousal": 3.28,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Talkin' 'bout rules, you know we're gonna break 'em When the lights come on, everybody's screaming Lighters in the sky, yeah, everybody's singing Every word to every song to the girl they're takin' home tonight",
+      "valence": 3.4,
+      "arousal": 3.69,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "When the lights come on, everybody's screaming Lighters in the sky, yeah, everybody's singing Every word to every song to the girl they're takin' home tonight When the lights come on, everybody's feeling",
+      "valence": 3.55,
+      "arousal": 3.71,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Lighters in the sky, yeah, everybody's singing Every word to every song to the girl they're takin' home tonight When the lights come on, everybody's feeling A hallelujah high from the floor to the ceiling",
+      "valence": 3.94,
+      "arousal": 3.91,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Every word to every song to the girl they're takin' home tonight When the lights come on, everybody's feeling A hallelujah high from the floor to the ceiling Yeah, the drink that we're drinking, the smoke that we're smoking",
+      "valence": 3.81,
+      "arousal": 3.86,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "When the lights come on, everybody's feeling A hallelujah high from the floor to the ceiling Yeah, the drink that we're drinking, the smoke that we're smoking The party we throw, it's going all night long",
+      "valence": 3.75,
+      "arousal": 3.86,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "A hallelujah high from the floor to the ceiling Yeah, the drink that we're drinking, the smoke that we're smoking The party we throw, it's going all night long When the lights come on",
+      "valence": 3.59,
+      "arousal": 3.72,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Yeah, the drink that we're drinking, the smoke that we're smoking The party we throw, it's going all night long When the lights come on When the lights come on",
+      "valence": 3.13,
+      "arousal": 3.35,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "The party we throw, it's going all night long When the lights come on When the lights come on Yeah, we all the same 'cause we thinkin' the same thing",
+      "valence": 3.14,
+      "arousal": 3.33,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "When the lights come on When the lights come on Yeah, we all the same 'cause we thinkin' the same thing (We all the same 'cause we thinkin' the same thing)",
+      "valence": 3.09,
+      "arousal": 3.17,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "When the lights come on Yeah, we all the same 'cause we thinkin' the same thing (We all the same 'cause we thinkin' the same thing) We on the same page 'cause we sippin' the same drink",
+      "valence": 3.14,
+      "arousal": 3.19,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Yeah, we all the same 'cause we thinkin' the same thing (We all the same 'cause we thinkin' the same thing) We on the same page 'cause we sippin' the same drink (We on the same page 'cause we sippin' the same drink)",
+      "valence": 3.12,
+      "arousal": 3.19,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "(We all the same 'cause we thinkin' the same thing) We on the same page 'cause we sippin' the same drink (We on the same page 'cause we sippin' the same drink) Here's a little something to thank y'all for showing up",
+      "valence": 3.53,
+      "arousal": 3.2,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "We on the same page 'cause we sippin' the same drink (We on the same page 'cause we sippin' the same drink) Here's a little something to thank y'all for showing up Aldean and the boys about to blow it up",
+      "valence": 3.36,
+      "arousal": 3.35,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "(We on the same page 'cause we sippin' the same drink) Here's a little something to thank y'all for showing up Aldean and the boys about to blow it up When the lights come on and everybody's screaming",
+      "valence": 3.34,
+      "arousal": 3.37,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Here's a little something to thank y'all for showing up Aldean and the boys about to blow it up When the lights come on and everybody's screaming Lighters in the sky, yeah, everybody's singing",
+      "valence": 3.59,
+      "arousal": 3.48,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Aldean and the boys about to blow it up When the lights come on and everybody's screaming Lighters in the sky, yeah, everybody's singing Every word to every song to the girl they're takin' home tonight",
+      "valence": 3.38,
+      "arousal": 3.74,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "When the lights come on and everybody's screaming Lighters in the sky, yeah, everybody's singing Every word to every song to the girl they're takin' home tonight When the lights come on, everybody's feeling",
+      "valence": 3.59,
+      "arousal": 3.66,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Lighters in the sky, yeah, everybody's singing Every word to every song to the girl they're takin' home tonight When the lights come on, everybody's feeling A hallelujah high from the floor to the ceiling",
+      "valence": 3.94,
+      "arousal": 3.91,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Every word to every song to the girl they're takin' home tonight When the lights come on, everybody's feeling A hallelujah high from the floor to the ceiling Yeah, the drink that we're drinking, the smoke that we're smoking",
+      "valence": 3.81,
+      "arousal": 3.86,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "When the lights come on, everybody's feeling A hallelujah high from the floor to the ceiling Yeah, the drink that we're drinking, the smoke that we're smoking The party we throw, it's going all night long",
+      "valence": 3.75,
+      "arousal": 3.86,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "A hallelujah high from the floor to the ceiling Yeah, the drink that we're drinking, the smoke that we're smoking The party we throw, it's going all night long When the lights come on",
+      "valence": 3.59,
+      "arousal": 3.72,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Yeah, the drink that we're drinking, the smoke that we're smoking The party we throw, it's going all night long When the lights come on When the lights come on",
+      "valence": 3.13,
+      "arousal": 3.35,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "The party we throw, it's going all night long When the lights come on When the lights come on Your boy's blowing it up",
+      "valence": 3.38,
+      "arousal": 3.66,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "When the lights come on When the lights come on Your boy's blowing it up It's going all night long",
+      "valence": 3.25,
+      "arousal": 3.56,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "When the lights come on Your boy's blowing it up It's going all night long When the lights come on",
+      "valence": 3.25,
+      "arousal": 3.52,
+      "dominance": 3.27
+    }
+  ]
+}

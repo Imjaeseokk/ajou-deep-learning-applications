@@ -1,0 +1,430 @@
+{
+  "artist": "Rihanna",
+  "overall_vad": {
+    "valence": 2.82,
+    "arousal": 3.7,
+    "dominance": 3.34
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Kiss it, kiss it better, baby Kiss it, kiss it better, baby Been waiting on that sunshine Boy, I think I need that back",
+      "valence": 3.82,
+      "arousal": 4.05,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Kiss it, kiss it better, baby Been waiting on that sunshine Boy, I think I need that back Can't do it like that",
+      "valence": 3.37,
+      "arousal": 3.9,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Been waiting on that sunshine Boy, I think I need that back Can't do it like that No one else gonna get it like that",
+      "valence": 2.57,
+      "arousal": 3.35,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Boy, I think I need that back Can't do it like that No one else gonna get it like that So I argue, you yell, had to take me back",
+      "valence": 2.27,
+      "arousal": 3.54,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Can't do it like that No one else gonna get it like that So I argue, you yell, had to take me back Who cares when it feels like crack?",
+      "valence": 2.35,
+      "arousal": 3.48,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "No one else gonna get it like that So I argue, you yell, had to take me back Who cares when it feels like crack? Boy you know that you always do it right",
+      "valence": 2.45,
+      "arousal": 3.51,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "So I argue, you yell, had to take me back Who cares when it feels like crack? Boy you know that you always do it right Man, fuck your pride, just take it on back, boy",
+      "valence": 2.24,
+      "arousal": 3.74,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Who cares when it feels like crack? Boy you know that you always do it right Man, fuck your pride, just take it on back, boy Take it on back boy, take it back all night",
+      "valence": 2.42,
+      "arousal": 3.64,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Boy you know that you always do it right Man, fuck your pride, just take it on back, boy Take it on back boy, take it back all night Just take it on back, take it on back",
+      "valence": 2.62,
+      "arousal": 3.77,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Man, fuck your pride, just take it on back, boy Take it on back boy, take it back all night Just take it on back, take it on back Mmm, do what you gotta do, keep me up all night",
+      "valence": 2.5,
+      "arousal": 3.95,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Take it on back boy, take it back all night Just take it on back, take it on back Mmm, do what you gotta do, keep me up all night Hurting bad man, and it hurts inside when I look you in your eye",
+      "valence": 2.53,
+      "arousal": 3.85,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Just take it on back, take it on back Mmm, do what you gotta do, keep me up all night Hurting bad man, and it hurts inside when I look you in your eye What are you willing to do?",
+      "valence": 2.38,
+      "arousal": 3.76,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Mmm, do what you gotta do, keep me up all night Hurting bad man, and it hurts inside when I look you in your eye What are you willing to do? Oh, tell me what you're willing to do?",
+      "valence": 2.52,
+      "arousal": 3.63,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Hurting bad man, and it hurts inside when I look you in your eye What are you willing to do? Oh, tell me what you're willing to do? Kiss it, kiss it better, baby",
+      "valence": 2.9,
+      "arousal": 3.82,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "What are you willing to do? Oh, tell me what you're willing to do? Kiss it, kiss it better, baby What are you willing to do?",
+      "valence": 3.19,
+      "arousal": 3.56,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Oh, tell me what you're willing to do? Kiss it, kiss it better, baby What are you willing to do? Oh, tell me what you're willing to do?",
+      "valence": 3.17,
+      "arousal": 3.59,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Kiss it, kiss it better, baby What are you willing to do? Oh, tell me what you're willing to do? Kiss it, kiss it better, baby",
+      "valence": 3.34,
+      "arousal": 3.68,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "What are you willing to do? Oh, tell me what you're willing to do? Kiss it, kiss it better, baby Been waiting on that sunshine",
+      "valence": 3.32,
+      "arousal": 3.63,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Oh, tell me what you're willing to do? Kiss it, kiss it better, baby Been waiting on that sunshine Boy, I think I need that back",
+      "valence": 3.31,
+      "arousal": 3.83,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Kiss it, kiss it better, baby Been waiting on that sunshine Boy, I think I need that back Can't do it like that",
+      "valence": 3.37,
+      "arousal": 3.9,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Been waiting on that sunshine Boy, I think I need that back Can't do it like that No one else gonna get it like that",
+      "valence": 2.57,
+      "arousal": 3.35,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Boy, I think I need that back Can't do it like that No one else gonna get it like that So I argue, you yell, had to take me back",
+      "valence": 2.27,
+      "arousal": 3.54,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Can't do it like that No one else gonna get it like that So I argue, you yell, had to take me back Who cares when it feels like crack?",
+      "valence": 2.35,
+      "arousal": 3.48,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "No one else gonna get it like that So I argue, you yell, had to take me back Who cares when it feels like crack? Boy, you know that you always do it right",
+      "valence": 2.48,
+      "arousal": 3.51,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "So I argue, you yell, had to take me back Who cares when it feels like crack? Boy, you know that you always do it right Man, fuck your pride, just take it on back, boy",
+      "valence": 2.23,
+      "arousal": 3.74,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Who cares when it feels like crack? Boy, you know that you always do it right Man, fuck your pride, just take it on back, boy Take it on back boy, take it back all night",
+      "valence": 2.41,
+      "arousal": 3.65,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Boy, you know that you always do it right Man, fuck your pride, just take it on back, boy Take it on back boy, take it back all night Just take it on back, take it on back",
+      "valence": 2.66,
+      "arousal": 3.76,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Man, fuck your pride, just take it on back, boy Take it on back boy, take it back all night Just take it on back, take it on back Mmm, do what you gotta do, keep me up all night",
+      "valence": 2.5,
+      "arousal": 3.95,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Take it on back boy, take it back all night Just take it on back, take it on back Mmm, do what you gotta do, keep me up all night Hurting bad man, and it hurts inside when I look you in your eye",
+      "valence": 2.53,
+      "arousal": 3.85,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Just take it on back, take it on back Mmm, do what you gotta do, keep me up all night Hurting bad man, and it hurts inside when I look you in your eye What are you willing to do?",
+      "valence": 2.38,
+      "arousal": 3.76,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Mmm, do what you gotta do, keep me up all night Hurting bad man, and it hurts inside when I look you in your eye What are you willing to do? Oh, tell me what you're willing to do?",
+      "valence": 2.52,
+      "arousal": 3.63,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Hurting bad man, and it hurts inside when I look you in your eye What are you willing to do? Oh, tell me what you're willing to do? Kiss it, kiss it better, baby",
+      "valence": 2.9,
+      "arousal": 3.82,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "What are you willing to do? Oh, tell me what you're willing to do? Kiss it, kiss it better, baby What are you willing to do?",
+      "valence": 3.19,
+      "arousal": 3.56,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Oh, tell me what you're willing to do? Kiss it, kiss it better, baby What are you willing to do? Oh, tell me what you're willing to do?",
+      "valence": 3.17,
+      "arousal": 3.59,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Kiss it, kiss it better, baby What are you willing to do? Oh, tell me what you're willing to do? Kiss it, kiss it better, baby",
+      "valence": 3.34,
+      "arousal": 3.68,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "What are you willing to do? Oh, tell me what you're willing to do? Kiss it, kiss it better, baby I've been waiting up all night",
+      "valence": 3.21,
+      "arousal": 3.67,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Oh, tell me what you're willing to do? Kiss it, kiss it better, baby I've been waiting up all night Baby, tell me what's wrong",
+      "valence": 3.08,
+      "arousal": 3.84,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Kiss it, kiss it better, baby I've been waiting up all night Baby, tell me what's wrong Go on and make it right",
+      "valence": 3.45,
+      "arousal": 4.01,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I've been waiting up all night Baby, tell me what's wrong Go on and make it right Make it all night long",
+      "valence": 2.75,
+      "arousal": 3.67,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Baby, tell me what's wrong Go on and make it right Make it all night long I've been waiting up all night",
+      "valence": 2.72,
+      "arousal": 3.6,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Go on and make it right Make it all night long I've been waiting up all night Baby, tell me what's wrong",
+      "valence": 2.75,
+      "arousal": 3.69,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Make it all night long I've been waiting up all night Baby, tell me what's wrong Go on and make it right",
+      "valence": 2.71,
+      "arousal": 3.58,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I've been waiting up all night Baby, tell me what's wrong Go on and make it right Make it all night long",
+      "valence": 2.75,
+      "arousal": 3.67,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Baby, tell me what's wrong Go on and make it right Make it all night long Man, fuck your pride, just take it on back, boy",
+      "valence": 2.32,
+      "arousal": 3.77,
+      "dominance": 3.75
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Go on and make it right Make it all night long Man, fuck your pride, just take it on back, boy Take it on back boy, take it back all night",
+      "valence": 2.67,
+      "arousal": 3.94,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Make it all night long Man, fuck your pride, just take it on back, boy Take it on back boy, take it back all night Just take it on back, take it on back",
+      "valence": 2.5,
+      "arousal": 3.83,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Man, fuck your pride, just take it on back, boy Take it on back boy, take it back all night Just take it on back, take it on back Mmm, do what you gotta do, keep me up all night",
+      "valence": 2.5,
+      "arousal": 3.95,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Take it on back boy, take it back all night Just take it on back, take it on back Mmm, do what you gotta do, keep me up all night Hurting bad man, and it hurts inside when I look you in your eye",
+      "valence": 2.53,
+      "arousal": 3.85,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Just take it on back, take it on back Mmm, do what you gotta do, keep me up all night Hurting bad man, and it hurts inside when I look you in your eye What are you willing to do?",
+      "valence": 2.38,
+      "arousal": 3.76,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Mmm, do what you gotta do, keep me up all night Hurting bad man, and it hurts inside when I look you in your eye What are you willing to do? Oh, tell me what you're willing to do?",
+      "valence": 2.52,
+      "arousal": 3.63,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Hurting bad man, and it hurts inside when I look you in your eye What are you willing to do? Oh, tell me what you're willing to do? Kiss it, kiss it better, baby",
+      "valence": 2.9,
+      "arousal": 3.82,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "What are you willing to do? Oh, tell me what you're willing to do? Kiss it, kiss it better, baby What are you willing to do?",
+      "valence": 3.19,
+      "arousal": 3.56,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Oh, tell me what you're willing to do? Kiss it, kiss it better, baby What are you willing to do? Oh, tell me what you're willing to do?",
+      "valence": 3.17,
+      "arousal": 3.59,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Kiss it, kiss it better, baby What are you willing to do? Oh, tell me what you're willing to do? Kiss it, kiss it better, baby",
+      "valence": 3.34,
+      "arousal": 3.68,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "What are you willing to do? Oh, tell me what you're willing to do? Kiss it, kiss it better, baby What are you willing to do?",
+      "valence": 3.19,
+      "arousal": 3.56,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Oh, tell me what you're willing to do? Kiss it, kiss it better, baby What are you willing to do? Oh, tell me what you're willing to do?",
+      "valence": 3.17,
+      "arousal": 3.59,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Kiss it, kiss it better, baby What are you willing to do? Oh, tell me what you're willing to do? Kiss it, kiss it better, baby",
+      "valence": 3.34,
+      "arousal": 3.68,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "What are you willing to do? Oh, tell me what you're willing to do? Kiss it, kiss it better, baby What are you willing to do?",
+      "valence": 3.19,
+      "arousal": 3.56,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Oh, tell me what you're willing to do? Kiss it, kiss it better, baby What are you willing to do? Oh, tell me what you're willing to do?",
+      "valence": 3.17,
+      "arousal": 3.59,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Kiss it, kiss it better, baby What are you willing to do? Oh, tell me what you're willing to do? Kiss it, kiss it better baby",
+      "valence": 3.34,
+      "arousal": 3.71,
+      "dominance": 3.28
+    }
+  ]
+}

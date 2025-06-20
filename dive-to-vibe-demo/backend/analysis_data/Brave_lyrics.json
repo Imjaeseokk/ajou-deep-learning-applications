@@ -1,0 +1,430 @@
+{
+  "artist": "Sara Bareilles",
+  "overall_vad": {
+    "valence": 3.16,
+    "arousal": 3.37,
+    "dominance": 3.19
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "You can be amazing You can turn a phrase into a weapon or a drug You can be the outcast Or be the backlash of somebody's lack of love",
+      "valence": 3.08,
+      "arousal": 3.52,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "You can turn a phrase into a weapon or a drug You can be the outcast Or be the backlash of somebody's lack of love Or you can start speaking up",
+      "valence": 2.75,
+      "arousal": 3.4,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "You can be the outcast Or be the backlash of somebody's lack of love Or you can start speaking up Nothing's gonna hurt you the way that words do",
+      "valence": 2.68,
+      "arousal": 3.46,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Or be the backlash of somebody's lack of love Or you can start speaking up Nothing's gonna hurt you the way that words do When they settle 'neath your skin",
+      "valence": 2.71,
+      "arousal": 3.38,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Or you can start speaking up Nothing's gonna hurt you the way that words do When they settle 'neath your skin Kept on the inside and no sunlight",
+      "valence": 2.95,
+      "arousal": 3.15,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Nothing's gonna hurt you the way that words do When they settle 'neath your skin Kept on the inside and no sunlight Sometimes a shadow wins",
+      "valence": 2.99,
+      "arousal": 3.08,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "When they settle 'neath your skin Kept on the inside and no sunlight Sometimes a shadow wins But I wonder what would happen if you",
+      "valence": 2.89,
+      "arousal": 3.09,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Kept on the inside and no sunlight Sometimes a shadow wins But I wonder what would happen if you Say what you wanna say",
+      "valence": 2.98,
+      "arousal": 3.11,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Sometimes a shadow wins But I wonder what would happen if you Say what you wanna say And let the words fall out",
+      "valence": 2.92,
+      "arousal": 3.1,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "But I wonder what would happen if you Say what you wanna say And let the words fall out Honestly I wanna see you be brave",
+      "valence": 3.16,
+      "arousal": 3.36,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Say what you wanna say And let the words fall out Honestly I wanna see you be brave With what you want to say",
+      "valence": 3.26,
+      "arousal": 3.57,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "And let the words fall out Honestly I wanna see you be brave With what you want to say And let the words fall out",
+      "valence": 3.31,
+      "arousal": 3.6,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Honestly I wanna see you be brave With what you want to say And let the words fall out Honestly I wanna see you be brave",
+      "valence": 3.33,
+      "arousal": 3.63,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "With what you want to say And let the words fall out Honestly I wanna see you be brave I just wanna see you",
+      "valence": 3.33,
+      "arousal": 3.48,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And let the words fall out Honestly I wanna see you be brave I just wanna see you I just wanna see you",
+      "valence": 3.37,
+      "arousal": 3.46,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Honestly I wanna see you be brave I just wanna see you I just wanna see you I just wanna see you",
+      "valence": 3.28,
+      "arousal": 3.32,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I just wanna see you I just wanna see you I just wanna see you I wanna see you be brave",
+      "valence": 3.3,
+      "arousal": 3.27,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I just wanna see you I just wanna see you I wanna see you be brave I just wanna see you",
+      "valence": 3.4,
+      "arousal": 3.35,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I just wanna see you I wanna see you be brave I just wanna see you I just wanna see you",
+      "valence": 3.36,
+      "arousal": 3.34,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I wanna see you be brave I just wanna see you I just wanna see you I just wanna see you",
+      "valence": 3.33,
+      "arousal": 3.34,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I just wanna see you I just wanna see you I just wanna see you I wanna see you be brave",
+      "valence": 3.3,
+      "arousal": 3.27,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I just wanna see you I just wanna see you I wanna see you be brave Everybody's been there, everybody's been stared down",
+      "valence": 3.16,
+      "arousal": 3.4,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I just wanna see you I wanna see you be brave Everybody's been there, everybody's been stared down By the enemy",
+      "valence": 3.21,
+      "arousal": 3.43,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I wanna see you be brave Everybody's been there, everybody's been stared down By the enemy Fallen for the fear and done some disappearing",
+      "valence": 3.23,
+      "arousal": 3.6,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Everybody's been there, everybody's been stared down By the enemy Fallen for the fear and done some disappearing Bow down to the mighty",
+      "valence": 3.02,
+      "arousal": 3.29,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "By the enemy Fallen for the fear and done some disappearing Bow down to the mighty But don't run, stop holding your tongue",
+      "valence": 2.74,
+      "arousal": 3.32,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Fallen for the fear and done some disappearing Bow down to the mighty But don't run, stop holding your tongue Maybe there's a way out of the cage where you live",
+      "valence": 2.82,
+      "arousal": 3.39,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Bow down to the mighty But don't run, stop holding your tongue Maybe there's a way out of the cage where you live Maybe one of these days you can let the light in",
+      "valence": 3.19,
+      "arousal": 3.39,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "But don't run, stop holding your tongue Maybe there's a way out of the cage where you live Maybe one of these days you can let the light in Show me how big your brave is",
+      "valence": 3.16,
+      "arousal": 3.46,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Maybe there's a way out of the cage where you live Maybe one of these days you can let the light in Show me how big your brave is Say what you wanna say",
+      "valence": 3.24,
+      "arousal": 3.36,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Maybe one of these days you can let the light in Show me how big your brave is Say what you wanna say And let the words fall out",
+      "valence": 3.19,
+      "arousal": 3.33,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Show me how big your brave is Say what you wanna say And let the words fall out Honestly I wanna see you be brave",
+      "valence": 3.22,
+      "arousal": 3.34,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Say what you wanna say And let the words fall out Honestly I wanna see you be brave With what you want to say",
+      "valence": 3.26,
+      "arousal": 3.57,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "And let the words fall out Honestly I wanna see you be brave With what you want to say And let the words fall out",
+      "valence": 3.31,
+      "arousal": 3.6,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Honestly I wanna see you be brave With what you want to say And let the words fall out Honestly I wanna see you be brave",
+      "valence": 3.33,
+      "arousal": 3.63,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "With what you want to say And let the words fall out Honestly I wanna see you be brave Innocence, your history of silence",
+      "valence": 3.17,
+      "arousal": 3.57,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "And let the words fall out Honestly I wanna see you be brave Innocence, your history of silence Won't do you any good",
+      "valence": 2.73,
+      "arousal": 3.4,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Honestly I wanna see you be brave Innocence, your history of silence Won't do you any good Did you think it would?",
+      "valence": 3.01,
+      "arousal": 3.41,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Innocence, your history of silence Won't do you any good Did you think it would? Let your words be anything but empty",
+      "valence": 2.68,
+      "arousal": 3.06,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Won't do you any good Did you think it would? Let your words be anything but empty Why don't you tell them the truth?",
+      "valence": 2.75,
+      "arousal": 3.16,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Did you think it would? Let your words be anything but empty Why don't you tell them the truth? Say what you wanna say",
+      "valence": 2.97,
+      "arousal": 3.2,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Let your words be anything but empty Why don't you tell them the truth? Say what you wanna say And let the words fall out",
+      "valence": 2.82,
+      "arousal": 3.26,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Why don't you tell them the truth? Say what you wanna say And let the words fall out Honestly I wanna see you be brave",
+      "valence": 3.08,
+      "arousal": 3.39,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Say what you wanna say And let the words fall out Honestly I wanna see you be brave With what you want to say",
+      "valence": 3.26,
+      "arousal": 3.57,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "And let the words fall out Honestly I wanna see you be brave With what you want to say And let the words fall out",
+      "valence": 3.31,
+      "arousal": 3.6,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Honestly I wanna see you be brave With what you want to say And let the words fall out Honestly I wanna see you be brave",
+      "valence": 3.33,
+      "arousal": 3.63,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "With what you want to say And let the words fall out Honestly I wanna see you be brave I just wanna see you",
+      "valence": 3.33,
+      "arousal": 3.48,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "And let the words fall out Honestly I wanna see you be brave I just wanna see you I just wanna see you",
+      "valence": 3.37,
+      "arousal": 3.46,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Honestly I wanna see you be brave I just wanna see you I just wanna see you I just wanna see you",
+      "valence": 3.28,
+      "arousal": 3.32,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I just wanna see you I just wanna see you I just wanna see you I wanna see you be brave",
+      "valence": 3.3,
+      "arousal": 3.27,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I just wanna see you I just wanna see you I wanna see you be brave I just wanna see you",
+      "valence": 3.4,
+      "arousal": 3.35,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "I just wanna see you I wanna see you be brave I just wanna see you I just wanna see you",
+      "valence": 3.36,
+      "arousal": 3.34,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "I wanna see you be brave I just wanna see you I just wanna see you I just wanna see you",
+      "valence": 3.33,
+      "arousal": 3.34,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "I just wanna see you I just wanna see you I just wanna see you See you be brave",
+      "valence": 3.33,
+      "arousal": 3.3,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "I just wanna see you I just wanna see you See you be brave I just wanna see you",
+      "valence": 3.45,
+      "arousal": 3.42,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "I just wanna see you See you be brave I just wanna see you I just wanna see you",
+      "valence": 3.38,
+      "arousal": 3.36,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "See you be brave I just wanna see you I just wanna see you I just wanna see you",
+      "valence": 3.33,
+      "arousal": 3.38,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "I just wanna see you I just wanna see you I just wanna see you I just wanna see you",
+      "valence": 3.24,
+      "arousal": 3.2,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "I just wanna see you I just wanna see you I just wanna see you I just wanna see you",
+      "valence": 3.24,
+      "arousal": 3.2,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "I just wanna see you I just wanna see you I just wanna see you I just wanna see you",
+      "valence": 3.24,
+      "arousal": 3.2,
+      "dominance": 3.2
+    }
+  ]
+}

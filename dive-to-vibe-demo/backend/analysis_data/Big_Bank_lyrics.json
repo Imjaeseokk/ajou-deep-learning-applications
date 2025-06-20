@@ -1,0 +1,675 @@
+{
+  "artist": "YG Featuring 2 Chainz, Big Sean & Nicki Minaj",
+  "overall_vad": {
+    "valence": 2.69,
+    "arousal": 3.48,
+    "dominance": 3.36
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "My bitch drive a all white Range Couldn't hit it if you nigga's had aim Lames can't call and you a lame You had it then you lost it, hall of shame",
+      "valence": 2.08,
+      "arousal": 3.58,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Couldn't hit it if you nigga's had aim Lames can't call and you a lame You had it then you lost it, hall of shame I can buy a Bentley, don't talk to me",
+      "valence": 2.2,
+      "arousal": 3.54,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Lames can't call and you a lame You had it then you lost it, hall of shame I can buy a Bentley, don't talk to me For a show 150, don't talk to me",
+      "valence": 2.27,
+      "arousal": 3.52,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "You had it then you lost it, hall of shame I can buy a Bentley, don't talk to me For a show 150, don't talk to me You ain't never helped your mans, don't talk to me",
+      "valence": 2.23,
+      "arousal": 3.53,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I can buy a Bentley, don't talk to me For a show 150, don't talk to me You ain't never helped your mans, don't talk to me You just follow all the trends, don't talk to me",
+      "valence": 2.52,
+      "arousal": 3.42,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "For a show 150, don't talk to me You ain't never helped your mans, don't talk to me You just follow all the trends, don't talk to me Ay, I set the bar, I'm the fuckin' bar",
+      "valence": 2.49,
+      "arousal": 3.59,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "You ain't never helped your mans, don't talk to me You just follow all the trends, don't talk to me Ay, I set the bar, I'm the fuckin' bar In the sky, I'm a fuckin' star",
+      "valence": 2.62,
+      "arousal": 3.77,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "You just follow all the trends, don't talk to me Ay, I set the bar, I'm the fuckin' bar In the sky, I'm a fuckin' star I don't fall in love 'cause I be lovin' hard",
+      "valence": 2.8,
+      "arousal": 3.85,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Ay, I set the bar, I'm the fuckin' bar In the sky, I'm a fuckin' star I don't fall in love 'cause I be lovin' hard Do everything like my shirt, extra large",
+      "valence": 3.39,
+      "arousal": 3.78,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "In the sky, I'm a fuckin' star I don't fall in love 'cause I be lovin' hard Do everything like my shirt, extra large I don't care I'll crash a Ghost",
+      "valence": 2.89,
+      "arousal": 3.77,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I don't fall in love 'cause I be lovin' hard Do everything like my shirt, extra large I don't care I'll crash a Ghost Got two cribs in two states, I be doing the most",
+      "valence": 2.89,
+      "arousal": 3.41,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Do everything like my shirt, extra large I don't care I'll crash a Ghost Got two cribs in two states, I be doing the most I got white folks money that I won't blow",
+      "valence": 2.81,
+      "arousal": 3.46,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I don't care I'll crash a Ghost Got two cribs in two states, I be doing the most I got white folks money that I won't blow If you ask why 'cause the white folks don't",
+      "valence": 2.68,
+      "arousal": 3.41,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Got two cribs in two states, I be doing the most I got white folks money that I won't blow If you ask why 'cause the white folks don't Big bank take lil' bank, bank",
+      "valence": 2.84,
+      "arousal": 3.25,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I got white folks money that I won't blow If you ask why 'cause the white folks don't Big bank take lil' bank, bank Big bank take lil' bank, bank",
+      "valence": 2.67,
+      "arousal": 3.32,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "If you ask why 'cause the white folks don't Big bank take lil' bank, bank Big bank take lil' bank, bank Type of money you gon' need a safe",
+      "valence": 2.59,
+      "arousal": 3.23,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Big bank take lil' bank, bank Big bank take lil' bank, bank Type of money you gon' need a safe Type of money you gon' need a bank",
+      "valence": 2.81,
+      "arousal": 3.18,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Big bank take lil' bank, bank Type of money you gon' need a safe Type of money you gon' need a bank From the hood, this type of money make you stay awake",
+      "valence": 2.81,
+      "arousal": 3.24,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Type of money you gon' need a safe Type of money you gon' need a bank From the hood, this type of money make you stay awake Type of money she gon' let you put it in her face",
+      "valence": 2.78,
+      "arousal": 3.36,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Type of money you gon' need a bank From the hood, this type of money make you stay awake Type of money she gon' let you put it in her face Big bank take lil' bank, bank",
+      "valence": 2.69,
+      "arousal": 3.39,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "From the hood, this type of money make you stay awake Type of money she gon' let you put it in her face Big bank take lil' bank, bank Big bank take lil' bank, bank",
+      "valence": 2.69,
+      "arousal": 3.53,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Type of money she gon' let you put it in her face Big bank take lil' bank, bank Big bank take lil' bank, bank Everything proper, no propaganda",
+      "valence": 2.59,
+      "arousal": 3.46,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Big bank take lil' bank, bank Big bank take lil' bank, bank Everything proper, no propaganda Tropicana Goyard bandanna",
+      "valence": 2.87,
+      "arousal": 3.24,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Big bank take lil' bank, bank Everything proper, no propaganda Tropicana Goyard bandanna Big sack, a lotta hoes like Santa",
+      "valence": 2.95,
+      "arousal": 3.15,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Everything proper, no propaganda Tropicana Goyard bandanna Big sack, a lotta hoes like Santa Threw a birthday party in a Phantom",
+      "valence": 3.02,
+      "arousal": 3.13,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Tropicana Goyard bandanna Big sack, a lotta hoes like Santa Threw a birthday party in a Phantom Big shit like a dinosaur did it",
+      "valence": 2.77,
+      "arousal": 3.36,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Big sack, a lotta hoes like Santa Threw a birthday party in a Phantom Big shit like a dinosaur did it And you know Tity shinin' like acrylic",
+      "valence": 2.81,
+      "arousal": 3.31,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Threw a birthday party in a Phantom Big shit like a dinosaur did it And you know Tity shinin' like acrylic Yeah I sold dope, I had cornrows",
+      "valence": 3.01,
+      "arousal": 3.45,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Big shit like a dinosaur did it And you know Tity shinin' like acrylic Yeah I sold dope, I had cornrows I can you see niggas hatin' with the door close",
+      "valence": 2.79,
+      "arousal": 3.31,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "And you know Tity shinin' like acrylic Yeah I sold dope, I had cornrows I can you see niggas hatin' with the door close Now I'm lookin' for a glove with the sparkle on it",
+      "valence": 2.94,
+      "arousal": 3.24,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Yeah I sold dope, I had cornrows I can you see niggas hatin' with the door close Now I'm lookin' for a glove with the sparkle on it And my CBD got chocolate on it",
+      "valence": 3.04,
+      "arousal": 3.44,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I can you see niggas hatin' with the door close Now I'm lookin' for a glove with the sparkle on it And my CBD got chocolate on it Big bank take small ass shit",
+      "valence": 2.59,
+      "arousal": 3.5,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Now I'm lookin' for a glove with the sparkle on it And my CBD got chocolate on it Big bank take small ass shit Bank account on some tall ass shit",
+      "valence": 2.57,
+      "arousal": 3.58,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "And my CBD got chocolate on it Big bank take small ass shit Bank account on some tall ass shit Attitude on some fuck you too",
+      "valence": 2.52,
+      "arousal": 3.78,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Big bank take small ass shit Bank account on some tall ass shit Attitude on some fuck you too Bankroll on what it do, boo?",
+      "valence": 2.15,
+      "arousal": 3.65,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Bank account on some tall ass shit Attitude on some fuck you too Bankroll on what it do, boo? Meet me at the room, let's vibe",
+      "valence": 2.51,
+      "arousal": 3.68,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Attitude on some fuck you too Bankroll on what it do, boo? Meet me at the room, let's vibe And if I ain't did it yet, I'll try",
+      "valence": 2.52,
+      "arousal": 3.58,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Bankroll on what it do, boo? Meet me at the room, let's vibe And if I ain't did it yet, I'll try Big bank take lil' bank, bank",
+      "valence": 2.8,
+      "arousal": 3.37,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Meet me at the room, let's vibe And if I ain't did it yet, I'll try Big bank take lil' bank, bank Big bank take lil' bank, bank",
+      "valence": 2.79,
+      "arousal": 3.36,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "And if I ain't did it yet, I'll try Big bank take lil' bank, bank Big bank take lil' bank, bank Type of money you gon' need a safe",
+      "valence": 2.66,
+      "arousal": 3.29,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Big bank take lil' bank, bank Big bank take lil' bank, bank Type of money you gon' need a safe Type of money you gon' need a bank",
+      "valence": 2.81,
+      "arousal": 3.18,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Big bank take lil' bank, bank Type of money you gon' need a safe Type of money you gon' need a bank From the hood, this type of money make you stay awake",
+      "valence": 2.81,
+      "arousal": 3.24,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Type of money you gon' need a safe Type of money you gon' need a bank From the hood, this type of money make you stay awake Type of money she gon' let you put it in her face",
+      "valence": 2.78,
+      "arousal": 3.36,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Type of money you gon' need a bank From the hood, this type of money make you stay awake Type of money she gon' let you put it in her face Big bank take lil' bank, bank",
+      "valence": 2.69,
+      "arousal": 3.39,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "From the hood, this type of money make you stay awake Type of money she gon' let you put it in her face Big bank take lil' bank, bank Big bank take lil' bank, bank",
+      "valence": 2.69,
+      "arousal": 3.53,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Type of money she gon' let you put it in her face Big bank take lil' bank, bank Big bank take lil' bank, bank She said whatchu' gon do if I leave?",
+      "valence": 2.44,
+      "arousal": 3.6,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Big bank take lil' bank, bank Big bank take lil' bank, bank She said whatchu' gon do if I leave? I said bitch, I'ma do me",
+      "valence": 2.16,
+      "arousal": 3.77,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Big bank take lil' bank, bank She said whatchu' gon do if I leave? I said bitch, I'ma do me B.I.G., bitch everything zoomed in",
+      "valence": 2.27,
+      "arousal": 3.82,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "She said whatchu' gon do if I leave? I said bitch, I'ma do me B.I.G., bitch everything zoomed in Big bag on me lookin' like I'm movin' in",
+      "valence": 2.17,
+      "arousal": 3.96,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I said bitch, I'ma do me B.I.G., bitch everything zoomed in Big bag on me lookin' like I'm movin' in Got my foot in the door and we still here",
+      "valence": 2.06,
+      "arousal": 4.09,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "B.I.G., bitch everything zoomed in Big bag on me lookin' like I'm movin' in Got my foot in the door and we still here I'm a first generation millionaire",
+      "valence": 2.86,
+      "arousal": 3.88,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Big bag on me lookin' like I'm movin' in Got my foot in the door and we still here I'm a first generation millionaire I broke the curse in my family not having shit",
+      "valence": 3.25,
+      "arousal": 3.61,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Got my foot in the door and we still here I'm a first generation millionaire I broke the curse in my family not having shit I'm passionate, like girls that's after more than just cash and dick",
+      "valence": 3.47,
+      "arousal": 3.68,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "I'm a first generation millionaire I broke the curse in my family not having shit I'm passionate, like girls that's after more than just cash and dick Feed me to the wolves now I lead the pack and shit",
+      "valence": 3.15,
+      "arousal": 3.85,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "I broke the curse in my family not having shit I'm passionate, like girls that's after more than just cash and dick Feed me to the wolves now I lead the pack and shit You boys all cap, I'm more Colin Kaepernick",
+      "valence": 2.84,
+      "arousal": 3.75,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "I'm passionate, like girls that's after more than just cash and dick Feed me to the wolves now I lead the pack and shit You boys all cap, I'm more Colin Kaepernick I'm rare as affordable health care (oh god)",
+      "valence": 2.91,
+      "arousal": 4.0,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Feed me to the wolves now I lead the pack and shit You boys all cap, I'm more Colin Kaepernick I'm rare as affordable health care (oh god) Or going to wealth from welfare (got it)",
+      "valence": 2.33,
+      "arousal": 3.69,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "You boys all cap, I'm more Colin Kaepernick I'm rare as affordable health care (oh god) Or going to wealth from welfare (got it) I turn my Ws to M's, yeah I flip those",
+      "valence": 2.84,
+      "arousal": 3.41,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "I'm rare as affordable health care (oh god) Or going to wealth from welfare (got it) I turn my Ws to M's, yeah I flip those I might buy her red bottoms with the crypto",
+      "valence": 2.82,
+      "arousal": 3.35,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Or going to wealth from welfare (got it) I turn my Ws to M's, yeah I flip those I might buy her red bottoms with the crypto Three coins, that'll pay ya whole semester",
+      "valence": 3.03,
+      "arousal": 3.32,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "I turn my Ws to M's, yeah I flip those I might buy her red bottoms with the crypto Three coins, that'll pay ya whole semester But you gotta ride it better than a Tesla",
+      "valence": 3.13,
+      "arousal": 3.34,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "I might buy her red bottoms with the crypto Three coins, that'll pay ya whole semester But you gotta ride it better than a Tesla Big bank take lil' bank, bank (lil' bitch)",
+      "valence": 2.74,
+      "arousal": 3.63,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Three coins, that'll pay ya whole semester But you gotta ride it better than a Tesla Big bank take lil' bank, bank (lil' bitch) Big bank take lil' bank, bank",
+      "valence": 2.56,
+      "arousal": 3.61,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "But you gotta ride it better than a Tesla Big bank take lil' bank, bank (lil' bitch) Big bank take lil' bank, bank Type of money you gon' need a safe",
+      "valence": 2.54,
+      "arousal": 3.51,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Big bank take lil' bank, bank (lil' bitch) Big bank take lil' bank, bank Type of money you gon' need a safe Type of money you gon' need a bank",
+      "valence": 2.41,
+      "arousal": 3.53,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Big bank take lil' bank, bank Type of money you gon' need a safe Type of money you gon' need a bank From the hood, this type of money make you stay awake",
+      "valence": 2.81,
+      "arousal": 3.24,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Type of money you gon' need a safe Type of money you gon' need a bank From the hood, this type of money make you stay awake Type of money she gon' let you put it in her face",
+      "valence": 2.78,
+      "arousal": 3.36,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Type of money you gon' need a bank From the hood, this type of money make you stay awake Type of money she gon' let you put it in her face Big bank take lil' bank, bank",
+      "valence": 2.69,
+      "arousal": 3.39,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "From the hood, this type of money make you stay awake Type of money she gon' let you put it in her face Big bank take lil' bank, bank Big bank take lil' bank, bank",
+      "valence": 2.69,
+      "arousal": 3.53,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Type of money she gon' let you put it in her face Big bank take lil' bank, bank Big bank take lil' bank, bank Uh oh",
+      "valence": 2.48,
+      "arousal": 3.54,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Big bank take lil' bank, bank Big bank take lil' bank, bank Uh oh Back again",
+      "valence": 2.59,
+      "arousal": 3.33,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Big bank take lil' bank, bank Uh oh Back again Back to back Maybach, stack the M's",
+      "valence": 2.77,
+      "arousal": 3.24,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Uh oh Back again Back to back Maybach, stack the M's Told em' I met Slim Shady, bagged a Em",
+      "valence": 3.01,
+      "arousal": 3.25,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Back again Back to back Maybach, stack the M's Told em' I met Slim Shady, bagged a Em Once he go black, he'll be back again",
+      "valence": 3.12,
+      "arousal": 3.1,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Back to back Maybach, stack the M's Told em' I met Slim Shady, bagged a Em Once he go black, he'll be back again Tell them hoes that it's crunch time, abdomen",
+      "valence": 3.03,
+      "arousal": 3.25,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "Told em' I met Slim Shady, bagged a Em Once he go black, he'll be back again Tell them hoes that it's crunch time, abdomen Yes I cop mad Chanel and mad Given'",
+      "valence": 3.06,
+      "arousal": 3.33,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "Once he go black, he'll be back again Tell them hoes that it's crunch time, abdomen Yes I cop mad Chanel and mad Given' She did it again, imagine them",
+      "valence": 2.8,
+      "arousal": 3.38,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "Tell them hoes that it's crunch time, abdomen Yes I cop mad Chanel and mad Given' She did it again, imagine them 'Bout to make these bum bitches mad again",
+      "valence": 2.47,
+      "arousal": 3.53,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "Yes I cop mad Chanel and mad Given' She did it again, imagine them 'Bout to make these bum bitches mad again Uh oh",
+      "valence": 2.57,
+      "arousal": 3.5,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "She did it again, imagine them 'Bout to make these bum bitches mad again Uh oh Back to them",
+      "valence": 2.53,
+      "arousal": 3.39,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "'Bout to make these bum bitches mad again Uh oh Back to them I lead the pack so my backs to them",
+      "valence": 2.41,
+      "arousal": 3.4,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "Uh oh Back to them I lead the pack so my backs to them Yep, the queen's back, what's happenin'?",
+      "valence": 3.04,
+      "arousal": 3.27,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "Back to them I lead the pack so my backs to them Yep, the queen's back, what's happenin'? Rerun bout to make these bitches rap again (rr) (uh)",
+      "valence": 2.68,
+      "arousal": 3.5,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "I lead the pack so my backs to them Yep, the queen's back, what's happenin'? Rerun bout to make these bitches rap again (rr) (uh) Diamond chains on my ankle",
+      "valence": 2.63,
+      "arousal": 3.69,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "Yep, the queen's back, what's happenin'? Rerun bout to make these bitches rap again (rr) (uh) Diamond chains on my ankle Young Money in the cut like a shank though",
+      "valence": 2.6,
+      "arousal": 3.66,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 86,
+      "lyrics_text": "Rerun bout to make these bitches rap again (rr) (uh) Diamond chains on my ankle Young Money in the cut like a shank though Tell T.I.P. Rubber band's in my bankroll",
+      "valence": 2.36,
+      "arousal": 3.64,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 87,
+      "lyrics_text": "Diamond chains on my ankle Young Money in the cut like a shank though Tell T.I.P. Rubber band's in my bankroll Show my ass like a stank hoe",
+      "valence": 2.42,
+      "arousal": 3.57,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 88,
+      "lyrics_text": "Young Money in the cut like a shank though Tell T.I.P. Rubber band's in my bankroll Show my ass like a stank hoe Big bank take lil' bank",
+      "valence": 2.35,
+      "arousal": 3.64,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 89,
+      "lyrics_text": "Tell T.I.P. Rubber band's in my bankroll Show my ass like a stank hoe Big bank take lil' bank Big bank take lil' bank",
+      "valence": 2.28,
+      "arousal": 3.7,
+      "dominance": 3.81
+    },
+    {
+      "chunk_id": 90,
+      "lyrics_text": "Show my ass like a stank hoe Big bank take lil' bank Big bank take lil' bank Type of money you gon' need a safe",
+      "valence": 2.11,
+      "arousal": 3.67,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 91,
+      "lyrics_text": "Big bank take lil' bank Big bank take lil' bank Type of money you gon' need a safe Type of money you gon' need a bank",
+      "valence": 2.81,
+      "arousal": 3.19,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 92,
+      "lyrics_text": "Big bank take lil' bank Type of money you gon' need a safe Type of money you gon' need a bank From the hood, this type of money make you stay awake",
+      "valence": 2.75,
+      "arousal": 3.22,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 93,
+      "lyrics_text": "Type of money you gon' need a safe Type of money you gon' need a bank From the hood, this type of money make you stay awake Type of money she gon' let you put it in her face",
+      "valence": 2.78,
+      "arousal": 3.36,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 94,
+      "lyrics_text": "Type of money you gon' need a bank From the hood, this type of money make you stay awake Type of money she gon' let you put it in her face Big bank take lil' bank, bank",
+      "valence": 2.69,
+      "arousal": 3.39,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 95,
+      "lyrics_text": "From the hood, this type of money make you stay awake Type of money she gon' let you put it in her face Big bank take lil' bank, bank Big bank take lil' bank, bank",
+      "valence": 2.69,
+      "arousal": 3.53,
+      "dominance": 3.2
+    }
+  ]
+}

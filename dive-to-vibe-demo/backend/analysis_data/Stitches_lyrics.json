@@ -1,0 +1,402 @@
+{
+  "artist": "Shawn Mendes",
+  "overall_vad": {
+    "valence": 2.49,
+    "arousal": 3.71,
+    "dominance": 2.94
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I thought that I've been hurt before But no one's ever left me quite this sore Your words cut deeper than a knife Now I need someone to breathe me back to life",
+      "valence": 2.3,
+      "arousal": 3.72,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "But no one's ever left me quite this sore Your words cut deeper than a knife Now I need someone to breathe me back to life Got a feeling that I'm going under",
+      "valence": 2.24,
+      "arousal": 3.78,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Your words cut deeper than a knife Now I need someone to breathe me back to life Got a feeling that I'm going under But I know that I'll make it out alive",
+      "valence": 2.59,
+      "arousal": 3.85,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Now I need someone to breathe me back to life Got a feeling that I'm going under But I know that I'll make it out alive If I quit calling you my lover",
+      "valence": 2.85,
+      "arousal": 3.59,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Got a feeling that I'm going under But I know that I'll make it out alive If I quit calling you my lover Move on",
+      "valence": 2.91,
+      "arousal": 3.58,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "But I know that I'll make it out alive If I quit calling you my lover Move on You watch me bleed until I can't breathe",
+      "valence": 2.58,
+      "arousal": 3.78,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "If I quit calling you my lover Move on You watch me bleed until I can't breathe I'm shaking, falling onto my knees",
+      "valence": 2.21,
+      "arousal": 3.96,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Move on You watch me bleed until I can't breathe I'm shaking, falling onto my knees And now that I'm without your kisses",
+      "valence": 2.37,
+      "arousal": 3.8,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "You watch me bleed until I can't breathe I'm shaking, falling onto my knees And now that I'm without your kisses I'll be needing stitches",
+      "valence": 2.3,
+      "arousal": 3.84,
+      "dominance": 2.61
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I'm shaking, falling onto my knees And now that I'm without your kisses I'll be needing stitches Tripping over myself",
+      "valence": 2.58,
+      "arousal": 3.87,
+      "dominance": 2.54
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "And now that I'm without your kisses I'll be needing stitches Tripping over myself Aching, begging you to come help",
+      "valence": 2.63,
+      "arousal": 3.91,
+      "dominance": 2.69
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I'll be needing stitches Tripping over myself Aching, begging you to come help And now that I'm without your kisses",
+      "valence": 2.6,
+      "arousal": 3.91,
+      "dominance": 2.59
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Tripping over myself Aching, begging you to come help And now that I'm without your kisses I'll be needing stitches",
+      "valence": 2.62,
+      "arousal": 3.89,
+      "dominance": 2.71
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Aching, begging you to come help And now that I'm without your kisses I'll be needing stitches Just like a moth drawn to a flame",
+      "valence": 2.69,
+      "arousal": 3.73,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And now that I'm without your kisses I'll be needing stitches Just like a moth drawn to a flame Oh, you lured me in I couldn't sense the pain",
+      "valence": 2.54,
+      "arousal": 3.75,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I'll be needing stitches Just like a moth drawn to a flame Oh, you lured me in I couldn't sense the pain Your bitter heart cold to the touch",
+      "valence": 2.5,
+      "arousal": 3.68,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Just like a moth drawn to a flame Oh, you lured me in I couldn't sense the pain Your bitter heart cold to the touch Now I'm gonna reap what I sow",
+      "valence": 2.66,
+      "arousal": 3.68,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Oh, you lured me in I couldn't sense the pain Your bitter heart cold to the touch Now I'm gonna reap what I sow I'm left seeing red on my own",
+      "valence": 2.45,
+      "arousal": 3.77,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Your bitter heart cold to the touch Now I'm gonna reap what I sow I'm left seeing red on my own Got a feeling that I'm going under",
+      "valence": 2.19,
+      "arousal": 3.7,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Now I'm gonna reap what I sow I'm left seeing red on my own Got a feeling that I'm going under But I know that I'll make it out alive",
+      "valence": 2.88,
+      "arousal": 3.56,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I'm left seeing red on my own Got a feeling that I'm going under But I know that I'll make it out alive If I quit calling you my lover",
+      "valence": 2.69,
+      "arousal": 3.62,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Got a feeling that I'm going under But I know that I'll make it out alive If I quit calling you my lover Move on",
+      "valence": 2.91,
+      "arousal": 3.58,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "But I know that I'll make it out alive If I quit calling you my lover Move on You watch me bleed until I can't breathe",
+      "valence": 2.58,
+      "arousal": 3.78,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "If I quit calling you my lover Move on You watch me bleed until I can't breathe I'm shaking, falling onto my knees",
+      "valence": 2.21,
+      "arousal": 3.96,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Move on You watch me bleed until I can't breathe I'm shaking, falling onto my knees And now that I'm without your kisses",
+      "valence": 2.37,
+      "arousal": 3.8,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "You watch me bleed until I can't breathe I'm shaking, falling onto my knees And now that I'm without your kisses I'll be needing stitches",
+      "valence": 2.3,
+      "arousal": 3.84,
+      "dominance": 2.61
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I'm shaking, falling onto my knees And now that I'm without your kisses I'll be needing stitches Tripping over myself",
+      "valence": 2.58,
+      "arousal": 3.87,
+      "dominance": 2.54
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "And now that I'm without your kisses I'll be needing stitches Tripping over myself Aching, begging you to come help",
+      "valence": 2.63,
+      "arousal": 3.91,
+      "dominance": 2.69
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I'll be needing stitches Tripping over myself Aching, begging you to come help And now that I'm without your kisses",
+      "valence": 2.6,
+      "arousal": 3.91,
+      "dominance": 2.59
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Tripping over myself Aching, begging you to come help And now that I'm without your kisses I'll be needing stitches",
+      "valence": 2.62,
+      "arousal": 3.89,
+      "dominance": 2.71
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Aching, begging you to come help And now that I'm without your kisses I'll be needing stitches Needle and the thread",
+      "valence": 2.74,
+      "arousal": 3.69,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "And now that I'm without your kisses I'll be needing stitches Needle and the thread Gotta get you outta my head",
+      "valence": 2.59,
+      "arousal": 3.7,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I'll be needing stitches Needle and the thread Gotta get you outta my head Needle and the thread",
+      "valence": 2.82,
+      "arousal": 3.16,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Needle and the thread Gotta get you outta my head Needle and the thread Gonna wind up dead",
+      "valence": 2.33,
+      "arousal": 3.38,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Gotta get you outta my head Needle and the thread Gonna wind up dead Needle and the thread",
+      "valence": 2.54,
+      "arousal": 3.31,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Needle and the thread Gonna wind up dead Needle and the thread Gotta get you outta my head",
+      "valence": 2.45,
+      "arousal": 3.3,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Gonna wind up dead Needle and the thread Gotta get you outta my head Needle and the thread",
+      "valence": 2.57,
+      "arousal": 3.31,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Needle and the thread Gotta get you outta my head Needle and the thread Gonna wind up dead (gonna wind up dead)",
+      "valence": 2.23,
+      "arousal": 3.49,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Gotta get you outta my head Needle and the thread Gonna wind up dead (gonna wind up dead) Needle and the thread",
+      "valence": 2.32,
+      "arousal": 3.44,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Needle and the thread Gonna wind up dead (gonna wind up dead) Needle and the thread Gotta get you outta my head (gotta get you outta my head)",
+      "valence": 2.22,
+      "arousal": 3.57,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Gonna wind up dead (gonna wind up dead) Needle and the thread Gotta get you outta my head (gotta get you outta my head) Needle and the thread",
+      "valence": 2.33,
+      "arousal": 3.55,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Needle and the thread Gotta get you outta my head (gotta get you outta my head) Needle and the thread Gonna wind up dead (wind up dead)",
+      "valence": 2.21,
+      "arousal": 3.59,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Gotta get you outta my head (gotta get you outta my head) Needle and the thread Gonna wind up dead (wind up dead) Needle and the thread",
+      "valence": 2.23,
+      "arousal": 3.61,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Needle and the thread Gonna wind up dead (wind up dead) Needle and the thread Gotta get you outta my head, get you outta my head",
+      "valence": 2.25,
+      "arousal": 3.56,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Gonna wind up dead (wind up dead) Needle and the thread Gotta get you outta my head, get you outta my head You watch me bleed until I can't breathe",
+      "valence": 2.08,
+      "arousal": 3.68,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Needle and the thread Gotta get you outta my head, get you outta my head You watch me bleed until I can't breathe I'm shaking, falling onto my knees (falling on my knees)",
+      "valence": 2.13,
+      "arousal": 3.77,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Gotta get you outta my head, get you outta my head You watch me bleed until I can't breathe I'm shaking, falling onto my knees (falling on my knees) And now that I'm without your kisses (without you)",
+      "valence": 2.19,
+      "arousal": 4.07,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "You watch me bleed until I can't breathe I'm shaking, falling onto my knees (falling on my knees) And now that I'm without your kisses (without you) I'll be needing stitches (and I'll be needing stitches)",
+      "valence": 2.24,
+      "arousal": 3.84,
+      "dominance": 2.56
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I'm shaking, falling onto my knees (falling on my knees) And now that I'm without your kisses (without you) I'll be needing stitches (and I'll be needing stitches) Tripping over myself",
+      "valence": 2.49,
+      "arousal": 3.81,
+      "dominance": 2.46
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "And now that I'm without your kisses (without you) I'll be needing stitches (and I'll be needing stitches) Tripping over myself Aching, begging you to come help (begging baby please)",
+      "valence": 2.55,
+      "arousal": 3.84,
+      "dominance": 2.62
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I'll be needing stitches (and I'll be needing stitches) Tripping over myself Aching, begging you to come help (begging baby please) And now that I'm without your kisses",
+      "valence": 2.52,
+      "arousal": 3.83,
+      "dominance": 2.51
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Tripping over myself Aching, begging you to come help (begging baby please) And now that I'm without your kisses I'll be needing stitches",
+      "valence": 2.62,
+      "arousal": 3.89,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Aching, begging you to come help (begging baby please) And now that I'm without your kisses I'll be needing stitches And now that I'm without your kisses",
+      "valence": 2.76,
+      "arousal": 3.81,
+      "dominance": 2.71
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "And now that I'm without your kisses I'll be needing stitches And now that I'm without your kisses I'll be needing stitches",
+      "valence": 2.56,
+      "arousal": 3.64,
+      "dominance": 2.6
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "I'll be needing stitches And now that I'm without your kisses I'll be needing stitches And now that I'm without your kisses",
+      "valence": 2.6,
+      "arousal": 3.66,
+      "dominance": 2.52
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "And now that I'm without your kisses I'll be needing stitches And now that I'm without your kisses I'll be needing stitches",
+      "valence": 2.56,
+      "arousal": 3.64,
+      "dominance": 2.6
+    }
+  ]
+}

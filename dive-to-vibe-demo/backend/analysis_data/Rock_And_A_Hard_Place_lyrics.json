@@ -1,0 +1,290 @@
+{
+  "artist": "Bailey Zimmerman",
+  "overall_vad": {
+    "valence": 2.5,
+    "arousal": 3.53,
+    "dominance": 2.91
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "We've been swingin' and missin' It ain't broke yet, but damn, it needs fixin' Been a while since your kiss felt like kissin' It's just different",
+      "valence": 2.91,
+      "arousal": 3.53,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "It ain't broke yet, but damn, it needs fixin' Been a while since your kiss felt like kissin' It's just different We've been talkin' 'bout forever since we've been together",
+      "valence": 3.01,
+      "arousal": 3.67,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Been a while since your kiss felt like kissin' It's just different We've been talkin' 'bout forever since we've been together Somethin' 'bout a ring makes you think we're better off with",
+      "valence": 3.31,
+      "arousal": 3.48,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "It's just different We've been talkin' 'bout forever since we've been together Somethin' 'bout a ring makes you think we're better off with All this but we're caught in",
+      "valence": 2.84,
+      "arousal": 3.21,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "We've been talkin' 'bout forever since we've been together Somethin' 'bout a ring makes you think we're better off with All this but we're caught in Between a rock and a hard place",
+      "valence": 2.81,
+      "arousal": 3.19,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Somethin' 'bout a ring makes you think we're better off with All this but we're caught in Between a rock and a hard place Red wine and mistakes",
+      "valence": 2.61,
+      "arousal": 3.12,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "All this but we're caught in Between a rock and a hard place Red wine and mistakes Tears rollin' down your face",
+      "valence": 2.39,
+      "arousal": 3.5,
+      "dominance": 2.64
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Between a rock and a hard place Red wine and mistakes Tears rollin' down your face When I walked out that door",
+      "valence": 2.33,
+      "arousal": 3.78,
+      "dominance": 2.64
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Red wine and mistakes Tears rollin' down your face When I walked out that door And that's when I lost it",
+      "valence": 2.07,
+      "arousal": 3.73,
+      "dominance": 2.55
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Tears rollin' down your face When I walked out that door And that's when I lost it A midnight in Austin",
+      "valence": 2.38,
+      "arousal": 3.71,
+      "dominance": 2.48
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "When I walked out that door And that's when I lost it A midnight in Austin Damn, I'm exhausted",
+      "valence": 2.27,
+      "arousal": 3.42,
+      "dominance": 2.62
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "And that's when I lost it A midnight in Austin Damn, I'm exhausted What the hell's this all for?",
+      "valence": 2.16,
+      "arousal": 3.8,
+      "dominance": 2.77
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "A midnight in Austin Damn, I'm exhausted What the hell's this all for? Is this where it mends or it breaks?",
+      "valence": 2.35,
+      "arousal": 3.71,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Damn, I'm exhausted What the hell's this all for? Is this where it mends or it breaks? Between a rock and a hard place",
+      "valence": 2.28,
+      "arousal": 3.88,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "What the hell's this all for? Is this where it mends or it breaks? Between a rock and a hard place For the record, shit",
+      "valence": 2.59,
+      "arousal": 3.55,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Is this where it mends or it breaks? Between a rock and a hard place For the record, shit Throwin' in the towel takes some effort",
+      "valence": 2.81,
+      "arousal": 3.12,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Between a rock and a hard place For the record, shit Throwin' in the towel takes some effort So I'd rather ride it out for better weather",
+      "valence": 2.62,
+      "arousal": 3.28,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "For the record, shit Throwin' in the towel takes some effort So I'd rather ride it out for better weather Together",
+      "valence": 2.66,
+      "arousal": 3.29,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Throwin' in the towel takes some effort So I'd rather ride it out for better weather Together Between a rock and a hard place",
+      "valence": 2.92,
+      "arousal": 2.99,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "So I'd rather ride it out for better weather Together Between a rock and a hard place Red wine and mistakes",
+      "valence": 3.15,
+      "arousal": 3.03,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Together Between a rock and a hard place Red wine and mistakes Tears rollin' down your face",
+      "valence": 2.66,
+      "arousal": 3.55,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Between a rock and a hard place Red wine and mistakes Tears rollin' down your face When I walked out that door",
+      "valence": 2.33,
+      "arousal": 3.78,
+      "dominance": 2.64
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Red wine and mistakes Tears rollin' down your face When I walked out that door And that's when I lost it",
+      "valence": 2.07,
+      "arousal": 3.73,
+      "dominance": 2.55
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Tears rollin' down your face When I walked out that door And that's when I lost it A midnight in Austin",
+      "valence": 2.38,
+      "arousal": 3.71,
+      "dominance": 2.48
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "When I walked out that door And that's when I lost it A midnight in Austin Damn, I'm exhausted",
+      "valence": 2.27,
+      "arousal": 3.42,
+      "dominance": 2.62
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "And that's when I lost it A midnight in Austin Damn, I'm exhausted What the hell's this all for?",
+      "valence": 2.16,
+      "arousal": 3.8,
+      "dominance": 2.77
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "A midnight in Austin Damn, I'm exhausted What the hell's this all for? Is this where it mends or it breaks?",
+      "valence": 2.35,
+      "arousal": 3.71,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Damn, I'm exhausted What the hell's this all for? Is this where it mends or it breaks? Between a rock and a hard place",
+      "valence": 2.28,
+      "arousal": 3.88,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "What the hell's this all for? Is this where it mends or it breaks? Between a rock and a hard place We've been talkin' 'bout forever since we've been together",
+      "valence": 2.87,
+      "arousal": 3.3,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Is this where it mends or it breaks? Between a rock and a hard place We've been talkin' 'bout forever since we've been together Something 'bout a ring makes you think we're better off with",
+      "valence": 2.94,
+      "arousal": 3.17,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Between a rock and a hard place We've been talkin' 'bout forever since we've been together Something 'bout a ring makes you think we're better off with All this but we're caught in",
+      "valence": 2.82,
+      "arousal": 3.23,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "We've been talkin' 'bout forever since we've been together Something 'bout a ring makes you think we're better off with All this but we're caught in Between a rock and a hard place",
+      "valence": 2.84,
+      "arousal": 3.19,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Something 'bout a ring makes you think we're better off with All this but we're caught in Between a rock and a hard place Tears rollin' down your face",
+      "valence": 2.27,
+      "arousal": 3.59,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "All this but we're caught in Between a rock and a hard place Tears rollin' down your face As I walked out that door",
+      "valence": 2.16,
+      "arousal": 3.65,
+      "dominance": 2.58
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Between a rock and a hard place Tears rollin' down your face As I walked out that door And that's when I lost it",
+      "valence": 1.97,
+      "arousal": 3.76,
+      "dominance": 2.33
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Tears rollin' down your face As I walked out that door And that's when I lost it Midnight in Austin",
+      "valence": 2.33,
+      "arousal": 3.72,
+      "dominance": 2.51
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "As I walked out that door And that's when I lost it Midnight in Austin Damn, I'm exhausted",
+      "valence": 2.34,
+      "arousal": 3.48,
+      "dominance": 2.69
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "And that's when I lost it Midnight in Austin Damn, I'm exhausted What the hell's this all for?",
+      "valence": 2.16,
+      "arousal": 3.82,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Midnight in Austin Damn, I'm exhausted What the hell's this all for? Is this where it mends or it breaks?",
+      "valence": 2.31,
+      "arousal": 3.69,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Damn, I'm exhausted What the hell's this all for? Is this where it mends or it breaks? How much more of this can we take?",
+      "valence": 2.25,
+      "arousal": 3.92,
+      "dominance": 3.13
+    }
+  ]
+}

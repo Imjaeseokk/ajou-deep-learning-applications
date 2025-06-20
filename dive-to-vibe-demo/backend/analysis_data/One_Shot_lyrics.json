@@ -1,0 +1,451 @@
+{
+  "artist": "YoungBoy Never Broke Again Featuring Lil Baby",
+  "overall_vad": {
+    "valence": 2.55,
+    "arousal": 3.59,
+    "dominance": 3.36
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "If they tell me that I got one shot, I'm on go I ain't going out like no ho and these niggas know I'm goin' out with these riches and these bitches, know I'm goin' out past that limit and my Glizzy blow",
+      "valence": 2.48,
+      "arousal": 3.53,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I ain't going out like no ho and these niggas know I'm goin' out with these riches and these bitches, know I'm goin' out past that limit and my Glizzy blow Started with a dream, I lost my brother, think about him daily",
+      "valence": 2.27,
+      "arousal": 3.51,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I'm goin' out with these riches and these bitches, know I'm goin' out past that limit and my Glizzy blow Started with a dream, I lost my brother, think about him daily See the finish line in my eye, I pray to God I make it",
+      "valence": 2.72,
+      "arousal": 3.71,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I'm goin' out past that limit and my Glizzy blow Started with a dream, I lost my brother, think about him daily See the finish line in my eye, I pray to God I make it My soul belongs to my family, I can't let 'em take it",
+      "valence": 2.8,
+      "arousal": 3.68,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Started with a dream, I lost my brother, think about him daily See the finish line in my eye, I pray to God I make it My soul belongs to my family, I can't let 'em take it So if I live or die, just know forever we the greatest",
+      "valence": 2.8,
+      "arousal": 3.65,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "See the finish line in my eye, I pray to God I make it My soul belongs to my family, I can't let 'em take it So if I live or die, just know forever we the greatest Modifications on the engine, I'ma hit it",
+      "valence": 3.15,
+      "arousal": 3.72,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "My soul belongs to my family, I can't let 'em take it So if I live or die, just know forever we the greatest Modifications on the engine, I'ma hit it Even if it save or take my life, yeah",
+      "valence": 2.8,
+      "arousal": 3.66,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "So if I live or die, just know forever we the greatest Modifications on the engine, I'ma hit it Even if it save or take my life, yeah I'ma go all out with the ones I came in with",
+      "valence": 3.22,
+      "arousal": 3.62,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Modifications on the engine, I'ma hit it Even if it save or take my life, yeah I'ma go all out with the ones I came in with We stand tall if it's wrong or right (right)",
+      "valence": 3.14,
+      "arousal": 3.45,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Even if it save or take my life, yeah I'ma go all out with the ones I came in with We stand tall if it's wrong or right (right) Bring 'em to the stand, have a shootout inside this club (yeah)",
+      "valence": 3.16,
+      "arousal": 3.74,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I'ma go all out with the ones I came in with We stand tall if it's wrong or right (right) Bring 'em to the stand, have a shootout inside this club (yeah) I took too many Xans, I flipped this bitch who even mugged (brrt)",
+      "valence": 2.77,
+      "arousal": 3.63,
+      "dominance": 3.88
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "We stand tall if it's wrong or right (right) Bring 'em to the stand, have a shootout inside this club (yeah) I took too many Xans, I flipped this bitch who even mugged (brrt) She told me that she can't fuck with me, I approached her like a thug (huh)",
+      "valence": 2.36,
+      "arousal": 3.72,
+      "dominance": 3.84
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Bring 'em to the stand, have a shootout inside this club (yeah) I took too many Xans, I flipped this bitch who even mugged (brrt) She told me that she can't fuck with me, I approached her like a thug (huh) Plus she prolly looked up in my face and seen I'm full of drugs (yeah)",
+      "valence": 2.25,
+      "arousal": 3.82,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I took too many Xans, I flipped this bitch who even mugged (brrt) She told me that she can't fuck with me, I approached her like a thug (huh) Plus she prolly looked up in my face and seen I'm full of drugs (yeah) If they tell me that I got one shot, I'm on go",
+      "valence": 2.19,
+      "arousal": 3.81,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "She told me that she can't fuck with me, I approached her like a thug (huh) Plus she prolly looked up in my face and seen I'm full of drugs (yeah) If they tell me that I got one shot, I'm on go I ain't going out like no ho and these niggas know",
+      "valence": 2.32,
+      "arousal": 3.79,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Plus she prolly looked up in my face and seen I'm full of drugs (yeah) If they tell me that I got one shot, I'm on go I ain't going out like no ho and these niggas know I'm goin' out with these riches and these bitches, know",
+      "valence": 2.39,
+      "arousal": 3.62,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "If they tell me that I got one shot, I'm on go I ain't going out like no ho and these niggas know I'm goin' out with these riches and these bitches, know I'm goin' out past that limit and my Glizzy blow",
+      "valence": 2.48,
+      "arousal": 3.53,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I ain't going out like no ho and these niggas know I'm goin' out with these riches and these bitches, know I'm goin' out past that limit and my Glizzy blow If they tell me that I got one shot, I'm on go",
+      "valence": 2.57,
+      "arousal": 3.49,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I'm goin' out with these riches and these bitches, know I'm goin' out past that limit and my Glizzy blow If they tell me that I got one shot, I'm on go I ain't goin' out like no ho and these niggas know",
+      "valence": 2.37,
+      "arousal": 3.52,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I'm goin' out past that limit and my Glizzy blow If they tell me that I got one shot, I'm on go I ain't goin' out like no ho and these niggas know I'm goin' out with these riches and these bitches know",
+      "valence": 2.46,
+      "arousal": 3.54,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "If they tell me that I got one shot, I'm on go I ain't goin' out like no ho and these niggas know I'm goin' out with these riches and these bitches know I'm goin' out past that limit and my Glizzy blow",
+      "valence": 2.45,
+      "arousal": 3.49,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I ain't goin' out like no ho and these niggas know I'm goin' out with these riches and these bitches know I'm goin' out past that limit and my Glizzy blow Tell me how I lost it when I ain't even found it yet",
+      "valence": 2.3,
+      "arousal": 3.51,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I'm goin' out with these riches and these bitches know I'm goin' out past that limit and my Glizzy blow Tell me how I lost it when I ain't even found it yet Try to ride my wave, wonderin' why they ain't drownin' yet",
+      "valence": 2.42,
+      "arousal": 3.54,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I'm goin' out past that limit and my Glizzy blow Tell me how I lost it when I ain't even found it yet Try to ride my wave, wonderin' why they ain't drownin' yet Choppa make a sound effect, grrat, grrat",
+      "valence": 2.62,
+      "arousal": 3.41,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Tell me how I lost it when I ain't even found it yet Try to ride my wave, wonderin' why they ain't drownin' yet Choppa make a sound effect, grrat, grrat I come from Section 8, got eight hundred around my neck",
+      "valence": 2.59,
+      "arousal": 3.49,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Try to ride my wave, wonderin' why they ain't drownin' yet Choppa make a sound effect, grrat, grrat I come from Section 8, got eight hundred around my neck Hellcat take me to the jet, bought foreign cars so I can flex",
+      "valence": 2.81,
+      "arousal": 3.47,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Choppa make a sound effect, grrat, grrat I come from Section 8, got eight hundred around my neck Hellcat take me to the jet, bought foreign cars so I can flex A simple text can end with sex, I'm tryna set the mood",
+      "valence": 3.03,
+      "arousal": 3.61,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I come from Section 8, got eight hundred around my neck Hellcat take me to the jet, bought foreign cars so I can flex A simple text can end with sex, I'm tryna set the mood My Trackhawk run off racing fuel, I'm drivin' like a fool",
+      "valence": 2.81,
+      "arousal": 3.59,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Hellcat take me to the jet, bought foreign cars so I can flex A simple text can end with sex, I'm tryna set the mood My Trackhawk run off racing fuel, I'm drivin' like a fool They see my drip then hold they breath then dive in like a pool",
+      "valence": 2.84,
+      "arousal": 3.64,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "A simple text can end with sex, I'm tryna set the mood My Trackhawk run off racing fuel, I'm drivin' like a fool They see my drip then hold they breath then dive in like a pool If I got one shot then I'ma blow it (blow it)",
+      "valence": 2.78,
+      "arousal": 3.69,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "My Trackhawk run off racing fuel, I'm drivin' like a fool They see my drip then hold they breath then dive in like a pool If I got one shot then I'ma blow it (blow it) The want what I got, yeah, I'm knowin' (yeah, I'm knowin')",
+      "valence": 2.58,
+      "arousal": 3.57,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "They see my drip then hold they breath then dive in like a pool If I got one shot then I'ma blow it (blow it) The want what I got, yeah, I'm knowin' (yeah, I'm knowin') Pull up in the drop while he snorin' (how he snorin')",
+      "valence": 2.91,
+      "arousal": 3.62,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "If I got one shot then I'ma blow it (blow it) The want what I got, yeah, I'm knowin' (yeah, I'm knowin') Pull up in the drop while he snorin' (how he snorin') And I got that thing on me (and I, and I)",
+      "valence": 2.86,
+      "arousal": 3.65,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "The want what I got, yeah, I'm knowin' (yeah, I'm knowin') Pull up in the drop while he snorin' (how he snorin') And I got that thing on me (and I, and I) I hope that he don't think wrong (bah)",
+      "valence": 2.86,
+      "arousal": 3.34,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Pull up in the drop while he snorin' (how he snorin') And I got that thing on me (and I, and I) I hope that he don't think wrong (bah) If they tell me that I got one shot, I'm on go",
+      "valence": 2.88,
+      "arousal": 3.4,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "And I got that thing on me (and I, and I) I hope that he don't think wrong (bah) If they tell me that I got one shot, I'm on go I ain't going out like no ho and these niggas know",
+      "valence": 2.71,
+      "arousal": 3.36,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I hope that he don't think wrong (bah) If they tell me that I got one shot, I'm on go I ain't going out like no ho and these niggas know I'm goin' out with these riches and these bitches, know",
+      "valence": 2.59,
+      "arousal": 3.44,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "If they tell me that I got one shot, I'm on go I ain't going out like no ho and these niggas know I'm goin' out with these riches and these bitches, know I'm goin' out past that limit and my Glizzy blow",
+      "valence": 2.48,
+      "arousal": 3.53,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I ain't going out like no ho and these niggas know I'm goin' out with these riches and these bitches, know I'm goin' out past that limit and my Glizzy blow If they tell me that I got one shot, I'm on go",
+      "valence": 2.57,
+      "arousal": 3.49,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "I'm goin' out with these riches and these bitches, know I'm goin' out past that limit and my Glizzy blow If they tell me that I got one shot, I'm on go I ain't going out like no ho and these niggas know",
+      "valence": 2.39,
+      "arousal": 3.53,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I'm goin' out past that limit and my Glizzy blow If they tell me that I got one shot, I'm on go I ain't going out like no ho and these niggas know I'm goin' out with these riches and these bitches, know",
+      "valence": 2.49,
+      "arousal": 3.57,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "If they tell me that I got one shot, I'm on go I ain't going out like no ho and these niggas know I'm goin' out with these riches and these bitches, know I'm goin' out past that limit and my Glizzy blow",
+      "valence": 2.48,
+      "arousal": 3.53,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I ain't going out like no ho and these niggas know I'm goin' out with these riches and these bitches, know I'm goin' out past that limit and my Glizzy blow Hol' up, I just stepped out in Givenchy boots",
+      "valence": 2.48,
+      "arousal": 3.47,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I'm goin' out with these riches and these bitches, know I'm goin' out past that limit and my Glizzy blow Hol' up, I just stepped out in Givenchy boots I let my doors up, lil' cuz', you see that Draco in the coupe?",
+      "valence": 2.66,
+      "arousal": 3.53,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I'm goin' out past that limit and my Glizzy blow Hol' up, I just stepped out in Givenchy boots I let my doors up, lil' cuz', you see that Draco in the coupe? Young nigga froze up, with a ho from out the state look like Malu",
+      "valence": 2.86,
+      "arousal": 3.37,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Hol' up, I just stepped out in Givenchy boots I let my doors up, lil' cuz', you see that Draco in the coupe? Young nigga froze up, with a ho from out the state look like Malu I got the dough stuff, too many killers with me comin' through",
+      "valence": 2.61,
+      "arousal": 3.42,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I let my doors up, lil' cuz', you see that Draco in the coupe? Young nigga froze up, with a ho from out the state look like Malu I got the dough stuff, too many killers with me comin' through Make me blow your ass, you try to act, I show your ass",
+      "valence": 2.4,
+      "arousal": 3.62,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Young nigga froze up, with a ho from out the state look like Malu I got the dough stuff, too many killers with me comin' through Make me blow your ass, you try to act, I show your ass And I won't let you slide, you shouldn't have tried, I get you smashed",
+      "valence": 2.17,
+      "arousal": 3.67,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I got the dough stuff, too many killers with me comin' through Make me blow your ass, you try to act, I show your ass And I won't let you slide, you shouldn't have tried, I get you smashed And I been on the rise, I'm goin' too high, I don't wanna crash",
+      "valence": 2.26,
+      "arousal": 3.66,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Make me blow your ass, you try to act, I show your ass And I won't let you slide, you shouldn't have tried, I get you smashed And I been on the rise, I'm goin' too high, I don't wanna crash Bitch, look up in my eyes, I don't give a fuck, I'm really that",
+      "valence": 2.07,
+      "arousal": 3.87,
+      "dominance": 3.82
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "And I won't let you slide, you shouldn't have tried, I get you smashed And I been on the rise, I'm goin' too high, I don't wanna crash Bitch, look up in my eyes, I don't give a fuck, I'm really that Bring 'em to the stand, have a shootout inside this club",
+      "valence": 2.21,
+      "arousal": 3.8,
+      "dominance": 3.79
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "And I been on the rise, I'm goin' too high, I don't wanna crash Bitch, look up in my eyes, I don't give a fuck, I'm really that Bring 'em to the stand, have a shootout inside this club I took too many Xans, I flipped this bitch who even mugged",
+      "valence": 2.2,
+      "arousal": 3.71,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Bitch, look up in my eyes, I don't give a fuck, I'm really that Bring 'em to the stand, have a shootout inside this club I took too many Xans, I flipped this bitch who even mugged She told me that she can't fuck with me, I approached her like a thug",
+      "valence": 1.93,
+      "arousal": 3.83,
+      "dominance": 3.78
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Bring 'em to the stand, have a shootout inside this club I took too many Xans, I flipped this bitch who even mugged She told me that she can't fuck with me, I approached her like a thug Plus she prolly looked up in my face and seen I'm full of drugs",
+      "valence": 2.19,
+      "arousal": 3.84,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "I took too many Xans, I flipped this bitch who even mugged She told me that she can't fuck with me, I approached her like a thug Plus she prolly looked up in my face and seen I'm full of drugs If they tell me that I got one shot, I'm on go",
+      "valence": 2.19,
+      "arousal": 3.83,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "She told me that she can't fuck with me, I approached her like a thug Plus she prolly looked up in my face and seen I'm full of drugs If they tell me that I got one shot, I'm on go I ain't going out like no ho and these niggas know",
+      "valence": 2.26,
+      "arousal": 3.8,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Plus she prolly looked up in my face and seen I'm full of drugs If they tell me that I got one shot, I'm on go I ain't going out like no ho and these niggas know I'm goin' out with these riches and these bitches, know",
+      "valence": 2.33,
+      "arousal": 3.62,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "If they tell me that I got one shot, I'm on go I ain't going out like no ho and these niggas know I'm goin' out with these riches and these bitches, know I'm goin' out past that limit and my Glizzy blow",
+      "valence": 2.48,
+      "arousal": 3.53,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "I ain't going out like no ho and these niggas know I'm goin' out with these riches and these bitches, know I'm goin' out past that limit and my Glizzy blow If they tell me that I got one shot, I'm on go",
+      "valence": 2.57,
+      "arousal": 3.49,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "I'm goin' out with these riches and these bitches, know I'm goin' out past that limit and my Glizzy blow If they tell me that I got one shot, I'm on go I ain't going out like no ho and these niggas know",
+      "valence": 2.39,
+      "arousal": 3.53,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "I'm goin' out past that limit and my Glizzy blow If they tell me that I got one shot, I'm on go I ain't going out like no ho and these niggas know I'm goin' out with these riches and these bitches, know",
+      "valence": 2.49,
+      "arousal": 3.57,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "If they tell me that I got one shot, I'm on go I ain't going out like no ho and these niggas know I'm goin' out with these riches and these bitches, know I'm goin' out past that limit and my Glizzy blow",
+      "valence": 2.48,
+      "arousal": 3.53,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "I ain't going out like no ho and these niggas know I'm goin' out with these riches and these bitches, know I'm goin' out past that limit and my Glizzy blow Hol' up",
+      "valence": 2.34,
+      "arousal": 3.45,
+      "dominance": 3.17
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "artist": "Lil Nas X",
+  "overall_vad": {
+    "valence": 2.84,
+    "arousal": 3.57,
+    "dominance": 3.25
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I caught it bad yesterday You hit me with a call to your place Ain't been out in a while anyway Was hoping I could catch you throwing smiles in my face",
+      "valence": 2.89,
+      "arousal": 3.69,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "You hit me with a call to your place Ain't been out in a while anyway Was hoping I could catch you throwing smiles in my face Romantic talking? You don't even have to try",
+      "valence": 2.98,
+      "arousal": 3.63,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Ain't been out in a while anyway Was hoping I could catch you throwing smiles in my face Romantic talking? You don't even have to try You're cute enough to fuck with me tonight",
+      "valence": 2.96,
+      "arousal": 3.74,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Was hoping I could catch you throwing smiles in my face Romantic talking? You don't even have to try You're cute enough to fuck with me tonight Looking at the table and I see the reason why",
+      "valence": 2.89,
+      "arousal": 3.7,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Romantic talking? You don't even have to try You're cute enough to fuck with me tonight Looking at the table and I see the reason why Baby, you living the life, but nigga, you ain't livin' right",
+      "valence": 2.49,
+      "arousal": 3.67,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "You're cute enough to fuck with me tonight Looking at the table and I see the reason why Baby, you living the life, but nigga, you ain't livin' right Cocaine and drinking with your friends",
+      "valence": 2.39,
+      "arousal": 3.65,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Looking at the table and I see the reason why Baby, you living the life, but nigga, you ain't livin' right Cocaine and drinking with your friends You live in the dark, boy, I cannot pretend",
+      "valence": 2.5,
+      "arousal": 3.28,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Baby, you living the life, but nigga, you ain't livin' right Cocaine and drinking with your friends You live in the dark, boy, I cannot pretend I'm not fazed, only here to sin",
+      "valence": 2.29,
+      "arousal": 3.36,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Cocaine and drinking with your friends You live in the dark, boy, I cannot pretend I'm not fazed, only here to sin If Eve ain't in your garden, you know that you can",
+      "valence": 2.53,
+      "arousal": 3.25,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "You live in the dark, boy, I cannot pretend I'm not fazed, only here to sin If Eve ain't in your garden, you know that you can Call me when you want, call me when you need",
+      "valence": 2.56,
+      "arousal": 3.4,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I'm not fazed, only here to sin If Eve ain't in your garden, you know that you can Call me when you want, call me when you need Call me in the morning, I'll be on the way",
+      "valence": 2.7,
+      "arousal": 3.33,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "If Eve ain't in your garden, you know that you can Call me when you want, call me when you need Call me in the morning, I'll be on the way Call me when you want, call me when you need",
+      "valence": 3.15,
+      "arousal": 3.36,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Call me when you want, call me when you need Call me in the morning, I'll be on the way Call me when you want, call me when you need Call me out by your name, I'll be on the way like",
+      "valence": 3.38,
+      "arousal": 3.57,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Call me in the morning, I'll be on the way Call me when you want, call me when you need Call me out by your name, I'll be on the way like Mmm, mmm, mmm, mmm",
+      "valence": 3.4,
+      "arousal": 3.54,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Call me when you want, call me when you need Call me out by your name, I'll be on the way like Mmm, mmm, mmm, mmm Mmm, mmm, mmm, mmm",
+      "valence": 3.35,
+      "arousal": 3.57,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Call me out by your name, I'll be on the way like Mmm, mmm, mmm, mmm Mmm, mmm, mmm, mmm Ayy, ayy",
+      "valence": 3.33,
+      "arousal": 3.56,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Mmm, mmm, mmm, mmm Mmm, mmm, mmm, mmm Ayy, ayy I wanna sell what you're buying",
+      "valence": 3.2,
+      "arousal": 3.41,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Mmm, mmm, mmm, mmm Ayy, ayy I wanna sell what you're buying I wanna feel on yo' ass in Hawaii",
+      "valence": 3.16,
+      "arousal": 3.58,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Ayy, ayy I wanna sell what you're buying I wanna feel on yo' ass in Hawaii I want that jet lag from fucking and flying",
+      "valence": 2.84,
+      "arousal": 3.73,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I wanna sell what you're buying I wanna feel on yo' ass in Hawaii I want that jet lag from fucking and flying Shoot a child in your mouth while I'm riding",
+      "valence": 2.36,
+      "arousal": 3.78,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I wanna feel on yo' ass in Hawaii I want that jet lag from fucking and flying Shoot a child in your mouth while I'm riding Oh, oh, oh, why me?",
+      "valence": 2.08,
+      "arousal": 3.92,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I want that jet lag from fucking and flying Shoot a child in your mouth while I'm riding Oh, oh, oh, why me? A sign of the times every time that I speak",
+      "valence": 2.04,
+      "arousal": 3.88,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Shoot a child in your mouth while I'm riding Oh, oh, oh, why me? A sign of the times every time that I speak A dime and a nine, it was mine every week",
+      "valence": 2.53,
+      "arousal": 3.45,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Oh, oh, oh, why me? A sign of the times every time that I speak A dime and a nine, it was mine every week What a time, an incline, God was shining on me",
+      "valence": 2.84,
+      "arousal": 3.4,
+      "dominance": 2.68
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "A sign of the times every time that I speak A dime and a nine, it was mine every week What a time, an incline, God was shining on me Now I can't leave",
+      "valence": 3.0,
+      "arousal": 3.37,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "A dime and a nine, it was mine every week What a time, an incline, God was shining on me Now I can't leave And now I'm acting hella elite",
+      "valence": 2.75,
+      "arousal": 3.45,
+      "dominance": 2.77
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "What a time, an incline, God was shining on me Now I can't leave And now I'm acting hella elite Never want the niggas that's in my league",
+      "valence": 2.49,
+      "arousal": 3.53,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Now I can't leave And now I'm acting hella elite Never want the niggas that's in my league I wanna fuck the ones I envy, I envy",
+      "valence": 2.23,
+      "arousal": 3.84,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "And now I'm acting hella elite Never want the niggas that's in my league I wanna fuck the ones I envy, I envy Cocaine and drinking with your friends",
+      "valence": 2.36,
+      "arousal": 3.81,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Never want the niggas that's in my league I wanna fuck the ones I envy, I envy Cocaine and drinking with your friends You live in the dark, boy, I cannot pretend",
+      "valence": 2.14,
+      "arousal": 3.73,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I wanna fuck the ones I envy, I envy Cocaine and drinking with your friends You live in the dark, boy, I cannot pretend I'm not fazed, only here to sin",
+      "valence": 2.23,
+      "arousal": 3.86,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Cocaine and drinking with your friends You live in the dark, boy, I cannot pretend I'm not fazed, only here to sin If Eve ain't in your garden, you know that you can",
+      "valence": 2.53,
+      "arousal": 3.25,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "You live in the dark, boy, I cannot pretend I'm not fazed, only here to sin If Eve ain't in your garden, you know that you can Call me when you want, call me when you need",
+      "valence": 2.56,
+      "arousal": 3.4,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I'm not fazed, only here to sin If Eve ain't in your garden, you know that you can Call me when you want, call me when you need Call me in the morning, I'll be on the way",
+      "valence": 2.7,
+      "arousal": 3.33,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "If Eve ain't in your garden, you know that you can Call me when you want, call me when you need Call me in the morning, I'll be on the way Call me when you want, call me when you need",
+      "valence": 3.15,
+      "arousal": 3.36,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Call me when you want, call me when you need Call me in the morning, I'll be on the way Call me when you want, call me when you need Call me out by your name, I'll be on the way like",
+      "valence": 3.38,
+      "arousal": 3.57,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Call me in the morning, I'll be on the way Call me when you want, call me when you need Call me out by your name, I'll be on the way like Oh, call me by your name (mmm, mmm, mmm)",
+      "valence": 3.35,
+      "arousal": 3.6,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Call me when you want, call me when you need Call me out by your name, I'll be on the way like Oh, call me by your name (mmm, mmm, mmm) Tell me you love me in private",
+      "valence": 3.75,
+      "arousal": 4.0,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Call me out by your name, I'll be on the way like Oh, call me by your name (mmm, mmm, mmm) Tell me you love me in private Call me by your name (mmm, mmm, mmm)",
+      "valence": 3.66,
+      "arousal": 3.86,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Oh, call me by your name (mmm, mmm, mmm) Tell me you love me in private Call me by your name (mmm, mmm, mmm) I do not care if you lying",
+      "valence": 3.55,
+      "arousal": 3.82,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Tell me you love me in private Call me by your name (mmm, mmm, mmm) I do not care if you lying Well, I'm just feeling, mm-uh",
+      "valence": 3.47,
+      "arousal": 3.77,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Call me by your name (mmm, mmm, mmm) I do not care if you lying Well, I'm just feeling, mm-uh I wanna get, mm-uh",
+      "valence": 2.89,
+      "arousal": 3.45,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I do not care if you lying Well, I'm just feeling, mm-uh I wanna get, mm-uh I'm in my, into my, uh",
+      "valence": 2.65,
+      "arousal": 3.34,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Well, I'm just feeling, mm-uh I wanna get, mm-uh I'm in my, into my, uh I'm mm, mm",
+      "valence": 3.02,
+      "arousal": 3.27,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I wanna get, mm-uh I'm in my, into my, uh I'm mm, mm I'm still, mm, mm-mm, ooh",
+      "valence": 2.97,
+      "arousal": 3.38,
+      "dominance": 3.12
+    }
+  ]
+}

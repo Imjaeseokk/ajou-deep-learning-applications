@@ -1,0 +1,276 @@
+{
+  "artist": "Brantley Gilbert",
+  "overall_vad": {
+    "valence": 2.78,
+    "arousal": 3.42,
+    "dominance": 3.09
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Maybe I should take that picture off the dashboard Before memory hits the brakes and takes the wheel Yeah I bet she's still cryin' on that front porch Yeah this time it's goin' to take some time to heal",
+      "valence": 2.6,
+      "arousal": 3.1,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Before memory hits the brakes and takes the wheel Yeah I bet she's still cryin' on that front porch Yeah this time it's goin' to take some time to heal 'Cause I'm on my way to Tennessee",
+      "valence": 2.65,
+      "arousal": 3.12,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Yeah I bet she's still cryin' on that front porch Yeah this time it's goin' to take some time to heal 'Cause I'm on my way to Tennessee Singin' Georgia on my mind",
+      "valence": 2.74,
+      "arousal": 3.18,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Yeah this time it's goin' to take some time to heal 'Cause I'm on my way to Tennessee Singin' Georgia on my mind Chasin' what they say's a dream",
+      "valence": 2.78,
+      "arousal": 3.06,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "'Cause I'm on my way to Tennessee Singin' Georgia on my mind Chasin' what they say's a dream Thinkin' maybe it ain't mine",
+      "valence": 2.92,
+      "arousal": 3.17,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Singin' Georgia on my mind Chasin' what they say's a dream Thinkin' maybe it ain't mine 'Cause that girl's in every song I sing",
+      "valence": 3.03,
+      "arousal": 3.17,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Chasin' what they say's a dream Thinkin' maybe it ain't mine 'Cause that girl's in every song I sing She's in every song I write",
+      "valence": 3.05,
+      "arousal": 3.27,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Thinkin' maybe it ain't mine 'Cause that girl's in every song I sing She's in every song I write That six string ridin' in the seat won't keep me warm tonight",
+      "valence": 2.73,
+      "arousal": 3.25,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "'Cause that girl's in every song I sing She's in every song I write That six string ridin' in the seat won't keep me warm tonight God what am I supposed to do?",
+      "valence": 2.92,
+      "arousal": 3.56,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "She's in every song I write That six string ridin' in the seat won't keep me warm tonight God what am I supposed to do? There's more than miles in my rearview",
+      "valence": 2.65,
+      "arousal": 3.52,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "That six string ridin' in the seat won't keep me warm tonight God what am I supposed to do? There's more than miles in my rearview Well I'm headed North to what I swore I wanted",
+      "valence": 2.38,
+      "arousal": 3.55,
+      "dominance": 2.73
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "God what am I supposed to do? There's more than miles in my rearview Well I'm headed North to what I swore I wanted I'm tryin' not to buy into my doubts",
+      "valence": 2.44,
+      "arousal": 3.73,
+      "dominance": 2.67
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "There's more than miles in my rearview Well I'm headed North to what I swore I wanted I'm tryin' not to buy into my doubts But I just can't seem to keep myself from wonderin'",
+      "valence": 2.6,
+      "arousal": 3.36,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Well I'm headed North to what I swore I wanted I'm tryin' not to buy into my doubts But I just can't seem to keep myself from wonderin' Why I'm jealous of all them headlights headed South",
+      "valence": 2.58,
+      "arousal": 3.41,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I'm tryin' not to buy into my doubts But I just can't seem to keep myself from wonderin' Why I'm jealous of all them headlights headed South 'Cause I'm on my way to Tennessee.",
+      "valence": 2.57,
+      "arousal": 3.4,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "But I just can't seem to keep myself from wonderin' Why I'm jealous of all them headlights headed South 'Cause I'm on my way to Tennessee. Singin' Georgia on my mind",
+      "valence": 2.67,
+      "arousal": 3.48,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Why I'm jealous of all them headlights headed South 'Cause I'm on my way to Tennessee. Singin' Georgia on my mind Chasin' what they say's a dream",
+      "valence": 2.64,
+      "arousal": 3.36,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "'Cause I'm on my way to Tennessee. Singin' Georgia on my mind Chasin' what they say's a dream Thinkin' maybe it ain't mine",
+      "valence": 2.96,
+      "arousal": 3.1,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Singin' Georgia on my mind Chasin' what they say's a dream Thinkin' maybe it ain't mine 'Cause that girl's in every song I sing",
+      "valence": 3.03,
+      "arousal": 3.17,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Chasin' what they say's a dream Thinkin' maybe it ain't mine 'Cause that girl's in every song I sing She's in every song I write",
+      "valence": 3.05,
+      "arousal": 3.27,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Thinkin' maybe it ain't mine 'Cause that girl's in every song I sing She's in every song I write That six string ridin' in the seat won't keep me warm tonight",
+      "valence": 2.73,
+      "arousal": 3.25,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "'Cause that girl's in every song I sing She's in every song I write That six string ridin' in the seat won't keep me warm tonight God what am I supposed to do here?",
+      "valence": 2.94,
+      "arousal": 3.54,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "She's in every song I write That six string ridin' in the seat won't keep me warm tonight God what am I supposed to do here? 'Cause there's still more than miles in my rearview",
+      "valence": 2.66,
+      "arousal": 3.46,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "That six string ridin' in the seat won't keep me warm tonight God what am I supposed to do here? 'Cause there's still more than miles in my rearview (Yeah more than miles)",
+      "valence": 2.44,
+      "arousal": 3.55,
+      "dominance": 2.67
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "God what am I supposed to do here? 'Cause there's still more than miles in my rearview (Yeah more than miles) Yeah I've been changin' lanes without my mirrors",
+      "valence": 2.46,
+      "arousal": 3.69,
+      "dominance": 2.64
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "'Cause there's still more than miles in my rearview (Yeah more than miles) Yeah I've been changin' lanes without my mirrors 'Cause every time I look behind me I see her",
+      "valence": 2.93,
+      "arousal": 3.44,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "(Yeah more than miles) Yeah I've been changin' lanes without my mirrors 'Cause every time I look behind me I see her I think I just realized how much I need her (damn)",
+      "valence": 2.48,
+      "arousal": 3.87,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Yeah I've been changin' lanes without my mirrors 'Cause every time I look behind me I see her I think I just realized how much I need her (damn) So I'm turnin' back for Georgia",
+      "valence": 2.47,
+      "arousal": 3.82,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "'Cause every time I look behind me I see her I think I just realized how much I need her (damn) So I'm turnin' back for Georgia Stoppin' short of Tennessee",
+      "valence": 2.42,
+      "arousal": 3.86,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I think I just realized how much I need her (damn) So I'm turnin' back for Georgia Stoppin' short of Tennessee I can't put my dreams before her",
+      "valence": 2.45,
+      "arousal": 3.93,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "So I'm turnin' back for Georgia Stoppin' short of Tennessee I can't put my dreams before her Man I need her here with me",
+      "valence": 2.93,
+      "arousal": 3.41,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Stoppin' short of Tennessee I can't put my dreams before her Man I need her here with me 'Cause that girl's in every song I sing",
+      "valence": 3.03,
+      "arousal": 3.58,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I can't put my dreams before her Man I need her here with me 'Cause that girl's in every song I sing She's in every song I write",
+      "valence": 3.11,
+      "arousal": 3.62,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Man I need her here with me 'Cause that girl's in every song I sing She's in every song I write That six string ridin' in the seat can sleep in the back tonight",
+      "valence": 3.2,
+      "arousal": 3.4,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "'Cause that girl's in every song I sing She's in every song I write That six string ridin' in the seat can sleep in the back tonight Now I know what I'm supposed to do here",
+      "valence": 3.24,
+      "arousal": 3.35,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "She's in every song I write That six string ridin' in the seat can sleep in the back tonight Now I know what I'm supposed to do here There's still more than miles in my rearview",
+      "valence": 3.07,
+      "arousal": 3.22,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "That six string ridin' in the seat can sleep in the back tonight Now I know what I'm supposed to do here There's still more than miles in my rearview (More than miles)",
+      "valence": 2.88,
+      "arousal": 3.31,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Now I know what I'm supposed to do here There's still more than miles in my rearview (More than miles) (Mo or ore than miles)",
+      "valence": 3.05,
+      "arousal": 3.29,
+      "dominance": 3.23
+    }
+  ]
+}

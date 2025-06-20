@@ -1,0 +1,409 @@
+{
+  "artist": "Kanye West",
+  "overall_vad": {
+    "valence": 2.48,
+    "arousal": 3.56,
+    "dominance": 3.13
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Shit could get menacin', frightenin', find help Sometimes I scare myself, myself Shit could get menacin', frightenin', find help Sometimes I scare myself, myself",
+      "valence": 2.04,
+      "arousal": 3.55,
+      "dominance": 2.64
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Sometimes I scare myself, myself Shit could get menacin', frightenin', find help Sometimes I scare myself, myself Tweakin', tweakin' off that 2CB, huh?",
+      "valence": 2.21,
+      "arousal": 3.49,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Shit could get menacin', frightenin', find help Sometimes I scare myself, myself Tweakin', tweakin' off that 2CB, huh? Is he gon' make it? TBD, huh",
+      "valence": 2.49,
+      "arousal": 3.53,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Sometimes I scare myself, myself Tweakin', tweakin' off that 2CB, huh? Is he gon' make it? TBD, huh Thought I was gon' run, DMC, huh?",
+      "valence": 2.69,
+      "arousal": 3.45,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Tweakin', tweakin' off that 2CB, huh? Is he gon' make it? TBD, huh Thought I was gon' run, DMC, huh? I done died and lived again on DMT, huh",
+      "valence": 2.9,
+      "arousal": 3.24,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Is he gon' make it? TBD, huh Thought I was gon' run, DMC, huh? I done died and lived again on DMT, huh See this a type of high that won't come down",
+      "valence": 2.71,
+      "arousal": 3.31,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Thought I was gon' run, DMC, huh? I done died and lived again on DMT, huh See this a type of high that won't come down This the type of high that get you gunned down",
+      "valence": 2.36,
+      "arousal": 3.35,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I done died and lived again on DMT, huh See this a type of high that won't come down This the type of high that get you gunned down Yeezy, Yeezy trollin' OD, huh?",
+      "valence": 2.42,
+      "arousal": 3.3,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "See this a type of high that won't come down This the type of high that get you gunned down Yeezy, Yeezy trollin' OD, huh? Turn TMZ to Smack DVD, huh?",
+      "valence": 2.81,
+      "arousal": 3.19,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "This the type of high that get you gunned down Yeezy, Yeezy trollin' OD, huh? Turn TMZ to Smack DVD, huh? Russell Simmons wanna pray for me too",
+      "valence": 2.4,
+      "arousal": 3.52,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Yeezy, Yeezy trollin' OD, huh? Turn TMZ to Smack DVD, huh? Russell Simmons wanna pray for me too I'ma pray for him 'cause he got #MeToo'd",
+      "valence": 2.68,
+      "arousal": 3.43,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Turn TMZ to Smack DVD, huh? Russell Simmons wanna pray for me too I'ma pray for him 'cause he got #MeToo'd Thinkin' what if that happened to me too",
+      "valence": 2.85,
+      "arousal": 3.41,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Russell Simmons wanna pray for me too I'ma pray for him 'cause he got #MeToo'd Thinkin' what if that happened to me too Then I'm on E! News",
+      "valence": 2.95,
+      "arousal": 3.52,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I'ma pray for him 'cause he got #MeToo'd Thinkin' what if that happened to me too Then I'm on E! News Shit can get menacin', frightenin', find help",
+      "valence": 2.34,
+      "arousal": 3.83,
+      "dominance": 2.77
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Thinkin' what if that happened to me too Then I'm on E! News Shit can get menacin', frightenin', find help Sometimes I scare myself, myself",
+      "valence": 2.2,
+      "arousal": 3.65,
+      "dominance": 2.59
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Then I'm on E! News Shit can get menacin', frightenin', find help Sometimes I scare myself, myself Shit can get menacin', frightenin', find help",
+      "valence": 2.2,
+      "arousal": 3.65,
+      "dominance": 2.62
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Shit can get menacin', frightenin', find help Sometimes I scare myself, myself Shit can get menacin', frightenin', find help Sometimes I scare myself, myself",
+      "valence": 2.04,
+      "arousal": 3.51,
+      "dominance": 2.64
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Sometimes I scare myself, myself Shit can get menacin', frightenin', find help Sometimes I scare myself, myself Ayy, hospital band a hundred bands, fuck a watch",
+      "valence": 2.01,
+      "arousal": 3.72,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Shit can get menacin', frightenin', find help Sometimes I scare myself, myself Ayy, hospital band a hundred bands, fuck a watch Hundred grand'll make your best friends turn to opps",
+      "valence": 2.11,
+      "arousal": 3.78,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Sometimes I scare myself, myself Ayy, hospital band a hundred bands, fuck a watch Hundred grand'll make your best friends turn to opps I hear y'all bringin' my name up a lot",
+      "valence": 2.25,
+      "arousal": 3.84,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Ayy, hospital band a hundred bands, fuck a watch Hundred grand'll make your best friends turn to opps I hear y'all bringin' my name up a lot Guess I just turned the clout game up a notch",
+      "valence": 2.76,
+      "arousal": 3.86,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Hundred grand'll make your best friends turn to opps I hear y'all bringin' my name up a lot Guess I just turned the clout game up a notch See, y'all really shocked but I'm really not",
+      "valence": 2.98,
+      "arousal": 3.57,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I hear y'all bringin' my name up a lot Guess I just turned the clout game up a notch See, y'all really shocked but I'm really not You know how many girls I took to the titty shop?",
+      "valence": 3.01,
+      "arousal": 3.51,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Guess I just turned the clout game up a notch See, y'all really shocked but I'm really not You know how many girls I took to the titty shop? If she get the ass with it that's a 50 pop",
+      "valence": 2.87,
+      "arousal": 3.57,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "See, y'all really shocked but I'm really not You know how many girls I took to the titty shop? If she get the ass with it that's a 50 pop I still bring the bad bitches in the city out",
+      "valence": 2.4,
+      "arousal": 3.68,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "You know how many girls I took to the titty shop? If she get the ass with it that's a 50 pop I still bring the bad bitches in the city out Uh, just a different type of leader",
+      "valence": 2.75,
+      "arousal": 3.48,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "If she get the ass with it that's a 50 pop I still bring the bad bitches in the city out Uh, just a different type of leader We could be in North Korea, I could smoke with Wiz Khalifa",
+      "valence": 2.71,
+      "arousal": 3.49,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I still bring the bad bitches in the city out Uh, just a different type of leader We could be in North Korea, I could smoke with Wiz Khalifa Uh, told my wife I've never seen her",
+      "valence": 2.64,
+      "arousal": 3.35,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Uh, just a different type of leader We could be in North Korea, I could smoke with Wiz Khalifa Uh, told my wife I've never seen her After I hit it, bye Felicia, that's the way that I'ma leave it",
+      "valence": 3.02,
+      "arousal": 3.29,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "We could be in North Korea, I could smoke with Wiz Khalifa Uh, told my wife I've never seen her After I hit it, bye Felicia, that's the way that I'ma leave it Shit could get menacin', frightenin', find help",
+      "valence": 2.47,
+      "arousal": 3.53,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Uh, told my wife I've never seen her After I hit it, bye Felicia, that's the way that I'ma leave it Shit could get menacin', frightenin', find help See this is why all the bitches fuck with Ye, fuck what they talk about",
+      "valence": 2.03,
+      "arousal": 3.62,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "After I hit it, bye Felicia, that's the way that I'ma leave it Shit could get menacin', frightenin', find help See this is why all the bitches fuck with Ye, fuck what they talk about Sometimes I scare myself, myself",
+      "valence": 2.19,
+      "arousal": 3.6,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Shit could get menacin', frightenin', find help See this is why all the bitches fuck with Ye, fuck what they talk about Sometimes I scare myself, myself They take me on meds, off meds, ask yourself",
+      "valence": 2.13,
+      "arousal": 3.69,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "See this is why all the bitches fuck with Ye, fuck what they talk about Sometimes I scare myself, myself They take me on meds, off meds, ask yourself Shit could get menacin', frightenin', find help",
+      "valence": 2.17,
+      "arousal": 3.63,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Sometimes I scare myself, myself They take me on meds, off meds, ask yourself Shit could get menacin', frightenin', find help Ask your homegirl right now, look, you had a shot at Ye",
+      "valence": 2.34,
+      "arousal": 3.5,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "They take me on meds, off meds, ask yourself Shit could get menacin', frightenin', find help Ask your homegirl right now, look, you had a shot at Ye Sometimes I scare myself, myself",
+      "valence": 2.3,
+      "arousal": 3.59,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Shit could get menacin', frightenin', find help Ask your homegirl right now, look, you had a shot at Ye Sometimes I scare myself, myself You drop everything",
+      "valence": 2.21,
+      "arousal": 3.63,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Ask your homegirl right now, look, you had a shot at Ye Sometimes I scare myself, myself You drop everything Tweakin', tweakin' off that 2CB, haan?",
+      "valence": 2.53,
+      "arousal": 3.43,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Sometimes I scare myself, myself You drop everything Tweakin', tweakin' off that 2CB, haan? This is why your bitches fuck with me, huh",
+      "valence": 2.08,
+      "arousal": 3.73,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "You drop everything Tweakin', tweakin' off that 2CB, haan? This is why your bitches fuck with me, huh Smash, she gon' end up on TV, huh?",
+      "valence": 2.27,
+      "arousal": 3.72,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Tweakin', tweakin' off that 2CB, haan? This is why your bitches fuck with me, huh Smash, she gon' end up on TV, huh? Last thing that you ever wanna see, huh",
+      "valence": 2.25,
+      "arousal": 3.7,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "This is why your bitches fuck with me, huh Smash, she gon' end up on TV, huh? Last thing that you ever wanna see, huh I can feel the spirits all around me",
+      "valence": 2.31,
+      "arousal": 3.75,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Smash, she gon' end up on TV, huh? Last thing that you ever wanna see, huh I can feel the spirits all around me I think Prince and Mike was tryna warn me",
+      "valence": 2.66,
+      "arousal": 3.32,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Last thing that you ever wanna see, huh I can feel the spirits all around me I think Prince and Mike was tryna warn me They know I got demons all on me",
+      "valence": 2.44,
+      "arousal": 3.45,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I can feel the spirits all around me I think Prince and Mike was tryna warn me They know I got demons all on me Devil been tryna make an army",
+      "valence": 2.53,
+      "arousal": 3.49,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I think Prince and Mike was tryna warn me They know I got demons all on me Devil been tryna make an army They been strategizin' to harm me",
+      "valence": 2.33,
+      "arousal": 3.47,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "They know I got demons all on me Devil been tryna make an army They been strategizin' to harm me They don't know they dealin' with a zombie",
+      "valence": 2.35,
+      "arousal": 3.49,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Devil been tryna make an army They been strategizin' to harm me They don't know they dealin' with a zombie Niggas been tryna test my Gandhi",
+      "valence": 2.35,
+      "arousal": 3.45,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "They been strategizin' to harm me They don't know they dealin' with a zombie Niggas been tryna test my Gandhi Just because I'm dressed like Abercrombie",
+      "valence": 2.44,
+      "arousal": 3.51,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "They don't know they dealin' with a zombie Niggas been tryna test my Gandhi Just because I'm dressed like Abercrombie You see? You see?",
+      "valence": 2.77,
+      "arousal": 3.4,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Niggas been tryna test my Gandhi Just because I'm dressed like Abercrombie You see? You see? That's what I'm talkin' 'bout",
+      "valence": 2.93,
+      "arousal": 3.31,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Just because I'm dressed like Abercrombie You see? You see? That's what I'm talkin' 'bout That's why I fuck with Ye",
+      "valence": 2.49,
+      "arousal": 3.62,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "You see? You see? That's what I'm talkin' 'bout That's why I fuck with Ye See that was my third person",
+      "valence": 2.42,
+      "arousal": 3.62,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "That's what I'm talkin' 'bout That's why I fuck with Ye See that was my third person That's my bipolar shit, nigga what?",
+      "valence": 2.23,
+      "arousal": 3.81,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "That's why I fuck with Ye See that was my third person That's my bipolar shit, nigga what? That's my superpower, nigga ain't no disability",
+      "valence": 2.42,
+      "arousal": 3.67,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "See that was my third person That's my bipolar shit, nigga what? That's my superpower, nigga ain't no disability I'm a superhero! I'm a superhero!",
+      "valence": 3.02,
+      "arousal": 3.99,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "That's my bipolar shit, nigga what? That's my superpower, nigga ain't no disability I'm a superhero! I'm a superhero! Ahhh!",
+      "valence": 3.1,
+      "arousal": 4.19,
+      "dominance": 3.49
+    }
+  ]
+}

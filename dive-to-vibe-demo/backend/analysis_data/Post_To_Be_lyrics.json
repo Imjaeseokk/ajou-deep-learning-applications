@@ -1,0 +1,591 @@
+{
+  "artist": "Omarion Featuring Chris Brown & Jhene Aiko",
+  "overall_vad": {
+    "valence": 2.92,
+    "arousal": 3.48,
+    "dominance": 3.35
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Omarion Breezy (and your chick) Your chick (Mustard on the beat hoe!)",
+      "valence": 3.32,
+      "arousal": 3.61,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Breezy (and your chick) Your chick (Mustard on the beat hoe!) If your chick come close to me",
+      "valence": 3.03,
+      "arousal": 3.66,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Your chick (Mustard on the beat hoe!) If your chick come close to me She ain't going home when she post to be (no)",
+      "valence": 2.73,
+      "arousal": 3.72,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "(Mustard on the beat hoe!) If your chick come close to me She ain't going home when she post to be (no) I'm getting money like I'm post to be",
+      "valence": 2.94,
+      "arousal": 3.73,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "If your chick come close to me She ain't going home when she post to be (no) I'm getting money like I'm post to be I'm getting money like I'm post to be, oh",
+      "valence": 2.99,
+      "arousal": 3.48,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "She ain't going home when she post to be (no) I'm getting money like I'm post to be I'm getting money like I'm post to be, oh All my niggas close to me",
+      "valence": 3.17,
+      "arousal": 3.47,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I'm getting money like I'm post to be I'm getting money like I'm post to be, oh All my niggas close to me And all them other niggas where they post to be oh",
+      "valence": 3.34,
+      "arousal": 3.34,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I'm getting money like I'm post to be, oh All my niggas close to me And all them other niggas where they post to be oh The hoes go for me",
+      "valence": 3.18,
+      "arousal": 3.42,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "All my niggas close to me And all them other niggas where they post to be oh The hoes go for me Have your chick send a pic like pose for me (oh)",
+      "valence": 3.07,
+      "arousal": 3.36,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "And all them other niggas where they post to be oh The hoes go for me Have your chick send a pic like pose for me (oh) That's how it post to be",
+      "valence": 2.89,
+      "arousal": 3.3,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "The hoes go for me Have your chick send a pic like pose for me (oh) That's how it post to be Yo that's how it post to be (oh)",
+      "valence": 2.95,
+      "arousal": 3.32,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Have your chick send a pic like pose for me (oh) That's how it post to be Yo that's how it post to be (oh) Yo that's how it post to be",
+      "valence": 3.05,
+      "arousal": 3.28,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "That's how it post to be Yo that's how it post to be (oh) Yo that's how it post to be Everything good like it post to be",
+      "valence": 3.07,
+      "arousal": 3.28,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Yo that's how it post to be (oh) Yo that's how it post to be Everything good like it post to be Pull up to the club and it go up (go up)",
+      "valence": 3.19,
+      "arousal": 3.41,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Yo that's how it post to be Everything good like it post to be Pull up to the club and it go up (go up) Make your girl fall in love when I show up",
+      "valence": 3.57,
+      "arousal": 3.87,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Everything good like it post to be Pull up to the club and it go up (go up) Make your girl fall in love when I show up It's not my fault she wanna know me",
+      "valence": 3.43,
+      "arousal": 3.74,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Pull up to the club and it go up (go up) Make your girl fall in love when I show up It's not my fault she wanna know me She told me you was just a homie",
+      "valence": 3.3,
+      "arousal": 3.76,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Make your girl fall in love when I show up It's not my fault she wanna know me She told me you was just a homie She came down like she knew me",
+      "valence": 3.17,
+      "arousal": 3.7,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "It's not my fault she wanna know me She told me you was just a homie She came down like she knew me Gave it up like a groupie (true)",
+      "valence": 2.75,
+      "arousal": 3.42,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "She told me you was just a homie She came down like she knew me Gave it up like a groupie (true) And that's facts, no printer (no printer)",
+      "valence": 2.84,
+      "arousal": 3.12,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "She came down like she knew me Gave it up like a groupie (true) And that's facts, no printer (no printer) Cold nigga turn the summer to the winter",
+      "valence": 2.8,
+      "arousal": 2.99,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Gave it up like a groupie (true) And that's facts, no printer (no printer) Cold nigga turn the summer to the winter She save me in her phone as bestie",
+      "valence": 2.81,
+      "arousal": 3.06,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "And that's facts, no printer (no printer) Cold nigga turn the summer to the winter She save me in her phone as bestie But I had her screaming oh",
+      "valence": 2.45,
+      "arousal": 3.53,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Cold nigga turn the summer to the winter She save me in her phone as bestie But I had her screaming oh Yo girl wasn't supposed to text me (nope)",
+      "valence": 2.38,
+      "arousal": 3.59,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "She save me in her phone as bestie But I had her screaming oh Yo girl wasn't supposed to text me (nope) You want to know how I know what I know",
+      "valence": 2.44,
+      "arousal": 3.73,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "But I had her screaming oh Yo girl wasn't supposed to text me (nope) You want to know how I know what I know If your chick come close to me",
+      "valence": 2.33,
+      "arousal": 3.81,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Yo girl wasn't supposed to text me (nope) You want to know how I know what I know If your chick come close to me She ain't going home when she post to be (no)",
+      "valence": 2.44,
+      "arousal": 3.58,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "You want to know how I know what I know If your chick come close to me She ain't going home when she post to be (no) I'm getting money like I'm post to be",
+      "valence": 2.79,
+      "arousal": 3.51,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "If your chick come close to me She ain't going home when she post to be (no) I'm getting money like I'm post to be I'm getting money like I'm post to be, oh",
+      "valence": 2.99,
+      "arousal": 3.48,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "She ain't going home when she post to be (no) I'm getting money like I'm post to be I'm getting money like I'm post to be, oh All my niggas close to me",
+      "valence": 3.17,
+      "arousal": 3.47,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I'm getting money like I'm post to be I'm getting money like I'm post to be, oh All my niggas close to me And all them other niggas where they post to be oh",
+      "valence": 3.34,
+      "arousal": 3.34,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I'm getting money like I'm post to be, oh All my niggas close to me And all them other niggas where they post to be oh The hoes go for me",
+      "valence": 3.18,
+      "arousal": 3.42,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "All my niggas close to me And all them other niggas where they post to be oh The hoes go for me Have your chick send a pic like pose for me (oh)",
+      "valence": 3.07,
+      "arousal": 3.36,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "And all them other niggas where they post to be oh The hoes go for me Have your chick send a pic like pose for me (oh) That's how it post to be",
+      "valence": 2.89,
+      "arousal": 3.3,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "The hoes go for me Have your chick send a pic like pose for me (oh) That's how it post to be Yo that's how it post to be",
+      "valence": 2.94,
+      "arousal": 3.35,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Have your chick send a pic like pose for me (oh) That's how it post to be Yo that's how it post to be Yo that's how it post to be",
+      "valence": 3.06,
+      "arousal": 3.32,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "That's how it post to be Yo that's how it post to be Yo that's how it post to be Everything good like it post to be",
+      "valence": 3.13,
+      "arousal": 3.32,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Yo that's how it post to be Yo that's how it post to be Everything good like it post to be Got your girl in my section finna blow up",
+      "valence": 2.95,
+      "arousal": 3.51,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Yo that's how it post to be Everything good like it post to be Got your girl in my section finna blow up A nigga smoking loud, I'm about to roll up",
+      "valence": 2.9,
+      "arousal": 3.57,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Everything good like it post to be Got your girl in my section finna blow up A nigga smoking loud, I'm about to roll up She ain't never got high like this with a guy like this",
+      "valence": 2.9,
+      "arousal": 3.55,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Got your girl in my section finna blow up A nigga smoking loud, I'm about to roll up She ain't never got high like this with a guy like this When she pop it tell her hol' up",
+      "valence": 2.53,
+      "arousal": 3.64,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "A nigga smoking loud, I'm about to roll up She ain't never got high like this with a guy like this When she pop it tell her hol' up Better believe she gone leave with a real nigga",
+      "valence": 2.54,
+      "arousal": 3.48,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "She ain't never got high like this with a guy like this When she pop it tell her hol' up Better believe she gone leave with a real nigga I dick her down can't put it down like I do",
+      "valence": 2.4,
+      "arousal": 3.48,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "When she pop it tell her hol' up Better believe she gone leave with a real nigga I dick her down can't put it down like I do I get to bussin' no discussin', gotta deal with it",
+      "valence": 2.32,
+      "arousal": 3.59,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Better believe she gone leave with a real nigga I dick her down can't put it down like I do I get to bussin' no discussin', gotta deal with it Team us, we ain't worried about you",
+      "valence": 2.41,
+      "arousal": 3.5,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I dick her down can't put it down like I do I get to bussin' no discussin', gotta deal with it Team us, we ain't worried about you Murder she wrote",
+      "valence": 2.37,
+      "arousal": 3.63,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I get to bussin' no discussin', gotta deal with it Team us, we ain't worried about you Murder she wrote Yeah yeah, when I hit it I'mma kill it I'mma get it like",
+      "valence": 2.76,
+      "arousal": 3.6,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Team us, we ain't worried about you Murder she wrote Yeah yeah, when I hit it I'mma kill it I'mma get it like Murder she wrote",
+      "valence": 2.8,
+      "arousal": 3.57,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Murder she wrote Yeah yeah, when I hit it I'mma kill it I'mma get it like Murder she wrote You want to know how I know what I know",
+      "valence": 2.69,
+      "arousal": 3.59,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Yeah yeah, when I hit it I'mma kill it I'mma get it like Murder she wrote You want to know how I know what I know If your dude come close to me",
+      "valence": 2.77,
+      "arousal": 3.77,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Murder she wrote You want to know how I know what I know If your dude come close to me He gon' want to ride off in a Ghost with me (I'll make him do it)",
+      "valence": 2.68,
+      "arousal": 3.47,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "You want to know how I know what I know If your dude come close to me He gon' want to ride off in a Ghost with me (I'll make him do it) I might let your boy chauffeur me",
+      "valence": 2.73,
+      "arousal": 3.47,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "If your dude come close to me He gon' want to ride off in a Ghost with me (I'll make him do it) I might let your boy chauffeur me But he got to eat the booty like groceries",
+      "valence": 2.61,
+      "arousal": 3.46,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "He gon' want to ride off in a Ghost with me (I'll make him do it) I might let your boy chauffeur me But he got to eat the booty like groceries But he gotta get rid of these hoes from me",
+      "valence": 2.57,
+      "arousal": 3.41,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "I might let your boy chauffeur me But he got to eat the booty like groceries But he gotta get rid of these hoes from me I might have that nigga selling his soul for me",
+      "valence": 2.48,
+      "arousal": 3.48,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "But he got to eat the booty like groceries But he gotta get rid of these hoes from me I might have that nigga selling his soul for me Ooh, that's how it post to be",
+      "valence": 2.41,
+      "arousal": 3.57,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "But he gotta get rid of these hoes from me I might have that nigga selling his soul for me Ooh, that's how it post to be If he wants me to expose the freak ooh",
+      "valence": 2.29,
+      "arousal": 3.69,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "I might have that nigga selling his soul for me Ooh, that's how it post to be If he wants me to expose the freak ooh That's how it post to be ooh",
+      "valence": 2.6,
+      "arousal": 3.53,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Ooh, that's how it post to be If he wants me to expose the freak ooh That's how it post to be ooh That's how it post to be ooh",
+      "valence": 2.7,
+      "arousal": 3.47,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "If he wants me to expose the freak ooh That's how it post to be ooh That's how it post to be ooh That's how it post to be",
+      "valence": 2.53,
+      "arousal": 3.46,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "That's how it post to be ooh That's how it post to be ooh That's how it post to be Everything good like it post to be ooh",
+      "valence": 3.11,
+      "arousal": 3.28,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "That's how it post to be ooh That's how it post to be Everything good like it post to be ooh If your chick come close to me (if she come close to me)",
+      "valence": 3.11,
+      "arousal": 3.38,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "That's how it post to be Everything good like it post to be ooh If your chick come close to me (if she come close to me) She ain't going home when she post to be (oh yeah)",
+      "valence": 2.94,
+      "arousal": 3.37,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Everything good like it post to be ooh If your chick come close to me (if she come close to me) She ain't going home when she post to be (oh yeah) I'm getting money like I'm post to be (post to be)",
+      "valence": 3.29,
+      "arousal": 3.48,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "If your chick come close to me (if she come close to me) She ain't going home when she post to be (oh yeah) I'm getting money like I'm post to be (post to be) I'm getting money like I'm post to be, oh (I'm getting money)",
+      "valence": 3.29,
+      "arousal": 3.52,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "She ain't going home when she post to be (oh yeah) I'm getting money like I'm post to be (post to be) I'm getting money like I'm post to be, oh (I'm getting money) All my niggas close to me",
+      "valence": 3.36,
+      "arousal": 3.42,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "I'm getting money like I'm post to be (post to be) I'm getting money like I'm post to be, oh (I'm getting money) All my niggas close to me And all them other niggas where they post to be oh (yeah yeah girl)",
+      "valence": 3.63,
+      "arousal": 3.56,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "I'm getting money like I'm post to be, oh (I'm getting money) All my niggas close to me And all them other niggas where they post to be oh (yeah yeah girl) The hoes go for me",
+      "valence": 3.44,
+      "arousal": 3.56,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "All my niggas close to me And all them other niggas where they post to be oh (yeah yeah girl) The hoes go for me Have your chick send a pic like pose for me (oh)",
+      "valence": 3.21,
+      "arousal": 3.51,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "And all them other niggas where they post to be oh (yeah yeah girl) The hoes go for me Have your chick send a pic like pose for me (oh) (Girl) That's how it post to be (yeah)",
+      "valence": 3.08,
+      "arousal": 3.42,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "The hoes go for me Have your chick send a pic like pose for me (oh) (Girl) That's how it post to be (yeah) Yo that's how it post to be (girl)",
+      "valence": 3.03,
+      "arousal": 3.36,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Have your chick send a pic like pose for me (oh) (Girl) That's how it post to be (yeah) Yo that's how it post to be (girl) Yo that's how it post to be (ay)",
+      "valence": 3.09,
+      "arousal": 3.29,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "(Girl) That's how it post to be (yeah) Yo that's how it post to be (girl) Yo that's how it post to be (ay) Everything good like it post to be",
+      "valence": 3.15,
+      "arousal": 3.2,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Yo that's how it post to be (girl) Yo that's how it post to be (ay) Everything good like it post to be She 'bout to ride down with me",
+      "valence": 3.08,
+      "arousal": 3.39,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Yo that's how it post to be (ay) Everything good like it post to be She 'bout to ride down with me And I don't even know her name (no name)",
+      "valence": 3.02,
+      "arousal": 3.38,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "Everything good like it post to be She 'bout to ride down with me And I don't even know her name (no name) But I know that she your girl (your girl)",
+      "valence": 3.28,
+      "arousal": 3.47,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "She 'bout to ride down with me And I don't even know her name (no name) But I know that she your girl (your girl) She chose up, are you mad or nah? Bruh",
+      "valence": 2.95,
+      "arousal": 3.46,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "And I don't even know her name (no name) But I know that she your girl (your girl) She chose up, are you mad or nah? Bruh Don't be mad about it",
+      "valence": 2.88,
+      "arousal": 3.41,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "But I know that she your girl (your girl) She chose up, are you mad or nah? Bruh Don't be mad about it These chicks be for everybody",
+      "valence": 2.99,
+      "arousal": 3.48,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "She chose up, are you mad or nah? Bruh Don't be mad about it These chicks be for everybody Omarion",
+      "valence": 2.83,
+      "arousal": 3.48,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "Don't be mad about it These chicks be for everybody Omarion C-Breezy",
+      "valence": 2.98,
+      "arousal": 3.36,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "These chicks be for everybody Omarion C-Breezy I'll make 'em do it!",
+      "valence": 3.22,
+      "arousal": 3.84,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "Omarion C-Breezy I'll make 'em do it! I'll make 'em do it!",
+      "valence": 3.29,
+      "arousal": 3.84,
+      "dominance": 3.72
+    }
+  ]
+}

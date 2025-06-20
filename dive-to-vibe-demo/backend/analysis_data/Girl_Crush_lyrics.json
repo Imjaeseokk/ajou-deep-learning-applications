@@ -1,0 +1,262 @@
+{
+  "artist": "Little Big Town",
+  "overall_vad": {
+    "valence": 3.06,
+    "arousal": 3.74,
+    "dominance": 3.16
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I've got a girl crush Hate to admit it but I got a hard rush It's slowin' down",
+      "valence": 2.88,
+      "arousal": 3.96,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Hate to admit it but I got a hard rush It's slowin' down I got it real bad",
+      "valence": 2.2,
+      "arousal": 3.48,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I got a hard rush It's slowin' down I got it real bad Want everything she has",
+      "valence": 2.28,
+      "arousal": 3.62,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "It's slowin' down I got it real bad Want everything she has That smile and that midnight laugh",
+      "valence": 2.76,
+      "arousal": 3.66,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I got it real bad Want everything she has That smile and that midnight laugh She's givin' you now",
+      "valence": 3.12,
+      "arousal": 3.76,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Want everything she has That smile and that midnight laugh She's givin' you now I want to taste her lips",
+      "valence": 3.59,
+      "arousal": 3.9,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "That smile and that midnight laugh She's givin' you now I want to taste her lips Yeah, 'cause they taste like you",
+      "valence": 3.64,
+      "arousal": 3.98,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "She's givin' you now I want to taste her lips Yeah, 'cause they taste like you I want to drown myself",
+      "valence": 3.14,
+      "arousal": 4.02,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I want to taste her lips Yeah, 'cause they taste like you I want to drown myself In a bottle of her perfume",
+      "valence": 3.34,
+      "arousal": 3.92,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Yeah, 'cause they taste like you I want to drown myself In a bottle of her perfume I want her long blond hair",
+      "valence": 3.26,
+      "arousal": 3.72,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I want to drown myself In a bottle of her perfume I want her long blond hair I want her magic touch",
+      "valence": 3.23,
+      "arousal": 3.75,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "In a bottle of her perfume I want her long blond hair I want her magic touch Yeah, 'cause maybe then",
+      "valence": 3.23,
+      "arousal": 3.47,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I want her long blond hair I want her magic touch Yeah, 'cause maybe then You'd want me just as much",
+      "valence": 3.31,
+      "arousal": 3.73,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I want her magic touch Yeah, 'cause maybe then You'd want me just as much I've got a girl crush",
+      "valence": 3.16,
+      "arousal": 3.61,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Yeah, 'cause maybe then You'd want me just as much I've got a girl crush I've got a girl crush",
+      "valence": 3.11,
+      "arousal": 3.53,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "You'd want me just as much I've got a girl crush I've got a girl crush I don't get no sleep",
+      "valence": 2.92,
+      "arousal": 3.73,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I've got a girl crush I've got a girl crush I don't get no sleep I don't get no peace",
+      "valence": 2.6,
+      "arousal": 3.92,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I've got a girl crush I don't get no sleep I don't get no peace Thinkin' about her",
+      "valence": 2.5,
+      "arousal": 3.8,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I don't get no sleep I don't get no peace Thinkin' about her Under your bed sheets",
+      "valence": 2.33,
+      "arousal": 3.46,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I don't get no peace Thinkin' about her Under your bed sheets The way that she's whisperin'",
+      "valence": 2.64,
+      "arousal": 3.4,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Thinkin' about her Under your bed sheets The way that she's whisperin' The way that she's pullin' you in",
+      "valence": 3.39,
+      "arousal": 3.5,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Under your bed sheets The way that she's whisperin' The way that she's pullin' you in Lord knows I've tried",
+      "valence": 3.12,
+      "arousal": 3.56,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "The way that she's whisperin' The way that she's pullin' you in Lord knows I've tried I can't get her off my mind",
+      "valence": 2.97,
+      "arousal": 3.62,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "The way that she's pullin' you in Lord knows I've tried I can't get her off my mind I want to taste her lips",
+      "valence": 3.08,
+      "arousal": 4.06,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Lord knows I've tried I can't get her off my mind I want to taste her lips Yeah, 'cause they taste like you",
+      "valence": 3.14,
+      "arousal": 3.94,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I can't get her off my mind I want to taste her lips Yeah, 'cause they taste like you I want to drown myself",
+      "valence": 3.04,
+      "arousal": 4.05,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I want to taste her lips Yeah, 'cause they taste like you I want to drown myself In a bottle of her perfume",
+      "valence": 3.34,
+      "arousal": 3.92,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Yeah, 'cause they taste like you I want to drown myself In a bottle of her perfume I want her long blond hair",
+      "valence": 3.26,
+      "arousal": 3.72,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I want to drown myself In a bottle of her perfume I want her long blond hair I want her magic touch",
+      "valence": 3.23,
+      "arousal": 3.75,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "In a bottle of her perfume I want her long blond hair I want her magic touch Yeah, 'cause maybe then",
+      "valence": 3.23,
+      "arousal": 3.47,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I want her long blond hair I want her magic touch Yeah, 'cause maybe then You'd want me just as much",
+      "valence": 3.31,
+      "arousal": 3.73,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I want her magic touch Yeah, 'cause maybe then You'd want me just as much I've got a girl crush",
+      "valence": 3.16,
+      "arousal": 3.61,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Yeah, 'cause maybe then You'd want me just as much I've got a girl crush I've got a girl crush",
+      "valence": 3.11,
+      "arousal": 3.53,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "You'd want me just as much I've got a girl crush I've got a girl crush Hate to admit it but",
+      "valence": 3.11,
+      "arousal": 3.74,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I've got a girl crush I've got a girl crush Hate to admit it but I got a heart rush",
+      "valence": 3.58,
+      "arousal": 4.14,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I've got a girl crush Hate to admit it but I got a heart rush It ain't slowin' down",
+      "valence": 3.02,
+      "arousal": 3.94,
+      "dominance": 3.12
+    }
+  ]
+}

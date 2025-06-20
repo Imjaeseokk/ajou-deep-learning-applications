@@ -1,0 +1,269 @@
+{
+  "artist": "Luke Bryan",
+  "overall_vad": {
+    "valence": 3.36,
+    "arousal": 3.51,
+    "dominance": 3.35
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Cottonwood fallin' like snow in July Sunset, riverside, 4 wheel drive And a tail light circle Roll down the windows turn it on up",
+      "valence": 3.05,
+      "arousal": 2.97,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Sunset, riverside, 4 wheel drive And a tail light circle Roll down the windows turn it on up Pour a little Crown in a Dixie cup",
+      "valence": 3.21,
+      "arousal": 2.95,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "And a tail light circle Roll down the windows turn it on up Pour a little Crown in a Dixie cup Get the party, started",
+      "valence": 3.14,
+      "arousal": 3.38,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Roll down the windows turn it on up Pour a little Crown in a Dixie cup Get the party, started Girl you make my speakers go boom boom",
+      "valence": 3.22,
+      "arousal": 3.75,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Pour a little Crown in a Dixie cup Get the party, started Girl you make my speakers go boom boom Dancin' on the tailgate in the full moon",
+      "valence": 3.29,
+      "arousal": 3.59,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Get the party, started Girl you make my speakers go boom boom Dancin' on the tailgate in the full moon That kinda thing makes a man go mmm mmm",
+      "valence": 3.23,
+      "arousal": 3.59,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Girl you make my speakers go boom boom Dancin' on the tailgate in the full moon That kinda thing makes a man go mmm mmm You're lookin' so good in what's left of those blue jeans",
+      "valence": 3.49,
+      "arousal": 3.61,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Dancin' on the tailgate in the full moon That kinda thing makes a man go mmm mmm You're lookin' so good in what's left of those blue jeans Drip of honey on the money make it gotta be",
+      "valence": 3.44,
+      "arousal": 3.42,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "That kinda thing makes a man go mmm mmm You're lookin' so good in what's left of those blue jeans Drip of honey on the money make it gotta be The best buzz I'm ever gonna find",
+      "valence": 3.67,
+      "arousal": 3.69,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "You're lookin' so good in what's left of those blue jeans Drip of honey on the money make it gotta be The best buzz I'm ever gonna find Hey I'm a little drunk on you",
+      "valence": 3.59,
+      "arousal": 3.73,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Drip of honey on the money make it gotta be The best buzz I'm ever gonna find Hey I'm a little drunk on you And high on summertime",
+      "valence": 3.53,
+      "arousal": 3.64,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "The best buzz I'm ever gonna find Hey I'm a little drunk on you And high on summertime If you aint a ten you're a nine point nine",
+      "valence": 3.27,
+      "arousal": 3.46,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Hey I'm a little drunk on you And high on summertime If you aint a ten you're a nine point nine Tippin' n' spillin' that home made wine",
+      "valence": 2.89,
+      "arousal": 3.28,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "And high on summertime If you aint a ten you're a nine point nine Tippin' n' spillin' that home made wine On your tied up T-shirt",
+      "valence": 3.13,
+      "arousal": 3.11,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "If you aint a ten you're a nine point nine Tippin' n' spillin' that home made wine On your tied up T-shirt Every little kiss is drivin' me wild",
+      "valence": 3.39,
+      "arousal": 3.51,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Tippin' n' spillin' that home made wine On your tied up T-shirt Every little kiss is drivin' me wild Thrown little cherry bombs into my fire",
+      "valence": 3.13,
+      "arousal": 3.49,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "On your tied up T-shirt Every little kiss is drivin' me wild Thrown little cherry bombs into my fire Good God all mighty",
+      "valence": 3.32,
+      "arousal": 3.76,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Every little kiss is drivin' me wild Thrown little cherry bombs into my fire Good God all mighty Girl you make my speakers go boom boom",
+      "valence": 3.37,
+      "arousal": 3.88,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Thrown little cherry bombs into my fire Good God all mighty Girl you make my speakers go boom boom Dancin' on the tailgate in a full moon",
+      "valence": 3.12,
+      "arousal": 3.76,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Good God all mighty Girl you make my speakers go boom boom Dancin' on the tailgate in a full moon That kinda thing makes a man go mmm mmm",
+      "valence": 3.43,
+      "arousal": 3.78,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Girl you make my speakers go boom boom Dancin' on the tailgate in a full moon That kinda thing makes a man go mmm mmm You're lookin' so good in what's left of those blue jeans",
+      "valence": 3.48,
+      "arousal": 3.62,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Dancin' on the tailgate in a full moon That kinda thing makes a man go mmm mmm You're lookin' so good in what's left of those blue jeans Drip of honey on the money make it gotta be",
+      "valence": 3.43,
+      "arousal": 3.43,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "That kinda thing makes a man go mmm mmm You're lookin' so good in what's left of those blue jeans Drip of honey on the money make it gotta be The best buzz I'm ever gonna find",
+      "valence": 3.67,
+      "arousal": 3.69,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "You're lookin' so good in what's left of those blue jeans Drip of honey on the money make it gotta be The best buzz I'm ever gonna find Hey, I'm a little drunk on you",
+      "valence": 3.63,
+      "arousal": 3.73,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Drip of honey on the money make it gotta be The best buzz I'm ever gonna find Hey, I'm a little drunk on you And high on summertime",
+      "valence": 3.57,
+      "arousal": 3.64,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "The best buzz I'm ever gonna find Hey, I'm a little drunk on you And high on summertime Let's slip on out where it's a little bit darker",
+      "valence": 3.25,
+      "arousal": 3.31,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Hey, I'm a little drunk on you And high on summertime Let's slip on out where it's a little bit darker And when it gets a little bit hotter",
+      "valence": 3.09,
+      "arousal": 3.08,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "And high on summertime Let's slip on out where it's a little bit darker And when it gets a little bit hotter We'll take it off all out in the water",
+      "valence": 3.24,
+      "arousal": 2.94,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Let's slip on out where it's a little bit darker And when it gets a little bit hotter We'll take it off all out in the water Girl you make my speakers go boom boom",
+      "valence": 3.14,
+      "arousal": 3.24,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "And when it gets a little bit hotter We'll take it off all out in the water Girl you make my speakers go boom boom Dancin' on the tailgate in a full moon",
+      "valence": 3.19,
+      "arousal": 3.47,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "We'll take it off all out in the water Girl you make my speakers go boom boom Dancin' on the tailgate in a full moon That kinda thing makes a man go mmm mmmm",
+      "valence": 3.37,
+      "arousal": 3.58,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Girl you make my speakers go boom boom Dancin' on the tailgate in a full moon That kinda thing makes a man go mmm mmmm You're lookin' so good in what's left of those blue jeans",
+      "valence": 3.55,
+      "arousal": 3.65,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Dancin' on the tailgate in a full moon That kinda thing makes a man go mmm mmmm You're lookin' so good in what's left of those blue jeans Drip of honey on the money make it gotta be",
+      "valence": 3.54,
+      "arousal": 3.47,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "That kinda thing makes a man go mmm mmmm You're lookin' so good in what's left of those blue jeans Drip of honey on the money make it gotta be The best buzz I'm ever gonna find",
+      "valence": 3.75,
+      "arousal": 3.72,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "You're lookin' so good in what's left of those blue jeans Drip of honey on the money make it gotta be The best buzz I'm ever gonna find Hey I'm a little drunk on you",
+      "valence": 3.59,
+      "arousal": 3.73,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Drip of honey on the money make it gotta be The best buzz I'm ever gonna find Hey I'm a little drunk on you And high on summertime",
+      "valence": 3.53,
+      "arousal": 3.64,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "The best buzz I'm ever gonna find Hey I'm a little drunk on you And high on summertime Yeah I'm a little drunk on you",
+      "valence": 3.24,
+      "arousal": 3.48,
+      "dominance": 3.29
+    }
+  ]
+}

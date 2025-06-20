@@ -1,0 +1,283 @@
+{
+  "artist": "Charlie Puth Featuring Meghan Trainor",
+  "overall_vad": {
+    "valence": 3.13,
+    "arousal": 3.62,
+    "dominance": 3.41
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Let's Marvin Gaye and get it on You got the healin' that I want Just like they say it in the song Until the dawn, let's Marvin Gaye and get it on",
+      "valence": 3.26,
+      "arousal": 3.42,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "You got the healin' that I want Just like they say it in the song Until the dawn, let's Marvin Gaye and get it on We got this king-size to ourselves",
+      "valence": 3.26,
+      "arousal": 3.46,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Just like they say it in the song Until the dawn, let's Marvin Gaye and get it on We got this king-size to ourselves Don't have to share with no one else",
+      "valence": 3.17,
+      "arousal": 3.38,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Until the dawn, let's Marvin Gaye and get it on We got this king-size to ourselves Don't have to share with no one else Don't keep your secrets to yourself",
+      "valence": 3.11,
+      "arousal": 3.43,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "We got this king-size to ourselves Don't have to share with no one else Don't keep your secrets to yourself It's Kama Sutra show and tell, yeah",
+      "valence": 2.97,
+      "arousal": 3.28,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Don't have to share with no one else Don't keep your secrets to yourself It's Kama Sutra show and tell, yeah Whoa, there's lovin' in your eyes that pulls me closer",
+      "valence": 3.53,
+      "arousal": 3.7,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Don't keep your secrets to yourself It's Kama Sutra show and tell, yeah Whoa, there's lovin' in your eyes that pulls me closer (Oh, it pulls me closer)",
+      "valence": 3.54,
+      "arousal": 3.83,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "It's Kama Sutra show and tell, yeah Whoa, there's lovin' in your eyes that pulls me closer (Oh, it pulls me closer) It's so subtle (It's so subtle), I'm in trouble (I'm in trouble)",
+      "valence": 3.44,
+      "arousal": 3.77,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Whoa, there's lovin' in your eyes that pulls me closer (Oh, it pulls me closer) It's so subtle (It's so subtle), I'm in trouble (I'm in trouble) But I love to be in trouble with you",
+      "valence": 3.54,
+      "arousal": 3.91,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "(Oh, it pulls me closer) It's so subtle (It's so subtle), I'm in trouble (I'm in trouble) But I love to be in trouble with you Let's Marvin Gaye and get it on",
+      "valence": 3.06,
+      "arousal": 3.63,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "It's so subtle (It's so subtle), I'm in trouble (I'm in trouble) But I love to be in trouble with you Let's Marvin Gaye and get it on You got the healing that I want",
+      "valence": 2.92,
+      "arousal": 3.46,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "But I love to be in trouble with you Let's Marvin Gaye and get it on You got the healing that I want Just like they say it in the song",
+      "valence": 3.05,
+      "arousal": 3.55,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Let's Marvin Gaye and get it on You got the healing that I want Just like they say it in the song Until the dawn, let's Marvin Gaye and get it on",
+      "valence": 3.33,
+      "arousal": 3.4,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "You got the healing that I want Just like they say it in the song Until the dawn, let's Marvin Gaye and get it on You've got to give it up to me",
+      "valence": 3.15,
+      "arousal": 3.43,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Just like they say it in the song Until the dawn, let's Marvin Gaye and get it on You've got to give it up to me I'm screaming, \"Mercy, mercy, please!\"",
+      "valence": 2.91,
+      "arousal": 3.84,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Until the dawn, let's Marvin Gaye and get it on You've got to give it up to me I'm screaming, \"Mercy, mercy, please!\" Just like they say it in the song",
+      "valence": 2.91,
+      "arousal": 3.84,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "You've got to give it up to me I'm screaming, \"Mercy, mercy, please!\" Just like they say it in the song Until the dawn, let's Marvin Gaye and get it on",
+      "valence": 2.85,
+      "arousal": 3.91,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I'm screaming, \"Mercy, mercy, please!\" Just like they say it in the song Until the dawn, let's Marvin Gaye and get it on And when you leave me all alone",
+      "valence": 2.84,
+      "arousal": 3.97,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Just like they say it in the song Until the dawn, let's Marvin Gaye and get it on And when you leave me all alone I'm like a stray without a home",
+      "valence": 3.03,
+      "arousal": 3.28,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Until the dawn, let's Marvin Gaye and get it on And when you leave me all alone I'm like a stray without a home I'm like a dog without a bone",
+      "valence": 2.88,
+      "arousal": 3.42,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "And when you leave me all alone I'm like a stray without a home I'm like a dog without a bone I just want you for my own",
+      "valence": 2.52,
+      "arousal": 3.49,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I'm like a stray without a home I'm like a dog without a bone I just want you for my own I got to have you, babe",
+      "valence": 3.08,
+      "arousal": 3.71,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I'm like a dog without a bone I just want you for my own I got to have you, babe Whoa, there's lovin' in your eyes that pulls me closer",
+      "valence": 3.72,
+      "arousal": 3.99,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I just want you for my own I got to have you, babe Whoa, there's lovin' in your eyes that pulls me closer It's so subtle (It's so subtle), I'm in trouble (I'm in trouble)",
+      "valence": 3.48,
+      "arousal": 3.93,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I got to have you, babe Whoa, there's lovin' in your eyes that pulls me closer It's so subtle (It's so subtle), I'm in trouble (I'm in trouble) But I'd rather be in trouble with you",
+      "valence": 3.22,
+      "arousal": 3.89,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Whoa, there's lovin' in your eyes that pulls me closer It's so subtle (It's so subtle), I'm in trouble (I'm in trouble) But I'd rather be in trouble with you Let's Marvin Gaye and get it on",
+      "valence": 2.93,
+      "arousal": 3.72,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "It's so subtle (It's so subtle), I'm in trouble (I'm in trouble) But I'd rather be in trouble with you Let's Marvin Gaye and get it on Oh, baby, I got that healing that you want, yeah",
+      "valence": 2.71,
+      "arousal": 3.38,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "But I'd rather be in trouble with you Let's Marvin Gaye and get it on Oh, baby, I got that healing that you want, yeah Like they say it in the songs",
+      "valence": 2.94,
+      "arousal": 3.34,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Let's Marvin Gaye and get it on Oh, baby, I got that healing that you want, yeah Like they say it in the songs Until the dawn, let's Marvin Gaye and get it on",
+      "valence": 3.43,
+      "arousal": 3.43,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Oh, baby, I got that healing that you want, yeah Like they say it in the songs Until the dawn, let's Marvin Gaye and get it on Let's Marvin Gaye and get it on",
+      "valence": 3.49,
+      "arousal": 3.42,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Like they say it in the songs Until the dawn, let's Marvin Gaye and get it on Let's Marvin Gaye and get it on You got the healing that I want",
+      "valence": 3.33,
+      "arousal": 3.38,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Until the dawn, let's Marvin Gaye and get it on Let's Marvin Gaye and get it on You got the healing that I want Just like they say it in the song",
+      "valence": 3.26,
+      "arousal": 3.42,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Let's Marvin Gaye and get it on You got the healing that I want Just like they say it in the song Until the dawn, let's Marvin Gaye and get it on, babe",
+      "valence": 3.37,
+      "arousal": 3.52,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "You got the healing that I want Just like they say it in the song Until the dawn, let's Marvin Gaye and get it on, babe You've got to give it up to me",
+      "valence": 3.16,
+      "arousal": 3.52,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Just like they say it in the song Until the dawn, let's Marvin Gaye and get it on, babe You've got to give it up to me I'm screaming, \"Mercy, mercy, please!\"",
+      "valence": 2.88,
+      "arousal": 3.9,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Until the dawn, let's Marvin Gaye and get it on, babe You've got to give it up to me I'm screaming, \"Mercy, mercy, please!\" Just like they say it in the song",
+      "valence": 2.89,
+      "arousal": 3.91,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "You've got to give it up to me I'm screaming, \"Mercy, mercy, please!\" Just like they say it in the song Until the dawn, let's Marvin Gaye and get it on",
+      "valence": 2.85,
+      "arousal": 3.91,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "I'm screaming, \"Mercy, mercy, please!\" Just like they say it in the song Until the dawn, let's Marvin Gaye and get it on Just like they say it in the song",
+      "valence": 2.93,
+      "arousal": 3.9,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Just like they say it in the song Until the dawn, let's Marvin Gaye and get it on Just like they say it in the song Until the dawn, let's Marvin Gaye and get it on, oh",
+      "valence": 3.16,
+      "arousal": 3.38,
+      "dominance": 3.52
+    }
+  ]
+}

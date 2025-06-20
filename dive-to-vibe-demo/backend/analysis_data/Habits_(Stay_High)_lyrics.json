@@ -1,0 +1,353 @@
+{
+  "artist": "Tove Lo",
+  "overall_vad": {
+    "valence": 2.76,
+    "arousal": 3.51,
+    "dominance": 2.95
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I eat my dinner in my bathtub Then I go to sex clubs Watching freaky people gettin' it on It doesn't make me nervous",
+      "valence": 3.21,
+      "arousal": 3.25,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Then I go to sex clubs Watching freaky people gettin' it on It doesn't make me nervous If anything, I'm restless",
+      "valence": 3.07,
+      "arousal": 3.24,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Watching freaky people gettin' it on It doesn't make me nervous If anything, I'm restless Yeah, I've been around, and I've seen it all",
+      "valence": 3.05,
+      "arousal": 3.26,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "It doesn't make me nervous If anything, I'm restless Yeah, I've been around, and I've seen it all I get home, I got the munchies",
+      "valence": 2.91,
+      "arousal": 3.29,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "If anything, I'm restless Yeah, I've been around, and I've seen it all I get home, I got the munchies Binge on all my Twinkies",
+      "valence": 2.91,
+      "arousal": 3.39,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Yeah, I've been around, and I've seen it all I get home, I got the munchies Binge on all my Twinkies Throw up in the tub, then I go to sleep",
+      "valence": 3.06,
+      "arousal": 3.43,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I get home, I got the munchies Binge on all my Twinkies Throw up in the tub, then I go to sleep And I drank up all my money",
+      "valence": 2.74,
+      "arousal": 3.26,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Binge on all my Twinkies Throw up in the tub, then I go to sleep And I drank up all my money Dazed and kinda lonely",
+      "valence": 2.6,
+      "arousal": 3.06,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Throw up in the tub, then I go to sleep And I drank up all my money Dazed and kinda lonely You're gone and I gotta stay high all the time",
+      "valence": 2.49,
+      "arousal": 3.22,
+      "dominance": 2.68
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "And I drank up all my money Dazed and kinda lonely You're gone and I gotta stay high all the time To keep you off my mind",
+      "valence": 2.41,
+      "arousal": 3.41,
+      "dominance": 2.71
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Dazed and kinda lonely You're gone and I gotta stay high all the time To keep you off my mind Ooh-ooh, ooh-ooh",
+      "valence": 2.39,
+      "arousal": 3.59,
+      "dominance": 2.71
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "You're gone and I gotta stay high all the time To keep you off my mind Ooh-ooh, ooh-ooh High all the time to keep you off my mind",
+      "valence": 2.63,
+      "arousal": 3.67,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "To keep you off my mind Ooh-ooh, ooh-ooh High all the time to keep you off my mind Ooh-ooh, ooh-ooh",
+      "valence": 2.7,
+      "arousal": 3.76,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Ooh-ooh, ooh-ooh High all the time to keep you off my mind Ooh-ooh, ooh-ooh Spend my days locked in a haze",
+      "valence": 2.63,
+      "arousal": 3.59,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "High all the time to keep you off my mind Ooh-ooh, ooh-ooh Spend my days locked in a haze Trying to forget you babe, I fall back down",
+      "valence": 2.65,
+      "arousal": 3.62,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Ooh-ooh, ooh-ooh Spend my days locked in a haze Trying to forget you babe, I fall back down Gotta stay high all my life to forget I'm missing you",
+      "valence": 2.75,
+      "arousal": 3.66,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Spend my days locked in a haze Trying to forget you babe, I fall back down Gotta stay high all my life to forget I'm missing you Ooh-ooh, ooh-ooh",
+      "valence": 2.63,
+      "arousal": 3.62,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Trying to forget you babe, I fall back down Gotta stay high all my life to forget I'm missing you Ooh-ooh, ooh-ooh Pick up daddies at the playground",
+      "valence": 2.91,
+      "arousal": 3.62,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Gotta stay high all my life to forget I'm missing you Ooh-ooh, ooh-ooh Pick up daddies at the playground How I spend my daytime",
+      "valence": 3.25,
+      "arousal": 3.5,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Ooh-ooh, ooh-ooh Pick up daddies at the playground How I spend my daytime Loosen up the frown, make them feel alive",
+      "valence": 3.74,
+      "arousal": 3.51,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Pick up daddies at the playground How I spend my daytime Loosen up the frown, make them feel alive I make it fast and greasy",
+      "valence": 3.37,
+      "arousal": 3.27,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "How I spend my daytime Loosen up the frown, make them feel alive I make it fast and greasy I'm numb and way too easy",
+      "valence": 3.08,
+      "arousal": 3.26,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Loosen up the frown, make them feel alive I make it fast and greasy I'm numb and way too easy You're gone and I gotta stay high all the time",
+      "valence": 2.97,
+      "arousal": 3.52,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I make it fast and greasy I'm numb and way too easy You're gone and I gotta stay high all the time To keep you off my mind",
+      "valence": 2.57,
+      "arousal": 3.43,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I'm numb and way too easy You're gone and I gotta stay high all the time To keep you off my mind Ooh-ooh, ooh-ooh",
+      "valence": 2.35,
+      "arousal": 3.68,
+      "dominance": 2.63
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "You're gone and I gotta stay high all the time To keep you off my mind Ooh-ooh, ooh-ooh High all the time to keep you off my mind",
+      "valence": 2.63,
+      "arousal": 3.67,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "To keep you off my mind Ooh-ooh, ooh-ooh High all the time to keep you off my mind Ooh-ooh, ooh-ooh",
+      "valence": 2.7,
+      "arousal": 3.76,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Ooh-ooh, ooh-ooh High all the time to keep you off my mind Ooh-ooh, ooh-ooh Spend my days locked in a haze",
+      "valence": 2.63,
+      "arousal": 3.59,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "High all the time to keep you off my mind Ooh-ooh, ooh-ooh Spend my days locked in a haze Trying to forget you babe, I fall back down",
+      "valence": 2.65,
+      "arousal": 3.62,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Ooh-ooh, ooh-ooh Spend my days locked in a haze Trying to forget you babe, I fall back down Gotta stay high all my life to forget I'm missing you",
+      "valence": 2.75,
+      "arousal": 3.66,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Spend my days locked in a haze Trying to forget you babe, I fall back down Gotta stay high all my life to forget I'm missing you Ooh-ooh, ooh-ooh",
+      "valence": 2.63,
+      "arousal": 3.62,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Trying to forget you babe, I fall back down Gotta stay high all my life to forget I'm missing you Ooh-ooh, ooh-ooh Staying in my play pretend",
+      "valence": 2.77,
+      "arousal": 3.57,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Gotta stay high all my life to forget I'm missing you Ooh-ooh, ooh-ooh Staying in my play pretend Where the fun, ain't got no end, oh",
+      "valence": 3.22,
+      "arousal": 3.53,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Ooh-ooh, ooh-ooh Staying in my play pretend Where the fun, ain't got no end, oh Can't go home alone again",
+      "valence": 2.99,
+      "arousal": 3.46,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Staying in my play pretend Where the fun, ain't got no end, oh Can't go home alone again Need someone to numb the pain, oh",
+      "valence": 2.52,
+      "arousal": 3.35,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Where the fun, ain't got no end, oh Can't go home alone again Need someone to numb the pain, oh Staying in my play pretend",
+      "valence": 2.55,
+      "arousal": 3.42,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Can't go home alone again Need someone to numb the pain, oh Staying in my play pretend Where the fun, ain't got no end, oh-oh",
+      "valence": 2.54,
+      "arousal": 3.48,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Need someone to numb the pain, oh Staying in my play pretend Where the fun, ain't got no end, oh-oh Can't go home alone again",
+      "valence": 2.58,
+      "arousal": 3.49,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Staying in my play pretend Where the fun, ain't got no end, oh-oh Can't go home alone again Need someone to numb the pain",
+      "valence": 2.52,
+      "arousal": 3.4,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Where the fun, ain't got no end, oh-oh Can't go home alone again Need someone to numb the pain You're gone and I gotta stay high all the time",
+      "valence": 2.6,
+      "arousal": 3.49,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Can't go home alone again Need someone to numb the pain You're gone and I gotta stay high all the time To keep you off my mind",
+      "valence": 2.42,
+      "arousal": 3.53,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Need someone to numb the pain You're gone and I gotta stay high all the time To keep you off my mind Ooh-ooh, ooh-ooh",
+      "valence": 2.59,
+      "arousal": 3.61,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "You're gone and I gotta stay high all the time To keep you off my mind Ooh-ooh, ooh-ooh High all the time to keep you off my mind",
+      "valence": 2.63,
+      "arousal": 3.67,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "To keep you off my mind Ooh-ooh, ooh-ooh High all the time to keep you off my mind Ooh-ooh, ooh-ooh",
+      "valence": 2.7,
+      "arousal": 3.76,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Ooh-ooh, ooh-ooh High all the time to keep you off my mind Ooh-ooh, ooh-ooh Spend my days locked in a haze",
+      "valence": 2.63,
+      "arousal": 3.59,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "High all the time to keep you off my mind Ooh-ooh, ooh-ooh Spend my days locked in a haze Trying to forget you babe, I fall back down",
+      "valence": 2.65,
+      "arousal": 3.62,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Ooh-ooh, ooh-ooh Spend my days locked in a haze Trying to forget you babe, I fall back down Gotta stay high all my life to forget I'm missing you",
+      "valence": 2.75,
+      "arousal": 3.66,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Spend my days locked in a haze Trying to forget you babe, I fall back down Gotta stay high all my life to forget I'm missing you Ooh-ooh, ooh-ooh",
+      "valence": 2.63,
+      "arousal": 3.62,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Trying to forget you babe, I fall back down Gotta stay high all my life to forget I'm missing you Ooh-ooh, ooh-ooh Oh-oh",
+      "valence": 2.68,
+      "arousal": 3.65,
+      "dominance": 2.78
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "artist": "Lizzo",
+  "overall_vad": {
+    "valence": 2.7,
+    "arousal": 3.55,
+    "dominance": 3.43
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "It's bad bitch o'clock, yeah, it's thick-thirty I've been through a lot but I'm still flirty (okay) Is everybody back up in the buildin'? It's been a minute, tell me how you're healin'",
+      "valence": 2.83,
+      "arousal": 3.39,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I've been through a lot but I'm still flirty (okay) Is everybody back up in the buildin'? It's been a minute, tell me how you're healin' 'Cause I'm about to get into my feelings",
+      "valence": 3.08,
+      "arousal": 3.35,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Is everybody back up in the buildin'? It's been a minute, tell me how you're healin' 'Cause I'm about to get into my feelings How you feelin'? How you feel right now?",
+      "valence": 3.03,
+      "arousal": 3.21,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "It's been a minute, tell me how you're healin' 'Cause I'm about to get into my feelings How you feelin'? How you feel right now? Oh, I've been so down and under pressure",
+      "valence": 3.0,
+      "arousal": 3.29,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "'Cause I'm about to get into my feelings How you feelin'? How you feel right now? Oh, I've been so down and under pressure I'm way too fine to be this stressed, yeah",
+      "valence": 2.78,
+      "arousal": 3.31,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "How you feelin'? How you feel right now? Oh, I've been so down and under pressure I'm way too fine to be this stressed, yeah Oh, I'm not the girl I was or used to be",
+      "valence": 2.49,
+      "arousal": 3.3,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Oh, I've been so down and under pressure I'm way too fine to be this stressed, yeah Oh, I'm not the girl I was or used to be Uh, bitch, I might be better",
+      "valence": 2.11,
+      "arousal": 3.74,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I'm way too fine to be this stressed, yeah Oh, I'm not the girl I was or used to be Uh, bitch, I might be better Turn up the music, turn down the lights",
+      "valence": 2.17,
+      "arousal": 3.71,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Oh, I'm not the girl I was or used to be Uh, bitch, I might be better Turn up the music, turn down the lights I got a feelin' I'm gon' be alright",
+      "valence": 2.32,
+      "arousal": 3.55,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Uh, bitch, I might be better Turn up the music, turn down the lights I got a feelin' I'm gon' be alright Okay (okay), alright",
+      "valence": 2.42,
+      "arousal": 3.71,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Turn up the music, turn down the lights I got a feelin' I'm gon' be alright Okay (okay), alright It's about damn time (time)",
+      "valence": 3.02,
+      "arousal": 3.55,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I got a feelin' I'm gon' be alright Okay (okay), alright It's about damn time (time) Turn up the music, let's celebrate (alright)",
+      "valence": 3.19,
+      "arousal": 3.55,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Okay (okay), alright It's about damn time (time) Turn up the music, let's celebrate (alright) I got a feelin' I'm gon' be okay",
+      "valence": 3.12,
+      "arousal": 3.6,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "It's about damn time (time) Turn up the music, let's celebrate (alright) I got a feelin' I'm gon' be okay Okay (okay), alright",
+      "valence": 3.06,
+      "arousal": 3.63,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Turn up the music, let's celebrate (alright) I got a feelin' I'm gon' be okay Okay (okay), alright It's about damn time",
+      "valence": 3.1,
+      "arousal": 3.6,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I got a feelin' I'm gon' be okay Okay (okay), alright It's about damn time In a minute I'ma need a sentimental",
+      "valence": 2.95,
+      "arousal": 3.4,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Okay (okay), alright It's about damn time In a minute I'ma need a sentimental Man or woman to pump me up",
+      "valence": 2.54,
+      "arousal": 3.53,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "It's about damn time In a minute I'ma need a sentimental Man or woman to pump me up Feeling fussy, walkin' in my Balenci-ussy's",
+      "valence": 2.33,
+      "arousal": 3.6,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "In a minute I'ma need a sentimental Man or woman to pump me up Feeling fussy, walkin' in my Balenci-ussy's Tryna bring out the fabulous",
+      "valence": 2.61,
+      "arousal": 3.46,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Man or woman to pump me up Feeling fussy, walkin' in my Balenci-ussy's Tryna bring out the fabulous 'Cause I give a fuck way too much",
+      "valence": 2.16,
+      "arousal": 3.62,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Feeling fussy, walkin' in my Balenci-ussy's Tryna bring out the fabulous 'Cause I give a fuck way too much I'ma need like two shots in my cup",
+      "valence": 2.32,
+      "arousal": 3.56,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Tryna bring out the fabulous 'Cause I give a fuck way too much I'ma need like two shots in my cup Wanna get up, wanna get down",
+      "valence": 2.37,
+      "arousal": 3.85,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "'Cause I give a fuck way too much I'ma need like two shots in my cup Wanna get up, wanna get down Mm, that's how I feel right now",
+      "valence": 2.0,
+      "arousal": 3.78,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I'ma need like two shots in my cup Wanna get up, wanna get down Mm, that's how I feel right now Oh, I've been so down and under pressure",
+      "valence": 2.56,
+      "arousal": 3.39,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Wanna get up, wanna get down Mm, that's how I feel right now Oh, I've been so down and under pressure I'm way too fine to be this stressed, yeah",
+      "valence": 2.49,
+      "arousal": 3.41,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Mm, that's how I feel right now Oh, I've been so down and under pressure I'm way too fine to be this stressed, yeah Oh, I'm not the girl I was or used to be",
+      "valence": 2.41,
+      "arousal": 3.36,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Oh, I've been so down and under pressure I'm way too fine to be this stressed, yeah Oh, I'm not the girl I was or used to be Uh, bitch, I might be better",
+      "valence": 2.11,
+      "arousal": 3.74,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I'm way too fine to be this stressed, yeah Oh, I'm not the girl I was or used to be Uh, bitch, I might be better Turn up the music, turn down the lights",
+      "valence": 2.17,
+      "arousal": 3.71,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Oh, I'm not the girl I was or used to be Uh, bitch, I might be better Turn up the music, turn down the lights I got a feelin' I'm gon' be alright",
+      "valence": 2.32,
+      "arousal": 3.55,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Uh, bitch, I might be better Turn up the music, turn down the lights I got a feelin' I'm gon' be alright Okay (okay), alright",
+      "valence": 2.42,
+      "arousal": 3.71,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Turn up the music, turn down the lights I got a feelin' I'm gon' be alright Okay (okay), alright It's about damn time (time)",
+      "valence": 3.02,
+      "arousal": 3.55,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I got a feelin' I'm gon' be alright Okay (okay), alright It's about damn time (time) Turn up the music, let's celebrate (alright)",
+      "valence": 3.19,
+      "arousal": 3.55,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Okay (okay), alright It's about damn time (time) Turn up the music, let's celebrate (alright) I got a feelin' I'm gon' be okay",
+      "valence": 3.12,
+      "arousal": 3.6,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "It's about damn time (time) Turn up the music, let's celebrate (alright) I got a feelin' I'm gon' be okay Okay (okay), alright",
+      "valence": 3.06,
+      "arousal": 3.63,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Turn up the music, let's celebrate (alright) I got a feelin' I'm gon' be okay Okay (okay), alright It's about damn time",
+      "valence": 3.1,
+      "arousal": 3.6,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I got a feelin' I'm gon' be okay Okay (okay), alright It's about damn time Bitch",
+      "valence": 2.7,
+      "arousal": 3.54,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Okay (okay), alright It's about damn time Bitch 'Cause, uh, you know that time it is, uh",
+      "valence": 2.52,
+      "arousal": 3.7,
+      "dominance": 3.77
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "It's about damn time Bitch 'Cause, uh, you know that time it is, uh I'm comin' out tonight, I'm comin' out tonight (uh-huh)",
+      "valence": 2.45,
+      "arousal": 3.75,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Bitch 'Cause, uh, you know that time it is, uh I'm comin' out tonight, I'm comin' out tonight (uh-huh) I'm comin' out tonight, I'm comin' out tonight (woo)",
+      "valence": 2.84,
+      "arousal": 3.64,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "'Cause, uh, you know that time it is, uh I'm comin' out tonight, I'm comin' out tonight (uh-huh) I'm comin' out tonight, I'm comin' out tonight (woo) I'm comin' out tonight, I'm comin' out tonight",
+      "valence": 3.1,
+      "arousal": 3.32,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I'm comin' out tonight, I'm comin' out tonight (uh-huh) I'm comin' out tonight, I'm comin' out tonight (woo) I'm comin' out tonight, I'm comin' out tonight Okay (okay), alright (alright)",
+      "valence": 3.1,
+      "arousal": 3.39,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "I'm comin' out tonight, I'm comin' out tonight (woo) I'm comin' out tonight, I'm comin' out tonight Okay (okay), alright (alright) It's about damn time",
+      "valence": 2.88,
+      "arousal": 3.57,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I'm comin' out tonight, I'm comin' out tonight Okay (okay), alright (alright) It's about damn time I'm comin' out tonight, (let's go) I'm comin' out tonight (comin' out tonight)",
+      "valence": 2.94,
+      "arousal": 3.27,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Okay (okay), alright (alright) It's about damn time I'm comin' out tonight, (let's go) I'm comin' out tonight (comin' out tonight) I'm comin' out tonight, I'm comin' out tonight (woo)",
+      "valence": 2.96,
+      "arousal": 3.57,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "It's about damn time I'm comin' out tonight, (let's go) I'm comin' out tonight (comin' out tonight) I'm comin' out tonight, I'm comin' out tonight (woo) I'm comin' out tonight, I'm comin' out tonight (comin' out tonight)",
+      "valence": 2.98,
+      "arousal": 3.52,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I'm comin' out tonight, (let's go) I'm comin' out tonight (comin' out tonight) I'm comin' out tonight, I'm comin' out tonight (woo) I'm comin' out tonight, I'm comin' out tonight (comin' out tonight) Okay (okay), alright",
+      "valence": 3.08,
+      "arousal": 3.25,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I'm comin' out tonight, I'm comin' out tonight (woo) I'm comin' out tonight, I'm comin' out tonight (comin' out tonight) Okay (okay), alright It's about damn time",
+      "valence": 2.83,
+      "arousal": 3.6,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I'm comin' out tonight, I'm comin' out tonight (comin' out tonight) Okay (okay), alright It's about damn time Oh",
+      "valence": 2.85,
+      "arousal": 3.41,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Okay (okay), alright It's about damn time Oh Bitch",
+      "valence": 2.41,
+      "arousal": 3.62,
+      "dominance": 3.83
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "It's about damn time Oh Bitch Yeah, yeah",
+      "valence": 2.56,
+      "arousal": 3.81,
+      "dominance": 3.85
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Oh Bitch Yeah, yeah It's about damn time",
+      "valence": 2.56,
+      "arousal": 3.87,
+      "dominance": 3.86
+    }
+  ]
+}

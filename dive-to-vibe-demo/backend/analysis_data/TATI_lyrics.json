@@ -1,0 +1,374 @@
+{
+  "artist": "6ix9ine Featuring DJ SPINKING",
+  "overall_vad": {
+    "valence": 2.48,
+    "arousal": 3.68,
+    "dominance": 3.47
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Hold up, let me get it started B.B. with the Robin's, looking all retarded B.B. sagging, fly like a dragon Bitches suck my dick, 'cause I'm fly like Aladdin",
+      "valence": 2.42,
+      "arousal": 3.68,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "B.B. with the Robin's, looking all retarded B.B. sagging, fly like a dragon Bitches suck my dick, 'cause I'm fly like Aladdin Scum Gang!",
+      "valence": 2.32,
+      "arousal": 3.95,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "B.B. sagging, fly like a dragon Bitches suck my dick, 'cause I'm fly like Aladdin Scum Gang! These bitches think I'm stupid, I ain't stupid",
+      "valence": 2.12,
+      "arousal": 3.94,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Bitches suck my dick, 'cause I'm fly like Aladdin Scum Gang! These bitches think I'm stupid, I ain't stupid Dummy boys fall in love with it, he stupid",
+      "valence": 2.07,
+      "arousal": 3.99,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Scum Gang! These bitches think I'm stupid, I ain't stupid Dummy boys fall in love with it, he stupid All these hoes on my body, cut the bullshit",
+      "valence": 2.18,
+      "arousal": 3.86,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "These bitches think I'm stupid, I ain't stupid Dummy boys fall in love with it, he stupid All these hoes on my body, cut the bullshit All these hoes, they ain't loyal, y'all looking stupid",
+      "valence": 2.17,
+      "arousal": 3.55,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Dummy boys fall in love with it, he stupid All these hoes on my body, cut the bullshit All these hoes, they ain't loyal, y'all looking stupid I just left Starlets and I ain't even cash out",
+      "valence": 2.34,
+      "arousal": 3.65,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "All these hoes on my body, cut the bullshit All these hoes, they ain't loyal, y'all looking stupid I just left Starlets and I ain't even cash out Back out, straight to the trap house, I blow her back out",
+      "valence": 2.1,
+      "arousal": 3.68,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "All these hoes, they ain't loyal, y'all looking stupid I just left Starlets and I ain't even cash out Back out, straight to the trap house, I blow her back out I'll pull her tracks out, got her running like it's track now",
+      "valence": 2.24,
+      "arousal": 3.51,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I just left Starlets and I ain't even cash out Back out, straight to the trap house, I blow her back out I'll pull her tracks out, got her running like it's track now Like a Smackdown, rock bottom I'ma pin her down",
+      "valence": 2.51,
+      "arousal": 3.59,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Back out, straight to the trap house, I blow her back out I'll pull her tracks out, got her running like it's track now Like a Smackdown, rock bottom I'ma pin her down Hold up, let me get it started",
+      "valence": 2.6,
+      "arousal": 3.72,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I'll pull her tracks out, got her running like it's track now Like a Smackdown, rock bottom I'ma pin her down Hold up, let me get it started B.B. with the Robin's, looking all retarded",
+      "valence": 2.56,
+      "arousal": 3.57,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Like a Smackdown, rock bottom I'ma pin her down Hold up, let me get it started B.B. with the Robin's, looking all retarded B.B. sagging, fly like a dragon",
+      "valence": 2.5,
+      "arousal": 3.6,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Hold up, let me get it started B.B. with the Robin's, looking all retarded B.B. sagging, fly like a dragon Bitches suck my dick 'cause I'm fly like Aladdin",
+      "valence": 2.42,
+      "arousal": 3.69,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "B.B. with the Robin's, looking all retarded B.B. sagging, fly like a dragon Bitches suck my dick 'cause I'm fly like Aladdin Pour a semi, pull up to the cribby, uh",
+      "valence": 2.37,
+      "arousal": 3.64,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "B.B. sagging, fly like a dragon Bitches suck my dick 'cause I'm fly like Aladdin Pour a semi, pull up to the cribby, uh Licky-licky, licky on my blicky, uh",
+      "valence": 2.57,
+      "arousal": 3.72,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Bitches suck my dick 'cause I'm fly like Aladdin Pour a semi, pull up to the cribby, uh Licky-licky, licky on my blicky, uh Take a flicky, make a movie with me, uh",
+      "valence": 2.42,
+      "arousal": 3.77,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Pour a semi, pull up to the cribby, uh Licky-licky, licky on my blicky, uh Take a flicky, make a movie with me, uh Take a flicky, make 'em real drippy, uh",
+      "valence": 3.17,
+      "arousal": 3.39,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Licky-licky, licky on my blicky, uh Take a flicky, make a movie with me, uh Take a flicky, make 'em real drippy, uh Why you watching me?",
+      "valence": 3.03,
+      "arousal": 3.44,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Take a flicky, make a movie with me, uh Take a flicky, make 'em real drippy, uh Why you watching me? You all on my IG",
+      "valence": 3.1,
+      "arousal": 3.43,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Take a flicky, make 'em real drippy, uh Why you watching me? You all on my IG Why you stalking me?",
+      "valence": 2.72,
+      "arousal": 3.55,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Why you watching me? You all on my IG Why you stalking me? You don't even follow me",
+      "valence": 2.59,
+      "arousal": 3.74,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "You all on my IG Why you stalking me? You don't even follow me Why you tweet my shit?",
+      "valence": 2.36,
+      "arousal": 3.87,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Why you stalking me? You don't even follow me Why you tweet my shit? You ain't used to read my shit",
+      "valence": 2.26,
+      "arousal": 3.83,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "You don't even follow me Why you tweet my shit? You ain't used to read my shit Bitch, you used to fuckin' leave me on seen and shit",
+      "valence": 2.06,
+      "arousal": 3.9,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Why you tweet my shit? You ain't used to read my shit Bitch, you used to fuckin' leave me on seen and shit Went to the Eastside, spanked out Juju",
+      "valence": 2.15,
+      "arousal": 3.87,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "You ain't used to read my shit Bitch, you used to fuckin' leave me on seen and shit Went to the Eastside, spanked out Juju Lucky I ain't have it on me, I was gon' shoot you",
+      "valence": 2.08,
+      "arousal": 3.84,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Bitch, you used to fuckin' leave me on seen and shit Went to the Eastside, spanked out Juju Lucky I ain't have it on me, I was gon' shoot you Spanked him on camera, threw it on YouTube",
+      "valence": 2.18,
+      "arousal": 3.84,
+      "dominance": 3.75
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Went to the Eastside, spanked out Juju Lucky I ain't have it on me, I was gon' shoot you Spanked him on camera, threw it on YouTube Stupid lil' dumb nigga, now you on YouTube",
+      "valence": 2.21,
+      "arousal": 3.74,
+      "dominance": 3.74
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Lucky I ain't have it on me, I was gon' shoot you Spanked him on camera, threw it on YouTube Stupid lil' dumb nigga, now you on YouTube If a nigga want beef, I'm the type to drag it",
+      "valence": 2.22,
+      "arousal": 3.67,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Spanked him on camera, threw it on YouTube Stupid lil' dumb nigga, now you on YouTube If a nigga want beef, I'm the type to drag it Shoot you while you with your bitch then it's back to macking",
+      "valence": 2.04,
+      "arousal": 3.77,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Stupid lil' dumb nigga, now you on YouTube If a nigga want beef, I'm the type to drag it Shoot you while you with your bitch then it's back to macking Police pull up on me, I don't know what happened",
+      "valence": 1.97,
+      "arousal": 3.71,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "If a nigga want beef, I'm the type to drag it Shoot you while you with your bitch then it's back to macking Police pull up on me, I don't know what happened Police pull up on you, you gon' get to yapping",
+      "valence": 2.13,
+      "arousal": 3.78,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Shoot you while you with your bitch then it's back to macking Police pull up on me, I don't know what happened Police pull up on you, you gon' get to yapping We gon' get to clapping, we been on static",
+      "valence": 2.33,
+      "arousal": 3.83,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Police pull up on me, I don't know what happened Police pull up on you, you gon' get to yapping We gon' get to clapping, we been on static Semi-automatics, they gon' get to clapping",
+      "valence": 2.79,
+      "arousal": 3.63,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Police pull up on you, you gon' get to yapping We gon' get to clapping, we been on static Semi-automatics, they gon' get to clapping We ain't with the chatting, you lil' niggas capping",
+      "valence": 2.72,
+      "arousal": 3.5,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "We gon' get to clapping, we been on static Semi-automatics, they gon' get to clapping We ain't with the chatting, you lil' niggas capping If we catch you lackin', turn you into has-beens",
+      "valence": 2.73,
+      "arousal": 3.38,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Semi-automatics, they gon' get to clapping We ain't with the chatting, you lil' niggas capping If we catch you lackin', turn you into has-beens Ran through Lust, 100 bands up",
+      "valence": 2.62,
+      "arousal": 3.4,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "We ain't with the chatting, you lil' niggas capping If we catch you lackin', turn you into has-beens Ran through Lust, 100 bands up Shout out SpinKing, that's my motherfuckin' blood, nigga",
+      "valence": 2.3,
+      "arousal": 3.7,
+      "dominance": 3.75
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "If we catch you lackin', turn you into has-beens Ran through Lust, 100 bands up Shout out SpinKing, that's my motherfuckin' blood, nigga Go, go, go mulignane",
+      "valence": 2.42,
+      "arousal": 3.73,
+      "dominance": 3.75
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Ran through Lust, 100 bands up Shout out SpinKing, that's my motherfuckin' blood, nigga Go, go, go mulignane Go, go, mulignane",
+      "valence": 2.92,
+      "arousal": 3.84,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Shout out SpinKing, that's my motherfuckin' blood, nigga Go, go, go mulignane Go, go, mulignane Pour a semi, pull up to the cribby, uh",
+      "valence": 2.47,
+      "arousal": 3.94,
+      "dominance": 3.87
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Go, go, go mulignane Go, go, mulignane Pour a semi, pull up to the cribby, uh Licky-licky, licky on my blicky, uh",
+      "valence": 3.05,
+      "arousal": 3.23,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Go, go, mulignane Pour a semi, pull up to the cribby, uh Licky-licky, licky on my blicky, uh Take a flicky, make a movie with me, uh",
+      "valence": 3.23,
+      "arousal": 3.47,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Pour a semi, pull up to the cribby, uh Licky-licky, licky on my blicky, uh Take a flicky, make a movie with me, uh Take a flicky, make 'em real drippy, uh",
+      "valence": 3.17,
+      "arousal": 3.39,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Licky-licky, licky on my blicky, uh Take a flicky, make a movie with me, uh Take a flicky, make 'em real drippy, uh Why you watching me?",
+      "valence": 3.03,
+      "arousal": 3.44,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Take a flicky, make a movie with me, uh Take a flicky, make 'em real drippy, uh Why you watching me? You all on my IG",
+      "valence": 3.1,
+      "arousal": 3.43,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Take a flicky, make 'em real drippy, uh Why you watching me? You all on my IG Why you stalking me?",
+      "valence": 2.72,
+      "arousal": 3.55,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Why you watching me? You all on my IG Why you stalking me? You don't even follow me",
+      "valence": 2.59,
+      "arousal": 3.74,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "You all on my IG Why you stalking me? You don't even follow me Why you tweet my shit?",
+      "valence": 2.36,
+      "arousal": 3.87,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Why you stalking me? You don't even follow me Why you tweet my shit? You ain't used to read my shit",
+      "valence": 2.26,
+      "arousal": 3.83,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "You don't even follow me Why you tweet my shit? You ain't used to read my shit Bitch, you used to fuckin' leave me on seen and shit",
+      "valence": 2.06,
+      "arousal": 3.9,
+      "dominance": 3.45
+    }
+  ]
+}

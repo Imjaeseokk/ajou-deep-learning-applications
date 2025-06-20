@@ -1,0 +1,339 @@
+{
+  "artist": "Billie Eilish",
+  "overall_vad": {
+    "valence": 2.84,
+    "arousal": 3.36,
+    "dominance": 3.12
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I had a dream I got everything I wanted Not what you'd think And if I'm being honest",
+      "valence": 3.27,
+      "arousal": 3.44,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I got everything I wanted Not what you'd think And if I'm being honest It might've been a nightmare",
+      "valence": 2.6,
+      "arousal": 3.4,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Not what you'd think And if I'm being honest It might've been a nightmare To anyone who might care",
+      "valence": 2.35,
+      "arousal": 3.25,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "And if I'm being honest It might've been a nightmare To anyone who might care Thought I could fly (fly)",
+      "valence": 2.58,
+      "arousal": 3.23,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "It might've been a nightmare To anyone who might care Thought I could fly (fly) So I stepped off the Golden, hmm",
+      "valence": 2.82,
+      "arousal": 3.19,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "To anyone who might care Thought I could fly (fly) So I stepped off the Golden, hmm Nobody cried",
+      "valence": 3.12,
+      "arousal": 3.26,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Thought I could fly (fly) So I stepped off the Golden, hmm Nobody cried Nobody even noticed",
+      "valence": 3.13,
+      "arousal": 3.18,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "So I stepped off the Golden, hmm Nobody cried Nobody even noticed I saw them standing right there",
+      "valence": 2.89,
+      "arousal": 3.15,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Nobody cried Nobody even noticed I saw them standing right there Kinda thought they might care",
+      "valence": 2.91,
+      "arousal": 3.05,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Nobody even noticed I saw them standing right there Kinda thought they might care I had a dream",
+      "valence": 2.88,
+      "arousal": 3.05,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I saw them standing right there Kinda thought they might care I had a dream Got everything I wanted",
+      "valence": 3.24,
+      "arousal": 3.39,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Kinda thought they might care I had a dream Got everything I wanted But when I wake up, I see",
+      "valence": 2.92,
+      "arousal": 3.34,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I had a dream Got everything I wanted But when I wake up, I see You with me",
+      "valence": 3.4,
+      "arousal": 3.59,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Got everything I wanted But when I wake up, I see You with me And you say",
+      "valence": 3.31,
+      "arousal": 3.43,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "But when I wake up, I see You with me And you say \"As long as I'm here, no one can hurt you\"",
+      "valence": 3.19,
+      "arousal": 3.35,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "You with me And you say \"As long as I'm here, no one can hurt you\" Don't wanna lie here, but you can learn to",
+      "valence": 3.07,
+      "arousal": 3.22,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "And you say \"As long as I'm here, no one can hurt you\" Don't wanna lie here, but you can learn to If I could change the way that you see yourself",
+      "valence": 3.01,
+      "arousal": 3.32,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "\"As long as I'm here, no one can hurt you\" Don't wanna lie here, but you can learn to If I could change the way that you see yourself You wouldn't wonder why you're here",
+      "valence": 3.03,
+      "arousal": 3.33,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Don't wanna lie here, but you can learn to If I could change the way that you see yourself You wouldn't wonder why you're here They don't deserve you",
+      "valence": 2.85,
+      "arousal": 3.32,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "If I could change the way that you see yourself You wouldn't wonder why you're here They don't deserve you I tried to scream",
+      "valence": 2.49,
+      "arousal": 3.76,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "You wouldn't wonder why you're here They don't deserve you I tried to scream But my head was underwater",
+      "valence": 2.18,
+      "arousal": 3.64,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "They don't deserve you I tried to scream But my head was underwater They called me weak",
+      "valence": 1.94,
+      "arousal": 3.88,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I tried to scream But my head was underwater They called me weak Like I'm not just somebody's daughter",
+      "valence": 2.15,
+      "arousal": 3.74,
+      "dominance": 2.54
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "But my head was underwater They called me weak Like I'm not just somebody's daughter Could've been a nightmare",
+      "valence": 2.31,
+      "arousal": 3.45,
+      "dominance": 2.52
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "They called me weak Like I'm not just somebody's daughter Could've been a nightmare But it felt like they were right there",
+      "valence": 2.43,
+      "arousal": 3.51,
+      "dominance": 2.71
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Like I'm not just somebody's daughter Could've been a nightmare But it felt like they were right there And it feels like yesterday was a year ago",
+      "valence": 2.61,
+      "arousal": 3.44,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Could've been a nightmare But it felt like they were right there And it feels like yesterday was a year ago But I don't wanna let anybody know",
+      "valence": 2.46,
+      "arousal": 3.26,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "But it felt like they were right there And it feels like yesterday was a year ago But I don't wanna let anybody know 'Cause everybody wants something from me now",
+      "valence": 2.77,
+      "arousal": 3.28,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "And it feels like yesterday was a year ago But I don't wanna let anybody know 'Cause everybody wants something from me now And I don't wanna let 'em down",
+      "valence": 2.8,
+      "arousal": 3.25,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "But I don't wanna let anybody know 'Cause everybody wants something from me now And I don't wanna let 'em down I had a dream",
+      "valence": 2.69,
+      "arousal": 3.35,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "'Cause everybody wants something from me now And I don't wanna let 'em down I had a dream I got everything I wanted",
+      "valence": 3.07,
+      "arousal": 3.57,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "And I don't wanna let 'em down I had a dream I got everything I wanted But when I wake up, I see",
+      "valence": 2.81,
+      "arousal": 3.5,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I had a dream I got everything I wanted But when I wake up, I see You with me",
+      "valence": 3.43,
+      "arousal": 3.63,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I got everything I wanted But when I wake up, I see You with me And you say",
+      "valence": 3.39,
+      "arousal": 3.47,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "But when I wake up, I see You with me And you say \"As long as I'm here, no one can hurt you\"",
+      "valence": 3.19,
+      "arousal": 3.35,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "You with me And you say \"As long as I'm here, no one can hurt you\" Don't wanna lie here, but you can learn to",
+      "valence": 3.07,
+      "arousal": 3.22,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "And you say \"As long as I'm here, no one can hurt you\" Don't wanna lie here, but you can learn to If I could change the way that you see yourself",
+      "valence": 3.01,
+      "arousal": 3.32,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "\"As long as I'm here, no one can hurt you\" Don't wanna lie here, but you can learn to If I could change the way that you see yourself You wouldn't wonder why you're here",
+      "valence": 3.03,
+      "arousal": 3.33,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Don't wanna lie here, but you can learn to If I could change the way that you see yourself You wouldn't wonder why you're here They don't deserve you",
+      "valence": 2.85,
+      "arousal": 3.32,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "If I could change the way that you see yourself You wouldn't wonder why you're here They don't deserve you If I knew it all then, would I do it again?",
+      "valence": 2.86,
+      "arousal": 3.3,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "You wouldn't wonder why you're here They don't deserve you If I knew it all then, would I do it again? Would I do it again?",
+      "valence": 2.62,
+      "arousal": 3.28,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "They don't deserve you If I knew it all then, would I do it again? Would I do it again? If they knew what they said would go straight to my head",
+      "valence": 2.46,
+      "arousal": 3.37,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "If I knew it all then, would I do it again? Would I do it again? If they knew what they said would go straight to my head What would they say instead?",
+      "valence": 2.9,
+      "arousal": 3.22,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Would I do it again? If they knew what they said would go straight to my head What would they say instead? If I knew it all then, would I do it again?",
+      "valence": 2.91,
+      "arousal": 3.25,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "If they knew what they said would go straight to my head What would they say instead? If I knew it all then, would I do it again? Would I do it again?",
+      "valence": 2.88,
+      "arousal": 3.26,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "What would they say instead? If I knew it all then, would I do it again? Would I do it again? If they knew what they said would go straight to my head",
+      "valence": 2.85,
+      "arousal": 3.23,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "If I knew it all then, would I do it again? Would I do it again? If they knew what they said would go straight to my head What would they say instead?",
+      "valence": 2.9,
+      "arousal": 3.22,
+      "dominance": 3.04
+    }
+  ]
+}

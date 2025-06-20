@@ -1,0 +1,437 @@
+{
+  "artist": "Bad Bunny & Jhay Cortez",
+  "overall_vad": {
+    "valence": 3.1,
+    "arousal": 3.17,
+    "dominance": 3.11
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Verte en el VIP de lejito e' un privilegio (-legio) Baby, tÃº ere' un mito, ese culito e' un misterio (-terio) TÃº loquita porque te cojan y yo que me coja en serio Y a Dios le vo'a pedir que te lo explique (-plique)",
+      "valence": 3.08,
+      "arousal": 3.2,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Baby, tÃº ere' un mito, ese culito e' un misterio (-terio) TÃº loquita porque te cojan y yo que me coja en serio Y a Dios le vo'a pedir que te lo explique (-plique) Que tÃº estÃ¡s muy dura, tÃº tiene el pique (pique)",
+      "valence": 3.09,
+      "arousal": 3.2,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "TÃº loquita porque te cojan y yo que me coja en serio Y a Dios le vo'a pedir que te lo explique (-plique) Que tÃº estÃ¡s muy dura, tÃº tiene el pique (pique) No te sorprenden to estos bobo con ticket (ticket)",
+      "valence": 2.99,
+      "arousal": 3.16,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Y a Dios le vo'a pedir que te lo explique (-plique) Que tÃº estÃ¡s muy dura, tÃº tiene el pique (pique) No te sorprenden to estos bobo con ticket (ticket) TÃº lo quÐµ quiere' es quÐµ te chi-",
+      "valence": 3.04,
+      "arousal": 3.08,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Que tÃº estÃ¡s muy dura, tÃº tiene el pique (pique) No te sorprenden to estos bobo con ticket (ticket) TÃº lo quÐµ quiere' es quÐµ te chi- OjalÃ¡ y tenga suerte",
+      "valence": 3.02,
+      "arousal": 3.09,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "No te sorprenden to estos bobo con ticket (ticket) TÃº lo quÐµ quiere' es quÐµ te chi- OjalÃ¡ y tenga suerte Porque no cualquiera puede llegarte",
+      "valence": 2.97,
+      "arousal": 3.02,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "TÃº lo quÐµ quiere' es quÐµ te chi- OjalÃ¡ y tenga suerte Porque no cualquiera puede llegarte Pero yo voy a mÃ­, pa' que hoy tÃº me la suelte",
+      "valence": 3.02,
+      "arousal": 3.08,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "OjalÃ¡ y tenga suerte Porque no cualquiera puede llegarte Pero yo voy a mÃ­, pa' que hoy tÃº me la suelte Tienes la disco de museo, ma', tÃº ere' arte'",
+      "valence": 3.18,
+      "arousal": 3.13,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Porque no cualquiera puede llegarte Pero yo voy a mÃ­, pa' que hoy tÃº me la suelte Tienes la disco de museo, ma', tÃº ere' arte' Y yo paguÃ©, pa' verte",
+      "valence": 3.19,
+      "arousal": 3.18,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Pero yo voy a mÃ­, pa' que hoy tÃº me la suelte Tienes la disco de museo, ma', tÃº ere' arte' Y yo paguÃ©, pa' verte Y va a gustarte",
+      "valence": 3.27,
+      "arousal": 3.31,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Tienes la disco de museo, ma', tÃº ere' arte' Y yo paguÃ©, pa' verte Y va a gustarte To' lo que quiero hacerte, eh",
+      "valence": 3.24,
+      "arousal": 3.26,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Y yo paguÃ©, pa' verte Y va a gustarte To' lo que quiero hacerte, eh Hoy tengo que hablarte",
+      "valence": 3.18,
+      "arousal": 3.26,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Y va a gustarte To' lo que quiero hacerte, eh Hoy tengo que hablarte Tienes la disco de museo, ma', tÃº ere' arte'",
+      "valence": 3.24,
+      "arousal": 3.28,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "To' lo que quiero hacerte, eh Hoy tengo que hablarte Tienes la disco de museo, ma', tÃº ere' arte' OjalÃ¡ y tenga suerte",
+      "valence": 3.18,
+      "arousal": 3.18,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Hoy tengo que hablarte Tienes la disco de museo, ma', tÃº ere' arte' OjalÃ¡ y tenga suerte Eh-eh, ey",
+      "valence": 3.2,
+      "arousal": 3.32,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Tienes la disco de museo, ma', tÃº ere' arte' OjalÃ¡ y tenga suerte Eh-eh, ey Si subiste una story es pa' que te lo comenten (-menten)",
+      "valence": 3.12,
+      "arousal": 3.17,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "OjalÃ¡ y tenga suerte Eh-eh, ey Si subiste una story es pa' que te lo comenten (-menten) Si te mandÃ© un fueguito es que me tiene caliente (caliente)",
+      "valence": 3.05,
+      "arousal": 3.17,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Eh-eh, ey Si subiste una story es pa' que te lo comenten (-menten) Si te mandÃ© un fueguito es que me tiene caliente (caliente) TÃº estÃ¡s dura de espalda y mÃ¡s rica de frente (frente), eh-eh",
+      "valence": 3.05,
+      "arousal": 3.12,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Si subiste una story es pa' que te lo comenten (-menten) Si te mandÃ© un fueguito es que me tiene caliente (caliente) TÃº estÃ¡s dura de espalda y mÃ¡s rica de frente (frente), eh-eh Mami, yo le llego al oeste, je",
+      "valence": 3.0,
+      "arousal": 3.16,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Si te mandÃ© un fueguito es que me tiene caliente (caliente) TÃº estÃ¡s dura de espalda y mÃ¡s rica de frente (frente), eh-eh Mami, yo le llego al oeste, je Si es pa' darte este, ey",
+      "valence": 3.0,
+      "arousal": 3.1,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "TÃº estÃ¡s dura de espalda y mÃ¡s rica de frente (frente), eh-eh Mami, yo le llego al oeste, je Si es pa' darte este, ey Baby, yo quiero darte las buena noche, pa' que te acueste",
+      "valence": 3.12,
+      "arousal": 3.19,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Mami, yo le llego al oeste, je Si es pa' darte este, ey Baby, yo quiero darte las buena noche, pa' que te acueste Y si se da al fin, nos vamo' de aquÃ­",
+      "valence": 3.12,
+      "arousal": 3.22,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Si es pa' darte este, ey Baby, yo quiero darte las buena noche, pa' que te acueste Y si se da al fin, nos vamo' de aquÃ­ OjalÃ¡ diga que sÃ­, vamo' a darle",
+      "valence": 3.12,
+      "arousal": 3.25,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Baby, yo quiero darte las buena noche, pa' que te acueste Y si se da al fin, nos vamo' de aquÃ­ OjalÃ¡ diga que sÃ­, vamo' a darle Que anda bonita y suelta, bonita y suelta",
+      "valence": 3.22,
+      "arousal": 3.33,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Y si se da al fin, nos vamo' de aquÃ­ OjalÃ¡ diga que sÃ­, vamo' a darle Que anda bonita y suelta, bonita y suelta Se dejÃ³ del gato y tiene cinco de repuesta",
+      "valence": 3.18,
+      "arousal": 3.2,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "OjalÃ¡ diga que sÃ­, vamo' a darle Que anda bonita y suelta, bonita y suelta Se dejÃ³ del gato y tiene cinco de repuesta Yo quiero saber con quÃ© pantycito te acuesta'",
+      "valence": 3.16,
+      "arousal": 3.24,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Que anda bonita y suelta, bonita y suelta Se dejÃ³ del gato y tiene cinco de repuesta Yo quiero saber con quÃ© pantycito te acuesta' Baby, dime si tÃº 'tÃ¡s puesta",
+      "valence": 3.27,
+      "arousal": 3.31,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Se dejÃ³ del gato y tiene cinco de repuesta Yo quiero saber con quÃ© pantycito te acuesta' Baby, dime si tÃº 'tÃ¡s puesta OjalÃ¡ y tenga suerte",
+      "valence": 3.09,
+      "arousal": 3.14,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Yo quiero saber con quÃ© pantycito te acuesta' Baby, dime si tÃº 'tÃ¡s puesta OjalÃ¡ y tenga suerte Porque no cualquiera puede llegarte",
+      "valence": 3.05,
+      "arousal": 3.12,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Baby, dime si tÃº 'tÃ¡s puesta OjalÃ¡ y tenga suerte Porque no cualquiera puede llegarte Pero yo voy a mÃ­, pa' que hoy tÃº me la suelte'",
+      "valence": 3.09,
+      "arousal": 3.05,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "OjalÃ¡ y tenga suerte Porque no cualquiera puede llegarte Pero yo voy a mÃ­, pa' que hoy tÃº me la suelte' Tienes la disco de museo, ma', tÃº ere' arte'",
+      "valence": 3.21,
+      "arousal": 3.15,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Porque no cualquiera puede llegarte Pero yo voy a mÃ­, pa' que hoy tÃº me la suelte' Tienes la disco de museo, ma', tÃº ere' arte' Yo paguÃ© pa' verte",
+      "valence": 3.24,
+      "arousal": 3.19,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Pero yo voy a mÃ­, pa' que hoy tÃº me la suelte' Tienes la disco de museo, ma', tÃº ere' arte' Yo paguÃ© pa' verte Y va a gustarte",
+      "valence": 3.32,
+      "arousal": 3.34,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Tienes la disco de museo, ma', tÃº ere' arte' Yo paguÃ© pa' verte Y va a gustarte To' lo que quiero hacerte, eh",
+      "valence": 3.24,
+      "arousal": 3.26,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Yo paguÃ© pa' verte Y va a gustarte To' lo que quiero hacerte, eh Hoy tengo que hablarte",
+      "valence": 3.19,
+      "arousal": 3.24,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Y va a gustarte To' lo que quiero hacerte, eh Hoy tengo que hablarte Tienes la disco de museo, ma', tÃº ere' arte'",
+      "valence": 3.24,
+      "arousal": 3.28,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "To' lo que quiero hacerte, eh Hoy tengo que hablarte Tienes la disco de museo, ma', tÃº ere' arte' OjalÃ¡ y tenga suerte",
+      "valence": 3.18,
+      "arousal": 3.18,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Hoy tengo que hablarte Tienes la disco de museo, ma', tÃº ere' arte' OjalÃ¡ y tenga suerte Pa' ganarte",
+      "valence": 3.19,
+      "arousal": 3.22,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Tienes la disco de museo, ma', tÃº ere' arte' OjalÃ¡ y tenga suerte Pa' ganarte Y por mÃ¡s que me ignora, estÃ¡ imposible ignorarte",
+      "valence": 2.98,
+      "arousal": 3.19,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "OjalÃ¡ y tenga suerte Pa' ganarte Y por mÃ¡s que me ignora, estÃ¡ imposible ignorarte El sol al la'o tuyo, no es tan brillante",
+      "valence": 2.81,
+      "arousal": 3.13,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Pa' ganarte Y por mÃ¡s que me ignora, estÃ¡ imposible ignorarte El sol al la'o tuyo, no es tan brillante Yo soy Da Vinci y tÃº mi obra de arte",
+      "valence": 2.95,
+      "arousal": 3.12,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Y por mÃ¡s que me ignora, estÃ¡ imposible ignorarte El sol al la'o tuyo, no es tan brillante Yo soy Da Vinci y tÃº mi obra de arte TÃº ere' arte'",
+      "valence": 2.97,
+      "arousal": 3.19,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "El sol al la'o tuyo, no es tan brillante Yo soy Da Vinci y tÃº mi obra de arte TÃº ere' arte' Porque tu flow, Dios lo bendiga",
+      "valence": 2.95,
+      "arousal": 3.11,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Yo soy Da Vinci y tÃº mi obra de arte TÃº ere' arte' Porque tu flow, Dios lo bendiga Llega y to'a las babie' te ligan",
+      "valence": 3.18,
+      "arousal": 3.25,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "TÃº ere' arte' Porque tu flow, Dios lo bendiga Llega y to'a las babie' te ligan Abdominale y sin hacerte la barriga",
+      "valence": 2.91,
+      "arousal": 3.03,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Porque tu flow, Dios lo bendiga Llega y to'a las babie' te ligan Abdominale y sin hacerte la barriga Tu ex todavÃ­a te hostiga",
+      "valence": 2.87,
+      "arousal": 3.1,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Llega y to'a las babie' te ligan Abdominale y sin hacerte la barriga Tu ex todavÃ­a te hostiga Porque tÃº 'tÃ¡ cotizÃ¡'",
+      "valence": 2.84,
+      "arousal": 3.11,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Abdominale y sin hacerte la barriga Tu ex todavÃ­a te hostiga Porque tÃº 'tÃ¡ cotizÃ¡' To'a las marca actualizÃ¡'",
+      "valence": 2.82,
+      "arousal": 3.02,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Tu ex todavÃ­a te hostiga Porque tÃº 'tÃ¡ cotizÃ¡' To'a las marca actualizÃ¡' Baby, si fuera cristiano, hoy te fueras bautizÃ¡'",
+      "valence": 3.15,
+      "arousal": 3.24,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Porque tÃº 'tÃ¡ cotizÃ¡' To'a las marca actualizÃ¡' Baby, si fuera cristiano, hoy te fueras bautizÃ¡' QuÃ­tate to', que ya te la quiero ver",
+      "valence": 3.04,
+      "arousal": 3.16,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "To'a las marca actualizÃ¡' Baby, si fuera cristiano, hoy te fueras bautizÃ¡' QuÃ­tate to', que ya te la quiero ver Que tÃº 'tÃ¡s trending sin tenerte que joder",
+      "valence": 3.03,
+      "arousal": 3.11,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Baby, si fuera cristiano, hoy te fueras bautizÃ¡' QuÃ­tate to', que ya te la quiero ver Que tÃº 'tÃ¡s trending sin tenerte que joder Vente conmigo, nos podemo' beber",
+      "valence": 3.05,
+      "arousal": 3.11,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "QuÃ­tate to', que ya te la quiero ver Que tÃº 'tÃ¡s trending sin tenerte que joder Vente conmigo, nos podemo' beber A ti te va a correr",
+      "valence": 2.99,
+      "arousal": 3.12,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Que tÃº 'tÃ¡s trending sin tenerte que joder Vente conmigo, nos podemo' beber A ti te va a correr OjalÃ¡ y tenga suerte",
+      "valence": 3.05,
+      "arousal": 3.12,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Vente conmigo, nos podemo' beber A ti te va a correr OjalÃ¡ y tenga suerte Porque no cualquiera puede llegarte",
+      "valence": 3.0,
+      "arousal": 3.08,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "A ti te va a correr OjalÃ¡ y tenga suerte Porque no cualquiera puede llegarte Pero yo voy a mÃ­ pa que hoy tÃº me la suelte",
+      "valence": 3.04,
+      "arousal": 3.01,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "OjalÃ¡ y tenga suerte Porque no cualquiera puede llegarte Pero yo voy a mÃ­ pa que hoy tÃº me la suelte Tienes la disco de museo, ma', tÃº ere' arte'",
+      "valence": 3.15,
+      "arousal": 3.11,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Porque no cualquiera puede llegarte Pero yo voy a mÃ­ pa que hoy tÃº me la suelte Tienes la disco de museo, ma', tÃº ere' arte' Y yo paguÃ© pa' verte",
+      "valence": 3.19,
+      "arousal": 3.17,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Pero yo voy a mÃ­ pa que hoy tÃº me la suelte Tienes la disco de museo, ma', tÃº ere' arte' Y yo paguÃ© pa' verte Y va a gustarte",
+      "valence": 3.27,
+      "arousal": 3.31,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Tienes la disco de museo, ma', tÃº ere' arte' Y yo paguÃ© pa' verte Y va a gustarte To' lo que quiero hacerte, eh",
+      "valence": 3.24,
+      "arousal": 3.25,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Y yo paguÃ© pa' verte Y va a gustarte To' lo que quiero hacerte, eh Translate to English",
+      "valence": 3.16,
+      "arousal": 3.21,
+      "dominance": 3.17
+    }
+  ]
+}

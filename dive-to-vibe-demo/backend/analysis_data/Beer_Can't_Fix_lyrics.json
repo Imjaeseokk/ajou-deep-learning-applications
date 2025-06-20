@@ -1,0 +1,318 @@
+{
+  "artist": "Thomas Rhett Featuring Jon Pardi",
+  "overall_vad": {
+    "valence": 2.9,
+    "arousal": 3.23,
+    "dominance": 3.13
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "You're all alone at a party You want to dance with somebody But you ain't got a clue how to ask You and your girl had a fight",
+      "valence": 2.64,
+      "arousal": 3.48,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "You want to dance with somebody But you ain't got a clue how to ask You and your girl had a fight And now she's saying goodbye",
+      "valence": 2.59,
+      "arousal": 3.57,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "But you ain't got a clue how to ask You and your girl had a fight And now she's saying goodbye She ran upstairs and packed her bags",
+      "valence": 2.29,
+      "arousal": 3.63,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "You and your girl had a fight And now she's saying goodbye She ran upstairs and packed her bags It could be raining' on your perfect vacation",
+      "valence": 3.02,
+      "arousal": 3.6,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "And now she's saying goodbye She ran upstairs and packed her bags It could be raining' on your perfect vacation You could be stressed about your work situation",
+      "valence": 2.76,
+      "arousal": 3.39,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "She ran upstairs and packed her bags It could be raining' on your perfect vacation You could be stressed about your work situation Ain't gotta listen to me but all I'm sayin'",
+      "valence": 3.11,
+      "arousal": 3.35,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "It could be raining' on your perfect vacation You could be stressed about your work situation Ain't gotta listen to me but all I'm sayin' Ain't nothin' that a beer can't fix",
+      "valence": 2.9,
+      "arousal": 3.3,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "You could be stressed about your work situation Ain't gotta listen to me but all I'm sayin' Ain't nothin' that a beer can't fix Ain't no pain it can't wash away",
+      "valence": 2.52,
+      "arousal": 3.32,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Ain't gotta listen to me but all I'm sayin' Ain't nothin' that a beer can't fix Ain't no pain it can't wash away From the moment that it hits your lips",
+      "valence": 2.63,
+      "arousal": 3.2,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Ain't nothin' that a beer can't fix Ain't no pain it can't wash away From the moment that it hits your lips Makes those clouds look a little less grey",
+      "valence": 3.11,
+      "arousal": 3.11,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Ain't no pain it can't wash away From the moment that it hits your lips Makes those clouds look a little less grey Oh you could be lonely, or heartbroken",
+      "valence": 2.68,
+      "arousal": 3.16,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "From the moment that it hits your lips Makes those clouds look a little less grey Oh you could be lonely, or heartbroken Or hungover from the night before",
+      "valence": 2.99,
+      "arousal": 3.06,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Makes those clouds look a little less grey Oh you could be lonely, or heartbroken Or hungover from the night before Turn that frown into a smile real quick",
+      "valence": 3.27,
+      "arousal": 3.24,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Oh you could be lonely, or heartbroken Or hungover from the night before Turn that frown into a smile real quick There ain't nothin' that a beer can't fix",
+      "valence": 3.13,
+      "arousal": 3.22,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Or hungover from the night before Turn that frown into a smile real quick There ain't nothin' that a beer can't fix You're on a lake and you're fishin'",
+      "valence": 3.25,
+      "arousal": 3.2,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Turn that frown into a smile real quick There ain't nothin' that a beer can't fix You're on a lake and you're fishin' It's hot and all that you're gettin'",
+      "valence": 3.33,
+      "arousal": 3.29,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "There ain't nothin' that a beer can't fix You're on a lake and you're fishin' It's hot and all that you're gettin' Is a little nibble here and there",
+      "valence": 3.06,
+      "arousal": 3.03,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "You're on a lake and you're fishin' It's hot and all that you're gettin' Is a little nibble here and there You're sittin' watchin' your team",
+      "valence": 3.27,
+      "arousal": 3.01,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "It's hot and all that you're gettin' Is a little nibble here and there You're sittin' watchin' your team Losin' that championship ring",
+      "valence": 3.07,
+      "arousal": 3.13,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Is a little nibble here and there You're sittin' watchin' your team Losin' that championship ring And you're feelin' like life ain't fair",
+      "valence": 2.5,
+      "arousal": 3.08,
+      "dominance": 2.69
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "You're sittin' watchin' your team Losin' that championship ring And you're feelin' like life ain't fair It could be raining' on your perfect vacation",
+      "valence": 2.71,
+      "arousal": 3.25,
+      "dominance": 2.62
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Losin' that championship ring And you're feelin' like life ain't fair It could be raining' on your perfect vacation You could be stressed about your work situation",
+      "valence": 2.5,
+      "arousal": 3.12,
+      "dominance": 2.61
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "And you're feelin' like life ain't fair It could be raining' on your perfect vacation You could be stressed about your work situation Ain't nothin' that a beer can't fix",
+      "valence": 2.57,
+      "arousal": 3.15,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "It could be raining' on your perfect vacation You could be stressed about your work situation Ain't nothin' that a beer can't fix Ain't no pain it can't wash away",
+      "valence": 2.83,
+      "arousal": 3.24,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "You could be stressed about your work situation Ain't nothin' that a beer can't fix Ain't no pain it can't wash away From the moment that it hits your lips",
+      "valence": 2.52,
+      "arousal": 3.28,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Ain't nothin' that a beer can't fix Ain't no pain it can't wash away From the moment that it hits your lips Makes those clouds look a little less grey",
+      "valence": 3.11,
+      "arousal": 3.11,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Ain't no pain it can't wash away From the moment that it hits your lips Makes those clouds look a little less grey Oh you could be lonely, heartbroken",
+      "valence": 2.65,
+      "arousal": 3.25,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "From the moment that it hits your lips Makes those clouds look a little less grey Oh you could be lonely, heartbroken Or hungover from the night before",
+      "valence": 2.94,
+      "arousal": 3.08,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Makes those clouds look a little less grey Oh you could be lonely, heartbroken Or hungover from the night before Turn that frown into a smile real quick",
+      "valence": 3.23,
+      "arousal": 3.23,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Oh you could be lonely, heartbroken Or hungover from the night before Turn that frown into a smile real quick There ain't nothin' that a beer can't fix",
+      "valence": 3.05,
+      "arousal": 3.22,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Or hungover from the night before Turn that frown into a smile real quick There ain't nothin' that a beer can't fix It could be raining' on your perfect vacation",
+      "valence": 3.34,
+      "arousal": 3.26,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Turn that frown into a smile real quick There ain't nothin' that a beer can't fix It could be raining' on your perfect vacation You could be stressed about your work situation",
+      "valence": 3.04,
+      "arousal": 3.15,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "There ain't nothin' that a beer can't fix It could be raining' on your perfect vacation You could be stressed about your work situation Ain't gotta save it for no special occasion",
+      "valence": 2.88,
+      "arousal": 3.15,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "It could be raining' on your perfect vacation You could be stressed about your work situation Ain't gotta save it for no special occasion Ain't nothin' that a beer can't fix",
+      "valence": 2.98,
+      "arousal": 3.22,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "You could be stressed about your work situation Ain't gotta save it for no special occasion Ain't nothin' that a beer can't fix Ain't no pain it can't wash away, no",
+      "valence": 2.77,
+      "arousal": 3.18,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Ain't gotta save it for no special occasion Ain't nothin' that a beer can't fix Ain't no pain it can't wash away, no From the moment that it hits your lips",
+      "valence": 2.91,
+      "arousal": 3.13,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Ain't nothin' that a beer can't fix Ain't no pain it can't wash away, no From the moment that it hits your lips Makes those clouds look a little less grey",
+      "valence": 3.12,
+      "arousal": 3.08,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Ain't no pain it can't wash away, no From the moment that it hits your lips Makes those clouds look a little less grey Ooh you could be lonely (Lonely)",
+      "valence": 2.64,
+      "arousal": 3.13,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "From the moment that it hits your lips Makes those clouds look a little less grey Ooh you could be lonely (Lonely) Heartbroken (Heartbroken)",
+      "valence": 2.43,
+      "arousal": 3.32,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Makes those clouds look a little less grey Ooh you could be lonely (Lonely) Heartbroken (Heartbroken) Or hungover from the night before",
+      "valence": 2.8,
+      "arousal": 3.18,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Ooh you could be lonely (Lonely) Heartbroken (Heartbroken) Or hungover from the night before Turn that frown into a smile real quick",
+      "valence": 2.89,
+      "arousal": 3.31,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Heartbroken (Heartbroken) Or hungover from the night before Turn that frown into a smile real quick It might take one or it might take six",
+      "valence": 2.81,
+      "arousal": 3.32,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Or hungover from the night before Turn that frown into a smile real quick It might take one or it might take six Drank it down, it'll do the trick",
+      "valence": 3.24,
+      "arousal": 3.26,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Turn that frown into a smile real quick It might take one or it might take six Drank it down, it'll do the trick There ain't nothin' that a beer can't fix",
+      "valence": 3.3,
+      "arousal": 3.22,
+      "dominance": 3.42
+    }
+  ]
+}

@@ -1,0 +1,584 @@
+{
+  "artist": "Cardi B & Bruno Mars",
+  "overall_vad": {
+    "valence": 2.87,
+    "arousal": 3.66,
+    "dominance": 3.37
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Uh, uh, yeah, come on Please me, baby Turn around and just tease me, baby You got what I want and what I need, baby",
+      "valence": 2.94,
+      "arousal": 3.95,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Please me, baby Turn around and just tease me, baby You got what I want and what I need, baby (Let me hear you say)",
+      "valence": 2.82,
+      "arousal": 3.89,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Turn around and just tease me, baby You got what I want and what I need, baby (Let me hear you say) Please",
+      "valence": 2.78,
+      "arousal": 3.87,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "You got what I want and what I need, baby (Let me hear you say) Please (Let me hear you say)",
+      "valence": 3.22,
+      "arousal": 3.49,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "(Let me hear you say) Please (Let me hear you say) Please",
+      "valence": 3.04,
+      "arousal": 3.24,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Please (Let me hear you say) Please Please me, baby",
+      "valence": 3.04,
+      "arousal": 3.28,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "(Let me hear you say) Please Please me, baby Turn around and just tease me, baby",
+      "valence": 2.69,
+      "arousal": 3.75,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Please Please me, baby Turn around and just tease me, baby You got what I want and what I need, baby",
+      "valence": 2.8,
+      "arousal": 3.89,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Please me, baby Turn around and just tease me, baby You got what I want and what I need, baby (Let me hear you say)",
+      "valence": 2.82,
+      "arousal": 3.89,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Turn around and just tease me, baby You got what I want and what I need, baby (Let me hear you say) Please",
+      "valence": 2.78,
+      "arousal": 3.87,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "You got what I want and what I need, baby (Let me hear you say) Please (Let me hear you say)",
+      "valence": 3.22,
+      "arousal": 3.49,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "(Let me hear you say) Please (Let me hear you say) Please (woo)",
+      "valence": 3.04,
+      "arousal": 3.37,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Please (Let me hear you say) Please (woo) Lollipoppin' (poppin'), twerkin' in some J's (ooh)",
+      "valence": 3.11,
+      "arousal": 3.58,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "(Let me hear you say) Please (woo) Lollipoppin' (poppin'), twerkin' in some J's (ooh) On the dance floor (uh-huh), no panties in the way (nope)",
+      "valence": 3.07,
+      "arousal": 3.55,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Please (woo) Lollipoppin' (poppin'), twerkin' in some J's (ooh) On the dance floor (uh-huh), no panties in the way (nope) I take my time with it (ow), bring you close to me (ow)",
+      "valence": 3.42,
+      "arousal": 3.71,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Lollipoppin' (poppin'), twerkin' in some J's (ooh) On the dance floor (uh-huh), no panties in the way (nope) I take my time with it (ow), bring you close to me (ow) Don't want no young dumb shit",
+      "valence": 3.1,
+      "arousal": 3.5,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "On the dance floor (uh-huh), no panties in the way (nope) I take my time with it (ow), bring you close to me (ow) Don't want no young dumb shit Better fuck me like we listenin' to Jodeci",
+      "valence": 2.82,
+      "arousal": 3.55,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I take my time with it (ow), bring you close to me (ow) Don't want no young dumb shit Better fuck me like we listenin' to Jodeci I was tryna lay low (low), takin' it slow (slow)",
+      "valence": 2.48,
+      "arousal": 3.44,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Don't want no young dumb shit Better fuck me like we listenin' to Jodeci I was tryna lay low (low), takin' it slow (slow) When I'm fuckin' again (ayy)",
+      "valence": 2.06,
+      "arousal": 3.73,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Better fuck me like we listenin' to Jodeci I was tryna lay low (low), takin' it slow (slow) When I'm fuckin' again (ayy) Gotta celebrate, if you're man look good, better put him away",
+      "valence": 2.44,
+      "arousal": 3.66,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I was tryna lay low (low), takin' it slow (slow) When I'm fuckin' again (ayy) Gotta celebrate, if you're man look good, better put him away If you can't sweat the weave out, you shouldn't even be out",
+      "valence": 2.78,
+      "arousal": 3.43,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "When I'm fuckin' again (ayy) Gotta celebrate, if you're man look good, better put him away If you can't sweat the weave out, you shouldn't even be out Dinner reservations like the pussy, you gon' eat out",
+      "valence": 2.76,
+      "arousal": 3.75,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Gotta celebrate, if you're man look good, better put him away If you can't sweat the weave out, you shouldn't even be out Dinner reservations like the pussy, you gon' eat out I'm gonna ride it, do it just how you like it",
+      "valence": 2.94,
+      "arousal": 3.62,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "If you can't sweat the weave out, you shouldn't even be out Dinner reservations like the pussy, you gon' eat out I'm gonna ride it, do it just how you like it Tonight and after that",
+      "valence": 2.64,
+      "arousal": 3.61,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Dinner reservations like the pussy, you gon' eat out I'm gonna ride it, do it just how you like it Tonight and after that Let's do it one more time",
+      "valence": 2.96,
+      "arousal": 3.6,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I'm gonna ride it, do it just how you like it Tonight and after that Let's do it one more time Girl, I ain't one for beggin', but now you got me beggin'",
+      "valence": 3.13,
+      "arousal": 3.53,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Tonight and after that Let's do it one more time Girl, I ain't one for beggin', but now you got me beggin' Please me, baby",
+      "valence": 2.91,
+      "arousal": 3.41,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Let's do it one more time Girl, I ain't one for beggin', but now you got me beggin' Please me, baby Turn around and just tease me, baby",
+      "valence": 2.45,
+      "arousal": 3.66,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Girl, I ain't one for beggin', but now you got me beggin' Please me, baby Turn around and just tease me, baby You got what I want and what I need, baby",
+      "valence": 2.51,
+      "arousal": 3.72,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Please me, baby Turn around and just tease me, baby You got what I want and what I need, baby (Let me hear you say)",
+      "valence": 2.82,
+      "arousal": 3.89,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Turn around and just tease me, baby You got what I want and what I need, baby (Let me hear you say) Please",
+      "valence": 2.78,
+      "arousal": 3.87,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "You got what I want and what I need, baby (Let me hear you say) Please (Let me hear you say)",
+      "valence": 3.22,
+      "arousal": 3.49,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "(Let me hear you say) Please (Let me hear you say) Please (woo)",
+      "valence": 3.04,
+      "arousal": 3.37,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Please (Let me hear you say) Please (woo) Please me, baby",
+      "valence": 3.08,
+      "arousal": 3.39,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "(Let me hear you say) Please (woo) Please me, baby Turn around and just tease me, baby",
+      "valence": 2.74,
+      "arousal": 3.78,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Please (woo) Please me, baby Turn around and just tease me, baby You got what I want and what I need, baby",
+      "valence": 2.83,
+      "arousal": 3.93,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Please me, baby Turn around and just tease me, baby You got what I want and what I need, baby (Let me hear you say)",
+      "valence": 2.82,
+      "arousal": 3.89,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Turn around and just tease me, baby You got what I want and what I need, baby (Let me hear you say) Please",
+      "valence": 2.78,
+      "arousal": 3.87,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "You got what I want and what I need, baby (Let me hear you say) Please (Let me hear you say)",
+      "valence": 3.22,
+      "arousal": 3.49,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "(Let me hear you say) Please (Let me hear you say) Please (woo)",
+      "valence": 3.04,
+      "arousal": 3.37,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Please (Let me hear you say) Please (woo) Booty so round (round), booty so soft (soft)",
+      "valence": 3.11,
+      "arousal": 3.43,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "(Let me hear you say) Please (woo) Booty so round (round), booty so soft (soft) Bet you wanna smack it again (ayy)",
+      "valence": 2.98,
+      "arousal": 3.71,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Please (woo) Booty so round (round), booty so soft (soft) Bet you wanna smack it again (ayy) Let me demonstrate",
+      "valence": 3.02,
+      "arousal": 3.67,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Booty so round (round), booty so soft (soft) Bet you wanna smack it again (ayy) Let me demonstrate Hit it one time, make it levitate",
+      "valence": 3.1,
+      "arousal": 3.52,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Bet you wanna smack it again (ayy) Let me demonstrate Hit it one time, make it levitate Titties out like blaka (blaka)",
+      "valence": 2.95,
+      "arousal": 3.6,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Let me demonstrate Hit it one time, make it levitate Titties out like blaka (blaka) Broke bitches watch out now (watch out)",
+      "valence": 2.7,
+      "arousal": 3.58,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Hit it one time, make it levitate Titties out like blaka (blaka) Broke bitches watch out now (watch out) Your pussy basura (basura)",
+      "valence": 2.58,
+      "arousal": 3.75,
+      "dominance": 3.8
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Titties out like blaka (blaka) Broke bitches watch out now (watch out) Your pussy basura (basura) My pussy horchata (oh)",
+      "valence": 2.38,
+      "arousal": 3.76,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Broke bitches watch out now (watch out) Your pussy basura (basura) My pussy horchata (oh) I'm gonna ride it, do it just how you like it",
+      "valence": 2.56,
+      "arousal": 3.86,
+      "dominance": 3.83
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Your pussy basura (basura) My pussy horchata (oh) I'm gonna ride it, do it just how you like it Tonight and after that (ooh)",
+      "valence": 3.12,
+      "arousal": 3.85,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "My pussy horchata (oh) I'm gonna ride it, do it just how you like it Tonight and after that (ooh) Let's do it one more time",
+      "valence": 3.15,
+      "arousal": 3.66,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "I'm gonna ride it, do it just how you like it Tonight and after that (ooh) Let's do it one more time Girl, I ain't one for beggin', but now you got me beggin'",
+      "valence": 3.08,
+      "arousal": 3.54,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Tonight and after that (ooh) Let's do it one more time Girl, I ain't one for beggin', but now you got me beggin' Please me, baby",
+      "valence": 2.89,
+      "arousal": 3.45,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Let's do it one more time Girl, I ain't one for beggin', but now you got me beggin' Please me, baby Turn around and just tease me, baby",
+      "valence": 2.45,
+      "arousal": 3.66,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Girl, I ain't one for beggin', but now you got me beggin' Please me, baby Turn around and just tease me, baby You got what I want and what I need, baby",
+      "valence": 2.51,
+      "arousal": 3.72,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Please me, baby Turn around and just tease me, baby You got what I want and what I need, baby (Let me hear you say)",
+      "valence": 2.82,
+      "arousal": 3.89,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Turn around and just tease me, baby You got what I want and what I need, baby (Let me hear you say) Please",
+      "valence": 2.78,
+      "arousal": 3.87,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "You got what I want and what I need, baby (Let me hear you say) Please (Let me hear you say)",
+      "valence": 3.22,
+      "arousal": 3.49,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "(Let me hear you say) Please (Let me hear you say) Please (woo)",
+      "valence": 3.04,
+      "arousal": 3.37,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Please (Let me hear you say) Please (woo) Come on",
+      "valence": 3.0,
+      "arousal": 3.37,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "(Let me hear you say) Please (woo) Come on Come on, back it up for me",
+      "valence": 2.99,
+      "arousal": 3.46,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Please (woo) Come on Come on, back it up for me Come on",
+      "valence": 3.03,
+      "arousal": 3.47,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Come on Come on, back it up for me Come on Ooh, twerk it on me slowly",
+      "valence": 3.05,
+      "arousal": 3.76,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Come on, back it up for me Come on Ooh, twerk it on me slowly Come on",
+      "valence": 3.04,
+      "arousal": 3.75,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Come on Ooh, twerk it on me slowly Come on Girl, let me put this lovin' on you",
+      "valence": 3.43,
+      "arousal": 3.97,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Ooh, twerk it on me slowly Come on Girl, let me put this lovin' on you You better say that shit (uh)",
+      "valence": 2.69,
+      "arousal": 4.0,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Come on Girl, let me put this lovin' on you You better say that shit (uh) Cardi don't play that shit (yeah)",
+      "valence": 2.73,
+      "arousal": 3.75,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Girl, let me put this lovin' on you You better say that shit (uh) Cardi don't play that shit (yeah) Do my back like I do these records, break that shit",
+      "valence": 2.53,
+      "arousal": 3.86,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "You better say that shit (uh) Cardi don't play that shit (yeah) Do my back like I do these records, break that shit Please me, baby (uh)",
+      "valence": 2.37,
+      "arousal": 3.83,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Cardi don't play that shit (yeah) Do my back like I do these records, break that shit Please me, baby (uh) Turn around and just tease me, baby (uh, ooh)",
+      "valence": 2.29,
+      "arousal": 3.84,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Do my back like I do these records, break that shit Please me, baby (uh) Turn around and just tease me, baby (uh, ooh) You got what I want and need, baby (yes)",
+      "valence": 2.59,
+      "arousal": 3.94,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Please me, baby (uh) Turn around and just tease me, baby (uh, ooh) You got what I want and need, baby (yes) (Let me hear you say)",
+      "valence": 2.82,
+      "arousal": 3.79,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Turn around and just tease me, baby (uh, ooh) You got what I want and need, baby (yes) (Let me hear you say) Please",
+      "valence": 2.68,
+      "arousal": 3.88,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "You got what I want and need, baby (yes) (Let me hear you say) Please (Let me hear you say)",
+      "valence": 3.19,
+      "arousal": 3.47,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "(Let me hear you say) Please (Let me hear you say) Please (woo)",
+      "valence": 3.04,
+      "arousal": 3.37,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "Please (Let me hear you say) Please (woo) Please me, baby",
+      "valence": 3.08,
+      "arousal": 3.39,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "(Let me hear you say) Please (woo) Please me, baby Turn around and tease me, baby",
+      "valence": 2.8,
+      "arousal": 3.73,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "Please (woo) Please me, baby Turn around and tease me, baby You got what I want and need, baby",
+      "valence": 2.91,
+      "arousal": 3.9,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "Please me, baby Turn around and tease me, baby You got what I want and need, baby (Let me hear you say)",
+      "valence": 2.86,
+      "arousal": 3.83,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "Turn around and tease me, baby You got what I want and need, baby (Let me hear you say) Please",
+      "valence": 2.79,
+      "arousal": 3.9,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "You got what I want and need, baby (Let me hear you say) Please (Let me hear you say)",
+      "valence": 3.18,
+      "arousal": 3.51,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "(Let me hear you say) Please (Let me hear you say) Please (woo)",
+      "valence": 3.04,
+      "arousal": 3.37,
+      "dominance": 2.89
+    }
+  ]
+}

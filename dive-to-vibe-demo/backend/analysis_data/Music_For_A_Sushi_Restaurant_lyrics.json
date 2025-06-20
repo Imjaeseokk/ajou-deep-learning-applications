@@ -1,0 +1,346 @@
+{
+  "artist": "Harry Styles",
+  "overall_vad": {
+    "valence": 3.66,
+    "arousal": 3.68,
+    "dominance": 3.29
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Ba, ba-ba Ba-ba, ba-ba Green eyes, fried rice I could cook an egg on you",
+      "valence": 3.3,
+      "arousal": 3.32,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Ba-ba, ba-ba Green eyes, fried rice I could cook an egg on you Late night, game time",
+      "valence": 3.44,
+      "arousal": 3.38,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Green eyes, fried rice I could cook an egg on you Late night, game time Coffee on the stove, yeah",
+      "valence": 3.51,
+      "arousal": 3.37,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I could cook an egg on you Late night, game time Coffee on the stove, yeah You're sweet ice cream",
+      "valence": 3.63,
+      "arousal": 3.43,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Late night, game time Coffee on the stove, yeah You're sweet ice cream But you could use a flake or two",
+      "valence": 3.3,
+      "arousal": 3.1,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Coffee on the stove, yeah You're sweet ice cream But you could use a flake or two Blue bubblegum twisted 'round your tongue",
+      "valence": 3.35,
+      "arousal": 3.21,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "You're sweet ice cream But you could use a flake or two Blue bubblegum twisted 'round your tongue I don't want you to get lost",
+      "valence": 2.92,
+      "arousal": 3.16,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "But you could use a flake or two Blue bubblegum twisted 'round your tongue I don't want you to get lost I don't want you to go broke",
+      "valence": 2.83,
+      "arousal": 3.25,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Blue bubblegum twisted 'round your tongue I don't want you to get lost I don't want you to go broke I want you",
+      "valence": 2.87,
+      "arousal": 3.63,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I don't want you to get lost I don't want you to go broke I want you It's 'cause I love you, babe",
+      "valence": 3.48,
+      "arousal": 4.03,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I don't want you to go broke I want you It's 'cause I love you, babe In every kind of way",
+      "valence": 3.63,
+      "arousal": 4.07,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I want you It's 'cause I love you, babe In every kind of way Just a little taste",
+      "valence": 4.07,
+      "arousal": 4.07,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "It's 'cause I love you, babe In every kind of way Just a little taste Know I love you, babe",
+      "valence": 4.22,
+      "arousal": 4.07,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "In every kind of way Just a little taste Know I love you, babe Ba, ba-ba",
+      "valence": 4.13,
+      "arousal": 3.89,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Just a little taste Know I love you, babe Ba, ba-ba Ba-ba, ba-ba",
+      "valence": 4.18,
+      "arousal": 3.93,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Know I love you, babe Ba, ba-ba Ba-ba, ba-ba (You know I love you, babe)",
+      "valence": 4.38,
+      "arousal": 4.17,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Ba, ba-ba Ba-ba, ba-ba (You know I love you, babe) Ba, ba-ba",
+      "valence": 4.18,
+      "arousal": 4.17,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Ba-ba, ba-ba (You know I love you, babe) Ba, ba-ba Ba-ba, ba-ba",
+      "valence": 4.26,
+      "arousal": 4.19,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "(You know I love you, babe) Ba, ba-ba Ba-ba, ba-ba Excuse me, green tea",
+      "valence": 4.13,
+      "arousal": 4.0,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Ba, ba-ba Ba-ba, ba-ba Excuse me, green tea Music for a sushi restaurant",
+      "valence": 3.2,
+      "arousal": 3.3,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Ba-ba, ba-ba Excuse me, green tea Music for a sushi restaurant From ice on rice",
+      "valence": 3.26,
+      "arousal": 3.23,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Excuse me, green tea Music for a sushi restaurant From ice on rice Scuba-duba-do-boo-boo",
+      "valence": 3.26,
+      "arousal": 3.12,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Music for a sushi restaurant From ice on rice Scuba-duba-do-boo-boo Music for a sushi restaurant",
+      "valence": 3.38,
+      "arousal": 3.17,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "From ice on rice Scuba-duba-do-boo-boo Music for a sushi restaurant Music for a sushi restaurant",
+      "valence": 3.33,
+      "arousal": 3.19,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Scuba-duba-do-boo-boo Music for a sushi restaurant Music for a sushi restaurant Music for whatever you want",
+      "valence": 3.31,
+      "arousal": 3.19,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Music for a sushi restaurant Music for a sushi restaurant Music for whatever you want Scuba-duba-do-boo-boo",
+      "valence": 3.37,
+      "arousal": 3.25,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Music for a sushi restaurant Music for whatever you want Scuba-duba-do-boo-boo I'm not going to get lost",
+      "valence": 2.98,
+      "arousal": 3.37,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Music for whatever you want Scuba-duba-do-boo-boo I'm not going to get lost I'm not going to go broke",
+      "valence": 2.83,
+      "arousal": 3.39,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Scuba-duba-do-boo-boo I'm not going to get lost I'm not going to go broke Staying cool",
+      "valence": 2.97,
+      "arousal": 3.28,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I'm not going to get lost I'm not going to go broke Staying cool (Know I love you, babe)",
+      "valence": 3.42,
+      "arousal": 3.73,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I'm not going to go broke Staying cool (Know I love you, babe) Ba, ba-ba",
+      "valence": 3.69,
+      "arousal": 3.79,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Staying cool (Know I love you, babe) Ba, ba-ba Ba-ba, ba-ba",
+      "valence": 4.23,
+      "arousal": 4.07,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "(Know I love you, babe) Ba, ba-ba Ba-ba, ba-ba (You know I love you, babe)",
+      "valence": 4.39,
+      "arousal": 4.2,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Ba, ba-ba Ba-ba, ba-ba (You know I love you, babe) Ba, ba-ba",
+      "valence": 4.18,
+      "arousal": 4.17,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Ba-ba, ba-ba (You know I love you, babe) Ba, ba-ba Ba-ba, ba-ba",
+      "valence": 4.26,
+      "arousal": 4.19,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "(You know I love you, babe) Ba, ba-ba Ba-ba, ba-ba If the stars were edible",
+      "valence": 4.2,
+      "arousal": 4.11,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Ba, ba-ba Ba-ba, ba-ba If the stars were edible And our hearts were never full",
+      "valence": 3.14,
+      "arousal": 3.23,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Ba-ba, ba-ba If the stars were edible And our hearts were never full Could we live with just a taste?",
+      "valence": 3.1,
+      "arousal": 3.12,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "If the stars were edible And our hearts were never full Could we live with just a taste? Just a taste",
+      "valence": 2.98,
+      "arousal": 3.09,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "And our hearts were never full Could we live with just a taste? Just a taste It's 'cause I love you, babe",
+      "valence": 3.49,
+      "arousal": 3.87,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Could we live with just a taste? Just a taste It's 'cause I love you, babe In every kind of way",
+      "valence": 3.65,
+      "arousal": 3.74,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Just a taste It's 'cause I love you, babe In every kind of way Just a little taste",
+      "valence": 4.02,
+      "arousal": 3.81,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "It's 'cause I love you, babe In every kind of way Just a little taste Know I love you, babe",
+      "valence": 4.22,
+      "arousal": 4.07,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "In every kind of way Just a little taste Know I love you, babe Ba, ba-ba",
+      "valence": 4.13,
+      "arousal": 3.89,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Just a little taste Know I love you, babe Ba, ba-ba Ba-ba, ba-ba",
+      "valence": 4.18,
+      "arousal": 3.93,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Know I love you, babe Ba, ba-ba Ba-ba, ba-ba (You know I love you, babe)",
+      "valence": 4.38,
+      "arousal": 4.17,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Ba, ba-ba Ba-ba, ba-ba (You know I love you, babe) Ba, ba-ba",
+      "valence": 4.18,
+      "arousal": 4.17,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Ba-ba, ba-ba (You know I love you, babe) Ba, ba-ba Ba-ba, ba-ba",
+      "valence": 4.26,
+      "arousal": 4.19,
+      "dominance": 3.29
+    }
+  ]
+}

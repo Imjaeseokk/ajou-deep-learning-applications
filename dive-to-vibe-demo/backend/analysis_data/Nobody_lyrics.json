@@ -1,0 +1,248 @@
+{
+  "artist": "Dylan Scott",
+  "overall_vad": {
+    "valence": 3.26,
+    "arousal": 3.55,
+    "dominance": 3.2
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Baby, I see them boys They always lookin' at ya But I ain't causin' a scene 'Cause girl I'm the one that's with ya",
+      "valence": 3.04,
+      "arousal": 3.26,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "They always lookin' at ya But I ain't causin' a scene 'Cause girl I'm the one that's with ya They can shoot you a wink",
+      "valence": 3.02,
+      "arousal": 3.33,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "But I ain't causin' a scene 'Cause girl I'm the one that's with ya They can shoot you a wink They can buy you a drink",
+      "valence": 2.97,
+      "arousal": 3.37,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "'Cause girl I'm the one that's with ya They can shoot you a wink They can buy you a drink Try to steal your attention",
+      "valence": 3.1,
+      "arousal": 3.59,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "They can shoot you a wink They can buy you a drink Try to steal your attention They can talk a big talk",
+      "valence": 3.05,
+      "arousal": 3.42,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "They can buy you a drink Try to steal your attention They can talk a big talk They can walk a big walk",
+      "valence": 2.98,
+      "arousal": 3.39,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Try to steal your attention They can talk a big talk They can walk a big walk But I know you ain't going home with 'em",
+      "valence": 2.54,
+      "arousal": 3.28,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "They can talk a big talk They can walk a big walk But I know you ain't going home with 'em Girl, nobody, nobody, nobody gonna love you like I do",
+      "valence": 2.58,
+      "arousal": 3.28,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "They can walk a big walk But I know you ain't going home with 'em Girl, nobody, nobody, nobody gonna love you like I do Yeah, nobody, nobody, nobody gonna love you like I do",
+      "valence": 2.53,
+      "arousal": 3.17,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "But I know you ain't going home with 'em Girl, nobody, nobody, nobody gonna love you like I do Yeah, nobody, nobody, nobody gonna love you like I do I'ma love you 'til the good Lord comes back for me and you",
+      "valence": 3.05,
+      "arousal": 3.55,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Girl, nobody, nobody, nobody gonna love you like I do Yeah, nobody, nobody, nobody gonna love you like I do I'ma love you 'til the good Lord comes back for me and you Girl, nobody, nobody, nobody gonna love you like I do",
+      "valence": 3.3,
+      "arousal": 3.44,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Yeah, nobody, nobody, nobody gonna love you like I do I'ma love you 'til the good Lord comes back for me and you Girl, nobody, nobody, nobody gonna love you like I do I know how you like your coffee",
+      "valence": 3.47,
+      "arousal": 3.62,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I'ma love you 'til the good Lord comes back for me and you Girl, nobody, nobody, nobody gonna love you like I do I know how you like your coffee And how hot you like your bath",
+      "valence": 4.01,
+      "arousal": 3.95,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Girl, nobody, nobody, nobody gonna love you like I do I know how you like your coffee And how hot you like your bath I know what makes you angry",
+      "valence": 2.61,
+      "arousal": 3.4,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I know how you like your coffee And how hot you like your bath I know what makes you angry And what makes you laugh",
+      "valence": 3.36,
+      "arousal": 3.4,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "And how hot you like your bath I know what makes you angry And what makes you laugh I know the taste of your lips",
+      "valence": 3.35,
+      "arousal": 3.58,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I know what makes you angry And what makes you laugh I know the taste of your lips Every inch of your skin",
+      "valence": 3.46,
+      "arousal": 3.69,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "And what makes you laugh I know the taste of your lips Every inch of your skin The little things that turn you on",
+      "valence": 3.65,
+      "arousal": 3.68,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I know the taste of your lips Every inch of your skin The little things that turn you on I know that look in your eyes when they look back at mine",
+      "valence": 3.34,
+      "arousal": 3.58,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Every inch of your skin The little things that turn you on I know that look in your eyes when they look back at mine Saying baby, take me home",
+      "valence": 3.11,
+      "arousal": 3.57,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "The little things that turn you on I know that look in your eyes when they look back at mine Saying baby, take me home Girl, nobody, nobody, nobody gonna love you like I do",
+      "valence": 2.83,
+      "arousal": 3.53,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I know that look in your eyes when they look back at mine Saying baby, take me home Girl, nobody, nobody, nobody gonna love you like I do Yeah, nobody, nobody, nobody gonna love you like I do",
+      "valence": 2.93,
+      "arousal": 3.49,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Saying baby, take me home Girl, nobody, nobody, nobody gonna love you like I do Yeah, nobody, nobody, nobody gonna love you like I do I'ma love you 'til the good Lord comes back for me and you",
+      "valence": 3.58,
+      "arousal": 3.68,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Girl, nobody, nobody, nobody gonna love you like I do Yeah, nobody, nobody, nobody gonna love you like I do I'ma love you 'til the good Lord comes back for me and you Girl, nobody, nobody, nobody gonna love you like I do",
+      "valence": 3.3,
+      "arousal": 3.44,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Yeah, nobody, nobody, nobody gonna love you like I do I'ma love you 'til the good Lord comes back for me and you Girl, nobody, nobody, nobody gonna love you like I do I'm gonna love you, love you",
+      "valence": 3.66,
+      "arousal": 3.78,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I'ma love you 'til the good Lord comes back for me and you Girl, nobody, nobody, nobody gonna love you like I do I'm gonna love you, love you The only way that I know",
+      "valence": 4.04,
+      "arousal": 4.07,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Girl, nobody, nobody, nobody gonna love you like I do I'm gonna love you, love you The only way that I know I'm gonna love you, love you",
+      "valence": 3.8,
+      "arousal": 3.86,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I'm gonna love you, love you The only way that I know I'm gonna love you, love you Like there's no tomorrow",
+      "valence": 4.15,
+      "arousal": 4.1,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "The only way that I know I'm gonna love you, love you Like there's no tomorrow Yeah, nobody, nobody, nobody gonna love you like I do",
+      "valence": 3.59,
+      "arousal": 3.68,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I'm gonna love you, love you Like there's no tomorrow Yeah, nobody, nobody, nobody gonna love you like I do Girl, nobody, nobody, nobody gonna love you like I do (nobody)",
+      "valence": 3.81,
+      "arousal": 3.88,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Like there's no tomorrow Yeah, nobody, nobody, nobody gonna love you like I do Girl, nobody, nobody, nobody gonna love you like I do (nobody) Yeah, nobody, nobody, nobody gonna love you like I do (like I do)",
+      "valence": 2.79,
+      "arousal": 3.26,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Yeah, nobody, nobody, nobody gonna love you like I do Girl, nobody, nobody, nobody gonna love you like I do (nobody) Yeah, nobody, nobody, nobody gonna love you like I do (like I do) I'ma love you 'til the good Lord comes back for me and you",
+      "valence": 3.36,
+      "arousal": 3.5,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Girl, nobody, nobody, nobody gonna love you like I do (nobody) Yeah, nobody, nobody, nobody gonna love you like I do (like I do) I'ma love you 'til the good Lord comes back for me and you Girl, nobody, nobody, nobody gonna love you like I do",
+      "valence": 3.11,
+      "arousal": 3.44,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Yeah, nobody, nobody, nobody gonna love you like I do (like I do) I'ma love you 'til the good Lord comes back for me and you Girl, nobody, nobody, nobody gonna love you like I do Yeah, nobody, nobody, nobody gonna love you like I do",
+      "valence": 3.25,
+      "arousal": 3.52,
+      "dominance": 3.03
+    }
+  ]
+}

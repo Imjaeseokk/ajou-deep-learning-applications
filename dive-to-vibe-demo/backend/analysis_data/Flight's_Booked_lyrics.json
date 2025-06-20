@@ -1,0 +1,304 @@
+{
+  "artist": "Drake",
+  "overall_vad": {
+    "valence": 3.05,
+    "arousal": 3.49,
+    "dominance": 3.12
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "It's getting late Why you gotta be beside me? Watching, needing, wanting me? I'm afraid, don't be",
+      "valence": 2.77,
+      "arousal": 3.67,
+      "dominance": 2.65
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Why you gotta be beside me? Watching, needing, wanting me? I'm afraid, don't be I'm afraid, don't be",
+      "valence": 2.76,
+      "arousal": 3.69,
+      "dominance": 2.73
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Watching, needing, wanting me? I'm afraid, don't be I'm afraid, don't be I'm afraid, don't be",
+      "valence": 2.7,
+      "arousal": 3.63,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I'm afraid, don't be I'm afraid, don't be I'm afraid, don't be I'm afraid, don't be",
+      "valence": 2.53,
+      "arousal": 3.56,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I'm afraid, don't be I'm afraid, don't be I'm afraid, don't be I'm afraid",
+      "valence": 2.46,
+      "arousal": 3.59,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I'm afraid, don't be I'm afraid, don't be I'm afraid Don't be, don't...",
+      "valence": 2.47,
+      "arousal": 3.67,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I'm afraid, don't be I'm afraid Don't be, don't... Lila",
+      "valence": 2.48,
+      "arousal": 3.73,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I'm afraid Don't be, don't... Lila I know it's getting late, and I'm struggling to let go",
+      "valence": 2.33,
+      "arousal": 3.64,
+      "dominance": 2.65
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Don't be, don't... Lila I know it's getting late, and I'm struggling to let go Although there's distance between us, there's no place I'd rather be",
+      "valence": 2.59,
+      "arousal": 3.49,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Lila I know it's getting late, and I'm struggling to let go Although there's distance between us, there's no place I'd rather be I owe you some hospitality, and it comes so naturally",
+      "valence": 3.37,
+      "arousal": 3.32,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I know it's getting late, and I'm struggling to let go Although there's distance between us, there's no place I'd rather be I owe you some hospitality, and it comes so naturally Promise, I just need some more time",
+      "valence": 3.12,
+      "arousal": 3.27,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Although there's distance between us, there's no place I'd rather be I owe you some hospitality, and it comes so naturally Promise, I just need some more time If you can bear with me",
+      "valence": 3.29,
+      "arousal": 3.24,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I owe you some hospitality, and it comes so naturally Promise, I just need some more time If you can bear with me When last did we feel this close together?",
+      "valence": 3.26,
+      "arousal": 3.27,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Promise, I just need some more time If you can bear with me When last did we feel this close together? Chasing sunsets in California",
+      "valence": 2.97,
+      "arousal": 3.25,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "If you can bear with me When last did we feel this close together? Chasing sunsets in California Don't make me wait, babe, it's been forever",
+      "valence": 3.12,
+      "arousal": 3.44,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "When last did we feel this close together? Chasing sunsets in California Don't make me wait, babe, it's been forever Don't take forever",
+      "valence": 3.25,
+      "arousal": 3.54,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Chasing sunsets in California Don't make me wait, babe, it's been forever Don't take forever It's been forever",
+      "valence": 3.2,
+      "arousal": 3.52,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Don't make me wait, babe, it's been forever Don't take forever It's been forever Don't take forever",
+      "valence": 2.84,
+      "arousal": 3.47,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Don't take forever It's been forever Don't take forever It's been forever",
+      "valence": 2.95,
+      "arousal": 3.15,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "It's been forever Don't take forever It's been forever Trust me, I'm starting to realize",
+      "valence": 3.14,
+      "arousal": 3.13,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Don't take forever It's been forever Trust me, I'm starting to realize And look beyond my fears",
+      "valence": 3.32,
+      "arousal": 3.21,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "It's been forever Trust me, I'm starting to realize And look beyond my fears Sun keeps on turning to twilight",
+      "valence": 3.5,
+      "arousal": 3.29,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Trust me, I'm starting to realize And look beyond my fears Sun keeps on turning to twilight Baby, we don't have long",
+      "valence": 3.41,
+      "arousal": 3.39,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "And look beyond my fears Sun keeps on turning to twilight Baby, we don't have long I can't keep my hands off you",
+      "valence": 3.01,
+      "arousal": 3.49,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Sun keeps on turning to twilight Baby, we don't have long I can't keep my hands off you All night, all my love",
+      "valence": 3.58,
+      "arousal": 3.93,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Baby, we don't have long I can't keep my hands off you All night, all my love You say it's getting too late",
+      "valence": 3.3,
+      "arousal": 3.83,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I can't keep my hands off you All night, all my love You say it's getting too late Baby, don't be afraid",
+      "valence": 3.49,
+      "arousal": 3.91,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "All night, all my love You say it's getting too late Baby, don't be afraid When last did we feel this close together?",
+      "valence": 3.49,
+      "arousal": 3.72,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "You say it's getting too late Baby, don't be afraid When last did we feel this close together? Chasing sunsets in California",
+      "valence": 3.07,
+      "arousal": 3.43,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Baby, don't be afraid When last did we feel this close together? Chasing sunsets in California Don't make me wait, babe, it's been forever",
+      "valence": 3.1,
+      "arousal": 3.53,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "When last did we feel this close together? Chasing sunsets in California Don't make me wait, babe, it's been forever Don't take forever",
+      "valence": 3.25,
+      "arousal": 3.54,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Chasing sunsets in California Don't make me wait, babe, it's been forever Don't take forever It's been forever",
+      "valence": 3.2,
+      "arousal": 3.52,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Don't make me wait, babe, it's been forever Don't take forever It's been forever Don't take forever",
+      "valence": 2.84,
+      "arousal": 3.47,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Don't take forever It's been forever Don't take forever It's been forever",
+      "valence": 2.95,
+      "arousal": 3.15,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "It's been forever Don't take forever It's been forever Giddy up, girl, best I can do",
+      "valence": 3.36,
+      "arousal": 3.57,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Don't take forever It's been forever Giddy up, girl, best I can do Go follow where the wind blows, mmm",
+      "valence": 3.3,
+      "arousal": 3.47,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "It's been forever Giddy up, girl, best I can do Go follow where the wind blows, mmm Sometimes, we all feel hollow",
+      "valence": 3.1,
+      "arousal": 3.38,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Giddy up, girl, best I can do Go follow where the wind blows, mmm Sometimes, we all feel hollow My heart, girl, you can borrow, mmm",
+      "valence": 3.36,
+      "arousal": 3.42,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Go follow where the wind blows, mmm Sometimes, we all feel hollow My heart, girl, you can borrow, mmm Please don't make this all about you",
+      "valence": 2.92,
+      "arousal": 3.46,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Sometimes, we all feel hollow My heart, girl, you can borrow, mmm Please don't make this all about you Please don't make this all about you",
+      "valence": 2.81,
+      "arousal": 3.47,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "My heart, girl, you can borrow, mmm Please don't make this all about you Please don't make this all about you Please don't make this all about you",
+      "valence": 3.28,
+      "arousal": 3.66,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Please don't make this all about you Please don't make this all about you Please don't make this all about you Please don't make this all about you",
+      "valence": 2.69,
+      "arousal": 3.44,
+      "dominance": 3.18
+    }
+  ]
+}

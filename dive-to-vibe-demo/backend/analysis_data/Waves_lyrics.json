@@ -1,0 +1,388 @@
+{
+  "artist": "Luke Bryan",
+  "overall_vad": {
+    "valence": 3.26,
+    "arousal": 3.54,
+    "dominance": 3.23
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "It's like the sun went down just to frame your face Like they played that song just to see you sway Like that old surf shop had you in mind With what you got on, making those tan lines",
+      "valence": 3.12,
+      "arousal": 3.24,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Like they played that song just to see you sway Like that old surf shop had you in mind With what you got on, making those tan lines It's like the ocean knows we're laying",
+      "valence": 3.2,
+      "arousal": 3.36,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Like that old surf shop had you in mind With what you got on, making those tan lines It's like the ocean knows we're laying On this beach tonight",
+      "valence": 3.25,
+      "arousal": 3.31,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "With what you got on, making those tan lines It's like the ocean knows we're laying On this beach tonight It's like the sand's been waiting",
+      "valence": 3.27,
+      "arousal": 3.3,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "It's like the ocean knows we're laying On this beach tonight It's like the sand's been waiting For you to come alive 'cause",
+      "valence": 3.47,
+      "arousal": 3.58,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "On this beach tonight It's like the sand's been waiting For you to come alive 'cause You were made for summer",
+      "valence": 3.42,
+      "arousal": 3.52,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "It's like the sand's been waiting For you to come alive 'cause You were made for summer Just like these stars we're under",
+      "valence": 3.41,
+      "arousal": 3.49,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "For you to come alive 'cause You were made for summer Just like these stars we're under Were made for lighting this July sky up",
+      "valence": 3.46,
+      "arousal": 3.6,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "You were made for summer Just like these stars we're under Were made for lighting this July sky up Blanket down, made for me and you tied up",
+      "valence": 3.2,
+      "arousal": 3.31,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Just like these stars we're under Were made for lighting this July sky up Blanket down, made for me and you tied up All night long, over and over",
+      "valence": 3.04,
+      "arousal": 3.26,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Were made for lighting this July sky up Blanket down, made for me and you tied up All night long, over and over Crash into me and pull me closer",
+      "valence": 3.29,
+      "arousal": 3.65,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Blanket down, made for me and you tied up All night long, over and over Crash into me and pull me closer Kiss by kiss, one after another",
+      "valence": 3.41,
+      "arousal": 3.8,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "All night long, over and over Crash into me and pull me closer Kiss by kiss, one after another Don't let go, baby let this summer",
+      "valence": 3.33,
+      "arousal": 3.83,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Crash into me and pull me closer Kiss by kiss, one after another Don't let go, baby let this summer Just keep on coming in waves",
+      "valence": 3.47,
+      "arousal": 3.93,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Kiss by kiss, one after another Don't let go, baby let this summer Just keep on coming in waves Keep coming in waves",
+      "valence": 3.46,
+      "arousal": 3.61,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Don't let go, baby let this summer Just keep on coming in waves Keep coming in waves Keep on coming in waves",
+      "valence": 3.05,
+      "arousal": 3.46,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Just keep on coming in waves Keep coming in waves Keep on coming in waves Keep coming in waves",
+      "valence": 3.05,
+      "arousal": 3.4,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Keep coming in waves Keep on coming in waves Keep coming in waves Wish I could bottle up the taste on your lips",
+      "valence": 3.25,
+      "arousal": 3.78,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Keep on coming in waves Keep coming in waves Wish I could bottle up the taste on your lips That margarita salt water sunburned sip",
+      "valence": 3.18,
+      "arousal": 3.64,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Keep coming in waves Wish I could bottle up the taste on your lips That margarita salt water sunburned sip It's like I feel that sun right next to me",
+      "valence": 3.29,
+      "arousal": 3.63,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Wish I could bottle up the taste on your lips That margarita salt water sunburned sip It's like I feel that sun right next to me Yeah, girl your touch is a hundred degrees",
+      "valence": 3.31,
+      "arousal": 3.68,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "That margarita salt water sunburned sip It's like I feel that sun right next to me Yeah, girl your touch is a hundred degrees Boardwalks were made for dancing",
+      "valence": 3.3,
+      "arousal": 3.43,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "It's like I feel that sun right next to me Yeah, girl your touch is a hundred degrees Boardwalks were made for dancing And flip flops were made to lose like",
+      "valence": 3.36,
+      "arousal": 3.51,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Yeah, girl your touch is a hundred degrees Boardwalks were made for dancing And flip flops were made to lose like This night was meant to happen",
+      "valence": 3.33,
+      "arousal": 3.49,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Boardwalks were made for dancing And flip flops were made to lose like This night was meant to happen And girl I was made for you like",
+      "valence": 3.17,
+      "arousal": 3.43,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "And flip flops were made to lose like This night was meant to happen And girl I was made for you like You were made for summer",
+      "valence": 3.12,
+      "arousal": 3.39,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "This night was meant to happen And girl I was made for you like You were made for summer Just like these stars we're under",
+      "valence": 3.29,
+      "arousal": 3.47,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "And girl I was made for you like You were made for summer Just like these stars we're under Were made for lighting this July sky up",
+      "valence": 3.39,
+      "arousal": 3.47,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "You were made for summer Just like these stars we're under Were made for lighting this July sky up Blanket down made for me and you tied up",
+      "valence": 3.19,
+      "arousal": 3.34,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Just like these stars we're under Were made for lighting this July sky up Blanket down made for me and you tied up All night long, over and over",
+      "valence": 3.01,
+      "arousal": 3.3,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Were made for lighting this July sky up Blanket down made for me and you tied up All night long, over and over Crash into me and pull me closer",
+      "valence": 3.27,
+      "arousal": 3.64,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Blanket down made for me and you tied up All night long, over and over Crash into me and pull me closer Kiss by kiss, one after another",
+      "valence": 3.42,
+      "arousal": 3.8,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "All night long, over and over Crash into me and pull me closer Kiss by kiss, one after another Don't let go, baby let this summer",
+      "valence": 3.33,
+      "arousal": 3.83,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Crash into me and pull me closer Kiss by kiss, one after another Don't let go, baby let this summer Just keep on coming in waves",
+      "valence": 3.47,
+      "arousal": 3.93,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Kiss by kiss, one after another Don't let go, baby let this summer Just keep on coming in waves Keep coming in waves",
+      "valence": 3.46,
+      "arousal": 3.61,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Don't let go, baby let this summer Just keep on coming in waves Keep coming in waves Keep on coming in waves",
+      "valence": 3.05,
+      "arousal": 3.46,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Just keep on coming in waves Keep coming in waves Keep on coming in waves Keep coming in waves",
+      "valence": 3.05,
+      "arousal": 3.4,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Keep coming in waves Keep on coming in waves Keep coming in waves Keep on coming in waves",
+      "valence": 3.04,
+      "arousal": 3.46,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Keep on coming in waves Keep coming in waves Keep on coming in waves Keep coming in waves",
+      "valence": 3.04,
+      "arousal": 3.5,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Keep coming in waves Keep on coming in waves Keep coming in waves Keep on coming in waves",
+      "valence": 3.04,
+      "arousal": 3.46,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Keep on coming in waves Keep coming in waves Keep on coming in waves Keep coming in waves",
+      "valence": 3.04,
+      "arousal": 3.5,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Keep coming in waves Keep on coming in waves Keep coming in waves Baby",
+      "valence": 3.11,
+      "arousal": 3.51,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Keep on coming in waves Keep coming in waves Baby You were made for summer",
+      "valence": 3.35,
+      "arousal": 3.54,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Keep coming in waves Baby You were made for summer Just like these stars we're under",
+      "valence": 3.41,
+      "arousal": 3.42,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Baby You were made for summer Just like these stars we're under Were made for lighting this July sky up",
+      "valence": 3.39,
+      "arousal": 3.39,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "You were made for summer Just like these stars we're under Were made for lighting this July sky up Blanket down made for me and you tied up",
+      "valence": 3.19,
+      "arousal": 3.34,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Just like these stars we're under Were made for lighting this July sky up Blanket down made for me and you tied up All night long, over and over",
+      "valence": 3.01,
+      "arousal": 3.3,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Were made for lighting this July sky up Blanket down made for me and you tied up All night long, over and over Crash into me and pull me closer",
+      "valence": 3.27,
+      "arousal": 3.64,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Blanket down made for me and you tied up All night long, over and over Crash into me and pull me closer Kiss by kiss, one after another",
+      "valence": 3.42,
+      "arousal": 3.8,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "All night long, over and over Crash into me and pull me closer Kiss by kiss, one after another Don't let go, baby let this summer",
+      "valence": 3.33,
+      "arousal": 3.83,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Crash into me and pull me closer Kiss by kiss, one after another Don't let go, baby let this summer Just keep on coming in waves",
+      "valence": 3.47,
+      "arousal": 3.93,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Kiss by kiss, one after another Don't let go, baby let this summer Just keep on coming in waves Keep coming in waves",
+      "valence": 3.46,
+      "arousal": 3.61,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Don't let go, baby let this summer Just keep on coming in waves Keep coming in waves Keep on coming in waves",
+      "valence": 3.05,
+      "arousal": 3.46,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Just keep on coming in waves Keep coming in waves Keep on coming in waves Keep coming in waves",
+      "valence": 3.05,
+      "arousal": 3.4,
+      "dominance": 3.46
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "artist": "Olivia Rodrigo",
+  "overall_vad": {
+    "valence": 2.65,
+    "arousal": 3.4,
+    "dominance": 3.04
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I wore makeup when we dated 'Cause I thought you'd like me more If I looked like the other prom queens I know that you loved before",
+      "valence": 3.19,
+      "arousal": 3.33,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "'Cause I thought you'd like me more If I looked like the other prom queens I know that you loved before Tried so hard to be everything that you liked",
+      "valence": 3.2,
+      "arousal": 3.33,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "If I looked like the other prom queens I know that you loved before Tried so hard to be everything that you liked Just for you to say you're not the compliment type",
+      "valence": 2.83,
+      "arousal": 3.29,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I know that you loved before Tried so hard to be everything that you liked Just for you to say you're not the compliment type And I knew how you took your coffee",
+      "valence": 2.85,
+      "arousal": 3.24,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Tried so hard to be everything that you liked Just for you to say you're not the compliment type And I knew how you took your coffee And your favorite songs by heart",
+      "valence": 2.91,
+      "arousal": 3.3,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Just for you to say you're not the compliment type And I knew how you took your coffee And your favorite songs by heart I read all of your self-help books",
+      "valence": 3.05,
+      "arousal": 3.16,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "And I knew how you took your coffee And your favorite songs by heart I read all of your self-help books So you'd think that I was smart",
+      "valence": 3.32,
+      "arousal": 3.17,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "And your favorite songs by heart I read all of your self-help books So you'd think that I was smart Stupid, emotional, obsessive little me",
+      "valence": 3.02,
+      "arousal": 3.16,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I read all of your self-help books So you'd think that I was smart Stupid, emotional, obsessive little me I knew from the start this is exactly how you'd leave",
+      "valence": 2.75,
+      "arousal": 3.35,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "So you'd think that I was smart Stupid, emotional, obsessive little me I knew from the start this is exactly how you'd leave You found someone more exciting",
+      "valence": 3.03,
+      "arousal": 3.52,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Stupid, emotional, obsessive little me I knew from the start this is exactly how you'd leave You found someone more exciting The next second, you were gone",
+      "valence": 2.81,
+      "arousal": 3.58,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I knew from the start this is exactly how you'd leave You found someone more exciting The next second, you were gone And you left me there cryin', wonderin' what I did wrong",
+      "valence": 2.91,
+      "arousal": 3.64,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "You found someone more exciting The next second, you were gone And you left me there cryin', wonderin' what I did wrong And you always say I'm never satisfied",
+      "valence": 2.67,
+      "arousal": 3.59,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "The next second, you were gone And you left me there cryin', wonderin' what I did wrong And you always say I'm never satisfied But I don't think that's true",
+      "valence": 2.24,
+      "arousal": 3.37,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And you left me there cryin', wonderin' what I did wrong And you always say I'm never satisfied But I don't think that's true 'Cause all I ever wanted was to be enough for you",
+      "valence": 2.41,
+      "arousal": 3.37,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "And you always say I'm never satisfied But I don't think that's true 'Cause all I ever wanted was to be enough for you And all I ever wanted was to be enough for you",
+      "valence": 2.81,
+      "arousal": 3.27,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "But I don't think that's true 'Cause all I ever wanted was to be enough for you And all I ever wanted was to be enough for you And maybe I'm just not as interesting",
+      "valence": 2.56,
+      "arousal": 3.1,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "'Cause all I ever wanted was to be enough for you And all I ever wanted was to be enough for you And maybe I'm just not as interesting As the girls you had before",
+      "valence": 2.67,
+      "arousal": 3.27,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "And all I ever wanted was to be enough for you And maybe I'm just not as interesting As the girls you had before But God, you couldn't have cared less",
+      "valence": 2.51,
+      "arousal": 3.32,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "And maybe I'm just not as interesting As the girls you had before But God, you couldn't have cared less About someone who loved you more",
+      "valence": 2.62,
+      "arousal": 3.15,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "As the girls you had before But God, you couldn't have cared less About someone who loved you more I'd say you broke my heart",
+      "valence": 2.3,
+      "arousal": 3.68,
+      "dominance": 2.56
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "But God, you couldn't have cared less About someone who loved you more I'd say you broke my heart But you broke much more than that",
+      "valence": 2.14,
+      "arousal": 3.79,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "About someone who loved you more I'd say you broke my heart But you broke much more than that Now I don't want your sympathy",
+      "valence": 2.2,
+      "arousal": 3.52,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I'd say you broke my heart But you broke much more than that Now I don't want your sympathy I just want myself back",
+      "valence": 2.1,
+      "arousal": 3.58,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "But you broke much more than that Now I don't want your sympathy I just want myself back Before you found someone more exciting",
+      "valence": 2.27,
+      "arousal": 3.61,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Now I don't want your sympathy I just want myself back Before you found someone more exciting The next second, you were gone",
+      "valence": 2.32,
+      "arousal": 3.54,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I just want myself back Before you found someone more exciting The next second, you were gone And you left me there cryin', wonderin' what I did wrong",
+      "valence": 2.36,
+      "arousal": 3.6,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Before you found someone more exciting The next second, you were gone And you left me there cryin', wonderin' what I did wrong And you always say I'm never satisfied",
+      "valence": 2.48,
+      "arousal": 3.45,
+      "dominance": 2.77
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "The next second, you were gone And you left me there cryin', wonderin' what I did wrong And you always say I'm never satisfied But I don't think that's true",
+      "valence": 2.24,
+      "arousal": 3.37,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "And you left me there cryin', wonderin' what I did wrong And you always say I'm never satisfied But I don't think that's true 'Cause all I ever wanted was to be enough",
+      "valence": 2.35,
+      "arousal": 3.33,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "And you always say I'm never satisfied But I don't think that's true 'Cause all I ever wanted was to be enough Don't you think I loved you too much to be used and discarded?",
+      "valence": 2.62,
+      "arousal": 3.28,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "But I don't think that's true 'Cause all I ever wanted was to be enough Don't you think I loved you too much to be used and discarded? Don't you think I loved you too much to think I deserve nothing?",
+      "valence": 2.59,
+      "arousal": 3.36,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "'Cause all I ever wanted was to be enough Don't you think I loved you too much to be used and discarded? Don't you think I loved you too much to think I deserve nothing? But don't tell me you're sorry, boy",
+      "valence": 2.55,
+      "arousal": 3.49,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Don't you think I loved you too much to be used and discarded? Don't you think I loved you too much to think I deserve nothing? But don't tell me you're sorry, boy Feel sorry for yourself",
+      "valence": 2.48,
+      "arousal": 3.53,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Don't you think I loved you too much to think I deserve nothing? But don't tell me you're sorry, boy Feel sorry for yourself 'Cause someday I'll be everything to somebody else",
+      "valence": 2.72,
+      "arousal": 3.63,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "But don't tell me you're sorry, boy Feel sorry for yourself 'Cause someday I'll be everything to somebody else And they'll think that I am so exciting",
+      "valence": 3.17,
+      "arousal": 3.69,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Feel sorry for yourself 'Cause someday I'll be everything to somebody else And they'll think that I am so exciting And you'll be the one who's crying",
+      "valence": 2.77,
+      "arousal": 3.55,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "'Cause someday I'll be everything to somebody else And they'll think that I am so exciting And you'll be the one who's crying Yeah, you always say I'm never satisfied",
+      "valence": 3.19,
+      "arousal": 3.63,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "And they'll think that I am so exciting And you'll be the one who's crying Yeah, you always say I'm never satisfied But I don't think that's true",
+      "valence": 2.79,
+      "arousal": 3.38,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "And you'll be the one who's crying Yeah, you always say I'm never satisfied But I don't think that's true You say I'm never satisfied",
+      "valence": 2.45,
+      "arousal": 3.26,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Yeah, you always say I'm never satisfied But I don't think that's true You say I'm never satisfied But that's not me, it's you",
+      "valence": 2.52,
+      "arousal": 3.21,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "But I don't think that's true You say I'm never satisfied But that's not me, it's you 'Cause all I ever wanted was to be enough",
+      "valence": 2.57,
+      "arousal": 3.26,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "You say I'm never satisfied But that's not me, it's you 'Cause all I ever wanted was to be enough But I don't think anything could ever be enough",
+      "valence": 2.51,
+      "arousal": 3.28,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "But that's not me, it's you 'Cause all I ever wanted was to be enough But I don't think anything could ever be enough For you, enough for you, oh-oh",
+      "valence": 2.7,
+      "arousal": 3.26,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "'Cause all I ever wanted was to be enough But I don't think anything could ever be enough For you, enough for you, oh-oh No, nothing's enough for you",
+      "valence": 2.56,
+      "arousal": 3.28,
+      "dominance": 2.83
+    }
+  ]
+}

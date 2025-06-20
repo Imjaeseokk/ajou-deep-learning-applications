@@ -1,0 +1,220 @@
+{
+  "artist": "Blake Shelton",
+  "overall_vad": {
+    "valence": 3.29,
+    "arousal": 3.6,
+    "dominance": 3.25
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "You're crashin' into me like waves on the coast Every time we talk, you move in close I don't want you to stop, I don't want you to stop tonight We got the last two glasses on a straw hut bar",
+      "valence": 2.61,
+      "arousal": 3.65,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Every time we talk, you move in close I don't want you to stop, I don't want you to stop tonight We got the last two glasses on a straw hut bar Tryin' to remember what number we are",
+      "valence": 2.52,
+      "arousal": 3.39,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I don't want you to stop, I don't want you to stop tonight We got the last two glasses on a straw hut bar Tryin' to remember what number we are String of white lights making your eyes shine tonight",
+      "valence": 2.8,
+      "arousal": 3.55,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "We got the last two glasses on a straw hut bar Tryin' to remember what number we are String of white lights making your eyes shine tonight We're buzzing like that no vacancy sign out front",
+      "valence": 3.06,
+      "arousal": 3.36,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Tryin' to remember what number we are String of white lights making your eyes shine tonight We're buzzing like that no vacancy sign out front Your skin is begging to be kissed by a little more than the sun",
+      "valence": 3.08,
+      "arousal": 3.5,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "String of white lights making your eyes shine tonight We're buzzing like that no vacancy sign out front Your skin is begging to be kissed by a little more than the sun You take my hand in yours, you lean in and",
+      "valence": 3.47,
+      "arousal": 3.63,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "We're buzzing like that no vacancy sign out front Your skin is begging to be kissed by a little more than the sun You take my hand in yours, you lean in and Your lips taste like sangria",
+      "valence": 3.42,
+      "arousal": 3.75,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Your skin is begging to be kissed by a little more than the sun You take my hand in yours, you lean in and Your lips taste like sangria Your lips taste like sangria",
+      "valence": 3.61,
+      "arousal": 3.84,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "You take my hand in yours, you lean in and Your lips taste like sangria Your lips taste like sangria Wreckin' ball dancin' down the hallway",
+      "valence": 3.5,
+      "arousal": 3.71,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Your lips taste like sangria Your lips taste like sangria Wreckin' ball dancin' down the hallway You're holding your shoes, wearing my shades",
+      "valence": 3.35,
+      "arousal": 3.45,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Your lips taste like sangria Wreckin' ball dancin' down the hallway You're holding your shoes, wearing my shades We fall against the door, we fall into a wild warm kiss",
+      "valence": 3.61,
+      "arousal": 3.72,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Wreckin' ball dancin' down the hallway You're holding your shoes, wearing my shades We fall against the door, we fall into a wild warm kiss We're buzzing like that no vacancy sign out front",
+      "valence": 3.38,
+      "arousal": 3.59,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "You're holding your shoes, wearing my shades We fall against the door, we fall into a wild warm kiss We're buzzing like that no vacancy sign out front Your skin is begging to be kissed by a little more than the sun",
+      "valence": 3.65,
+      "arousal": 3.83,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "We fall against the door, we fall into a wild warm kiss We're buzzing like that no vacancy sign out front Your skin is begging to be kissed by a little more than the sun You take my hand in yours, you lean in and",
+      "valence": 3.64,
+      "arousal": 3.91,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "We're buzzing like that no vacancy sign out front Your skin is begging to be kissed by a little more than the sun You take my hand in yours, you lean in and Your lips taste like sangria",
+      "valence": 3.42,
+      "arousal": 3.75,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Your skin is begging to be kissed by a little more than the sun You take my hand in yours, you lean in and Your lips taste like sangria Your lips taste like sangria",
+      "valence": 3.61,
+      "arousal": 3.84,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "You take my hand in yours, you lean in and Your lips taste like sangria Your lips taste like sangria Only thing I wanna do tonight",
+      "valence": 3.54,
+      "arousal": 3.73,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Your lips taste like sangria Your lips taste like sangria Only thing I wanna do tonight Is drink you like a Spanish wine",
+      "valence": 3.41,
+      "arousal": 3.61,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Your lips taste like sangria Only thing I wanna do tonight Is drink you like a Spanish wine Let you let this head of mine keep spinning, spinning around",
+      "valence": 3.14,
+      "arousal": 3.43,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Only thing I wanna do tonight Is drink you like a Spanish wine Let you let this head of mine keep spinning, spinning around We're buzzing like that no vacancy sign out front",
+      "valence": 2.87,
+      "arousal": 3.43,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Is drink you like a Spanish wine Let you let this head of mine keep spinning, spinning around We're buzzing like that no vacancy sign out front Your skin is begging to be kissed by a little more than the sun",
+      "valence": 3.03,
+      "arousal": 3.39,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Let you let this head of mine keep spinning, spinning around We're buzzing like that no vacancy sign out front Your skin is begging to be kissed by a little more than the sun You take my hand in yours, you lean in and",
+      "valence": 3.18,
+      "arousal": 3.53,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "We're buzzing like that no vacancy sign out front Your skin is begging to be kissed by a little more than the sun You take my hand in yours, you lean in and Your lips taste like sangria",
+      "valence": 3.42,
+      "arousal": 3.75,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Your skin is begging to be kissed by a little more than the sun You take my hand in yours, you lean in and Your lips taste like sangria Your lips taste like sangria",
+      "valence": 3.61,
+      "arousal": 3.84,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "You take my hand in yours, you lean in and Your lips taste like sangria Your lips taste like sangria Your lips taste like sangria",
+      "valence": 3.58,
+      "arousal": 3.71,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Your lips taste like sangria Your lips taste like sangria Your lips taste like sangria Your lips taste like sangria",
+      "valence": 3.35,
+      "arousal": 3.39,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Your lips taste like sangria Your lips taste like sangria Your lips taste like sangria Oh",
+      "valence": 3.29,
+      "arousal": 3.39,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Your lips taste like sangria Your lips taste like sangria Oh Only thing I wanna do tonight",
+      "valence": 3.28,
+      "arousal": 3.55,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Your lips taste like sangria Oh Only thing I wanna do tonight Is drink you like a Spanish wine",
+      "valence": 3.33,
+      "arousal": 3.51,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Oh Only thing I wanna do tonight Is drink you like a Spanish wine Let you let this head of mine keep spinning, spinning around",
+      "valence": 2.91,
+      "arousal": 3.37,
+      "dominance": 3.28
+    }
+  ]
+}

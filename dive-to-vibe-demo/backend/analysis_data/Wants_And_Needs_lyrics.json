@@ -1,0 +1,458 @@
+{
+  "artist": "Drake Featuring Lil Baby",
+  "overall_vad": {
+    "valence": 2.91,
+    "arousal": 3.52,
+    "dominance": 3.36
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Six Yeah Yeah Yeah",
+      "valence": 3.23,
+      "arousal": 3.12,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Yeah Yeah Yeah Leave me out the comments, leave me out the nonsense",
+      "valence": 2.92,
+      "arousal": 3.23,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Yeah Yeah Leave me out the comments, leave me out the nonsense Speakin' out of context, people need some content",
+      "valence": 2.83,
+      "arousal": 3.3,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Yeah Leave me out the comments, leave me out the nonsense Speakin' out of context, people need some content Niggas tryna keep up, shit is not a contest",
+      "valence": 2.43,
+      "arousal": 3.54,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Leave me out the comments, leave me out the nonsense Speakin' out of context, people need some content Niggas tryna keep up, shit is not a contest Whippin' Benz concept, Heaven-sent, God-sent",
+      "valence": 2.41,
+      "arousal": 3.47,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Speakin' out of context, people need some content Niggas tryna keep up, shit is not a contest Whippin' Benz concept, Heaven-sent, God-sent Least that's what my mom says",
+      "valence": 2.4,
+      "arousal": 3.41,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Niggas tryna keep up, shit is not a contest Whippin' Benz concept, Heaven-sent, God-sent Least that's what my mom says Proof is in the progress, money's not a object",
+      "valence": 2.4,
+      "arousal": 3.4,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Whippin' Benz concept, Heaven-sent, God-sent Least that's what my mom says Proof is in the progress, money's not a object Busy than a motherfucker, you know how my job get",
+      "valence": 2.59,
+      "arousal": 3.48,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Least that's what my mom says Proof is in the progress, money's not a object Busy than a motherfucker, you know how my job get Barkin' up the wrong tree, you know how the dogs get",
+      "valence": 2.3,
+      "arousal": 3.35,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Proof is in the progress, money's not a object Busy than a motherfucker, you know how my job get Barkin' up the wrong tree, you know how the dogs get Haven't fallen off yet, yee",
+      "valence": 2.45,
+      "arousal": 3.35,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Busy than a motherfucker, you know how my job get Barkin' up the wrong tree, you know how the dogs get Haven't fallen off yet, yee Come with a classic, they come around years later and say it's a sleeper",
+      "valence": 2.68,
+      "arousal": 3.51,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Barkin' up the wrong tree, you know how the dogs get Haven't fallen off yet, yee Come with a classic, they come around years later and say it's a sleeper The earrings are real, the petty is real, might charge my ex for a feature",
+      "valence": 2.9,
+      "arousal": 3.25,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Haven't fallen off yet, yee Come with a classic, they come around years later and say it's a sleeper The earrings are real, the petty is real, might charge my ex for a feature Deposit the money to Brenda, LaTisha or Linda, Felicia",
+      "valence": 3.14,
+      "arousal": 3.34,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Come with a classic, they come around years later and say it's a sleeper The earrings are real, the petty is real, might charge my ex for a feature Deposit the money to Brenda, LaTisha or Linda, Felicia She came for me twice, I didn't even nut for her once, you know I'm a pleaser",
+      "valence": 3.25,
+      "arousal": 3.41,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "The earrings are real, the petty is real, might charge my ex for a feature Deposit the money to Brenda, LaTisha or Linda, Felicia She came for me twice, I didn't even nut for her once, you know I'm a pleaser 42 millimeter, was made in Geneva",
+      "valence": 2.92,
+      "arousal": 3.26,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Deposit the money to Brenda, LaTisha or Linda, Felicia She came for me twice, I didn't even nut for her once, you know I'm a pleaser 42 millimeter, was made in Geneva Yeah, I probably should go to Yeshiva, we went to Ibiza",
+      "valence": 3.08,
+      "arousal": 3.21,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "She came for me twice, I didn't even nut for her once, you know I'm a pleaser 42 millimeter, was made in Geneva Yeah, I probably should go to Yeshiva, we went to Ibiza Yeah, I probably should go link with Yeezy, I need me some Jesus",
+      "valence": 2.93,
+      "arousal": 3.31,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "42 millimeter, was made in Geneva Yeah, I probably should go to Yeshiva, we went to Ibiza Yeah, I probably should go link with Yeezy, I need me some Jesus But soon as I started confessin' my sins, he wouldn't believe us",
+      "valence": 2.68,
+      "arousal": 3.17,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Yeah, I probably should go to Yeshiva, we went to Ibiza Yeah, I probably should go link with Yeezy, I need me some Jesus But soon as I started confessin' my sins, he wouldn't believe us Sins, I got sins on my mind",
+      "valence": 2.6,
+      "arousal": 3.24,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Yeah, I probably should go link with Yeezy, I need me some Jesus But soon as I started confessin' my sins, he wouldn't believe us Sins, I got sins on my mind And some M's, got a lot of M's on my mind",
+      "valence": 2.51,
+      "arousal": 3.3,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "But soon as I started confessin' my sins, he wouldn't believe us Sins, I got sins on my mind And some M's, got a lot of M's on my mind And my friends, yeah, I keep my friends on my mind",
+      "valence": 2.59,
+      "arousal": 3.32,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Sins, I got sins on my mind And some M's, got a lot of M's on my mind And my friends, yeah, I keep my friends on my mind I'm in love, I'm in love with two girls at one time",
+      "valence": 3.28,
+      "arousal": 3.73,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "And some M's, got a lot of M's on my mind And my friends, yeah, I keep my friends on my mind I'm in love, I'm in love with two girls at one time And they tens, that's why I got ten on my mind",
+      "valence": 3.53,
+      "arousal": 3.75,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "And my friends, yeah, I keep my friends on my mind I'm in love, I'm in love with two girls at one time And they tens, that's why I got ten on my mind I got M's, got a lot of M's on my mind",
+      "valence": 3.8,
+      "arousal": 3.9,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I'm in love, I'm in love with two girls at one time And they tens, that's why I got ten on my mind I got M's, got a lot of M's on my mind And my friends, yeah, I keep my friends on my mind",
+      "valence": 3.81,
+      "arousal": 3.9,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "And they tens, that's why I got ten on my mind I got M's, got a lot of M's on my mind And my friends, yeah, I keep my friends on my mind Should repent, I need me some Jesus in my life",
+      "valence": 2.76,
+      "arousal": 3.39,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I got M's, got a lot of M's on my mind And my friends, yeah, I keep my friends on my mind Should repent, I need me some Jesus in my life Amen",
+      "valence": 2.8,
+      "arousal": 3.4,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "And my friends, yeah, I keep my friends on my mind Should repent, I need me some Jesus in my life Amen I'm from the four, but I love me a threesome",
+      "valence": 3.05,
+      "arousal": 3.56,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Should repent, I need me some Jesus in my life Amen I'm from the four, but I love me a threesome DM her, delete it, she my lil' secret",
+      "valence": 2.76,
+      "arousal": 3.53,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Amen I'm from the four, but I love me a threesome DM her, delete it, she my lil' secret He tryna diss me to blow up, I peep it",
+      "valence": 3.5,
+      "arousal": 3.8,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I'm from the four, but I love me a threesome DM her, delete it, she my lil' secret He tryna diss me to blow up, I peep it I can't respond, we just go at your people",
+      "valence": 3.33,
+      "arousal": 3.97,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "DM her, delete it, she my lil' secret He tryna diss me to blow up, I peep it I can't respond, we just go at your people If I left some racks on the bed, you can keep it",
+      "valence": 2.42,
+      "arousal": 3.61,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "He tryna diss me to blow up, I peep it I can't respond, we just go at your people If I left some racks on the bed, you can keep it This shit gettin' deeper and deeper, I dig it",
+      "valence": 2.3,
+      "arousal": 3.65,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I can't respond, we just go at your people If I left some racks on the bed, you can keep it This shit gettin' deeper and deeper, I dig it My shovel wasn't bent, I was broke, had to fix it",
+      "valence": 2.18,
+      "arousal": 3.62,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "If I left some racks on the bed, you can keep it This shit gettin' deeper and deeper, I dig it My shovel wasn't bent, I was broke, had to fix it A shark in the water, you swim with the lil' fishes",
+      "valence": 2.6,
+      "arousal": 3.44,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "This shit gettin' deeper and deeper, I dig it My shovel wasn't bent, I was broke, had to fix it A shark in the water, you swim with the lil' fishes I hit today, by tomorrow, she miss it",
+      "valence": 2.53,
+      "arousal": 3.57,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "My shovel wasn't bent, I was broke, had to fix it A shark in the water, you swim with the lil' fishes I hit today, by tomorrow, she miss it I grab her neck, she look up, then I kiss it",
+      "valence": 2.95,
+      "arousal": 3.76,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "A shark in the water, you swim with the lil' fishes I hit today, by tomorrow, she miss it I grab her neck, she look up, then I kiss it I'm not a GOAT, but I fit the description",
+      "valence": 3.26,
+      "arousal": 3.61,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I hit today, by tomorrow, she miss it I grab her neck, she look up, then I kiss it I'm not a GOAT, but I fit the description I like to pour, so I get the prescription",
+      "valence": 3.25,
+      "arousal": 3.68,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "I grab her neck, she look up, then I kiss it I'm not a GOAT, but I fit the description I like to pour, so I get the prescription We walk around with them bands in our britches",
+      "valence": 3.33,
+      "arousal": 3.65,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I'm not a GOAT, but I fit the description I like to pour, so I get the prescription We walk around with them bands in our britches This gun ain't gon' jam, when I blow, I ain't missin'",
+      "valence": 3.03,
+      "arousal": 3.2,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "I like to pour, so I get the prescription We walk around with them bands in our britches This gun ain't gon' jam, when I blow, I ain't missin' I'm droppin' hit after hit, I'm just chillin'",
+      "valence": 3.12,
+      "arousal": 3.07,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "We walk around with them bands in our britches This gun ain't gon' jam, when I blow, I ain't missin' I'm droppin' hit after hit, I'm just chillin' But I'll send a hit while I chill with my children",
+      "valence": 2.95,
+      "arousal": 3.27,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "This gun ain't gon' jam, when I blow, I ain't missin' I'm droppin' hit after hit, I'm just chillin' But I'll send a hit while I chill with my children Bigger the business, the bigger the office",
+      "valence": 2.9,
+      "arousal": 3.37,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I'm droppin' hit after hit, I'm just chillin' But I'll send a hit while I chill with my children Bigger the business, the bigger the office I fucked 'round and found me a swag, then I caught up",
+      "valence": 3.1,
+      "arousal": 3.39,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "But I'll send a hit while I chill with my children Bigger the business, the bigger the office I fucked 'round and found me a swag, then I caught up They call for my artists, they makin' me offers",
+      "valence": 3.31,
+      "arousal": 3.6,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Bigger the business, the bigger the office I fucked 'round and found me a swag, then I caught up They call for my artists, they makin' me offers I don't even bargain, I'll start from the bottom",
+      "valence": 3.27,
+      "arousal": 3.53,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I fucked 'round and found me a swag, then I caught up They call for my artists, they makin' me offers I don't even bargain, I'll start from the bottom I lost a Ferrari, Las Vegas, Nevada",
+      "valence": 3.0,
+      "arousal": 3.63,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "They call for my artists, they makin' me offers I don't even bargain, I'll start from the bottom I lost a Ferrari, Las Vegas, Nevada I woke up the followin' day and went harder",
+      "valence": 3.03,
+      "arousal": 3.46,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I don't even bargain, I'll start from the bottom I lost a Ferrari, Las Vegas, Nevada I woke up the followin' day and went harder I'm crackin' my shell now, they see that I'm smarter",
+      "valence": 2.5,
+      "arousal": 3.42,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I lost a Ferrari, Las Vegas, Nevada I woke up the followin' day and went harder I'm crackin' my shell now, they see that I'm smarter I gotta get money, I love to get charter",
+      "valence": 2.78,
+      "arousal": 3.66,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "I woke up the followin' day and went harder I'm crackin' my shell now, they see that I'm smarter I gotta get money, I love to get charter I gave her four Birkins and one's for her daughter",
+      "valence": 3.18,
+      "arousal": 3.66,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "I'm crackin' my shell now, they see that I'm smarter I gotta get money, I love to get charter I gave her four Birkins and one's for her daughter I can't let 'em down, walk around with my guard up",
+      "valence": 2.81,
+      "arousal": 3.62,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "I gotta get money, I love to get charter I gave her four Birkins and one's for her daughter I can't let 'em down, walk around with my guard up I'm screamin' out, \"YOLO, \" yeah, that's still the motto",
+      "valence": 2.96,
+      "arousal": 3.9,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "I gave her four Birkins and one's for her daughter I can't let 'em down, walk around with my guard up I'm screamin' out, \"YOLO, \" yeah, that's still the motto I know I be on some shit that they ain't thought of",
+      "valence": 2.52,
+      "arousal": 3.98,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "I can't let 'em down, walk around with my guard up I'm screamin' out, \"YOLO, \" yeah, that's still the motto I know I be on some shit that they ain't thought of Sins, I got sins on my mind",
+      "valence": 2.25,
+      "arousal": 3.93,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "I'm screamin' out, \"YOLO, \" yeah, that's still the motto I know I be on some shit that they ain't thought of Sins, I got sins on my mind And some M's, got a lot of M's on my mind",
+      "valence": 2.5,
+      "arousal": 3.99,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "I know I be on some shit that they ain't thought of Sins, I got sins on my mind And some M's, got a lot of M's on my mind And my friends, yeah, I keep my friends on my mind",
+      "valence": 2.64,
+      "arousal": 3.33,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Sins, I got sins on my mind And some M's, got a lot of M's on my mind And my friends, yeah, I keep my friends on my mind I'm in love, I'm in love with two girls at one time",
+      "valence": 3.28,
+      "arousal": 3.73,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "And some M's, got a lot of M's on my mind And my friends, yeah, I keep my friends on my mind I'm in love, I'm in love with two girls at one time And they tens, that's why I got ten on my mind",
+      "valence": 3.53,
+      "arousal": 3.75,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "And my friends, yeah, I keep my friends on my mind I'm in love, I'm in love with two girls at one time And they tens, that's why I got ten on my mind I got M's, got a lot of M's on my mind",
+      "valence": 3.8,
+      "arousal": 3.9,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "I'm in love, I'm in love with two girls at one time And they tens, that's why I got ten on my mind I got M's, got a lot of M's on my mind And my friends, yeah, I keep my friends on my mind",
+      "valence": 3.81,
+      "arousal": 3.9,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "And they tens, that's why I got ten on my mind I got M's, got a lot of M's on my mind And my friends, yeah, I keep my friends on my mind Should repent, I need me some Jesus in my life",
+      "valence": 2.76,
+      "arousal": 3.39,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "I got M's, got a lot of M's on my mind And my friends, yeah, I keep my friends on my mind Should repent, I need me some Jesus in my life Amen",
+      "valence": 2.8,
+      "arousal": 3.4,
+      "dominance": 3.15
+    }
+  ]
+}

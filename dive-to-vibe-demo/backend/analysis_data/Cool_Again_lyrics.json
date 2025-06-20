@@ -1,0 +1,255 @@
+{
+  "artist": "Kane Brown",
+  "overall_vad": {
+    "valence": 3.31,
+    "arousal": 3.5,
+    "dominance": 3.16
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I've been thinkin' 'bout ya lately Reminiscin', goin' crazy Miss the way your kiss would keep me up Ayy, wish that you were here tonight",
+      "valence": 3.33,
+      "arousal": 3.61,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Reminiscin', goin' crazy Miss the way your kiss would keep me up Ayy, wish that you were here tonight Drinkin' vodka soda, extra limes",
+      "valence": 3.38,
+      "arousal": 3.63,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Miss the way your kiss would keep me up Ayy, wish that you were here tonight Drinkin' vodka soda, extra limes And we could just get back to bein' us",
+      "valence": 3.48,
+      "arousal": 3.63,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Ayy, wish that you were here tonight Drinkin' vodka soda, extra limes And we could just get back to bein' us 'Cause I just wanna be cool again, cool again, cool again",
+      "valence": 3.24,
+      "arousal": 3.44,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Drinkin' vodka soda, extra limes And we could just get back to bein' us 'Cause I just wanna be cool again, cool again, cool again Like we were last summer",
+      "valence": 3.23,
+      "arousal": 3.29,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "And we could just get back to bein' us 'Cause I just wanna be cool again, cool again, cool again Like we were last summer Want you again, you again, you again",
+      "valence": 3.42,
+      "arousal": 3.46,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "'Cause I just wanna be cool again, cool again, cool again Like we were last summer Want you again, you again, you again To be stealin' my covers",
+      "valence": 3.53,
+      "arousal": 3.67,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Like we were last summer Want you again, you again, you again To be stealin' my covers All tangled in each other, nights still playin' back in my head",
+      "valence": 3.32,
+      "arousal": 3.69,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Want you again, you again, you again To be stealin' my covers All tangled in each other, nights still playin' back in my head I just wanna be cool again, cool again, cool again, yeah",
+      "valence": 3.58,
+      "arousal": 3.84,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "To be stealin' my covers All tangled in each other, nights still playin' back in my head I just wanna be cool again, cool again, cool again, yeah Do you ever think about",
+      "valence": 3.03,
+      "arousal": 3.53,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "All tangled in each other, nights still playin' back in my head I just wanna be cool again, cool again, cool again, yeah Do you ever think about The days we couldn't live without each other?",
+      "valence": 3.16,
+      "arousal": 3.52,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I just wanna be cool again, cool again, cool again, yeah Do you ever think about The days we couldn't live without each other? Where the hell did we go wrong?",
+      "valence": 3.0,
+      "arousal": 3.51,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Do you ever think about The days we couldn't live without each other? Where the hell did we go wrong? Ayy, how'd we go from that to this?",
+      "valence": 2.61,
+      "arousal": 3.32,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "The days we couldn't live without each other? Where the hell did we go wrong? Ayy, how'd we go from that to this? How'd we let a good thing slip?",
+      "valence": 2.54,
+      "arousal": 3.29,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Where the hell did we go wrong? Ayy, how'd we go from that to this? How'd we let a good thing slip? Do we really have to go move on?",
+      "valence": 2.56,
+      "arousal": 3.31,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Ayy, how'd we go from that to this? How'd we let a good thing slip? Do we really have to go move on? I just wanna be cool again, cool again, cool again",
+      "valence": 2.91,
+      "arousal": 3.4,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "How'd we let a good thing slip? Do we really have to go move on? I just wanna be cool again, cool again, cool again Like we were last summer",
+      "valence": 2.95,
+      "arousal": 3.31,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Do we really have to go move on? I just wanna be cool again, cool again, cool again Like we were last summer Want you again, you again, you again",
+      "valence": 3.26,
+      "arousal": 3.46,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I just wanna be cool again, cool again, cool again Like we were last summer Want you again, you again, you again To be stealin' my covers",
+      "valence": 3.5,
+      "arousal": 3.64,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Like we were last summer Want you again, you again, you again To be stealin' my covers All tangled in each other, nights still playin' back in my head",
+      "valence": 3.32,
+      "arousal": 3.69,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Want you again, you again, you again To be stealin' my covers All tangled in each other, nights still playin' back in my head I just wanna be cool again, cool again, cool again, yeah",
+      "valence": 3.58,
+      "arousal": 3.84,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "To be stealin' my covers All tangled in each other, nights still playin' back in my head I just wanna be cool again, cool again, cool again, yeah Yeah, I just wanna be, cool again",
+      "valence": 3.34,
+      "arousal": 3.41,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "All tangled in each other, nights still playin' back in my head I just wanna be cool again, cool again, cool again, yeah Yeah, I just wanna be, cool again (Cool again, cool again, cool again, cool again)",
+      "valence": 3.47,
+      "arousal": 3.35,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I just wanna be cool again, cool again, cool again, yeah Yeah, I just wanna be, cool again (Cool again, cool again, cool again, cool again) 'Cause I just wanna be cool again, cool again, cool again",
+      "valence": 3.58,
+      "arousal": 3.34,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Yeah, I just wanna be, cool again (Cool again, cool again, cool again, cool again) 'Cause I just wanna be cool again, cool again, cool again Like we were last summer",
+      "valence": 3.49,
+      "arousal": 3.31,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "(Cool again, cool again, cool again, cool again) 'Cause I just wanna be cool again, cool again, cool again Like we were last summer Want you again, you again, you again",
+      "valence": 3.63,
+      "arousal": 3.63,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "'Cause I just wanna be cool again, cool again, cool again Like we were last summer Want you again, you again, you again To be stealin' my covers",
+      "valence": 3.53,
+      "arousal": 3.67,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Like we were last summer Want you again, you again, you again To be stealin' my covers All tangled in each other, nights still playin' back in my head",
+      "valence": 3.32,
+      "arousal": 3.69,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Want you again, you again, you again To be stealin' my covers All tangled in each other, nights still playin' back in my head I just wanna be cool again, cool again, cool again, yeah",
+      "valence": 3.58,
+      "arousal": 3.84,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "To be stealin' my covers All tangled in each other, nights still playin' back in my head I just wanna be cool again, cool again, cool again, yeah Y'all know that I just wanna be",
+      "valence": 3.07,
+      "arousal": 3.44,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "All tangled in each other, nights still playin' back in my head I just wanna be cool again, cool again, cool again, yeah Y'all know that I just wanna be (Cool again, cool again, cool again)",
+      "valence": 3.41,
+      "arousal": 3.34,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I just wanna be cool again, cool again, cool again, yeah Y'all know that I just wanna be (Cool again, cool again, cool again) Last summer with you (Cool again, cool again, cool again)",
+      "valence": 3.56,
+      "arousal": 3.33,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Y'all know that I just wanna be (Cool again, cool again, cool again) Last summer with you (Cool again, cool again, cool again) Cool again",
+      "valence": 3.61,
+      "arousal": 3.42,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "(Cool again, cool again, cool again) Last summer with you (Cool again, cool again, cool again) Cool again (Cool again, cool again)",
+      "valence": 3.62,
+      "arousal": 3.26,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Last summer with you (Cool again, cool again, cool again) Cool again (Cool again, cool again) Cool again, yeah",
+      "valence": 3.68,
+      "arousal": 3.37,
+      "dominance": 3.21
+    }
+  ]
+}

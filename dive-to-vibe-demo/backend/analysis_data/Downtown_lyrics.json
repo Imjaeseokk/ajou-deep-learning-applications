@@ -1,0 +1,234 @@
+{
+  "artist": "Lady Antebellum",
+  "overall_vad": {
+    "valence": 2.74,
+    "arousal": 3.52,
+    "dominance": 3.18
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Well, all the parties on the streets are talking, store front mannequins sleeping in lights We used to smoke while we were jaywalking like it was your birthday every other Saturday night Knew The bands so we never payed our cover Wrote our names on the bathroom tiles",
+      "valence": 3.01,
+      "arousal": 3.15,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "We used to smoke while we were jaywalking like it was your birthday every other Saturday night Knew The bands so we never payed our cover Wrote our names on the bathroom tiles We never dressed to impress all the others",
+      "valence": 2.97,
+      "arousal": 3.13,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Knew The bands so we never payed our cover Wrote our names on the bathroom tiles We never dressed to impress all the others They would let us in on a laid back kind of style",
+      "valence": 2.99,
+      "arousal": 2.93,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Wrote our names on the bathroom tiles We never dressed to impress all the others They would let us in on a laid back kind of style But boy you know it's been a while",
+      "valence": 2.85,
+      "arousal": 2.94,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "We never dressed to impress all the others They would let us in on a laid back kind of style But boy you know it's been a while I don't know why you don't take me downtown like you got anywhere better to be",
+      "valence": 2.65,
+      "arousal": 3.13,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "They would let us in on a laid back kind of style But boy you know it's been a while I don't know why you don't take me downtown like you got anywhere better to be Talk it up and give me the go round round like a good time tease",
+      "valence": 3.34,
+      "arousal": 3.67,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "But boy you know it's been a while I don't know why you don't take me downtown like you got anywhere better to be Talk it up and give me the go round round like a good time tease I'm only counting on your cancellation",
+      "valence": 2.74,
+      "arousal": 3.84,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I don't know why you don't take me downtown like you got anywhere better to be Talk it up and give me the go round round like a good time tease I'm only counting on your cancellation When I should be counting on you at my door",
+      "valence": 2.73,
+      "arousal": 3.71,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Talk it up and give me the go round round like a good time tease I'm only counting on your cancellation When I should be counting on you at my door Did you forget about how we went around",
+      "valence": 3.11,
+      "arousal": 3.65,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I'm only counting on your cancellation When I should be counting on you at my door Did you forget about how we went around I don't know why you don't take me downtown anymore",
+      "valence": 2.59,
+      "arousal": 3.35,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "When I should be counting on you at my door Did you forget about how we went around I don't know why you don't take me downtown anymore Oh anymore",
+      "valence": 2.59,
+      "arousal": 3.36,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Did you forget about how we went around I don't know why you don't take me downtown anymore Oh anymore I got some platforms sitting in the corner",
+      "valence": 2.48,
+      "arousal": 3.41,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I don't know why you don't take me downtown anymore Oh anymore I got some platforms sitting in the corner They wanna stroll on a city sidewalk",
+      "valence": 2.53,
+      "arousal": 3.4,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Oh anymore I got some platforms sitting in the corner They wanna stroll on a city sidewalk I got a dress that 'll show a little uh uh",
+      "valence": 3.2,
+      "arousal": 3.26,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I got some platforms sitting in the corner They wanna stroll on a city sidewalk I got a dress that 'll show a little uh uh But you ain't getting uh oh if you don't come pick me up (damn)",
+      "valence": 2.76,
+      "arousal": 3.74,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "They wanna stroll on a city sidewalk I got a dress that 'll show a little uh uh But you ain't getting uh oh if you don't come pick me up (damn) Show me off (wow), you might be tired but I'm not",
+      "valence": 2.78,
+      "arousal": 3.71,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I got a dress that 'll show a little uh uh But you ain't getting uh oh if you don't come pick me up (damn) Show me off (wow), you might be tired but I'm not And I don't know why you don't take me down town like you got anywhere better to be",
+      "valence": 2.48,
+      "arousal": 3.77,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "But you ain't getting uh oh if you don't come pick me up (damn) Show me off (wow), you might be tired but I'm not And I don't know why you don't take me down town like you got anywhere better to be Talk it up and give me the go round round like a good time tease",
+      "valence": 2.77,
+      "arousal": 3.97,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Show me off (wow), you might be tired but I'm not And I don't know why you don't take me down town like you got anywhere better to be Talk it up and give me the go round round like a good time tease I'm only counting on your cancellation",
+      "valence": 2.81,
+      "arousal": 3.78,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "And I don't know why you don't take me down town like you got anywhere better to be Talk it up and give me the go round round like a good time tease I'm only counting on your cancellation When I should be counting on you at my door",
+      "valence": 2.6,
+      "arousal": 3.72,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Talk it up and give me the go round round like a good time tease I'm only counting on your cancellation When I should be counting on you at my door Did you forget about how we went around",
+      "valence": 3.11,
+      "arousal": 3.65,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I'm only counting on your cancellation When I should be counting on you at my door Did you forget about how we went around I don't know why you don't take me downtown anymore",
+      "valence": 2.59,
+      "arousal": 3.35,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "When I should be counting on you at my door Did you forget about how we went around I don't know why you don't take me downtown anymore I don't know why you don't take me down town like you got anywhere better to be",
+      "valence": 2.54,
+      "arousal": 3.44,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Did you forget about how we went around I don't know why you don't take me downtown anymore I don't know why you don't take me down town like you got anywhere better to be Talk it up and give me the go round round like a good time tease",
+      "valence": 2.88,
+      "arousal": 3.81,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I don't know why you don't take me downtown anymore I don't know why you don't take me down town like you got anywhere better to be Talk it up and give me the go round round like a good time tease I'm only counting on your cancellation",
+      "valence": 2.54,
+      "arousal": 3.82,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I don't know why you don't take me down town like you got anywhere better to be Talk it up and give me the go round round like a good time tease I'm only counting on your cancellation When I should be counting on you at my door",
+      "valence": 2.68,
+      "arousal": 3.74,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Talk it up and give me the go round round like a good time tease I'm only counting on your cancellation When I should be counting on you at my door Did you forget about how we went around",
+      "valence": 3.11,
+      "arousal": 3.65,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I'm only counting on your cancellation When I should be counting on you at my door Did you forget about how we went around I don't know why you don't take me downtown anymore",
+      "valence": 2.59,
+      "arousal": 3.35,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "When I should be counting on you at my door Did you forget about how we went around I don't know why you don't take me downtown anymore Oh anymore",
+      "valence": 2.59,
+      "arousal": 3.36,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Did you forget about how we went around I don't know why you don't take me downtown anymore Oh anymore Yeah don't know why you don't take me downtown",
+      "valence": 2.41,
+      "arousal": 3.53,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I don't know why you don't take me downtown anymore Oh anymore Yeah don't know why you don't take me downtown I don't know why you don't take me downtown anymore",
+      "valence": 2.36,
+      "arousal": 3.6,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Oh anymore Yeah don't know why you don't take me downtown I don't know why you don't take me downtown anymore I just don't get it",
+      "valence": 2.3,
+      "arousal": 3.65,
+      "dominance": 3.08
+    }
+  ]
+}

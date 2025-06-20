@@ -1,0 +1,339 @@
+{
+  "artist": "Lukas Graham",
+  "overall_vad": {
+    "valence": 3.16,
+    "arousal": 3.24,
+    "dominance": 3.15
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Once I was seven years old, my mama told me Go make yourself some friends or you'll be lonely Once I was seven years old It was a big big world, but we thought we were bigger",
+      "valence": 3.01,
+      "arousal": 3.17,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Go make yourself some friends or you'll be lonely Once I was seven years old It was a big big world, but we thought we were bigger Pushing each other to the limits, we were learning quicker",
+      "valence": 3.05,
+      "arousal": 3.33,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Once I was seven years old It was a big big world, but we thought we were bigger Pushing each other to the limits, we were learning quicker By 11 smoking herb and drinking burning liquor",
+      "valence": 3.04,
+      "arousal": 3.04,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "It was a big big world, but we thought we were bigger Pushing each other to the limits, we were learning quicker By 11 smoking herb and drinking burning liquor Never rich so we were out to make that steady figure",
+      "valence": 3.04,
+      "arousal": 3.18,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Pushing each other to the limits, we were learning quicker By 11 smoking herb and drinking burning liquor Never rich so we were out to make that steady figure Once I was 11 years old, my daddy told me",
+      "valence": 3.04,
+      "arousal": 3.02,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "By 11 smoking herb and drinking burning liquor Never rich so we were out to make that steady figure Once I was 11 years old, my daddy told me Go get yourself a wife or you'll be lonely",
+      "valence": 2.86,
+      "arousal": 3.0,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Never rich so we were out to make that steady figure Once I was 11 years old, my daddy told me Go get yourself a wife or you'll be lonely Once I was 11 years old",
+      "valence": 2.84,
+      "arousal": 3.0,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Once I was 11 years old, my daddy told me Go get yourself a wife or you'll be lonely Once I was 11 years old I always had that dream like my daddy before me",
+      "valence": 3.03,
+      "arousal": 3.37,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Go get yourself a wife or you'll be lonely Once I was 11 years old I always had that dream like my daddy before me So I started writing songs, I started writing stories",
+      "valence": 3.1,
+      "arousal": 3.42,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Once I was 11 years old I always had that dream like my daddy before me So I started writing songs, I started writing stories Something about the glory, just always seemed to bore me",
+      "valence": 3.17,
+      "arousal": 3.27,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I always had that dream like my daddy before me So I started writing songs, I started writing stories Something about the glory, just always seemed to bore me 'Cause only those I really love will ever really know me",
+      "valence": 3.04,
+      "arousal": 3.15,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "So I started writing songs, I started writing stories Something about the glory, just always seemed to bore me 'Cause only those I really love will ever really know me Once I was 20 years old, my story got told",
+      "valence": 3.12,
+      "arousal": 3.17,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Something about the glory, just always seemed to bore me 'Cause only those I really love will ever really know me Once I was 20 years old, my story got told Before the morning sun, when life was lonely",
+      "valence": 2.72,
+      "arousal": 2.83,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "'Cause only those I really love will ever really know me Once I was 20 years old, my story got told Before the morning sun, when life was lonely Once I was 20 years old",
+      "valence": 2.69,
+      "arousal": 2.86,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Once I was 20 years old, my story got told Before the morning sun, when life was lonely Once I was 20 years old (Lukas Graham)",
+      "valence": 2.99,
+      "arousal": 2.96,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Before the morning sun, when life was lonely Once I was 20 years old (Lukas Graham) I only see my goals, I don't believe in failure",
+      "valence": 3.03,
+      "arousal": 3.11,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Once I was 20 years old (Lukas Graham) I only see my goals, I don't believe in failure 'Cause I know the smallest voices, they can make it major",
+      "valence": 3.14,
+      "arousal": 3.15,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "(Lukas Graham) I only see my goals, I don't believe in failure 'Cause I know the smallest voices, they can make it major I got my boys with me atleast those in favor",
+      "valence": 3.16,
+      "arousal": 3.23,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I only see my goals, I don't believe in failure 'Cause I know the smallest voices, they can make it major I got my boys with me atleast those in favor And if we don't meet before I leave, I hope I'll see you later",
+      "valence": 3.17,
+      "arousal": 3.24,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "'Cause I know the smallest voices, they can make it major I got my boys with me atleast those in favor And if we don't meet before I leave, I hope I'll see you later Once I was 20 years old, my story got told",
+      "valence": 3.24,
+      "arousal": 3.26,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I got my boys with me atleast those in favor And if we don't meet before I leave, I hope I'll see you later Once I was 20 years old, my story got told I was writing 'bout everything, I saw before me",
+      "valence": 3.23,
+      "arousal": 3.24,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "And if we don't meet before I leave, I hope I'll see you later Once I was 20 years old, my story got told I was writing 'bout everything, I saw before me Once I was 20 years old",
+      "valence": 3.17,
+      "arousal": 3.26,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Once I was 20 years old, my story got told I was writing 'bout everything, I saw before me Once I was 20 years old Soon we'll be 30 years old, our songs have been sold",
+      "valence": 3.46,
+      "arousal": 3.53,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I was writing 'bout everything, I saw before me Once I was 20 years old Soon we'll be 30 years old, our songs have been sold We've traveled around the world and we're still roaming",
+      "valence": 3.64,
+      "arousal": 3.59,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Once I was 20 years old Soon we'll be 30 years old, our songs have been sold We've traveled around the world and we're still roaming Soon we'll be 30 years old",
+      "valence": 3.52,
+      "arousal": 3.55,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Soon we'll be 30 years old, our songs have been sold We've traveled around the world and we're still roaming Soon we'll be 30 years old I'm still learning about life",
+      "valence": 3.73,
+      "arousal": 3.56,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "We've traveled around the world and we're still roaming Soon we'll be 30 years old I'm still learning about life My woman brought children for me",
+      "valence": 3.55,
+      "arousal": 3.45,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Soon we'll be 30 years old I'm still learning about life My woman brought children for me So I can sing them all my songs",
+      "valence": 3.64,
+      "arousal": 3.37,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I'm still learning about life My woman brought children for me So I can sing them all my songs And I can tell them stories",
+      "valence": 3.66,
+      "arousal": 3.23,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "My woman brought children for me So I can sing them all my songs And I can tell them stories Most of my boys are with me",
+      "valence": 3.82,
+      "arousal": 3.29,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "So I can sing them all my songs And I can tell them stories Most of my boys are with me Some are still out seeking glory",
+      "valence": 3.58,
+      "arousal": 3.34,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "And I can tell them stories Most of my boys are with me Some are still out seeking glory And some I had to leave behind",
+      "valence": 3.37,
+      "arousal": 3.16,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Most of my boys are with me Some are still out seeking glory And some I had to leave behind My brother I'm still sorry",
+      "valence": 2.3,
+      "arousal": 3.37,
+      "dominance": 2.75
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Some are still out seeking glory And some I had to leave behind My brother I'm still sorry Soon I'll be 60 years old, my daddy got 61",
+      "valence": 2.22,
+      "arousal": 3.27,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "And some I had to leave behind My brother I'm still sorry Soon I'll be 60 years old, my daddy got 61 Remember life and then your life becomes a better one",
+      "valence": 2.64,
+      "arousal": 3.22,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "My brother I'm still sorry Soon I'll be 60 years old, my daddy got 61 Remember life and then your life becomes a better one I made the man so happy when I wrote a letter once",
+      "valence": 3.21,
+      "arousal": 3.45,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Soon I'll be 60 years old, my daddy got 61 Remember life and then your life becomes a better one I made the man so happy when I wrote a letter once I hope my children come and visit, once or twice a month",
+      "valence": 3.67,
+      "arousal": 3.37,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Remember life and then your life becomes a better one I made the man so happy when I wrote a letter once I hope my children come and visit, once or twice a month Soon I'll be 60 years old, will I think the world is cold",
+      "valence": 3.69,
+      "arousal": 3.28,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I made the man so happy when I wrote a letter once I hope my children come and visit, once or twice a month Soon I'll be 60 years old, will I think the world is cold Or will I have a lot of children who can warm me",
+      "valence": 3.62,
+      "arousal": 3.37,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "I hope my children come and visit, once or twice a month Soon I'll be 60 years old, will I think the world is cold Or will I have a lot of children who can warm me Soon I'll be 60 years old",
+      "valence": 3.27,
+      "arousal": 3.17,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Soon I'll be 60 years old, will I think the world is cold Or will I have a lot of children who can warm me Soon I'll be 60 years old Soon I'll be 60 years old, will I think the world is cold",
+      "valence": 2.97,
+      "arousal": 3.12,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Or will I have a lot of children who can warm me Soon I'll be 60 years old Soon I'll be 60 years old, will I think the world is cold Or will I have a lot of children who can hold me",
+      "valence": 3.07,
+      "arousal": 3.16,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Soon I'll be 60 years old Soon I'll be 60 years old, will I think the world is cold Or will I have a lot of children who can hold me Soon I'll be 60 years old",
+      "valence": 3.02,
+      "arousal": 3.21,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Soon I'll be 60 years old, will I think the world is cold Or will I have a lot of children who can hold me Soon I'll be 60 years old Once I was seven years old, my mama told me",
+      "valence": 3.08,
+      "arousal": 3.19,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Or will I have a lot of children who can hold me Soon I'll be 60 years old Once I was seven years old, my mama told me Go make yourself some friends or you'll be lonely",
+      "valence": 2.94,
+      "arousal": 3.29,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Soon I'll be 60 years old Once I was seven years old, my mama told me Go make yourself some friends or you'll be lonely Once I was seven years old",
+      "valence": 2.94,
+      "arousal": 3.32,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Once I was seven years old, my mama told me Go make yourself some friends or you'll be lonely Once I was seven years old Once I was seven years old",
+      "valence": 2.86,
+      "arousal": 3.2,
+      "dominance": 3.22
+    }
+  ]
+}

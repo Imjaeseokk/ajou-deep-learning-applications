@@ -1,0 +1,444 @@
+{
+  "artist": "Chloe X Halle",
+  "overall_vad": {
+    "valence": 3.08,
+    "arousal": 3.3,
+    "dominance": 3.34
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Oh Oh, oh Oh Yeah, I beat my face",
+      "valence": 2.21,
+      "arousal": 3.88,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Oh, oh Oh Yeah, I beat my face Moving fast 'cause the Uber on the way",
+      "valence": 2.55,
+      "arousal": 3.94,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Oh Yeah, I beat my face Moving fast 'cause the Uber on the way Taking pictures, make sure you can't see no lace",
+      "valence": 2.77,
+      "arousal": 3.53,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Yeah, I beat my face Moving fast 'cause the Uber on the way Taking pictures, make sure you can't see no lace That wig secure like the money in a safe",
+      "valence": 2.72,
+      "arousal": 3.53,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Moving fast 'cause the Uber on the way Taking pictures, make sure you can't see no lace That wig secure like the money in a safe I look like bae",
+      "valence": 2.91,
+      "arousal": 3.47,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Taking pictures, make sure you can't see no lace That wig secure like the money in a safe I look like bae Now I'm on the way",
+      "valence": 3.07,
+      "arousal": 3.43,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "That wig secure like the money in a safe I look like bae Now I'm on the way Let you know when I'm 'bout a mile away",
+      "valence": 3.11,
+      "arousal": 3.53,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I look like bae Now I'm on the way Let you know when I'm 'bout a mile away When I'm outside, please don't make me wait",
+      "valence": 3.02,
+      "arousal": 3.5,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Now I'm on the way Let you know when I'm 'bout a mile away When I'm outside, please don't make me wait The party's starting when we pull up to the gate",
+      "valence": 3.03,
+      "arousal": 3.57,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Let you know when I'm 'bout a mile away When I'm outside, please don't make me wait The party's starting when we pull up to the gate Girl, we so late",
+      "valence": 2.88,
+      "arousal": 3.52,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "When I'm outside, please don't make me wait The party's starting when we pull up to the gate Girl, we so late I'm just with the crew",
+      "valence": 2.91,
+      "arousal": 3.41,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "The party's starting when we pull up to the gate Girl, we so late I'm just with the crew We ain't out here looking for boo",
+      "valence": 2.97,
+      "arousal": 3.34,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Girl, we so late I'm just with the crew We ain't out here looking for boo 'Cause some nights be better with you",
+      "valence": 2.8,
+      "arousal": 3.37,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I'm just with the crew We ain't out here looking for boo 'Cause some nights be better with you It's a \"homies only\" kind of mood",
+      "valence": 3.01,
+      "arousal": 3.29,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "We ain't out here looking for boo 'Cause some nights be better with you It's a \"homies only\" kind of mood And tonight, we on a hundred",
+      "valence": 2.81,
+      "arousal": 3.32,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "'Cause some nights be better with you It's a \"homies only\" kind of mood And tonight, we on a hundred One hundred",
+      "valence": 3.04,
+      "arousal": 3.16,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "It's a \"homies only\" kind of mood And tonight, we on a hundred One hundred No drama, no baby mamas, keepin' it cute",
+      "valence": 3.28,
+      "arousal": 3.15,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "And tonight, we on a hundred One hundred No drama, no baby mamas, keepin' it cute Ooh, ooh",
+      "valence": 3.42,
+      "arousal": 3.45,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "One hundred No drama, no baby mamas, keepin' it cute Ooh, ooh That's just what I do, do, do",
+      "valence": 3.22,
+      "arousal": 3.16,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "No drama, no baby mamas, keepin' it cute Ooh, ooh That's just what I do, do, do And that's just how we do it, do it, do it",
+      "valence": 3.32,
+      "arousal": 3.36,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Ooh, ooh That's just what I do, do, do And that's just how we do it, do it, do it Yeah, that's just how we do it, do it, do it",
+      "valence": 3.12,
+      "arousal": 3.33,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "That's just what I do, do, do And that's just how we do it, do it, do it Yeah, that's just how we do it, do it, do it You liking what I do? Do you?",
+      "valence": 3.25,
+      "arousal": 3.22,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "And that's just how we do it, do it, do it Yeah, that's just how we do it, do it, do it You liking what I do? Do you? Know how to keep it cool, ooh, ooh",
+      "valence": 3.3,
+      "arousal": 3.25,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Yeah, that's just how we do it, do it, do it You liking what I do? Do you? Know how to keep it cool, ooh, ooh And that's just how we do it",
+      "valence": 3.31,
+      "arousal": 3.18,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "You liking what I do? Do you? Know how to keep it cool, ooh, ooh And that's just how we do it Yeah, that's just how we do it",
+      "valence": 3.25,
+      "arousal": 3.19,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Know how to keep it cool, ooh, ooh And that's just how we do it Yeah, that's just how we do it And you could do it too, ooh, ooh, ooh",
+      "valence": 3.07,
+      "arousal": 3.12,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "And that's just how we do it Yeah, that's just how we do it And you could do it too, ooh, ooh, ooh No complaints",
+      "valence": 2.88,
+      "arousal": 3.04,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Yeah, that's just how we do it And you could do it too, ooh, ooh, ooh No complaints Left the heels at home, I'm on my sneaker game (sneaker game)",
+      "valence": 3.24,
+      "arousal": 3.29,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "And you could do it too, ooh, ooh, ooh No complaints Left the heels at home, I'm on my sneaker game (sneaker game) He say, \"Where you from?\"",
+      "valence": 3.17,
+      "arousal": 3.3,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "No complaints Left the heels at home, I'm on my sneaker game (sneaker game) He say, \"Where you from?\" Tell him, \"Outer space\" (outer space)",
+      "valence": 3.04,
+      "arousal": 3.12,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Left the heels at home, I'm on my sneaker game (sneaker game) He say, \"Where you from?\" Tell him, \"Outer space\" (outer space) 'Cause a bag the only thing I'm tryna chase (tryna chase)",
+      "valence": 2.96,
+      "arousal": 3.31,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "He say, \"Where you from?\" Tell him, \"Outer space\" (outer space) 'Cause a bag the only thing I'm tryna chase (tryna chase) I'm M.I.A. (M.I.A.)",
+      "valence": 2.92,
+      "arousal": 3.32,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Tell him, \"Outer space\" (outer space) 'Cause a bag the only thing I'm tryna chase (tryna chase) I'm M.I.A. (M.I.A.) Just tell the DJ, \"Press play, rewind, keep it on repeat\"",
+      "valence": 2.97,
+      "arousal": 3.32,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "'Cause a bag the only thing I'm tryna chase (tryna chase) I'm M.I.A. (M.I.A.) Just tell the DJ, \"Press play, rewind, keep it on repeat\" Tip-toe 'round a hater, I'm light on my feet",
+      "valence": 2.9,
+      "arousal": 3.35,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I'm M.I.A. (M.I.A.) Just tell the DJ, \"Press play, rewind, keep it on repeat\" Tip-toe 'round a hater, I'm light on my feet That's how you do it, keep stuntin' on your enemies",
+      "valence": 2.99,
+      "arousal": 3.26,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Just tell the DJ, \"Press play, rewind, keep it on repeat\" Tip-toe 'round a hater, I'm light on my feet That's how you do it, keep stuntin' on your enemies Good vibes only",
+      "valence": 3.09,
+      "arousal": 3.32,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Tip-toe 'round a hater, I'm light on my feet That's how you do it, keep stuntin' on your enemies Good vibes only I'm just with the crew",
+      "valence": 3.07,
+      "arousal": 3.32,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "That's how you do it, keep stuntin' on your enemies Good vibes only I'm just with the crew We ain't out here looking for boo",
+      "valence": 3.15,
+      "arousal": 3.3,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Good vibes only I'm just with the crew We ain't out here looking for boo 'Cause some nights be better with you",
+      "valence": 3.21,
+      "arousal": 3.36,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "I'm just with the crew We ain't out here looking for boo 'Cause some nights be better with you It's a \"homies only\" kind of mood",
+      "valence": 3.01,
+      "arousal": 3.29,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "We ain't out here looking for boo 'Cause some nights be better with you It's a \"homies only\" kind of mood And tonight, we on a hundred",
+      "valence": 2.81,
+      "arousal": 3.32,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "'Cause some nights be better with you It's a \"homies only\" kind of mood And tonight, we on a hundred One hundred",
+      "valence": 3.04,
+      "arousal": 3.16,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "It's a \"homies only\" kind of mood And tonight, we on a hundred One hundred No drama, no baby mamas, keepin' it cute",
+      "valence": 3.28,
+      "arousal": 3.15,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "And tonight, we on a hundred One hundred No drama, no baby mamas, keepin' it cute Ooh, ooh",
+      "valence": 3.42,
+      "arousal": 3.45,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "One hundred No drama, no baby mamas, keepin' it cute Ooh, ooh That's just what I do, do, do",
+      "valence": 3.22,
+      "arousal": 3.16,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "No drama, no baby mamas, keepin' it cute Ooh, ooh That's just what I do, do, do And that's just how we do it, do it, do it",
+      "valence": 3.32,
+      "arousal": 3.36,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Ooh, ooh That's just what I do, do, do And that's just how we do it, do it, do it Yeah, that's just how we do it, do it, do it",
+      "valence": 3.12,
+      "arousal": 3.33,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "That's just what I do, do, do And that's just how we do it, do it, do it Yeah, that's just how we do it, do it, do it You liking what I do? Do you? (That's just how we do it)",
+      "valence": 3.27,
+      "arousal": 3.17,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "And that's just how we do it, do it, do it Yeah, that's just how we do it, do it, do it You liking what I do? Do you? (That's just how we do it) Know how to keep it cool, ooh, ooh (that's just how we do it)",
+      "valence": 3.31,
+      "arousal": 3.12,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Yeah, that's just how we do it, do it, do it You liking what I do? Do you? (That's just how we do it) Know how to keep it cool, ooh, ooh (that's just how we do it) And that's just how we do it",
+      "valence": 3.3,
+      "arousal": 3.09,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "You liking what I do? Do you? (That's just how we do it) Know how to keep it cool, ooh, ooh (that's just how we do it) And that's just how we do it Yeah, that's just how we do it (that's just how we do it)",
+      "valence": 3.25,
+      "arousal": 3.08,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Know how to keep it cool, ooh, ooh (that's just how we do it) And that's just how we do it Yeah, that's just how we do it (that's just how we do it) And you could do it too, ooh, ooh, ooh",
+      "valence": 3.05,
+      "arousal": 3.07,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "And that's just how we do it Yeah, that's just how we do it (that's just how we do it) And you could do it too, ooh, ooh, ooh Ooh, ooh",
+      "valence": 2.99,
+      "arousal": 3.19,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Yeah, that's just how we do it (that's just how we do it) And you could do it too, ooh, ooh, ooh Ooh, ooh That's just what I do, do, do",
+      "valence": 3.0,
+      "arousal": 3.23,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "And you could do it too, ooh, ooh, ooh Ooh, ooh That's just what I do, do, do And that's just how we do it, do it, do it",
+      "valence": 3.15,
+      "arousal": 3.43,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Ooh, ooh That's just what I do, do, do And that's just how we do it, do it, do it Yeah, that's just how we do it, do it, do it",
+      "valence": 3.12,
+      "arousal": 3.33,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "That's just what I do, do, do And that's just how we do it, do it, do it Yeah, that's just how we do it, do it, do it You liking what I do? Do you? (That's just how we do it)",
+      "valence": 3.27,
+      "arousal": 3.17,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "And that's just how we do it, do it, do it Yeah, that's just how we do it, do it, do it You liking what I do? Do you? (That's just how we do it) Know how to keep it cool, ooh, ooh (that's just how we do it)",
+      "valence": 3.31,
+      "arousal": 3.12,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Yeah, that's just how we do it, do it, do it You liking what I do? Do you? (That's just how we do it) Know how to keep it cool, ooh, ooh (that's just how we do it) And that's just how we do it (that's just how we do it)",
+      "valence": 3.29,
+      "arousal": 3.1,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "You liking what I do? Do you? (That's just how we do it) Know how to keep it cool, ooh, ooh (that's just how we do it) And that's just how we do it (that's just how we do it) Yeah, that's just how we do it",
+      "valence": 3.25,
+      "arousal": 3.06,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Know how to keep it cool, ooh, ooh (that's just how we do it) And that's just how we do it (that's just how we do it) Yeah, that's just how we do it And you could do it too, ooh, ooh",
+      "valence": 3.12,
+      "arousal": 3.08,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "And that's just how we do it (that's just how we do it) Yeah, that's just how we do it And you could do it too, ooh, ooh Yeah, that's just how we do it",
+      "valence": 3.03,
+      "arousal": 3.07,
+      "dominance": 3.33
+    }
+  ]
+}

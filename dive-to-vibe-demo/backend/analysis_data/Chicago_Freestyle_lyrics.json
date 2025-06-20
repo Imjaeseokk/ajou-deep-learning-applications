@@ -1,0 +1,563 @@
+{
+  "artist": "Drake Featuring Giveon",
+  "overall_vad": {
+    "valence": 3.11,
+    "arousal": 3.35,
+    "dominance": 3.2
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Two-thirty, baby, won't you meet me by The Bean? Too early, maybe later you can show me things You know what it is, whenever I visit Windy city, she blowing me kisses, no",
+      "valence": 3.1,
+      "arousal": 3.33,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Too early, maybe later you can show me things You know what it is, whenever I visit Windy city, she blowing me kisses, no 30 degrees, way too cold, so hold me tight",
+      "valence": 3.2,
+      "arousal": 3.45,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "You know what it is, whenever I visit Windy city, she blowing me kisses, no 30 degrees, way too cold, so hold me tight Will I see you at the show tonight?",
+      "valence": 3.37,
+      "arousal": 3.66,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Windy city, she blowing me kisses, no 30 degrees, way too cold, so hold me tight Will I see you at the show tonight? Will I see you at the show tonight?",
+      "valence": 3.55,
+      "arousal": 3.8,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "30 degrees, way too cold, so hold me tight Will I see you at the show tonight? Will I see you at the show tonight? Ayy, truck to the plane, to the truck",
+      "valence": 3.11,
+      "arousal": 3.65,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Will I see you at the show tonight? Will I see you at the show tonight? Ayy, truck to the plane, to the truck Truck to the hotel lobby",
+      "valence": 3.13,
+      "arousal": 3.3,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Will I see you at the show tonight? Ayy, truck to the plane, to the truck Truck to the hotel lobby Me, I go through underground garages",
+      "valence": 3.12,
+      "arousal": 3.23,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Ayy, truck to the plane, to the truck Truck to the hotel lobby Me, I go through underground garages It's presidential suite, on deposit",
+      "valence": 2.93,
+      "arousal": 2.99,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Truck to the hotel lobby Me, I go through underground garages It's presidential suite, on deposit Elevator up to the room",
+      "valence": 2.95,
+      "arousal": 3.02,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Me, I go through underground garages It's presidential suite, on deposit Elevator up to the room Shower up and then we hit the club",
+      "valence": 2.98,
+      "arousal": 2.91,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "It's presidential suite, on deposit Elevator up to the room Shower up and then we hit the club Touch down, gotta see what's up",
+      "valence": 3.03,
+      "arousal": 3.14,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Elevator up to the room Shower up and then we hit the club Touch down, gotta see what's up Area code in my phone",
+      "valence": 3.02,
+      "arousal": 3.14,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Shower up and then we hit the club Touch down, gotta see what's up Area code in my phone What numbers do I still have?",
+      "valence": 2.92,
+      "arousal": 3.19,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Touch down, gotta see what's up Area code in my phone What numbers do I still have? Who do I know from the past?",
+      "valence": 2.92,
+      "arousal": 3.1,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Area code in my phone What numbers do I still have? Who do I know from the past? Hit one, she say she got a man",
+      "valence": 2.93,
+      "arousal": 3.26,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "What numbers do I still have? Who do I know from the past? Hit one, she say she got a man Hit another one, it goes green",
+      "valence": 2.9,
+      "arousal": 3.22,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Who do I know from the past? Hit one, she say she got a man Hit another one, it goes green Must've changed phones on the team",
+      "valence": 2.95,
+      "arousal": 3.28,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Hit one, she say she got a man Hit another one, it goes green Must've changed phones on the team 'Member when you lead me in between?",
+      "valence": 2.96,
+      "arousal": 3.3,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Hit another one, it goes green Must've changed phones on the team 'Member when you lead me in between? That was 2017",
+      "valence": 2.99,
+      "arousal": 3.14,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Must've changed phones on the team 'Member when you lead me in between? That was 2017 All good, Chubbs'll look around",
+      "valence": 3.3,
+      "arousal": 3.05,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "'Member when you lead me in between? That was 2017 All good, Chubbs'll look around Find one that seem my type",
+      "valence": 3.28,
+      "arousal": 3.17,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "That was 2017 All good, Chubbs'll look around Find one that seem my type That my dawg and he know what I like",
+      "valence": 3.55,
+      "arousal": 3.31,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "All good, Chubbs'll look around Find one that seem my type That my dawg and he know what I like He done found me plenty in my life",
+      "valence": 3.48,
+      "arousal": 3.27,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Find one that seem my type That my dawg and he know what I like He done found me plenty in my life Problem is, I meet a girl tonight",
+      "valence": 3.27,
+      "arousal": 3.41,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "That my dawg and he know what I like He done found me plenty in my life Problem is, I meet a girl tonight Then I go and treat her too nice",
+      "valence": 3.1,
+      "arousal": 3.32,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "He done found me plenty in my life Problem is, I meet a girl tonight Then I go and treat her too nice Galleria credit card swipes",
+      "valence": 3.1,
+      "arousal": 3.37,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Problem is, I meet a girl tonight Then I go and treat her too nice Galleria credit card swipes I don't even know if she a wife",
+      "valence": 2.78,
+      "arousal": 3.28,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Then I go and treat her too nice Galleria credit card swipes I don't even know if she a wife But I do know one thing though",
+      "valence": 2.95,
+      "arousal": 3.22,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Galleria credit card swipes I don't even know if she a wife But I do know one thing though Women they come they go",
+      "valence": 3.04,
+      "arousal": 3.05,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I don't even know if she a wife But I do know one thing though Women they come they go Saturday, through Sunday, Monday",
+      "valence": 3.0,
+      "arousal": 2.97,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "But I do know one thing though Women they come they go Saturday, through Sunday, Monday Monday through Sunday, yo",
+      "valence": 3.09,
+      "arousal": 2.97,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Women they come they go Saturday, through Sunday, Monday Monday through Sunday, yo Maybe I'll love you one day",
+      "valence": 3.63,
+      "arousal": 3.71,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Saturday, through Sunday, Monday Monday through Sunday, yo Maybe I'll love you one day Maybe we'll someday grow",
+      "valence": 3.76,
+      "arousal": 3.77,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Monday through Sunday, yo Maybe I'll love you one day Maybe we'll someday grow 'Til then I'll sit my drunk ass on that runway",
+      "valence": 3.32,
+      "arousal": 3.88,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Maybe I'll love you one day Maybe we'll someday grow 'Til then I'll sit my drunk ass on that runway On this one way",
+      "valence": 3.35,
+      "arousal": 3.77,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Maybe we'll someday grow 'Til then I'll sit my drunk ass on that runway On this one way Two-thirty, baby, won't you meet me by The Bean?",
+      "valence": 2.95,
+      "arousal": 3.48,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "'Til then I'll sit my drunk ass on that runway On this one way Two-thirty, baby, won't you meet me by The Bean? Too early, maybe later you can show me things",
+      "valence": 2.77,
+      "arousal": 3.51,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "On this one way Two-thirty, baby, won't you meet me by The Bean? Too early, maybe later you can show me things You know what it is, whenever I visit",
+      "valence": 3.13,
+      "arousal": 3.24,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Two-thirty, baby, won't you meet me by The Bean? Too early, maybe later you can show me things You know what it is, whenever I visit Windy city, she blowing me kisses, no",
+      "valence": 3.1,
+      "arousal": 3.33,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Too early, maybe later you can show me things You know what it is, whenever I visit Windy city, she blowing me kisses, no 30 degrees, way too cold, so hold me tight",
+      "valence": 3.2,
+      "arousal": 3.45,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "You know what it is, whenever I visit Windy city, she blowing me kisses, no 30 degrees, way too cold, so hold me tight Will I see you at the show tonight?",
+      "valence": 3.37,
+      "arousal": 3.66,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Windy city, she blowing me kisses, no 30 degrees, way too cold, so hold me tight Will I see you at the show tonight? Will I see you at the show tonight?",
+      "valence": 3.55,
+      "arousal": 3.8,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "30 degrees, way too cold, so hold me tight Will I see you at the show tonight? Will I see you at the show tonight? Jewelry in the safe on arrival",
+      "valence": 3.08,
+      "arousal": 3.62,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Will I see you at the show tonight? Will I see you at the show tonight? Jewelry in the safe on arrival Pistol on J for survival",
+      "valence": 3.08,
+      "arousal": 3.32,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Will I see you at the show tonight? Jewelry in the safe on arrival Pistol on J for survival Lot of people gunnin' for the title",
+      "valence": 3.1,
+      "arousal": 3.31,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Jewelry in the safe on arrival Pistol on J for survival Lot of people gunnin' for the title Lot of people tryna take us viral",
+      "valence": 2.96,
+      "arousal": 3.29,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Pistol on J for survival Lot of people gunnin' for the title Lot of people tryna take us viral I'm just trying to have a nice night, though",
+      "valence": 3.1,
+      "arousal": 3.16,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Lot of people gunnin' for the title Lot of people tryna take us viral I'm just trying to have a nice night, though Waiter brought the check for the meal",
+      "valence": 3.28,
+      "arousal": 3.18,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Lot of people tryna take us viral I'm just trying to have a nice night, though Waiter brought the check for the meal She said, \"Babe, I think there was a typo\"",
+      "valence": 3.03,
+      "arousal": 3.15,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I'm just trying to have a nice night, though Waiter brought the check for the meal She said, \"Babe, I think there was a typo\" Nah, girl, I got it, that's light though",
+      "valence": 3.11,
+      "arousal": 3.19,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Waiter brought the check for the meal She said, \"Babe, I think there was a typo\" Nah, girl, I got it, that's light though I could show you bigger things than that",
+      "valence": 3.0,
+      "arousal": 3.33,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "She said, \"Babe, I think there was a typo\" Nah, girl, I got it, that's light though I could show you bigger things than that It's gon' be a minute 'til I'm back",
+      "valence": 3.01,
+      "arousal": 3.38,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Nah, girl, I got it, that's light though I could show you bigger things than that It's gon' be a minute 'til I'm back Let me give you images that last",
+      "valence": 3.16,
+      "arousal": 3.38,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "I could show you bigger things than that It's gon' be a minute 'til I'm back Let me give you images that last AMEX had a limit in the past",
+      "valence": 2.99,
+      "arousal": 3.28,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "It's gon' be a minute 'til I'm back Let me give you images that last AMEX had a limit in the past I had plenty women in the past",
+      "valence": 2.93,
+      "arousal": 3.19,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Let me give you images that last AMEX had a limit in the past I had plenty women in the past I done plenty sinnin' in the past",
+      "valence": 3.01,
+      "arousal": 3.07,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "AMEX had a limit in the past I had plenty women in the past I done plenty sinnin' in the past You don't need to know, but you can ask",
+      "valence": 2.99,
+      "arousal": 3.1,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "I had plenty women in the past I done plenty sinnin' in the past You don't need to know, but you can ask Stickin' on your backstage pass",
+      "valence": 3.01,
+      "arousal": 2.96,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "I done plenty sinnin' in the past You don't need to know, but you can ask Stickin' on your backstage pass All access 'cause you bad",
+      "valence": 2.64,
+      "arousal": 3.04,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "You don't need to know, but you can ask Stickin' on your backstage pass All access 'cause you bad You could go wherever with that ass",
+      "valence": 2.57,
+      "arousal": 3.39,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Stickin' on your backstage pass All access 'cause you bad You could go wherever with that ass Show, to the shower, to the truck",
+      "valence": 2.63,
+      "arousal": 3.34,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "All access 'cause you bad You could go wherever with that ass Show, to the shower, to the truck Truck, to the club, for the party",
+      "valence": 2.53,
+      "arousal": 3.48,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "You could go wherever with that ass Show, to the shower, to the truck Truck, to the club, for the party You go in first with your girls",
+      "valence": 3.15,
+      "arousal": 3.7,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Show, to the shower, to the truck Truck, to the club, for the party You go in first with your girls 'Cause I don't know who's out there watching",
+      "valence": 3.14,
+      "arousal": 3.51,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Truck, to the club, for the party You go in first with your girls 'Cause I don't know who's out there watching But I do know one thing though",
+      "valence": 3.08,
+      "arousal": 3.47,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "You go in first with your girls 'Cause I don't know who's out there watching But I do know one thing though Women they come they go",
+      "valence": 3.15,
+      "arousal": 3.34,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "'Cause I don't know who's out there watching But I do know one thing though Women they come they go Saturday, through Sunday, Monday",
+      "valence": 3.0,
+      "arousal": 3.14,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "But I do know one thing though Women they come they go Saturday, through Sunday, Monday Monday, Sunday, yo",
+      "valence": 3.09,
+      "arousal": 2.97,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Women they come they go Saturday, through Sunday, Monday Monday, Sunday, yo Maybe I'll love you one day",
+      "valence": 3.61,
+      "arousal": 3.68,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Saturday, through Sunday, Monday Monday, Sunday, yo Maybe I'll love you one day Maybe we'll someday grow",
+      "valence": 3.75,
+      "arousal": 3.72,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Monday, Sunday, yo Maybe I'll love you one day Maybe we'll someday grow 'Til then I'll sit my drunk ass on that runway",
+      "valence": 3.29,
+      "arousal": 3.86,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Maybe I'll love you one day Maybe we'll someday grow 'Til then I'll sit my drunk ass on that runway On this one way",
+      "valence": 3.35,
+      "arousal": 3.77,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Maybe we'll someday grow 'Til then I'll sit my drunk ass on that runway On this one way Two thirty, baby, won't you meet me by The Bean?",
+      "valence": 2.95,
+      "arousal": 3.45,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "'Til then I'll sit my drunk ass on that runway On this one way Two thirty, baby, won't you meet me by The Bean? Too early, maybe later you can show me things",
+      "valence": 2.75,
+      "arousal": 3.49,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "On this one way Two thirty, baby, won't you meet me by The Bean? Too early, maybe later you can show me things You know what it is, whenever I visit",
+      "valence": 3.15,
+      "arousal": 3.22,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "Two thirty, baby, won't you meet me by The Bean? Too early, maybe later you can show me things You know what it is, whenever I visit Windy city, she blowing me kisses, no",
+      "valence": 3.1,
+      "arousal": 3.35,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "Too early, maybe later you can show me things You know what it is, whenever I visit Windy city, she blowing me kisses, no 30 degrees, way too cold, so hold me tight",
+      "valence": 3.2,
+      "arousal": 3.45,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "You know what it is, whenever I visit Windy city, she blowing me kisses, no 30 degrees, way too cold, so hold me tight Will I see you at the show tonight?",
+      "valence": 3.37,
+      "arousal": 3.66,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "Windy city, she blowing me kisses, no 30 degrees, way too cold, so hold me tight Will I see you at the show tonight? Will I see you at the show tonight?",
+      "valence": 3.55,
+      "arousal": 3.8,
+      "dominance": 3.02
+    }
+  ]
+}

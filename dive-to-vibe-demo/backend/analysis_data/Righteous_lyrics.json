@@ -1,0 +1,346 @@
+{
+  "artist": "Juice WRLD",
+  "overall_vad": {
+    "valence": 2.58,
+    "arousal": 3.45,
+    "dominance": 2.97
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I will I will I will Oh, uh",
+      "valence": 3.0,
+      "arousal": 3.24,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I will I will Oh, uh All white Gucci suit, I'm feeling righteous, yeah",
+      "valence": 3.1,
+      "arousal": 3.52,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I will Oh, uh All white Gucci suit, I'm feeling righteous, yeah I know that the truth is hard to digest, yeah",
+      "valence": 2.91,
+      "arousal": 3.39,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Oh, uh All white Gucci suit, I'm feeling righteous, yeah I know that the truth is hard to digest, yeah Five or six pills in my right hand, yeah",
+      "valence": 2.74,
+      "arousal": 3.42,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "All white Gucci suit, I'm feeling righteous, yeah I know that the truth is hard to digest, yeah Five or six pills in my right hand, yeah Codeine runneth over on my nightstand",
+      "valence": 2.7,
+      "arousal": 3.39,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I know that the truth is hard to digest, yeah Five or six pills in my right hand, yeah Codeine runneth over on my nightstand Taking medicine to fix all of the damage",
+      "valence": 2.44,
+      "arousal": 3.06,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Five or six pills in my right hand, yeah Codeine runneth over on my nightstand Taking medicine to fix all of the damage My anxiety the size of a planet (yeah), oh",
+      "valence": 2.52,
+      "arousal": 3.17,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Codeine runneth over on my nightstand Taking medicine to fix all of the damage My anxiety the size of a planet (yeah), oh Holes in my skull, over time",
+      "valence": 2.32,
+      "arousal": 3.3,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Taking medicine to fix all of the damage My anxiety the size of a planet (yeah), oh Holes in my skull, over time My heart's over ice (whoa)",
+      "valence": 2.35,
+      "arousal": 3.68,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "My anxiety the size of a planet (yeah), oh Holes in my skull, over time My heart's over ice (whoa) Over ice, I'm freezing",
+      "valence": 2.48,
+      "arousal": 3.81,
+      "dominance": 2.51
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Holes in my skull, over time My heart's over ice (whoa) Over ice, I'm freezing Beautiful eyes, deceiving",
+      "valence": 2.47,
+      "arousal": 3.69,
+      "dominance": 2.56
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "My heart's over ice (whoa) Over ice, I'm freezing Beautiful eyes, deceiving We may die this evening",
+      "valence": 2.63,
+      "arousal": 3.9,
+      "dominance": 2.68
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Over ice, I'm freezing Beautiful eyes, deceiving We may die this evening Coughing, wheezing, bleeding",
+      "valence": 2.26,
+      "arousal": 3.53,
+      "dominance": 2.71
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Beautiful eyes, deceiving We may die this evening Coughing, wheezing, bleeding High, I'm an anxious soul",
+      "valence": 2.38,
+      "arousal": 3.57,
+      "dominance": 2.67
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "We may die this evening Coughing, wheezing, bleeding High, I'm an anxious soul Blood moons are my eyes, stay low",
+      "valence": 2.27,
+      "arousal": 3.61,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Coughing, wheezing, bleeding High, I'm an anxious soul Blood moons are my eyes, stay low Red and black, they glow",
+      "valence": 2.53,
+      "arousal": 3.55,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "High, I'm an anxious soul Blood moons are my eyes, stay low Red and black, they glow Under attack, in my soul",
+      "valence": 2.75,
+      "arousal": 3.37,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Blood moons are my eyes, stay low Red and black, they glow Under attack, in my soul When it's my time, I'll know",
+      "valence": 2.89,
+      "arousal": 3.32,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Red and black, they glow Under attack, in my soul When it's my time, I'll know Never seen a hell so cold",
+      "valence": 2.69,
+      "arousal": 3.38,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Under attack, in my soul When it's my time, I'll know Never seen a hell so cold Yeah, we'll make it out, I know",
+      "valence": 2.69,
+      "arousal": 3.46,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "When it's my time, I'll know Never seen a hell so cold Yeah, we'll make it out, I know We'll run right through the flames, let's go",
+      "valence": 2.97,
+      "arousal": 3.49,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Never seen a hell so cold Yeah, we'll make it out, I know We'll run right through the flames, let's go All white Gucci suit, I'm feeling righteous, yeah",
+      "valence": 3.05,
+      "arousal": 3.59,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Yeah, we'll make it out, I know We'll run right through the flames, let's go All white Gucci suit, I'm feeling righteous, yeah I know that the truth is hard to digest, yeah",
+      "valence": 2.97,
+      "arousal": 3.52,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "We'll run right through the flames, let's go All white Gucci suit, I'm feeling righteous, yeah I know that the truth is hard to digest, yeah Five or six pills in my right hand, yeah",
+      "valence": 2.75,
+      "arousal": 3.45,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "All white Gucci suit, I'm feeling righteous, yeah I know that the truth is hard to digest, yeah Five or six pills in my right hand, yeah Codeine runneth over on my nightstand",
+      "valence": 2.7,
+      "arousal": 3.39,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I know that the truth is hard to digest, yeah Five or six pills in my right hand, yeah Codeine runneth over on my nightstand Taking medicine to fix all of the damage",
+      "valence": 2.44,
+      "arousal": 3.06,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Five or six pills in my right hand, yeah Codeine runneth over on my nightstand Taking medicine to fix all of the damage My anxiety the size of a planet (yeah), oh",
+      "valence": 2.52,
+      "arousal": 3.17,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Codeine runneth over on my nightstand Taking medicine to fix all of the damage My anxiety the size of a planet (yeah), oh Holes in my skull, over time",
+      "valence": 2.32,
+      "arousal": 3.3,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Taking medicine to fix all of the damage My anxiety the size of a planet (yeah), oh Holes in my skull, over time My heart's over ice (whoa), uh",
+      "valence": 2.38,
+      "arousal": 3.59,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "My anxiety the size of a planet (yeah), oh Holes in my skull, over time My heart's over ice (whoa), uh I'm in too deep",
+      "valence": 2.42,
+      "arousal": 3.73,
+      "dominance": 2.51
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Holes in my skull, over time My heart's over ice (whoa), uh I'm in too deep Can't swim like me",
+      "valence": 2.37,
+      "arousal": 3.48,
+      "dominance": 2.49
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "My heart's over ice (whoa), uh I'm in too deep Can't swim like me We're drowning, so I will see",
+      "valence": 2.33,
+      "arousal": 3.71,
+      "dominance": 2.4
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I'm in too deep Can't swim like me We're drowning, so I will see My demons ten feet under me",
+      "valence": 2.3,
+      "arousal": 3.6,
+      "dominance": 2.47
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Can't swim like me We're drowning, so I will see My demons ten feet under me Inhale, exhale, but I can't breathe",
+      "valence": 2.29,
+      "arousal": 3.56,
+      "dominance": 2.55
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "We're drowning, so I will see My demons ten feet under me Inhale, exhale, but I can't breathe Too busy drinking codeine doing high speeds",
+      "valence": 2.35,
+      "arousal": 3.61,
+      "dominance": 2.68
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "My demons ten feet under me Inhale, exhale, but I can't breathe Too busy drinking codeine doing high speeds Crash, pour a four, sip it slow, make the time pass",
+      "valence": 2.57,
+      "arousal": 3.34,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Inhale, exhale, but I can't breathe Too busy drinking codeine doing high speeds Crash, pour a four, sip it slow, make the time pass Take a pill for the thrill, have a relapse",
+      "valence": 2.89,
+      "arousal": 3.28,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Too busy drinking codeine doing high speeds Crash, pour a four, sip it slow, make the time pass Take a pill for the thrill, have a relapse Devil in my head tryna run gym laps",
+      "valence": 2.76,
+      "arousal": 3.34,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Crash, pour a four, sip it slow, make the time pass Take a pill for the thrill, have a relapse Devil in my head tryna run gym laps I ain't tryna race, he don't even know me like that",
+      "valence": 2.89,
+      "arousal": 3.53,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Take a pill for the thrill, have a relapse Devil in my head tryna run gym laps I ain't tryna race, he don't even know me like that All white Gucci suit, I'm feeling righteous",
+      "valence": 2.81,
+      "arousal": 3.69,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Devil in my head tryna run gym laps I ain't tryna race, he don't even know me like that All white Gucci suit, I'm feeling righteous I know that the truth is hard to digest",
+      "valence": 2.38,
+      "arousal": 3.43,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "I ain't tryna race, he don't even know me like that All white Gucci suit, I'm feeling righteous I know that the truth is hard to digest Five or six pills in my right hand",
+      "valence": 2.48,
+      "arousal": 3.41,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "All white Gucci suit, I'm feeling righteous I know that the truth is hard to digest Five or six pills in my right hand Codeine runneth over on my nightstand",
+      "valence": 2.68,
+      "arousal": 3.23,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I know that the truth is hard to digest Five or six pills in my right hand Codeine runneth over on my nightstand Taking medicine to fix all of the damage",
+      "valence": 2.42,
+      "arousal": 3.01,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Five or six pills in my right hand Codeine runneth over on my nightstand Taking medicine to fix all of the damage My anxiety the size of a planet (yeah), oh",
+      "valence": 2.44,
+      "arousal": 3.2,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Codeine runneth over on my nightstand Taking medicine to fix all of the damage My anxiety the size of a planet (yeah), oh Holes in my skull, over time",
+      "valence": 2.32,
+      "arousal": 3.3,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Taking medicine to fix all of the damage My anxiety the size of a planet (yeah), oh Holes in my skull, over time My heart's over ice (whoa)",
+      "valence": 2.35,
+      "arousal": 3.68,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "My anxiety the size of a planet (yeah), oh Holes in my skull, over time My heart's over ice (whoa) I will see",
+      "valence": 2.52,
+      "arousal": 3.72,
+      "dominance": 2.57
+    }
+  ]
+}

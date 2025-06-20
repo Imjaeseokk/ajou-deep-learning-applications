@@ -1,0 +1,241 @@
+{
+  "artist": "The Weeknd & Ariana Grande",
+  "overall_vad": {
+    "valence": 2.54,
+    "arousal": 3.61,
+    "dominance": 2.95
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Ooh Na-na, yeah I saw you dancing in a crowded room You look so happy when I'm not with you",
+      "valence": 3.5,
+      "arousal": 3.63,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Na-na, yeah I saw you dancing in a crowded room You look so happy when I'm not with you But then you saw me, caught you by surprise",
+      "valence": 3.28,
+      "arousal": 3.54,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I saw you dancing in a crowded room You look so happy when I'm not with you But then you saw me, caught you by surprise A single teardrop falling from your eye",
+      "valence": 3.17,
+      "arousal": 3.52,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "You look so happy when I'm not with you But then you saw me, caught you by surprise A single teardrop falling from your eye I don't know why I run away",
+      "valence": 2.85,
+      "arousal": 3.62,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "But then you saw me, caught you by surprise A single teardrop falling from your eye I don't know why I run away I'll make you cry when I run away",
+      "valence": 2.56,
+      "arousal": 3.83,
+      "dominance": 2.6
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "A single teardrop falling from your eye I don't know why I run away I'll make you cry when I run away You could've asked me why I broke your heart",
+      "valence": 2.24,
+      "arousal": 3.74,
+      "dominance": 2.58
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I don't know why I run away I'll make you cry when I run away You could've asked me why I broke your heart You could've told me that you fell apart",
+      "valence": 2.14,
+      "arousal": 3.73,
+      "dominance": 2.64
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I'll make you cry when I run away You could've asked me why I broke your heart You could've told me that you fell apart But you walked past me like I wasn't there",
+      "valence": 2.23,
+      "arousal": 3.71,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "You could've asked me why I broke your heart You could've told me that you fell apart But you walked past me like I wasn't there And just pretended like you didn't care",
+      "valence": 2.52,
+      "arousal": 3.39,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "You could've told me that you fell apart But you walked past me like I wasn't there And just pretended like you didn't care I don't know why I run away",
+      "valence": 2.31,
+      "arousal": 3.46,
+      "dominance": 2.63
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "But you walked past me like I wasn't there And just pretended like you didn't care I don't know why I run away I'll make you cry when I run away",
+      "valence": 2.13,
+      "arousal": 3.62,
+      "dominance": 2.54
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "And just pretended like you didn't care I don't know why I run away I'll make you cry when I run away Take me back 'cause I wanna stay",
+      "valence": 2.19,
+      "arousal": 3.72,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I don't know why I run away I'll make you cry when I run away Take me back 'cause I wanna stay Save your tears for another",
+      "valence": 2.25,
+      "arousal": 3.86,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I'll make you cry when I run away Take me back 'cause I wanna stay Save your tears for another Save your tears for another day",
+      "valence": 2.46,
+      "arousal": 3.79,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Take me back 'cause I wanna stay Save your tears for another Save your tears for another day Save your tears for another day",
+      "valence": 2.77,
+      "arousal": 3.42,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Save your tears for another Save your tears for another day Save your tears for another day So, I made you think that I would always stay",
+      "valence": 2.88,
+      "arousal": 3.23,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Save your tears for another day Save your tears for another day So, I made you think that I would always stay I said some things that I should never say",
+      "valence": 2.79,
+      "arousal": 3.3,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Save your tears for another day So, I made you think that I would always stay I said some things that I should never say Yeah, I broke your heart like someone did to mine",
+      "valence": 2.58,
+      "arousal": 3.49,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "So, I made you think that I would always stay I said some things that I should never say Yeah, I broke your heart like someone did to mine And now you won't love me for a second time",
+      "valence": 2.4,
+      "arousal": 3.67,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I said some things that I should never say Yeah, I broke your heart like someone did to mine And now you won't love me for a second time I don't know why I run away, oh, girl",
+      "valence": 2.29,
+      "arousal": 3.8,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Yeah, I broke your heart like someone did to mine And now you won't love me for a second time I don't know why I run away, oh, girl Said I'll make you cry when I run away",
+      "valence": 2.17,
+      "arousal": 3.92,
+      "dominance": 2.52
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "And now you won't love me for a second time I don't know why I run away, oh, girl Said I'll make you cry when I run away Girl, take me back 'cause I wanna stay",
+      "valence": 2.41,
+      "arousal": 3.89,
+      "dominance": 2.62
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I don't know why I run away, oh, girl Said I'll make you cry when I run away Girl, take me back 'cause I wanna stay Save your tears for another",
+      "valence": 2.41,
+      "arousal": 3.82,
+      "dominance": 2.75
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Said I'll make you cry when I run away Girl, take me back 'cause I wanna stay Save your tears for another I realize that I'm much too late",
+      "valence": 2.37,
+      "arousal": 3.85,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Girl, take me back 'cause I wanna stay Save your tears for another I realize that I'm much too late And you deserve someone better",
+      "valence": 2.34,
+      "arousal": 3.7,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Save your tears for another I realize that I'm much too late And you deserve someone better Save your tears for another day (ooh, yeah)",
+      "valence": 2.56,
+      "arousal": 3.4,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I realize that I'm much too late And you deserve someone better Save your tears for another day (ooh, yeah) Save your tears for another day (yeah)",
+      "valence": 2.45,
+      "arousal": 3.36,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "And you deserve someone better Save your tears for another day (ooh, yeah) Save your tears for another day (yeah) I don't know why I run away",
+      "valence": 2.34,
+      "arousal": 3.52,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Save your tears for another day (ooh, yeah) Save your tears for another day (yeah) I don't know why I run away I'll make you cry when I run away",
+      "valence": 2.61,
+      "arousal": 3.47,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Save your tears for another day (yeah) I don't know why I run away I'll make you cry when I run away Save your tears for another day, ooh, girl (ah)",
+      "valence": 2.7,
+      "arousal": 3.59,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I don't know why I run away I'll make you cry when I run away Save your tears for another day, ooh, girl (ah) I said save your tears for another day (ah)",
+      "valence": 2.51,
+      "arousal": 3.73,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I'll make you cry when I run away Save your tears for another day, ooh, girl (ah) I said save your tears for another day (ah) Save your tears for another day (ah)",
+      "valence": 2.56,
+      "arousal": 3.66,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Save your tears for another day, ooh, girl (ah) I said save your tears for another day (ah) Save your tears for another day (ah) Save your tears for another day (ah)",
+      "valence": 2.97,
+      "arousal": 3.27,
+      "dominance": 3.33
+    }
+  ]
+}

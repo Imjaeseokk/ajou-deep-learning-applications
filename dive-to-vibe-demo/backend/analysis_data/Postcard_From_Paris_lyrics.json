@@ -1,0 +1,325 @@
+{
+  "artist": "The Band Perry",
+  "overall_vad": {
+    "valence": 2.81,
+    "arousal": 3.41,
+    "dominance": 3.0
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I remember when my heart caught the fever You were standing all alone in the summer heat I was with my boyfriend, my new boyfriend He was as sweet as he could be",
+      "valence": 3.44,
+      "arousal": 3.69,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "You were standing all alone in the summer heat I was with my boyfriend, my new boyfriend He was as sweet as he could be One look at you and I was through",
+      "valence": 3.44,
+      "arousal": 3.57,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I was with my boyfriend, my new boyfriend He was as sweet as he could be One look at you and I was through My heart switched up on me",
+      "valence": 3.76,
+      "arousal": 3.78,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "He was as sweet as he could be One look at you and I was through My heart switched up on me Like a postcard from Paris",
+      "valence": 3.92,
+      "arousal": 3.72,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "One look at you and I was through My heart switched up on me Like a postcard from Paris When I've seen the real thing",
+      "valence": 3.3,
+      "arousal": 3.63,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "My heart switched up on me Like a postcard from Paris When I've seen the real thing It's like finding out your diamond is",
+      "valence": 3.41,
+      "arousal": 3.63,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Like a postcard from Paris When I've seen the real thing It's like finding out your diamond is From her old promise ring",
+      "valence": 3.29,
+      "arousal": 3.35,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "When I've seen the real thing It's like finding out your diamond is From her old promise ring A call back from your fortune teller",
+      "valence": 3.19,
+      "arousal": 3.19,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "It's like finding out your diamond is From her old promise ring A call back from your fortune teller She read your cards upside down",
+      "valence": 3.23,
+      "arousal": 3.21,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "From her old promise ring A call back from your fortune teller She read your cards upside down The meanest thing you ever did is",
+      "valence": 2.8,
+      "arousal": 3.15,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "A call back from your fortune teller She read your cards upside down The meanest thing you ever did is Come around",
+      "valence": 2.86,
+      "arousal": 3.27,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "She read your cards upside down The meanest thing you ever did is Come around And now I'm ruined, yeah",
+      "valence": 2.49,
+      "arousal": 3.57,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "The meanest thing you ever did is Come around And now I'm ruined, yeah I'm ruined",
+      "valence": 2.14,
+      "arousal": 3.7,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Come around And now I'm ruined, yeah I'm ruined In the evening you can catch me daydreaming",
+      "valence": 2.48,
+      "arousal": 3.46,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And now I'm ruined, yeah I'm ruined In the evening you can catch me daydreaming Did that moment send you reeling just like me",
+      "valence": 2.28,
+      "arousal": 3.7,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I'm ruined In the evening you can catch me daydreaming Did that moment send you reeling just like me I should have gone over, right over",
+      "valence": 2.48,
+      "arousal": 3.43,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "In the evening you can catch me daydreaming Did that moment send you reeling just like me I should have gone over, right over I should have never let you leave",
+      "valence": 2.8,
+      "arousal": 3.32,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Did that moment send you reeling just like me I should have gone over, right over I should have never let you leave But it's the never knowing that keeps",
+      "valence": 2.54,
+      "arousal": 3.49,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I should have gone over, right over I should have never let you leave But it's the never knowing that keeps This going and drives me crazy",
+      "valence": 2.28,
+      "arousal": 3.54,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I should have never let you leave But it's the never knowing that keeps This going and drives me crazy Like a postcard from Paris",
+      "valence": 2.53,
+      "arousal": 3.47,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "But it's the never knowing that keeps This going and drives me crazy Like a postcard from Paris When I've seen the real thing",
+      "valence": 2.84,
+      "arousal": 3.5,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "This going and drives me crazy Like a postcard from Paris When I've seen the real thing It's like finding out your diamond is",
+      "valence": 2.9,
+      "arousal": 3.65,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Like a postcard from Paris When I've seen the real thing It's like finding out your diamond is From her old promise ring",
+      "valence": 3.29,
+      "arousal": 3.35,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "When I've seen the real thing It's like finding out your diamond is From her old promise ring A call back from your fortune teller",
+      "valence": 3.19,
+      "arousal": 3.19,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "It's like finding out your diamond is From her old promise ring A call back from your fortune teller She read your cards upside down",
+      "valence": 3.23,
+      "arousal": 3.21,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "From her old promise ring A call back from your fortune teller She read your cards upside down The meanest thing you ever did is",
+      "valence": 2.8,
+      "arousal": 3.15,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "A call back from your fortune teller She read your cards upside down The meanest thing you ever did is Come around",
+      "valence": 2.86,
+      "arousal": 3.27,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "She read your cards upside down The meanest thing you ever did is Come around Just when I thought things were alright",
+      "valence": 2.7,
+      "arousal": 3.3,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "The meanest thing you ever did is Come around Just when I thought things were alright My eyes played tricks on my mind",
+      "valence": 2.4,
+      "arousal": 3.34,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Come around Just when I thought things were alright My eyes played tricks on my mind Will I ever be satisfied",
+      "valence": 2.65,
+      "arousal": 3.21,
+      "dominance": 2.64
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Just when I thought things were alright My eyes played tricks on my mind Will I ever be satisfied 'Cause all I ever seem to find, is a",
+      "valence": 2.55,
+      "arousal": 3.3,
+      "dominance": 2.65
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "My eyes played tricks on my mind Will I ever be satisfied 'Cause all I ever seem to find, is a Postcard from Paris",
+      "valence": 2.58,
+      "arousal": 3.28,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Will I ever be satisfied 'Cause all I ever seem to find, is a Postcard from Paris When I need the real thing",
+      "valence": 2.62,
+      "arousal": 3.16,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "'Cause all I ever seem to find, is a Postcard from Paris When I need the real thing It's like finding out your diamond is",
+      "valence": 3.0,
+      "arousal": 3.26,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Postcard from Paris When I need the real thing It's like finding out your diamond is From an old promise ring",
+      "valence": 3.02,
+      "arousal": 3.12,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "When I need the real thing It's like finding out your diamond is From an old promise ring A call back from your fortune teller",
+      "valence": 3.09,
+      "arousal": 3.08,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "It's like finding out your diamond is From an old promise ring A call back from your fortune teller She read your cards upside down",
+      "valence": 3.19,
+      "arousal": 3.18,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "From an old promise ring A call back from your fortune teller She read your cards upside down The meanest thing you ever did",
+      "valence": 2.94,
+      "arousal": 3.13,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "A call back from your fortune teller She read your cards upside down The meanest thing you ever did The cruelest thing you ever did",
+      "valence": 2.8,
+      "arousal": 3.38,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "She read your cards upside down The meanest thing you ever did The cruelest thing you ever did The meanest thing you ever did",
+      "valence": 2.66,
+      "arousal": 3.42,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "The meanest thing you ever did The cruelest thing you ever did The meanest thing you ever did Is come around",
+      "valence": 2.41,
+      "arousal": 3.36,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "The cruelest thing you ever did The meanest thing you ever did Is come around I am ruined, yeah",
+      "valence": 2.12,
+      "arousal": 3.61,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "The meanest thing you ever did Is come around I am ruined, yeah I'm ruined",
+      "valence": 2.07,
+      "arousal": 3.74,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Is come around I am ruined, yeah I'm ruined Now I am ruined, yeah",
+      "valence": 2.19,
+      "arousal": 3.56,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I am ruined, yeah I'm ruined Now I am ruined, yeah I'm ruined",
+      "valence": 1.8,
+      "arousal": 3.76,
+      "dominance": 2.73
+    }
+  ]
+}

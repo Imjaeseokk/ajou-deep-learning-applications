@@ -1,0 +1,479 @@
+{
+  "artist": "Kanye West",
+  "overall_vad": {
+    "valence": 2.5,
+    "arousal": 3.57,
+    "dominance": 3.3
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "For my theme song My leather black jeans on My by any means on Pardon, I'm getting my scream on",
+      "valence": 2.93,
+      "arousal": 3.38,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "My leather black jeans on My by any means on Pardon, I'm getting my scream on Enter the kingdom",
+      "valence": 2.79,
+      "arousal": 3.56,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "My by any means on Pardon, I'm getting my scream on Enter the kingdom But watch who you bring home",
+      "valence": 2.75,
+      "arousal": 3.52,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Pardon, I'm getting my scream on Enter the kingdom But watch who you bring home They see a black man with a white woman",
+      "valence": 2.61,
+      "arousal": 3.61,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Enter the kingdom But watch who you bring home They see a black man with a white woman At the top floor they gone come to kill King Kong",
+      "valence": 2.75,
+      "arousal": 3.39,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "But watch who you bring home They see a black man with a white woman At the top floor they gone come to kill King Kong Middle America packed in",
+      "valence": 2.64,
+      "arousal": 3.46,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "They see a black man with a white woman At the top floor they gone come to kill King Kong Middle America packed in Came to see me in my black skin",
+      "valence": 2.63,
+      "arousal": 3.54,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "At the top floor they gone come to kill King Kong Middle America packed in Came to see me in my black skin Number one question they asking",
+      "valence": 2.68,
+      "arousal": 3.57,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Middle America packed in Came to see me in my black skin Number one question they asking Fuck every question you asking",
+      "valence": 2.65,
+      "arousal": 3.81,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Came to see me in my black skin Number one question they asking Fuck every question you asking If I don't get ran out by Catholics",
+      "valence": 2.43,
+      "arousal": 3.83,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Number one question they asking Fuck every question you asking If I don't get ran out by Catholics Here come some conservative Baptists",
+      "valence": 2.33,
+      "arousal": 3.72,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Fuck every question you asking If I don't get ran out by Catholics Here come some conservative Baptists Claiming I'm overreacting",
+      "valence": 2.25,
+      "arousal": 3.87,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "If I don't get ran out by Catholics Here come some conservative Baptists Claiming I'm overreacting Like them black kids in Chiraq bitch",
+      "valence": 2.34,
+      "arousal": 3.49,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Here come some conservative Baptists Claiming I'm overreacting Like them black kids in Chiraq bitch Four in the morning, and I'm zoning",
+      "valence": 2.48,
+      "arousal": 3.38,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Claiming I'm overreacting Like them black kids in Chiraq bitch Four in the morning, and I'm zoning They say I'm possessed, it's an omen",
+      "valence": 2.53,
+      "arousal": 3.49,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Like them black kids in Chiraq bitch Four in the morning, and I'm zoning They say I'm possessed, it's an omen I keep it 300, like the Romans",
+      "valence": 2.87,
+      "arousal": 3.32,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Four in the morning, and I'm zoning They say I'm possessed, it's an omen I keep it 300, like the Romans 300 bitches, where's the Trojans?",
+      "valence": 2.81,
+      "arousal": 3.38,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "They say I'm possessed, it's an omen I keep it 300, like the Romans 300 bitches, where's the Trojans? Baby we living in the moment",
+      "valence": 2.84,
+      "arousal": 3.41,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I keep it 300, like the Romans 300 bitches, where's the Trojans? Baby we living in the moment I've been a menace for the longest",
+      "valence": 2.52,
+      "arousal": 3.42,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "300 bitches, where's the Trojans? Baby we living in the moment I've been a menace for the longest But I ain't finished, I'm devoted",
+      "valence": 2.38,
+      "arousal": 3.52,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Baby we living in the moment I've been a menace for the longest But I ain't finished, I'm devoted And you know it, and you know it",
+      "valence": 2.43,
+      "arousal": 3.44,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I've been a menace for the longest But I ain't finished, I'm devoted And you know it, and you know it So follow me up cause this shit's about to go (down)",
+      "valence": 2.3,
+      "arousal": 3.63,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "But I ain't finished, I'm devoted And you know it, and you know it So follow me up cause this shit's about to go (down) I'm doing 500, I'm outta control (now)",
+      "valence": 2.34,
+      "arousal": 3.58,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "And you know it, and you know it So follow me up cause this shit's about to go (down) I'm doing 500, I'm outta control (now) But there's nowhere to go (now)",
+      "valence": 2.44,
+      "arousal": 3.71,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "So follow me up cause this shit's about to go (down) I'm doing 500, I'm outta control (now) But there's nowhere to go (now) And there's no way to slow (down)",
+      "valence": 2.41,
+      "arousal": 3.7,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I'm doing 500, I'm outta control (now) But there's nowhere to go (now) And there's no way to slow (down) If I knew what I knew in the past",
+      "valence": 2.56,
+      "arousal": 3.44,
+      "dominance": 2.67
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "But there's nowhere to go (now) And there's no way to slow (down) If I knew what I knew in the past I would've been blacked out on your ass",
+      "valence": 2.38,
+      "arousal": 3.5,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "And there's no way to slow (down) If I knew what I knew in the past I would've been blacked out on your ass Four in the morning, and I'm zoning",
+      "valence": 2.36,
+      "arousal": 3.42,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "If I knew what I knew in the past I would've been blacked out on your ass Four in the morning, and I'm zoning They say I'm possessed, it's an omen",
+      "valence": 2.62,
+      "arousal": 3.63,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I would've been blacked out on your ass Four in the morning, and I'm zoning They say I'm possessed, it's an omen I keep it 300, like the Romans",
+      "valence": 2.68,
+      "arousal": 3.58,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Four in the morning, and I'm zoning They say I'm possessed, it's an omen I keep it 300, like the Romans 300 bitches, where's the Trojans?",
+      "valence": 2.81,
+      "arousal": 3.38,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "They say I'm possessed, it's an omen I keep it 300, like the Romans 300 bitches, where's the Trojans? Baby, we living in the moment",
+      "valence": 2.85,
+      "arousal": 3.41,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I keep it 300, like the Romans 300 bitches, where's the Trojans? Baby, we living in the moment I've been a menace for the longest",
+      "valence": 2.51,
+      "arousal": 3.42,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "300 bitches, where's the Trojans? Baby, we living in the moment I've been a menace for the longest But I ain't finished, I'm devoted",
+      "valence": 2.39,
+      "arousal": 3.52,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Baby, we living in the moment I've been a menace for the longest But I ain't finished, I'm devoted And you know it, and you know it",
+      "valence": 2.47,
+      "arousal": 3.45,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I've been a menace for the longest But I ain't finished, I'm devoted And you know it, and you know it Stop all that coon shit",
+      "valence": 2.07,
+      "arousal": 3.67,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "But I ain't finished, I'm devoted And you know it, and you know it Stop all that coon shit Early morning cartoon shit",
+      "valence": 2.23,
+      "arousal": 3.54,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "And you know it, and you know it Stop all that coon shit Early morning cartoon shit This is that goon shit",
+      "valence": 2.15,
+      "arousal": 3.6,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Stop all that coon shit Early morning cartoon shit This is that goon shit Fuck up your whole afternoon shit",
+      "valence": 2.09,
+      "arousal": 3.67,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Early morning cartoon shit This is that goon shit Fuck up your whole afternoon shit I'm aware I'm a wolf",
+      "valence": 2.12,
+      "arousal": 3.63,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "This is that goon shit Fuck up your whole afternoon shit I'm aware I'm a wolf Soon as the moon hit",
+      "valence": 2.12,
+      "arousal": 3.79,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Fuck up your whole afternoon shit I'm aware I'm a wolf Soon as the moon hit I'm aware I'm a king",
+      "valence": 2.69,
+      "arousal": 3.87,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I'm aware I'm a wolf Soon as the moon hit I'm aware I'm a king Back out the tomb bitch",
+      "valence": 2.96,
+      "arousal": 3.37,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Soon as the moon hit I'm aware I'm a king Back out the tomb bitch Black out the room, bitch",
+      "valence": 2.77,
+      "arousal": 3.82,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I'm aware I'm a king Back out the tomb bitch Black out the room, bitch Stop all that coon shit",
+      "valence": 2.23,
+      "arousal": 3.82,
+      "dominance": 3.91
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Back out the tomb bitch Black out the room, bitch Stop all that coon shit These niggas ain't doin' shit",
+      "valence": 2.11,
+      "arousal": 3.76,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Black out the room, bitch Stop all that coon shit These niggas ain't doin' shit Them niggas ain't doing shit",
+      "valence": 2.02,
+      "arousal": 3.73,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Stop all that coon shit These niggas ain't doin' shit Them niggas ain't doing shit Come on homie what happened",
+      "valence": 2.27,
+      "arousal": 3.5,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "These niggas ain't doin' shit Them niggas ain't doing shit Come on homie what happened You niggas ain't breathing you gasping",
+      "valence": 2.3,
+      "arousal": 3.41,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Them niggas ain't doing shit Come on homie what happened You niggas ain't breathing you gasping These niggas ain't ready for action",
+      "valence": 2.27,
+      "arousal": 3.43,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Come on homie what happened You niggas ain't breathing you gasping These niggas ain't ready for action Ready-ready for action",
+      "valence": 2.54,
+      "arousal": 3.63,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "You niggas ain't breathing you gasping These niggas ain't ready for action Ready-ready for action Four in the morning, and I'm zoning",
+      "valence": 2.47,
+      "arousal": 3.42,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "These niggas ain't ready for action Ready-ready for action Four in the morning, and I'm zoning I think I'm possessed, it's an omen",
+      "valence": 2.55,
+      "arousal": 3.44,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Ready-ready for action Four in the morning, and I'm zoning I think I'm possessed, it's an omen I keep it 300 like the Romans",
+      "valence": 3.12,
+      "arousal": 3.44,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Four in the morning, and I'm zoning I think I'm possessed, it's an omen I keep it 300 like the Romans 300 bitches, where the Trojans?",
+      "valence": 2.71,
+      "arousal": 3.44,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "I think I'm possessed, it's an omen I keep it 300 like the Romans 300 bitches, where the Trojans? Baby, we livin' in the moment",
+      "valence": 2.85,
+      "arousal": 3.46,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "I keep it 300 like the Romans 300 bitches, where the Trojans? Baby, we livin' in the moment I've been a menace for the longest",
+      "valence": 2.52,
+      "arousal": 3.38,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "300 bitches, where the Trojans? Baby, we livin' in the moment I've been a menace for the longest But I ain't finished, I'm devoted",
+      "valence": 2.47,
+      "arousal": 3.45,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Baby, we livin' in the moment I've been a menace for the longest But I ain't finished, I'm devoted And you know it, and you know it",
+      "valence": 2.5,
+      "arousal": 3.44,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "I've been a menace for the longest But I ain't finished, I'm devoted And you know it, and you know it So follow me up cause this shit's about to go (down)",
+      "valence": 2.3,
+      "arousal": 3.63,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "But I ain't finished, I'm devoted And you know it, and you know it So follow me up cause this shit's about to go (down) I'm doing 500, I'm outta control (now)",
+      "valence": 2.34,
+      "arousal": 3.58,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "And you know it, and you know it So follow me up cause this shit's about to go (down) I'm doing 500, I'm outta control (now) But there's nowhere to go (now)",
+      "valence": 2.44,
+      "arousal": 3.71,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "So follow me up cause this shit's about to go (down) I'm doing 500, I'm outta control (now) But there's nowhere to go (now) And there's no way to slow (down)",
+      "valence": 2.41,
+      "arousal": 3.7,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "I'm doing 500, I'm outta control (now) But there's nowhere to go (now) And there's no way to slow (down) If I knew what I knew in the past",
+      "valence": 2.56,
+      "arousal": 3.44,
+      "dominance": 2.67
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "But there's nowhere to go (now) And there's no way to slow (down) If I knew what I knew in the past I would've been blacked out on your ass",
+      "valence": 2.38,
+      "arousal": 3.5,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "And there's no way to slow (down) If I knew what I knew in the past I would've been blacked out on your ass God, God, God, God!",
+      "valence": 2.36,
+      "arousal": 4.07,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "If I knew what I knew in the past I would've been blacked out on your ass God, God, God, God! God, God, God, God!",
+      "valence": 2.7,
+      "arousal": 4.16,
+      "dominance": 3.12
+    }
+  ]
+}

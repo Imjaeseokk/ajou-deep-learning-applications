@@ -1,0 +1,388 @@
+{
+  "artist": "Lizzo",
+  "overall_vad": {
+    "valence": 2.59,
+    "arousal": 3.6,
+    "dominance": 3.37
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Why men great 'til they gotta be great? Wooh I just took a DNA test, turns out I'm 100% that bitch Even when I'm crying crazy",
+      "valence": 2.35,
+      "arousal": 3.78,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Wooh I just took a DNA test, turns out I'm 100% that bitch Even when I'm crying crazy Yeah, I got boy problems, that's the human in me",
+      "valence": 2.36,
+      "arousal": 3.79,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I just took a DNA test, turns out I'm 100% that bitch Even when I'm crying crazy Yeah, I got boy problems, that's the human in me Bling bling, then I solve 'em, that's the goddess in me",
+      "valence": 2.64,
+      "arousal": 3.61,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Even when I'm crying crazy Yeah, I got boy problems, that's the human in me Bling bling, then I solve 'em, that's the goddess in me You coulda had a bad bitch, non-committal",
+      "valence": 2.52,
+      "arousal": 3.42,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Yeah, I got boy problems, that's the human in me Bling bling, then I solve 'em, that's the goddess in me You coulda had a bad bitch, non-committal Help you with your career, just a little",
+      "valence": 2.75,
+      "arousal": 3.4,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Bling bling, then I solve 'em, that's the goddess in me You coulda had a bad bitch, non-committal Help you with your career, just a little You're supposed to hold me down",
+      "valence": 2.67,
+      "arousal": 3.5,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "You coulda had a bad bitch, non-committal Help you with your career, just a little You're supposed to hold me down But you're holding me back",
+      "valence": 2.32,
+      "arousal": 3.59,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Help you with your career, just a little You're supposed to hold me down But you're holding me back And that's the sound of me not calling you back",
+      "valence": 2.64,
+      "arousal": 3.43,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "You're supposed to hold me down But you're holding me back And that's the sound of me not calling you back Why men great 'til they gotta be great?",
+      "valence": 2.38,
+      "arousal": 3.57,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "But you're holding me back And that's the sound of me not calling you back Why men great 'til they gotta be great? Don't text me, tell it straight to my face",
+      "valence": 2.27,
+      "arousal": 3.69,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "And that's the sound of me not calling you back Why men great 'til they gotta be great? Don't text me, tell it straight to my face Best friend sat me down in the salon chair",
+      "valence": 2.55,
+      "arousal": 3.6,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Why men great 'til they gotta be great? Don't text me, tell it straight to my face Best friend sat me down in the salon chair Shampoo press, get you out of my hair",
+      "valence": 2.75,
+      "arousal": 3.6,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Don't text me, tell it straight to my face Best friend sat me down in the salon chair Shampoo press, get you out of my hair Fresh photos with the bomb lighting",
+      "valence": 2.83,
+      "arousal": 3.73,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Best friend sat me down in the salon chair Shampoo press, get you out of my hair Fresh photos with the bomb lighting New man on the Minnesota Vikings",
+      "valence": 3.11,
+      "arousal": 3.28,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Shampoo press, get you out of my hair Fresh photos with the bomb lighting New man on the Minnesota Vikings Truth hurts, needed something more exciting",
+      "valence": 2.58,
+      "arousal": 3.48,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Fresh photos with the bomb lighting New man on the Minnesota Vikings Truth hurts, needed something more exciting Bom bom bi bom bi dum dum, ay",
+      "valence": 2.5,
+      "arousal": 3.46,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "New man on the Minnesota Vikings Truth hurts, needed something more exciting Bom bom bi bom bi dum dum, ay You tried to break my heart",
+      "valence": 2.43,
+      "arousal": 3.73,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Truth hurts, needed something more exciting Bom bom bi bom bi dum dum, ay You tried to break my heart Oh, that breaks my heart",
+      "valence": 2.29,
+      "arousal": 3.97,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Bom bom bi bom bi dum dum, ay You tried to break my heart Oh, that breaks my heart That you thought you ever had it",
+      "valence": 2.03,
+      "arousal": 3.85,
+      "dominance": 2.71
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "You tried to break my heart Oh, that breaks my heart That you thought you ever had it No you ain't from the start",
+      "valence": 2.04,
+      "arousal": 3.91,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Oh, that breaks my heart That you thought you ever had it No you ain't from the start Hey, I'm glad you're back with your bitch",
+      "valence": 2.85,
+      "arousal": 3.91,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "That you thought you ever had it No you ain't from the start Hey, I'm glad you're back with your bitch I mean who would wanna hide this?",
+      "valence": 2.8,
+      "arousal": 3.74,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "No you ain't from the start Hey, I'm glad you're back with your bitch I mean who would wanna hide this? I will never ever ever ever ever be your side chick",
+      "valence": 2.67,
+      "arousal": 3.75,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Hey, I'm glad you're back with your bitch I mean who would wanna hide this? I will never ever ever ever ever be your side chick I put the sing in single",
+      "valence": 2.86,
+      "arousal": 3.92,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I mean who would wanna hide this? I will never ever ever ever ever be your side chick I put the sing in single Ain't worried 'bout a ring on my finger",
+      "valence": 2.6,
+      "arousal": 3.69,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I will never ever ever ever ever be your side chick I put the sing in single Ain't worried 'bout a ring on my finger So you can tell your friends: Shoot your shot",
+      "valence": 2.5,
+      "arousal": 3.55,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I put the sing in single Ain't worried 'bout a ring on my finger So you can tell your friends: Shoot your shot When you see 'em",
+      "valence": 2.99,
+      "arousal": 3.38,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Ain't worried 'bout a ring on my finger So you can tell your friends: Shoot your shot When you see 'em It's OK, he already in my DMs",
+      "valence": 2.85,
+      "arousal": 3.44,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "So you can tell your friends: Shoot your shot When you see 'em It's OK, he already in my DMs Why men great 'til they gotta be great?",
+      "valence": 2.89,
+      "arousal": 3.41,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "When you see 'em It's OK, he already in my DMs Why men great 'til they gotta be great? Don't text me, tell it straight to my face",
+      "valence": 2.73,
+      "arousal": 3.5,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "It's OK, he already in my DMs Why men great 'til they gotta be great? Don't text me, tell it straight to my face Best friend sat me down in the salon chair",
+      "valence": 2.8,
+      "arousal": 3.54,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Why men great 'til they gotta be great? Don't text me, tell it straight to my face Best friend sat me down in the salon chair Shampoo press, get you out of my hair",
+      "valence": 2.75,
+      "arousal": 3.6,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Don't text me, tell it straight to my face Best friend sat me down in the salon chair Shampoo press, get you out of my hair Fresh photos with the bomb lighting",
+      "valence": 2.83,
+      "arousal": 3.73,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Best friend sat me down in the salon chair Shampoo press, get you out of my hair Fresh photos with the bomb lighting New man on the Minnesota Vikings",
+      "valence": 3.11,
+      "arousal": 3.28,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Shampoo press, get you out of my hair Fresh photos with the bomb lighting New man on the Minnesota Vikings Truth hurts, needed something more exciting",
+      "valence": 2.58,
+      "arousal": 3.48,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Fresh photos with the bomb lighting New man on the Minnesota Vikings Truth hurts, needed something more exciting Bom bom bi bom bi dum dum, ay",
+      "valence": 2.5,
+      "arousal": 3.46,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "New man on the Minnesota Vikings Truth hurts, needed something more exciting Bom bom bi bom bi dum dum, ay I'ma hit you back in a minute",
+      "valence": 2.63,
+      "arousal": 3.46,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Truth hurts, needed something more exciting Bom bom bi bom bi dum dum, ay I'ma hit you back in a minute I don't play tag, bitch I been it",
+      "valence": 2.24,
+      "arousal": 3.87,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Bom bom bi bom bi dum dum, ay I'ma hit you back in a minute I don't play tag, bitch I been it We don't fuck with lies",
+      "valence": 2.25,
+      "arousal": 3.86,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "I'ma hit you back in a minute I don't play tag, bitch I been it We don't fuck with lies We don't do goodbyes",
+      "valence": 2.15,
+      "arousal": 3.89,
+      "dominance": 3.86
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I don't play tag, bitch I been it We don't fuck with lies We don't do goodbyes We just keep it pushing like aye, aye, aye",
+      "valence": 2.45,
+      "arousal": 3.64,
+      "dominance": 3.78
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "We don't fuck with lies We don't do goodbyes We just keep it pushing like aye, aye, aye I'ma hit you back in a minute",
+      "valence": 2.65,
+      "arousal": 3.53,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "We don't do goodbyes We just keep it pushing like aye, aye, aye I'ma hit you back in a minute I don't play tag, bitch I been it",
+      "valence": 2.31,
+      "arousal": 3.56,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "We just keep it pushing like aye, aye, aye I'ma hit you back in a minute I don't play tag, bitch I been it We don't fuck with lies",
+      "valence": 2.4,
+      "arousal": 3.77,
+      "dominance": 3.85
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I'ma hit you back in a minute I don't play tag, bitch I been it We don't fuck with lies We don't do goodbyes",
+      "valence": 2.15,
+      "arousal": 3.89,
+      "dominance": 3.86
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I don't play tag, bitch I been it We don't fuck with lies We don't do goodbyes We just keep it pushing like aye, aye, aye",
+      "valence": 2.45,
+      "arousal": 3.64,
+      "dominance": 3.78
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "We don't fuck with lies We don't do goodbyes We just keep it pushing like aye, aye, aye Why men great 'til they gotta be great?",
+      "valence": 2.78,
+      "arousal": 3.31,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "We don't do goodbyes We just keep it pushing like aye, aye, aye Why men great 'til they gotta be great? Don't text me, tell it straight to my face",
+      "valence": 2.65,
+      "arousal": 3.39,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "We just keep it pushing like aye, aye, aye Why men great 'til they gotta be great? Don't text me, tell it straight to my face Best friend sat me down in the salon chair",
+      "valence": 2.78,
+      "arousal": 3.37,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Why men great 'til they gotta be great? Don't text me, tell it straight to my face Best friend sat me down in the salon chair Shampoo press, get you out of my hair",
+      "valence": 2.75,
+      "arousal": 3.6,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Don't text me, tell it straight to my face Best friend sat me down in the salon chair Shampoo press, get you out of my hair Fresh photos with the bomb lighting",
+      "valence": 2.83,
+      "arousal": 3.73,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Best friend sat me down in the salon chair Shampoo press, get you out of my hair Fresh photos with the bomb lighting New man on the Minnesota Vikings",
+      "valence": 3.11,
+      "arousal": 3.28,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Shampoo press, get you out of my hair Fresh photos with the bomb lighting New man on the Minnesota Vikings Truth hurts, needed something more exciting",
+      "valence": 2.58,
+      "arousal": 3.48,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Fresh photos with the bomb lighting New man on the Minnesota Vikings Truth hurts, needed something more exciting Bom bom bi bom bi dum dum, ay",
+      "valence": 2.5,
+      "arousal": 3.46,
+      "dominance": 3.01
+    }
+  ]
+}

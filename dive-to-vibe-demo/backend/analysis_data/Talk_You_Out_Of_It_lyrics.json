@@ -1,0 +1,283 @@
+{
+  "artist": "Florida Georgia Line",
+  "overall_vad": {
+    "valence": 3.33,
+    "arousal": 3.66,
+    "dominance": 3.31
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Girl, I know you had a long day You ain't feelin' them downtown lights But I got a bottle at your favorite place It's waitin' for us in a bucket on ice",
+      "valence": 3.32,
+      "arousal": 3.23,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "You ain't feelin' them downtown lights But I got a bottle at your favorite place It's waitin' for us in a bucket on ice Damn, I didn't think it'd be that easy",
+      "valence": 2.97,
+      "arousal": 3.27,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "But I got a bottle at your favorite place It's waitin' for us in a bucket on ice Damn, I didn't think it'd be that easy 'Cause now you're gettin' ready",
+      "valence": 3.1,
+      "arousal": 3.44,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "It's waitin' for us in a bucket on ice Damn, I didn't think it'd be that easy 'Cause now you're gettin' ready I'm just sittin' here watchin' TV",
+      "valence": 2.96,
+      "arousal": 3.3,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Damn, I didn't think it'd be that easy 'Cause now you're gettin' ready I'm just sittin' here watchin' TV Here you come lookin' like a grown man's dream",
+      "valence": 2.9,
+      "arousal": 3.68,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "'Cause now you're gettin' ready I'm just sittin' here watchin' TV Here you come lookin' like a grown man's dream Damn, I can't believe, I can't believe",
+      "valence": 3.26,
+      "arousal": 3.92,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I'm just sittin' here watchin' TV Here you come lookin' like a grown man's dream Damn, I can't believe, I can't believe I talked you into slippin' down the hall, baby, turn it on",
+      "valence": 3.11,
+      "arousal": 3.83,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Here you come lookin' like a grown man's dream Damn, I can't believe, I can't believe I talked you into slippin' down the hall, baby, turn it on Your playlist you play when you're in the shower",
+      "valence": 3.21,
+      "arousal": 3.93,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Damn, I can't believe, I can't believe I talked you into slippin' down the hall, baby, turn it on Your playlist you play when you're in the shower Talked you into takin' up my time, makin' up your mind",
+      "valence": 3.11,
+      "arousal": 4.09,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I talked you into slippin' down the hall, baby, turn it on Your playlist you play when you're in the shower Talked you into takin' up my time, makin' up your mind Switchin' back and forth for an hour",
+      "valence": 3.23,
+      "arousal": 3.47,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Your playlist you play when you're in the shower Talked you into takin' up my time, makin' up your mind Switchin' back and forth for an hour And now you're lookin' like a line from a Vandross song",
+      "valence": 3.01,
+      "arousal": 3.4,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Talked you into takin' up my time, makin' up your mind Switchin' back and forth for an hour And now you're lookin' like a line from a Vandross song I'm lookin' at that fine little dress you got on",
+      "valence": 3.1,
+      "arousal": 3.43,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Switchin' back and forth for an hour And now you're lookin' like a line from a Vandross song I'm lookin' at that fine little dress you got on Don't get me wrong, girl, I love it",
+      "valence": 3.86,
+      "arousal": 3.9,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "And now you're lookin' like a line from a Vandross song I'm lookin' at that fine little dress you got on Don't get me wrong, girl, I love it Now I just wanna talk you out of it",
+      "valence": 3.52,
+      "arousal": 4.0,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I'm lookin' at that fine little dress you got on Don't get me wrong, girl, I love it Now I just wanna talk you out of it Yeah, as cool as it would be",
+      "valence": 3.6,
+      "arousal": 4.0,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Don't get me wrong, girl, I love it Now I just wanna talk you out of it Yeah, as cool as it would be Watchin' people wonder who you are",
+      "valence": 3.7,
+      "arousal": 4.04,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Now I just wanna talk you out of it Yeah, as cool as it would be Watchin' people wonder who you are Oh, we should just say we did, we can start with a kiss",
+      "valence": 3.13,
+      "arousal": 3.7,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Yeah, as cool as it would be Watchin' people wonder who you are Oh, we should just say we did, we can start with a kiss And pretend we just got back from the bar",
+      "valence": 3.37,
+      "arousal": 3.45,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Watchin' people wonder who you are Oh, we should just say we did, we can start with a kiss And pretend we just got back from the bar I talked you into slippin' down the hall, baby, turn it on",
+      "valence": 3.27,
+      "arousal": 3.58,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Oh, we should just say we did, we can start with a kiss And pretend we just got back from the bar I talked you into slippin' down the hall, baby, turn it on Your playlist you play when you're in the shower",
+      "valence": 3.4,
+      "arousal": 3.5,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "And pretend we just got back from the bar I talked you into slippin' down the hall, baby, turn it on Your playlist you play when you're in the shower Talked you into takin' up my time, makin' up your mind",
+      "valence": 3.3,
+      "arousal": 3.4,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I talked you into slippin' down the hall, baby, turn it on Your playlist you play when you're in the shower Talked you into takin' up my time, makin' up your mind Switchin' back and forth for an hour",
+      "valence": 3.23,
+      "arousal": 3.47,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Your playlist you play when you're in the shower Talked you into takin' up my time, makin' up your mind Switchin' back and forth for an hour And now you're lookin' like a line from a Vandross song",
+      "valence": 3.01,
+      "arousal": 3.4,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Talked you into takin' up my time, makin' up your mind Switchin' back and forth for an hour And now you're lookin' like a line from a Vandross song I'm lookin' at that fine little dress you got on",
+      "valence": 3.1,
+      "arousal": 3.43,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Switchin' back and forth for an hour And now you're lookin' like a line from a Vandross song I'm lookin' at that fine little dress you got on Don't get me wrong, girl, I love it",
+      "valence": 3.86,
+      "arousal": 3.9,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "And now you're lookin' like a line from a Vandross song I'm lookin' at that fine little dress you got on Don't get me wrong, girl, I love it Now I just wanna talk you out of it",
+      "valence": 3.52,
+      "arousal": 4.0,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I'm lookin' at that fine little dress you got on Don't get me wrong, girl, I love it Now I just wanna talk you out of it Yeah, it's a little cold outside",
+      "valence": 3.46,
+      "arousal": 3.99,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Don't get me wrong, girl, I love it Now I just wanna talk you out of it Yeah, it's a little cold outside Music's probably way too loud to hear you laugh",
+      "valence": 3.64,
+      "arousal": 4.04,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Now I just wanna talk you out of it Yeah, it's a little cold outside Music's probably way too loud to hear you laugh And there's a look in your eyes",
+      "valence": 2.74,
+      "arousal": 3.38,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Yeah, it's a little cold outside Music's probably way too loud to hear you laugh And there's a look in your eyes Looks like we ain't leavin' now",
+      "valence": 2.74,
+      "arousal": 3.12,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Music's probably way too loud to hear you laugh And there's a look in your eyes Looks like we ain't leavin' now Girl, I'm so glad, I'm so glad",
+      "valence": 3.69,
+      "arousal": 3.69,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "And there's a look in your eyes Looks like we ain't leavin' now Girl, I'm so glad, I'm so glad I talked you into slippin' down the hall, baby, turn it on",
+      "valence": 3.88,
+      "arousal": 3.82,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Looks like we ain't leavin' now Girl, I'm so glad, I'm so glad I talked you into slippin' down the hall, baby, turn it on Your playlist you play when you're in the shower",
+      "valence": 3.89,
+      "arousal": 3.85,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Girl, I'm so glad, I'm so glad I talked you into slippin' down the hall, baby, turn it on Your playlist you play when you're in the shower Talked you into takin' up my time, makin' up your mind",
+      "valence": 4.14,
+      "arousal": 3.87,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I talked you into slippin' down the hall, baby, turn it on Your playlist you play when you're in the shower Talked you into takin' up my time, makin' up your mind Switchin' back and forth for an hour",
+      "valence": 3.23,
+      "arousal": 3.47,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Your playlist you play when you're in the shower Talked you into takin' up my time, makin' up your mind Switchin' back and forth for an hour And now you're lookin' like a line from a Vandross song",
+      "valence": 3.01,
+      "arousal": 3.4,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Talked you into takin' up my time, makin' up your mind Switchin' back and forth for an hour And now you're lookin' like a line from a Vandross song I'm lookin' at that fine little dress you got on",
+      "valence": 3.1,
+      "arousal": 3.43,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Switchin' back and forth for an hour And now you're lookin' like a line from a Vandross song I'm lookin' at that fine little dress you got on Don't get me wrong, girl, I love it",
+      "valence": 3.86,
+      "arousal": 3.9,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "And now you're lookin' like a line from a Vandross song I'm lookin' at that fine little dress you got on Don't get me wrong, girl, I love it Now I just wanna talk you out of it",
+      "valence": 3.52,
+      "arousal": 4.0,
+      "dominance": 3.34
+    }
+  ]
+}

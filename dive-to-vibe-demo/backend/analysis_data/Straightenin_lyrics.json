@@ -1,0 +1,808 @@
+{
+  "artist": "Migos",
+  "overall_vad": {
+    "valence": 2.85,
+    "arousal": 3.39,
+    "dominance": 3.43
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "DJ Durel! (Ayy, Castro go crazy) Yeah (soo), we gone (huh), stop, we good (stop) Chill, we on (yeah), scale, let's go (let's go) Domingo, let's go (Migo)",
+      "valence": 3.06,
+      "arousal": 3.62,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Yeah (soo), we gone (huh), stop, we good (stop) Chill, we on (yeah), scale, let's go (let's go) Domingo, let's go (Migo) Take, huh, let's go, huh",
+      "valence": 2.95,
+      "arousal": 3.37,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Chill, we on (yeah), scale, let's go (let's go) Domingo, let's go (Migo) Take, huh, let's go, huh 'Set, let's roll",
+      "valence": 3.27,
+      "arousal": 3.39,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Domingo, let's go (Migo) Take, huh, let's go, huh 'Set, let's roll Straightenin', straightenin' (woo)",
+      "valence": 3.2,
+      "arousal": 3.34,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Take, huh, let's go, huh 'Set, let's roll Straightenin', straightenin' (woo) Straightenin', yeah (straight)",
+      "valence": 3.26,
+      "arousal": 3.36,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "'Set, let's roll Straightenin', straightenin' (woo) Straightenin', yeah (straight) Straightenin', straightenin' (soo)",
+      "valence": 3.23,
+      "arousal": 3.27,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Straightenin', straightenin' (woo) Straightenin', yeah (straight) Straightenin', straightenin' (soo) Straightenin', yeah (straight)",
+      "valence": 3.27,
+      "arousal": 3.13,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Straightenin', yeah (straight) Straightenin', straightenin' (soo) Straightenin', yeah (straight) Don't nothing get straightenin' but straightenin' (hey)",
+      "valence": 3.12,
+      "arousal": 3.05,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Straightenin', straightenin' (soo) Straightenin', yeah (straight) Don't nothing get straightenin' but straightenin' (hey) Don't nothing get straightenin' but straightenin' (soo)",
+      "valence": 2.96,
+      "arousal": 3.02,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Straightenin', yeah (straight) Don't nothing get straightenin' but straightenin' (hey) Don't nothing get straightenin' but straightenin' (soo) Don't nothing get straightenin' but straightenin' (straight)",
+      "valence": 2.91,
+      "arousal": 2.97,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Don't nothing get straightenin' but straightenin' (hey) Don't nothing get straightenin' but straightenin' (soo) Don't nothing get straightenin' but straightenin' (straight) You 'on't get shit straight, you gon' straighten it",
+      "valence": 2.66,
+      "arousal": 3.1,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Don't nothing get straightenin' but straightenin' (soo) Don't nothing get straightenin' but straightenin' (straight) You 'on't get shit straight, you gon' straighten it In this game, sit back, be patient (gang)",
+      "valence": 2.89,
+      "arousal": 3.15,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Don't nothing get straightenin' but straightenin' (straight) You 'on't get shit straight, you gon' straighten it In this game, sit back, be patient (gang) Niggas act like the gang went vacant (huh?)",
+      "valence": 2.6,
+      "arousal": 3.29,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "You 'on't get shit straight, you gon' straighten it In this game, sit back, be patient (gang) Niggas act like the gang went vacant (huh?) Niggas act like something been taken (took what?)",
+      "valence": 2.43,
+      "arousal": 3.5,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "In this game, sit back, be patient (gang) Niggas act like the gang went vacant (huh?) Niggas act like something been taken (took what?) Ain't nothing but a little bit of straightenin' (I'm tellin ya)",
+      "valence": 2.66,
+      "arousal": 3.31,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Niggas act like the gang went vacant (huh?) Niggas act like something been taken (took what?) Ain't nothing but a little bit of straightenin' (I'm tellin ya) Been kicking shit, popping out daily (go)",
+      "valence": 2.47,
+      "arousal": 3.51,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Niggas act like something been taken (took what?) Ain't nothing but a little bit of straightenin' (I'm tellin ya) Been kicking shit, popping out daily (go) On an island, it's a movie I'm making (that's facts)",
+      "valence": 2.73,
+      "arousal": 3.54,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Ain't nothing but a little bit of straightenin' (I'm tellin ya) Been kicking shit, popping out daily (go) On an island, it's a movie I'm making (that's facts) I'm counting dineros with Robert DeNiro",
+      "valence": 3.05,
+      "arousal": 3.31,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Been kicking shit, popping out daily (go) On an island, it's a movie I'm making (that's facts) I'm counting dineros with Robert DeNiro He telling 'em that Cho amazing (ayy)",
+      "valence": 3.23,
+      "arousal": 3.63,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "On an island, it's a movie I'm making (that's facts) I'm counting dineros with Robert DeNiro He telling 'em that Cho amazing (ayy) Put that shit on (shit on), niggas get shit on (shit on)",
+      "valence": 2.7,
+      "arousal": 3.81,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I'm counting dineros with Robert DeNiro He telling 'em that Cho amazing (ayy) Put that shit on (shit on), niggas get shit on (shit on) I bought two whips, and I put my bitch on (skrrt)",
+      "valence": 2.48,
+      "arousal": 3.91,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "He telling 'em that Cho amazing (ayy) Put that shit on (shit on), niggas get shit on (shit on) I bought two whips, and I put my bitch on (skrrt) She put this wrist on (wrist)",
+      "valence": 2.22,
+      "arousal": 3.88,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Put that shit on (shit on), niggas get shit on (shit on) I bought two whips, and I put my bitch on (skrrt) She put this wrist on (wrist) She factory set it with Richard Mille prongs (ice)",
+      "valence": 2.02,
+      "arousal": 3.77,
+      "dominance": 3.77
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I bought two whips, and I put my bitch on (skrrt) She put this wrist on (wrist) She factory set it with Richard Mille prongs (ice) Turn a pandemic into a bandemic",
+      "valence": 2.39,
+      "arousal": 3.6,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "She put this wrist on (wrist) She factory set it with Richard Mille prongs (ice) Turn a pandemic into a bandemic You know that's the shit that we on (yes, sir)",
+      "valence": 2.48,
+      "arousal": 3.43,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "She factory set it with Richard Mille prongs (ice) Turn a pandemic into a bandemic You know that's the shit that we on (yes, sir) Them niggas gon' pull up and act like this shit is together",
+      "valence": 2.63,
+      "arousal": 3.3,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Turn a pandemic into a bandemic You know that's the shit that we on (yes, sir) Them niggas gon' pull up and act like this shit is together We don't fuck with you, homes (fuck 'em)",
+      "valence": 2.23,
+      "arousal": 3.61,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "You know that's the shit that we on (yes, sir) Them niggas gon' pull up and act like this shit is together We don't fuck with you, homes (fuck 'em) Uh-uh, I don't do the fake kicking (no)",
+      "valence": 2.33,
+      "arousal": 3.5,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Them niggas gon' pull up and act like this shit is together We don't fuck with you, homes (fuck 'em) Uh-uh, I don't do the fake kicking (no) There go a rocket, is Take in it? (Soo)",
+      "valence": 2.29,
+      "arousal": 3.69,
+      "dominance": 3.8
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "We don't fuck with you, homes (fuck 'em) Uh-uh, I don't do the fake kicking (no) There go a rocket, is Take in it? (Soo) It's a problem with few? Then we straight in it (straight)",
+      "valence": 2.38,
+      "arousal": 3.54,
+      "dominance": 3.83
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Uh-uh, I don't do the fake kicking (no) There go a rocket, is Take in it? (Soo) It's a problem with few? Then we straight in it (straight) Swap out the cat, put a demon in it (skrrt)",
+      "valence": 2.74,
+      "arousal": 3.13,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "There go a rocket, is Take in it? (Soo) It's a problem with few? Then we straight in it (straight) Swap out the cat, put a demon in it (skrrt) Upgrade the bando, put fiends in it (woo)",
+      "valence": 2.73,
+      "arousal": 3.29,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "It's a problem with few? Then we straight in it (straight) Swap out the cat, put a demon in it (skrrt) Upgrade the bando, put fiends in it (woo) I got some shooters you ain't seen with me (grrr)",
+      "valence": 2.58,
+      "arousal": 3.46,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Swap out the cat, put a demon in it (skrrt) Upgrade the bando, put fiends in it (woo) I got some shooters you ain't seen with me (grrr) We'll run that shit back, I just seen Tenet (woah)",
+      "valence": 2.46,
+      "arousal": 3.67,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Upgrade the bando, put fiends in it (woo) I got some shooters you ain't seen with me (grrr) We'll run that shit back, I just seen Tenet (woah) We're going to get straightenin'",
+      "valence": 2.59,
+      "arousal": 3.65,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I got some shooters you ain't seen with me (grrr) We'll run that shit back, I just seen Tenet (woah) We're going to get straightenin' Straightenin', straightenin' (woo)",
+      "valence": 2.9,
+      "arousal": 3.57,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "We'll run that shit back, I just seen Tenet (woah) We're going to get straightenin' Straightenin', straightenin' (woo) Straightenin', yeah (straight)",
+      "valence": 3.07,
+      "arousal": 3.47,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "We're going to get straightenin' Straightenin', straightenin' (woo) Straightenin', yeah (straight) Straightenin', straightenin' (soo)",
+      "valence": 3.25,
+      "arousal": 3.36,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Straightenin', straightenin' (woo) Straightenin', yeah (straight) Straightenin', straightenin' (soo) Straightenin', yeah (straight)",
+      "valence": 3.27,
+      "arousal": 3.13,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Straightenin', yeah (straight) Straightenin', straightenin' (soo) Straightenin', yeah (straight) Don't nothing get straightenin' but straightenin' (hey)",
+      "valence": 3.12,
+      "arousal": 3.05,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Straightenin', straightenin' (soo) Straightenin', yeah (straight) Don't nothing get straightenin' but straightenin' (hey) Don't nothing get straightenin' but straightenin' (soo)",
+      "valence": 2.96,
+      "arousal": 3.02,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Straightenin', yeah (straight) Don't nothing get straightenin' but straightenin' (hey) Don't nothing get straightenin' but straightenin' (soo) Don't nothing get straightenin' but straightenin' (straight)",
+      "valence": 2.91,
+      "arousal": 2.97,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Don't nothing get straightenin' but straightenin' (hey) Don't nothing get straightenin' but straightenin' (soo) Don't nothing get straightenin' but straightenin' (straight) You 'on't get shit straight, you gon' straighten it (Takeoff)",
+      "valence": 2.75,
+      "arousal": 3.16,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Don't nothing get straightenin' but straightenin' (soo) Don't nothing get straightenin' but straightenin' (straight) You 'on't get shit straight, you gon' straighten it (Takeoff) You don't get shit straight if you don't straighten it (no)",
+      "valence": 2.72,
+      "arousal": 3.16,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Don't nothing get straightenin' but straightenin' (straight) You 'on't get shit straight, you gon' straighten it (Takeoff) You don't get shit straight if you don't straighten it (no) I'm the type to sit back and watch patient (watch)",
+      "valence": 2.8,
+      "arousal": 3.19,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "You 'on't get shit straight, you gon' straighten it (Takeoff) You don't get shit straight if you don't straighten it (no) I'm the type to sit back and watch patient (watch) Do a trick with the stick, it's amazing (stick)",
+      "valence": 3.13,
+      "arousal": 3.65,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "You don't get shit straight if you don't straighten it (no) I'm the type to sit back and watch patient (watch) Do a trick with the stick, it's amazing (stick) In the bando, trapping out vacants (bando)",
+      "valence": 3.18,
+      "arousal": 3.58,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I'm the type to sit back and watch patient (watch) Do a trick with the stick, it's amazing (stick) In the bando, trapping out vacants (bando) Locs on like I'm starring in The Matrix (Matrix)",
+      "valence": 3.45,
+      "arousal": 3.48,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Do a trick with the stick, it's amazing (stick) In the bando, trapping out vacants (bando) Locs on like I'm starring in The Matrix (Matrix) I keep the cookie like my grandma made it (cookie)",
+      "valence": 3.48,
+      "arousal": 3.43,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "In the bando, trapping out vacants (bando) Locs on like I'm starring in The Matrix (Matrix) I keep the cookie like my grandma made it (cookie) I keep the keys and the pounds and the babies (keys)",
+      "valence": 3.12,
+      "arousal": 3.2,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Locs on like I'm starring in The Matrix (Matrix) I keep the cookie like my grandma made it (cookie) I keep the keys and the pounds and the babies (keys) And the bricks came white like Shady (white)",
+      "valence": 3.13,
+      "arousal": 3.16,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "I keep the cookie like my grandma made it (cookie) I keep the keys and the pounds and the babies (keys) And the bricks came white like Shady (white) Drive the Lambo' through the avenue (skrrt)",
+      "valence": 3.09,
+      "arousal": 2.97,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "I keep the keys and the pounds and the babies (keys) And the bricks came white like Shady (white) Drive the Lambo' through the avenue (skrrt) Pretty lil' bih with a attitude (bad)",
+      "valence": 2.71,
+      "arousal": 3.19,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "And the bricks came white like Shady (white) Drive the Lambo' through the avenue (skrrt) Pretty lil' bih with a attitude (bad) Give a shout-out to the white boy (boys)",
+      "valence": 3.24,
+      "arousal": 3.37,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Drive the Lambo' through the avenue (skrrt) Pretty lil' bih with a attitude (bad) Give a shout-out to the white boy (boys) All white Rolls look radical (radical)",
+      "valence": 3.04,
+      "arousal": 3.38,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Pretty lil' bih with a attitude (bad) Give a shout-out to the white boy (boys) All white Rolls look radical (radical) Keep you a fire, don't let them take it (no)",
+      "valence": 2.83,
+      "arousal": 3.35,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Give a shout-out to the white boy (boys) All white Rolls look radical (radical) Keep you a fire, don't let them take it (no) If they get yours, you gotta get straightenin' (straightenin')",
+      "valence": 3.02,
+      "arousal": 3.42,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "All white Rolls look radical (radical) Keep you a fire, don't let them take it (no) If they get yours, you gotta get straightenin' (straightenin') I catch a opp, I give him a facelift (opp)",
+      "valence": 2.86,
+      "arousal": 3.37,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Keep you a fire, don't let them take it (no) If they get yours, you gotta get straightenin' (straightenin') I catch a opp, I give him a facelift (opp) My niggas lurking and spinning the day-shift (lurk)",
+      "valence": 3.03,
+      "arousal": 3.39,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "If they get yours, you gotta get straightenin' (straightenin') I catch a opp, I give him a facelift (opp) My niggas lurking and spinning the day-shift (lurk) I got them racks when you see me (rackades)",
+      "valence": 3.05,
+      "arousal": 3.42,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "I catch a opp, I give him a facelift (opp) My niggas lurking and spinning the day-shift (lurk) I got them racks when you see me (rackades) Spin back to back, it's a repeat (spin)",
+      "valence": 3.17,
+      "arousal": 3.43,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "My niggas lurking and spinning the day-shift (lurk) I got them racks when you see me (rackades) Spin back to back, it's a repeat (spin) Championship, it's a three-peat (three)",
+      "valence": 3.37,
+      "arousal": 3.6,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "I got them racks when you see me (rackades) Spin back to back, it's a repeat (spin) Championship, it's a three-peat (three) Shoot out the window like Drizzy and Freaky (freak)",
+      "valence": 3.24,
+      "arousal": 3.58,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Spin back to back, it's a repeat (spin) Championship, it's a three-peat (three) Shoot out the window like Drizzy and Freaky (freak) I keep it on me, believe me (yes, sir)",
+      "valence": 3.16,
+      "arousal": 3.65,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Championship, it's a three-peat (three) Shoot out the window like Drizzy and Freaky (freak) I keep it on me, believe me (yes, sir) I be up high where the trees be (high)",
+      "valence": 3.21,
+      "arousal": 3.82,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Shoot out the window like Drizzy and Freaky (freak) I keep it on me, believe me (yes, sir) I be up high where the trees be (high) I go and put on so much of this ice",
+      "valence": 2.92,
+      "arousal": 3.37,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "I keep it on me, believe me (yes, sir) I be up high where the trees be (high) I go and put on so much of this ice They said, \"Don't touch me, you gon' freeze me\" (freeze)",
+      "valence": 2.75,
+      "arousal": 3.41,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "I be up high where the trees be (high) I go and put on so much of this ice They said, \"Don't touch me, you gon' freeze me\" (freeze) Straightenin', straightenin' (woo)",
+      "valence": 2.65,
+      "arousal": 3.5,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "I go and put on so much of this ice They said, \"Don't touch me, you gon' freeze me\" (freeze) Straightenin', straightenin' (woo) Straightenin', yeah (straight)",
+      "valence": 2.6,
+      "arousal": 3.5,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "They said, \"Don't touch me, you gon' freeze me\" (freeze) Straightenin', straightenin' (woo) Straightenin', yeah (straight) Straightenin', straightenin' (soo)",
+      "valence": 2.59,
+      "arousal": 3.52,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Straightenin', straightenin' (woo) Straightenin', yeah (straight) Straightenin', straightenin' (soo) Straightenin', yeah (straight)",
+      "valence": 3.27,
+      "arousal": 3.13,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Straightenin', yeah (straight) Straightenin', straightenin' (soo) Straightenin', yeah (straight) Don't nothing get straightenin' but straightenin' (hey)",
+      "valence": 3.12,
+      "arousal": 3.05,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Straightenin', straightenin' (soo) Straightenin', yeah (straight) Don't nothing get straightenin' but straightenin' (hey) Don't nothing get straightenin' but straightenin' (soo)",
+      "valence": 2.96,
+      "arousal": 3.02,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Straightenin', yeah (straight) Don't nothing get straightenin' but straightenin' (hey) Don't nothing get straightenin' but straightenin' (soo) Don't nothing get straightenin' but straightenin' (straight)",
+      "valence": 2.91,
+      "arousal": 2.97,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Don't nothing get straightenin' but straightenin' (hey) Don't nothing get straightenin' but straightenin' (soo) Don't nothing get straightenin' but straightenin' (straight) You 'on't get shit straight, you gon' straighten it (Offset)",
+      "valence": 2.76,
+      "arousal": 3.12,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "Don't nothing get straightenin' but straightenin' (soo) Don't nothing get straightenin' but straightenin' (straight) You 'on't get shit straight, you gon' straighten it (Offset) Get my straightenin' (straightenin')",
+      "valence": 2.77,
+      "arousal": 3.26,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "Don't nothing get straightenin' but straightenin' (straight) You 'on't get shit straight, you gon' straighten it (Offset) Get my straightenin' (straightenin') Automatic handgun like the Navy (automatic, raow)",
+      "valence": 2.59,
+      "arousal": 3.31,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "You 'on't get shit straight, you gon' straighten it (Offset) Get my straightenin' (straightenin') Automatic handgun like the Navy (automatic, raow) I keep a hundred round drum, I ain't fading (paow-paow)",
+      "valence": 2.61,
+      "arousal": 3.32,
+      "dominance": 3.77
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "Get my straightenin' (straightenin') Automatic handgun like the Navy (automatic, raow) I keep a hundred round drum, I ain't fading (paow-paow) Turn a nigga to a mummy with the payment (woo, woo)",
+      "valence": 2.9,
+      "arousal": 3.36,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "Automatic handgun like the Navy (automatic, raow) I keep a hundred round drum, I ain't fading (paow-paow) Turn a nigga to a mummy with the payment (woo, woo) Terminate him with the money, it was gravy (terminator)",
+      "valence": 2.71,
+      "arousal": 3.39,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "I keep a hundred round drum, I ain't fading (paow-paow) Turn a nigga to a mummy with the payment (woo, woo) Terminate him with the money, it was gravy (terminator) Spin an opp block, rock-a-bye, baby (rock-a-bye)",
+      "valence": 2.82,
+      "arousal": 3.45,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "Turn a nigga to a mummy with the payment (woo, woo) Terminate him with the money, it was gravy (terminator) Spin an opp block, rock-a-bye, baby (rock-a-bye) Made his heart stop, made his mama hate me (make 'em hate me)",
+      "valence": 2.6,
+      "arousal": 3.68,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "Terminate him with the money, it was gravy (terminator) Spin an opp block, rock-a-bye, baby (rock-a-bye) Made his heart stop, made his mama hate me (make 'em hate me) We were trapping out the spot out the basement (out the spot)",
+      "valence": 2.39,
+      "arousal": 3.67,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "Spin an opp block, rock-a-bye, baby (rock-a-bye) Made his heart stop, made his mama hate me (make 'em hate me) We were trapping out the spot out the basement (out the spot) Tasmanian Devil, we spin on your block (spin)",
+      "valence": 2.69,
+      "arousal": 3.7,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "Made his heart stop, made his mama hate me (make 'em hate me) We were trapping out the spot out the basement (out the spot) Tasmanian Devil, we spin on your block (spin) I pop a Perc', and I'm going berserk (woah, woah)",
+      "valence": 2.65,
+      "arousal": 3.77,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 86,
+      "lyrics_text": "We were trapping out the spot out the basement (out the spot) Tasmanian Devil, we spin on your block (spin) I pop a Perc', and I'm going berserk (woah, woah) And I woke up and bought me a drop (like fuck it)",
+      "valence": 2.74,
+      "arousal": 3.79,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 87,
+      "lyrics_text": "Tasmanian Devil, we spin on your block (spin) I pop a Perc', and I'm going berserk (woah, woah) And I woke up and bought me a drop (like fuck it) Straight to the point, I get straight to the straightenin'",
+      "valence": 2.7,
+      "arousal": 3.85,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 88,
+      "lyrics_text": "I pop a Perc', and I'm going berserk (woah, woah) And I woke up and bought me a drop (like fuck it) Straight to the point, I get straight to the straightenin' Your buddy, he can't even walk (straight, straight)",
+      "valence": 2.56,
+      "arousal": 4.07,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 89,
+      "lyrics_text": "And I woke up and bought me a drop (like fuck it) Straight to the point, I get straight to the straightenin' Your buddy, he can't even walk (straight, straight) We gutted him, nobody talk (we gutted him)",
+      "valence": 2.22,
+      "arousal": 3.87,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 90,
+      "lyrics_text": "Straight to the point, I get straight to the straightenin' Your buddy, he can't even walk (straight, straight) We gutted him, nobody talk (we gutted him) New Cullinan, stars start to fall (New Cullinan)",
+      "valence": 2.71,
+      "arousal": 3.35,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 91,
+      "lyrics_text": "Your buddy, he can't even walk (straight, straight) We gutted him, nobody talk (we gutted him) New Cullinan, stars start to fall (New Cullinan) Trapping and hustling, beat down the walls (beat down)",
+      "valence": 2.61,
+      "arousal": 3.64,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 92,
+      "lyrics_text": "We gutted him, nobody talk (we gutted him) New Cullinan, stars start to fall (New Cullinan) Trapping and hustling, beat down the walls (beat down) I'm with the steppa, Nawfside repper (Nawf)",
+      "valence": 2.8,
+      "arousal": 3.53,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 93,
+      "lyrics_text": "New Cullinan, stars start to fall (New Cullinan) Trapping and hustling, beat down the walls (beat down) I'm with the steppa, Nawfside repper (Nawf) Qua' keep a MAC in the back of the Tesla (Qua')",
+      "valence": 3.03,
+      "arousal": 3.41,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 94,
+      "lyrics_text": "Trapping and hustling, beat down the walls (beat down) I'm with the steppa, Nawfside repper (Nawf) Qua' keep a MAC in the back of the Tesla (Qua') I'm with the gang, we could never be selfish (gang, gang-gang-gang)",
+      "valence": 2.84,
+      "arousal": 3.59,
+      "dominance": 3.75
+    },
+    {
+      "chunk_id": 95,
+      "lyrics_text": "I'm with the steppa, Nawfside repper (Nawf) Qua' keep a MAC in the back of the Tesla (Qua') I'm with the gang, we could never be selfish (gang, gang-gang-gang) Watch how I dress, I'm the dripping professor",
+      "valence": 2.97,
+      "arousal": 3.36,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 96,
+      "lyrics_text": "Qua' keep a MAC in the back of the Tesla (Qua') I'm with the gang, we could never be selfish (gang, gang-gang-gang) Watch how I dress, I'm the dripping professor Saw the Kel-Tec, then I bought a compressor (Kel-Tec)",
+      "valence": 2.86,
+      "arousal": 3.44,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 97,
+      "lyrics_text": "I'm with the gang, we could never be selfish (gang, gang-gang-gang) Watch how I dress, I'm the dripping professor Saw the Kel-Tec, then I bought a compressor (Kel-Tec) Time to press him, eat him for breakfast (hey)",
+      "valence": 2.87,
+      "arousal": 3.49,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 98,
+      "lyrics_text": "Watch how I dress, I'm the dripping professor Saw the Kel-Tec, then I bought a compressor (Kel-Tec) Time to press him, eat him for breakfast (hey) Taught him a lesson, I'm never confessing (hey)",
+      "valence": 2.84,
+      "arousal": 3.42,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 99,
+      "lyrics_text": "Saw the Kel-Tec, then I bought a compressor (Kel-Tec) Time to press him, eat him for breakfast (hey) Taught him a lesson, I'm never confessing (hey) Left him a message, somebody's stretch 'em (stretch)",
+      "valence": 2.97,
+      "arousal": 3.4,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 100,
+      "lyrics_text": "Time to press him, eat him for breakfast (hey) Taught him a lesson, I'm never confessing (hey) Left him a message, somebody's stretch 'em (stretch) Straightenin', straightenin' (woo)",
+      "valence": 2.89,
+      "arousal": 3.47,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 101,
+      "lyrics_text": "Taught him a lesson, I'm never confessing (hey) Left him a message, somebody's stretch 'em (stretch) Straightenin', straightenin' (woo) Straightenin', yeah (straight)",
+      "valence": 3.01,
+      "arousal": 3.38,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 102,
+      "lyrics_text": "Left him a message, somebody's stretch 'em (stretch) Straightenin', straightenin' (woo) Straightenin', yeah (straight) Straightenin', straightenin' (soo)",
+      "valence": 3.24,
+      "arousal": 3.4,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 103,
+      "lyrics_text": "Straightenin', straightenin' (woo) Straightenin', yeah (straight) Straightenin', straightenin' (soo) Straightenin', yeah (straight)",
+      "valence": 3.27,
+      "arousal": 3.13,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 104,
+      "lyrics_text": "Straightenin', yeah (straight) Straightenin', straightenin' (soo) Straightenin', yeah (straight) Don't nothing get straightenin' but straightenin' (hey)",
+      "valence": 3.12,
+      "arousal": 3.05,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 105,
+      "lyrics_text": "Straightenin', straightenin' (soo) Straightenin', yeah (straight) Don't nothing get straightenin' but straightenin' (hey) Don't nothing get straightenin' but straightenin' (soo)",
+      "valence": 2.96,
+      "arousal": 3.02,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 106,
+      "lyrics_text": "Straightenin', yeah (straight) Don't nothing get straightenin' but straightenin' (hey) Don't nothing get straightenin' but straightenin' (soo) Don't nothing get straightenin' but straightenin' (straight)",
+      "valence": 2.91,
+      "arousal": 2.97,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 107,
+      "lyrics_text": "Don't nothing get straightenin' but straightenin' (hey) Don't nothing get straightenin' but straightenin' (soo) Don't nothing get straightenin' but straightenin' (straight) You 'on't get shit straight, you gon' straighten it, rah",
+      "valence": 2.6,
+      "arousal": 3.15,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 108,
+      "lyrics_text": "Don't nothing get straightenin' but straightenin' (soo) Don't nothing get straightenin' but straightenin' (straight) You 'on't get shit straight, you gon' straighten it, rah Don't nothing get to straightenin' (soo, yeah)",
+      "valence": 2.69,
+      "arousal": 3.11,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 109,
+      "lyrics_text": "Don't nothing get straightenin' but straightenin' (straight) You 'on't get shit straight, you gon' straighten it, rah Don't nothing get to straightenin' (soo, yeah) Don't nothing get to straightenin' but straightenin'",
+      "valence": 2.52,
+      "arousal": 3.22,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 110,
+      "lyrics_text": "You 'on't get shit straight, you gon' straighten it, rah Don't nothing get to straightenin' (soo, yeah) Don't nothing get to straightenin' but straightenin' You feel me? I'on know what y'all think going on out there",
+      "valence": 2.47,
+      "arousal": 3.47,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 111,
+      "lyrics_text": "Don't nothing get to straightenin' (soo, yeah) Don't nothing get to straightenin' but straightenin' You feel me? I'on know what y'all think going on out there But you know what I mean?",
+      "valence": 2.8,
+      "arousal": 3.17,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 112,
+      "lyrics_text": "Don't nothing get to straightenin' but straightenin' You feel me? I'on know what y'all think going on out there But you know what I mean? We straight, we straight, we straight, we straight",
+      "valence": 2.81,
+      "arousal": 3.26,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 113,
+      "lyrics_text": "You feel me? I'on know what y'all think going on out there But you know what I mean? We straight, we straight, we straight, we straight Soo, soo, soo, soo, soo, soo",
+      "valence": 3.02,
+      "arousal": 3.19,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 114,
+      "lyrics_text": "But you know what I mean? We straight, we straight, we straight, we straight Soo, soo, soo, soo, soo, soo We gone",
+      "valence": 2.95,
+      "arousal": 3.19,
+      "dominance": 3.12
+    }
+  ]
+}

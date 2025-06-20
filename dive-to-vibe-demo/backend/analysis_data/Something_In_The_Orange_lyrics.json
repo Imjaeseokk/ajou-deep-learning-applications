@@ -1,0 +1,192 @@
+{
+  "artist": "Zach Bryan",
+  "overall_vad": {
+    "valence": 2.43,
+    "arousal": 3.52,
+    "dominance": 2.96
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "It'll be fine by dusk light I'm telling you, baby These things eat at your bones and drive your young mind crazy But when you place your head between my collar and jaw I don't know much but there's no weight at all",
+      "valence": 2.93,
+      "arousal": 3.25,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "These things eat at your bones and drive your young mind crazy But when you place your head between my collar and jaw I don't know much but there's no weight at all And I'm damned if I do and I'm damned if I don't",
+      "valence": 2.26,
+      "arousal": 3.5,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "But when you place your head between my collar and jaw I don't know much but there's no weight at all And I'm damned if I do and I'm damned if I don't 'Cause if I say I miss you I know that you won't",
+      "valence": 2.62,
+      "arousal": 3.42,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I don't know much but there's no weight at all And I'm damned if I do and I'm damned if I don't 'Cause if I say I miss you I know that you won't But I miss you in the mornings when I see the sun",
+      "valence": 2.63,
+      "arousal": 3.26,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "And I'm damned if I do and I'm damned if I don't 'Cause if I say I miss you I know that you won't But I miss you in the mornings when I see the sun Something in the orange tells me we're not done",
+      "valence": 2.47,
+      "arousal": 3.45,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "'Cause if I say I miss you I know that you won't But I miss you in the mornings when I see the sun Something in the orange tells me we're not done To you I'm just a man, to me you're all I am",
+      "valence": 3.05,
+      "arousal": 3.34,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "But I miss you in the mornings when I see the sun Something in the orange tells me we're not done To you I'm just a man, to me you're all I am Where the hell am I supposed to go?",
+      "valence": 2.62,
+      "arousal": 3.41,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Something in the orange tells me we're not done To you I'm just a man, to me you're all I am Where the hell am I supposed to go? I poisoned myself again",
+      "valence": 2.29,
+      "arousal": 3.58,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "To you I'm just a man, to me you're all I am Where the hell am I supposed to go? I poisoned myself again Something in the orange tells me you're never coming home",
+      "valence": 2.31,
+      "arousal": 3.57,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Where the hell am I supposed to go? I poisoned myself again Something in the orange tells me you're never coming home I need to hear you say you've been waitin' all night",
+      "valence": 2.0,
+      "arousal": 3.79,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I poisoned myself again Something in the orange tells me you're never coming home I need to hear you say you've been waitin' all night There's orange dancing in your eyes from bulb light",
+      "valence": 2.38,
+      "arousal": 3.53,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Something in the orange tells me you're never coming home I need to hear you say you've been waitin' all night There's orange dancing in your eyes from bulb light Your voice only trembles when you try to speak",
+      "valence": 2.56,
+      "arousal": 3.5,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I need to hear you say you've been waitin' all night There's orange dancing in your eyes from bulb light Your voice only trembles when you try to speak Take me back to us dancing, this wood used to creak",
+      "valence": 2.93,
+      "arousal": 3.47,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "There's orange dancing in your eyes from bulb light Your voice only trembles when you try to speak Take me back to us dancing, this wood used to creak To you I'm just a man, to me you're all I am",
+      "valence": 3.1,
+      "arousal": 3.4,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Your voice only trembles when you try to speak Take me back to us dancing, this wood used to creak To you I'm just a man, to me you're all I am Where the hell am I supposed to go?",
+      "valence": 2.6,
+      "arousal": 3.52,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Take me back to us dancing, this wood used to creak To you I'm just a man, to me you're all I am Where the hell am I supposed to go? I poisoned myself again",
+      "valence": 2.64,
+      "arousal": 3.49,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "To you I'm just a man, to me you're all I am Where the hell am I supposed to go? I poisoned myself again Something in the orange tells me you're never coming home",
+      "valence": 2.31,
+      "arousal": 3.57,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Where the hell am I supposed to go? I poisoned myself again Something in the orange tells me you're never coming home To you I'm just a man, to me you're all I am",
+      "valence": 2.37,
+      "arousal": 3.64,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I poisoned myself again Something in the orange tells me you're never coming home To you I'm just a man, to me you're all I am Where the hell am I supposed to go?",
+      "valence": 2.13,
+      "arousal": 3.54,
+      "dominance": 2.69
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Something in the orange tells me you're never coming home To you I'm just a man, to me you're all I am Where the hell am I supposed to go? I poisoned myself again",
+      "valence": 2.15,
+      "arousal": 3.59,
+      "dominance": 2.65
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "To you I'm just a man, to me you're all I am Where the hell am I supposed to go? I poisoned myself again Something in the orange tells me you're never coming home",
+      "valence": 2.31,
+      "arousal": 3.57,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Where the hell am I supposed to go? I poisoned myself again Something in the orange tells me you're never coming home If you leave today, I'll just stare at the way",
+      "valence": 2.03,
+      "arousal": 3.61,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I poisoned myself again Something in the orange tells me you're never coming home If you leave today, I'll just stare at the way The orange touches all things around",
+      "valence": 2.31,
+      "arousal": 3.36,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Something in the orange tells me you're never coming home If you leave today, I'll just stare at the way The orange touches all things around The grass, trees and dew, how I just hate you",
+      "valence": 1.99,
+      "arousal": 3.63,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "If you leave today, I'll just stare at the way The orange touches all things around The grass, trees and dew, how I just hate you Please turn those headlights around",
+      "valence": 2.1,
+      "arousal": 3.74,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "The orange touches all things around The grass, trees and dew, how I just hate you Please turn those headlights around Please turn those headlights around",
+      "valence": 2.08,
+      "arousal": 3.84,
+      "dominance": 3.27
+    }
+  ]
+}

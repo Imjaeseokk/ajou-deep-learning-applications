@@ -1,0 +1,472 @@
+{
+  "artist": "Cardi B",
+  "overall_vad": {
+    "valence": 2.58,
+    "arousal": 3.58,
+    "dominance": 3.25
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Yeah Be careful, be careful, be careful with me Yeah, look I wanna get married, like the Currys, Steph and Ayesha shit",
+      "valence": 2.76,
+      "arousal": 3.6,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Be careful, be careful, be careful with me Yeah, look I wanna get married, like the Currys, Steph and Ayesha shit But we more like Belly, Tommy and Keisha shit",
+      "valence": 2.77,
+      "arousal": 3.51,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Yeah, look I wanna get married, like the Currys, Steph and Ayesha shit But we more like Belly, Tommy and Keisha shit Gave you TLC, you wanna creep and shit",
+      "valence": 2.88,
+      "arousal": 3.63,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I wanna get married, like the Currys, Steph and Ayesha shit But we more like Belly, Tommy and Keisha shit Gave you TLC, you wanna creep and shit Poured out my whole heart to a piece of shit",
+      "valence": 2.33,
+      "arousal": 3.85,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "But we more like Belly, Tommy and Keisha shit Gave you TLC, you wanna creep and shit Poured out my whole heart to a piece of shit Man, I thought you would've learned your lesson",
+      "valence": 2.16,
+      "arousal": 3.74,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Gave you TLC, you wanna creep and shit Poured out my whole heart to a piece of shit Man, I thought you would've learned your lesson 'Bout likin' pictures, not returnin' texts",
+      "valence": 2.27,
+      "arousal": 3.85,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Poured out my whole heart to a piece of shit Man, I thought you would've learned your lesson 'Bout likin' pictures, not returnin' texts I guess it's fine, man, I get the message",
+      "valence": 2.32,
+      "arousal": 3.67,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Man, I thought you would've learned your lesson 'Bout likin' pictures, not returnin' texts I guess it's fine, man, I get the message You still stutter after certain questions",
+      "valence": 2.73,
+      "arousal": 3.16,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "'Bout likin' pictures, not returnin' texts I guess it's fine, man, I get the message You still stutter after certain questions You keep in contact with certain exes",
+      "valence": 2.69,
+      "arousal": 3.13,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I guess it's fine, man, I get the message You still stutter after certain questions You keep in contact with certain exes Do you, though, trust me, nigga, it's cool, though",
+      "valence": 2.94,
+      "arousal": 3.18,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "You still stutter after certain questions You keep in contact with certain exes Do you, though, trust me, nigga, it's cool, though Said that you was workin', but you're out here chasin' culo",
+      "valence": 2.8,
+      "arousal": 3.3,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "You keep in contact with certain exes Do you, though, trust me, nigga, it's cool, though Said that you was workin', but you're out here chasin' culo And putas, chillin' poolside, livin' two lives",
+      "valence": 3.09,
+      "arousal": 3.29,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Do you, though, trust me, nigga, it's cool, though Said that you was workin', but you're out here chasin' culo And putas, chillin' poolside, livin' two lives I could've did what you did to me to you a few times",
+      "valence": 2.82,
+      "arousal": 3.41,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Said that you was workin', but you're out here chasin' culo And putas, chillin' poolside, livin' two lives I could've did what you did to me to you a few times But if I did decide to slide, find a nigga",
+      "valence": 2.37,
+      "arousal": 3.35,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And putas, chillin' poolside, livin' two lives I could've did what you did to me to you a few times But if I did decide to slide, find a nigga Fuck him, suck his dick, you would've been pissed",
+      "valence": 2.0,
+      "arousal": 3.7,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I could've did what you did to me to you a few times But if I did decide to slide, find a nigga Fuck him, suck his dick, you would've been pissed But that's not my M.O., I'm not that type of bitch",
+      "valence": 1.84,
+      "arousal": 3.77,
+      "dominance": 3.9
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "But if I did decide to slide, find a nigga Fuck him, suck his dick, you would've been pissed But that's not my M.O., I'm not that type of bitch And karma for you is gon' be who you end up with",
+      "valence": 1.89,
+      "arousal": 3.8,
+      "dominance": 3.83
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Fuck him, suck his dick, you would've been pissed But that's not my M.O., I'm not that type of bitch And karma for you is gon' be who you end up with Don't make me sick, nigga",
+      "valence": 1.7,
+      "arousal": 3.96,
+      "dominance": 3.89
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "But that's not my M.O., I'm not that type of bitch And karma for you is gon' be who you end up with Don't make me sick, nigga The only man, baby, I adore",
+      "valence": 2.41,
+      "arousal": 3.82,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "And karma for you is gon' be who you end up with Don't make me sick, nigga The only man, baby, I adore I gave you everything, what's mine is yours",
+      "valence": 2.82,
+      "arousal": 3.84,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Don't make me sick, nigga The only man, baby, I adore I gave you everything, what's mine is yours I want you to live your life of course",
+      "valence": 3.08,
+      "arousal": 3.74,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "The only man, baby, I adore I gave you everything, what's mine is yours I want you to live your life of course But I hope you get what you dyin' for",
+      "valence": 3.51,
+      "arousal": 3.6,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I gave you everything, what's mine is yours I want you to live your life of course But I hope you get what you dyin' for Be careful with me, do you know what you doin'?",
+      "valence": 2.98,
+      "arousal": 3.44,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I want you to live your life of course But I hope you get what you dyin' for Be careful with me, do you know what you doin'? Whose feelings that you hurtin' and bruisin'?",
+      "valence": 2.7,
+      "arousal": 3.38,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "But I hope you get what you dyin' for Be careful with me, do you know what you doin'? Whose feelings that you hurtin' and bruisin'? You gon' gain the whole world",
+      "valence": 2.58,
+      "arousal": 3.57,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Be careful with me, do you know what you doin'? Whose feelings that you hurtin' and bruisin'? You gon' gain the whole world But is it worth the girl that you're losin'?",
+      "valence": 2.57,
+      "arousal": 3.66,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Whose feelings that you hurtin' and bruisin'? You gon' gain the whole world But is it worth the girl that you're losin'? Be careful with me",
+      "valence": 2.51,
+      "arousal": 3.6,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "You gon' gain the whole world But is it worth the girl that you're losin'? Be careful with me Yeah, it's not a threat, it's a warnin'",
+      "valence": 2.84,
+      "arousal": 3.48,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "But is it worth the girl that you're losin'? Be careful with me Yeah, it's not a threat, it's a warnin' Be careful with me",
+      "valence": 2.73,
+      "arousal": 3.41,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Be careful with me Yeah, it's not a threat, it's a warnin' Be careful with me Yeah, my heart is like a package with a fragile label on it",
+      "valence": 2.61,
+      "arousal": 3.42,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Yeah, it's not a threat, it's a warnin' Be careful with me Yeah, my heart is like a package with a fragile label on it Be careful with me",
+      "valence": 2.61,
+      "arousal": 3.44,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Be careful with me Yeah, my heart is like a package with a fragile label on it Be careful with me Care for me, care for me",
+      "valence": 2.72,
+      "arousal": 3.37,
+      "dominance": 2.61
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Yeah, my heart is like a package with a fragile label on it Be careful with me Care for me, care for me Always said that you'd be there for me, there for me",
+      "valence": 3.04,
+      "arousal": 3.41,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Be careful with me Care for me, care for me Always said that you'd be there for me, there for me Boy, you better treat me carefully, carefully, look",
+      "valence": 2.97,
+      "arousal": 3.28,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Care for me, care for me Always said that you'd be there for me, there for me Boy, you better treat me carefully, carefully, look I was here before all of this",
+      "valence": 3.06,
+      "arousal": 3.28,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Always said that you'd be there for me, there for me Boy, you better treat me carefully, carefully, look I was here before all of this Guess you actin' out now, you got an audience",
+      "valence": 3.04,
+      "arousal": 3.38,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Boy, you better treat me carefully, carefully, look I was here before all of this Guess you actin' out now, you got an audience Tell me where your mind is, drop a pin, what's the coordinates?",
+      "valence": 2.78,
+      "arousal": 3.39,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "I was here before all of this Guess you actin' out now, you got an audience Tell me where your mind is, drop a pin, what's the coordinates? You might have a fortune, but you lose me, you still gon' be misfortunate, nigga",
+      "valence": 2.71,
+      "arousal": 3.43,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Guess you actin' out now, you got an audience Tell me where your mind is, drop a pin, what's the coordinates? You might have a fortune, but you lose me, you still gon' be misfortunate, nigga Tell me, this love's got you this fucked up in the head",
+      "valence": 2.6,
+      "arousal": 3.62,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Tell me where your mind is, drop a pin, what's the coordinates? You might have a fortune, but you lose me, you still gon' be misfortunate, nigga Tell me, this love's got you this fucked up in the head You want some random bitch up in your bed?",
+      "valence": 2.44,
+      "arousal": 3.58,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "You might have a fortune, but you lose me, you still gon' be misfortunate, nigga Tell me, this love's got you this fucked up in the head You want some random bitch up in your bed? She don't even know your middle name, watch her 'cause she might steal your chain",
+      "valence": 2.26,
+      "arousal": 3.61,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Tell me, this love's got you this fucked up in the head You want some random bitch up in your bed? She don't even know your middle name, watch her 'cause she might steal your chain You don't want someone who loves you instead? I guess not though",
+      "valence": 2.4,
+      "arousal": 3.82,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "You want some random bitch up in your bed? She don't even know your middle name, watch her 'cause she might steal your chain You don't want someone who loves you instead? I guess not though It's blatant disrespect, you nothin' like the nigga I met",
+      "valence": 2.17,
+      "arousal": 3.72,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "She don't even know your middle name, watch her 'cause she might steal your chain You don't want someone who loves you instead? I guess not though It's blatant disrespect, you nothin' like the nigga I met Talk to me crazy and you quick to forget",
+      "valence": 2.31,
+      "arousal": 3.65,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "You don't want someone who loves you instead? I guess not though It's blatant disrespect, you nothin' like the nigga I met Talk to me crazy and you quick to forget You even got me trippin', you got me lookin' in the mirror different",
+      "valence": 2.23,
+      "arousal": 3.68,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "It's blatant disrespect, you nothin' like the nigga I met Talk to me crazy and you quick to forget You even got me trippin', you got me lookin' in the mirror different Thinkin' I'm flawed because you inconsistent",
+      "valence": 1.98,
+      "arousal": 3.71,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Talk to me crazy and you quick to forget You even got me trippin', you got me lookin' in the mirror different Thinkin' I'm flawed because you inconsistent Between a rock and a hard place, the mud and the dirt",
+      "valence": 2.33,
+      "arousal": 3.52,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "You even got me trippin', you got me lookin' in the mirror different Thinkin' I'm flawed because you inconsistent Between a rock and a hard place, the mud and the dirt It's gon' hurt me to hate you, but lovin' you's worse",
+      "valence": 2.5,
+      "arousal": 3.55,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Thinkin' I'm flawed because you inconsistent Between a rock and a hard place, the mud and the dirt It's gon' hurt me to hate you, but lovin' you's worse It all stops so abrupt, we start switchin' it up",
+      "valence": 2.4,
+      "arousal": 3.55,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Between a rock and a hard place, the mud and the dirt It's gon' hurt me to hate you, but lovin' you's worse It all stops so abrupt, we start switchin' it up Teach me to be like you so I can not give a fuck",
+      "valence": 2.45,
+      "arousal": 3.67,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "It's gon' hurt me to hate you, but lovin' you's worse It all stops so abrupt, we start switchin' it up Teach me to be like you so I can not give a fuck Free to mess with someone else, I wish these feelings could melt",
+      "valence": 2.44,
+      "arousal": 3.78,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "It all stops so abrupt, we start switchin' it up Teach me to be like you so I can not give a fuck Free to mess with someone else, I wish these feelings could melt 'Cause you don't care about a thing except your mothafuckin' self",
+      "valence": 2.4,
+      "arousal": 3.78,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Teach me to be like you so I can not give a fuck Free to mess with someone else, I wish these feelings could melt 'Cause you don't care about a thing except your mothafuckin' self You make me sick, nigga",
+      "valence": 2.02,
+      "arousal": 3.92,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Free to mess with someone else, I wish these feelings could melt 'Cause you don't care about a thing except your mothafuckin' self You make me sick, nigga The only man, baby, I adore",
+      "valence": 2.29,
+      "arousal": 3.99,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "'Cause you don't care about a thing except your mothafuckin' self You make me sick, nigga The only man, baby, I adore I gave you everything, what's mine is yours",
+      "valence": 2.27,
+      "arousal": 3.89,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "You make me sick, nigga The only man, baby, I adore I gave you everything, what's mine is yours I want you to live your life of course",
+      "valence": 2.88,
+      "arousal": 4.09,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "The only man, baby, I adore I gave you everything, what's mine is yours I want you to live your life of course But I hope you get what you dyin' for",
+      "valence": 3.51,
+      "arousal": 3.6,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "I gave you everything, what's mine is yours I want you to live your life of course But I hope you get what you dyin' for Be careful with me, do you know what you doin'?",
+      "valence": 2.98,
+      "arousal": 3.44,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "I want you to live your life of course But I hope you get what you dyin' for Be careful with me, do you know what you doin'? Whose feelings that you're hurtin' and bruisin'?",
+      "valence": 2.67,
+      "arousal": 3.4,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "But I hope you get what you dyin' for Be careful with me, do you know what you doin'? Whose feelings that you're hurtin' and bruisin'? You gon' gain the whole world",
+      "valence": 2.55,
+      "arousal": 3.58,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Be careful with me, do you know what you doin'? Whose feelings that you're hurtin' and bruisin'? You gon' gain the whole world But is it worth the girl that you're losin'?",
+      "valence": 2.56,
+      "arousal": 3.66,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Whose feelings that you're hurtin' and bruisin'? You gon' gain the whole world But is it worth the girl that you're losin'? Be careful with me",
+      "valence": 2.5,
+      "arousal": 3.59,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "You gon' gain the whole world But is it worth the girl that you're losin'? Be careful with me Yeah, it's not a threat, it's a warnin'",
+      "valence": 2.84,
+      "arousal": 3.48,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "But is it worth the girl that you're losin'? Be careful with me Yeah, it's not a threat, it's a warnin' Be careful with me",
+      "valence": 2.73,
+      "arousal": 3.41,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Be careful with me Yeah, it's not a threat, it's a warnin' Be careful with me Yeah, my heart is like a package with a fragile label on it",
+      "valence": 2.61,
+      "arousal": 3.42,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Yeah, it's not a threat, it's a warnin' Be careful with me Yeah, my heart is like a package with a fragile label on it Be careful with me",
+      "valence": 2.61,
+      "arousal": 3.44,
+      "dominance": 2.76
+    }
+  ]
+}

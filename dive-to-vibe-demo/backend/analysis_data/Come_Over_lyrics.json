@@ -1,0 +1,192 @@
+{
+  "artist": "Kenny Chesney",
+  "overall_vad": {
+    "valence": 2.81,
+    "arousal": 3.43,
+    "dominance": 3.21
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I turned the TV off, to turn it on again Staring at the blades of the fan as it spins around Counting every crack, the clock is wide awake Talking to myself, anything to make a sound",
+      "valence": 2.79,
+      "arousal": 3.17,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Staring at the blades of the fan as it spins around Counting every crack, the clock is wide awake Talking to myself, anything to make a sound I told you I wouldn't call, I told you I wouldn't care",
+      "valence": 2.69,
+      "arousal": 3.35,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Counting every crack, the clock is wide awake Talking to myself, anything to make a sound I told you I wouldn't call, I told you I wouldn't care But baby, climbing the walls gets me nowhere",
+      "valence": 2.46,
+      "arousal": 3.33,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Talking to myself, anything to make a sound I told you I wouldn't call, I told you I wouldn't care But baby, climbing the walls gets me nowhere I don't think that I can take this bed getting any colder",
+      "valence": 2.4,
+      "arousal": 3.23,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I told you I wouldn't call, I told you I wouldn't care But baby, climbing the walls gets me nowhere I don't think that I can take this bed getting any colder Come over, come over, come over, come over, come over",
+      "valence": 2.63,
+      "arousal": 3.47,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "But baby, climbing the walls gets me nowhere I don't think that I can take this bed getting any colder Come over, come over, come over, come over, come over You can say we're done the way you always do",
+      "valence": 2.79,
+      "arousal": 3.3,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I don't think that I can take this bed getting any colder Come over, come over, come over, come over, come over You can say we're done the way you always do It's easier to lie to me than to yourself",
+      "valence": 2.69,
+      "arousal": 3.4,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Come over, come over, come over, come over, come over You can say we're done the way you always do It's easier to lie to me than to yourself Forget about your friends, you know they're gonna say",
+      "valence": 2.99,
+      "arousal": 3.39,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "You can say we're done the way you always do It's easier to lie to me than to yourself Forget about your friends, you know they're gonna say We're bad for each other, but we ain't good for anyone else",
+      "valence": 2.56,
+      "arousal": 3.23,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "It's easier to lie to me than to yourself Forget about your friends, you know they're gonna say We're bad for each other, but we ain't good for anyone else I told you I wouldn't call, I told you I wouldn't care",
+      "valence": 2.45,
+      "arousal": 3.28,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Forget about your friends, you know they're gonna say We're bad for each other, but we ain't good for anyone else I told you I wouldn't call, I told you I wouldn't care But baby, climbing the walls gets me nowhere",
+      "valence": 2.34,
+      "arousal": 3.27,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "We're bad for each other, but we ain't good for anyone else I told you I wouldn't call, I told you I wouldn't care But baby, climbing the walls gets me nowhere I don't think that I can take this bed getting any colder",
+      "valence": 2.15,
+      "arousal": 3.32,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I told you I wouldn't call, I told you I wouldn't care But baby, climbing the walls gets me nowhere I don't think that I can take this bed getting any colder Come over, come over, come over, come over, come over",
+      "valence": 2.63,
+      "arousal": 3.47,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "But baby, climbing the walls gets me nowhere I don't think that I can take this bed getting any colder Come over, come over, come over, come over, come over We don't have to miss each other, come over",
+      "valence": 3.02,
+      "arousal": 3.48,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I don't think that I can take this bed getting any colder Come over, come over, come over, come over, come over We don't have to miss each other, come over We don't have to fix each other, come over",
+      "valence": 3.14,
+      "arousal": 3.49,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Come over, come over, come over, come over, come over We don't have to miss each other, come over We don't have to fix each other, come over We don't have to say forever, come over",
+      "valence": 3.41,
+      "arousal": 3.54,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "We don't have to miss each other, come over We don't have to fix each other, come over We don't have to say forever, come over You don't have to stay forever, come over",
+      "valence": 3.25,
+      "arousal": 3.48,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "We don't have to fix each other, come over We don't have to say forever, come over You don't have to stay forever, come over I told you I wouldn't call, I told you I wouldn't care",
+      "valence": 2.98,
+      "arousal": 3.54,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "We don't have to say forever, come over You don't have to stay forever, come over I told you I wouldn't call, I told you I wouldn't care But baby, climbing the walls gets me nowhere",
+      "valence": 2.65,
+      "arousal": 3.46,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "You don't have to stay forever, come over I told you I wouldn't call, I told you I wouldn't care But baby, climbing the walls gets me nowhere I don't think that I can take this bed getting any colder",
+      "valence": 2.52,
+      "arousal": 3.47,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I told you I wouldn't call, I told you I wouldn't care But baby, climbing the walls gets me nowhere I don't think that I can take this bed getting any colder Come over, come over, come over, come over, come over",
+      "valence": 2.63,
+      "arousal": 3.47,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "But baby, climbing the walls gets me nowhere I don't think that I can take this bed getting any colder Come over, come over, come over, come over, come over Come over, come over, come over, come over, come over",
+      "valence": 2.73,
+      "arousal": 3.28,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I don't think that I can take this bed getting any colder Come over, come over, come over, come over, come over Come over, come over, come over, come over, come over Come over, come over, come over, come over, come over (whoa, whoa, whoa)",
+      "valence": 2.99,
+      "arousal": 3.55,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Come over, come over, come over, come over, come over Come over, come over, come over, come over, come over Come over, come over, come over, come over, come over (whoa, whoa, whoa) (Whoa, whoa, whoa)",
+      "valence": 3.34,
+      "arousal": 3.71,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Come over, come over, come over, come over, come over Come over, come over, come over, come over, come over (whoa, whoa, whoa) (Whoa, whoa, whoa) (Whoa, whoa, whoa)",
+      "valence": 3.37,
+      "arousal": 3.75,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Come over, come over, come over, come over, come over (whoa, whoa, whoa) (Whoa, whoa, whoa) (Whoa, whoa, whoa) (Whoa, whoa, whoa)",
+      "valence": 3.33,
+      "arousal": 3.7,
+      "dominance": 3.28
+    }
+  ]
+}

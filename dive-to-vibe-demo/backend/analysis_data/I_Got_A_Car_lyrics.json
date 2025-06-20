@@ -1,0 +1,290 @@
+{
+  "artist": "George Strait",
+  "overall_vad": {
+    "valence": 2.94,
+    "arousal": 3.3,
+    "dominance": 3.13
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "She was leanin' on a rail in a cotton dress Summer tanned pretty, little perfect mess With a story that could only be anybody's guess And I was thinkin' that I probably didn't stand a chance",
+      "valence": 2.68,
+      "arousal": 3.16,
+      "dominance": 2.7
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Summer tanned pretty, little perfect mess With a story that could only be anybody's guess And I was thinkin' that I probably didn't stand a chance But I rolled up my sleeves, walked up and I said",
+      "valence": 2.9,
+      "arousal": 3.11,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "With a story that could only be anybody's guess And I was thinkin' that I probably didn't stand a chance But I rolled up my sleeves, walked up and I said Hey, I don't know you but I'd kinda like a shot",
+      "valence": 2.87,
+      "arousal": 3.11,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "And I was thinkin' that I probably didn't stand a chance But I rolled up my sleeves, walked up and I said Hey, I don't know you but I'd kinda like a shot She said, I saw you comin' over, I already thought it over",
+      "valence": 2.94,
+      "arousal": 3.23,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "But I rolled up my sleeves, walked up and I said Hey, I don't know you but I'd kinda like a shot She said, I saw you comin' over, I already thought it over And ok, so now what",
+      "valence": 3.14,
+      "arousal": 3.33,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Hey, I don't know you but I'd kinda like a shot She said, I saw you comin' over, I already thought it over And ok, so now what And I said, well I got a car, she said, there's somethin'",
+      "valence": 3.11,
+      "arousal": 3.41,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "She said, I saw you comin' over, I already thought it over And ok, so now what And I said, well I got a car, she said, there's somethin' At least it's a start, I said, it's better than nothin'",
+      "valence": 3.15,
+      "arousal": 3.33,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "And ok, so now what And I said, well I got a car, she said, there's somethin' At least it's a start, I said, it's better than nothin' I ain't in no hurry but I'm ready when you are",
+      "valence": 3.24,
+      "arousal": 3.4,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "And I said, well I got a car, she said, there's somethin' At least it's a start, I said, it's better than nothin' I ain't in no hurry but I'm ready when you are And she said, what do you think all this is goin'",
+      "valence": 3.27,
+      "arousal": 3.32,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "At least it's a start, I said, it's better than nothin' I ain't in no hurry but I'm ready when you are And she said, what do you think all this is goin' I said, there ain't no way of knowin'",
+      "valence": 3.09,
+      "arousal": 3.35,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I ain't in no hurry but I'm ready when you are And she said, what do you think all this is goin' I said, there ain't no way of knowin' I guess I hadn't thought it through that far",
+      "valence": 3.11,
+      "arousal": 3.35,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "And she said, what do you think all this is goin' I said, there ain't no way of knowin' I guess I hadn't thought it through that far But I got a car",
+      "valence": 2.92,
+      "arousal": 3.35,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I said, there ain't no way of knowin' I guess I hadn't thought it through that far But I got a car So, we let the wheels turn and the windows down",
+      "valence": 2.97,
+      "arousal": 3.17,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I guess I hadn't thought it through that far But I got a car So, we let the wheels turn and the windows down We let ourselves go all the way through town",
+      "valence": 3.07,
+      "arousal": 3.12,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "But I got a car So, we let the wheels turn and the windows down We let ourselves go all the way through town She never said stop and I never asked her why",
+      "valence": 2.91,
+      "arousal": 3.18,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "So, we let the wheels turn and the windows down We let ourselves go all the way through town She never said stop and I never asked her why We drove into the night, when outta nowhere",
+      "valence": 2.74,
+      "arousal": 3.18,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "We let ourselves go all the way through town She never said stop and I never asked her why We drove into the night, when outta nowhere She said, I'd give anything to never go back there",
+      "valence": 2.63,
+      "arousal": 3.33,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "She never said stop and I never asked her why We drove into the night, when outta nowhere She said, I'd give anything to never go back there And I kinda wish this day would never end",
+      "valence": 2.52,
+      "arousal": 3.45,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "We drove into the night, when outta nowhere She said, I'd give anything to never go back there And I kinda wish this day would never end She said, I could use a change but I don't even know where to begin",
+      "valence": 2.41,
+      "arousal": 3.45,
+      "dominance": 2.67
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "She said, I'd give anything to never go back there And I kinda wish this day would never end She said, I could use a change but I don't even know where to begin And I said, well I got a car, she said, there's somethin'",
+      "valence": 2.71,
+      "arousal": 3.42,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "And I kinda wish this day would never end She said, I could use a change but I don't even know where to begin And I said, well I got a car, she said, there's somethin' At least it's a start, I said, it's better than nothin'",
+      "valence": 2.82,
+      "arousal": 3.33,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "She said, I could use a change but I don't even know where to begin And I said, well I got a car, she said, there's somethin' At least it's a start, I said, it's better than nothin' I ain't in no hurry but I'm ready when you are",
+      "valence": 3.17,
+      "arousal": 3.36,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "And I said, well I got a car, she said, there's somethin' At least it's a start, I said, it's better than nothin' I ain't in no hurry but I'm ready when you are And she said, what do you think all this is goin'",
+      "valence": 3.27,
+      "arousal": 3.32,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "At least it's a start, I said, it's better than nothin' I ain't in no hurry but I'm ready when you are And she said, what do you think all this is goin' I said, there ain't no way of knowin'",
+      "valence": 3.09,
+      "arousal": 3.35,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I ain't in no hurry but I'm ready when you are And she said, what do you think all this is goin' I said, there ain't no way of knowin' I really hadn't thought it through that far",
+      "valence": 3.11,
+      "arousal": 3.35,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "And she said, what do you think all this is goin' I said, there ain't no way of knowin' I really hadn't thought it through that far And I can't promise you the moon and stars",
+      "valence": 2.83,
+      "arousal": 3.26,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I said, there ain't no way of knowin' I really hadn't thought it through that far And I can't promise you the moon and stars But I got a car",
+      "valence": 2.96,
+      "arousal": 3.37,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I really hadn't thought it through that far And I can't promise you the moon and stars But I got a car We got lost in the miles, lost track of the days",
+      "valence": 2.72,
+      "arousal": 3.2,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "And I can't promise you the moon and stars But I got a car We got lost in the miles, lost track of the days 'Til we finally found a stoppin' place",
+      "valence": 2.84,
+      "arousal": 3.25,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "But I got a car We got lost in the miles, lost track of the days 'Til we finally found a stoppin' place When the doctor's said, you know what's on the way?",
+      "valence": 2.71,
+      "arousal": 3.24,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "We got lost in the miles, lost track of the days 'Til we finally found a stoppin' place When the doctor's said, you know what's on the way? And we found ourselves in a little white house",
+      "valence": 2.97,
+      "arousal": 3.18,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "'Til we finally found a stoppin' place When the doctor's said, you know what's on the way? And we found ourselves in a little white house One Sunday mornin', rain pourin' down",
+      "valence": 2.92,
+      "arousal": 3.09,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "When the doctor's said, you know what's on the way? And we found ourselves in a little white house One Sunday mornin', rain pourin' down She said, I think it's time but all the lines are out",
+      "valence": 2.91,
+      "arousal": 3.1,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "And we found ourselves in a little white house One Sunday mornin', rain pourin' down She said, I think it's time but all the lines are out And her eyes teared up and she said, what are we gonna do now?",
+      "valence": 2.66,
+      "arousal": 3.3,
+      "dominance": 2.64
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "One Sunday mornin', rain pourin' down She said, I think it's time but all the lines are out And her eyes teared up and she said, what are we gonna do now? And I said, well I got a car, she said, there's somethin'",
+      "valence": 2.78,
+      "arousal": 3.47,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "She said, I think it's time but all the lines are out And her eyes teared up and she said, what are we gonna do now? And I said, well I got a car, she said, there's somethin' You think it'll start, I said, it's already runnin'",
+      "valence": 2.9,
+      "arousal": 3.41,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "And her eyes teared up and she said, what are we gonna do now? And I said, well I got a car, she said, there's somethin' You think it'll start, I said, it's already runnin' Got your things in the back and I'm ready when you are",
+      "valence": 2.98,
+      "arousal": 3.52,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "And I said, well I got a car, she said, there's somethin' You think it'll start, I said, it's already runnin' Got your things in the back and I'm ready when you are She said, are you sure it'll get us where we're goin'?",
+      "valence": 3.22,
+      "arousal": 3.32,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "You think it'll start, I said, it's already runnin' Got your things in the back and I'm ready when you are She said, are you sure it'll get us where we're goin'? I said, if there's one thing I know girl, it's gotten us this far",
+      "valence": 3.2,
+      "arousal": 3.27,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Got your things in the back and I'm ready when you are She said, are you sure it'll get us where we're goin'? I said, if there's one thing I know girl, it's gotten us this far And I don't mean to hurry but I'm ready when you are",
+      "valence": 3.34,
+      "arousal": 3.48,
+      "dominance": 3.59
+    }
+  ]
+}

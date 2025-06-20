@@ -1,0 +1,185 @@
+{
+  "artist": "John Mayer",
+  "overall_vad": {
+    "valence": 3.1,
+    "arousal": 3.33,
+    "dominance": 3.15
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Paper doll, come try it on Step out of that black chiffon Here's a dress of gold and blue Sure was fun being good to you",
+      "valence": 3.72,
+      "arousal": 3.44,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Step out of that black chiffon Here's a dress of gold and blue Sure was fun being good to you This one we made just for fall",
+      "valence": 3.73,
+      "arousal": 3.42,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Here's a dress of gold and blue Sure was fun being good to you This one we made just for fall And winter runs a bit too small",
+      "valence": 3.74,
+      "arousal": 3.36,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Sure was fun being good to you This one we made just for fall And winter runs a bit too small This mint green is new for spring",
+      "valence": 3.71,
+      "arousal": 3.39,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "This one we made just for fall And winter runs a bit too small This mint green is new for spring My love didn't cost a thing",
+      "valence": 3.68,
+      "arousal": 3.57,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "And winter runs a bit too small This mint green is new for spring My love didn't cost a thing You're like 22 girls in one",
+      "valence": 3.32,
+      "arousal": 3.51,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "This mint green is new for spring My love didn't cost a thing You're like 22 girls in one And none of them know what they're runnin' from",
+      "valence": 3.56,
+      "arousal": 3.74,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "My love didn't cost a thing You're like 22 girls in one And none of them know what they're runnin' from Was it just too far to fall?",
+      "valence": 3.15,
+      "arousal": 3.63,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "You're like 22 girls in one And none of them know what they're runnin' from Was it just too far to fall? For a little paper doll",
+      "valence": 2.8,
+      "arousal": 3.2,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "And none of them know what they're runnin' from Was it just too far to fall? For a little paper doll Fold a scarf, Moroccan red",
+      "valence": 2.94,
+      "arousal": 3.0,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Was it just too far to fall? For a little paper doll Fold a scarf, Moroccan red And tie your hair behind your head",
+      "valence": 3.13,
+      "arousal": 2.95,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "For a little paper doll Fold a scarf, Moroccan red And tie your hair behind your head Strap into some heels that hurt",
+      "valence": 3.08,
+      "arousal": 3.04,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Fold a scarf, Moroccan red And tie your hair behind your head Strap into some heels that hurt You should've kept my undershirt",
+      "valence": 2.72,
+      "arousal": 3.32,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "And tie your hair behind your head Strap into some heels that hurt You should've kept my undershirt You're like twenty-two girls in one",
+      "valence": 2.66,
+      "arousal": 3.52,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Strap into some heels that hurt You should've kept my undershirt You're like twenty-two girls in one And none of them know what they're runnin' from",
+      "valence": 2.5,
+      "arousal": 3.51,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "You should've kept my undershirt You're like twenty-two girls in one And none of them know what they're runnin' from Was it just too far to fall?",
+      "valence": 2.72,
+      "arousal": 3.34,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "You're like twenty-two girls in one And none of them know what they're runnin' from Was it just too far to fall? For a little paper doll",
+      "valence": 2.79,
+      "arousal": 3.22,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "And none of them know what they're runnin' from Was it just too far to fall? For a little paper doll Cut the cord and pull some strings",
+      "valence": 2.89,
+      "arousal": 3.03,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Was it just too far to fall? For a little paper doll Cut the cord and pull some strings And make yourself some angel wings",
+      "valence": 3.21,
+      "arousal": 3.08,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "For a little paper doll Cut the cord and pull some strings And make yourself some angel wings And if those angel wings don't fly",
+      "valence": 3.14,
+      "arousal": 3.05,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Cut the cord and pull some strings And make yourself some angel wings And if those angel wings don't fly Someone's gonna paint you another sky",
+      "valence": 3.07,
+      "arousal": 3.38,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "And make yourself some angel wings And if those angel wings don't fly Someone's gonna paint you another sky 'Cause you're like twenty-two girls in one",
+      "valence": 3.02,
+      "arousal": 3.49,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "And if those angel wings don't fly Someone's gonna paint you another sky 'Cause you're like twenty-two girls in one And none of them know what they're runnin' from",
+      "valence": 2.6,
+      "arousal": 3.42,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Someone's gonna paint you another sky 'Cause you're like twenty-two girls in one And none of them know what they're runnin' from Was it just too far to fall?",
+      "valence": 2.81,
+      "arousal": 3.34,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "'Cause you're like twenty-two girls in one And none of them know what they're runnin' from Was it just too far to fall? Was it just too far to fall?",
+      "valence": 2.77,
+      "arousal": 3.29,
+      "dominance": 2.91
+    }
+  ]
+}

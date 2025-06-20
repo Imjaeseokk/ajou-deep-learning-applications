@@ -1,0 +1,381 @@
+{
+  "artist": "City Girls",
+  "overall_vad": {
+    "valence": 2.48,
+    "arousal": 3.68,
+    "dominance": 3.58
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Real ass bitch, give a fuck 'bout a nigga Big Birkin bag, hold five, six figures Stripes on my ass so he call this pussy Tigger Fuckin' on a scammin' ass, rich ass nigga",
+      "valence": 2.13,
+      "arousal": 3.7,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Big Birkin bag, hold five, six figures Stripes on my ass so he call this pussy Tigger Fuckin' on a scammin' ass, rich ass nigga Same group of bitches, ain't no adding to the picture",
+      "valence": 2.15,
+      "arousal": 3.68,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Stripes on my ass so he call this pussy Tigger Fuckin' on a scammin' ass, rich ass nigga Same group of bitches, ain't no adding to the picture Drop a couple racks, watch this ass get bigger",
+      "valence": 2.12,
+      "arousal": 3.73,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Fuckin' on a scammin' ass, rich ass nigga Same group of bitches, ain't no adding to the picture Drop a couple racks, watch this ass get bigger Drinkin' on liquor, and I'm lookin' at your nigga",
+      "valence": 1.91,
+      "arousal": 3.73,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Same group of bitches, ain't no adding to the picture Drop a couple racks, watch this ass get bigger Drinkin' on liquor, and I'm lookin' at your nigga If his money right, he can eat it like a Snicker",
+      "valence": 2.32,
+      "arousal": 3.44,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Drop a couple racks, watch this ass get bigger Drinkin' on liquor, and I'm lookin' at your nigga If his money right, he can eat it like a Snicker I ain't got time for you fake ass hoes",
+      "valence": 2.3,
+      "arousal": 3.52,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Drinkin' on liquor, and I'm lookin' at your nigga If his money right, he can eat it like a Snicker I ain't got time for you fake ass hoes Talkin' all loud in them fake ass clothes",
+      "valence": 2.35,
+      "arousal": 3.5,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "If his money right, he can eat it like a Snicker I ain't got time for you fake ass hoes Talkin' all loud in them fake ass clothes Fake ass shoes match their fake ass gold",
+      "valence": 2.5,
+      "arousal": 3.54,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I ain't got time for you fake ass hoes Talkin' all loud in them fake ass clothes Fake ass shoes match their fake ass gold I'm the realest bitch ever to you snake ass hoes",
+      "valence": 2.14,
+      "arousal": 3.71,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Talkin' all loud in them fake ass clothes Fake ass shoes match their fake ass gold I'm the realest bitch ever to you snake ass hoes Act up, you can get snatched up",
+      "valence": 2.41,
+      "arousal": 3.76,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Fake ass shoes match their fake ass gold I'm the realest bitch ever to you snake ass hoes Act up, you can get snatched up Act up, you can get snatched up",
+      "valence": 2.35,
+      "arousal": 3.78,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I'm the realest bitch ever to you snake ass hoes Act up, you can get snatched up Act up, you can get snatched up Act up, you can get snatched up",
+      "valence": 2.18,
+      "arousal": 3.66,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Act up, you can get snatched up Act up, you can get snatched up Act up, you can get snatched up Dirty ass nails, baby girl, you need to back up",
+      "valence": 2.79,
+      "arousal": 3.72,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Act up, you can get snatched up Act up, you can get snatched up Dirty ass nails, baby girl, you need to back up It's Yung Miami, and I came to run my sack up",
+      "valence": 3.0,
+      "arousal": 3.7,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Act up, you can get snatched up Dirty ass nails, baby girl, you need to back up It's Yung Miami, and I came to run my sack up Tired ass hoes on my page tryna track us",
+      "valence": 2.7,
+      "arousal": 3.74,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Dirty ass nails, baby girl, you need to back up It's Yung Miami, and I came to run my sack up Tired ass hoes on my page tryna track us Brand new chain, City Girls goin' platinum",
+      "valence": 2.89,
+      "arousal": 3.69,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "It's Yung Miami, and I came to run my sack up Tired ass hoes on my page tryna track us Brand new chain, City Girls goin' platinum I keep a baby Glock, I ain't fightin' with no random, period",
+      "valence": 2.78,
+      "arousal": 3.42,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Tired ass hoes on my page tryna track us Brand new chain, City Girls goin' platinum I keep a baby Glock, I ain't fightin' with no random, period You bitches weak, is you serious?",
+      "valence": 2.17,
+      "arousal": 3.75,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Brand new chain, City Girls goin' platinum I keep a baby Glock, I ain't fightin' with no random, period You bitches weak, is you serious? I let him taste the pussy, now he actin' all delirious",
+      "valence": 2.42,
+      "arousal": 3.75,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I keep a baby Glock, I ain't fightin' with no random, period You bitches weak, is you serious? I let him taste the pussy, now he actin' all delirious Did the dash in the Rover like it's Fast and Furious",
+      "valence": 2.35,
+      "arousal": 3.72,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "You bitches weak, is you serious? I let him taste the pussy, now he actin' all delirious Did the dash in the Rover like it's Fast and Furious She see my number in his phone, now you actin' curious (bitch)",
+      "valence": 2.27,
+      "arousal": 3.78,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I let him taste the pussy, now he actin' all delirious Did the dash in the Rover like it's Fast and Furious She see my number in his phone, now you actin' curious (bitch) He gon' buy me Gucci if I ask for it (yup)",
+      "valence": 2.66,
+      "arousal": 3.68,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Did the dash in the Rover like it's Fast and Furious She see my number in his phone, now you actin' curious (bitch) He gon' buy me Gucci if I ask for it (yup) He a classy nigga rockin' Tom Ford (classy)",
+      "valence": 2.9,
+      "arousal": 3.58,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "She see my number in his phone, now you actin' curious (bitch) He gon' buy me Gucci if I ask for it (yup) He a classy nigga rockin' Tom Ford (classy) I bet your lil' sister wanna look like me",
+      "valence": 2.93,
+      "arousal": 3.6,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "He gon' buy me Gucci if I ask for it (yup) He a classy nigga rockin' Tom Ford (classy) I bet your lil' sister wanna look like me I bet your lil' brother wanna fuck on me",
+      "valence": 2.88,
+      "arousal": 3.75,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "He a classy nigga rockin' Tom Ford (classy) I bet your lil' sister wanna look like me I bet your lil' brother wanna fuck on me Hood bitch, good pussy, I ain't average",
+      "valence": 2.57,
+      "arousal": 3.61,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I bet your lil' sister wanna look like me I bet your lil' brother wanna fuck on me Hood bitch, good pussy, I ain't average Um, he can't come around without that cabbage",
+      "valence": 2.17,
+      "arousal": 3.77,
+      "dominance": 3.8
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I bet your lil' brother wanna fuck on me Hood bitch, good pussy, I ain't average Um, he can't come around without that cabbage Um, pop a pussy bitch quick, like a bubblegum",
+      "valence": 2.16,
+      "arousal": 3.74,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Hood bitch, good pussy, I ain't average Um, he can't come around without that cabbage Um, pop a pussy bitch quick, like a bubblegum I ain't never worry, I just deal with it for fun",
+      "valence": 2.37,
+      "arousal": 3.62,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Um, he can't come around without that cabbage Um, pop a pussy bitch quick, like a bubblegum I ain't never worry, I just deal with it for fun Act up, you can get snatched up",
+      "valence": 2.52,
+      "arousal": 3.66,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Um, pop a pussy bitch quick, like a bubblegum I ain't never worry, I just deal with it for fun Act up, you can get snatched up Act up, you can get snatched up",
+      "valence": 2.56,
+      "arousal": 3.75,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I ain't never worry, I just deal with it for fun Act up, you can get snatched up Act up, you can get snatched up Act up, you can get snatched up",
+      "valence": 3.12,
+      "arousal": 3.31,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Act up, you can get snatched up Act up, you can get snatched up Act up, you can get snatched up Dirty ass nails, baby girl, you need to back up",
+      "valence": 2.79,
+      "arousal": 3.72,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Act up, you can get snatched up Act up, you can get snatched up Dirty ass nails, baby girl, you need to back up JT on the track, and you know I'm 'bout my paper",
+      "valence": 3.05,
+      "arousal": 3.76,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Act up, you can get snatched up Dirty ass nails, baby girl, you need to back up JT on the track, and you know I'm 'bout my paper Pussy sweet, pussy tight, so he called it Lifesaver",
+      "valence": 3.14,
+      "arousal": 3.93,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Dirty ass nails, baby girl, you need to back up JT on the track, and you know I'm 'bout my paper Pussy sweet, pussy tight, so he called it Lifesaver If your ass a broke nigga, hell nah, I can't date ya",
+      "valence": 2.91,
+      "arousal": 3.87,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "JT on the track, and you know I'm 'bout my paper Pussy sweet, pussy tight, so he called it Lifesaver If your ass a broke nigga, hell nah, I can't date ya If your ass a rich nigga, I'ma fuck ya 'til you ain't one",
+      "valence": 2.88,
+      "arousal": 3.67,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Pussy sweet, pussy tight, so he called it Lifesaver If your ass a broke nigga, hell nah, I can't date ya If your ass a rich nigga, I'ma fuck ya 'til you ain't one If that nigga a scammer, I'm turning into a dancer (yup)",
+      "valence": 2.68,
+      "arousal": 3.73,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "If your ass a broke nigga, hell nah, I can't date ya If your ass a rich nigga, I'ma fuck ya 'til you ain't one If that nigga a scammer, I'm turning into a dancer (yup) I make it clap like he got the right answer",
+      "valence": 2.57,
+      "arousal": 3.7,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "If your ass a rich nigga, I'ma fuck ya 'til you ain't one If that nigga a scammer, I'm turning into a dancer (yup) I make it clap like he got the right answer Sit on it with manners, get it harder than a hammer",
+      "valence": 2.57,
+      "arousal": 3.72,
+      "dominance": 3.75
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "If that nigga a scammer, I'm turning into a dancer (yup) I make it clap like he got the right answer Sit on it with manners, get it harder than a hammer He wanna freak, pussy pink, breast cancer",
+      "valence": 2.53,
+      "arousal": 3.72,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "I make it clap like he got the right answer Sit on it with manners, get it harder than a hammer He wanna freak, pussy pink, breast cancer Oh, you like big butts, well I like big bucks",
+      "valence": 2.63,
+      "arousal": 3.58,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Sit on it with manners, get it harder than a hammer He wanna freak, pussy pink, breast cancer Oh, you like big butts, well I like big bucks I don't care about your chain, nigga, or your big truck",
+      "valence": 2.27,
+      "arousal": 3.58,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "He wanna freak, pussy pink, breast cancer Oh, you like big butts, well I like big bucks I don't care about your chain, nigga, or your big truck Yeah, I know you gettin' it, but is you spendin' it?",
+      "valence": 2.44,
+      "arousal": 3.6,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Oh, you like big butts, well I like big bucks I don't care about your chain, nigga, or your big truck Yeah, I know you gettin' it, but is you spendin' it? Give a fuck what a nigga got if he ain't givin' it (nope)",
+      "valence": 2.57,
+      "arousal": 3.49,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I don't care about your chain, nigga, or your big truck Yeah, I know you gettin' it, but is you spendin' it? Give a fuck what a nigga got if he ain't givin' it (nope) B-badass bitch, bad attitude (yeah)",
+      "valence": 2.09,
+      "arousal": 3.63,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Yeah, I know you gettin' it, but is you spendin' it? Give a fuck what a nigga got if he ain't givin' it (nope) B-badass bitch, bad attitude (yeah) Nails done, hair done, ass too (ow)",
+      "valence": 2.32,
+      "arousal": 3.59,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Give a fuck what a nigga got if he ain't givin' it (nope) B-badass bitch, bad attitude (yeah) Nails done, hair done, ass too (ow) Your baby daddy fuckin' me and suckin' me",
+      "valence": 1.89,
+      "arousal": 3.79,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "B-badass bitch, bad attitude (yeah) Nails done, hair done, ass too (ow) Your baby daddy fuckin' me and suckin' me He don't answer you, bitch, that's because of me (period)",
+      "valence": 1.81,
+      "arousal": 3.77,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Nails done, hair done, ass too (ow) Your baby daddy fuckin' me and suckin' me He don't answer you, bitch, that's because of me (period) Act up, you can get snatched up",
+      "valence": 2.09,
+      "arousal": 3.88,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Your baby daddy fuckin' me and suckin' me He don't answer you, bitch, that's because of me (period) Act up, you can get snatched up Act up, you can get snatched up",
+      "valence": 1.93,
+      "arousal": 3.94,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "He don't answer you, bitch, that's because of me (period) Act up, you can get snatched up Act up, you can get snatched up Act up, you can get snatched up",
+      "valence": 2.42,
+      "arousal": 3.77,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Act up, you can get snatched up Act up, you can get snatched up Act up, you can get snatched up Dirty ass nails, baby girl, you need to back up",
+      "valence": 2.79,
+      "arousal": 3.72,
+      "dominance": 3.53
+    }
+  ]
+}

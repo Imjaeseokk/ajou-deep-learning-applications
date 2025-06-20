@@ -1,0 +1,374 @@
+{
+  "artist": "Luke Bryan",
+  "overall_vad": {
+    "valence": 2.87,
+    "arousal": 3.31,
+    "dominance": 3.27
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "This truck needs a half tank These wheels need a two-lane This radio needs three songs to play To get me across town to you",
+      "valence": 2.78,
+      "arousal": 3.15,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "These wheels need a two-lane This radio needs three songs to play To get me across town to you That dress needs to slip off",
+      "valence": 2.75,
+      "arousal": 3.25,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "This radio needs three songs to play To get me across town to you That dress needs to slip off That hair needs to come down",
+      "valence": 2.85,
+      "arousal": 3.28,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "To get me across town to you That dress needs to slip off That hair needs to come down Friday nights need to do",
+      "valence": 2.8,
+      "arousal": 3.25,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "That dress needs to slip off That hair needs to come down Friday nights need to do What Friday nights need to do",
+      "valence": 2.84,
+      "arousal": 3.24,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "That hair needs to come down Friday nights need to do What Friday nights need to do That's the truth",
+      "valence": 2.82,
+      "arousal": 3.17,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Friday nights need to do What Friday nights need to do That's the truth Yeah, birds need bees and ice needs whiskey",
+      "valence": 2.94,
+      "arousal": 3.05,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "What Friday nights need to do That's the truth Yeah, birds need bees and ice needs whiskey Boys like me need the girls like you to kiss me",
+      "valence": 3.03,
+      "arousal": 3.29,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "That's the truth Yeah, birds need bees and ice needs whiskey Boys like me need the girls like you to kiss me Fishing in the dark needs Nitty Gritty",
+      "valence": 3.0,
+      "arousal": 3.2,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Yeah, birds need bees and ice needs whiskey Boys like me need the girls like you to kiss me Fishing in the dark needs Nitty Gritty Under that pale moon",
+      "valence": 3.0,
+      "arousal": 3.18,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Boys like me need the girls like you to kiss me Fishing in the dark needs Nitty Gritty Under that pale moon Sweet tea needs that sugar stirring",
+      "valence": 2.95,
+      "arousal": 3.29,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Fishing in the dark needs Nitty Gritty Under that pale moon Sweet tea needs that sugar stirring Small town nights need both ends burning",
+      "valence": 2.93,
+      "arousal": 3.13,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Under that pale moon Sweet tea needs that sugar stirring Small town nights need both ends burning Shades need drawing, hearts need falling",
+      "valence": 2.99,
+      "arousal": 3.2,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Sweet tea needs that sugar stirring Small town nights need both ends burning Shades need drawing, hearts need falling Boots need knockin'",
+      "valence": 2.94,
+      "arousal": 3.2,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Small town nights need both ends burning Shades need drawing, hearts need falling Boots need knockin' Knockin' boots",
+      "valence": 2.76,
+      "arousal": 3.37,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Shades need drawing, hearts need falling Boots need knockin' Knockin' boots Knockin' boots",
+      "valence": 2.81,
+      "arousal": 3.34,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Boots need knockin' Knockin' boots Knockin' boots Me and you",
+      "valence": 2.85,
+      "arousal": 3.28,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Knockin' boots Knockin' boots Me and you Long weeks need a weekend",
+      "valence": 2.78,
+      "arousal": 3.28,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Knockin' boots Me and you Long weeks need a weekend Cheap drinks need a-slinging",
+      "valence": 2.91,
+      "arousal": 3.25,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Me and you Long weeks need a weekend Cheap drinks need a-slinging That dance floor needs some me on you",
+      "valence": 3.06,
+      "arousal": 3.43,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Long weeks need a weekend Cheap drinks need a-slinging That dance floor needs some me on you And you want me tonight",
+      "valence": 3.08,
+      "arousal": 3.57,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Cheap drinks need a-slinging That dance floor needs some me on you And you want me tonight Sing-a-longs need to be sung",
+      "valence": 3.0,
+      "arousal": 3.55,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "That dance floor needs some me on you And you want me tonight Sing-a-longs need to be sung Tip bells need to be rung",
+      "valence": 3.16,
+      "arousal": 3.62,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "And you want me tonight Sing-a-longs need to be sung Tip bells need to be rung Last calls needa call that cab",
+      "valence": 2.99,
+      "arousal": 3.47,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Sing-a-longs need to be sung Tip bells need to be rung Last calls needa call that cab And backseats need I want you so bad",
+      "valence": 2.73,
+      "arousal": 3.69,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Tip bells need to be rung Last calls needa call that cab And backseats need I want you so bad Yeah, birds need bees and ice needs whiskey",
+      "valence": 2.76,
+      "arousal": 3.55,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Last calls needa call that cab And backseats need I want you so bad Yeah, birds need bees and ice needs whiskey Boys like me need the girls like you to kiss me",
+      "valence": 2.99,
+      "arousal": 3.71,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "And backseats need I want you so bad Yeah, birds need bees and ice needs whiskey Boys like me need the girls like you to kiss me Fishing in the dark needs Nitty Gritty",
+      "valence": 2.99,
+      "arousal": 3.6,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Yeah, birds need bees and ice needs whiskey Boys like me need the girls like you to kiss me Fishing in the dark needs Nitty Gritty Under that pale moon",
+      "valence": 3.0,
+      "arousal": 3.18,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Boys like me need the girls like you to kiss me Fishing in the dark needs Nitty Gritty Under that pale moon Sweet tea needs that sugar stirring",
+      "valence": 2.95,
+      "arousal": 3.29,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Fishing in the dark needs Nitty Gritty Under that pale moon Sweet tea needs that sugar stirring Small town nights need both ends burning",
+      "valence": 2.93,
+      "arousal": 3.13,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Under that pale moon Sweet tea needs that sugar stirring Small town nights need both ends burning Shades need drawing, hearts need falling",
+      "valence": 2.99,
+      "arousal": 3.2,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Sweet tea needs that sugar stirring Small town nights need both ends burning Shades need drawing, hearts need falling Boots need knockin'",
+      "valence": 2.94,
+      "arousal": 3.2,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Small town nights need both ends burning Shades need drawing, hearts need falling Boots need knockin' Knockin' boots",
+      "valence": 2.76,
+      "arousal": 3.37,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Shades need drawing, hearts need falling Boots need knockin' Knockin' boots Knockin' boots",
+      "valence": 2.81,
+      "arousal": 3.34,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Boots need knockin' Knockin' boots Knockin' boots Girl me and you",
+      "valence": 2.79,
+      "arousal": 3.3,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Knockin' boots Knockin' boots Girl me and you Doors need shutting",
+      "valence": 2.66,
+      "arousal": 3.44,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Knockin' boots Girl me and you Doors need shutting Lights need cutting",
+      "valence": 2.32,
+      "arousal": 3.43,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Girl me and you Doors need shutting Lights need cutting Lips need locking",
+      "valence": 2.46,
+      "arousal": 3.35,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Doors need shutting Lights need cutting Lips need locking Boots need knockin'",
+      "valence": 2.48,
+      "arousal": 3.31,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Lights need cutting Lips need locking Boots need knockin' And birds need bees and ice needs whiskey",
+      "valence": 2.67,
+      "arousal": 3.17,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Lips need locking Boots need knockin' And birds need bees and ice needs whiskey Boys like me need the girls like you to kiss me",
+      "valence": 2.96,
+      "arousal": 3.41,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Boots need knockin' And birds need bees and ice needs whiskey Boys like me need the girls like you to kiss me Fishing in the dark needs Nitty Gritty",
+      "valence": 2.91,
+      "arousal": 3.22,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "And birds need bees and ice needs whiskey Boys like me need the girls like you to kiss me Fishing in the dark needs Nitty Gritty Under that pale moon",
+      "valence": 2.95,
+      "arousal": 3.2,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Boys like me need the girls like you to kiss me Fishing in the dark needs Nitty Gritty Under that pale moon Sweet tea needs that sugar stirring",
+      "valence": 2.95,
+      "arousal": 3.29,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Fishing in the dark needs Nitty Gritty Under that pale moon Sweet tea needs that sugar stirring Small town nights need both ends burnin'",
+      "valence": 2.96,
+      "arousal": 3.08,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Under that pale moon Sweet tea needs that sugar stirring Small town nights need both ends burnin' Shades need drawing, hearts need falling",
+      "valence": 2.97,
+      "arousal": 3.14,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Sweet tea needs that sugar stirring Small town nights need both ends burnin' Shades need drawing, hearts need falling Boots need knockin'",
+      "valence": 2.97,
+      "arousal": 3.12,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Small town nights need both ends burnin' Shades need drawing, hearts need falling Boots need knockin' Knockin' boots",
+      "valence": 2.77,
+      "arousal": 3.27,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Shades need drawing, hearts need falling Boots need knockin' Knockin' boots Mmm, knockin' boots",
+      "valence": 2.87,
+      "arousal": 3.33,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Boots need knockin' Knockin' boots Mmm, knockin' boots Me and you, oh",
+      "valence": 2.85,
+      "arousal": 3.34,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Knockin' boots Mmm, knockin' boots Me and you, oh Knockin' boots",
+      "valence": 3.07,
+      "arousal": 3.41,
+      "dominance": 3.19
+    }
+  ]
+}

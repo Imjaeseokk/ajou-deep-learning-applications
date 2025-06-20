@@ -1,0 +1,325 @@
+{
+  "artist": "Brothers Osborne",
+  "overall_vad": {
+    "valence": 2.52,
+    "arousal": 3.3,
+    "dominance": 3.38
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Blame the whiskey on the beer Blame the beer on the whiskey Blame the mornin' on the night For whose lyin' here with me",
+      "valence": 2.55,
+      "arousal": 3.13,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Blame the beer on the whiskey Blame the mornin' on the night For whose lyin' here with me Blame the bar for the band",
+      "valence": 2.52,
+      "arousal": 3.1,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Blame the mornin' on the night For whose lyin' here with me Blame the bar for the band Blame the band for the song",
+      "valence": 2.44,
+      "arousal": 3.16,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "For whose lyin' here with me Blame the bar for the band Blame the band for the song Blame the song for the party that went all night long",
+      "valence": 2.73,
+      "arousal": 3.18,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Blame the bar for the band Blame the band for the song Blame the song for the party that went all night long But it ain't my fault",
+      "valence": 2.55,
+      "arousal": 3.28,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Blame the band for the song Blame the song for the party that went all night long But it ain't my fault No, it ain't my fault",
+      "valence": 2.54,
+      "arousal": 3.32,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Blame the song for the party that went all night long But it ain't my fault No, it ain't my fault Mighta had a little fun",
+      "valence": 2.68,
+      "arousal": 3.29,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "But it ain't my fault No, it ain't my fault Mighta had a little fun Lotta wrong got done",
+      "valence": 2.44,
+      "arousal": 3.22,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "No, it ain't my fault Mighta had a little fun Lotta wrong got done But it ain't my fault",
+      "valence": 2.6,
+      "arousal": 3.15,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Mighta had a little fun Lotta wrong got done But it ain't my fault Blame the heart for the hurtin'",
+      "valence": 2.56,
+      "arousal": 3.16,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Lotta wrong got done But it ain't my fault Blame the heart for the hurtin' Blame the hurtin' on the heart",
+      "valence": 2.27,
+      "arousal": 3.21,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "But it ain't my fault Blame the heart for the hurtin' Blame the hurtin' on the heart Blame the dark on the devil",
+      "valence": 2.38,
+      "arousal": 3.22,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Blame the heart for the hurtin' Blame the hurtin' on the heart Blame the dark on the devil Blame the devil on the dark",
+      "valence": 2.34,
+      "arousal": 3.24,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Blame the hurtin' on the heart Blame the dark on the devil Blame the devil on the dark Blame the ex for the drinkin'",
+      "valence": 2.38,
+      "arousal": 3.2,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Blame the dark on the devil Blame the devil on the dark Blame the ex for the drinkin' Blame the drinkin' for the ex",
+      "valence": 2.48,
+      "arousal": 3.2,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Blame the devil on the dark Blame the ex for the drinkin' Blame the drinkin' for the ex Blame the two for one tequila's for whatever happens next",
+      "valence": 2.55,
+      "arousal": 3.23,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Blame the ex for the drinkin' Blame the drinkin' for the ex Blame the two for one tequila's for whatever happens next But it ain't my fault",
+      "valence": 2.5,
+      "arousal": 3.27,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Blame the drinkin' for the ex Blame the two for one tequila's for whatever happens next But it ain't my fault No it ain't my fault",
+      "valence": 2.42,
+      "arousal": 3.26,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Blame the two for one tequila's for whatever happens next But it ain't my fault No it ain't my fault Mighta had a little fun",
+      "valence": 2.67,
+      "arousal": 3.37,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "But it ain't my fault No it ain't my fault Mighta had a little fun Lotta wrong got done",
+      "valence": 2.4,
+      "arousal": 3.25,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "No it ain't my fault Mighta had a little fun Lotta wrong got done But it ain't my fault",
+      "valence": 2.51,
+      "arousal": 3.17,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Mighta had a little fun Lotta wrong got done But it ain't my fault I got my hands up",
+      "valence": 2.73,
+      "arousal": 3.26,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Lotta wrong got done But it ain't my fault I got my hands up I need an alibi",
+      "valence": 2.39,
+      "arousal": 3.41,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "But it ain't my fault I got my hands up I need an alibi Find me a witness who can testify",
+      "valence": 2.59,
+      "arousal": 3.41,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I got my hands up I need an alibi Find me a witness who can testify You made a mistake",
+      "valence": 2.8,
+      "arousal": 3.37,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I need an alibi Find me a witness who can testify You made a mistake You got the wrong guy",
+      "valence": 2.74,
+      "arousal": 3.35,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Find me a witness who can testify You made a mistake You got the wrong guy I'm only guilty of a damn good time",
+      "valence": 2.65,
+      "arousal": 3.49,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "You made a mistake You got the wrong guy I'm only guilty of a damn good time No, it ain't my fault",
+      "valence": 2.32,
+      "arousal": 3.51,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "You got the wrong guy I'm only guilty of a damn good time No, it ain't my fault Blame my reason on my name",
+      "valence": 2.49,
+      "arousal": 3.52,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I'm only guilty of a damn good time No, it ain't my fault Blame my reason on my name Blame my name on my reason",
+      "valence": 2.45,
+      "arousal": 3.45,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "No, it ain't my fault Blame my reason on my name Blame my name on my reason Blame my lack of knowing better on public education",
+      "valence": 2.37,
+      "arousal": 3.2,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Blame my reason on my name Blame my name on my reason Blame my lack of knowing better on public education Blame smoke on the fire",
+      "valence": 2.37,
+      "arousal": 3.17,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Blame my name on my reason Blame my lack of knowing better on public education Blame smoke on the fire Blame fire on the smoke",
+      "valence": 2.38,
+      "arousal": 3.17,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Blame my lack of knowing better on public education Blame smoke on the fire Blame fire on the smoke Blame the fight on the bouncer that couldn't take a joke",
+      "valence": 2.49,
+      "arousal": 3.19,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Blame smoke on the fire Blame fire on the smoke Blame the fight on the bouncer that couldn't take a joke But it ain't my fault",
+      "valence": 2.38,
+      "arousal": 3.28,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Blame fire on the smoke Blame the fight on the bouncer that couldn't take a joke But it ain't my fault I got my hands up",
+      "valence": 2.4,
+      "arousal": 3.35,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Blame the fight on the bouncer that couldn't take a joke But it ain't my fault I got my hands up I need an alibi",
+      "valence": 2.48,
+      "arousal": 3.38,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "But it ain't my fault I got my hands up I need an alibi Find me a witness who can testify",
+      "valence": 2.59,
+      "arousal": 3.41,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I got my hands up I need an alibi Find me a witness who can testify You made a mistake",
+      "valence": 2.8,
+      "arousal": 3.37,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "I need an alibi Find me a witness who can testify You made a mistake You got the wrong guy",
+      "valence": 2.74,
+      "arousal": 3.35,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Find me a witness who can testify You made a mistake You got the wrong guy I'm only guilty of a damn good time",
+      "valence": 2.65,
+      "arousal": 3.49,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "You made a mistake You got the wrong guy I'm only guilty of a damn good time No, it ain't my fault (oh oh oh, oh oh)",
+      "valence": 2.33,
+      "arousal": 3.56,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "You got the wrong guy I'm only guilty of a damn good time No, it ain't my fault (oh oh oh, oh oh) No, it ain't my fault (oh oh oh, oh oh)",
+      "valence": 2.62,
+      "arousal": 3.55,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I'm only guilty of a damn good time No, it ain't my fault (oh oh oh, oh oh) No, it ain't my fault (oh oh oh, oh oh) No, it ain't my fault (oh oh oh, oh oh oh, oh oh oh, oh oh, oh oh)",
+      "valence": 2.71,
+      "arousal": 3.46,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "No, it ain't my fault (oh oh oh, oh oh) No, it ain't my fault (oh oh oh, oh oh) No, it ain't my fault (oh oh oh, oh oh oh, oh oh oh, oh oh, oh oh) (Oh oh oh, oh oh oh, oh oh oh, oh oh, oh oh)",
+      "valence": 2.58,
+      "arousal": 3.25,
+      "dominance": 3.46
+    }
+  ]
+}

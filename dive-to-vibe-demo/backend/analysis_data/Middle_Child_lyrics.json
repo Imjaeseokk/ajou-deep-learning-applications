@@ -1,0 +1,577 @@
+{
+  "artist": "J. Cole",
+  "overall_vad": {
+    "valence": 2.77,
+    "arousal": 3.45,
+    "dominance": 3.37
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "You good, T-Minus? Niggas been countin' me out I'm countin' my bullets, I'm loadin' my clips I'm writin' down names, I'm makin' a list",
+      "valence": 3.16,
+      "arousal": 3.27,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Niggas been countin' me out I'm countin' my bullets, I'm loadin' my clips I'm writin' down names, I'm makin' a list I'm checkin' it twice and I'm gettin' 'em hit",
+      "valence": 2.92,
+      "arousal": 3.4,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I'm countin' my bullets, I'm loadin' my clips I'm writin' down names, I'm makin' a list I'm checkin' it twice and I'm gettin' 'em hit The real ones been dyin', the fake ones is lit",
+      "valence": 2.87,
+      "arousal": 3.4,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I'm writin' down names, I'm makin' a list I'm checkin' it twice and I'm gettin' 'em hit The real ones been dyin', the fake ones is lit The game is off balance, I'm back on my shit",
+      "valence": 2.68,
+      "arousal": 3.57,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I'm checkin' it twice and I'm gettin' 'em hit The real ones been dyin', the fake ones is lit The game is off balance, I'm back on my shit The Bentley is dirty, my sneakers is dirty",
+      "valence": 2.49,
+      "arousal": 3.58,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "The real ones been dyin', the fake ones is lit The game is off balance, I'm back on my shit The Bentley is dirty, my sneakers is dirty But that's how I like it, you all on my dick",
+      "valence": 2.88,
+      "arousal": 3.64,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "The game is off balance, I'm back on my shit The Bentley is dirty, my sneakers is dirty But that's how I like it, you all on my dick I'm all in my bag, this hard as it get",
+      "valence": 2.73,
+      "arousal": 3.61,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "The Bentley is dirty, my sneakers is dirty But that's how I like it, you all on my dick I'm all in my bag, this hard as it get I do not snort powder, I might take a sip",
+      "valence": 2.81,
+      "arousal": 3.38,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "But that's how I like it, you all on my dick I'm all in my bag, this hard as it get I do not snort powder, I might take a sip I might hit the blunt, but I'm liable to trip",
+      "valence": 2.75,
+      "arousal": 3.58,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I'm all in my bag, this hard as it get I do not snort powder, I might take a sip I might hit the blunt, but I'm liable to trip I ain't poppin' no pill, but you do as you wish",
+      "valence": 2.76,
+      "arousal": 3.21,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I do not snort powder, I might take a sip I might hit the blunt, but I'm liable to trip I ain't poppin' no pill, but you do as you wish I roll with some fiends, I love 'em to death",
+      "valence": 2.72,
+      "arousal": 3.58,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I might hit the blunt, but I'm liable to trip I ain't poppin' no pill, but you do as you wish I roll with some fiends, I love 'em to death I got a few mil' but not all of them rich",
+      "valence": 2.61,
+      "arousal": 3.46,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I ain't poppin' no pill, but you do as you wish I roll with some fiends, I love 'em to death I got a few mil' but not all of them rich What good is the bread if my niggas is broke?",
+      "valence": 2.74,
+      "arousal": 3.48,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I roll with some fiends, I love 'em to death I got a few mil' but not all of them rich What good is the bread if my niggas is broke? What good is first class if my niggas can't sit?",
+      "valence": 2.67,
+      "arousal": 3.54,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I got a few mil' but not all of them rich What good is the bread if my niggas is broke? What good is first class if my niggas can't sit? That's my next mission, that's why I can't quit",
+      "valence": 2.75,
+      "arousal": 3.27,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "What good is the bread if my niggas is broke? What good is first class if my niggas can't sit? That's my next mission, that's why I can't quit Just like LeBron, get my niggas more chips",
+      "valence": 2.7,
+      "arousal": 3.42,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "What good is first class if my niggas can't sit? That's my next mission, that's why I can't quit Just like LeBron, get my niggas more chips Just put the Rollie right back on my wrist",
+      "valence": 2.73,
+      "arousal": 3.4,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "That's my next mission, that's why I can't quit Just like LeBron, get my niggas more chips Just put the Rollie right back on my wrist This watch came from Drizzy, he gave me a gift",
+      "valence": 3.03,
+      "arousal": 3.41,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Just like LeBron, get my niggas more chips Just put the Rollie right back on my wrist This watch came from Drizzy, he gave me a gift Back when the rap game was prayin' I'd diss",
+      "valence": 2.98,
+      "arousal": 3.38,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Just put the Rollie right back on my wrist This watch came from Drizzy, he gave me a gift Back when the rap game was prayin' I'd diss They act like two legends cannot coexist",
+      "valence": 2.97,
+      "arousal": 3.16,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "This watch came from Drizzy, he gave me a gift Back when the rap game was prayin' I'd diss They act like two legends cannot coexist But I'd never beef with a nigga for nothin'",
+      "valence": 3.07,
+      "arousal": 3.37,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Back when the rap game was prayin' I'd diss They act like two legends cannot coexist But I'd never beef with a nigga for nothin' If I smoke a rapper, it's gon' be legit",
+      "valence": 2.69,
+      "arousal": 3.41,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "They act like two legends cannot coexist But I'd never beef with a nigga for nothin' If I smoke a rapper, it's gon' be legit It won't be for clout, it won't be for fame",
+      "valence": 2.64,
+      "arousal": 3.42,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "But I'd never beef with a nigga for nothin' If I smoke a rapper, it's gon' be legit It won't be for clout, it won't be for fame It won't be 'cause my shit ain't sellin' the same",
+      "valence": 2.61,
+      "arousal": 3.31,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "If I smoke a rapper, it's gon' be legit It won't be for clout, it won't be for fame It won't be 'cause my shit ain't sellin' the same It won't be to sell you my latest lil' sneakers",
+      "valence": 2.86,
+      "arousal": 3.32,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "It won't be for clout, it won't be for fame It won't be 'cause my shit ain't sellin' the same It won't be to sell you my latest lil' sneakers It won't be 'cause some nigga slid in my lane",
+      "valence": 2.51,
+      "arousal": 3.35,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "It won't be 'cause my shit ain't sellin' the same It won't be to sell you my latest lil' sneakers It won't be 'cause some nigga slid in my lane Everything grows, it's destined to change",
+      "valence": 2.59,
+      "arousal": 3.37,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "It won't be to sell you my latest lil' sneakers It won't be 'cause some nigga slid in my lane Everything grows, it's destined to change I love you lil' niggas, I'm glad that you came",
+      "valence": 3.55,
+      "arousal": 3.74,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "It won't be 'cause some nigga slid in my lane Everything grows, it's destined to change I love you lil' niggas, I'm glad that you came I hope that you scrape every dollar you can",
+      "valence": 3.67,
+      "arousal": 3.73,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Everything grows, it's destined to change I love you lil' niggas, I'm glad that you came I hope that you scrape every dollar you can I hope you know money won't erase the pain",
+      "valence": 3.85,
+      "arousal": 3.76,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I love you lil' niggas, I'm glad that you came I hope that you scrape every dollar you can I hope you know money won't erase the pain To the OGs, I'm thankin' you now",
+      "valence": 3.89,
+      "arousal": 3.87,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I hope that you scrape every dollar you can I hope you know money won't erase the pain To the OGs, I'm thankin' you now Was watchin' you when you was pavin' the ground",
+      "valence": 2.82,
+      "arousal": 3.21,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I hope you know money won't erase the pain To the OGs, I'm thankin' you now Was watchin' you when you was pavin' the ground I copied your cadence, I mirrored your style",
+      "valence": 2.86,
+      "arousal": 3.23,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "To the OGs, I'm thankin' you now Was watchin' you when you was pavin' the ground I copied your cadence, I mirrored your style I studied the greats, I'm the greatest right now",
+      "valence": 3.5,
+      "arousal": 3.54,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Was watchin' you when you was pavin' the ground I copied your cadence, I mirrored your style I studied the greats, I'm the greatest right now Fuck if you feel me, you ain't got a choice",
+      "valence": 3.21,
+      "arousal": 3.67,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I copied your cadence, I mirrored your style I studied the greats, I'm the greatest right now Fuck if you feel me, you ain't got a choice Now I ain't do no promo, still made all that noise",
+      "valence": 3.09,
+      "arousal": 3.64,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I studied the greats, I'm the greatest right now Fuck if you feel me, you ain't got a choice Now I ain't do no promo, still made all that noise This shit gon' be different, I set my intentions",
+      "valence": 2.98,
+      "arousal": 3.69,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Fuck if you feel me, you ain't got a choice Now I ain't do no promo, still made all that noise This shit gon' be different, I set my intentions I promise to slap all that hate out your voice",
+      "valence": 2.05,
+      "arousal": 3.96,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Now I ain't do no promo, still made all that noise This shit gon' be different, I set my intentions I promise to slap all that hate out your voice Niggas been countin' me out",
+      "valence": 2.47,
+      "arousal": 3.64,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "This shit gon' be different, I set my intentions I promise to slap all that hate out your voice Niggas been countin' me out I'm countin' my bullets, I'm loadin' my clips",
+      "valence": 2.59,
+      "arousal": 3.73,
+      "dominance": 3.82
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I promise to slap all that hate out your voice Niggas been countin' me out I'm countin' my bullets, I'm loadin' my clips I'm writin' down names, I'm makin' a list",
+      "valence": 2.44,
+      "arousal": 3.79,
+      "dominance": 3.8
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Niggas been countin' me out I'm countin' my bullets, I'm loadin' my clips I'm writin' down names, I'm makin' a list I'm checkin' it twice and I'm gettin' 'em hit",
+      "valence": 2.92,
+      "arousal": 3.4,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I'm countin' my bullets, I'm loadin' my clips I'm writin' down names, I'm makin' a list I'm checkin' it twice and I'm gettin' 'em hit The real ones been dyin', the fake ones is lit",
+      "valence": 2.87,
+      "arousal": 3.4,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I'm writin' down names, I'm makin' a list I'm checkin' it twice and I'm gettin' 'em hit The real ones been dyin', the fake ones is lit The game is off balance, I'm back on my shit",
+      "valence": 2.68,
+      "arousal": 3.57,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I'm checkin' it twice and I'm gettin' 'em hit The real ones been dyin', the fake ones is lit The game is off balance, I'm back on my shit The Bentley is dirty, my sneakers is dirty",
+      "valence": 2.49,
+      "arousal": 3.58,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "The real ones been dyin', the fake ones is lit The game is off balance, I'm back on my shit The Bentley is dirty, my sneakers is dirty But that's how I like it, you all on my dick",
+      "valence": 2.88,
+      "arousal": 3.64,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "The game is off balance, I'm back on my shit The Bentley is dirty, my sneakers is dirty But that's how I like it, you all on my dick I just poured somethin' in my cup",
+      "valence": 2.76,
+      "arousal": 3.54,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "The Bentley is dirty, my sneakers is dirty But that's how I like it, you all on my dick I just poured somethin' in my cup I've been wantin' somethin' I can feel",
+      "valence": 3.04,
+      "arousal": 3.54,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "But that's how I like it, you all on my dick I just poured somethin' in my cup I've been wantin' somethin' I can feel Promise I am never lettin' up",
+      "valence": 3.03,
+      "arousal": 3.64,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I just poured somethin' in my cup I've been wantin' somethin' I can feel Promise I am never lettin' up Money in your palm don't make you real",
+      "valence": 2.9,
+      "arousal": 3.41,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I've been wantin' somethin' I can feel Promise I am never lettin' up Money in your palm don't make you real Foot is on they neck, I got 'em stuck",
+      "valence": 2.41,
+      "arousal": 3.54,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Promise I am never lettin' up Money in your palm don't make you real Foot is on they neck, I got 'em stuck I'ma give 'em somethin' they can feel",
+      "valence": 2.58,
+      "arousal": 3.41,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Money in your palm don't make you real Foot is on they neck, I got 'em stuck I'ma give 'em somethin' they can feel If it ain't 'bout the squad, don't give a fuck",
+      "valence": 2.49,
+      "arousal": 3.47,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Foot is on they neck, I got 'em stuck I'ma give 'em somethin' they can feel If it ain't 'bout the squad, don't give a fuck Pistol in your hand don't make you real",
+      "valence": 2.57,
+      "arousal": 3.43,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "I'ma give 'em somethin' they can feel If it ain't 'bout the squad, don't give a fuck Pistol in your hand don't make you real I'm dead in the middle of two generations",
+      "valence": 2.54,
+      "arousal": 3.39,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "If it ain't 'bout the squad, don't give a fuck Pistol in your hand don't make you real I'm dead in the middle of two generations I'm little bro and big bro all at once",
+      "valence": 2.38,
+      "arousal": 3.55,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Pistol in your hand don't make you real I'm dead in the middle of two generations I'm little bro and big bro all at once Just left the lab with young 21 Savage",
+      "valence": 2.55,
+      "arousal": 3.42,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "I'm dead in the middle of two generations I'm little bro and big bro all at once Just left the lab with young 21 Savage I'm 'bout to go and meet Jigga for lunch",
+      "valence": 2.72,
+      "arousal": 3.25,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "I'm little bro and big bro all at once Just left the lab with young 21 Savage I'm 'bout to go and meet Jigga for lunch Had a long talk with the young nigga Kodak",
+      "valence": 3.17,
+      "arousal": 3.19,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Just left the lab with young 21 Savage I'm 'bout to go and meet Jigga for lunch Had a long talk with the young nigga Kodak Reminded me of young niggas from 'Ville",
+      "valence": 3.19,
+      "arousal": 3.13,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "I'm 'bout to go and meet Jigga for lunch Had a long talk with the young nigga Kodak Reminded me of young niggas from 'Ville Straight out the projects, no fakin', just honest",
+      "valence": 3.21,
+      "arousal": 3.16,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Had a long talk with the young nigga Kodak Reminded me of young niggas from 'Ville Straight out the projects, no fakin', just honest I wish that he had more guidance, for real",
+      "valence": 2.86,
+      "arousal": 3.04,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Reminded me of young niggas from 'Ville Straight out the projects, no fakin', just honest I wish that he had more guidance, for real Too many niggas in cycle of jail",
+      "valence": 2.65,
+      "arousal": 3.1,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Straight out the projects, no fakin', just honest I wish that he had more guidance, for real Too many niggas in cycle of jail Spending they birthdays inside of a cell",
+      "valence": 2.43,
+      "arousal": 3.23,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "I wish that he had more guidance, for real Too many niggas in cycle of jail Spending they birthdays inside of a cell We coming from a long bloodline of trauma",
+      "valence": 2.34,
+      "arousal": 3.28,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Too many niggas in cycle of jail Spending they birthdays inside of a cell We coming from a long bloodline of trauma We raised by our mamas, Lord we gotta heal",
+      "valence": 2.42,
+      "arousal": 3.42,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Spending they birthdays inside of a cell We coming from a long bloodline of trauma We raised by our mamas, Lord we gotta heal We hurting our sisters, the babies as well",
+      "valence": 2.27,
+      "arousal": 3.42,
+      "dominance": 2.73
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "We coming from a long bloodline of trauma We raised by our mamas, Lord we gotta heal We hurting our sisters, the babies as well We killing our brothers, they poisoned the well",
+      "valence": 2.11,
+      "arousal": 3.51,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "We raised by our mamas, Lord we gotta heal We hurting our sisters, the babies as well We killing our brothers, they poisoned the well Distorted self image, we set up to fail",
+      "valence": 2.15,
+      "arousal": 3.48,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "We hurting our sisters, the babies as well We killing our brothers, they poisoned the well Distorted self image, we set up to fail I'ma make sure that the real gon' prevail, nigga",
+      "valence": 2.34,
+      "arousal": 3.59,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "We killing our brothers, they poisoned the well Distorted self image, we set up to fail I'ma make sure that the real gon' prevail, nigga I just poured somethin' in my cup",
+      "valence": 2.62,
+      "arousal": 3.56,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Distorted self image, we set up to fail I'ma make sure that the real gon' prevail, nigga I just poured somethin' in my cup I've been wantin' somethin' I can feel",
+      "valence": 2.89,
+      "arousal": 3.45,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "I'ma make sure that the real gon' prevail, nigga I just poured somethin' in my cup I've been wantin' somethin' I can feel Promise I am never lettin' up",
+      "valence": 3.0,
+      "arousal": 3.38,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "I just poured somethin' in my cup I've been wantin' somethin' I can feel Promise I am never lettin' up Money in your palm don't make you real",
+      "valence": 2.9,
+      "arousal": 3.41,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "I've been wantin' somethin' I can feel Promise I am never lettin' up Money in your palm don't make you real Foot is on they neck, I got 'em stuck",
+      "valence": 2.41,
+      "arousal": 3.54,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "Promise I am never lettin' up Money in your palm don't make you real Foot is on they neck, I got 'em stuck I'ma give 'em somethin' they can feel",
+      "valence": 2.58,
+      "arousal": 3.41,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "Money in your palm don't make you real Foot is on they neck, I got 'em stuck I'ma give 'em somethin' they can feel If it ain't 'bout the squad, don't give a fuck",
+      "valence": 2.49,
+      "arousal": 3.47,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "Foot is on they neck, I got 'em stuck I'ma give 'em somethin' they can feel If it ain't 'bout the squad, don't give a fuck Pistol in your hand don't make you real",
+      "valence": 2.57,
+      "arousal": 3.43,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "I'ma give 'em somethin' they can feel If it ain't 'bout the squad, don't give a fuck Pistol in your hand don't make you real Money in your palm don't make you real",
+      "valence": 2.75,
+      "arousal": 3.25,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "If it ain't 'bout the squad, don't give a fuck Pistol in your hand don't make you real Money in your palm don't make you real Pistol in your hand don't make you real",
+      "valence": 2.62,
+      "arousal": 3.29,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "Pistol in your hand don't make you real Money in your palm don't make you real Pistol in your hand don't make you real Money in your palm don't make you real",
+      "valence": 2.7,
+      "arousal": 3.11,
+      "dominance": 3.28
+    }
+  ]
+}

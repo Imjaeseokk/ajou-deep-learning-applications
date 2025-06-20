@@ -1,0 +1,486 @@
+{
+  "artist": "Ed Sheeran",
+  "overall_vad": {
+    "valence": 3.15,
+    "arousal": 3.47,
+    "dominance": 3.16
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "It's late in the evening Glass on the side up I've been sat with you For most of the night",
+      "valence": 3.2,
+      "arousal": 2.96,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Glass on the side up I've been sat with you For most of the night Ignoring everybody here",
+      "valence": 3.01,
+      "arousal": 2.96,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I've been sat with you For most of the night Ignoring everybody here We wish they would disappear",
+      "valence": 2.69,
+      "arousal": 3.19,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "For most of the night Ignoring everybody here We wish they would disappear So, maybe we could get down now",
+      "valence": 2.59,
+      "arousal": 3.21,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Ignoring everybody here We wish they would disappear So, maybe we could get down now I don't wanna know",
+      "valence": 2.58,
+      "arousal": 3.22,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "We wish they would disappear So, maybe we could get down now I don't wanna know If you're getting ahead of the program",
+      "valence": 2.67,
+      "arousal": 3.16,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "So, maybe we could get down now I don't wanna know If you're getting ahead of the program I want you to be mine, lady",
+      "valence": 2.91,
+      "arousal": 3.28,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I don't wanna know If you're getting ahead of the program I want you to be mine, lady To hold your body close",
+      "valence": 2.92,
+      "arousal": 3.44,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "If you're getting ahead of the program I want you to be mine, lady To hold your body close Take another step into the no-man's land",
+      "valence": 3.07,
+      "arousal": 3.48,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I want you to be mine, lady To hold your body close Take another step into the no-man's land For the longest time, lady",
+      "valence": 3.27,
+      "arousal": 3.61,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "To hold your body close Take another step into the no-man's land For the longest time, lady I need you darling",
+      "valence": 3.22,
+      "arousal": 3.45,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Take another step into the no-man's land For the longest time, lady I need you darling Come on set the tone",
+      "valence": 3.18,
+      "arousal": 3.47,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "For the longest time, lady I need you darling Come on set the tone If you feel you're falling",
+      "valence": 3.22,
+      "arousal": 3.43,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I need you darling Come on set the tone If you feel you're falling Won't you let me know, oh-ooh",
+      "valence": 3.22,
+      "arousal": 3.52,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Come on set the tone If you feel you're falling Won't you let me know, oh-ooh If you love me, come on, get involved",
+      "valence": 3.22,
+      "arousal": 3.58,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "If you feel you're falling Won't you let me know, oh-ooh If you love me, come on, get involved Feel it rushing through you from your head to toe, oh-ooh",
+      "valence": 3.16,
+      "arousal": 3.74,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Won't you let me know, oh-ooh If you love me, come on, get involved Feel it rushing through you from your head to toe, oh-ooh Oh-ooh",
+      "valence": 3.38,
+      "arousal": 3.78,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "If you love me, come on, get involved Feel it rushing through you from your head to toe, oh-ooh Oh-ooh Sing (oh-oh-oh-oh, oh, oh)",
+      "valence": 3.52,
+      "arousal": 3.85,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Feel it rushing through you from your head to toe, oh-ooh Oh-ooh Sing (oh-oh-oh-oh, oh, oh) Oh-oh-oh-oh, oh, oh",
+      "valence": 2.94,
+      "arousal": 3.73,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Oh-ooh Sing (oh-oh-oh-oh, oh, oh) Oh-oh-oh-oh, oh, oh Louder (oh-oh-oh-oh, oh, oh)",
+      "valence": 3.06,
+      "arousal": 3.32,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Sing (oh-oh-oh-oh, oh, oh) Oh-oh-oh-oh, oh, oh Louder (oh-oh-oh-oh, oh, oh) Sing (oh-oh-oh-oh, oh, oh)",
+      "valence": 3.05,
+      "arousal": 3.17,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Oh-oh-oh-oh, oh, oh Louder (oh-oh-oh-oh, oh, oh) Sing (oh-oh-oh-oh, oh, oh) This love is a blaze",
+      "valence": 3.69,
+      "arousal": 3.76,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Louder (oh-oh-oh-oh, oh, oh) Sing (oh-oh-oh-oh, oh, oh) This love is a blaze I saw flames from the side of the stage",
+      "valence": 3.55,
+      "arousal": 3.69,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Sing (oh-oh-oh-oh, oh, oh) This love is a blaze I saw flames from the side of the stage And the fire brigade comes in a couple of days",
+      "valence": 3.63,
+      "arousal": 3.68,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "This love is a blaze I saw flames from the side of the stage And the fire brigade comes in a couple of days Until then, we got nothing to say and nothing to know",
+      "valence": 2.78,
+      "arousal": 3.4,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I saw flames from the side of the stage And the fire brigade comes in a couple of days Until then, we got nothing to say and nothing to know But something to drink and maybe something to smoke",
+      "valence": 2.73,
+      "arousal": 3.27,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "And the fire brigade comes in a couple of days Until then, we got nothing to say and nothing to know But something to drink and maybe something to smoke Let it go until I wrote a change",
+      "valence": 2.68,
+      "arousal": 3.1,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Until then, we got nothing to say and nothing to know But something to drink and maybe something to smoke Let it go until I wrote a change Singing we found love in a local raid, no",
+      "valence": 2.99,
+      "arousal": 3.35,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "But something to drink and maybe something to smoke Let it go until I wrote a change Singing we found love in a local raid, no I don't really know what I'm supposed to say",
+      "valence": 3.08,
+      "arousal": 3.41,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Let it go until I wrote a change Singing we found love in a local raid, no I don't really know what I'm supposed to say But I can just figure it out and hope and pray",
+      "valence": 3.21,
+      "arousal": 3.4,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Singing we found love in a local raid, no I don't really know what I'm supposed to say But I can just figure it out and hope and pray I told them my name and said it's nice to meet ya",
+      "valence": 3.74,
+      "arousal": 3.6,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I don't really know what I'm supposed to say But I can just figure it out and hope and pray I told them my name and said it's nice to meet ya Then she handed me of a bottle of water filled with tequila",
+      "valence": 3.48,
+      "arousal": 3.38,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "But I can just figure it out and hope and pray I told them my name and said it's nice to meet ya Then she handed me of a bottle of water filled with tequila I already know she's a keeper",
+      "valence": 3.51,
+      "arousal": 3.31,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I told them my name and said it's nice to meet ya Then she handed me of a bottle of water filled with tequila I already know she's a keeper Just from this one small act of kindness, I'm in deep",
+      "valence": 3.85,
+      "arousal": 3.55,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Then she handed me of a bottle of water filled with tequila I already know she's a keeper Just from this one small act of kindness, I'm in deep If anybody finds out, I'm meant to drive home",
+      "valence": 3.4,
+      "arousal": 3.52,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I already know she's a keeper Just from this one small act of kindness, I'm in deep If anybody finds out, I'm meant to drive home But I'm drunk and gonna live it now, no?",
+      "valence": 2.9,
+      "arousal": 3.47,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Just from this one small act of kindness, I'm in deep If anybody finds out, I'm meant to drive home But I'm drunk and gonna live it now, no? We just sit on the couch",
+      "valence": 2.86,
+      "arousal": 3.25,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "If anybody finds out, I'm meant to drive home But I'm drunk and gonna live it now, no? We just sit on the couch One thing led to another, now she's kissing my mouth",
+      "valence": 2.94,
+      "arousal": 3.61,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "But I'm drunk and gonna live it now, no? We just sit on the couch One thing led to another, now she's kissing my mouth I need you darling",
+      "valence": 3.25,
+      "arousal": 3.64,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "We just sit on the couch One thing led to another, now she's kissing my mouth I need you darling Come on set the tone",
+      "valence": 3.52,
+      "arousal": 3.86,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "One thing led to another, now she's kissing my mouth I need you darling Come on set the tone If you feel you're falling",
+      "valence": 3.48,
+      "arousal": 3.99,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "I need you darling Come on set the tone If you feel you're falling Won't you let me know, ooh-oh",
+      "valence": 3.22,
+      "arousal": 3.53,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Come on set the tone If you feel you're falling Won't you let me know, ooh-oh Ooh-oh",
+      "valence": 2.76,
+      "arousal": 3.39,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "If you feel you're falling Won't you let me know, ooh-oh Ooh-oh If you love me, come on, get involved",
+      "valence": 3.18,
+      "arousal": 3.63,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Won't you let me know, ooh-oh Ooh-oh If you love me, come on, get involved Feel it rushing through you from your head to toe, ooh-oh",
+      "valence": 3.27,
+      "arousal": 3.74,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Ooh-oh If you love me, come on, get involved Feel it rushing through you from your head to toe, ooh-oh Ooh-oh",
+      "valence": 3.54,
+      "arousal": 3.86,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "If you love me, come on, get involved Feel it rushing through you from your head to toe, ooh-oh Ooh-oh Sing (oh-oh-oh-oh, oh, oh)",
+      "valence": 3.51,
+      "arousal": 3.86,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Feel it rushing through you from your head to toe, ooh-oh Ooh-oh Sing (oh-oh-oh-oh, oh, oh) Oh-oh-oh-oh, oh, oh",
+      "valence": 2.96,
+      "arousal": 3.73,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Ooh-oh Sing (oh-oh-oh-oh, oh, oh) Oh-oh-oh-oh, oh, oh Louder (oh-oh-oh-oh, oh, oh)",
+      "valence": 3.07,
+      "arousal": 3.36,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Sing (oh-oh-oh-oh, oh, oh) Oh-oh-oh-oh, oh, oh Louder (oh-oh-oh-oh, oh, oh) Sing (oh-oh-oh-oh, oh, oh)",
+      "valence": 3.05,
+      "arousal": 3.17,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Oh-oh-oh-oh, oh, oh Louder (oh-oh-oh-oh, oh, oh) Sing (oh-oh-oh-oh, oh, oh) Can you feel it?",
+      "valence": 3.16,
+      "arousal": 3.36,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Louder (oh-oh-oh-oh, oh, oh) Sing (oh-oh-oh-oh, oh, oh) Can you feel it? All the guys in here don't really wanna dance",
+      "valence": 2.85,
+      "arousal": 3.06,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Sing (oh-oh-oh-oh, oh, oh) Can you feel it? All the guys in here don't really wanna dance Can you feel it?",
+      "valence": 2.83,
+      "arousal": 3.17,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Can you feel it? All the guys in here don't really wanna dance Can you feel it? All that I can hear is music from the back",
+      "valence": 2.85,
+      "arousal": 3.08,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "All the guys in here don't really wanna dance Can you feel it? All that I can hear is music from the back But can you feel it?",
+      "valence": 2.72,
+      "arousal": 3.05,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Can you feel it? All that I can hear is music from the back But can you feel it? Found you hiding here so hoped you'd take my hand, darling",
+      "valence": 3.3,
+      "arousal": 3.39,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "All that I can hear is music from the back But can you feel it? Found you hiding here so hoped you'd take my hand, darling Before the beats kicks in again",
+      "valence": 3.26,
+      "arousal": 3.4,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "But can you feel it? Found you hiding here so hoped you'd take my hand, darling Before the beats kicks in again Can you feel it? Oh",
+      "valence": 3.21,
+      "arousal": 3.42,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Found you hiding here so hoped you'd take my hand, darling Before the beats kicks in again Can you feel it? Oh Can you feel it? Oh no, no, no",
+      "valence": 3.19,
+      "arousal": 3.55,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Before the beats kicks in again Can you feel it? Oh Can you feel it? Oh no, no, no I need you darling",
+      "valence": 3.13,
+      "arousal": 3.71,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Can you feel it? Oh Can you feel it? Oh no, no, no I need you darling Come on set the tone",
+      "valence": 3.2,
+      "arousal": 3.73,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Can you feel it? Oh no, no, no I need you darling Come on set the tone If you feel you're falling",
+      "valence": 3.13,
+      "arousal": 3.71,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "I need you darling Come on set the tone If you feel you're falling Won't you let me know? (Louder), ooh-oh",
+      "valence": 3.21,
+      "arousal": 3.49,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Come on set the tone If you feel you're falling Won't you let me know? (Louder), ooh-oh Ooh-oh",
+      "valence": 2.88,
+      "arousal": 3.32,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "If you feel you're falling Won't you let me know? (Louder), ooh-oh Ooh-oh (Sing) If you love me, come on, get involved",
+      "valence": 3.25,
+      "arousal": 3.55,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Won't you let me know? (Louder), ooh-oh Ooh-oh (Sing) If you love me, come on, get involved Feel it rushing through you from your head to toe (louder), oh",
+      "valence": 3.35,
+      "arousal": 3.64,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Ooh-oh (Sing) If you love me, come on, get involved Feel it rushing through you from your head to toe (louder), oh Ooh-oh",
+      "valence": 3.44,
+      "arousal": 3.78,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "(Sing) If you love me, come on, get involved Feel it rushing through you from your head to toe (louder), oh Ooh-oh Sing",
+      "valence": 3.51,
+      "arousal": 3.8,
+      "dominance": 3.41
+    }
+  ]
+}

@@ -1,0 +1,514 @@
+{
+  "artist": "Billy Currington",
+  "overall_vad": {
+    "valence": 2.95,
+    "arousal": 3.42,
+    "dominance": 3.28
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Baby what's on your mind? When you see me pull up in your drive? Do you wanna go downtown? Maybe have a little high dollar wine?",
+      "valence": 3.16,
+      "arousal": 3.42,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "When you see me pull up in your drive? Do you wanna go downtown? Maybe have a little high dollar wine? Do you wanna go out to the country?",
+      "valence": 3.16,
+      "arousal": 3.28,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Do you wanna go downtown? Maybe have a little high dollar wine? Do you wanna go out to the country? And maybe blow all our money",
+      "valence": 2.94,
+      "arousal": 3.29,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Maybe have a little high dollar wine? Do you wanna go out to the country? And maybe blow all our money On some sugar at the truckstop and some scratch-offs",
+      "valence": 2.9,
+      "arousal": 3.24,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Do you wanna go out to the country? And maybe blow all our money On some sugar at the truckstop and some scratch-offs See if we can get lucky?",
+      "valence": 3.03,
+      "arousal": 3.27,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "And maybe blow all our money On some sugar at the truckstop and some scratch-offs See if we can get lucky? Oh, I gotta know what's goin' on",
+      "valence": 3.06,
+      "arousal": 3.3,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "On some sugar at the truckstop and some scratch-offs See if we can get lucky? Oh, I gotta know what's goin' on In your beautiful mind?",
+      "valence": 3.17,
+      "arousal": 3.32,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "See if we can get lucky? Oh, I gotta know what's goin' on In your beautiful mind? Baby don't be shy",
+      "valence": 3.25,
+      "arousal": 3.39,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Oh, I gotta know what's goin' on In your beautiful mind? Baby don't be shy And tell me now",
+      "valence": 3.04,
+      "arousal": 3.41,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "In your beautiful mind? Baby don't be shy And tell me now Do I make you wanna dance real slow? Go",
+      "valence": 3.14,
+      "arousal": 3.47,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Baby don't be shy And tell me now Do I make you wanna dance real slow? Go Flyin' down a two lane road? Find",
+      "valence": 3.05,
+      "arousal": 3.43,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "And tell me now Do I make you wanna dance real slow? Go Flyin' down a two lane road? Find A limb to hang your clothes?",
+      "valence": 2.79,
+      "arousal": 3.47,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Do I make you wanna dance real slow? Go Flyin' down a two lane road? Find A limb to hang your clothes? Do I make you wanna let your hair down",
+      "valence": 2.92,
+      "arousal": 3.33,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Flyin' down a two lane road? Find A limb to hang your clothes? Do I make you wanna let your hair down Play a little truth or dare now",
+      "valence": 2.75,
+      "arousal": 3.43,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "A limb to hang your clothes? Do I make you wanna let your hair down Play a little truth or dare now Act just like you don't care now",
+      "valence": 2.57,
+      "arousal": 3.49,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Do I make you wanna let your hair down Play a little truth or dare now Act just like you don't care now Girl, when I come around",
+      "valence": 2.8,
+      "arousal": 3.53,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Play a little truth or dare now Act just like you don't care now Girl, when I come around Tell me, do I make you wanna?",
+      "valence": 2.92,
+      "arousal": 3.39,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Act just like you don't care now Girl, when I come around Tell me, do I make you wanna? Stay up 'til the sun",
+      "valence": 2.74,
+      "arousal": 3.43,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Girl, when I come around Tell me, do I make you wanna? Stay up 'til the sun Howl at the moon",
+      "valence": 3.11,
+      "arousal": 3.43,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Tell me, do I make you wanna? Stay up 'til the sun Howl at the moon Baby, tell me the truth",
+      "valence": 2.83,
+      "arousal": 3.42,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Stay up 'til the sun Howl at the moon Baby, tell me the truth Do I make you wanna",
+      "valence": 2.75,
+      "arousal": 3.45,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Howl at the moon Baby, tell me the truth Do I make you wanna Karaoke in the neon light",
+      "valence": 2.92,
+      "arousal": 3.51,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Baby, tell me the truth Do I make you wanna Karaoke in the neon light Go to Vegas, stay up all night",
+      "valence": 3.0,
+      "arousal": 3.48,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Do I make you wanna Karaoke in the neon light Go to Vegas, stay up all night See if we can find a cheap flight",
+      "valence": 3.22,
+      "arousal": 3.38,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Karaoke in the neon light Go to Vegas, stay up all night See if we can find a cheap flight Little seven, come 11, baby, roll those dice",
+      "valence": 3.17,
+      "arousal": 3.32,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Go to Vegas, stay up all night See if we can find a cheap flight Little seven, come 11, baby, roll those dice Do I make you feel pretty?",
+      "valence": 3.21,
+      "arousal": 3.41,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "See if we can find a cheap flight Little seven, come 11, baby, roll those dice Do I make you feel pretty? Do I make you wanna lean back, lay back and kiss me?",
+      "valence": 3.29,
+      "arousal": 3.64,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Little seven, come 11, baby, roll those dice Do I make you feel pretty? Do I make you wanna lean back, lay back and kiss me? Do you wanna roll with me",
+      "valence": 3.29,
+      "arousal": 3.63,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Do I make you feel pretty? Do I make you wanna lean back, lay back and kiss me? Do you wanna roll with me To the mountains, to the beach, to a party in the city?",
+      "valence": 3.31,
+      "arousal": 3.66,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Do I make you wanna lean back, lay back and kiss me? Do you wanna roll with me To the mountains, to the beach, to a party in the city? Do you wanna take in a broadway show?",
+      "valence": 3.22,
+      "arousal": 3.71,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Do you wanna roll with me To the mountains, to the beach, to a party in the city? Do you wanna take in a broadway show? Or maybe just stay low?",
+      "valence": 3.15,
+      "arousal": 3.16,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "To the mountains, to the beach, to a party in the city? Do you wanna take in a broadway show? Or maybe just stay low? I gotta know now",
+      "valence": 3.0,
+      "arousal": 3.32,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Do you wanna take in a broadway show? Or maybe just stay low? I gotta know now Do I make you wanna dance real slow? Go",
+      "valence": 3.0,
+      "arousal": 3.29,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Or maybe just stay low? I gotta know now Do I make you wanna dance real slow? Go Flyin' down a two lane road? Find",
+      "valence": 3.04,
+      "arousal": 3.32,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I gotta know now Do I make you wanna dance real slow? Go Flyin' down a two lane road? Find A limb to hang your clothes?",
+      "valence": 2.77,
+      "arousal": 3.44,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Do I make you wanna dance real slow? Go Flyin' down a two lane road? Find A limb to hang your clothes? Do I make you wanna let your hair down?",
+      "valence": 2.93,
+      "arousal": 3.29,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Flyin' down a two lane road? Find A limb to hang your clothes? Do I make you wanna let your hair down? Play a little truth or dare now",
+      "valence": 2.79,
+      "arousal": 3.44,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "A limb to hang your clothes? Do I make you wanna let your hair down? Play a little truth or dare now Act just like you don't care now",
+      "valence": 2.69,
+      "arousal": 3.49,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Do I make you wanna let your hair down? Play a little truth or dare now Act just like you don't care now Girl when I come around",
+      "valence": 2.82,
+      "arousal": 3.59,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Play a little truth or dare now Act just like you don't care now Girl when I come around Tell me, do I make you wanna?",
+      "valence": 2.87,
+      "arousal": 3.41,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Act just like you don't care now Girl when I come around Tell me, do I make you wanna? Do I make you turn into somebody else?",
+      "valence": 2.66,
+      "arousal": 3.44,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Girl when I come around Tell me, do I make you wanna? Do I make you turn into somebody else? Do you feel like you can finally be yourself?",
+      "valence": 3.11,
+      "arousal": 3.31,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Tell me, do I make you wanna? Do I make you turn into somebody else? Do you feel like you can finally be yourself? Baby, tell me now",
+      "valence": 3.05,
+      "arousal": 3.39,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Do I make you turn into somebody else? Do you feel like you can finally be yourself? Baby, tell me now Do I make you wanna dance real slow? Go",
+      "valence": 3.14,
+      "arousal": 3.43,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Do you feel like you can finally be yourself? Baby, tell me now Do I make you wanna dance real slow? Go Flyin' down a two lane road? Find",
+      "valence": 3.28,
+      "arousal": 3.45,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Baby, tell me now Do I make you wanna dance real slow? Go Flyin' down a two lane road? Find A limb to hang your clothes?",
+      "valence": 2.86,
+      "arousal": 3.47,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Do I make you wanna dance real slow? Go Flyin' down a two lane road? Find A limb to hang your clothes? Out in the middle of nowhere now?",
+      "valence": 2.7,
+      "arousal": 3.45,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Flyin' down a two lane road? Find A limb to hang your clothes? Out in the middle of nowhere now? We can take it back downtown",
+      "valence": 2.63,
+      "arousal": 3.51,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "A limb to hang your clothes? Out in the middle of nowhere now? We can take it back downtown You know I don't care now",
+      "valence": 2.43,
+      "arousal": 3.59,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Out in the middle of nowhere now? We can take it back downtown You know I don't care now Just wanna take you there now",
+      "valence": 2.72,
+      "arousal": 3.42,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "We can take it back downtown You know I don't care now Just wanna take you there now Do I make you wanna dance real slow? Go",
+      "valence": 2.91,
+      "arousal": 3.39,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "You know I don't care now Just wanna take you there now Do I make you wanna dance real slow? Go Flyin' down a two lane road? Find",
+      "valence": 2.93,
+      "arousal": 3.31,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Just wanna take you there now Do I make you wanna dance real slow? Go Flyin' down a two lane road? Find A limb to hang your clothes?",
+      "valence": 2.93,
+      "arousal": 3.33,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Do I make you wanna dance real slow? Go Flyin' down a two lane road? Find A limb to hang your clothes? Do I make you wanna let your hair down",
+      "valence": 2.92,
+      "arousal": 3.33,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Flyin' down a two lane road? Find A limb to hang your clothes? Do I make you wanna let your hair down Play a little truth or dare now",
+      "valence": 2.75,
+      "arousal": 3.43,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "A limb to hang your clothes? Do I make you wanna let your hair down Play a little truth or dare now Act just like you don't care now",
+      "valence": 2.57,
+      "arousal": 3.49,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Do I make you wanna let your hair down Play a little truth or dare now Act just like you don't care now Girl when I come around",
+      "valence": 2.76,
+      "arousal": 3.55,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Play a little truth or dare now Act just like you don't care now Girl when I come around Tell me, do I make you wanna?",
+      "valence": 2.87,
+      "arousal": 3.41,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Act just like you don't care now Girl when I come around Tell me, do I make you wanna? Stay up 'til the sun?",
+      "valence": 2.64,
+      "arousal": 3.44,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Girl when I come around Tell me, do I make you wanna? Stay up 'til the sun? Howl at the moon? Broadway?",
+      "valence": 3.06,
+      "arousal": 3.34,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Tell me, do I make you wanna? Stay up 'til the sun? Howl at the moon? Broadway? Tell me do I make you wanna",
+      "valence": 3.02,
+      "arousal": 3.29,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Stay up 'til the sun? Howl at the moon? Broadway? Tell me do I make you wanna Stay up 'til the sun?",
+      "valence": 2.94,
+      "arousal": 3.4,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Howl at the moon? Broadway? Tell me do I make you wanna Stay up 'til the sun? Howl at the moon?",
+      "valence": 3.03,
+      "arousal": 3.4,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Tell me do I make you wanna Stay up 'til the sun? Howl at the moon? Baby, tell me the truth",
+      "valence": 2.82,
+      "arousal": 3.39,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Stay up 'til the sun? Howl at the moon? Baby, tell me the truth Do I make you wanna",
+      "valence": 2.89,
+      "arousal": 3.49,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Howl at the moon? Baby, tell me the truth Do I make you wanna (Let your hair down)",
+      "valence": 2.87,
+      "arousal": 3.57,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Baby, tell me the truth Do I make you wanna (Let your hair down) Yeah (Play a little truth or dare now)",
+      "valence": 3.08,
+      "arousal": 3.47,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Do I make you wanna (Let your hair down) Yeah (Play a little truth or dare now) Ye-e-yeah-eh (Act just like you don't care now)",
+      "valence": 3.03,
+      "arousal": 3.37,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "(Let your hair down) Yeah (Play a little truth or dare now) Ye-e-yeah-eh (Act just like you don't care now) Baby",
+      "valence": 3.11,
+      "arousal": 3.3,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Yeah (Play a little truth or dare now) Ye-e-yeah-eh (Act just like you don't care now) Baby Go flyin' down a two lane road",
+      "valence": 3.04,
+      "arousal": 3.31,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Ye-e-yeah-eh (Act just like you don't care now) Baby Go flyin' down a two lane road A limb to hang your clothes on (Oh)",
+      "valence": 2.73,
+      "arousal": 3.39,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Baby Go flyin' down a two lane road A limb to hang your clothes on (Oh) Huh babe, tell me do I make you wanna",
+      "valence": 2.92,
+      "arousal": 3.48,
+      "dominance": 3.07
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "artist": "Jon Pardi",
+  "overall_vad": {
+    "valence": 3.0,
+    "arousal": 3.36,
+    "dominance": 3.1
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Yeah, this could be your last drink from a stranger in a bar The last time that you're dancin' in unfamiliar arms Yeah, this could be your last first kiss if we do this thing right Your last time alone beneath neon lights",
+      "valence": 3.09,
+      "arousal": 3.48,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "The last time that you're dancin' in unfamiliar arms Yeah, this could be your last first kiss if we do this thing right Your last time alone beneath neon lights It could be your last night comin' in here, drinkin' all by yourself",
+      "valence": 3.09,
+      "arousal": 3.48,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Yeah, this could be your last first kiss if we do this thing right Your last time alone beneath neon lights It could be your last night comin' in here, drinkin' all by yourself The last time givin' your heart away to someone else",
+      "valence": 3.13,
+      "arousal": 3.48,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Your last time alone beneath neon lights It could be your last night comin' in here, drinkin' all by yourself The last time givin' your heart away to someone else Yeah, we could be some history in the makin', girl",
+      "valence": 2.99,
+      "arousal": 3.33,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "It could be your last night comin' in here, drinkin' all by yourself The last time givin' your heart away to someone else Yeah, we could be some history in the makin', girl Tonight might be your last night lonely",
+      "valence": 2.91,
+      "arousal": 3.27,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "The last time givin' your heart away to someone else Yeah, we could be some history in the makin', girl Tonight might be your last night lonely Yeah, you could be the last first name that's ever been worth askin'",
+      "valence": 2.97,
+      "arousal": 3.44,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Yeah, we could be some history in the makin', girl Tonight might be your last night lonely Yeah, you could be the last first name that's ever been worth askin' Yeah, you could be the last phone number I write down on a napkin",
+      "valence": 3.15,
+      "arousal": 3.32,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Tonight might be your last night lonely Yeah, you could be the last first name that's ever been worth askin' Yeah, you could be the last phone number I write down on a napkin Yeah, you could be the last girl that I take back home to mama",
+      "valence": 2.93,
+      "arousal": 3.36,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Yeah, you could be the last first name that's ever been worth askin' Yeah, you could be the last phone number I write down on a napkin Yeah, you could be the last girl that I take back home to mama The last time that we're talked about in this small town drama",
+      "valence": 3.03,
+      "arousal": 3.37,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Yeah, you could be the last phone number I write down on a napkin Yeah, you could be the last girl that I take back home to mama The last time that we're talked about in this small town drama It's gonna be the last night comin' in here, drinkin' all by yourself",
+      "valence": 3.04,
+      "arousal": 3.34,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Yeah, you could be the last girl that I take back home to mama The last time that we're talked about in this small town drama It's gonna be the last night comin' in here, drinkin' all by yourself The last time givin' your heart away to someone else",
+      "valence": 2.88,
+      "arousal": 3.39,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "The last time that we're talked about in this small town drama It's gonna be the last night comin' in here, drinkin' all by yourself The last time givin' your heart away to someone else Yeah, we could be some history in the makin', girl",
+      "valence": 2.9,
+      "arousal": 3.35,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "It's gonna be the last night comin' in here, drinkin' all by yourself The last time givin' your heart away to someone else Yeah, we could be some history in the makin', girl Tonight might be your last night lonely",
+      "valence": 2.88,
+      "arousal": 3.34,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "The last time givin' your heart away to someone else Yeah, we could be some history in the makin', girl Tonight might be your last night lonely It could be your last night lonely",
+      "valence": 3.04,
+      "arousal": 3.43,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Yeah, we could be some history in the makin', girl Tonight might be your last night lonely It could be your last night lonely It could be your last night comin' in here, drinkin' all by yourself",
+      "valence": 3.11,
+      "arousal": 3.26,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Tonight might be your last night lonely It could be your last night lonely It could be your last night comin' in here, drinkin' all by yourself The last time givin' your heart away to someone else",
+      "valence": 2.74,
+      "arousal": 3.14,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "It could be your last night lonely It could be your last night comin' in here, drinkin' all by yourself The last time givin' your heart away to someone else Yeah, we could be some history in the makin', girl",
+      "valence": 3.04,
+      "arousal": 3.36,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "It could be your last night comin' in here, drinkin' all by yourself The last time givin' your heart away to someone else Yeah, we could be some history in the makin', girl Tonight might be your last night lonely",
+      "valence": 2.91,
+      "arousal": 3.27,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "The last time givin' your heart away to someone else Yeah, we could be some history in the makin', girl Tonight might be your last night lonely It could be your last night comin' in here, drinkin' all by yourself",
+      "valence": 2.96,
+      "arousal": 3.38,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Yeah, we could be some history in the makin', girl Tonight might be your last night lonely It could be your last night comin' in here, drinkin' all by yourself The last time givin' your heart away to someone else",
+      "valence": 3.14,
+      "arousal": 3.37,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Tonight might be your last night lonely It could be your last night comin' in here, drinkin' all by yourself The last time givin' your heart away to someone else Yeah, we could be some history in the makin', girl",
+      "valence": 3.0,
+      "arousal": 3.38,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "It could be your last night comin' in here, drinkin' all by yourself The last time givin' your heart away to someone else Yeah, we could be some history in the makin', girl Tonight might be your last night lonely",
+      "valence": 2.91,
+      "arousal": 3.27,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "The last time givin' your heart away to someone else Yeah, we could be some history in the makin', girl Tonight might be your last night lonely It could be your last night lonely, yeah",
+      "valence": 3.05,
+      "arousal": 3.42,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Yeah, we could be some history in the makin', girl Tonight might be your last night lonely It could be your last night lonely, yeah Last night lonely, baby",
+      "valence": 3.18,
+      "arousal": 3.33,
+      "dominance": 3.18
+    }
+  ]
+}

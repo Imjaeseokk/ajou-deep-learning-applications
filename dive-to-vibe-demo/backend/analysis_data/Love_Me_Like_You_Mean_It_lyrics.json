@@ -1,0 +1,549 @@
+{
+  "artist": "Kelsea Ballerini",
+  "overall_vad": {
+    "valence": 3.27,
+    "arousal": 3.67,
+    "dominance": 3.34
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Love me, love me, love me Mmm, oh hey Boy with your hat back Hmm, I kinda like that",
+      "valence": 4.38,
+      "arousal": 4.04,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Mmm, oh hey Boy with your hat back Hmm, I kinda like that If you wanna walk my way",
+      "valence": 3.45,
+      "arousal": 3.4,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Boy with your hat back Hmm, I kinda like that If you wanna walk my way I'ma shoot ya straight up",
+      "valence": 3.27,
+      "arousal": 3.46,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Hmm, I kinda like that If you wanna walk my way I'ma shoot ya straight up Show me what you're made of",
+      "valence": 3.34,
+      "arousal": 3.59,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "If you wanna walk my way I'ma shoot ya straight up Show me what you're made of I don't have time to waste",
+      "valence": 2.53,
+      "arousal": 3.67,
+      "dominance": 3.88
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I'ma shoot ya straight up Show me what you're made of I don't have time to waste On the boys",
+      "valence": 2.72,
+      "arousal": 3.64,
+      "dominance": 3.8
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Show me what you're made of I don't have time to waste On the boys That are playin' the game",
+      "valence": 2.84,
+      "arousal": 3.44,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I don't have time to waste On the boys That are playin' the game Or leavin' the girls",
+      "valence": 2.96,
+      "arousal": 3.26,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "On the boys That are playin' the game Or leavin' the girls Cryin' out in the rain",
+      "valence": 3.01,
+      "arousal": 3.13,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "That are playin' the game Or leavin' the girls Cryin' out in the rain So tell me baby",
+      "valence": 2.92,
+      "arousal": 3.34,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Or leavin' the girls Cryin' out in the rain So tell me baby Do you got what it takes?",
+      "valence": 2.87,
+      "arousal": 3.4,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Cryin' out in the rain So tell me baby Do you got what it takes? If you're gonna hold me hold me like I'm leavin'",
+      "valence": 2.93,
+      "arousal": 3.62,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "So tell me baby Do you got what it takes? If you're gonna hold me hold me like I'm leavin' If you're gonna kiss me",
+      "valence": 3.19,
+      "arousal": 3.76,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Do you got what it takes? If you're gonna hold me hold me like I'm leavin' If you're gonna kiss me Kiss me like you need it",
+      "valence": 3.25,
+      "arousal": 3.77,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "If you're gonna hold me hold me like I'm leavin' If you're gonna kiss me Kiss me like you need it Baby if you're not you, best get to leavin'",
+      "valence": 3.16,
+      "arousal": 3.75,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "If you're gonna kiss me Kiss me like you need it Baby if you're not you, best get to leavin' If you're gonna love me",
+      "valence": 3.45,
+      "arousal": 3.88,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Kiss me like you need it Baby if you're not you, best get to leavin' If you're gonna love me Love me like you mean it",
+      "valence": 3.48,
+      "arousal": 3.82,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Baby if you're not you, best get to leavin' If you're gonna love me Love me like you mean it If you're gonna talk the talk",
+      "valence": 3.36,
+      "arousal": 3.71,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "If you're gonna love me Love me like you mean it If you're gonna talk the talk You better walk it",
+      "valence": 3.35,
+      "arousal": 3.68,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Love me like you mean it If you're gonna talk the talk You better walk it If you wanna keep me",
+      "valence": 3.53,
+      "arousal": 3.79,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "If you're gonna talk the talk You better walk it If you wanna keep me Keep me like you lost it",
+      "valence": 2.78,
+      "arousal": 3.34,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "You better walk it If you wanna keep me Keep me like you lost it If you're gonna say",
+      "valence": 2.8,
+      "arousal": 3.34,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "If you wanna keep me Keep me like you lost it If you're gonna say And make me believe it",
+      "valence": 2.87,
+      "arousal": 3.49,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Keep me like you lost it If you're gonna say And make me believe it If you're gonna love me boy",
+      "valence": 3.5,
+      "arousal": 3.92,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "If you're gonna say And make me believe it If you're gonna love me boy Love me like you mean it, (ya, yaa)",
+      "valence": 3.82,
+      "arousal": 3.96,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "And make me believe it If you're gonna love me boy Love me like you mean it, (ya, yaa) Oh hey",
+      "valence": 3.89,
+      "arousal": 4.0,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "If you're gonna love me boy Love me like you mean it, (ya, yaa) Oh hey I've had my share of losers",
+      "valence": 3.45,
+      "arousal": 3.96,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Love me like you mean it, (ya, yaa) Oh hey I've had my share of losers Liars and users",
+      "valence": 3.77,
+      "arousal": 3.93,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Oh hey I've had my share of losers Liars and users Lookin' for a heart to break",
+      "valence": 2.4,
+      "arousal": 3.39,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I've had my share of losers Liars and users Lookin' for a heart to break So if you're like that",
+      "valence": 2.39,
+      "arousal": 3.31,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Liars and users Lookin' for a heart to break So if you're like that Well take a step back",
+      "valence": 2.6,
+      "arousal": 3.3,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Lookin' for a heart to break So if you're like that Well take a step back 'Cause I don't have",
+      "valence": 2.6,
+      "arousal": 3.49,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "So if you're like that Well take a step back 'Cause I don't have Time to waste on the boys",
+      "valence": 2.68,
+      "arousal": 3.39,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Well take a step back 'Cause I don't have Time to waste on the boys That are playin' the game",
+      "valence": 2.75,
+      "arousal": 3.21,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "'Cause I don't have Time to waste on the boys That are playin' the game Or leavin' the girls",
+      "valence": 2.93,
+      "arousal": 3.23,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Time to waste on the boys That are playin' the game Or leavin' the girls Cryin' out in the rain",
+      "valence": 2.73,
+      "arousal": 3.11,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "That are playin' the game Or leavin' the girls Cryin' out in the rain So tell me baby",
+      "valence": 2.92,
+      "arousal": 3.34,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Or leavin' the girls Cryin' out in the rain So tell me baby Are you just crazy",
+      "valence": 2.59,
+      "arousal": 3.47,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Cryin' out in the rain So tell me baby Are you just crazy Or crazy over me?",
+      "valence": 2.58,
+      "arousal": 3.49,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "So tell me baby Are you just crazy Or crazy over me? If you're gonna hold me",
+      "valence": 2.78,
+      "arousal": 3.73,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Are you just crazy Or crazy over me? If you're gonna hold me Hold me like I'm leavin'",
+      "valence": 2.67,
+      "arousal": 3.72,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Or crazy over me? If you're gonna hold me Hold me like I'm leavin' If you're gonna kiss me",
+      "valence": 3.08,
+      "arousal": 3.78,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "If you're gonna hold me Hold me like I'm leavin' If you're gonna kiss me Kiss me like you need it",
+      "valence": 3.37,
+      "arousal": 3.84,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Hold me like I'm leavin' If you're gonna kiss me Kiss me like you need it Baby if you're not",
+      "valence": 3.3,
+      "arousal": 3.91,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "If you're gonna kiss me Kiss me like you need it Baby if you're not Your best get to leavin'",
+      "valence": 3.23,
+      "arousal": 3.83,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Kiss me like you need it Baby if you're not Your best get to leavin' If you're gonna love me",
+      "valence": 3.29,
+      "arousal": 3.75,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Baby if you're not Your best get to leavin' If you're gonna love me Love me like you mean it",
+      "valence": 3.37,
+      "arousal": 3.76,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Your best get to leavin' If you're gonna love me Love me like you mean it If you're gonna talk the talk",
+      "valence": 3.77,
+      "arousal": 3.73,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "If you're gonna love me Love me like you mean it If you're gonna talk the talk You better walk it",
+      "valence": 3.35,
+      "arousal": 3.68,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Love me like you mean it If you're gonna talk the talk You better walk it If you wanna keep me",
+      "valence": 3.53,
+      "arousal": 3.79,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "If you're gonna talk the talk You better walk it If you wanna keep me Keep me like you lost it",
+      "valence": 2.78,
+      "arousal": 3.34,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "You better walk it If you wanna keep me Keep me like you lost it If you're gonna say",
+      "valence": 2.8,
+      "arousal": 3.34,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "If you wanna keep me Keep me like you lost it If you're gonna say And make me believe it",
+      "valence": 2.87,
+      "arousal": 3.49,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Keep me like you lost it If you're gonna say And make me believe it If you're gonna love me boy",
+      "valence": 3.5,
+      "arousal": 3.92,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "If you're gonna say And make me believe it If you're gonna love me boy Love me like you mean it, (ya, yaa)",
+      "valence": 3.82,
+      "arousal": 3.96,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "And make me believe it If you're gonna love me boy Love me like you mean it, (ya, yaa) If you're gonna love me",
+      "valence": 3.87,
+      "arousal": 3.84,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "If you're gonna love me boy Love me like you mean it, (ya, yaa) If you're gonna love me Love me, love me",
+      "valence": 4.0,
+      "arousal": 3.94,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Love me like you mean it, (ya, yaa) If you're gonna love me Love me, love me If you're gonna hold me",
+      "valence": 4.11,
+      "arousal": 3.95,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "If you're gonna love me Love me, love me If you're gonna hold me Hold me like I'm leavin'",
+      "valence": 3.98,
+      "arousal": 4.01,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Love me, love me If you're gonna hold me Hold me like I'm leavin' If you're gonna kiss me",
+      "valence": 4.01,
+      "arousal": 4.08,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "If you're gonna hold me Hold me like I'm leavin' If you're gonna kiss me Kiss me like you need it",
+      "valence": 3.37,
+      "arousal": 3.84,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Hold me like I'm leavin' If you're gonna kiss me Kiss me like you need it Baby if you're not",
+      "valence": 3.3,
+      "arousal": 3.91,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "If you're gonna kiss me Kiss me like you need it Baby if you're not Your best get to leavin'",
+      "valence": 3.23,
+      "arousal": 3.83,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Kiss me like you need it Baby if you're not Your best get to leavin' If you're gonna love me",
+      "valence": 3.29,
+      "arousal": 3.75,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Baby if you're not Your best get to leavin' If you're gonna love me Love me, love me",
+      "valence": 3.6,
+      "arousal": 3.91,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Your best get to leavin' If you're gonna love me Love me, love me If you're gonna talk the talk",
+      "valence": 4.01,
+      "arousal": 3.87,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "If you're gonna love me Love me, love me If you're gonna talk the talk You better walk it",
+      "valence": 3.78,
+      "arousal": 3.91,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Love me, love me If you're gonna talk the talk You better walk it If you wanna keep me",
+      "valence": 3.83,
+      "arousal": 4.0,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "If you're gonna talk the talk You better walk it If you wanna keep me Keep me like you lost it",
+      "valence": 2.78,
+      "arousal": 3.34,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "You better walk it If you wanna keep me Keep me like you lost it If you're gonna say",
+      "valence": 2.8,
+      "arousal": 3.34,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "If you wanna keep me Keep me like you lost it If you're gonna say And make me believe it",
+      "valence": 2.87,
+      "arousal": 3.49,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Keep me like you lost it If you're gonna say And make me believe it If you're gonna love me boy",
+      "valence": 3.5,
+      "arousal": 3.92,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "If you're gonna say And make me believe it If you're gonna love me boy Love me like you mean it, (ya, yaa)",
+      "valence": 3.82,
+      "arousal": 3.96,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "And make me believe it If you're gonna love me boy Love me like you mean it, (ya, yaa) Love me like you mean it, (ya, yaa)",
+      "valence": 3.93,
+      "arousal": 3.97,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "If you're gonna love me boy Love me like you mean it, (ya, yaa) Love me like you mean it, (ya, yaa) If you're gonna love me",
+      "valence": 3.93,
+      "arousal": 3.75,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "Love me like you mean it, (ya, yaa) Love me like you mean it, (ya, yaa) If you're gonna love me Love me, love me, hmm",
+      "valence": 4.15,
+      "arousal": 3.92,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "Love me like you mean it, (ya, yaa) If you're gonna love me Love me, love me, hmm Love me like you mean it, ya",
+      "valence": 4.14,
+      "arousal": 3.99,
+      "dominance": 3.25
+    }
+  ]
+}

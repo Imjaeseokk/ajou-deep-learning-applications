@@ -1,0 +1,353 @@
+{
+  "artist": "Keith Urban",
+  "overall_vad": {
+    "valence": 2.95,
+    "arousal": 3.34,
+    "dominance": 2.99
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "The rain is coming down tonight I'm smiling looking at this photograph I hear that song and I'm flying right back To when we had it made",
+      "valence": 3.79,
+      "arousal": 3.46,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I'm smiling looking at this photograph I hear that song and I'm flying right back To when we had it made Every Friday night when the sun went down",
+      "valence": 3.9,
+      "arousal": 3.52,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I hear that song and I'm flying right back To when we had it made Every Friday night when the sun went down We'd be running them streets like we owned the town",
+      "valence": 3.32,
+      "arousal": 3.4,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "To when we had it made Every Friday night when the sun went down We'd be running them streets like we owned the town And I just can't let it go, no, I just can't let it go",
+      "valence": 2.92,
+      "arousal": 3.42,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Every Friday night when the sun went down We'd be running them streets like we owned the town And I just can't let it go, no, I just can't let it go I wonder if you ever think about it like I do",
+      "valence": 2.81,
+      "arousal": 3.39,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "We'd be running them streets like we owned the town And I just can't let it go, no, I just can't let it go I wonder if you ever think about it like I do Seven kids on my two lane road",
+      "valence": 2.72,
+      "arousal": 3.43,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "And I just can't let it go, no, I just can't let it go I wonder if you ever think about it like I do Seven kids on my two lane road Had the guns on the radio",
+      "valence": 2.48,
+      "arousal": 3.55,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I wonder if you ever think about it like I do Seven kids on my two lane road Had the guns on the radio After all this time it still feels so good",
+      "valence": 3.18,
+      "arousal": 3.4,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Seven kids on my two lane road Had the guns on the radio After all this time it still feels so good When I think about those summer nights",
+      "valence": 3.27,
+      "arousal": 3.43,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Had the guns on the radio After all this time it still feels so good When I think about those summer nights Singing out the window, on the back roads, Sweet Child of Mine",
+      "valence": 3.39,
+      "arousal": 3.33,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "After all this time it still feels so good When I think about those summer nights Singing out the window, on the back roads, Sweet Child of Mine Sipping on the local's spark of light",
+      "valence": 3.75,
+      "arousal": 3.24,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "When I think about those summer nights Singing out the window, on the back roads, Sweet Child of Mine Sipping on the local's spark of light Ain't it funny how the best days of my life",
+      "valence": 3.61,
+      "arousal": 3.25,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Singing out the window, on the back roads, Sweet Child of Mine Sipping on the local's spark of light Ain't it funny how the best days of my life Was all that wasted time",
+      "valence": 3.09,
+      "arousal": 3.09,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Sipping on the local's spark of light Ain't it funny how the best days of my life Was all that wasted time All that wasted time",
+      "valence": 2.9,
+      "arousal": 3.21,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Ain't it funny how the best days of my life Was all that wasted time All that wasted time Out of nowhere, it slipped away",
+      "valence": 2.59,
+      "arousal": 3.12,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Was all that wasted time All that wasted time Out of nowhere, it slipped away And the rope by the river hangs silently",
+      "valence": 2.56,
+      "arousal": 3.19,
+      "dominance": 2.73
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "All that wasted time Out of nowhere, it slipped away And the rope by the river hangs silently And the town that I knew ain't nothing like it used to be",
+      "valence": 2.36,
+      "arousal": 3.12,
+      "dominance": 2.7
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Out of nowhere, it slipped away And the rope by the river hangs silently And the town that I knew ain't nothing like it used to be Ah, I can't explain",
+      "valence": 2.56,
+      "arousal": 3.16,
+      "dominance": 2.69
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "And the rope by the river hangs silently And the town that I knew ain't nothing like it used to be Ah, I can't explain They took all the color from the picture frame",
+      "valence": 2.62,
+      "arousal": 3.2,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "And the town that I knew ain't nothing like it used to be Ah, I can't explain They took all the color from the picture frame And the days got sold to the greed and the game",
+      "valence": 2.4,
+      "arousal": 3.21,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Ah, I can't explain They took all the color from the picture frame And the days got sold to the greed and the game But I just can't let it go, no, I just can't let it go",
+      "valence": 2.46,
+      "arousal": 3.43,
+      "dominance": 2.77
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "They took all the color from the picture frame And the days got sold to the greed and the game But I just can't let it go, no, I just can't let it go I wonder if you ever think about it like I do",
+      "valence": 2.48,
+      "arousal": 3.31,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "And the days got sold to the greed and the game But I just can't let it go, no, I just can't let it go I wonder if you ever think about it like I do Seven kids on my two lane road",
+      "valence": 2.35,
+      "arousal": 3.4,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "But I just can't let it go, no, I just can't let it go I wonder if you ever think about it like I do Seven kids on my two lane road We had the guns on the radio",
+      "valence": 2.47,
+      "arousal": 3.59,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I wonder if you ever think about it like I do Seven kids on my two lane road We had the guns on the radio After all this time it still feels so good",
+      "valence": 3.24,
+      "arousal": 3.43,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Seven kids on my two lane road We had the guns on the radio After all this time it still feels so good When I think about those summer nights",
+      "valence": 3.25,
+      "arousal": 3.47,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "We had the guns on the radio After all this time it still feels so good When I think about those summer nights Singing out the window, on the back roads, Sweet Child of Mine",
+      "valence": 3.42,
+      "arousal": 3.33,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "After all this time it still feels so good When I think about those summer nights Singing out the window, on the back roads, Sweet Child of Mine Sipping on the local's spark of light",
+      "valence": 3.75,
+      "arousal": 3.24,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "When I think about those summer nights Singing out the window, on the back roads, Sweet Child of Mine Sipping on the local's spark of light Ain't it funny how the best days of my life",
+      "valence": 3.61,
+      "arousal": 3.25,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Singing out the window, on the back roads, Sweet Child of Mine Sipping on the local's spark of light Ain't it funny how the best days of my life Was all that wasted time",
+      "valence": 3.09,
+      "arousal": 3.09,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Sipping on the local's spark of light Ain't it funny how the best days of my life Was all that wasted time All that wasted time",
+      "valence": 2.9,
+      "arousal": 3.21,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Ain't it funny how the best days of my life Was all that wasted time All that wasted time Swinging on the line",
+      "valence": 2.71,
+      "arousal": 3.21,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Was all that wasted time All that wasted time Swinging on the line Living all that wasted time",
+      "valence": 2.53,
+      "arousal": 3.24,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "All that wasted time Swinging on the line Living all that wasted time Hey, hey, now",
+      "valence": 2.8,
+      "arousal": 3.27,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Swinging on the line Living all that wasted time Hey, hey, now Summer dresses rained on the hood of the car",
+      "valence": 2.81,
+      "arousal": 3.39,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Living all that wasted time Hey, hey, now Summer dresses rained on the hood of the car Only music that we had was out the left speaker",
+      "valence": 2.82,
+      "arousal": 3.35,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Hey, hey, now Summer dresses rained on the hood of the car Only music that we had was out the left speaker We were living every second 'til the time ran out",
+      "valence": 2.91,
+      "arousal": 3.41,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Summer dresses rained on the hood of the car Only music that we had was out the left speaker We were living every second 'til the time ran out We had nothing but we had it all",
+      "valence": 2.94,
+      "arousal": 3.41,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Only music that we had was out the left speaker We were living every second 'til the time ran out We had nothing but we had it all When I think about those summer night",
+      "valence": 3.09,
+      "arousal": 3.38,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "We were living every second 'til the time ran out We had nothing but we had it all When I think about those summer night Sneaking out the window, running back roads",
+      "valence": 2.9,
+      "arousal": 3.3,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "We had nothing but we had it all When I think about those summer night Sneaking out the window, running back roads Your hand in mine",
+      "valence": 3.07,
+      "arousal": 3.31,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "When I think about those summer night Sneaking out the window, running back roads Your hand in mine We were going nowhere, we were so alive",
+      "valence": 3.15,
+      "arousal": 3.42,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Sneaking out the window, running back roads Your hand in mine We were going nowhere, we were so alive Uh huh, ain't it crazy how the best days of my life",
+      "valence": 3.36,
+      "arousal": 3.54,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Your hand in mine We were going nowhere, we were so alive Uh huh, ain't it crazy how the best days of my life Was all that wasted time",
+      "valence": 3.08,
+      "arousal": 3.45,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "We were going nowhere, we were so alive Uh huh, ain't it crazy how the best days of my life Was all that wasted time All that wasted time",
+      "valence": 2.83,
+      "arousal": 3.49,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Uh huh, ain't it crazy how the best days of my life Was all that wasted time All that wasted time We were swinging out on the line",
+      "valence": 2.71,
+      "arousal": 3.4,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Was all that wasted time All that wasted time We were swinging out on the line Living all that wasted time",
+      "valence": 2.49,
+      "arousal": 3.34,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "All that wasted time We were swinging out on the line Living all that wasted time Hey, you know oh",
+      "valence": 2.65,
+      "arousal": 3.34,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "We were swinging out on the line Living all that wasted time Hey, you know oh Don't you feel it coming on back now",
+      "valence": 2.7,
+      "arousal": 3.39,
+      "dominance": 2.98
+    }
+  ]
+}

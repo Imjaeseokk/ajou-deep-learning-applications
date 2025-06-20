@@ -1,0 +1,185 @@
+{
+  "artist": "Thomas Rhett Featuring Reba McEntire, Hillary Scott, Chris Tomlin & Keith Urban",
+  "overall_vad": {
+    "valence": 3.12,
+    "arousal": 3.29,
+    "dominance": 3.4
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "In a time full of war, be peace In a time full of doubt, just believe Yeah, there ain't that much difference between you and me In a time full of war, be peace",
+      "valence": 3.11,
+      "arousal": 3.07,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "In a time full of doubt, just believe Yeah, there ain't that much difference between you and me In a time full of war, be peace In a world full of hate, be a light",
+      "valence": 3.08,
+      "arousal": 3.23,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Yeah, there ain't that much difference between you and me In a time full of war, be peace In a world full of hate, be a light When you do somebody wrong, make it right",
+      "valence": 3.07,
+      "arousal": 3.25,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "In a time full of war, be peace In a world full of hate, be a light When you do somebody wrong, make it right Don't hide in the dark, you were born to shine",
+      "valence": 3.23,
+      "arousal": 3.34,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "In a world full of hate, be a light When you do somebody wrong, make it right Don't hide in the dark, you were born to shine In a world full of hate, be a light",
+      "valence": 3.18,
+      "arousal": 3.39,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "When you do somebody wrong, make it right Don't hide in the dark, you were born to shine In a world full of hate, be a light (La-la-la, la, la, la, la)",
+      "valence": 3.2,
+      "arousal": 3.4,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Don't hide in the dark, you were born to shine In a world full of hate, be a light (La-la-la, la, la, la, la) In a place that needs a change, make a difference",
+      "valence": 3.28,
+      "arousal": 3.4,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "In a world full of hate, be a light (La-la-la, la, la, la, la) In a place that needs a change, make a difference In a time full of noise, just listen",
+      "valence": 3.22,
+      "arousal": 3.29,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "(La-la-la, la, la, la, la) In a place that needs a change, make a difference In a time full of noise, just listen 'Cause life is but a breeze, better live it",
+      "valence": 3.2,
+      "arousal": 3.13,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "In a place that needs a change, make a difference In a time full of noise, just listen 'Cause life is but a breeze, better live it In a place that needs a change, make a difference",
+      "valence": 3.07,
+      "arousal": 3.02,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "In a time full of noise, just listen 'Cause life is but a breeze, better live it In a place that needs a change, make a difference In a world full of hate, be a light",
+      "valence": 3.18,
+      "arousal": 3.14,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "'Cause life is but a breeze, better live it In a place that needs a change, make a difference In a world full of hate, be a light When you do somebody wrong, make it right",
+      "valence": 3.22,
+      "arousal": 3.24,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "In a place that needs a change, make a difference In a world full of hate, be a light When you do somebody wrong, make it right Oh, don't hide in the dark, you were born to shine",
+      "valence": 3.27,
+      "arousal": 3.35,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "In a world full of hate, be a light When you do somebody wrong, make it right Oh, don't hide in the dark, you were born to shine In a world full of hate, be a light",
+      "valence": 3.17,
+      "arousal": 3.38,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "When you do somebody wrong, make it right Oh, don't hide in the dark, you were born to shine In a world full of hate, be a light La-la-la, la, la, la, la...",
+      "valence": 3.2,
+      "arousal": 3.38,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Oh, don't hide in the dark, you were born to shine In a world full of hate, be a light La-la-la, la, la, la, la... In a race that you can't win, slow it down",
+      "valence": 3.1,
+      "arousal": 3.4,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "In a world full of hate, be a light La-la-la, la, la, la, la... In a race that you can't win, slow it down Yeah, you only get one go around",
+      "valence": 2.93,
+      "arousal": 3.35,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "La-la-la, la, la, la, la... In a race that you can't win, slow it down Yeah, you only get one go around 'Cause the finish line is six feet in the ground",
+      "valence": 2.83,
+      "arousal": 3.24,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "In a race that you can't win, slow it down Yeah, you only get one go around 'Cause the finish line is six feet in the ground In a race you can't win, just slow it down",
+      "valence": 2.79,
+      "arousal": 3.22,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Yeah, you only get one go around 'Cause the finish line is six feet in the ground In a race you can't win, just slow it down In a world full of hate, be a light (oh-oh)",
+      "valence": 2.96,
+      "arousal": 3.32,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "'Cause the finish line is six feet in the ground In a race you can't win, just slow it down In a world full of hate, be a light (oh-oh) When you do somebody wrong, make it right (make it right)",
+      "valence": 3.0,
+      "arousal": 3.44,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "In a race you can't win, just slow it down In a world full of hate, be a light (oh-oh) When you do somebody wrong, make it right (make it right) Oh, don't hide in the dark, you were born to shine",
+      "valence": 3.11,
+      "arousal": 3.33,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "In a world full of hate, be a light (oh-oh) When you do somebody wrong, make it right (make it right) Oh, don't hide in the dark, you were born to shine In a world full of hate, be a light",
+      "valence": 3.23,
+      "arousal": 3.35,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "When you do somebody wrong, make it right (make it right) Oh, don't hide in the dark, you were born to shine In a world full of hate, be a light Yeah, it's hard to live in color, when you just see black and white",
+      "valence": 3.14,
+      "arousal": 3.31,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Oh, don't hide in the dark, you were born to shine In a world full of hate, be a light Yeah, it's hard to live in color, when you just see black and white In a world full of hate, be a light",
+      "valence": 3.21,
+      "arousal": 3.28,
+      "dominance": 3.49
+    }
+  ]
+}

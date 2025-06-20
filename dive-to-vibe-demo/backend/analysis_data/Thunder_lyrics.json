@@ -1,0 +1,374 @@
+{
+  "artist": "Imagine Dragons",
+  "overall_vad": {
+    "valence": 3.25,
+    "arousal": 3.5,
+    "dominance": 3.25
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Just a young gun with a quick fuse I was uptight, wanna let loose I was dreaming of bigger things and Wanna leave my own life behind",
+      "valence": 2.52,
+      "arousal": 3.49,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I was uptight, wanna let loose I was dreaming of bigger things and Wanna leave my own life behind Not a \"Yes sir\", not a follower",
+      "valence": 2.75,
+      "arousal": 3.29,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I was dreaming of bigger things and Wanna leave my own life behind Not a \"Yes sir\", not a follower Fit the box, fit the mold",
+      "valence": 3.16,
+      "arousal": 3.39,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Wanna leave my own life behind Not a \"Yes sir\", not a follower Fit the box, fit the mold Have a seat in the foyer, take a number",
+      "valence": 2.79,
+      "arousal": 3.21,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Not a \"Yes sir\", not a follower Fit the box, fit the mold Have a seat in the foyer, take a number I was lightning before the thunder",
+      "valence": 3.0,
+      "arousal": 3.2,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Fit the box, fit the mold Have a seat in the foyer, take a number I was lightning before the thunder Thunder, thunder",
+      "valence": 3.18,
+      "arousal": 3.34,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Have a seat in the foyer, take a number I was lightning before the thunder Thunder, thunder Thunder, thun-, thunder",
+      "valence": 3.09,
+      "arousal": 3.37,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I was lightning before the thunder Thunder, thunder Thunder, thun-, thunder Thun-thun-thunder, thunder",
+      "valence": 2.94,
+      "arousal": 3.39,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Thunder, thunder Thunder, thun-, thunder Thun-thun-thunder, thunder Thunder, thunder, thun-, thunder",
+      "valence": 3.16,
+      "arousal": 3.59,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Thunder, thun-, thunder Thun-thun-thunder, thunder Thunder, thunder, thun-, thunder Thun-thun-thunder, thunder",
+      "valence": 3.06,
+      "arousal": 3.47,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Thun-thun-thunder, thunder Thunder, thunder, thun-, thunder Thun-thun-thunder, thunder Thunder, feel the thunder",
+      "valence": 3.29,
+      "arousal": 3.62,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Thunder, thunder, thun-, thunder Thun-thun-thunder, thunder Thunder, feel the thunder Lightning and the thunder",
+      "valence": 3.37,
+      "arousal": 3.64,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Thun-thun-thunder, thunder Thunder, feel the thunder Lightning and the thunder Thunder, feel the thunder",
+      "valence": 3.37,
+      "arousal": 3.58,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Thunder, feel the thunder Lightning and the thunder Thunder, feel the thunder Lightning and the thunder",
+      "valence": 3.39,
+      "arousal": 3.62,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Lightning and the thunder Thunder, feel the thunder Lightning and the thunder Thunder, thunder",
+      "valence": 3.39,
+      "arousal": 3.55,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Thunder, feel the thunder Lightning and the thunder Thunder, thunder Thunder",
+      "valence": 3.41,
+      "arousal": 3.65,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Lightning and the thunder Thunder, thunder Thunder Kids were laughing in my classes",
+      "valence": 3.82,
+      "arousal": 3.64,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Thunder, thunder Thunder Kids were laughing in my classes While I was scheming for the masses",
+      "valence": 3.41,
+      "arousal": 3.55,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Thunder Kids were laughing in my classes While I was scheming for the masses Who do you think you are?",
+      "valence": 3.15,
+      "arousal": 3.4,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Kids were laughing in my classes While I was scheming for the masses Who do you think you are? Dreaming 'bout being a big star",
+      "valence": 3.15,
+      "arousal": 3.49,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "While I was scheming for the masses Who do you think you are? Dreaming 'bout being a big star They say, \"You're basic\", they say, \"You're easy\"",
+      "valence": 3.1,
+      "arousal": 3.21,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Who do you think you are? Dreaming 'bout being a big star They say, \"You're basic\", they say, \"You're easy\" You're always riding in the backseat",
+      "valence": 3.25,
+      "arousal": 3.09,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Dreaming 'bout being a big star They say, \"You're basic\", they say, \"You're easy\" You're always riding in the backseat Now I'm smiling from the stage while",
+      "valence": 3.74,
+      "arousal": 3.25,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "They say, \"You're basic\", they say, \"You're easy\" You're always riding in the backseat Now I'm smiling from the stage while You were clapping in the nosebleeds",
+      "valence": 3.55,
+      "arousal": 3.21,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "You're always riding in the backseat Now I'm smiling from the stage while You were clapping in the nosebleeds Thunder, thunder, thun-",
+      "valence": 3.67,
+      "arousal": 3.51,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Now I'm smiling from the stage while You were clapping in the nosebleeds Thunder, thunder, thun- Thunder, thun-thun-thunder",
+      "valence": 3.85,
+      "arousal": 3.66,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "You were clapping in the nosebleeds Thunder, thunder, thun- Thunder, thun-thun-thunder Thunder, thunder",
+      "valence": 3.16,
+      "arousal": 3.43,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Thunder, thunder, thun- Thunder, thun-thun-thunder Thunder, thunder Thunder, thun-, thunder",
+      "valence": 3.17,
+      "arousal": 3.67,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Thunder, thun-thun-thunder Thunder, thunder Thunder, thun-, thunder Thun-thun-thunder, thunder",
+      "valence": 3.15,
+      "arousal": 3.55,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Thunder, thunder Thunder, thun-, thunder Thun-thun-thunder, thunder Thunder, feel the thunder",
+      "valence": 3.38,
+      "arousal": 3.72,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Thunder, thun-, thunder Thun-thun-thunder, thunder Thunder, feel the thunder Lightning and the thunder",
+      "valence": 3.36,
+      "arousal": 3.63,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Thun-thun-thunder, thunder Thunder, feel the thunder Lightning and the thunder Thunder, feel the thunder",
+      "valence": 3.37,
+      "arousal": 3.58,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Thunder, feel the thunder Lightning and the thunder Thunder, feel the thunder Lightning and the thunder",
+      "valence": 3.39,
+      "arousal": 3.62,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Lightning and the thunder Thunder, feel the thunder Lightning and the thunder Thunder",
+      "valence": 3.4,
+      "arousal": 3.51,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Thunder, feel the thunder Lightning and the thunder Thunder Thunder, feel the thunder",
+      "valence": 3.44,
+      "arousal": 3.65,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Lightning and the thunder Thunder Thunder, feel the thunder Lightning and the thunder, thunder",
+      "valence": 3.38,
+      "arousal": 3.51,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Thunder Thunder, feel the thunder Lightning and the thunder, thunder Thunder, feel the thunder",
+      "valence": 3.41,
+      "arousal": 3.62,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Thunder, feel the thunder Lightning and the thunder, thunder Thunder, feel the thunder Lightning and the thunder, thunder",
+      "valence": 3.38,
+      "arousal": 3.6,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Lightning and the thunder, thunder Thunder, feel the thunder Lightning and the thunder, thunder Thunder, feel the thunder",
+      "valence": 3.41,
+      "arousal": 3.57,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Thunder, feel the thunder Lightning and the thunder, thunder Thunder, feel the thunder Lightning and the thunder, thunder",
+      "valence": 3.38,
+      "arousal": 3.6,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Lightning and the thunder, thunder Thunder, feel the thunder Lightning and the thunder, thunder Thunder, feel the thunder (never give up, never give up)",
+      "valence": 3.31,
+      "arousal": 3.63,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Thunder, feel the thunder Lightning and the thunder, thunder Thunder, feel the thunder (never give up, never give up) Lightning and the thunder, thunder (never give up, never give up)",
+      "valence": 3.26,
+      "arousal": 3.6,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Lightning and the thunder, thunder Thunder, feel the thunder (never give up, never give up) Lightning and the thunder, thunder (never give up, never give up) Thunder, feel the thunder (never give up, never give up)",
+      "valence": 3.18,
+      "arousal": 3.51,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Thunder, feel the thunder (never give up, never give up) Lightning and the thunder, thunder (never give up, never give up) Thunder, feel the thunder (never give up, never give up) Lightning and the thunder, thunder (never give up)",
+      "valence": 3.13,
+      "arousal": 3.44,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Lightning and the thunder, thunder (never give up, never give up) Thunder, feel the thunder (never give up, never give up) Lightning and the thunder, thunder (never give up) Thunder, thunder, thun-",
+      "valence": 3.13,
+      "arousal": 3.45,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Thunder, feel the thunder (never give up, never give up) Lightning and the thunder, thunder (never give up) Thunder, thunder, thun- Thunder, thun-thun-thunder, thunder",
+      "valence": 3.15,
+      "arousal": 3.52,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Lightning and the thunder, thunder (never give up) Thunder, thunder, thun- Thunder, thun-thun-thunder, thunder Thunder, thunder, thun-",
+      "valence": 3.16,
+      "arousal": 3.45,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Thunder, thunder, thun- Thunder, thun-thun-thunder, thunder Thunder, thunder, thun- Thunder, thun-thun-thunder, thunder",
+      "valence": 3.09,
+      "arousal": 3.55,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Thunder, thun-thun-thunder, thunder Thunder, thunder, thun- Thunder, thun-thun-thunder, thunder Thunder, thunder, thun-",
+      "valence": 3.06,
+      "arousal": 3.51,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Thunder, thunder, thun- Thunder, thun-thun-thunder, thunder Thunder, thunder, thun- Thunder, thun-thun-thunder, thunder",
+      "valence": 3.09,
+      "arousal": 3.55,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Thunder, thun-thun-thunder, thunder Thunder, thunder, thun- Thunder, thun-thun-thunder, thunder Thunder, thunder, thun-, thunder",
+      "valence": 3.1,
+      "arousal": 3.51,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Thunder, thunder, thun- Thunder, thun-thun-thunder, thunder Thunder, thunder, thun-, thunder Thun-thun-thunder, thunder",
+      "valence": 3.07,
+      "arousal": 3.52,
+      "dominance": 3.15
+    }
+  ]
+}

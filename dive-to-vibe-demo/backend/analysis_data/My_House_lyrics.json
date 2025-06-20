@@ -1,0 +1,395 @@
+{
+  "artist": "Flo Rida",
+  "overall_vad": {
+    "valence": 3.01,
+    "arousal": 3.41,
+    "dominance": 3.38
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Open up the champagne, pop! It's my house, come on, turn it up Hear a knock on the door and the night begins 'Cause we done this before so you come on in",
+      "valence": 3.58,
+      "arousal": 3.95,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "It's my house, come on, turn it up Hear a knock on the door and the night begins 'Cause we done this before so you come on in Make yourself at my home, tell me where you been",
+      "valence": 3.18,
+      "arousal": 3.48,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Hear a knock on the door and the night begins 'Cause we done this before so you come on in Make yourself at my home, tell me where you been Pour yourself something cold, baby, cheers to this",
+      "valence": 3.48,
+      "arousal": 3.9,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "'Cause we done this before so you come on in Make yourself at my home, tell me where you been Pour yourself something cold, baby, cheers to this Sometimes you gotta stay in",
+      "valence": 3.32,
+      "arousal": 3.88,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Make yourself at my home, tell me where you been Pour yourself something cold, baby, cheers to this Sometimes you gotta stay in And you know where I live",
+      "valence": 3.4,
+      "arousal": 3.85,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Pour yourself something cold, baby, cheers to this Sometimes you gotta stay in And you know where I live Yeah, you know what we is",
+      "valence": 3.52,
+      "arousal": 3.81,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Sometimes you gotta stay in And you know where I live Yeah, you know what we is Sometimes you gotta stay in, in",
+      "valence": 2.95,
+      "arousal": 3.13,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "And you know where I live Yeah, you know what we is Sometimes you gotta stay in, in Welcome to my house",
+      "valence": 3.11,
+      "arousal": 3.22,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Yeah, you know what we is Sometimes you gotta stay in, in Welcome to my house Baby take control now",
+      "valence": 2.95,
+      "arousal": 3.36,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Sometimes you gotta stay in, in Welcome to my house Baby take control now We can't even slow down",
+      "valence": 2.82,
+      "arousal": 3.53,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Welcome to my house Baby take control now We can't even slow down We don't like to go out",
+      "valence": 3.08,
+      "arousal": 3.55,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Baby take control now We can't even slow down We don't like to go out Welcome to my house",
+      "valence": 2.41,
+      "arousal": 3.54,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "We can't even slow down We don't like to go out Welcome to my house Play that music too loud",
+      "valence": 2.6,
+      "arousal": 3.29,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "We don't like to go out Welcome to my house Play that music too loud Show me what you do now",
+      "valence": 2.74,
+      "arousal": 3.19,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Welcome to my house Play that music too loud Show me what you do now We don't like to go out",
+      "valence": 2.72,
+      "arousal": 3.39,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Play that music too loud Show me what you do now We don't like to go out Welcome to my house",
+      "valence": 2.38,
+      "arousal": 3.43,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Show me what you do now We don't like to go out Welcome to my house Welcome to my house",
+      "valence": 2.48,
+      "arousal": 3.3,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "We don't like to go out Welcome to my house Welcome to my house Morning comes and you know that you wanna stay",
+      "valence": 2.61,
+      "arousal": 3.07,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Welcome to my house Welcome to my house Morning comes and you know that you wanna stay Close the blinds, let's pretend that the time has changed",
+      "valence": 3.7,
+      "arousal": 3.44,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Welcome to my house Morning comes and you know that you wanna stay Close the blinds, let's pretend that the time has changed Keep our clothes on the floor, open up champagne",
+      "valence": 3.58,
+      "arousal": 3.28,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Morning comes and you know that you wanna stay Close the blinds, let's pretend that the time has changed Keep our clothes on the floor, open up champagne Let's continue tonight, come on, celebrate",
+      "valence": 3.44,
+      "arousal": 3.35,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Close the blinds, let's pretend that the time has changed Keep our clothes on the floor, open up champagne Let's continue tonight, come on, celebrate Sometimes you gotta stay in",
+      "valence": 3.4,
+      "arousal": 3.34,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Keep our clothes on the floor, open up champagne Let's continue tonight, come on, celebrate Sometimes you gotta stay in And you know where I live",
+      "valence": 3.38,
+      "arousal": 3.53,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Let's continue tonight, come on, celebrate Sometimes you gotta stay in And you know where I live Yeah, you know what we is",
+      "valence": 3.29,
+      "arousal": 3.46,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Sometimes you gotta stay in And you know where I live Yeah, you know what we is Sometimes you gotta stay in, in",
+      "valence": 2.95,
+      "arousal": 3.13,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "And you know where I live Yeah, you know what we is Sometimes you gotta stay in, in Welcome to my house",
+      "valence": 3.11,
+      "arousal": 3.22,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Yeah, you know what we is Sometimes you gotta stay in, in Welcome to my house Baby take control now",
+      "valence": 2.95,
+      "arousal": 3.36,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Sometimes you gotta stay in, in Welcome to my house Baby take control now We can't even slow down",
+      "valence": 2.82,
+      "arousal": 3.53,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Welcome to my house Baby take control now We can't even slow down We don't like to go out",
+      "valence": 3.08,
+      "arousal": 3.55,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Baby take control now We can't even slow down We don't like to go out Welcome to my house",
+      "valence": 2.41,
+      "arousal": 3.54,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "We can't even slow down We don't like to go out Welcome to my house Play that music too loud",
+      "valence": 2.6,
+      "arousal": 3.29,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "We don't like to go out Welcome to my house Play that music too loud Show me what you do now",
+      "valence": 2.74,
+      "arousal": 3.19,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Welcome to my house Play that music too loud Show me what you do now We don't like to go out",
+      "valence": 2.72,
+      "arousal": 3.39,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Play that music too loud Show me what you do now We don't like to go out Welcome to my house",
+      "valence": 2.38,
+      "arousal": 3.43,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Show me what you do now We don't like to go out Welcome to my house Welcome to my house",
+      "valence": 2.48,
+      "arousal": 3.3,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "We don't like to go out Welcome to my house Welcome to my house Welcome to my duck off the crib, the spot, the pad",
+      "valence": 2.52,
+      "arousal": 2.96,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Welcome to my house Welcome to my house Welcome to my duck off the crib, the spot, the pad But my house is your house if you throwin' it back",
+      "valence": 3.54,
+      "arousal": 3.44,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Welcome to my house Welcome to my duck off the crib, the spot, the pad But my house is your house if you throwin' it back Excuse me if my home bringing the sad",
+      "valence": 3.2,
+      "arousal": 3.32,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Welcome to my duck off the crib, the spot, the pad But my house is your house if you throwin' it back Excuse me if my home bringing the sad Soon as these happy faces, you can run with the cash",
+      "valence": 3.42,
+      "arousal": 3.4,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "But my house is your house if you throwin' it back Excuse me if my home bringing the sad Soon as these happy faces, you can run with the cash Homerun, slam dunk, touchdown, pass",
+      "valence": 2.97,
+      "arousal": 3.38,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Excuse me if my home bringing the sad Soon as these happy faces, you can run with the cash Homerun, slam dunk, touchdown, pass Mi casa es tu casa so it ain't no holding back",
+      "valence": 3.06,
+      "arousal": 3.29,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Soon as these happy faces, you can run with the cash Homerun, slam dunk, touchdown, pass Mi casa es tu casa so it ain't no holding back Another shot of vodka, you know what's in my glass",
+      "valence": 3.37,
+      "arousal": 3.52,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Homerun, slam dunk, touchdown, pass Mi casa es tu casa so it ain't no holding back Another shot of vodka, you know what's in my glass It's my house, just relax",
+      "valence": 3.35,
+      "arousal": 3.41,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Mi casa es tu casa so it ain't no holding back Another shot of vodka, you know what's in my glass It's my house, just relax Welcome to my house",
+      "valence": 3.65,
+      "arousal": 3.36,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Another shot of vodka, you know what's in my glass It's my house, just relax Welcome to my house Baby take control now",
+      "valence": 3.4,
+      "arousal": 3.45,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "It's my house, just relax Welcome to my house Baby take control now We can't even slow down",
+      "valence": 3.34,
+      "arousal": 3.54,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Welcome to my house Baby take control now We can't even slow down We don't like to go out",
+      "valence": 3.08,
+      "arousal": 3.55,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Baby take control now We can't even slow down We don't like to go out Welcome to my house",
+      "valence": 2.41,
+      "arousal": 3.54,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "We can't even slow down We don't like to go out Welcome to my house Play that music too loud",
+      "valence": 2.6,
+      "arousal": 3.29,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "We don't like to go out Welcome to my house Play that music too loud Show me what you do now",
+      "valence": 2.74,
+      "arousal": 3.19,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Welcome to my house Play that music too loud Show me what you do now We don't like to go out",
+      "valence": 2.72,
+      "arousal": 3.39,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Play that music too loud Show me what you do now We don't like to go out Welcome to my house",
+      "valence": 2.38,
+      "arousal": 3.43,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Show me what you do now We don't like to go out Welcome to my house Welcome to my house",
+      "valence": 2.48,
+      "arousal": 3.3,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "We don't like to go out Welcome to my house Welcome to my house Welcome to my house",
+      "valence": 2.67,
+      "arousal": 3.02,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Welcome to my house Welcome to my house Welcome to my house It's my house",
+      "valence": 4.08,
+      "arousal": 3.64,
+      "dominance": 3.23
+    }
+  ]
+}

@@ -1,0 +1,437 @@
+{
+  "artist": "Silk Sonic (Bruno Mars & Anderson .Paak)",
+  "overall_vad": {
+    "valence": 3.37,
+    "arousal": 3.64,
+    "dominance": 3.31
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Said baby, said baby, said baby What you doing? (What you doing?) Where you at? (Where you at?) Oh, you got plans? (You got plans?)",
+      "valence": 3.16,
+      "arousal": 3.33,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "What you doing? (What you doing?) Where you at? (Where you at?) Oh, you got plans? (You got plans?) Don't say that (shut your trap)",
+      "valence": 2.85,
+      "arousal": 3.52,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Where you at? (Where you at?) Oh, you got plans? (You got plans?) Don't say that (shut your trap) I'm sipping wine (sip, sip) in a robe (drip, drip)",
+      "valence": 2.97,
+      "arousal": 3.42,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Oh, you got plans? (You got plans?) Don't say that (shut your trap) I'm sipping wine (sip, sip) in a robe (drip, drip) I look too good (look too good) to be alone (woo-woo)",
+      "valence": 3.1,
+      "arousal": 3.61,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Don't say that (shut your trap) I'm sipping wine (sip, sip) in a robe (drip, drip) I look too good (look too good) to be alone (woo-woo) My house clean (house clean), my pool warm (pool warm)",
+      "valence": 3.22,
+      "arousal": 3.48,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I'm sipping wine (sip, sip) in a robe (drip, drip) I look too good (look too good) to be alone (woo-woo) My house clean (house clean), my pool warm (pool warm) Just shaved (smooth like a newborn)",
+      "valence": 3.65,
+      "arousal": 3.3,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I look too good (look too good) to be alone (woo-woo) My house clean (house clean), my pool warm (pool warm) Just shaved (smooth like a newborn) We should be dancing, romancing",
+      "valence": 3.64,
+      "arousal": 3.61,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "My house clean (house clean), my pool warm (pool warm) Just shaved (smooth like a newborn) We should be dancing, romancing In the east wing and the west wing",
+      "valence": 3.8,
+      "arousal": 3.37,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Just shaved (smooth like a newborn) We should be dancing, romancing In the east wing and the west wing Of this mansion, what's happening?",
+      "valence": 3.3,
+      "arousal": 3.46,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "We should be dancing, romancing In the east wing and the west wing Of this mansion, what's happening? I ain't playing no games",
+      "valence": 2.8,
+      "arousal": 3.52,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "In the east wing and the west wing Of this mansion, what's happening? I ain't playing no games Every word that I say is coming straight from the heart",
+      "valence": 2.63,
+      "arousal": 3.43,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Of this mansion, what's happening? I ain't playing no games Every word that I say is coming straight from the heart So if you tryna lay in these arms",
+      "valence": 2.63,
+      "arousal": 3.44,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I ain't playing no games Every word that I say is coming straight from the heart So if you tryna lay in these arms I'ma leave the door open",
+      "valence": 2.68,
+      "arousal": 3.28,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Every word that I say is coming straight from the heart So if you tryna lay in these arms I'ma leave the door open (I'ma leave the door open)",
+      "valence": 2.96,
+      "arousal": 3.29,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "So if you tryna lay in these arms I'ma leave the door open (I'ma leave the door open) I'ma leave the door open, girl",
+      "valence": 3.07,
+      "arousal": 3.26,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I'ma leave the door open (I'ma leave the door open) I'ma leave the door open, girl (I'ma leave the door open, hoping)",
+      "valence": 3.01,
+      "arousal": 2.99,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "(I'ma leave the door open) I'ma leave the door open, girl (I'ma leave the door open, hoping) That you feel the way I feel",
+      "valence": 3.25,
+      "arousal": 3.4,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I'ma leave the door open, girl (I'ma leave the door open, hoping) That you feel the way I feel And you want me like I want you tonight, baby",
+      "valence": 3.39,
+      "arousal": 3.6,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "(I'ma leave the door open, hoping) That you feel the way I feel And you want me like I want you tonight, baby (Tell me that you're coming through)",
+      "valence": 3.44,
+      "arousal": 3.63,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "That you feel the way I feel And you want me like I want you tonight, baby (Tell me that you're coming through) Ooh, you're so sweet (so sweet), so tight (so tight)",
+      "valence": 4.02,
+      "arousal": 4.01,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "And you want me like I want you tonight, baby (Tell me that you're coming through) Ooh, you're so sweet (so sweet), so tight (so tight) I won't bite (ah-ah), unless you like (unless you like)",
+      "valence": 3.62,
+      "arousal": 3.82,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "(Tell me that you're coming through) Ooh, you're so sweet (so sweet), so tight (so tight) I won't bite (ah-ah), unless you like (unless you like) If you smoke (what you smoke?) I got the haze (Purple Haze)",
+      "valence": 3.57,
+      "arousal": 3.64,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Ooh, you're so sweet (so sweet), so tight (so tight) I won't bite (ah-ah), unless you like (unless you like) If you smoke (what you smoke?) I got the haze (Purple Haze) And if you're hungry, girl, I got filets (woo-woo)",
+      "valence": 3.55,
+      "arousal": 3.78,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I won't bite (ah-ah), unless you like (unless you like) If you smoke (what you smoke?) I got the haze (Purple Haze) And if you're hungry, girl, I got filets (woo-woo) Ooh, baby, don't keep me (waiting)",
+      "valence": 2.93,
+      "arousal": 3.52,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "If you smoke (what you smoke?) I got the haze (Purple Haze) And if you're hungry, girl, I got filets (woo-woo) Ooh, baby, don't keep me (waiting) There's so much love we could be making (shamone)",
+      "valence": 3.47,
+      "arousal": 3.79,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "And if you're hungry, girl, I got filets (woo-woo) Ooh, baby, don't keep me (waiting) There's so much love we could be making (shamone) I'm talking kissing, cuddling",
+      "valence": 3.91,
+      "arousal": 4.04,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Ooh, baby, don't keep me (waiting) There's so much love we could be making (shamone) I'm talking kissing, cuddling Rose petals in the bathtub",
+      "valence": 3.94,
+      "arousal": 3.97,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "There's so much love we could be making (shamone) I'm talking kissing, cuddling Rose petals in the bathtub Girl, let's jump in, it's bubbling",
+      "valence": 4.12,
+      "arousal": 4.01,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I'm talking kissing, cuddling Rose petals in the bathtub Girl, let's jump in, it's bubbling I ain't playing no games",
+      "valence": 3.43,
+      "arousal": 3.53,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Rose petals in the bathtub Girl, let's jump in, it's bubbling I ain't playing no games Every word that I say is coming straight from the heart",
+      "valence": 3.1,
+      "arousal": 3.37,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Girl, let's jump in, it's bubbling I ain't playing no games Every word that I say is coming straight from the heart So (if you) if you (tryna) tryna lay in these arms",
+      "valence": 2.86,
+      "arousal": 3.42,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I ain't playing no games Every word that I say is coming straight from the heart So (if you) if you (tryna) tryna lay in these arms I'ma leave the door open",
+      "valence": 2.73,
+      "arousal": 3.3,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Every word that I say is coming straight from the heart So (if you) if you (tryna) tryna lay in these arms I'ma leave the door open (I'ma leave the door open)",
+      "valence": 2.98,
+      "arousal": 3.28,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "So (if you) if you (tryna) tryna lay in these arms I'ma leave the door open (I'ma leave the door open) I'ma leave the door open, girl",
+      "valence": 3.04,
+      "arousal": 3.27,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I'ma leave the door open (I'ma leave the door open) I'ma leave the door open, girl (I'ma leave the door open, hoping)",
+      "valence": 3.01,
+      "arousal": 2.99,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "(I'ma leave the door open) I'ma leave the door open, girl (I'ma leave the door open, hoping) That you feel the way I feel",
+      "valence": 3.25,
+      "arousal": 3.4,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I'ma leave the door open, girl (I'ma leave the door open, hoping) That you feel the way I feel And you want me like I want you tonight, baby",
+      "valence": 3.39,
+      "arousal": 3.6,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "(I'ma leave the door open, hoping) That you feel the way I feel And you want me like I want you tonight, baby (Tell me that you're coming through) come on, girl",
+      "valence": 3.42,
+      "arousal": 3.68,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "That you feel the way I feel And you want me like I want you tonight, baby (Tell me that you're coming through) come on, girl La-la-la, la-la-la-la (I need you, baby)",
+      "valence": 3.5,
+      "arousal": 3.83,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "And you want me like I want you tonight, baby (Tell me that you're coming through) come on, girl La-la-la, la-la-la-la (I need you, baby) La-la-la, la-la-la-la (I gotta see you, baby)",
+      "valence": 3.4,
+      "arousal": 3.76,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "(Tell me that you're coming through) come on, girl La-la-la, la-la-la-la (I need you, baby) La-la-la, la-la-la-la (I gotta see you, baby) La-la-la, la-la-la-la (girl, I'm tryna give you this)",
+      "valence": 3.28,
+      "arousal": 3.61,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "La-la-la, la-la-la-la (I need you, baby) La-la-la, la-la-la-la (I gotta see you, baby) La-la-la, la-la-la-la (girl, I'm tryna give you this) Ah-ah-ah-ah, ah-ah",
+      "valence": 3.31,
+      "arousal": 3.69,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "La-la-la, la-la-la-la (I gotta see you, baby) La-la-la, la-la-la-la (girl, I'm tryna give you this) Ah-ah-ah-ah, ah-ah Hey-hey, I'ma leave my door open, baby (I'ma leave the door open)",
+      "valence": 3.34,
+      "arousal": 3.61,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "La-la-la, la-la-la-la (girl, I'm tryna give you this) Ah-ah-ah-ah, ah-ah Hey-hey, I'ma leave my door open, baby (I'ma leave the door open) I'ma leave, I'ma leave my door open, girl",
+      "valence": 3.24,
+      "arousal": 3.49,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Ah-ah-ah-ah, ah-ah Hey-hey, I'ma leave my door open, baby (I'ma leave the door open) I'ma leave, I'ma leave my door open, girl (I'ma leave the door open, hoping) and I'm hoping, hoping",
+      "valence": 3.19,
+      "arousal": 3.5,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Hey-hey, I'ma leave my door open, baby (I'ma leave the door open) I'ma leave, I'ma leave my door open, girl (I'ma leave the door open, hoping) and I'm hoping, hoping That you feel the way I feel",
+      "valence": 3.49,
+      "arousal": 3.68,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I'ma leave, I'ma leave my door open, girl (I'ma leave the door open, hoping) and I'm hoping, hoping That you feel the way I feel And you want me like I want you tonight, baby",
+      "valence": 3.37,
+      "arousal": 3.71,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "(I'ma leave the door open, hoping) and I'm hoping, hoping That you feel the way I feel And you want me like I want you tonight, baby (Tell me that you're coming through) woo!",
+      "valence": 3.62,
+      "arousal": 4.01,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "That you feel the way I feel And you want me like I want you tonight, baby (Tell me that you're coming through) woo! La-la-la, la-la-la-la (tell me)",
+      "valence": 3.64,
+      "arousal": 4.1,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "And you want me like I want you tonight, baby (Tell me that you're coming through) woo! La-la-la, la-la-la-la (tell me) (Tell me that you're coming through)",
+      "valence": 3.51,
+      "arousal": 4.08,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "(Tell me that you're coming through) woo! La-la-la, la-la-la-la (tell me) (Tell me that you're coming through) Woo-woo-woo-woo, woo-woo-woo, woo-woo-woo",
+      "valence": 3.41,
+      "arousal": 4.13,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "La-la-la, la-la-la-la (tell me) (Tell me that you're coming through) Woo-woo-woo-woo, woo-woo-woo, woo-woo-woo Woo-woo-woo-woo, woo-woo-woo, woo-woo",
+      "valence": 3.29,
+      "arousal": 3.6,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "(Tell me that you're coming through) Woo-woo-woo-woo, woo-woo-woo, woo-woo-woo Woo-woo-woo-woo, woo-woo-woo, woo-woo La-la-la, la-la-la-la (la-la-la, la-la)",
+      "valence": 3.32,
+      "arousal": 3.54,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Woo-woo-woo-woo, woo-woo-woo, woo-woo-woo Woo-woo-woo-woo, woo-woo-woo, woo-woo La-la-la, la-la-la-la (la-la-la, la-la) (Tell me that you're coming through)",
+      "valence": 3.4,
+      "arousal": 3.67,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Woo-woo-woo-woo, woo-woo-woo, woo-woo La-la-la, la-la-la-la (la-la-la, la-la) (Tell me that you're coming through) Girl, I'm here just waiting for you (oh!)",
+      "valence": 3.6,
+      "arousal": 3.98,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "La-la-la, la-la-la-la (la-la-la, la-la) (Tell me that you're coming through) Girl, I'm here just waiting for you (oh!) Come on over, I'll adore you (I gotta know!)",
+      "valence": 3.96,
+      "arousal": 4.1,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "(Tell me that you're coming through) Girl, I'm here just waiting for you (oh!) Come on over, I'll adore you (I gotta know!) La-la-la, la-la-la-la (I'm waiting, waiting, waiting)",
+      "valence": 3.98,
+      "arousal": 4.11,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Girl, I'm here just waiting for you (oh!) Come on over, I'll adore you (I gotta know!) La-la-la, la-la-la-la (I'm waiting, waiting, waiting) (Tell me that you're coming through) for you",
+      "valence": 3.98,
+      "arousal": 4.15,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Come on over, I'll adore you (I gotta know!) La-la-la, la-la-la-la (I'm waiting, waiting, waiting) (Tell me that you're coming through) for you Girl, I'm here just waiting for you",
+      "valence": 4.08,
+      "arousal": 4.2,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "La-la-la, la-la-la-la (I'm waiting, waiting, waiting) (Tell me that you're coming through) for you Girl, I'm here just waiting for you Come on over, I'll adore you",
+      "valence": 3.91,
+      "arousal": 4.02,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "(Tell me that you're coming through) for you Girl, I'm here just waiting for you Come on over, I'll adore you La-la-la, la-la-la-la (la-la, la-la)",
+      "valence": 3.93,
+      "arousal": 3.92,
+      "dominance": 3.25
+    }
+  ]
+}

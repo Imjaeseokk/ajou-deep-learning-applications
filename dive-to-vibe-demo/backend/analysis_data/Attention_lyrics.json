@@ -1,0 +1,311 @@
+{
+  "artist": "Charlie Puth",
+  "overall_vad": {
+    "valence": 2.71,
+    "arousal": 3.5,
+    "dominance": 3.13
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Oh-oh, ooh You've been runnin' 'round, runnin' 'round, runnin' 'round throwin' that dirt all on my name 'Cause you knew that I, knew that I, knew that I'd call you up You've been going 'round, going 'round, going 'round every party in L.A.",
+      "valence": 3.05,
+      "arousal": 3.43,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "You've been runnin' 'round, runnin' 'round, runnin' 'round throwin' that dirt all on my name 'Cause you knew that I, knew that I, knew that I'd call you up You've been going 'round, going 'round, going 'round every party in L.A. 'Cause you knew that I, knew that I, knew that I'd be at one, oh",
+      "valence": 2.97,
+      "arousal": 3.37,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "'Cause you knew that I, knew that I, knew that I'd call you up You've been going 'round, going 'round, going 'round every party in L.A. 'Cause you knew that I, knew that I, knew that I'd be at one, oh I know that dress is karma, perfume regret",
+      "valence": 3.02,
+      "arousal": 3.28,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "You've been going 'round, going 'round, going 'round every party in L.A. 'Cause you knew that I, knew that I, knew that I'd be at one, oh I know that dress is karma, perfume regret You got me thinking 'bout when you were mine, oh",
+      "valence": 3.04,
+      "arousal": 3.31,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "'Cause you knew that I, knew that I, knew that I'd be at one, oh I know that dress is karma, perfume regret You got me thinking 'bout when you were mine, oh And now I'm all up on ya, what you expect?",
+      "valence": 2.83,
+      "arousal": 3.4,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I know that dress is karma, perfume regret You got me thinking 'bout when you were mine, oh And now I'm all up on ya, what you expect? But you're not coming home with me tonight",
+      "valence": 2.53,
+      "arousal": 3.43,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "You got me thinking 'bout when you were mine, oh And now I'm all up on ya, what you expect? But you're not coming home with me tonight You just want attention, you don't want my heart",
+      "valence": 2.58,
+      "arousal": 3.58,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "And now I'm all up on ya, what you expect? But you're not coming home with me tonight You just want attention, you don't want my heart Maybe you just hate the thought of me with someone new",
+      "valence": 2.49,
+      "arousal": 3.58,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "But you're not coming home with me tonight You just want attention, you don't want my heart Maybe you just hate the thought of me with someone new Yeah, you just want attention, I knew from the start",
+      "valence": 2.48,
+      "arousal": 3.39,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "You just want attention, you don't want my heart Maybe you just hate the thought of me with someone new Yeah, you just want attention, I knew from the start You're just making sure I'm never gettin' over you",
+      "valence": 2.58,
+      "arousal": 3.37,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Maybe you just hate the thought of me with someone new Yeah, you just want attention, I knew from the start You're just making sure I'm never gettin' over you you've been runnin' 'round, runnin' 'round, runnin' 'round throwing that dirt all on my name",
+      "valence": 2.44,
+      "arousal": 3.45,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Yeah, you just want attention, I knew from the start You're just making sure I'm never gettin' over you you've been runnin' 'round, runnin' 'round, runnin' 'round throwing that dirt all on my name 'Cause you knew that I, knew that I, knew that I'd call you up",
+      "valence": 2.68,
+      "arousal": 3.5,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "You're just making sure I'm never gettin' over you you've been runnin' 'round, runnin' 'round, runnin' 'round throwing that dirt all on my name 'Cause you knew that I, knew that I, knew that I'd call you up Baby, now that we're, now that we're, now that we're right here standing face-to-face",
+      "valence": 2.63,
+      "arousal": 3.64,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "you've been runnin' 'round, runnin' 'round, runnin' 'round throwing that dirt all on my name 'Cause you knew that I, knew that I, knew that I'd call you up Baby, now that we're, now that we're, now that we're right here standing face-to-face You already know, already know, already know that you won, oh",
+      "valence": 2.78,
+      "arousal": 3.65,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "'Cause you knew that I, knew that I, knew that I'd call you up Baby, now that we're, now that we're, now that we're right here standing face-to-face You already know, already know, already know that you won, oh I know that dress is karma (dress is karma), perfume regret",
+      "valence": 3.06,
+      "arousal": 3.51,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Baby, now that we're, now that we're, now that we're right here standing face-to-face You already know, already know, already know that you won, oh I know that dress is karma (dress is karma), perfume regret You got me thinking 'bout when you were mine (you got me thinking 'bout when you were mine)",
+      "valence": 3.06,
+      "arousal": 3.46,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "You already know, already know, already know that you won, oh I know that dress is karma (dress is karma), perfume regret You got me thinking 'bout when you were mine (you got me thinking 'bout when you were mine) And now I'm all up on ya (all up on ya), what you expect? (oh baby)",
+      "valence": 2.97,
+      "arousal": 3.57,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I know that dress is karma (dress is karma), perfume regret You got me thinking 'bout when you were mine (you got me thinking 'bout when you were mine) And now I'm all up on ya (all up on ya), what you expect? (oh baby) But you're not coming home with me tonight (oh no)",
+      "valence": 2.74,
+      "arousal": 3.55,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "You got me thinking 'bout when you were mine (you got me thinking 'bout when you were mine) And now I'm all up on ya (all up on ya), what you expect? (oh baby) But you're not coming home with me tonight (oh no) You just want attention, you don't want my heart",
+      "valence": 2.71,
+      "arousal": 3.65,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "And now I'm all up on ya (all up on ya), what you expect? (oh baby) But you're not coming home with me tonight (oh no) You just want attention, you don't want my heart Maybe you just hate the thought of me with someone new",
+      "valence": 2.56,
+      "arousal": 3.66,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "But you're not coming home with me tonight (oh no) You just want attention, you don't want my heart Maybe you just hate the thought of me with someone new Yeah, you just want attention, I knew from the start",
+      "valence": 2.44,
+      "arousal": 3.46,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "You just want attention, you don't want my heart Maybe you just hate the thought of me with someone new Yeah, you just want attention, I knew from the start You're just making sure I'm never gettin' over you, oh",
+      "valence": 2.57,
+      "arousal": 3.39,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Maybe you just hate the thought of me with someone new Yeah, you just want attention, I knew from the start You're just making sure I'm never gettin' over you, oh What are you doin' to me, what are you doin', huh?",
+      "valence": 2.58,
+      "arousal": 3.48,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Yeah, you just want attention, I knew from the start You're just making sure I'm never gettin' over you, oh What are you doin' to me, what are you doin', huh? (What are you doin'?)",
+      "valence": 2.78,
+      "arousal": 3.5,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "You're just making sure I'm never gettin' over you, oh What are you doin' to me, what are you doin', huh? (What are you doin'?) What are you doin' to me, what are you doin', huh?",
+      "valence": 2.59,
+      "arousal": 3.64,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "What are you doin' to me, what are you doin', huh? (What are you doin'?) What are you doin' to me, what are you doin', huh? (What are you doin'?)",
+      "valence": 2.78,
+      "arousal": 3.5,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "(What are you doin'?) What are you doin' to me, what are you doin', huh? (What are you doin'?) What are you doin' to me, what are you doin', huh?",
+      "valence": 2.77,
+      "arousal": 3.53,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "What are you doin' to me, what are you doin', huh? (What are you doin'?) What are you doin' to me, what are you doin', huh? (What are you doin'?)",
+      "valence": 2.78,
+      "arousal": 3.5,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "(What are you doin'?) What are you doin' to me, what are you doin', huh? (What are you doin'?) What are you doin' to me, what are you doin', huh?",
+      "valence": 2.77,
+      "arousal": 3.53,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "What are you doin' to me, what are you doin', huh? (What are you doin'?) What are you doin' to me, what are you doin', huh? I know that dress is karma, perfume regret",
+      "valence": 2.57,
+      "arousal": 3.52,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "(What are you doin'?) What are you doin' to me, what are you doin', huh? I know that dress is karma, perfume regret You got me thinking 'bout when you were mine",
+      "valence": 2.71,
+      "arousal": 3.51,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "What are you doin' to me, what are you doin', huh? I know that dress is karma, perfume regret You got me thinking 'bout when you were mine And now I'm all up on ya, what you expect?",
+      "valence": 2.62,
+      "arousal": 3.54,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I know that dress is karma, perfume regret You got me thinking 'bout when you were mine And now I'm all up on ya, what you expect? But you're not coming home with me tonight",
+      "valence": 2.5,
+      "arousal": 3.44,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "You got me thinking 'bout when you were mine And now I'm all up on ya, what you expect? But you're not coming home with me tonight You just want attention, you don't want my heart",
+      "valence": 2.54,
+      "arousal": 3.58,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "And now I'm all up on ya, what you expect? But you're not coming home with me tonight You just want attention, you don't want my heart Maybe you just hate the thought of me with someone new",
+      "valence": 2.49,
+      "arousal": 3.58,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "But you're not coming home with me tonight You just want attention, you don't want my heart Maybe you just hate the thought of me with someone new Yeah, you just want attention, I knew from the start",
+      "valence": 2.48,
+      "arousal": 3.39,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "You just want attention, you don't want my heart Maybe you just hate the thought of me with someone new Yeah, you just want attention, I knew from the start You're just making sure I'm never gettin' over you (over you)",
+      "valence": 2.58,
+      "arousal": 3.4,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Maybe you just hate the thought of me with someone new Yeah, you just want attention, I knew from the start You're just making sure I'm never gettin' over you (over you) What are you doin' to me? (hey) what are you doin', huh? (what are you doin', what?)",
+      "valence": 2.58,
+      "arousal": 3.49,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Yeah, you just want attention, I knew from the start You're just making sure I'm never gettin' over you (over you) What are you doin' to me? (hey) what are you doin', huh? (what are you doin', what?) What are you doin', huh? (what are you doin' to me?)",
+      "valence": 2.76,
+      "arousal": 3.51,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "You're just making sure I'm never gettin' over you (over you) What are you doin' to me? (hey) what are you doin', huh? (what are you doin', what?) What are you doin', huh? (what are you doin' to me?) (What are you doin', huh?) (yeah, you just want attention)",
+      "valence": 2.74,
+      "arousal": 3.55,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "What are you doin' to me? (hey) what are you doin', huh? (what are you doin', what?) What are you doin', huh? (what are you doin' to me?) (What are you doin', huh?) (yeah, you just want attention) What are you doin' to me, what are you doin', huh? (I knew from the start)",
+      "valence": 2.91,
+      "arousal": 3.49,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "What are you doin', huh? (what are you doin' to me?) (What are you doin', huh?) (yeah, you just want attention) What are you doin' to me, what are you doin', huh? (I knew from the start) (You're just making sure I'm never gettin' over you) what are you doin' to me, what are you doin', huh?",
+      "valence": 2.81,
+      "arousal": 3.58,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "(What are you doin', huh?) (yeah, you just want attention) What are you doin' to me, what are you doin', huh? (I knew from the start) (You're just making sure I'm never gettin' over you) what are you doin' to me, what are you doin', huh? Oh, oh",
+      "valence": 2.79,
+      "arousal": 3.58,
+      "dominance": 3.16
+    }
+  ]
+}

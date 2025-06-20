@@ -1,0 +1,199 @@
+{
+  "artist": "Dustin Lynch",
+  "overall_vad": {
+    "valence": 3.35,
+    "arousal": 3.7,
+    "dominance": 3.3
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "All we need is a July hot Saturday night A couple cans all cool and the needle on full and a countryside Yeah, a hot little playlist, every favorite songs When I get you climbing up in the cab of this truck",
+      "valence": 3.62,
+      "arousal": 3.46,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "A couple cans all cool and the needle on full and a countryside Yeah, a hot little playlist, every favorite songs When I get you climbing up in the cab of this truck Yeah you know it's on, know it's on",
+      "valence": 3.73,
+      "arousal": 3.55,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Yeah, a hot little playlist, every favorite songs When I get you climbing up in the cab of this truck Yeah you know it's on, know it's on Show you a side of these two lanes you've never seen",
+      "valence": 3.59,
+      "arousal": 3.59,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "When I get you climbing up in the cab of this truck Yeah you know it's on, know it's on Show you a side of these two lanes you've never seen Heating it up behind a high beam",
+      "valence": 3.09,
+      "arousal": 3.37,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Yeah you know it's on, know it's on Show you a side of these two lanes you've never seen Heating it up behind a high beam Ooh, baby you and me, just a-running down crazy",
+      "valence": 3.16,
+      "arousal": 3.64,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Show you a side of these two lanes you've never seen Heating it up behind a high beam Ooh, baby you and me, just a-running down crazy Flying high, living careless, on the edge of wild and reckless",
+      "valence": 3.04,
+      "arousal": 3.35,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Heating it up behind a high beam Ooh, baby you and me, just a-running down crazy Flying high, living careless, on the edge of wild and reckless Hold on tight, I'm 'bout to show you one hell of a night",
+      "valence": 3.39,
+      "arousal": 3.64,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Ooh, baby you and me, just a-running down crazy Flying high, living careless, on the edge of wild and reckless Hold on tight, I'm 'bout to show you one hell of a night So give me that aw yeah, and take me there look",
+      "valence": 3.43,
+      "arousal": 3.74,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Flying high, living careless, on the edge of wild and reckless Hold on tight, I'm 'bout to show you one hell of a night So give me that aw yeah, and take me there look I'm a sucker for your kiss, wanna steal 'em from your lips baby, like a truck",
+      "valence": 3.37,
+      "arousal": 4.01,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Hold on tight, I'm 'bout to show you one hell of a night So give me that aw yeah, and take me there look I'm a sucker for your kiss, wanna steal 'em from your lips baby, like a truck Foot heavy on the floorboard, everywhere we go",
+      "valence": 3.45,
+      "arousal": 4.1,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "So give me that aw yeah, and take me there look I'm a sucker for your kiss, wanna steal 'em from your lips baby, like a truck Foot heavy on the floorboard, everywhere we go I'm talking once in a lifetime, blowing your mind",
+      "valence": 3.35,
+      "arousal": 4.08,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I'm a sucker for your kiss, wanna steal 'em from your lips baby, like a truck Foot heavy on the floorboard, everywhere we go I'm talking once in a lifetime, blowing your mind Burning down these back roads",
+      "valence": 3.22,
+      "arousal": 4.02,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Foot heavy on the floorboard, everywhere we go I'm talking once in a lifetime, blowing your mind Burning down these back roads Show you a side of these two lanes you've never seen",
+      "valence": 2.94,
+      "arousal": 3.6,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I'm talking once in a lifetime, blowing your mind Burning down these back roads Show you a side of these two lanes you've never seen Heating it up behind a high beam",
+      "valence": 3.04,
+      "arousal": 3.67,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Burning down these back roads Show you a side of these two lanes you've never seen Heating it up behind a high beam Ooh, baby you and me, just a-running down crazy",
+      "valence": 2.97,
+      "arousal": 3.56,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Show you a side of these two lanes you've never seen Heating it up behind a high beam Ooh, baby you and me, just a-running down crazy Flying high, living careless, on the edge of wild and reckless",
+      "valence": 3.04,
+      "arousal": 3.35,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Heating it up behind a high beam Ooh, baby you and me, just a-running down crazy Flying high, living careless, on the edge of wild and reckless Hold on tight, I'm 'bout to show you one hell of a night",
+      "valence": 3.39,
+      "arousal": 3.64,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Ooh, baby you and me, just a-running down crazy Flying high, living careless, on the edge of wild and reckless Hold on tight, I'm 'bout to show you one hell of a night So give me that aw yeah, and I'll give you that all night",
+      "valence": 3.44,
+      "arousal": 3.76,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Flying high, living careless, on the edge of wild and reckless Hold on tight, I'm 'bout to show you one hell of a night So give me that aw yeah, and I'll give you that all night Girl, give me that let's go, and I'll give you that good good time",
+      "valence": 3.5,
+      "arousal": 3.8,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Hold on tight, I'm 'bout to show you one hell of a night So give me that aw yeah, and I'll give you that all night Girl, give me that let's go, and I'll give you that good good time Show you a side of these two lanes you've never seen",
+      "valence": 3.53,
+      "arousal": 3.89,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "So give me that aw yeah, and I'll give you that all night Girl, give me that let's go, and I'll give you that good good time Show you a side of these two lanes you've never seen Heating it up behind a high beam",
+      "valence": 3.39,
+      "arousal": 3.62,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Girl, give me that let's go, and I'll give you that good good time Show you a side of these two lanes you've never seen Heating it up behind a high beam Ooh, baby you and me, just a-running down crazy",
+      "valence": 3.4,
+      "arousal": 3.72,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Show you a side of these two lanes you've never seen Heating it up behind a high beam Ooh, baby you and me, just a-running down crazy Flying high, living careless, on the edge of wild and reckless",
+      "valence": 3.04,
+      "arousal": 3.35,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Heating it up behind a high beam Ooh, baby you and me, just a-running down crazy Flying high, living careless, on the edge of wild and reckless Hold on tight, I'm 'bout to show you one hell of a night",
+      "valence": 3.39,
+      "arousal": 3.64,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Ooh, baby you and me, just a-running down crazy Flying high, living careless, on the edge of wild and reckless Hold on tight, I'm 'bout to show you one hell of a night Yeah, a once in a lifetime night",
+      "valence": 3.56,
+      "arousal": 3.8,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Flying high, living careless, on the edge of wild and reckless Hold on tight, I'm 'bout to show you one hell of a night Yeah, a once in a lifetime night Ooh girl, looking down the ride of one hell of a night",
+      "valence": 3.59,
+      "arousal": 3.86,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Hold on tight, I'm 'bout to show you one hell of a night Yeah, a once in a lifetime night Ooh girl, looking down the ride of one hell of a night I'm 'bout to show you one hell of a night",
+      "valence": 3.68,
+      "arousal": 4.03,
+      "dominance": 3.23
+    }
+  ]
+}

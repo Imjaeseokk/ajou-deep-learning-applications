@@ -1,0 +1,689 @@
+{
+  "artist": "Morray",
+  "overall_vad": {
+    "valence": 2.74,
+    "arousal": 3.44,
+    "dominance": 3.17
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Hmm, yeah Hmm, yeah Hmm, yeah, yeah Since a jit stood tall with a kickstand",
+      "valence": 3.22,
+      "arousal": 3.18,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Hmm, yeah Hmm, yeah, yeah Since a jit stood tall with a kickstand Thinking of a plan to get quick bands",
+      "valence": 3.25,
+      "arousal": 3.2,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Hmm, yeah, yeah Since a jit stood tall with a kickstand Thinking of a plan to get quick bands Falling in deep with the quicksand",
+      "valence": 3.1,
+      "arousal": 3.14,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Since a jit stood tall with a kickstand Thinking of a plan to get quick bands Falling in deep with the quicksand Flag out my ass, no quick brand",
+      "valence": 2.68,
+      "arousal": 3.19,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Thinking of a plan to get quick bands Falling in deep with the quicksand Flag out my ass, no quick brand I was packing on the pounds, got my weight up",
+      "valence": 2.71,
+      "arousal": 3.28,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Falling in deep with the quicksand Flag out my ass, no quick brand I was packing on the pounds, got my weight up Had beef in the streets, had to stay up",
+      "valence": 2.48,
+      "arousal": 3.45,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Flag out my ass, no quick brand I was packing on the pounds, got my weight up Had beef in the streets, had to stay up Betty Crocker showed me how to bake a cake bruh",
+      "valence": 2.88,
+      "arousal": 3.46,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I was packing on the pounds, got my weight up Had beef in the streets, had to stay up Betty Crocker showed me how to bake a cake bruh Doing that put everything I love at stake bruh",
+      "valence": 3.28,
+      "arousal": 3.64,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Had beef in the streets, had to stay up Betty Crocker showed me how to bake a cake bruh Doing that put everything I love at stake bruh Since a jit stood tall with a kickstand",
+      "valence": 3.12,
+      "arousal": 3.46,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Betty Crocker showed me how to bake a cake bruh Doing that put everything I love at stake bruh Since a jit stood tall with a kickstand Thinking of a plan to get quick bands",
+      "valence": 3.34,
+      "arousal": 3.37,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Doing that put everything I love at stake bruh Since a jit stood tall with a kickstand Thinking of a plan to get quick bands Falling in deep with the quicksand",
+      "valence": 2.98,
+      "arousal": 3.38,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Since a jit stood tall with a kickstand Thinking of a plan to get quick bands Falling in deep with the quicksand Flag out my ass, no quick brand",
+      "valence": 2.68,
+      "arousal": 3.19,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Thinking of a plan to get quick bands Falling in deep with the quicksand Flag out my ass, no quick brand I was packing on the pounds, got my weight up",
+      "valence": 2.71,
+      "arousal": 3.28,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Falling in deep with the quicksand Flag out my ass, no quick brand I was packing on the pounds, got my weight up Had beef in the streets, had to stay up",
+      "valence": 2.48,
+      "arousal": 3.45,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Flag out my ass, no quick brand I was packing on the pounds, got my weight up Had beef in the streets, had to stay up Betty Crocker showed me how to bake a cake bruh",
+      "valence": 2.88,
+      "arousal": 3.46,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I was packing on the pounds, got my weight up Had beef in the streets, had to stay up Betty Crocker showed me how to bake a cake bruh Doing that put everything I love at stake bruh",
+      "valence": 3.28,
+      "arousal": 3.64,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Had beef in the streets, had to stay up Betty Crocker showed me how to bake a cake bruh Doing that put everything I love at stake bruh Back in the day man, a nigga had ripped jeans",
+      "valence": 2.94,
+      "arousal": 3.53,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Betty Crocker showed me how to bake a cake bruh Doing that put everything I love at stake bruh Back in the day man, a nigga had ripped jeans Couldn't afford a new pair, I had broke seams",
+      "valence": 3.18,
+      "arousal": 3.53,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Doing that put everything I love at stake bruh Back in the day man, a nigga had ripped jeans Couldn't afford a new pair, I had broke seams Couldn't think about the money, I had broke dreams",
+      "valence": 2.47,
+      "arousal": 3.54,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Back in the day man, a nigga had ripped jeans Couldn't afford a new pair, I had broke seams Couldn't think about the money, I had broke dreams Outfit was the match of a crack fiend",
+      "valence": 2.43,
+      "arousal": 3.47,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Couldn't afford a new pair, I had broke seams Couldn't think about the money, I had broke dreams Outfit was the match of a crack fiend I was tryna be fly, couldn't take off",
+      "valence": 2.3,
+      "arousal": 3.55,
+      "dominance": 2.65
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Couldn't think about the money, I had broke dreams Outfit was the match of a crack fiend I was tryna be fly, couldn't take off Clothes falling off my ass, lost weight dog",
+      "valence": 2.34,
+      "arousal": 3.55,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Outfit was the match of a crack fiend I was tryna be fly, couldn't take off Clothes falling off my ass, lost weight dog No jacket in the winter, had the shakes dog",
+      "valence": 2.38,
+      "arousal": 3.38,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I was tryna be fly, couldn't take off Clothes falling off my ass, lost weight dog No jacket in the winter, had the shakes dog Then I said, \"Fuck it\", 'cause something gone have to shake dog",
+      "valence": 2.13,
+      "arousal": 3.8,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Clothes falling off my ass, lost weight dog No jacket in the winter, had the shakes dog Then I said, \"Fuck it\", 'cause something gone have to shake dog Then my nigga, Bobby, put me on a quick lick",
+      "valence": 2.28,
+      "arousal": 3.9,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "No jacket in the winter, had the shakes dog Then I said, \"Fuck it\", 'cause something gone have to shake dog Then my nigga, Bobby, put me on a quick lick Wasn't a lot but enough for a quick fix",
+      "valence": 2.24,
+      "arousal": 3.71,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Then I said, \"Fuck it\", 'cause something gone have to shake dog Then my nigga, Bobby, put me on a quick lick Wasn't a lot but enough for a quick fix Interceptions I was stealing, caught me a pick six",
+      "valence": 2.06,
+      "arousal": 4.0,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Then my nigga, Bobby, put me on a quick lick Wasn't a lot but enough for a quick fix Interceptions I was stealing, caught me a pick six In the snow pitching woe, bitch it was brick dick",
+      "valence": 2.65,
+      "arousal": 3.49,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Wasn't a lot but enough for a quick fix Interceptions I was stealing, caught me a pick six In the snow pitching woe, bitch it was brick dick Never killed, ain't gone lie, I was tempted",
+      "valence": 2.81,
+      "arousal": 3.44,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Interceptions I was stealing, caught me a pick six In the snow pitching woe, bitch it was brick dick Never killed, ain't gone lie, I was tempted He was the target but he lucky that I missed it",
+      "valence": 2.63,
+      "arousal": 3.45,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "In the snow pitching woe, bitch it was brick dick Never killed, ain't gone lie, I was tempted He was the target but he lucky that I missed it I was always fucking up, was a misfit",
+      "valence": 2.31,
+      "arousal": 3.4,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Never killed, ain't gone lie, I was tempted He was the target but he lucky that I missed it I was always fucking up, was a misfit My opportunity was knocking and I missed it",
+      "valence": 2.51,
+      "arousal": 3.3,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "He was the target but he lucky that I missed it I was always fucking up, was a misfit My opportunity was knocking and I missed it Young when I hopped off the stoop",
+      "valence": 2.47,
+      "arousal": 3.33,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I was always fucking up, was a misfit My opportunity was knocking and I missed it Young when I hopped off the stoop Two doors what I floor if I hop in the coupe",
+      "valence": 2.33,
+      "arousal": 3.4,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "My opportunity was knocking and I missed it Young when I hopped off the stoop Two doors what I floor if I hop in the coupe Too sore from a war where I couldn't lose",
+      "valence": 2.56,
+      "arousal": 3.26,
+      "dominance": 2.64
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Young when I hopped off the stoop Two doors what I floor if I hop in the coupe Too sore from a war where I couldn't lose Got scars and bruises, man, I got the proof",
+      "valence": 2.71,
+      "arousal": 3.31,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Two doors what I floor if I hop in the coupe Too sore from a war where I couldn't lose Got scars and bruises, man, I got the proof Resemble young Steele 'cause I got the juice",
+      "valence": 2.83,
+      "arousal": 3.28,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Too sore from a war where I couldn't lose Got scars and bruises, man, I got the proof Resemble young Steele 'cause I got the juice You think you Tupac, let Omar Epps loose",
+      "valence": 2.62,
+      "arousal": 3.38,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Got scars and bruises, man, I got the proof Resemble young Steele 'cause I got the juice You think you Tupac, let Omar Epps loose Stepping on neck with my Timberland boots",
+      "valence": 2.59,
+      "arousal": 3.51,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Resemble young Steele 'cause I got the juice You think you Tupac, let Omar Epps loose Stepping on neck with my Timberland boots I'm planted, I'm stable, I'm growing in roots",
+      "valence": 3.03,
+      "arousal": 3.44,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "You think you Tupac, let Omar Epps loose Stepping on neck with my Timberland boots I'm planted, I'm stable, I'm growing in roots Since a jit stood tall with a kickstand",
+      "valence": 2.93,
+      "arousal": 3.37,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Stepping on neck with my Timberland boots I'm planted, I'm stable, I'm growing in roots Since a jit stood tall with a kickstand Thinking of a plan to get quick bands",
+      "valence": 3.39,
+      "arousal": 3.2,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I'm planted, I'm stable, I'm growing in roots Since a jit stood tall with a kickstand Thinking of a plan to get quick bands Falling in deep with the quicksand",
+      "valence": 3.2,
+      "arousal": 3.13,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Since a jit stood tall with a kickstand Thinking of a plan to get quick bands Falling in deep with the quicksand Flag out my ass, no quick brand",
+      "valence": 2.68,
+      "arousal": 3.19,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Thinking of a plan to get quick bands Falling in deep with the quicksand Flag out my ass, no quick brand I was packing on the pounds, got my weight up",
+      "valence": 2.71,
+      "arousal": 3.28,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Falling in deep with the quicksand Flag out my ass, no quick brand I was packing on the pounds, got my weight up Had beef in the streets, had to stay up",
+      "valence": 2.48,
+      "arousal": 3.45,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Flag out my ass, no quick brand I was packing on the pounds, got my weight up Had beef in the streets, had to stay up Betty Crocker showed me how to bake a cake bruh",
+      "valence": 2.88,
+      "arousal": 3.46,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I was packing on the pounds, got my weight up Had beef in the streets, had to stay up Betty Crocker showed me how to bake a cake bruh Doing that put everything I love at stake bruh",
+      "valence": 3.28,
+      "arousal": 3.64,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Had beef in the streets, had to stay up Betty Crocker showed me how to bake a cake bruh Doing that put everything I love at stake bruh Since a jit stood tall with a kickstand",
+      "valence": 3.12,
+      "arousal": 3.46,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Betty Crocker showed me how to bake a cake bruh Doing that put everything I love at stake bruh Since a jit stood tall with a kickstand Thinking of a plan to get quick bands",
+      "valence": 3.34,
+      "arousal": 3.37,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Doing that put everything I love at stake bruh Since a jit stood tall with a kickstand Thinking of a plan to get quick bands Falling in deep with the quicksand",
+      "valence": 2.98,
+      "arousal": 3.38,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Since a jit stood tall with a kickstand Thinking of a plan to get quick bands Falling in deep with the quicksand Flag out my ass, no quick brand",
+      "valence": 2.68,
+      "arousal": 3.19,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Thinking of a plan to get quick bands Falling in deep with the quicksand Flag out my ass, no quick brand I was packing on the pounds, got my weight up",
+      "valence": 2.71,
+      "arousal": 3.28,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Falling in deep with the quicksand Flag out my ass, no quick brand I was packing on the pounds, got my weight up Had beef in the streets, had to stay up",
+      "valence": 2.48,
+      "arousal": 3.45,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Flag out my ass, no quick brand I was packing on the pounds, got my weight up Had beef in the streets, had to stay up Betty Crocker showed me how to bake a cake bruh",
+      "valence": 2.88,
+      "arousal": 3.46,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "I was packing on the pounds, got my weight up Had beef in the streets, had to stay up Betty Crocker showed me how to bake a cake bruh Doing that put everything I love at stake bruh",
+      "valence": 3.28,
+      "arousal": 3.64,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Had beef in the streets, had to stay up Betty Crocker showed me how to bake a cake bruh Doing that put everything I love at stake bruh I remember chillin' at one of my little bitch crib",
+      "valence": 2.91,
+      "arousal": 3.41,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Betty Crocker showed me how to bake a cake bruh Doing that put everything I love at stake bruh I remember chillin' at one of my little bitch crib 'Bout to fuck, 'bout to nut, main course with the fixings",
+      "valence": 3.04,
+      "arousal": 3.54,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Doing that put everything I love at stake bruh I remember chillin' at one of my little bitch crib 'Bout to fuck, 'bout to nut, main course with the fixings Her nigga came through, he was all on some bitch shit",
+      "valence": 2.27,
+      "arousal": 3.7,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "I remember chillin' at one of my little bitch crib 'Bout to fuck, 'bout to nut, main course with the fixings Her nigga came through, he was all on some bitch shit Didn't know I was raw and my hands was so gifted",
+      "valence": 2.43,
+      "arousal": 3.43,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "'Bout to fuck, 'bout to nut, main course with the fixings Her nigga came through, he was all on some bitch shit Didn't know I was raw and my hands was so gifted Boy had me chop, had get him a mix quick",
+      "valence": 2.31,
+      "arousal": 3.62,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Her nigga came through, he was all on some bitch shit Didn't know I was raw and my hands was so gifted Boy had me chop, had get him a mix quick Couple knots made him drop like he drunk or he lifted",
+      "valence": 2.43,
+      "arousal": 3.69,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Didn't know I was raw and my hands was so gifted Boy had me chop, had get him a mix quick Couple knots made him drop like he drunk or he lifted Fought another nigga after I thought was some kinship",
+      "valence": 2.64,
+      "arousal": 3.32,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Boy had me chop, had get him a mix quick Couple knots made him drop like he drunk or he lifted Fought another nigga after I thought was some kinship Throwing up both of our sets which ended the friendship",
+      "valence": 2.62,
+      "arousal": 3.48,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Couple knots made him drop like he drunk or he lifted Fought another nigga after I thought was some kinship Throwing up both of our sets which ended the friendship Gave respect neck to neck my nigga didn't back down",
+      "valence": 2.55,
+      "arousal": 3.45,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Fought another nigga after I thought was some kinship Throwing up both of our sets which ended the friendship Gave respect neck to neck my nigga didn't back down Had 'em standing up then he ended up back down",
+      "valence": 2.63,
+      "arousal": 3.48,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Throwing up both of our sets which ended the friendship Gave respect neck to neck my nigga didn't back down Had 'em standing up then he ended up back down His hands in my life, now they ended up flat now",
+      "valence": 2.5,
+      "arousal": 3.65,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Gave respect neck to neck my nigga didn't back down Had 'em standing up then he ended up back down His hands in my life, now they ended up flat now Flat like a wing, let's see if he flap now",
+      "valence": 2.68,
+      "arousal": 3.41,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Had 'em standing up then he ended up back down His hands in my life, now they ended up flat now Flat like a wing, let's see if he flap now Had enough, it was tuff only lasted about one round",
+      "valence": 2.84,
+      "arousal": 3.06,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "His hands in my life, now they ended up flat now Flat like a wing, let's see if he flap now Had enough, it was tuff only lasted about one round K.D. on the bench equipped with the tre pround",
+      "valence": 2.88,
+      "arousal": 3.01,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Flat like a wing, let's see if he flap now Had enough, it was tuff only lasted about one round K.D. on the bench equipped with the tre pround Made 'em run, it was funny he was scared of the gun sound",
+      "valence": 2.85,
+      "arousal": 3.12,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Had enough, it was tuff only lasted about one round K.D. on the bench equipped with the tre pround Made 'em run, it was funny he was scared of the gun sound Made 'em shit, he a bitch",
+      "valence": 2.32,
+      "arousal": 3.54,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "K.D. on the bench equipped with the tre pround Made 'em run, it was funny he was scared of the gun sound Made 'em shit, he a bitch By the car he was ducked down",
+      "valence": 2.38,
+      "arousal": 3.61,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Made 'em run, it was funny he was scared of the gun sound Made 'em shit, he a bitch By the car he was ducked down I ain't got no time for the fakes",
+      "valence": 2.22,
+      "arousal": 3.68,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Made 'em shit, he a bitch By the car he was ducked down I ain't got no time for the fakes The phonies, jabrownies, the opps or the jakes",
+      "valence": 2.08,
+      "arousal": 3.56,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "By the car he was ducked down I ain't got no time for the fakes The phonies, jabrownies, the opps or the jakes My homies the only who come past the gate",
+      "valence": 2.51,
+      "arousal": 3.4,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "I ain't got no time for the fakes The phonies, jabrownies, the opps or the jakes My homies the only who come past the gate I'm whacking the weeds, cutting heads off of snakes",
+      "valence": 2.35,
+      "arousal": 3.51,
+      "dominance": 3.82
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "The phonies, jabrownies, the opps or the jakes My homies the only who come past the gate I'm whacking the weeds, cutting heads off of snakes I'm hungry, I'm eating right off of ya plate",
+      "valence": 2.52,
+      "arousal": 3.66,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "My homies the only who come past the gate I'm whacking the weeds, cutting heads off of snakes I'm hungry, I'm eating right off of ya plate I want it, I'm on it, it's mine for the take",
+      "valence": 2.85,
+      "arousal": 3.88,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "I'm whacking the weeds, cutting heads off of snakes I'm hungry, I'm eating right off of ya plate I want it, I'm on it, it's mine for the take I'm stagnant, a magnet, I'm staying in place",
+      "valence": 2.95,
+      "arousal": 3.86,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "I'm hungry, I'm eating right off of ya plate I want it, I'm on it, it's mine for the take I'm stagnant, a magnet, I'm staying in place The reason I'm popping is all of the hate",
+      "valence": 2.95,
+      "arousal": 3.8,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "I want it, I'm on it, it's mine for the take I'm stagnant, a magnet, I'm staying in place The reason I'm popping is all of the hate Since a jit stood tall with a kickstand",
+      "valence": 2.91,
+      "arousal": 3.72,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "I'm stagnant, a magnet, I'm staying in place The reason I'm popping is all of the hate Since a jit stood tall with a kickstand Thinking of a plan to get quick bands",
+      "valence": 2.67,
+      "arousal": 3.29,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "The reason I'm popping is all of the hate Since a jit stood tall with a kickstand Thinking of a plan to get quick bands Falling in deep with the quicksand",
+      "valence": 2.67,
+      "arousal": 3.28,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "Since a jit stood tall with a kickstand Thinking of a plan to get quick bands Falling in deep with the quicksand Flag out my ass, no quick brand",
+      "valence": 2.68,
+      "arousal": 3.19,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 86,
+      "lyrics_text": "Thinking of a plan to get quick bands Falling in deep with the quicksand Flag out my ass, no quick brand I was packing on the pounds, got my weight up",
+      "valence": 2.71,
+      "arousal": 3.28,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 87,
+      "lyrics_text": "Falling in deep with the quicksand Flag out my ass, no quick brand I was packing on the pounds, got my weight up Had beef in the streets, had to stay up",
+      "valence": 2.48,
+      "arousal": 3.45,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 88,
+      "lyrics_text": "Flag out my ass, no quick brand I was packing on the pounds, got my weight up Had beef in the streets, had to stay up Betty Crocker showed me how to bake a cake bruh",
+      "valence": 2.88,
+      "arousal": 3.46,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 89,
+      "lyrics_text": "I was packing on the pounds, got my weight up Had beef in the streets, had to stay up Betty Crocker showed me how to bake a cake bruh Doing that put everything I love at stake bruh",
+      "valence": 3.28,
+      "arousal": 3.64,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 90,
+      "lyrics_text": "Had beef in the streets, had to stay up Betty Crocker showed me how to bake a cake bruh Doing that put everything I love at stake bruh Since a jit stood tall with a kickstand",
+      "valence": 3.12,
+      "arousal": 3.46,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 91,
+      "lyrics_text": "Betty Crocker showed me how to bake a cake bruh Doing that put everything I love at stake bruh Since a jit stood tall with a kickstand Thinking of a plan to get quick bands",
+      "valence": 3.34,
+      "arousal": 3.37,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 92,
+      "lyrics_text": "Doing that put everything I love at stake bruh Since a jit stood tall with a kickstand Thinking of a plan to get quick bands Falling in deep with the quicksand",
+      "valence": 2.98,
+      "arousal": 3.38,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 93,
+      "lyrics_text": "Since a jit stood tall with a kickstand Thinking of a plan to get quick bands Falling in deep with the quicksand Flag out my ass, no quick brand",
+      "valence": 2.68,
+      "arousal": 3.19,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 94,
+      "lyrics_text": "Thinking of a plan to get quick bands Falling in deep with the quicksand Flag out my ass, no quick brand I was packing on the pounds, got my weight up",
+      "valence": 2.71,
+      "arousal": 3.28,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 95,
+      "lyrics_text": "Falling in deep with the quicksand Flag out my ass, no quick brand I was packing on the pounds, got my weight up Had beef in the streets, had to stay up",
+      "valence": 2.48,
+      "arousal": 3.45,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 96,
+      "lyrics_text": "Flag out my ass, no quick brand I was packing on the pounds, got my weight up Had beef in the streets, had to stay up Betty Crocker showed me how to bake a cake bruh",
+      "valence": 2.88,
+      "arousal": 3.46,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 97,
+      "lyrics_text": "I was packing on the pounds, got my weight up Had beef in the streets, had to stay up Betty Crocker showed me how to bake a cake bruh Doing that put everything I love at stake bruh",
+      "valence": 3.28,
+      "arousal": 3.64,
+      "dominance": 3.17
+    }
+  ]
+}

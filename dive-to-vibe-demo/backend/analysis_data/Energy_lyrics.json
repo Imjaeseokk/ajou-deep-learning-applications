@@ -1,0 +1,374 @@
+{
+  "artist": "Drake",
+  "overall_vad": {
+    "valence": 2.44,
+    "arousal": 3.54,
+    "dominance": 3.26
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Lickwood means \"rewind\" and gunshot means \"forward\" You requested it, so we rewind Yeah, way, way, way up Turn it all up, yeah, look",
+      "valence": 3.01,
+      "arousal": 3.09,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "You requested it, so we rewind Yeah, way, way, way up Turn it all up, yeah, look I got enemies, got a lot of enemies",
+      "valence": 2.84,
+      "arousal": 3.31,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Yeah, way, way, way up Turn it all up, yeah, look I got enemies, got a lot of enemies Got a lot of people tryna drain me of my energy",
+      "valence": 2.5,
+      "arousal": 3.31,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Turn it all up, yeah, look I got enemies, got a lot of enemies Got a lot of people tryna drain me of my energy They tryna take the wave from a nigga",
+      "valence": 2.5,
+      "arousal": 3.42,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I got enemies, got a lot of enemies Got a lot of people tryna drain me of my energy They tryna take the wave from a nigga Fuckin' with the kid and pray for your nigga",
+      "valence": 2.01,
+      "arousal": 3.71,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Got a lot of people tryna drain me of my energy They tryna take the wave from a nigga Fuckin' with the kid and pray for your nigga I got girls in real life tryna fuck up my day",
+      "valence": 1.9,
+      "arousal": 3.75,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "They tryna take the wave from a nigga Fuckin' with the kid and pray for your nigga I got girls in real life tryna fuck up my day Fuck goin' online, that ain't part of my day",
+      "valence": 1.96,
+      "arousal": 3.84,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Fuckin' with the kid and pray for your nigga I got girls in real life tryna fuck up my day Fuck goin' online, that ain't part of my day I got real shit poppin' with my family too",
+      "valence": 1.86,
+      "arousal": 3.95,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I got girls in real life tryna fuck up my day Fuck goin' online, that ain't part of my day I got real shit poppin' with my family too I got niggas that can never leave Canada too",
+      "valence": 2.06,
+      "arousal": 3.64,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Fuck goin' online, that ain't part of my day I got real shit poppin' with my family too I got niggas that can never leave Canada too I got two mortgages, thirty million in total",
+      "valence": 2.12,
+      "arousal": 3.77,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I got real shit poppin' with my family too I got niggas that can never leave Canada too I got two mortgages, thirty million in total I got niggas that'll still try fuckin' me over",
+      "valence": 2.13,
+      "arousal": 3.52,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I got niggas that can never leave Canada too I got two mortgages, thirty million in total I got niggas that'll still try fuckin' me over I got rap niggas that I gotta act like I like",
+      "valence": 2.8,
+      "arousal": 3.51,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I got two mortgages, thirty million in total I got niggas that'll still try fuckin' me over I got rap niggas that I gotta act like I like But my actin' days are over, fuck them niggas for life, yeah",
+      "valence": 2.57,
+      "arousal": 3.83,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I got niggas that'll still try fuckin' me over I got rap niggas that I gotta act like I like But my actin' days are over, fuck them niggas for life, yeah I got enemies, got a lot of enemies",
+      "valence": 2.27,
+      "arousal": 3.81,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I got rap niggas that I gotta act like I like But my actin' days are over, fuck them niggas for life, yeah I got enemies, got a lot of enemies Got a lot of people tryna drain me of this energy",
+      "valence": 2.25,
+      "arousal": 3.86,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "But my actin' days are over, fuck them niggas for life, yeah I got enemies, got a lot of enemies Got a lot of people tryna drain me of this energy They tryna take the wave from a nigga",
+      "valence": 2.03,
+      "arousal": 3.79,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I got enemies, got a lot of enemies Got a lot of people tryna drain me of this energy They tryna take the wave from a nigga Fuckin' with the kid and pray for your nigga",
+      "valence": 2.04,
+      "arousal": 3.69,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Got a lot of people tryna drain me of this energy They tryna take the wave from a nigga Fuckin' with the kid and pray for your nigga I got people talkin' down, man, like I give a fuck",
+      "valence": 1.99,
+      "arousal": 3.71,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "They tryna take the wave from a nigga Fuckin' with the kid and pray for your nigga I got people talkin' down, man, like I give a fuck I bought this one a purse, I bought this one a truck",
+      "valence": 2.22,
+      "arousal": 3.77,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Fuckin' with the kid and pray for your nigga I got people talkin' down, man, like I give a fuck I bought this one a purse, I bought this one a truck I bought this one a house, I bought this one a mall",
+      "valence": 2.12,
+      "arousal": 3.93,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I got people talkin' down, man, like I give a fuck I bought this one a purse, I bought this one a truck I bought this one a house, I bought this one a mall I keep buyin' shit, just make sure you keep track of it all",
+      "valence": 2.6,
+      "arousal": 3.6,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I bought this one a purse, I bought this one a truck I bought this one a house, I bought this one a mall I keep buyin' shit, just make sure you keep track of it all I got bitches askin' me about the code for the Wi-Fi",
+      "valence": 2.87,
+      "arousal": 3.44,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I bought this one a house, I bought this one a mall I keep buyin' shit, just make sure you keep track of it all I got bitches askin' me about the code for the Wi-Fi So they can talk about they timeline",
+      "valence": 2.83,
+      "arousal": 3.39,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I keep buyin' shit, just make sure you keep track of it all I got bitches askin' me about the code for the Wi-Fi So they can talk about they timeline And show me pictures of they friends",
+      "valence": 2.64,
+      "arousal": 3.38,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I got bitches askin' me about the code for the Wi-Fi So they can talk about they timeline And show me pictures of they friends Just to tell me they ain't really friends",
+      "valence": 2.53,
+      "arousal": 3.22,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "So they can talk about they timeline And show me pictures of they friends Just to tell me they ain't really friends Ex-girl, she the female version of me",
+      "valence": 2.79,
+      "arousal": 2.95,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "And show me pictures of they friends Just to tell me they ain't really friends Ex-girl, she the female version of me I got strippers in my life, but they virgins to me",
+      "valence": 2.7,
+      "arousal": 3.17,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Just to tell me they ain't really friends Ex-girl, she the female version of me I got strippers in my life, but they virgins to me I hear everybody talkin' 'bout what they gon' be",
+      "valence": 2.71,
+      "arousal": 3.06,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Ex-girl, she the female version of me I got strippers in my life, but they virgins to me I hear everybody talkin' 'bout what they gon' be I got high hopes for you niggas, we gon' see",
+      "valence": 3.43,
+      "arousal": 3.55,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I got strippers in my life, but they virgins to me I hear everybody talkin' 'bout what they gon' be I got high hopes for you niggas, we gon' see I got money in the courts 'til all my niggas are free",
+      "valence": 3.41,
+      "arousal": 3.63,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I hear everybody talkin' 'bout what they gon' be I got high hopes for you niggas, we gon' see I got money in the courts 'til all my niggas are free 'Bout to call your ass a Uber, I got somewhere to be",
+      "valence": 3.1,
+      "arousal": 3.7,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I got high hopes for you niggas, we gon' see I got money in the courts 'til all my niggas are free 'Bout to call your ass a Uber, I got somewhere to be I hear fairy tales 'bout how they gon' run up on me",
+      "valence": 3.24,
+      "arousal": 3.68,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I got money in the courts 'til all my niggas are free 'Bout to call your ass a Uber, I got somewhere to be I hear fairy tales 'bout how they gon' run up on me Well, run up when you see me, then, and we gon' see",
+      "valence": 2.81,
+      "arousal": 3.59,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "'Bout to call your ass a Uber, I got somewhere to be I hear fairy tales 'bout how they gon' run up on me Well, run up when you see me, then, and we gon' see I got enemies, got a lot of enemies",
+      "valence": 2.38,
+      "arousal": 3.73,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I hear fairy tales 'bout how they gon' run up on me Well, run up when you see me, then, and we gon' see I got enemies, got a lot of enemies Got a lot of people tryna drain me of this energy",
+      "valence": 2.57,
+      "arousal": 3.37,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Well, run up when you see me, then, and we gon' see I got enemies, got a lot of enemies Got a lot of people tryna drain me of this energy They tryna take the wave from a nigga",
+      "valence": 2.5,
+      "arousal": 3.34,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I got enemies, got a lot of enemies Got a lot of people tryna drain me of this energy They tryna take the wave from a nigga Fuckin' with the kid and pray for your nigga",
+      "valence": 2.04,
+      "arousal": 3.69,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Got a lot of people tryna drain me of this energy They tryna take the wave from a nigga Fuckin' with the kid and pray for your nigga Nah, fuck all of you niggas, I ain't finished",
+      "valence": 1.91,
+      "arousal": 3.77,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "They tryna take the wave from a nigga Fuckin' with the kid and pray for your nigga Nah, fuck all of you niggas, I ain't finished Y'all don't wanna hear me say it's a go",
+      "valence": 2.06,
+      "arousal": 3.71,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Fuckin' with the kid and pray for your nigga Nah, fuck all of you niggas, I ain't finished Y'all don't wanna hear me say it's a go Y'all don't wanna see Win Win, 50 or Whoa",
+      "valence": 2.07,
+      "arousal": 3.82,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Nah, fuck all of you niggas, I ain't finished Y'all don't wanna hear me say it's a go Y'all don't wanna see Win Win, 50 or Whoa I got real ones livin' past Kennedy Road",
+      "valence": 2.11,
+      "arousal": 3.59,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Y'all don't wanna hear me say it's a go Y'all don't wanna see Win Win, 50 or Whoa I got real ones livin' past Kennedy Road I got real ones wit' me everywhere that I go",
+      "valence": 2.82,
+      "arousal": 3.21,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Y'all don't wanna see Win Win, 50 or Whoa I got real ones livin' past Kennedy Road I got real ones wit' me everywhere that I go I'm tryna tell ya I got enemies, got a lot of enemies",
+      "valence": 2.42,
+      "arousal": 3.45,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I got real ones livin' past Kennedy Road I got real ones wit' me everywhere that I go I'm tryna tell ya I got enemies, got a lot of enemies Every time I see 'em, somethin' wrong with their memory",
+      "valence": 2.55,
+      "arousal": 3.34,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I got real ones wit' me everywhere that I go I'm tryna tell ya I got enemies, got a lot of enemies Every time I see 'em, somethin' wrong with their memory Tryna take it away from a nigga",
+      "valence": 2.46,
+      "arousal": 3.33,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I'm tryna tell ya I got enemies, got a lot of enemies Every time I see 'em, somethin' wrong with their memory Tryna take it away from a nigga So tired of savin' all these niggas, mayne",
+      "valence": 2.41,
+      "arousal": 3.32,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Every time I see 'em, somethin' wrong with their memory Tryna take it away from a nigga So tired of savin' all these niggas, mayne (Yeah, run 'em)",
+      "valence": 2.44,
+      "arousal": 3.11,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Tryna take it away from a nigga So tired of savin' all these niggas, mayne (Yeah, run 'em) I got enemies, got a lot of enemies",
+      "valence": 2.4,
+      "arousal": 3.41,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "So tired of savin' all these niggas, mayne (Yeah, run 'em) I got enemies, got a lot of enemies Got a lot of people tryna drain me of this energy",
+      "valence": 2.29,
+      "arousal": 3.42,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "(Yeah, run 'em) I got enemies, got a lot of enemies Got a lot of people tryna drain me of this energy They tryna take the wave from a nigga",
+      "valence": 2.51,
+      "arousal": 3.47,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I got enemies, got a lot of enemies Got a lot of people tryna drain me of this energy They tryna take the wave from a nigga Fuckin' with the kid and pray for your nigga",
+      "valence": 2.04,
+      "arousal": 3.69,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Got a lot of people tryna drain me of this energy They tryna take the wave from a nigga Fuckin' with the kid and pray for your nigga (I'm off this)",
+      "valence": 2.04,
+      "arousal": 3.7,
+      "dominance": 3.13
+    }
+  ]
+}

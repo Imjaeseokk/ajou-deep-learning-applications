@@ -1,0 +1,493 @@
+{
+  "artist": "Post Malone Featuring Quavo",
+  "overall_vad": {
+    "valence": 3.04,
+    "arousal": 3.51,
+    "dominance": 3.23
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Mm-mmm Yeah, yeah Mm-mmm Yeah",
+      "valence": 3.49,
+      "arousal": 3.42,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Yeah, yeah Mm-mmm Yeah My momma called, seen you on TV, son",
+      "valence": 3.83,
+      "arousal": 3.77,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Mm-mmm Yeah My momma called, seen you on TV, son Said shit done changed ever since we was on",
+      "valence": 3.55,
+      "arousal": 3.69,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Yeah My momma called, seen you on TV, son Said shit done changed ever since we was on I dreamed it all ever since I was young",
+      "valence": 3.48,
+      "arousal": 3.8,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "My momma called, seen you on TV, son Said shit done changed ever since we was on I dreamed it all ever since I was young They said I wouldn't be nothing",
+      "valence": 3.23,
+      "arousal": 3.76,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Said shit done changed ever since we was on I dreamed it all ever since I was young They said I wouldn't be nothing Now they always say congratulations",
+      "valence": 3.12,
+      "arousal": 3.4,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I dreamed it all ever since I was young They said I wouldn't be nothing Now they always say congratulations Worked so hard, forgot how to vacation",
+      "valence": 3.21,
+      "arousal": 3.39,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "They said I wouldn't be nothing Now they always say congratulations Worked so hard, forgot how to vacation They ain't never had the dedication",
+      "valence": 2.84,
+      "arousal": 3.27,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Now they always say congratulations Worked so hard, forgot how to vacation They ain't never had the dedication People hatin', say we changed and look, we made it",
+      "valence": 3.28,
+      "arousal": 3.42,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Worked so hard, forgot how to vacation They ain't never had the dedication People hatin', say we changed and look, we made it Yeah, we made it",
+      "valence": 3.33,
+      "arousal": 3.44,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "They ain't never had the dedication People hatin', say we changed and look, we made it Yeah, we made it They was never friendly, yeah",
+      "valence": 2.73,
+      "arousal": 3.16,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "People hatin', say we changed and look, we made it Yeah, we made it They was never friendly, yeah Now I'm jumping out the Bentley, yeah",
+      "valence": 3.22,
+      "arousal": 3.55,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Yeah, we made it They was never friendly, yeah Now I'm jumping out the Bentley, yeah And I know I sound dramatic, yeah",
+      "valence": 3.06,
+      "arousal": 3.74,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "They was never friendly, yeah Now I'm jumping out the Bentley, yeah And I know I sound dramatic, yeah But I know I had to have it, yeah",
+      "valence": 2.77,
+      "arousal": 3.64,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Now I'm jumping out the Bentley, yeah And I know I sound dramatic, yeah But I know I had to have it, yeah For the money, I'm a savage, yeah",
+      "valence": 2.77,
+      "arousal": 3.93,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "And I know I sound dramatic, yeah But I know I had to have it, yeah For the money, I'm a savage, yeah I be itching like a addict, yeah",
+      "valence": 2.68,
+      "arousal": 3.78,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "But I know I had to have it, yeah For the money, I'm a savage, yeah I be itching like a addict, yeah I'm surrounded, twenty bad bitches, yeah",
+      "valence": 2.5,
+      "arousal": 3.86,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "For the money, I'm a savage, yeah I be itching like a addict, yeah I'm surrounded, twenty bad bitches, yeah But they didn't know me last year, yeah",
+      "valence": 2.55,
+      "arousal": 3.91,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I be itching like a addict, yeah I'm surrounded, twenty bad bitches, yeah But they didn't know me last year, yeah Everyone wanna act like they important",
+      "valence": 2.42,
+      "arousal": 3.73,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I'm surrounded, twenty bad bitches, yeah But they didn't know me last year, yeah Everyone wanna act like they important (Yeah, yeah, yeah, yeah, yeah, yeah)",
+      "valence": 2.45,
+      "arousal": 3.59,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "But they didn't know me last year, yeah Everyone wanna act like they important (Yeah, yeah, yeah, yeah, yeah, yeah) But all that mean nothing when I saw my dog",
+      "valence": 2.59,
+      "arousal": 3.23,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Everyone wanna act like they important (Yeah, yeah, yeah, yeah, yeah, yeah) But all that mean nothing when I saw my dog (Yeah, yeah, yeah, yeah, yeah, yeah)",
+      "valence": 2.73,
+      "arousal": 3.29,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "(Yeah, yeah, yeah, yeah, yeah, yeah) But all that mean nothing when I saw my dog (Yeah, yeah, yeah, yeah, yeah, yeah) Everyone counting on me, drop the ball",
+      "valence": 2.79,
+      "arousal": 3.39,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "But all that mean nothing when I saw my dog (Yeah, yeah, yeah, yeah, yeah, yeah) Everyone counting on me, drop the ball (Yeah, yeah, yeah, yeah, yeah, yeah)",
+      "valence": 2.79,
+      "arousal": 3.34,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "(Yeah, yeah, yeah, yeah, yeah, yeah) Everyone counting on me, drop the ball (Yeah, yeah, yeah, yeah, yeah, yeah) Everything costing like I'm at the bottom, yeah, yeah",
+      "valence": 3.06,
+      "arousal": 3.36,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Everyone counting on me, drop the ball (Yeah, yeah, yeah, yeah, yeah, yeah) Everything costing like I'm at the bottom, yeah, yeah If you fuck with winning, put your lighters to the sky",
+      "valence": 2.76,
+      "arousal": 3.6,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "(Yeah, yeah, yeah, yeah, yeah, yeah) Everything costing like I'm at the bottom, yeah, yeah If you fuck with winning, put your lighters to the sky How could I make sense when I got millions on my mind?",
+      "valence": 2.77,
+      "arousal": 3.61,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Everything costing like I'm at the bottom, yeah, yeah If you fuck with winning, put your lighters to the sky How could I make sense when I got millions on my mind? Coming with that bullshit, I just put it to the side",
+      "valence": 2.32,
+      "arousal": 3.79,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "If you fuck with winning, put your lighters to the sky How could I make sense when I got millions on my mind? Coming with that bullshit, I just put it to the side Balling since a baby, they could see it in my eyes",
+      "valence": 2.18,
+      "arousal": 3.89,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "How could I make sense when I got millions on my mind? Coming with that bullshit, I just put it to the side Balling since a baby, they could see it in my eyes My momma called, seen you on TV, son",
+      "valence": 2.67,
+      "arousal": 3.93,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Coming with that bullshit, I just put it to the side Balling since a baby, they could see it in my eyes My momma called, seen you on TV, son Said shit done changed ever since we was on",
+      "valence": 2.47,
+      "arousal": 3.69,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Balling since a baby, they could see it in my eyes My momma called, seen you on TV, son Said shit done changed ever since we was on I dreamed it all ever since I was young",
+      "valence": 3.31,
+      "arousal": 3.76,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "My momma called, seen you on TV, son Said shit done changed ever since we was on I dreamed it all ever since I was young They said I wouldn't be nothing",
+      "valence": 3.23,
+      "arousal": 3.76,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Said shit done changed ever since we was on I dreamed it all ever since I was young They said I wouldn't be nothing Now they always say congratulations",
+      "valence": 3.12,
+      "arousal": 3.4,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I dreamed it all ever since I was young They said I wouldn't be nothing Now they always say congratulations Worked so hard, forgot how to vacation",
+      "valence": 3.21,
+      "arousal": 3.39,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "They said I wouldn't be nothing Now they always say congratulations Worked so hard, forgot how to vacation They ain't never had the dedication",
+      "valence": 2.84,
+      "arousal": 3.27,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Now they always say congratulations Worked so hard, forgot how to vacation They ain't never had the dedication People hatin', say we changed and look we made it",
+      "valence": 3.32,
+      "arousal": 3.43,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Worked so hard, forgot how to vacation They ain't never had the dedication People hatin', say we changed and look we made it Yeah, we made it",
+      "valence": 3.35,
+      "arousal": 3.47,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "They ain't never had the dedication People hatin', say we changed and look we made it Yeah, we made it I was patient, yeah, oh",
+      "valence": 3.21,
+      "arousal": 3.2,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "People hatin', say we changed and look we made it Yeah, we made it I was patient, yeah, oh I was patient, aye, oh",
+      "valence": 3.18,
+      "arousal": 3.05,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Yeah, we made it I was patient, yeah, oh I was patient, aye, oh Now I can scream that we made it",
+      "valence": 3.29,
+      "arousal": 3.63,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "I was patient, yeah, oh I was patient, aye, oh Now I can scream that we made it Now everyone, everywhere I go, they say 'gratulations",
+      "valence": 3.23,
+      "arousal": 3.48,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I was patient, aye, oh Now I can scream that we made it Now everyone, everywhere I go, they say 'gratulations Young nigga, young nigga, graduation",
+      "valence": 3.35,
+      "arousal": 3.61,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Now I can scream that we made it Now everyone, everywhere I go, they say 'gratulations Young nigga, young nigga, graduation I pick up the rock and I ball, baby",
+      "valence": 3.29,
+      "arousal": 3.69,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Now everyone, everywhere I go, they say 'gratulations Young nigga, young nigga, graduation I pick up the rock and I ball, baby I'm looking for someone to call, baby",
+      "valence": 3.33,
+      "arousal": 3.41,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Young nigga, young nigga, graduation I pick up the rock and I ball, baby I'm looking for someone to call, baby But right now, I got a situation",
+      "valence": 2.99,
+      "arousal": 3.4,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I pick up the rock and I ball, baby I'm looking for someone to call, baby But right now, I got a situation Nothing but old Ben-Ben Franklins",
+      "valence": 2.95,
+      "arousal": 3.31,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I'm looking for someone to call, baby But right now, I got a situation Nothing but old Ben-Ben Franklins Big rings, champagne",
+      "valence": 3.07,
+      "arousal": 3.31,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "But right now, I got a situation Nothing but old Ben-Ben Franklins Big rings, champagne My life is like a ball game",
+      "valence": 3.14,
+      "arousal": 3.43,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Nothing but old Ben-Ben Franklins Big rings, champagne My life is like a ball game But instead, I'm in the trap though",
+      "valence": 2.83,
+      "arousal": 3.17,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Big rings, champagne My life is like a ball game But instead, I'm in the trap though Pot so big, call it Super Bowl",
+      "valence": 2.99,
+      "arousal": 3.44,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "My life is like a ball game But instead, I'm in the trap though Pot so big, call it Super Bowl Super Bowl, call the hoes, get in the Rolls",
+      "valence": 2.8,
+      "arousal": 3.37,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "But instead, I'm in the trap though Pot so big, call it Super Bowl Super Bowl, call the hoes, get in the Rolls Top-floor lifestyle, Huncho and Post",
+      "valence": 2.91,
+      "arousal": 3.41,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Pot so big, call it Super Bowl Super Bowl, call the hoes, get in the Rolls Top-floor lifestyle, Huncho and Post Malone, I got a play on my phone, aye",
+      "valence": 3.28,
+      "arousal": 3.59,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Super Bowl, call the hoes, get in the Rolls Top-floor lifestyle, Huncho and Post Malone, I got a play on my phone, aye You know what I'm on, aye",
+      "valence": 3.28,
+      "arousal": 3.6,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Top-floor lifestyle, Huncho and Post Malone, I got a play on my phone, aye You know what I'm on, aye Huncho Houdini is gone, aye",
+      "valence": 3.12,
+      "arousal": 3.4,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Malone, I got a play on my phone, aye You know what I'm on, aye Huncho Houdini is gone, aye My momma called, seen you on TV, son",
+      "valence": 3.3,
+      "arousal": 3.56,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "You know what I'm on, aye Huncho Houdini is gone, aye My momma called, seen you on TV, son Said shit done changed ever since we was on",
+      "valence": 2.83,
+      "arousal": 3.61,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Huncho Houdini is gone, aye My momma called, seen you on TV, son Said shit done changed ever since we was on I dreamed it all ever since I was young",
+      "valence": 2.95,
+      "arousal": 3.73,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "My momma called, seen you on TV, son Said shit done changed ever since we was on I dreamed it all ever since I was young They said I wouldn't be nothing",
+      "valence": 3.23,
+      "arousal": 3.76,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Said shit done changed ever since we was on I dreamed it all ever since I was young They said I wouldn't be nothing Now they always say congratulations",
+      "valence": 3.12,
+      "arousal": 3.4,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "I dreamed it all ever since I was young They said I wouldn't be nothing Now they always say congratulations Worked so hard, forgot how to vacation",
+      "valence": 3.21,
+      "arousal": 3.39,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "They said I wouldn't be nothing Now they always say congratulations Worked so hard, forgot how to vacation They ain't never had the dedication",
+      "valence": 2.84,
+      "arousal": 3.27,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Now they always say congratulations Worked so hard, forgot how to vacation They ain't never had the dedication People hatin', say we changed and look we made it",
+      "valence": 3.32,
+      "arousal": 3.43,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Worked so hard, forgot how to vacation They ain't never had the dedication People hatin', say we changed and look we made it Yeah, we made it",
+      "valence": 3.35,
+      "arousal": 3.47,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "They ain't never had the dedication People hatin', say we changed and look we made it Yeah, we made it Hey, hey",
+      "valence": 3.24,
+      "arousal": 3.36,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "People hatin', say we changed and look we made it Yeah, we made it Hey, hey Hey, hey",
+      "valence": 3.36,
+      "arousal": 3.31,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Yeah, we made it Hey, hey Hey, hey Hey, hey",
+      "valence": 3.38,
+      "arousal": 3.39,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Hey, hey Hey, hey Hey, hey Hey, hey",
+      "valence": 3.45,
+      "arousal": 3.49,
+      "dominance": 3.02
+    }
+  ]
+}

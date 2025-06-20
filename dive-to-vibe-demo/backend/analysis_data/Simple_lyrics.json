@@ -1,0 +1,402 @@
+{
+  "artist": "Florida Georgia Line",
+  "overall_vad": {
+    "valence": 3.25,
+    "arousal": 3.18,
+    "dominance": 3.33
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "The way your fingers fit in mine It's five plus five, not rocket science This day in time, that's hard to find It's true",
+      "valence": 3.06,
+      "arousal": 3.06,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "It's five plus five, not rocket science This day in time, that's hard to find It's true The road we're on ain't a traffic jam",
+      "valence": 3.02,
+      "arousal": 2.98,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "This day in time, that's hard to find It's true The road we're on ain't a traffic jam It's a Sunday drive on a piece of land",
+      "valence": 2.95,
+      "arousal": 2.77,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "It's true The road we're on ain't a traffic jam It's a Sunday drive on a piece of land It's paradise as long as I'm with you",
+      "valence": 3.51,
+      "arousal": 3.15,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "The road we're on ain't a traffic jam It's a Sunday drive on a piece of land It's paradise as long as I'm with you It's like one, two, three",
+      "valence": 3.46,
+      "arousal": 3.29,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "It's a Sunday drive on a piece of land It's paradise as long as I'm with you It's like one, two, three Just as easy as can be",
+      "valence": 3.58,
+      "arousal": 3.19,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "It's paradise as long as I'm with you It's like one, two, three Just as easy as can be Just the way you look at me",
+      "valence": 3.57,
+      "arousal": 3.27,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "It's like one, two, three Just as easy as can be Just the way you look at me You make me smile",
+      "valence": 3.74,
+      "arousal": 3.34,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Just as easy as can be Just the way you look at me You make me smile Ain't no need to complicate it",
+      "valence": 3.6,
+      "arousal": 3.17,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Just the way you look at me You make me smile Ain't no need to complicate it We both know that's overrated",
+      "valence": 3.45,
+      "arousal": 3.36,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "You make me smile Ain't no need to complicate it We both know that's overrated We've been there, it's safe to say it ain't our style",
+      "valence": 3.23,
+      "arousal": 3.26,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Ain't no need to complicate it We both know that's overrated We've been there, it's safe to say it ain't our style It's just that simple, S-I-M-P-L-E",
+      "valence": 2.72,
+      "arousal": 3.12,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "We both know that's overrated We've been there, it's safe to say it ain't our style It's just that simple, S-I-M-P-L-E Simple as can be",
+      "valence": 2.68,
+      "arousal": 3.16,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "We've been there, it's safe to say it ain't our style It's just that simple, S-I-M-P-L-E Simple as can be It's just that simple, S-I-M-P-L-E",
+      "valence": 2.76,
+      "arousal": 2.98,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "It's just that simple, S-I-M-P-L-E Simple as can be It's just that simple, S-I-M-P-L-E Simple as can be",
+      "valence": 3.18,
+      "arousal": 2.84,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Simple as can be It's just that simple, S-I-M-P-L-E Simple as can be We used to live on Instagram",
+      "valence": 3.27,
+      "arousal": 2.98,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "It's just that simple, S-I-M-P-L-E Simple as can be We used to live on Instagram Worry 'bout who all gives a damn",
+      "valence": 2.9,
+      "arousal": 3.01,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Simple as can be We used to live on Instagram Worry 'bout who all gives a damn 'Bout where we've been and where we ended up",
+      "valence": 2.9,
+      "arousal": 3.18,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "We used to live on Instagram Worry 'bout who all gives a damn 'Bout where we've been and where we ended up Then I met you and you met me",
+      "valence": 3.1,
+      "arousal": 3.38,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Worry 'bout who all gives a damn 'Bout where we've been and where we ended up Then I met you and you met me And all the rest is history; an epiphany",
+      "valence": 3.2,
+      "arousal": 3.41,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "'Bout where we've been and where we ended up Then I met you and you met me And all the rest is history; an epiphany That all we need is us",
+      "valence": 3.29,
+      "arousal": 3.27,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Then I met you and you met me And all the rest is history; an epiphany That all we need is us It's like one, two, three",
+      "valence": 3.19,
+      "arousal": 3.25,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "And all the rest is history; an epiphany That all we need is us It's like one, two, three Just as easy as can be",
+      "valence": 3.08,
+      "arousal": 3.02,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "That all we need is us It's like one, two, three Just as easy as can be Just the way you look at me",
+      "valence": 3.14,
+      "arousal": 3.0,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "It's like one, two, three Just as easy as can be Just the way you look at me You make me smile",
+      "valence": 3.74,
+      "arousal": 3.34,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Just as easy as can be Just the way you look at me You make me smile Ain't no need to complicate it",
+      "valence": 3.6,
+      "arousal": 3.17,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Just the way you look at me You make me smile Ain't no need to complicate it We both know that's overrated",
+      "valence": 3.45,
+      "arousal": 3.36,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "You make me smile Ain't no need to complicate it We both know that's overrated We've been there, it's safe to say it ain't our style",
+      "valence": 3.23,
+      "arousal": 3.26,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Ain't no need to complicate it We both know that's overrated We've been there, it's safe to say it ain't our style We're just simple like a six string",
+      "valence": 2.88,
+      "arousal": 3.02,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "We both know that's overrated We've been there, it's safe to say it ain't our style We're just simple like a six string The way this world was meant to be",
+      "valence": 2.84,
+      "arousal": 3.12,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "We've been there, it's safe to say it ain't our style We're just simple like a six string The way this world was meant to be Like laughin' love, make a lot out of a little",
+      "valence": 3.51,
+      "arousal": 3.45,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "We're just simple like a six string The way this world was meant to be Like laughin' love, make a lot out of a little It's just that simple, S-I-M-P-L-E",
+      "valence": 3.62,
+      "arousal": 3.39,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "The way this world was meant to be Like laughin' love, make a lot out of a little It's just that simple, S-I-M-P-L-E Simple as can be",
+      "valence": 3.82,
+      "arousal": 3.59,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Like laughin' love, make a lot out of a little It's just that simple, S-I-M-P-L-E Simple as can be It's just that simple, S-I-M-P-L-E",
+      "valence": 3.91,
+      "arousal": 3.7,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "It's just that simple, S-I-M-P-L-E Simple as can be It's just that simple, S-I-M-P-L-E Simple as can be",
+      "valence": 3.18,
+      "arousal": 2.84,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Simple as can be It's just that simple, S-I-M-P-L-E Simple as can be Ain't no need to complicate it",
+      "valence": 3.11,
+      "arousal": 2.89,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "It's just that simple, S-I-M-P-L-E Simple as can be Ain't no need to complicate it We both know that's overrated",
+      "valence": 2.95,
+      "arousal": 3.01,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Simple as can be Ain't no need to complicate it We both know that's overrated We've been there, it's safe to say it ain't our style, yeah",
+      "valence": 2.77,
+      "arousal": 3.08,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Ain't no need to complicate it We both know that's overrated We've been there, it's safe to say it ain't our style, yeah It's like one, two, three",
+      "valence": 2.71,
+      "arousal": 3.17,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "We both know that's overrated We've been there, it's safe to say it ain't our style, yeah It's like one, two, three Just as easy as can be",
+      "valence": 2.79,
+      "arousal": 3.18,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "We've been there, it's safe to say it ain't our style, yeah It's like one, two, three Just as easy as can be Just the way you look at me",
+      "valence": 2.99,
+      "arousal": 3.07,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "It's like one, two, three Just as easy as can be Just the way you look at me You make me smile",
+      "valence": 3.74,
+      "arousal": 3.34,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Just as easy as can be Just the way you look at me You make me smile Ain't no need to complicate it",
+      "valence": 3.6,
+      "arousal": 3.17,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Just the way you look at me You make me smile Ain't no need to complicate it We both know that's overrated",
+      "valence": 3.45,
+      "arousal": 3.36,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "You make me smile Ain't no need to complicate it We both know that's overrated We've been there, it's safe to say it ain't our style",
+      "valence": 3.23,
+      "arousal": 3.26,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Ain't no need to complicate it We both know that's overrated We've been there, it's safe to say it ain't our style We're just simple like a six string",
+      "valence": 2.88,
+      "arousal": 3.02,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "We both know that's overrated We've been there, it's safe to say it ain't our style We're just simple like a six string The way this world was meant to be",
+      "valence": 2.84,
+      "arousal": 3.12,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "We've been there, it's safe to say it ain't our style We're just simple like a six string The way this world was meant to be Like laughin' love, make a lot out of a little",
+      "valence": 3.51,
+      "arousal": 3.45,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "We're just simple like a six string The way this world was meant to be Like laughin' love, make a lot out of a little It's just that simple, S-I-M-P-L-E",
+      "valence": 3.62,
+      "arousal": 3.39,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "The way this world was meant to be Like laughin' love, make a lot out of a little It's just that simple, S-I-M-P-L-E Simple as can be",
+      "valence": 3.82,
+      "arousal": 3.59,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Like laughin' love, make a lot out of a little It's just that simple, S-I-M-P-L-E Simple as can be It's just that simple, S-I-M-P-L-E",
+      "valence": 3.91,
+      "arousal": 3.7,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "It's just that simple, S-I-M-P-L-E Simple as can be It's just that simple, S-I-M-P-L-E Simple as can be",
+      "valence": 3.18,
+      "arousal": 2.84,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Simple as can be It's just that simple, S-I-M-P-L-E Simple as can be It's just that simple, S-I-M-P-L-E",
+      "valence": 3.2,
+      "arousal": 2.88,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "It's just that simple, S-I-M-P-L-E Simple as can be It's just that simple, S-I-M-P-L-E Simple as can be",
+      "valence": 3.18,
+      "arousal": 2.84,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Simple as can be It's just that simple, S-I-M-P-L-E Simple as can be It's just that simple, S-I-M-P-L-E",
+      "valence": 3.2,
+      "arousal": 2.88,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "It's just that simple, S-I-M-P-L-E Simple as can be It's just that simple, S-I-M-P-L-E Simple as can be",
+      "valence": 3.18,
+      "arousal": 2.84,
+      "dominance": 3.27
+    }
+  ]
+}

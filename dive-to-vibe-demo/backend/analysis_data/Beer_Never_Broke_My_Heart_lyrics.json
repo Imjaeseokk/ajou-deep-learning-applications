@@ -1,0 +1,234 @@
+{
+  "artist": "Luke Combs",
+  "overall_vad": {
+    "valence": 2.88,
+    "arousal": 3.48,
+    "dominance": 3.19
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I've had a largemouth, bass bust my line A couple of beautiful girls tell me goodbye Trucks break down, dogs run off Politicians lie, been fired by the boss",
+      "valence": 2.97,
+      "arousal": 3.63,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "A couple of beautiful girls tell me goodbye Trucks break down, dogs run off Politicians lie, been fired by the boss It takes one hand",
+      "valence": 2.74,
+      "arousal": 3.46,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Trucks break down, dogs run off Politicians lie, been fired by the boss It takes one hand To count the things I can count on",
+      "valence": 2.56,
+      "arousal": 3.38,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Politicians lie, been fired by the boss It takes one hand To count the things I can count on No, there ain't much man",
+      "valence": 2.48,
+      "arousal": 3.23,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "It takes one hand To count the things I can count on No, there ain't much man That ain't ever let me down",
+      "valence": 2.71,
+      "arousal": 3.13,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "To count the things I can count on No, there ain't much man That ain't ever let me down Longneck, ice cold beer never broke my heart",
+      "valence": 3.22,
+      "arousal": 3.18,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "No, there ain't much man That ain't ever let me down Longneck, ice cold beer never broke my heart Like diamond rings and football teams",
+      "valence": 3.0,
+      "arousal": 3.17,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "That ain't ever let me down Longneck, ice cold beer never broke my heart Like diamond rings and football teams Have torn this boy apart",
+      "valence": 2.52,
+      "arousal": 3.55,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Longneck, ice cold beer never broke my heart Like diamond rings and football teams Have torn this boy apart Like a neon dream it just dawned on me",
+      "valence": 2.57,
+      "arousal": 3.63,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Like diamond rings and football teams Have torn this boy apart Like a neon dream it just dawned on me The bars and this guitar",
+      "valence": 2.5,
+      "arousal": 3.57,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Have torn this boy apart Like a neon dream it just dawned on me The bars and this guitar And longneck, ice cold beer never broke my heart",
+      "valence": 2.84,
+      "arousal": 3.71,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Like a neon dream it just dawned on me The bars and this guitar And longneck, ice cold beer never broke my heart She was a Carolina blue jean baby",
+      "valence": 3.27,
+      "arousal": 3.54,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "The bars and this guitar And longneck, ice cold beer never broke my heart She was a Carolina blue jean baby Fire in her eyes that drove me crazy",
+      "valence": 3.26,
+      "arousal": 3.56,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "And longneck, ice cold beer never broke my heart She was a Carolina blue jean baby Fire in her eyes that drove me crazy It was red tail lights when she left town",
+      "valence": 2.92,
+      "arousal": 3.56,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "She was a Carolina blue jean baby Fire in her eyes that drove me crazy It was red tail lights when she left town If I didn't know then, I sure know now",
+      "valence": 2.93,
+      "arousal": 3.56,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Fire in her eyes that drove me crazy It was red tail lights when she left town If I didn't know then, I sure know now Longneck, ice cold beer never broke my heart",
+      "valence": 2.7,
+      "arousal": 3.54,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "It was red tail lights when she left town If I didn't know then, I sure know now Longneck, ice cold beer never broke my heart Like diamond rings and football teams",
+      "valence": 3.1,
+      "arousal": 3.25,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "If I didn't know then, I sure know now Longneck, ice cold beer never broke my heart Like diamond rings and football teams Have torn this boy apart",
+      "valence": 2.54,
+      "arousal": 3.57,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Longneck, ice cold beer never broke my heart Like diamond rings and football teams Have torn this boy apart Like a neon dream it just dawned on me",
+      "valence": 2.57,
+      "arousal": 3.63,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Like diamond rings and football teams Have torn this boy apart Like a neon dream it just dawned on me The bars and this guitar",
+      "valence": 2.5,
+      "arousal": 3.57,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Have torn this boy apart Like a neon dream it just dawned on me The bars and this guitar And longneck, ice cold beer never broke my heart",
+      "valence": 2.84,
+      "arousal": 3.71,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Like a neon dream it just dawned on me The bars and this guitar And longneck, ice cold beer never broke my heart It takes one hand",
+      "valence": 3.28,
+      "arousal": 3.56,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "The bars and this guitar And longneck, ice cold beer never broke my heart It takes one hand To count the things I can count on",
+      "valence": 3.67,
+      "arousal": 3.51,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "And longneck, ice cold beer never broke my heart It takes one hand To count the things I can count on But I got one hand",
+      "valence": 3.44,
+      "arousal": 3.43,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "It takes one hand To count the things I can count on But I got one hand It's gripping down on a cold one",
+      "valence": 3.02,
+      "arousal": 3.2,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "To count the things I can count on But I got one hand It's gripping down on a cold one 'Cause longneck, ice cold beer never broke my heart",
+      "valence": 3.23,
+      "arousal": 3.34,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "But I got one hand It's gripping down on a cold one 'Cause longneck, ice cold beer never broke my heart Like diamond rings and football teams",
+      "valence": 3.07,
+      "arousal": 3.39,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "It's gripping down on a cold one 'Cause longneck, ice cold beer never broke my heart Like diamond rings and football teams Have torn this boy apart",
+      "valence": 2.72,
+      "arousal": 3.55,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "'Cause longneck, ice cold beer never broke my heart Like diamond rings and football teams Have torn this boy apart Like a neon dream it just dawned on me",
+      "valence": 2.65,
+      "arousal": 3.61,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Like diamond rings and football teams Have torn this boy apart Like a neon dream it just dawned on me The bars and this guitar",
+      "valence": 2.5,
+      "arousal": 3.57,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Have torn this boy apart Like a neon dream it just dawned on me The bars and this guitar And longneck, ice cold beer never broke my heart, no",
+      "valence": 2.55,
+      "arousal": 3.66,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Like a neon dream it just dawned on me The bars and this guitar And longneck, ice cold beer never broke my heart, no It never broke my heart",
+      "valence": 3.21,
+      "arousal": 3.49,
+      "dominance": 3.08
+    }
+  ]
+}

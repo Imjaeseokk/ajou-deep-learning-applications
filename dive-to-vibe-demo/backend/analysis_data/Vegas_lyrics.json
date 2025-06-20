@@ -1,0 +1,465 @@
+{
+  "artist": "Doja Cat",
+  "overall_vad": {
+    "valence": 2.67,
+    "arousal": 3.43,
+    "dominance": 3.48
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Yeah, ah, get it Yeah, ah, get it Yeah, yeah, ah, get it Yeah, ah, get it",
+      "valence": 3.17,
+      "arousal": 3.5,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Yeah, ah, get it Yeah, yeah, ah, get it Yeah, ah, get it Yeah, ah, get it",
+      "valence": 3.18,
+      "arousal": 3.49,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Yeah, yeah, ah, get it Yeah, ah, get it Yeah, ah, get it Yeah",
+      "valence": 3.24,
+      "arousal": 3.51,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Yeah, ah, get it Yeah, ah, get it Yeah Dog, player, ah, get it",
+      "valence": 3.12,
+      "arousal": 3.48,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Yeah, ah, get it Yeah Dog, player, ah, get it Fraud, player, ah, get it",
+      "valence": 2.94,
+      "arousal": 3.43,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Yeah Dog, player, ah, get it Fraud, player, ah, get it I understand, I understand",
+      "valence": 2.88,
+      "arousal": 3.24,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Dog, player, ah, get it Fraud, player, ah, get it I understand, I understand You ain't the man, you ain't a man",
+      "valence": 2.49,
+      "arousal": 3.36,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Fraud, player, ah, get it I understand, I understand You ain't the man, you ain't a man (You ain't nothin' but a)",
+      "valence": 2.36,
+      "arousal": 3.29,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I understand, I understand You ain't the man, you ain't a man (You ain't nothin' but a) Hound dog, hound dog, hound dog",
+      "valence": 2.48,
+      "arousal": 3.28,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "You ain't the man, you ain't a man (You ain't nothin' but a) Hound dog, hound dog, hound dog (You ain't nothin' but a)",
+      "valence": 2.39,
+      "arousal": 3.29,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "(You ain't nothin' but a) Hound dog, hound dog, hound dog (You ain't nothin' but a) Player gettin' valeted around in that ho whip",
+      "valence": 2.67,
+      "arousal": 3.12,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Hound dog, hound dog, hound dog (You ain't nothin' but a) Player gettin' valeted around in that ho whip Two fingers up, one down with my toes ten",
+      "valence": 2.75,
+      "arousal": 3.25,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "(You ain't nothin' but a) Player gettin' valeted around in that ho whip Two fingers up, one down with my toes ten Flewed out with my boobs out, put a cork in it",
+      "valence": 2.79,
+      "arousal": 3.21,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Player gettin' valeted around in that ho whip Two fingers up, one down with my toes ten Flewed out with my boobs out, put a cork in it Love it when you be cryin' out when I'm corseted",
+      "valence": 3.48,
+      "arousal": 3.82,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Two fingers up, one down with my toes ten Flewed out with my boobs out, put a cork in it Love it when you be cryin' out when I'm corseted I don't think you gon' make it, do not let me start ragin'",
+      "valence": 3.17,
+      "arousal": 3.76,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Flewed out with my boobs out, put a cork in it Love it when you be cryin' out when I'm corseted I don't think you gon' make it, do not let me start ragin' I'm losin' my patience, this ain't stayin' in Vegas (you ain't nothin' but a)",
+      "valence": 3.04,
+      "arousal": 3.85,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Love it when you be cryin' out when I'm corseted I don't think you gon' make it, do not let me start ragin' I'm losin' my patience, this ain't stayin' in Vegas (you ain't nothin' but a) There's more sides to the story, I'ma tell everybody",
+      "valence": 2.88,
+      "arousal": 3.97,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I don't think you gon' make it, do not let me start ragin' I'm losin' my patience, this ain't stayin' in Vegas (you ain't nothin' but a) There's more sides to the story, I'ma tell everybody Had your ass sittin' courtside with your arm around me",
+      "valence": 2.23,
+      "arousal": 3.66,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I'm losin' my patience, this ain't stayin' in Vegas (you ain't nothin' but a) There's more sides to the story, I'ma tell everybody Had your ass sittin' courtside with your arm around me Had your ass sittin' first class with your burnt ass out in Abu Dhabi",
+      "valence": 2.32,
+      "arousal": 3.57,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "There's more sides to the story, I'ma tell everybody Had your ass sittin' courtside with your arm around me Had your ass sittin' first class with your burnt ass out in Abu Dhabi Could've been what we should've been, but you lost a bet, now you gotta find me",
+      "valence": 2.56,
+      "arousal": 3.63,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Had your ass sittin' courtside with your arm around me Had your ass sittin' first class with your burnt ass out in Abu Dhabi Could've been what we should've been, but you lost a bet, now you gotta find me Find a seat, I ain't playin' this hide and seek",
+      "valence": 2.33,
+      "arousal": 3.66,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Had your ass sittin' first class with your burnt ass out in Abu Dhabi Could've been what we should've been, but you lost a bet, now you gotta find me Find a seat, I ain't playin' this hide and seek High school when you finally peaked",
+      "valence": 2.23,
+      "arousal": 3.63,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Could've been what we should've been, but you lost a bet, now you gotta find me Find a seat, I ain't playin' this hide and seek High school when you finally peaked Hound dog, come find a treat",
+      "valence": 2.62,
+      "arousal": 3.58,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Find a seat, I ain't playin' this hide and seek High school when you finally peaked Hound dog, come find a treat I'm a bad bitch, but (you ain't nothin' but a)",
+      "valence": 2.06,
+      "arousal": 3.7,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "High school when you finally peaked Hound dog, come find a treat I'm a bad bitch, but (you ain't nothin' but a) Dog, player, ah, get it",
+      "valence": 2.34,
+      "arousal": 3.63,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Hound dog, come find a treat I'm a bad bitch, but (you ain't nothin' but a) Dog, player, ah, get it Fraud, player, ah, get it",
+      "valence": 2.1,
+      "arousal": 3.58,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I'm a bad bitch, but (you ain't nothin' but a) Dog, player, ah, get it Fraud, player, ah, get it I understand, I understand",
+      "valence": 1.99,
+      "arousal": 3.56,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Dog, player, ah, get it Fraud, player, ah, get it I understand, I understand You ain't the man, you ain't a man",
+      "valence": 2.49,
+      "arousal": 3.36,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Fraud, player, ah, get it I understand, I understand You ain't the man, you ain't a man (You ain't nothin' but a)",
+      "valence": 2.36,
+      "arousal": 3.29,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I understand, I understand You ain't the man, you ain't a man (You ain't nothin' but a) Hound dog, hound dog, hound dog",
+      "valence": 2.48,
+      "arousal": 3.28,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "You ain't the man, you ain't a man (You ain't nothin' but a) Hound dog, hound dog, hound dog Yeah, yeah, said (you ain't nothin' but a)",
+      "valence": 2.44,
+      "arousal": 3.33,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "(You ain't nothin' but a) Hound dog, hound dog, hound dog Yeah, yeah, said (you ain't nothin' but a) I get it, I know you got some other- you wanted",
+      "valence": 2.71,
+      "arousal": 3.32,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Hound dog, hound dog, hound dog Yeah, yeah, said (you ain't nothin' but a) I get it, I know you got some other- you wanted I get it, you needed someone that could prove you wrong",
+      "valence": 2.88,
+      "arousal": 3.44,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Yeah, yeah, said (you ain't nothin' but a) I get it, I know you got some other- you wanted I get it, you needed someone that could prove you wrong So I reckon, you leave all of your problems at the door",
+      "valence": 2.8,
+      "arousal": 3.34,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I get it, I know you got some other- you wanted I get it, you needed someone that could prove you wrong So I reckon, you leave all of your problems at the door To my city, you gon' need to tell my brothers where you from",
+      "valence": 2.72,
+      "arousal": 3.47,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I get it, you needed someone that could prove you wrong So I reckon, you leave all of your problems at the door To my city, you gon' need to tell my brothers where you from And I admit it, I still got empathy",
+      "valence": 2.73,
+      "arousal": 3.48,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "So I reckon, you leave all of your problems at the door To my city, you gon' need to tell my brothers where you from And I admit it, I still got empathy And you gon' feel it for two weeks",
+      "valence": 2.51,
+      "arousal": 3.45,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "To my city, you gon' need to tell my brothers where you from And I admit it, I still got empathy And you gon' feel it for two weeks When I release you in them streets (you ain't nothin' but a)",
+      "valence": 2.93,
+      "arousal": 3.58,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "And I admit it, I still got empathy And you gon' feel it for two weeks When I release you in them streets (you ain't nothin' but a) And keep my nina in discrete, keep the clean in my Jeep",
+      "valence": 2.9,
+      "arousal": 3.43,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "And you gon' feel it for two weeks When I release you in them streets (you ain't nothin' but a) And keep my nina in discrete, keep the clean in my Jeep And put that Yeezy in your teeth, let my demons off they leashes",
+      "valence": 2.47,
+      "arousal": 3.42,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "When I release you in them streets (you ain't nothin' but a) And keep my nina in discrete, keep the clean in my Jeep And put that Yeezy in your teeth, let my demons off they leashes If you even think to speak I'ma give a whole new meaning",
+      "valence": 2.43,
+      "arousal": 3.41,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "And keep my nina in discrete, keep the clean in my Jeep And put that Yeezy in your teeth, let my demons off they leashes If you even think to speak I'ma give a whole new meaning When you said you live in a dream, we can keep that- asleep",
+      "valence": 2.66,
+      "arousal": 3.27,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "And put that Yeezy in your teeth, let my demons off they leashes If you even think to speak I'ma give a whole new meaning When you said you live in a dream, we can keep that- asleep And you gon' laugh with all your G's",
+      "valence": 2.73,
+      "arousal": 3.58,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "If you even think to speak I'ma give a whole new meaning When you said you live in a dream, we can keep that- asleep And you gon' laugh with all your G's Countin' them sheep, sheep, sheep, sheep",
+      "valence": 3.03,
+      "arousal": 3.35,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "When you said you live in a dream, we can keep that- asleep And you gon' laugh with all your G's Countin' them sheep, sheep, sheep, sheep Talkin' 'bout Z-Z-Z-Z-Z-Z-Z, R-I-P (you ain't nothin' but a)",
+      "valence": 3.09,
+      "arousal": 3.24,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "And you gon' laugh with all your G's Countin' them sheep, sheep, sheep, sheep Talkin' 'bout Z-Z-Z-Z-Z-Z-Z, R-I-P (you ain't nothin' but a) Dog, player, ah, get it",
+      "valence": 3.22,
+      "arousal": 3.42,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Countin' them sheep, sheep, sheep, sheep Talkin' 'bout Z-Z-Z-Z-Z-Z-Z, R-I-P (you ain't nothin' but a) Dog, player, ah, get it Fraud, player, ah, get it",
+      "valence": 2.82,
+      "arousal": 3.23,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Talkin' 'bout Z-Z-Z-Z-Z-Z-Z, R-I-P (you ain't nothin' but a) Dog, player, ah, get it Fraud, player, ah, get it I understand, I understand",
+      "valence": 2.78,
+      "arousal": 3.31,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Dog, player, ah, get it Fraud, player, ah, get it I understand, I understand You ain't the man, you ain't a man",
+      "valence": 2.49,
+      "arousal": 3.36,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Fraud, player, ah, get it I understand, I understand You ain't the man, you ain't a man (You ain't nothin' but a)",
+      "valence": 2.36,
+      "arousal": 3.29,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I understand, I understand You ain't the man, you ain't a man (You ain't nothin' but a) Hound dog, hound dog, hound dog",
+      "valence": 2.48,
+      "arousal": 3.28,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "You ain't the man, you ain't a man (You ain't nothin' but a) Hound dog, hound dog, hound dog (You ain't nothin' but a)",
+      "valence": 2.39,
+      "arousal": 3.29,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "(You ain't nothin' but a) Hound dog, hound dog, hound dog (You ain't nothin' but a) Dog, player, ah, get it",
+      "valence": 2.65,
+      "arousal": 3.26,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Hound dog, hound dog, hound dog (You ain't nothin' but a) Dog, player, ah, get it Fraud, player, ah, get it",
+      "valence": 2.42,
+      "arousal": 3.4,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "(You ain't nothin' but a) Dog, player, ah, get it Fraud, player, ah, get it I understand, I understand",
+      "valence": 2.51,
+      "arousal": 3.27,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Dog, player, ah, get it Fraud, player, ah, get it I understand, I understand You ain't the man, you ain't a man",
+      "valence": 2.49,
+      "arousal": 3.36,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Fraud, player, ah, get it I understand, I understand You ain't the man, you ain't a man (You ain't nothin' but a)",
+      "valence": 2.36,
+      "arousal": 3.29,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "I understand, I understand You ain't the man, you ain't a man (You ain't nothin' but a) Hound dog, hound dog, hound dog",
+      "valence": 2.48,
+      "arousal": 3.28,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "You ain't the man, you ain't a man (You ain't nothin' but a) Hound dog, hound dog, hound dog you ain't nothin' but a",
+      "valence": 2.35,
+      "arousal": 3.31,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "(You ain't nothin' but a) Hound dog, hound dog, hound dog you ain't nothin' but a Yeah, ah, get it",
+      "valence": 2.53,
+      "arousal": 3.35,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Hound dog, hound dog, hound dog you ain't nothin' but a Yeah, ah, get it Yeah, ah, get it",
+      "valence": 2.48,
+      "arousal": 3.54,
+      "dominance": 3.74
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "you ain't nothin' but a Yeah, ah, get it Yeah, ah, get it Yeah, yeah, ah, get it",
+      "valence": 2.87,
+      "arousal": 3.47,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Yeah, ah, get it Yeah, ah, get it Yeah, yeah, ah, get it Yeah, ah, get it",
+      "valence": 3.17,
+      "arousal": 3.5,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Yeah, ah, get it Yeah, yeah, ah, get it Yeah, ah, get it Yeah, yeah, ah, get it",
+      "valence": 3.21,
+      "arousal": 3.51,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Yeah, yeah, ah, get it Yeah, ah, get it Yeah, yeah, ah, get it Yeah, you ain't nothin' but a",
+      "valence": 3.06,
+      "arousal": 3.42,
+      "dominance": 3.54
+    }
+  ]
+}

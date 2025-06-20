@@ -1,0 +1,423 @@
+{
+  "artist": "YoungBoy Never Broke Again",
+  "overall_vad": {
+    "valence": 2.35,
+    "arousal": 3.61,
+    "dominance": 3.46
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I ain't no bad person, no Ayy I ain't no gangster, I ain't no killer I ain't no gangbanger, I'm me Like everybody make mistakes, that's life",
+      "valence": 2.85,
+      "arousal": 3.1,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Ayy I ain't no gangster, I ain't no killer I ain't no gangbanger, I'm me Like everybody make mistakes, that's life Name one fuckin' person who ain't make mistakes, you feel me?",
+      "valence": 2.71,
+      "arousal": 3.21,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I ain't no gangbanger, I'm me Like everybody make mistakes, that's life Name one fuckin' person who ain't make mistakes, you feel me? Man like we, I don't know what to say",
+      "valence": 2.56,
+      "arousal": 3.28,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Like everybody make mistakes, that's life Name one fuckin' person who ain't make mistakes, you feel me? Man like we, I don't know what to say I don't know if I'm targeted",
+      "valence": 2.39,
+      "arousal": 3.45,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Name one fuckin' person who ain't make mistakes, you feel me? Man like we, I don't know what to say I don't know if I'm targeted I don't know if it's from what I speak about, like I don't know",
+      "valence": 2.42,
+      "arousal": 3.55,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Man like we, I don't know what to say I don't know if I'm targeted I don't know if it's from what I speak about, like I don't know I just know shit, until I'm dead I'ma be me",
+      "valence": 2.38,
+      "arousal": 3.4,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I don't know if I'm targeted I don't know if it's from what I speak about, like I don't know I just know shit, until I'm dead I'ma be me Yeah, yeah",
+      "valence": 2.47,
+      "arousal": 3.4,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I don't know if it's from what I speak about, like I don't know I just know shit, until I'm dead I'ma be me Yeah, yeah And they ain't never seen this shit before",
+      "valence": 2.53,
+      "arousal": 3.42,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I just know shit, until I'm dead I'ma be me Yeah, yeah And they ain't never seen this shit before Ooh, BigHead on the beat",
+      "valence": 2.44,
+      "arousal": 3.59,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Yeah, yeah And they ain't never seen this shit before Ooh, BigHead on the beat Young nigga shit",
+      "valence": 2.89,
+      "arousal": 3.66,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "And they ain't never seen this shit before Ooh, BigHead on the beat Young nigga shit Bitch, gang, gang, gang, gang, hrrr",
+      "valence": 2.39,
+      "arousal": 3.75,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Ooh, BigHead on the beat Young nigga shit Bitch, gang, gang, gang, gang, hrrr 38 Baby",
+      "valence": 2.3,
+      "arousal": 3.74,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Young nigga shit Bitch, gang, gang, gang, gang, hrrr 38 Baby Without no coat I was walkin' and meditatin' in the rain",
+      "valence": 1.97,
+      "arousal": 3.65,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Bitch, gang, gang, gang, gang, hrrr 38 Baby Without no coat I was walkin' and meditatin' in the rain Reminiscing about bein' in prison, I was locked in them chains",
+      "valence": 2.04,
+      "arousal": 3.56,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "38 Baby Without no coat I was walkin' and meditatin' in the rain Reminiscing about bein' in prison, I was locked in them chains Without no drugs I was workin' and stimulatin' my brain",
+      "valence": 2.48,
+      "arousal": 3.17,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Without no coat I was walkin' and meditatin' in the rain Reminiscing about bein' in prison, I was locked in them chains Without no drugs I was workin' and stimulatin' my brain I ain't gotta act how I was actin', everything done changed",
+      "valence": 2.49,
+      "arousal": 3.29,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Reminiscing about bein' in prison, I was locked in them chains Without no drugs I was workin' and stimulatin' my brain I ain't gotta act how I was actin', everything done changed I was missing out on plenty shit, just watchin' time fly past",
+      "valence": 2.34,
+      "arousal": 3.37,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Without no drugs I was workin' and stimulatin' my brain I ain't gotta act how I was actin', everything done changed I was missing out on plenty shit, just watchin' time fly past I was broke, down on my dick, I had to get me a bag",
+      "valence": 2.36,
+      "arousal": 3.65,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I ain't gotta act how I was actin', everything done changed I was missing out on plenty shit, just watchin' time fly past I was broke, down on my dick, I had to get me a bag Havin' shootouts broad day and we runnin' from task",
+      "valence": 2.34,
+      "arousal": 3.68,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I was missing out on plenty shit, just watchin' time fly past I was broke, down on my dick, I had to get me a bag Havin' shootouts broad day and we runnin' from task I put my flex down, never sit down, I told that bitch I'll never stand down",
+      "valence": 2.1,
+      "arousal": 3.79,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I was broke, down on my dick, I had to get me a bag Havin' shootouts broad day and we runnin' from task I put my flex down, never sit down, I told that bitch I'll never stand down Creepin' on your block with a hundred rounds",
+      "valence": 2.18,
+      "arousal": 3.95,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Havin' shootouts broad day and we runnin' from task I put my flex down, never sit down, I told that bitch I'll never stand down Creepin' on your block with a hundred rounds Go to shoot and try to run",
+      "valence": 2.3,
+      "arousal": 3.66,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I put my flex down, never sit down, I told that bitch I'll never stand down Creepin' on your block with a hundred rounds Go to shoot and try to run Hop out the whip and we gon' run you down",
+      "valence": 2.08,
+      "arousal": 3.7,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Creepin' on your block with a hundred rounds Go to shoot and try to run Hop out the whip and we gon' run you down Shoot him dead up his head, knock off his dreads",
+      "valence": 2.43,
+      "arousal": 3.53,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Go to shoot and try to run Hop out the whip and we gon' run you down Shoot him dead up his head, knock off his dreads Now he can't make a sound",
+      "valence": 2.46,
+      "arousal": 3.49,
+      "dominance": 3.74
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Hop out the whip and we gon' run you down Shoot him dead up his head, knock off his dreads Now he can't make a sound Kill him where he stand, we live by law and we gon' lay it down",
+      "valence": 2.57,
+      "arousal": 3.47,
+      "dominance": 3.85
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Shoot him dead up his head, knock off his dreads Now he can't make a sound Kill him where he stand, we live by law and we gon' lay it down Tell me he want smoke, 187, that's that same shit",
+      "valence": 2.19,
+      "arousal": 3.69,
+      "dominance": 3.75
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Now he can't make a sound Kill him where he stand, we live by law and we gon' lay it down Tell me he want smoke, 187, that's that same shit .357 send you to heaven, knock out your brain quick",
+      "valence": 2.09,
+      "arousal": 3.79,
+      "dominance": 3.75
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Kill him where he stand, we live by law and we gon' lay it down Tell me he want smoke, 187, that's that same shit .357 send you to heaven, knock out your brain quick Sippin' on this drank, RIP Fredo, this that bang shit",
+      "valence": 2.1,
+      "arousal": 3.77,
+      "dominance": 3.74
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Tell me he want smoke, 187, that's that same shit .357 send you to heaven, knock out your brain quick Sippin' on this drank, RIP Fredo, this that bang shit Doin' the same thing, time pass, got a bitch with a fat ass",
+      "valence": 2.02,
+      "arousal": 3.7,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": ".357 send you to heaven, knock out your brain quick Sippin' on this drank, RIP Fredo, this that bang shit Doin' the same thing, time pass, got a bitch with a fat ass I told her turn around and bust it open",
+      "valence": 2.24,
+      "arousal": 3.77,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Sippin' on this drank, RIP Fredo, this that bang shit Doin' the same thing, time pass, got a bitch with a fat ass I told her turn around and bust it open That Soulja Slim, that C Murder, come in the tank just like No Limit soldier",
+      "valence": 2.4,
+      "arousal": 3.58,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Doin' the same thing, time pass, got a bitch with a fat ass I told her turn around and bust it open That Soulja Slim, that C Murder, come in the tank just like No Limit soldier I'm poppin' X so I'm steady rollin'",
+      "valence": 2.6,
+      "arousal": 3.54,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I told her turn around and bust it open That Soulja Slim, that C Murder, come in the tank just like No Limit soldier I'm poppin' X so I'm steady rollin' Say he a gangster, got his chest out",
+      "valence": 2.78,
+      "arousal": 3.49,
+      "dominance": 3.75
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "That Soulja Slim, that C Murder, come in the tank just like No Limit soldier I'm poppin' X so I'm steady rollin' Say he a gangster, got his chest out When I hit him with this Glock I bet I fold him",
+      "valence": 2.66,
+      "arousal": 3.47,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I'm poppin' X so I'm steady rollin' Say he a gangster, got his chest out When I hit him with this Glock I bet I fold him None of these niggas ain't never play with me",
+      "valence": 2.54,
+      "arousal": 3.42,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Say he a gangster, got his chest out When I hit him with this Glock I bet I fold him None of these niggas ain't never play with me Play with me, I bet you see",
+      "valence": 2.43,
+      "arousal": 3.37,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "When I hit him with this Glock I bet I fold him None of these niggas ain't never play with me Play with me, I bet you see Fuck that Twitter beefin', you want beef, I pull up where you sleep",
+      "valence": 2.37,
+      "arousal": 3.49,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "None of these niggas ain't never play with me Play with me, I bet you see Fuck that Twitter beefin', you want beef, I pull up where you sleep Bitch I'm out the North, 38 Baby, I come from the streets",
+      "valence": 2.14,
+      "arousal": 3.66,
+      "dominance": 3.84
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Play with me, I bet you see Fuck that Twitter beefin', you want beef, I pull up where you sleep Bitch I'm out the North, 38 Baby, I come from the streets Two clips on that chopper for to stretch you when we fuckin' meet",
+      "valence": 2.47,
+      "arousal": 3.79,
+      "dominance": 3.86
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Fuck that Twitter beefin', you want beef, I pull up where you sleep Bitch I'm out the North, 38 Baby, I come from the streets Two clips on that chopper for to stretch you when we fuckin' meet Got 'em all boxed in at the location, the police movin' in",
+      "valence": 2.4,
+      "arousal": 3.86,
+      "dominance": 3.84
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Bitch I'm out the North, 38 Baby, I come from the streets Two clips on that chopper for to stretch you when we fuckin' meet Got 'em all boxed in at the location, the police movin' in People tryna catch me with a pistol just to turn me in",
+      "valence": 2.5,
+      "arousal": 3.72,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Two clips on that chopper for to stretch you when we fuckin' meet Got 'em all boxed in at the location, the police movin' in People tryna catch me with a pistol just to turn me in Same shit you did to go to jail, don't do that shit again",
+      "valence": 2.24,
+      "arousal": 3.76,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Got 'em all boxed in at the location, the police movin' in People tryna catch me with a pistol just to turn me in Same shit you did to go to jail, don't do that shit again Bitch I'm screamin' fuck you, never change, thuggin' to the end",
+      "valence": 1.9,
+      "arousal": 4.03,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "People tryna catch me with a pistol just to turn me in Same shit you did to go to jail, don't do that shit again Bitch I'm screamin' fuck you, never change, thuggin' to the end I got a question, tell me what these niggas hatin' for?",
+      "valence": 1.79,
+      "arousal": 4.01,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Same shit you did to go to jail, don't do that shit again Bitch I'm screamin' fuck you, never change, thuggin' to the end I got a question, tell me what these niggas hatin' for? Why they steady sayin' the gon' snatch my chain though?",
+      "valence": 1.78,
+      "arousal": 3.99,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Bitch I'm screamin' fuck you, never change, thuggin' to the end I got a question, tell me what these niggas hatin' for? Why they steady sayin' the gon' snatch my chain though? You want to rap, how you gon' think without a brain though?",
+      "valence": 1.83,
+      "arousal": 4.06,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I got a question, tell me what these niggas hatin' for? Why they steady sayin' the gon' snatch my chain though? You want to rap, how you gon' think without a brain though? Take gunpowder out a bullet, put some crack, now this that 'caine flow",
+      "valence": 2.51,
+      "arousal": 3.5,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Why they steady sayin' the gon' snatch my chain though? You want to rap, how you gon' think without a brain though? Take gunpowder out a bullet, put some crack, now this that 'caine flow I'ma hit 'em with this bitch and watch 'em overdose (shoot 'em up yeah, yeah)",
+      "valence": 2.42,
+      "arousal": 3.75,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "You want to rap, how you gon' think without a brain though? Take gunpowder out a bullet, put some crack, now this that 'caine flow I'ma hit 'em with this bitch and watch 'em overdose (shoot 'em up yeah, yeah) I'ma hit 'em with this bitch and watch 'em overdose (fill 'em up yeah, yeah)",
+      "valence": 2.55,
+      "arousal": 3.56,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Take gunpowder out a bullet, put some crack, now this that 'caine flow I'ma hit 'em with this bitch and watch 'em overdose (shoot 'em up yeah, yeah) I'ma hit 'em with this bitch and watch 'em overdose (fill 'em up yeah, yeah) Overdose, I kill 'em slow",
+      "valence": 2.36,
+      "arousal": 3.67,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "I'ma hit 'em with this bitch and watch 'em overdose (shoot 'em up yeah, yeah) I'ma hit 'em with this bitch and watch 'em overdose (fill 'em up yeah, yeah) Overdose, I kill 'em slow What's the 4-1-1, they know I be, I be 'bout whatever",
+      "valence": 2.36,
+      "arousal": 3.78,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "I'ma hit 'em with this bitch and watch 'em overdose (fill 'em up yeah, yeah) Overdose, I kill 'em slow What's the 4-1-1, they know I be, I be 'bout whatever You ain't got no bodies, you ain't 'bout it, boy you are not a stepper",
+      "valence": 2.34,
+      "arousal": 3.78,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Overdose, I kill 'em slow What's the 4-1-1, they know I be, I be 'bout whatever You ain't got no bodies, you ain't 'bout it, boy you are not a stepper You play with me, bitch ain't no hidin', ain't nobody can help you",
+      "valence": 2.41,
+      "arousal": 3.51,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "What's the 4-1-1, they know I be, I be 'bout whatever You ain't got no bodies, you ain't 'bout it, boy you are not a stepper You play with me, bitch ain't no hidin', ain't nobody can help you Send your ass to the devil, in envelope like a letter",
+      "valence": 2.34,
+      "arousal": 3.55,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "You ain't got no bodies, you ain't 'bout it, boy you are not a stepper You play with me, bitch ain't no hidin', ain't nobody can help you Send your ass to the devil, in envelope like a letter Got an FN with a clip with different colors up in it",
+      "valence": 2.3,
+      "arousal": 3.57,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "You play with me, bitch ain't no hidin', ain't nobody can help you Send your ass to the devil, in envelope like a letter Got an FN with a clip with different colors up in it It's all brass like a penny, only see fire when I spit it",
+      "valence": 2.26,
+      "arousal": 3.61,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Send your ass to the devil, in envelope like a letter Got an FN with a clip with different colors up in it It's all brass like a penny, only see fire when I spit it I ain't shoot this bitch in a minute, a nigga play, he can get it",
+      "valence": 2.3,
+      "arousal": 3.64,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Got an FN with a clip with different colors up in it It's all brass like a penny, only see fire when I spit it I ain't shoot this bitch in a minute, a nigga play, he can get it Double G, that stand for gang, you niggas know how we livin'",
+      "valence": 2.49,
+      "arousal": 3.44,
+      "dominance": 3.42
+    }
+  ]
+}

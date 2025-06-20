@@ -1,0 +1,479 @@
+{
+  "artist": "Drake Featuring 21 Savage",
+  "overall_vad": {
+    "valence": 2.73,
+    "arousal": 3.58,
+    "dominance": 3.4
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Just awaken shaken once again, so you know it's on (Just awaken shaken once again, ho, you know it's on) Just awaken shaken once again, so you know it's on (Just awaken shaken once again, ho, you know it's on)",
+      "valence": 2.89,
+      "arousal": 3.23,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "(Just awaken shaken once again, ho, you know it's on) Just awaken shaken once again, so you know it's on (Just awaken shaken once again, ho, you know it's on) Yeah, life",
+      "valence": 2.98,
+      "arousal": 3.24,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Just awaken shaken once again, so you know it's on (Just awaken shaken once again, ho, you know it's on) Yeah, life Life is only thing we need",
+      "valence": 2.89,
+      "arousal": 3.26,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "(Just awaken shaken once again, ho, you know it's on) Yeah, life Life is only thing we need They need me to go, but I don't wanna leave",
+      "valence": 2.65,
+      "arousal": 3.35,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Yeah, life Life is only thing we need They need me to go, but I don't wanna leave Rest in peace to Lil Keed",
+      "valence": 2.58,
+      "arousal": 3.24,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Life is only thing we need They need me to go, but I don't wanna leave Rest in peace to Lil Keed Fuck a pigeonhole, I'm a night owl, this a different mode",
+      "valence": 2.27,
+      "arousal": 3.62,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "They need me to go, but I don't wanna leave Rest in peace to Lil Keed Fuck a pigeonhole, I'm a night owl, this a different mode I might have to make her paint a 6 on her pinky toe",
+      "valence": 2.27,
+      "arousal": 3.7,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Rest in peace to Lil Keed Fuck a pigeonhole, I'm a night owl, this a different mode I might have to make her paint a 6 on her pinky toe Heard you with a shooting guard, just let a nigga know",
+      "valence": 2.5,
+      "arousal": 3.64,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Fuck a pigeonhole, I'm a night owl, this a different mode I might have to make her paint a 6 on her pinky toe Heard you with a shooting guard, just let a nigga know I would have you courtside, not the middle row",
+      "valence": 2.42,
+      "arousal": 3.69,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I might have to make her paint a 6 on her pinky toe Heard you with a shooting guard, just let a nigga know I would have you courtside, not the middle row All good, love, in a minute, though",
+      "valence": 3.25,
+      "arousal": 3.66,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Heard you with a shooting guard, just let a nigga know I would have you courtside, not the middle row All good, love, in a minute, though I can't stress about no bitch 'cause I'm a timid soul",
+      "valence": 3.06,
+      "arousal": 3.54,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I would have you courtside, not the middle row All good, love, in a minute, though I can't stress about no bitch 'cause I'm a timid soul Plus I'm cookin' up ambition on a kitchen stove",
+      "valence": 3.21,
+      "arousal": 3.66,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "All good, love, in a minute, though I can't stress about no bitch 'cause I'm a timid soul Plus I'm cookin' up ambition on a kitchen stove Pot start to bubble, see the suds, that shit good to go",
+      "valence": 3.58,
+      "arousal": 3.63,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I can't stress about no bitch 'cause I'm a timid soul Plus I'm cookin' up ambition on a kitchen stove Pot start to bubble, see the suds, that shit good to go Hoes say I'm suave, but I can't get RICO'd",
+      "valence": 2.38,
+      "arousal": 3.48,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Plus I'm cookin' up ambition on a kitchen stove Pot start to bubble, see the suds, that shit good to go Hoes say I'm suave, but I can't get RICO'd Bro think he John Wayne, I bought him yellow stones",
+      "valence": 2.88,
+      "arousal": 3.43,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Pot start to bubble, see the suds, that shit good to go Hoes say I'm suave, but I can't get RICO'd Bro think he John Wayne, I bought him yellow stones Love the way they hang, babe, fuck the silicone",
+      "valence": 2.99,
+      "arousal": 3.89,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Hoes say I'm suave, but I can't get RICO'd Bro think he John Wayne, I bought him yellow stones Love the way they hang, babe, fuck the silicone Everybody fake now, you could crack the code",
+      "valence": 2.94,
+      "arousal": 3.77,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Bro think he John Wayne, I bought him yellow stones Love the way they hang, babe, fuck the silicone Everybody fake now, you could crack the code Bust down everything, set in rose gold",
+      "valence": 3.5,
+      "arousal": 3.86,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Love the way they hang, babe, fuck the silicone Everybody fake now, you could crack the code Bust down everything, set in rose gold Dread talkin' to you niggas like I'm J. Cole",
+      "valence": 3.51,
+      "arousal": 3.95,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Everybody fake now, you could crack the code Bust down everything, set in rose gold Dread talkin' to you niggas like I'm J. Cole I can tell her head good before I even know",
+      "valence": 2.66,
+      "arousal": 3.47,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Bust down everything, set in rose gold Dread talkin' to you niggas like I'm J. Cole I can tell her head good before I even know Bitch, don't tell me that you model if you ain't been in Vogue",
+      "valence": 2.49,
+      "arousal": 3.65,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Dread talkin' to you niggas like I'm J. Cole I can tell her head good before I even know Bitch, don't tell me that you model if you ain't been in Vogue Gotta throw a party for my day ones",
+      "valence": 2.57,
+      "arousal": 3.64,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I can tell her head good before I even know Bitch, don't tell me that you model if you ain't been in Vogue Gotta throw a party for my day ones They ain't in the studio, but they'll lay somethin'",
+      "valence": 2.65,
+      "arousal": 3.53,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Bitch, don't tell me that you model if you ain't been in Vogue Gotta throw a party for my day ones They ain't in the studio, but they'll lay somethin' Rest in peace to Drama King, we was straight stuntin'",
+      "valence": 2.62,
+      "arousal": 3.61,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Gotta throw a party for my day ones They ain't in the studio, but they'll lay somethin' Rest in peace to Drama King, we was straight stuntin' You don't like the way I talk? Nigga say somethin'",
+      "valence": 2.95,
+      "arousal": 3.53,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "They ain't in the studio, but they'll lay somethin' Rest in peace to Drama King, we was straight stuntin' You don't like the way I talk? Nigga say somethin' Gotta throw a party for my day ones",
+      "valence": 2.77,
+      "arousal": 3.39,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Rest in peace to Drama King, we was straight stuntin' You don't like the way I talk? Nigga say somethin' Gotta throw a party for my day ones Pull up, and you know it's us, the bass jumpin'",
+      "valence": 2.98,
+      "arousal": 3.54,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "You don't like the way I talk? Nigga say somethin' Gotta throw a party for my day ones Pull up, and you know it's us, the bass jumpin' You don't like the way I talk? Then say somethin'",
+      "valence": 2.44,
+      "arousal": 3.46,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Gotta throw a party for my day ones Pull up, and you know it's us, the bass jumpin' You don't like the way I talk? Then say somethin' Get out my face, nigga",
+      "valence": 2.64,
+      "arousal": 3.77,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Pull up, and you know it's us, the bass jumpin' You don't like the way I talk? Then say somethin' Get out my face, nigga Gotta throw a party for my day ones",
+      "valence": 2.61,
+      "arousal": 3.74,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "You don't like the way I talk? Then say somethin' Get out my face, nigga Gotta throw a party for my day ones They ain't in the studio, but they'll lay somethin'",
+      "valence": 2.3,
+      "arousal": 3.72,
+      "dominance": 3.79
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Get out my face, nigga Gotta throw a party for my day ones They ain't in the studio, but they'll lay somethin' Rest in peace to Drama King, we was straight stuntin'",
+      "valence": 2.64,
+      "arousal": 3.84,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Gotta throw a party for my day ones They ain't in the studio, but they'll lay somethin' Rest in peace to Drama King, we was straight stuntin' If I let my nigga 21 tell it, you a pussy",
+      "valence": 2.67,
+      "arousal": 3.7,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "They ain't in the studio, but they'll lay somethin' Rest in peace to Drama King, we was straight stuntin' If I let my nigga 21 tell it, you a pussy Spin a block twice like it ain't nowhere to park (21)",
+      "valence": 2.5,
+      "arousal": 3.49,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Rest in peace to Drama King, we was straight stuntin' If I let my nigga 21 tell it, you a pussy Spin a block twice like it ain't nowhere to park (21) Smack the backside of his head like he Bart (pussy)",
+      "valence": 2.5,
+      "arousal": 3.67,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "If I let my nigga 21 tell it, you a pussy Spin a block twice like it ain't nowhere to park (21) Smack the backside of his head like he Bart (pussy) OVO 4L, we come out when it get dark (21, 21)",
+      "valence": 2.35,
+      "arousal": 3.58,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Spin a block twice like it ain't nowhere to park (21) Smack the backside of his head like he Bart (pussy) OVO 4L, we come out when it get dark (21, 21) Big stepper, he came in a Rolls, but he left in a stretcher (21)",
+      "valence": 2.73,
+      "arousal": 3.43,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Smack the backside of his head like he Bart (pussy) OVO 4L, we come out when it get dark (21, 21) Big stepper, he came in a Rolls, but he left in a stretcher (21) Let my brother drive while I shoot, team effort (21)",
+      "valence": 2.9,
+      "arousal": 3.39,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "OVO 4L, we come out when it get dark (21, 21) Big stepper, he came in a Rolls, but he left in a stretcher (21) Let my brother drive while I shoot, team effort (21) Askin' all these questions, bitch, you must think you Nadeska",
+      "valence": 2.74,
+      "arousal": 3.54,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Big stepper, he came in a Rolls, but he left in a stretcher (21) Let my brother drive while I shoot, team effort (21) Askin' all these questions, bitch, you must think you Nadeska The chopper like to feel on all the opps, it's a molester (21)",
+      "valence": 2.4,
+      "arousal": 3.6,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Let my brother drive while I shoot, team effort (21) Askin' all these questions, bitch, you must think you Nadeska The chopper like to feel on all the opps, it's a molester (21) I be with my gun like Rozay be with lemon pepper",
+      "valence": 2.46,
+      "arousal": 3.57,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Askin' all these questions, bitch, you must think you Nadeska The chopper like to feel on all the opps, it's a molester (21) I be with my gun like Rozay be with lemon pepper She wanna hear some Afrobeats 'cause she just popped a Tesla",
+      "valence": 2.2,
+      "arousal": 3.66,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "The chopper like to feel on all the opps, it's a molester (21) I be with my gun like Rozay be with lemon pepper She wanna hear some Afrobeats 'cause she just popped a Tesla All that workin' out, that nigga must think he a wrestler",
+      "valence": 2.29,
+      "arousal": 3.46,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I be with my gun like Rozay be with lemon pepper She wanna hear some Afrobeats 'cause she just popped a Tesla All that workin' out, that nigga must think he a wrestler But this ain't UFC, this chopper came with a compressor (21)",
+      "valence": 2.78,
+      "arousal": 3.38,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "She wanna hear some Afrobeats 'cause she just popped a Tesla All that workin' out, that nigga must think he a wrestler But this ain't UFC, this chopper came with a compressor (21) This chopper came with a compressor (pussy)",
+      "valence": 2.75,
+      "arousal": 3.4,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "All that workin' out, that nigga must think he a wrestler But this ain't UFC, this chopper came with a compressor (21) This chopper came with a compressor (pussy) His chopper came with a- (pussy)",
+      "valence": 2.81,
+      "arousal": 3.3,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "But this ain't UFC, this chopper came with a compressor (21) This chopper came with a compressor (pussy) His chopper came with a- (pussy) This Glock .45 came with a switch (21)",
+      "valence": 2.92,
+      "arousal": 3.17,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "This chopper came with a compressor (pussy) His chopper came with a- (pussy) This Glock .45 came with a switch (21) If I was Will Smith, I would've slapped him with a stick",
+      "valence": 2.86,
+      "arousal": 3.35,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "His chopper came with a- (pussy) This Glock .45 came with a switch (21) If I was Will Smith, I would've slapped him with a stick Put your hands in the air, it's a stick-up (21)",
+      "valence": 2.71,
+      "arousal": 3.53,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "This Glock .45 came with a switch (21) If I was Will Smith, I would've slapped him with a stick Put your hands in the air, it's a stick-up (21) Spin the same hood where I get my dick sucked (facts)",
+      "valence": 2.67,
+      "arousal": 3.55,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "If I was Will Smith, I would've slapped him with a stick Put your hands in the air, it's a stick-up (21) Spin the same hood where I get my dick sucked (facts) If you standin' on business, put your blick up (21, 21)",
+      "valence": 2.58,
+      "arousal": 3.5,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Put your hands in the air, it's a stick-up (21) Spin the same hood where I get my dick sucked (facts) If you standin' on business, put your blick up (21, 21) Come around actin' scary, get your shit took (21)",
+      "valence": 2.52,
+      "arousal": 3.61,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Spin the same hood where I get my dick sucked (facts) If you standin' on business, put your blick up (21, 21) Come around actin' scary, get your shit took (21) Fell in love with feelin' dizzy, so I spizzin (21)",
+      "valence": 2.69,
+      "arousal": 3.53,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "If you standin' on business, put your blick up (21, 21) Come around actin' scary, get your shit took (21) Fell in love with feelin' dizzy, so I spizzin (21) I got mad love for the boy, yeah, that's my twizzin (21)",
+      "valence": 3.48,
+      "arousal": 3.98,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Come around actin' scary, get your shit took (21) Fell in love with feelin' dizzy, so I spizzin (21) I got mad love for the boy, yeah, that's my twizzin (21) If them niggas keep on dissin', slide agaizzin (21)",
+      "valence": 3.49,
+      "arousal": 3.93,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Fell in love with feelin' dizzy, so I spizzin (21) I got mad love for the boy, yeah, that's my twizzin (21) If them niggas keep on dissin', slide agaizzin (21) We the reason why the ops ain't got no frizziends (21)",
+      "valence": 3.91,
+      "arousal": 3.98,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "I got mad love for the boy, yeah, that's my twizzin (21) If them niggas keep on dissin', slide agaizzin (21) We the reason why the ops ain't got no frizziends (21) Last nigga played with me got turned duppy",
+      "valence": 3.68,
+      "arousal": 3.92,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "If them niggas keep on dissin', slide agaizzin (21) We the reason why the ops ain't got no frizziends (21) Last nigga played with me got turned duppy I ain't even roll him in the wood 'cause he musty",
+      "valence": 2.62,
+      "arousal": 3.2,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "We the reason why the ops ain't got no frizziends (21) Last nigga played with me got turned duppy I ain't even roll him in the wood 'cause he musty You ask how she doin', I just tell her come and fuck me",
+      "valence": 2.42,
+      "arousal": 3.53,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Last nigga played with me got turned duppy I ain't even roll him in the wood 'cause he musty You ask how she doin', I just tell her come and fuck me Shot his ass twenty times, damn, this nigga lucky (damn, that nigga lucky)",
+      "valence": 2.16,
+      "arousal": 3.9,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "I ain't even roll him in the wood 'cause he musty You ask how she doin', I just tell her come and fuck me Shot his ass twenty times, damn, this nigga lucky (damn, that nigga lucky) Gotta throw a party for my day ones",
+      "valence": 2.22,
+      "arousal": 3.98,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "You ask how she doin', I just tell her come and fuck me Shot his ass twenty times, damn, this nigga lucky (damn, that nigga lucky) Gotta throw a party for my day ones They ain't in the studio, but they'll lay somethin'",
+      "valence": 2.3,
+      "arousal": 3.95,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Shot his ass twenty times, damn, this nigga lucky (damn, that nigga lucky) Gotta throw a party for my day ones They ain't in the studio, but they'll lay somethin' Rest in peace to Drama King, we was straight stuntin'",
+      "valence": 2.41,
+      "arousal": 3.81,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Gotta throw a party for my day ones They ain't in the studio, but they'll lay somethin' Rest in peace to Drama King, we was straight stuntin' You don't like the way I talk, nigga, say somethin'",
+      "valence": 2.96,
+      "arousal": 3.53,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "They ain't in the studio, but they'll lay somethin' Rest in peace to Drama King, we was straight stuntin' You don't like the way I talk, nigga, say somethin' Say somethin', say somethin', say somethin', say somethin', say somethin'",
+      "valence": 2.66,
+      "arousal": 3.3,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Rest in peace to Drama King, we was straight stuntin' You don't like the way I talk, nigga, say somethin' Say somethin', say somethin', say somethin', say somethin', say somethin' You don't like the way I talk, nigga, say somethin', say somethin'",
+      "valence": 2.64,
+      "arousal": 3.46,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "You don't like the way I talk, nigga, say somethin' Say somethin', say somethin', say somethin', say somethin', say somethin' You don't like the way I talk, nigga, say somethin', say somethin' Say somethin', say somethin', say somethin'",
+      "valence": 2.18,
+      "arousal": 3.47,
+      "dominance": 3.38
+    }
+  ]
+}

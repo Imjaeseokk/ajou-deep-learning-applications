@@ -1,0 +1,318 @@
+{
+  "artist": "Brantley Gilbert Featuring Justin Moore & Thomas Rhett",
+  "overall_vad": {
+    "valence": 2.95,
+    "arousal": 3.35,
+    "dominance": 3.36
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Aw Son Round these parts there ain't much to do Except work like a dog til Friday Punch that clock",
+      "valence": 2.64,
+      "arousal": 2.97,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Round these parts there ain't much to do Except work like a dog til Friday Punch that clock Cash that check raise a little hell til Sunday",
+      "valence": 2.57,
+      "arousal": 3.14,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Except work like a dog til Friday Punch that clock Cash that check raise a little hell til Sunday Its about that time",
+      "valence": 2.79,
+      "arousal": 3.32,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Punch that clock Cash that check raise a little hell til Sunday Its about that time There's a party back in the woods tonight",
+      "valence": 2.84,
+      "arousal": 3.47,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Cash that check raise a little hell til Sunday Its about that time There's a party back in the woods tonight Heard it thru the redneck grapevine",
+      "valence": 2.82,
+      "arousal": 3.47,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Its about that time There's a party back in the woods tonight Heard it thru the redneck grapevine Gotta keg of beer and a buncha girls",
+      "valence": 3.24,
+      "arousal": 3.4,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "There's a party back in the woods tonight Heard it thru the redneck grapevine Gotta keg of beer and a buncha girls Sure enough gonna be a good time",
+      "valence": 3.7,
+      "arousal": 3.71,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Heard it thru the redneck grapevine Gotta keg of beer and a buncha girls Sure enough gonna be a good time It's a small town throwdown",
+      "valence": 3.78,
+      "arousal": 3.69,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Gotta keg of beer and a buncha girls Sure enough gonna be a good time It's a small town throwdown Its time to tall boy up let them tailgates down",
+      "valence": 3.65,
+      "arousal": 3.6,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Sure enough gonna be a good time It's a small town throwdown Its time to tall boy up let them tailgates down Yea Man its on tonight right into morning light",
+      "valence": 3.57,
+      "arousal": 3.66,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "It's a small town throwdown Its time to tall boy up let them tailgates down Yea Man its on tonight right into morning light Crank that country up loud",
+      "valence": 2.78,
+      "arousal": 3.4,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Its time to tall boy up let them tailgates down Yea Man its on tonight right into morning light Crank that country up loud It's a small town throwdown",
+      "valence": 2.79,
+      "arousal": 3.5,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Yea Man its on tonight right into morning light Crank that country up loud It's a small town throwdown Ow we bout to throw it down son",
+      "valence": 2.94,
+      "arousal": 3.68,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Crank that country up loud It's a small town throwdown Ow we bout to throw it down son Now we gotta field full of daisy dukes",
+      "valence": 2.63,
+      "arousal": 3.56,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "It's a small town throwdown Ow we bout to throw it down son Now we gotta field full of daisy dukes Round here we know how to grow em",
+      "valence": 2.93,
+      "arousal": 3.3,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Ow we bout to throw it down son Now we gotta field full of daisy dukes Round here we know how to grow em Rockin' little body and long tan legs",
+      "valence": 2.79,
+      "arousal": 3.41,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Now we gotta field full of daisy dukes Round here we know how to grow em Rockin' little body and long tan legs Sure ain't scared to show em naw",
+      "valence": 3.1,
+      "arousal": 3.24,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Round here we know how to grow em Rockin' little body and long tan legs Sure ain't scared to show em naw Show a little son girl",
+      "valence": 3.24,
+      "arousal": 3.22,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Rockin' little body and long tan legs Sure ain't scared to show em naw Show a little son girl Somebody said them city boys",
+      "valence": 3.04,
+      "arousal": 3.19,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Sure ain't scared to show em naw Show a little son girl Somebody said them city boys Riding around looking for some trouble",
+      "valence": 2.73,
+      "arousal": 3.14,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Show a little son girl Somebody said them city boys Riding around looking for some trouble If they bring it cross that county line",
+      "valence": 2.74,
+      "arousal": 2.97,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Somebody said them city boys Riding around looking for some trouble If they bring it cross that county line Ya know there's gonna be a rumble",
+      "valence": 2.75,
+      "arousal": 3.22,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Riding around looking for some trouble If they bring it cross that county line Ya know there's gonna be a rumble It's a small town throwdown",
+      "valence": 2.61,
+      "arousal": 3.29,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "If they bring it cross that county line Ya know there's gonna be a rumble It's a small town throwdown Its time to tall boy up let them tailgates down",
+      "valence": 2.81,
+      "arousal": 3.27,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Ya know there's gonna be a rumble It's a small town throwdown Its time to tall boy up let them tailgates down Yea Man its on tonight right into morning light",
+      "valence": 2.92,
+      "arousal": 3.3,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "It's a small town throwdown Its time to tall boy up let them tailgates down Yea Man its on tonight right into morning light Crank that country up loud",
+      "valence": 2.78,
+      "arousal": 3.4,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Its time to tall boy up let them tailgates down Yea Man its on tonight right into morning light Crank that country up loud It's a small town throwdown",
+      "valence": 2.79,
+      "arousal": 3.5,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Yea Man its on tonight right into morning light Crank that country up loud It's a small town throwdown Come on",
+      "valence": 3.04,
+      "arousal": 3.55,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Crank that country up loud It's a small town throwdown Come on It's a small town",
+      "valence": 2.75,
+      "arousal": 3.51,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "It's a small town throwdown Come on It's a small town Its time to tall boy up",
+      "valence": 2.88,
+      "arousal": 3.02,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Come on It's a small town Its time to tall boy up Let them tailgates down",
+      "valence": 2.96,
+      "arousal": 3.01,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "It's a small town Its time to tall boy up Let them tailgates down Yea man its on tonight",
+      "valence": 2.98,
+      "arousal": 3.12,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Its time to tall boy up Let them tailgates down Yea man its on tonight Right in to the morning light",
+      "valence": 3.03,
+      "arousal": 3.26,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Let them tailgates down Yea man its on tonight Right in to the morning light Crank that country up loud",
+      "valence": 2.79,
+      "arousal": 3.52,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Yea man its on tonight Right in to the morning light Crank that country up loud It's a small town Throwdown(Throwdown)",
+      "valence": 3.13,
+      "arousal": 3.37,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Right in to the morning light Crank that country up loud It's a small town Throwdown(Throwdown) It's a small town throwdown",
+      "valence": 3.03,
+      "arousal": 3.29,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Crank that country up loud It's a small town Throwdown(Throwdown) It's a small town throwdown Its time to tall boy up",
+      "valence": 2.97,
+      "arousal": 3.26,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "It's a small town Throwdown(Throwdown) It's a small town throwdown Its time to tall boy up Let them tailgates down",
+      "valence": 2.88,
+      "arousal": 2.92,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "It's a small town throwdown Its time to tall boy up Let them tailgates down Aw man its on tonight",
+      "valence": 2.92,
+      "arousal": 3.19,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Its time to tall boy up Let them tailgates down Aw man its on tonight Right in the morning light",
+      "valence": 3.0,
+      "arousal": 3.24,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Let them tailgates down Aw man its on tonight Right in the morning light Crank that country up loud",
+      "valence": 2.77,
+      "arousal": 3.54,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Aw man its on tonight Right in the morning light Crank that country up loud It's a small town throwdown",
+      "valence": 3.04,
+      "arousal": 3.52,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Right in the morning light Crank that country up loud It's a small town throwdown It's a small town throwdown",
+      "valence": 3.02,
+      "arousal": 3.37,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Crank that country up loud It's a small town throwdown It's a small town throwdown Now that's country ha ha, son",
+      "valence": 2.74,
+      "arousal": 3.49,
+      "dominance": 3.51
+    }
+  ]
+}

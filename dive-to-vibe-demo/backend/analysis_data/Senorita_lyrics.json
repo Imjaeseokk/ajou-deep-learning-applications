@@ -1,0 +1,395 @@
+{
+  "artist": "Shawn Mendes & Camila Cabello",
+  "overall_vad": {
+    "valence": 3.32,
+    "arousal": 3.57,
+    "dominance": 3.1
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I love it when you call me seÃ±orita I wish I could pretend I didn't need ya But every touch is ooh, la-la-la It's true, la-la-la",
+      "valence": 3.86,
+      "arousal": 3.69,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I wish I could pretend I didn't need ya But every touch is ooh, la-la-la It's true, la-la-la Ooh, I should be running",
+      "valence": 2.59,
+      "arousal": 3.22,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "But every touch is ooh, la-la-la It's true, la-la-la Ooh, I should be running Ooh, you keep me coming for ya",
+      "valence": 3.0,
+      "arousal": 3.28,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "It's true, la-la-la Ooh, I should be running Ooh, you keep me coming for ya Land in Miami",
+      "valence": 3.08,
+      "arousal": 3.27,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Ooh, I should be running Ooh, you keep me coming for ya Land in Miami The air was hot from summer rain",
+      "valence": 3.13,
+      "arousal": 3.38,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Ooh, you keep me coming for ya Land in Miami The air was hot from summer rain Sweat dripping off me",
+      "valence": 3.42,
+      "arousal": 3.43,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Land in Miami The air was hot from summer rain Sweat dripping off me Before I even knew her name, la-la-la",
+      "valence": 3.1,
+      "arousal": 3.22,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "The air was hot from summer rain Sweat dripping off me Before I even knew her name, la-la-la It felt like ooh, la-la-la",
+      "valence": 2.98,
+      "arousal": 3.48,
+      "dominance": 2.75
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Sweat dripping off me Before I even knew her name, la-la-la It felt like ooh, la-la-la Yeah, no",
+      "valence": 2.72,
+      "arousal": 3.43,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Before I even knew her name, la-la-la It felt like ooh, la-la-la Yeah, no Sapphire moonlight",
+      "valence": 2.82,
+      "arousal": 2.96,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "It felt like ooh, la-la-la Yeah, no Sapphire moonlight We danced for hours in the sand",
+      "valence": 2.94,
+      "arousal": 3.31,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Yeah, no Sapphire moonlight We danced for hours in the sand Tequila sunrise",
+      "valence": 3.02,
+      "arousal": 3.08,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Sapphire moonlight We danced for hours in the sand Tequila sunrise Her body fit right in my hands, la-la-la",
+      "valence": 3.71,
+      "arousal": 3.63,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "We danced for hours in the sand Tequila sunrise Her body fit right in my hands, la-la-la It felt like ooh, la-la-la, yeah",
+      "valence": 3.68,
+      "arousal": 3.87,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Tequila sunrise Her body fit right in my hands, la-la-la It felt like ooh, la-la-la, yeah I love it when you call me seÃ±orita",
+      "valence": 4.03,
+      "arousal": 3.85,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Her body fit right in my hands, la-la-la It felt like ooh, la-la-la, yeah I love it when you call me seÃ±orita I wish I could pretend I didn't need ya",
+      "valence": 3.86,
+      "arousal": 3.92,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "It felt like ooh, la-la-la, yeah I love it when you call me seÃ±orita I wish I could pretend I didn't need ya But every touch is ooh, la-la-la",
+      "valence": 3.95,
+      "arousal": 3.83,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I love it when you call me seÃ±orita I wish I could pretend I didn't need ya But every touch is ooh, la-la-la It's true, la-la-la",
+      "valence": 3.86,
+      "arousal": 3.69,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I wish I could pretend I didn't need ya But every touch is ooh, la-la-la It's true, la-la-la Ooh, I should be running",
+      "valence": 2.59,
+      "arousal": 3.22,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "But every touch is ooh, la-la-la It's true, la-la-la Ooh, I should be running Ooh, you know I love it when you call me seÃ±orita",
+      "valence": 3.59,
+      "arousal": 3.65,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "It's true, la-la-la Ooh, I should be running Ooh, you know I love it when you call me seÃ±orita I wish it wasn't so damn hard to leave ya",
+      "valence": 3.47,
+      "arousal": 3.71,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Ooh, I should be running Ooh, you know I love it when you call me seÃ±orita I wish it wasn't so damn hard to leave ya But every touch is ooh, la-la-la",
+      "valence": 3.57,
+      "arousal": 3.8,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Ooh, you know I love it when you call me seÃ±orita I wish it wasn't so damn hard to leave ya But every touch is ooh, la-la-la It's true, la-la-la",
+      "valence": 3.89,
+      "arousal": 3.78,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I wish it wasn't so damn hard to leave ya But every touch is ooh, la-la-la It's true, la-la-la Ooh, I should be running",
+      "valence": 2.6,
+      "arousal": 3.4,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "But every touch is ooh, la-la-la It's true, la-la-la Ooh, I should be running Ooh, you keep me coming for ya",
+      "valence": 3.0,
+      "arousal": 3.28,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "It's true, la-la-la Ooh, I should be running Ooh, you keep me coming for ya Locked in the hotel",
+      "valence": 2.79,
+      "arousal": 3.29,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Ooh, I should be running Ooh, you keep me coming for ya Locked in the hotel There's just some things that never change",
+      "valence": 2.93,
+      "arousal": 3.3,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Ooh, you keep me coming for ya Locked in the hotel There's just some things that never change You say we're just friends",
+      "valence": 3.24,
+      "arousal": 3.27,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Locked in the hotel There's just some things that never change You say we're just friends But friends don't know the way you taste, la-la-la",
+      "valence": 3.04,
+      "arousal": 3.08,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "There's just some things that never change You say we're just friends But friends don't know the way you taste, la-la-la 'Cause you know it's been a long time coming",
+      "valence": 2.98,
+      "arousal": 3.11,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "You say we're just friends But friends don't know the way you taste, la-la-la 'Cause you know it's been a long time coming Don't you let me fall, oh",
+      "valence": 2.64,
+      "arousal": 3.33,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "But friends don't know the way you taste, la-la-la 'Cause you know it's been a long time coming Don't you let me fall, oh Ooh, when your lips undress me",
+      "valence": 2.96,
+      "arousal": 3.64,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "'Cause you know it's been a long time coming Don't you let me fall, oh Ooh, when your lips undress me Hooked on your tongue",
+      "valence": 3.05,
+      "arousal": 3.92,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Don't you let me fall, oh Ooh, when your lips undress me Hooked on your tongue Ooh, love, your kiss is deadly",
+      "valence": 3.08,
+      "arousal": 4.23,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Ooh, when your lips undress me Hooked on your tongue Ooh, love, your kiss is deadly Don't stop",
+      "valence": 3.59,
+      "arousal": 4.24,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Hooked on your tongue Ooh, love, your kiss is deadly Don't stop I love it when you call me seÃ±orita",
+      "valence": 4.07,
+      "arousal": 4.25,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Ooh, love, your kiss is deadly Don't stop I love it when you call me seÃ±orita I wish I could pretend I didn't need ya",
+      "valence": 4.08,
+      "arousal": 4.28,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Don't stop I love it when you call me seÃ±orita I wish I could pretend I didn't need ya But every touch is ooh, la-la-la",
+      "valence": 3.57,
+      "arousal": 3.73,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I love it when you call me seÃ±orita I wish I could pretend I didn't need ya But every touch is ooh, la-la-la It's true, la-la-la",
+      "valence": 3.86,
+      "arousal": 3.69,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "I wish I could pretend I didn't need ya But every touch is ooh, la-la-la It's true, la-la-la Ooh, I should be running",
+      "valence": 2.59,
+      "arousal": 3.22,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "But every touch is ooh, la-la-la It's true, la-la-la Ooh, I should be running Ooh, you know I love it when you call me seÃ±orita",
+      "valence": 3.59,
+      "arousal": 3.65,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "It's true, la-la-la Ooh, I should be running Ooh, you know I love it when you call me seÃ±orita I wish it wasn't so damn hard to leave ya",
+      "valence": 3.47,
+      "arousal": 3.71,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Ooh, I should be running Ooh, you know I love it when you call me seÃ±orita I wish it wasn't so damn hard to leave ya But every touch is ooh, la-la-la",
+      "valence": 3.57,
+      "arousal": 3.8,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Ooh, you know I love it when you call me seÃ±orita I wish it wasn't so damn hard to leave ya But every touch is ooh, la-la-la It's true, la-la-la (true, la-la)",
+      "valence": 3.88,
+      "arousal": 3.76,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I wish it wasn't so damn hard to leave ya But every touch is ooh, la-la-la It's true, la-la-la (true, la-la) Ooh, I should be running",
+      "valence": 2.63,
+      "arousal": 3.38,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "But every touch is ooh, la-la-la It's true, la-la-la (true, la-la) Ooh, I should be running Ooh, you keep me coming for ya",
+      "valence": 3.06,
+      "arousal": 3.24,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "It's true, la-la-la (true, la-la) Ooh, I should be running Ooh, you keep me coming for ya All along I've been coming for ya (for ya)",
+      "valence": 3.18,
+      "arousal": 3.34,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Ooh, I should be running Ooh, you keep me coming for ya All along I've been coming for ya (for ya) And I hope it meant something to ya (ooh)",
+      "valence": 3.32,
+      "arousal": 3.48,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Ooh, you keep me coming for ya All along I've been coming for ya (for ya) And I hope it meant something to ya (ooh) Call my name, I'll be coming for ya",
+      "valence": 3.55,
+      "arousal": 3.59,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "All along I've been coming for ya (for ya) And I hope it meant something to ya (ooh) Call my name, I'll be coming for ya Coming for ya, coming for ya, coming for ya",
+      "valence": 3.49,
+      "arousal": 3.65,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "And I hope it meant something to ya (ooh) Call my name, I'll be coming for ya Coming for ya, coming for ya, coming for ya For ya",
+      "valence": 3.46,
+      "arousal": 3.64,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Call my name, I'll be coming for ya Coming for ya, coming for ya, coming for ya For ya For ya (oh, she loves it when I call)",
+      "valence": 3.73,
+      "arousal": 3.83,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Coming for ya, coming for ya, coming for ya For ya For ya (oh, she loves it when I call) For ya",
+      "valence": 3.76,
+      "arousal": 3.77,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "For ya For ya (oh, she loves it when I call) For ya Ooh, I should be running",
+      "valence": 3.47,
+      "arousal": 3.58,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "For ya (oh, she loves it when I call) For ya Ooh, I should be running Ooh, you keep me coming for ya",
+      "valence": 3.74,
+      "arousal": 3.66,
+      "dominance": 3.22
+    }
+  ]
+}

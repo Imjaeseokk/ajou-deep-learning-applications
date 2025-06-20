@@ -1,0 +1,584 @@
+{
+  "artist": "J. Cole & Lil Baby",
+  "overall_vad": {
+    "valence": 2.63,
+    "arousal": 3.48,
+    "dominance": 3.08
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Uh Pride is the Devil Think it got a hold on me Pride is the Devil",
+      "valence": 2.29,
+      "arousal": 3.34,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Pride is the Devil Think it got a hold on me Pride is the Devil It left so many R.I.P.",
+      "valence": 2.53,
+      "arousal": 3.33,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Think it got a hold on me Pride is the Devil It left so many R.I.P. Pride is the Devil",
+      "valence": 2.53,
+      "arousal": 3.33,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Pride is the Devil It left so many R.I.P. Pride is the Devil Think it got a hold on me",
+      "valence": 2.46,
+      "arousal": 3.4,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "It left so many R.I.P. Pride is the Devil Think it got a hold on me Pride is the Devil, yeah, uh",
+      "valence": 2.55,
+      "arousal": 3.35,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Pride is the Devil Think it got a hold on me Pride is the Devil, yeah, uh Terrified, paranoid",
+      "valence": 2.27,
+      "arousal": 3.67,
+      "dominance": 2.62
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Think it got a hold on me Pride is the Devil, yeah, uh Terrified, paranoid I'll put you over everything to fill the void",
+      "valence": 2.42,
+      "arousal": 3.71,
+      "dominance": 2.7
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Pride is the Devil, yeah, uh Terrified, paranoid I'll put you over everything to fill the void And when you're gone, will I have anything?",
+      "valence": 2.44,
+      "arousal": 3.57,
+      "dominance": 2.68
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Terrified, paranoid I'll put you over everything to fill the void And when you're gone, will I have anything? Or will I be destroyed? Uh",
+      "valence": 2.43,
+      "arousal": 3.66,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I'll put you over everything to fill the void And when you're gone, will I have anything? Or will I be destroyed? Uh Terrified, paranoid",
+      "valence": 2.56,
+      "arousal": 3.61,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "And when you're gone, will I have anything? Or will I be destroyed? Uh Terrified, paranoid I'll put you over everything to fill the void",
+      "valence": 2.41,
+      "arousal": 3.66,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Or will I be destroyed? Uh Terrified, paranoid I'll put you over everything to fill the void And when you're gone, will I have anything?",
+      "valence": 2.34,
+      "arousal": 3.67,
+      "dominance": 2.59
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Terrified, paranoid I'll put you over everything to fill the void And when you're gone, will I have anything? Or will I be destroyed? Yeah",
+      "valence": 2.41,
+      "arousal": 3.71,
+      "dominance": 2.71
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I'll put you over everything to fill the void And when you're gone, will I have anything? Or will I be destroyed? Yeah Bright lights pass me in the city, it's emergency",
+      "valence": 2.8,
+      "arousal": 3.52,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And when you're gone, will I have anything? Or will I be destroyed? Yeah Bright lights pass me in the city, it's emergency I'm thankful 'cause I made it past my 30s, no one murdered me",
+      "valence": 3.11,
+      "arousal": 3.42,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Or will I be destroyed? Yeah Bright lights pass me in the city, it's emergency I'm thankful 'cause I made it past my 30s, no one murdered me Still remember vividly the n- that pulled a gun on me",
+      "valence": 3.18,
+      "arousal": 3.49,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Bright lights pass me in the city, it's emergency I'm thankful 'cause I made it past my 30s, no one murdered me Still remember vividly the n- that pulled a gun on me I'm petrified, but movin' like I got no sense of urgency",
+      "valence": 3.33,
+      "arousal": 3.55,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I'm thankful 'cause I made it past my 30s, no one murdered me Still remember vividly the n- that pulled a gun on me I'm petrified, but movin' like I got no sense of urgency Pride make a n- act way harder than he really be",
+      "valence": 3.44,
+      "arousal": 3.55,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Still remember vividly the n- that pulled a gun on me I'm petrified, but movin' like I got no sense of urgency Pride make a n- act way harder than he really be Pride hide the shame when city cut off all utilities",
+      "valence": 2.2,
+      "arousal": 3.78,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I'm petrified, but movin' like I got no sense of urgency Pride make a n- act way harder than he really be Pride hide the shame when city cut off all utilities Pride hide the pain of growing up inhalling poverty",
+      "valence": 2.11,
+      "arousal": 3.8,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Pride make a n- act way harder than he really be Pride hide the shame when city cut off all utilities Pride hide the pain of growing up inhalling poverty Pride make a n- feel the way that you would follow me",
+      "valence": 2.76,
+      "arousal": 3.6,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Pride hide the shame when city cut off all utilities Pride hide the pain of growing up inhalling poverty Pride make a n- feel the way that you would follow me Make a n- flash a thousand like he hit the lottery",
+      "valence": 3.02,
+      "arousal": 3.55,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Pride hide the pain of growing up inhalling poverty Pride make a n- feel the way that you would follow me Make a n- flash a thousand like he hit the lottery Make a baby mama make sh- harder than it gotta be",
+      "valence": 3.15,
+      "arousal": 3.58,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Pride make a n- feel the way that you would follow me Make a n- flash a thousand like he hit the lottery Make a baby mama make sh- harder than it gotta be Make you have to take the b- to court to see your prodigy",
+      "valence": 3.33,
+      "arousal": 3.66,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Make a n- flash a thousand like he hit the lottery Make a baby mama make sh- harder than it gotta be Make you have to take the b- to court to see your prodigy Make you have to use your last resort and pull a robbery",
+      "valence": 2.93,
+      "arousal": 3.74,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Make a baby mama make sh- harder than it gotta be Make you have to take the b- to court to see your prodigy Make you have to use your last resort and pull a robbery Pride be the reason for the family dichotomy",
+      "valence": 2.75,
+      "arousal": 3.51,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Make you have to take the b- to court to see your prodigy Make you have to use your last resort and pull a robbery Pride be the reason for the family dichotomy Got uncles and some aunties that's too proud to give apologies",
+      "valence": 2.45,
+      "arousal": 3.52,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Make you have to use your last resort and pull a robbery Pride be the reason for the family dichotomy Got uncles and some aunties that's too proud to give apologies Slowly realizing what the root of all my problems be",
+      "valence": 2.28,
+      "arousal": 3.38,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Pride be the reason for the family dichotomy Got uncles and some aunties that's too proud to give apologies Slowly realizing what the root of all my problems be It got me feeling different when somebody say they proud of me",
+      "valence": 2.69,
+      "arousal": 3.22,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Got uncles and some aunties that's too proud to give apologies Slowly realizing what the root of all my problems be It got me feeling different when somebody say they proud of me Pride is the Devil, uh",
+      "valence": 2.49,
+      "arousal": 3.24,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Slowly realizing what the root of all my problems be It got me feeling different when somebody say they proud of me Pride is the Devil, uh I think it got a hold on me",
+      "valence": 2.66,
+      "arousal": 3.25,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "It got me feeling different when somebody say they proud of me Pride is the Devil, uh I think it got a hold on me Pride is the Devil, uh",
+      "valence": 2.8,
+      "arousal": 3.33,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Pride is the Devil, uh I think it got a hold on me Pride is the Devil, uh And it left so many R.I.P.",
+      "valence": 2.51,
+      "arousal": 3.33,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I think it got a hold on me Pride is the Devil, uh And it left so many R.I.P. Pride is the Devil",
+      "valence": 2.51,
+      "arousal": 3.29,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Pride is the Devil, uh And it left so many R.I.P. Pride is the Devil I think it got a hold on me",
+      "valence": 2.5,
+      "arousal": 3.31,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "And it left so many R.I.P. Pride is the Devil I think it got a hold on me Pride is the Devil, uh, yeah",
+      "valence": 2.6,
+      "arousal": 3.3,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Pride is the Devil I think it got a hold on me Pride is the Devil, uh, yeah Terrified, paranoid",
+      "valence": 2.24,
+      "arousal": 3.69,
+      "dominance": 2.54
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "I think it got a hold on me Pride is the Devil, uh, yeah Terrified, paranoid I'll put you over everything to fill the void",
+      "valence": 2.42,
+      "arousal": 3.7,
+      "dominance": 2.67
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Pride is the Devil, uh, yeah Terrified, paranoid I'll put you over everything to fill the void And when you're gone, will I have anything?",
+      "valence": 2.45,
+      "arousal": 3.58,
+      "dominance": 2.73
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Terrified, paranoid I'll put you over everything to fill the void And when you're gone, will I have anything? Or will I be destroyed? Uh",
+      "valence": 2.43,
+      "arousal": 3.66,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I'll put you over everything to fill the void And when you're gone, will I have anything? Or will I be destroyed? Uh Terrified, paranoid",
+      "valence": 2.56,
+      "arousal": 3.61,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "And when you're gone, will I have anything? Or will I be destroyed? Uh Terrified, paranoid I'll put you over everything to fill the void",
+      "valence": 2.41,
+      "arousal": 3.66,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Or will I be destroyed? Uh Terrified, paranoid I'll put you over everything to fill the void And when you're gone, will I have anything?",
+      "valence": 2.34,
+      "arousal": 3.67,
+      "dominance": 2.59
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Terrified, paranoid I'll put you over everything to fill the void And when you're gone, will I have anything? Or will I be destroyed? Yeah",
+      "valence": 2.41,
+      "arousal": 3.71,
+      "dominance": 2.71
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I'll put you over everything to fill the void And when you're gone, will I have anything? Or will I be destroyed? Yeah Too much money to count, what's the amount?",
+      "valence": 2.79,
+      "arousal": 3.41,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "And when you're gone, will I have anything? Or will I be destroyed? Yeah Too much money to count, what's the amount? Check never bounce",
+      "valence": 2.72,
+      "arousal": 3.32,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Or will I be destroyed? Yeah Too much money to count, what's the amount? Check never bounce I gotta pay a n- to add it up",
+      "valence": 2.6,
+      "arousal": 3.46,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Too much money to count, what's the amount? Check never bounce I gotta pay a n- to add it up Then pay somebody to make sure whatever amount he say, he can back it up",
+      "valence": 2.84,
+      "arousal": 3.26,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Check never bounce I gotta pay a n- to add it up Then pay somebody to make sure whatever amount he say, he can back it up Got racks on racks, I'm rackin' up, stackin' up",
+      "valence": 2.8,
+      "arousal": 3.25,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I gotta pay a n- to add it up Then pay somebody to make sure whatever amount he say, he can back it up Got racks on racks, I'm rackin' up, stackin' up You're reachin', I'm actin' up",
+      "valence": 2.9,
+      "arousal": 3.24,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Then pay somebody to make sure whatever amount he say, he can back it up Got racks on racks, I'm rackin' up, stackin' up You're reachin', I'm actin' up Break it down, weigh it up, now bag it up",
+      "valence": 3.02,
+      "arousal": 3.07,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Got racks on racks, I'm rackin' up, stackin' up You're reachin', I'm actin' up Break it down, weigh it up, now bag it up Makin' five a month, that's regular",
+      "valence": 3.1,
+      "arousal": 3.17,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "You're reachin', I'm actin' up Break it down, weigh it up, now bag it up Makin' five a month, that's regular N- playin' with us, that's a negative",
+      "valence": 2.55,
+      "arousal": 3.25,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Break it down, weigh it up, now bag it up Makin' five a month, that's regular N- playin' with us, that's a negative Go back to the start, that's never",
+      "valence": 2.45,
+      "arousal": 3.15,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Makin' five a month, that's regular N- playin' with us, that's a negative Go back to the start, that's never I'm a boss, my closet leather",
+      "valence": 2.41,
+      "arousal": 2.98,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "N- playin' with us, that's a negative Go back to the start, that's never I'm a boss, my closet leather Ain't no off-days on my schedule",
+      "valence": 2.44,
+      "arousal": 3.11,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Go back to the start, that's never I'm a boss, my closet leather Ain't no off-days on my schedule Long as I live, we live forever",
+      "valence": 2.85,
+      "arousal": 3.0,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "I'm a boss, my closet leather Ain't no off-days on my schedule Long as I live, we live forever Told my twin this sh- get better",
+      "valence": 2.88,
+      "arousal": 3.41,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Ain't no off-days on my schedule Long as I live, we live forever Told my twin this sh- get better These n- don't slipped, let me get ahead of 'em",
+      "valence": 2.73,
+      "arousal": 3.22,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Long as I live, we live forever Told my twin this sh- get better These n- don't slipped, let me get ahead of 'em Got my feet up, I paid silly bands to have s- on the jet",
+      "valence": 2.59,
+      "arousal": 3.48,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Told my twin this sh- get better These n- don't slipped, let me get ahead of 'em Got my feet up, I paid silly bands to have s- on the jet I don't need 'em, that sh- in the past",
+      "valence": 2.42,
+      "arousal": 3.42,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "These n- don't slipped, let me get ahead of 'em Got my feet up, I paid silly bands to have s- on the jet I don't need 'em, that sh- in the past I'm feelin' like what's next",
+      "valence": 2.32,
+      "arousal": 3.52,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Got my feet up, I paid silly bands to have s- on the jet I don't need 'em, that sh- in the past I'm feelin' like what's next Got my speed up, foot all on the gas",
+      "valence": 2.64,
+      "arousal": 3.42,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "I don't need 'em, that sh- in the past I'm feelin' like what's next Got my speed up, foot all on the gas This not a C8 'Vette",
+      "valence": 2.64,
+      "arousal": 3.3,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "I'm feelin' like what's next Got my speed up, foot all on the gas This not a C8 'Vette I can beat 'em, I believe in me",
+      "valence": 3.17,
+      "arousal": 3.65,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Got my speed up, foot all on the gas This not a C8 'Vette I can beat 'em, I believe in me Just tell me what's the bet",
+      "valence": 2.99,
+      "arousal": 3.49,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "This not a C8 'Vette I can beat 'em, I believe in me Just tell me what's the bet All my pride gone, had to lose it all then I got rich",
+      "valence": 2.73,
+      "arousal": 3.51,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "I can beat 'em, I believe in me Just tell me what's the bet All my pride gone, had to lose it all then I got rich I own five homes, glad some of this sh- startin' to make sense",
+      "valence": 3.1,
+      "arousal": 3.64,
+      "dominance": 3.78
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Just tell me what's the bet All my pride gone, had to lose it all then I got rich I own five homes, glad some of this sh- startin' to make sense I'm stayin' hella focused and I can't forget the bigger picture",
+      "valence": 2.89,
+      "arousal": 3.52,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "All my pride gone, had to lose it all then I got rich I own five homes, glad some of this sh- startin' to make sense I'm stayin' hella focused and I can't forget the bigger picture I can't even hold you, I didn't have sh-, I won't forget it",
+      "valence": 3.04,
+      "arousal": 3.61,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "I own five homes, glad some of this sh- startin' to make sense I'm stayin' hella focused and I can't forget the bigger picture I can't even hold you, I didn't have sh-, I won't forget it Will I be destroyed?",
+      "valence": 2.8,
+      "arousal": 3.73,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "I'm stayin' hella focused and I can't forget the bigger picture I can't even hold you, I didn't have sh-, I won't forget it Will I be destroyed? Come to me with everything, it's startin' to get annoyin'",
+      "valence": 2.46,
+      "arousal": 3.84,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "I can't even hold you, I didn't have sh-, I won't forget it Will I be destroyed? Come to me with everything, it's startin' to get annoyin' I'm addicted to p-, it's crazy, yeah, I know it",
+      "valence": 2.34,
+      "arousal": 3.83,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Will I be destroyed? Come to me with everything, it's startin' to get annoyin' I'm addicted to p-, it's crazy, yeah, I know it All this money comin' in, it drive me crazy not to show it",
+      "valence": 2.31,
+      "arousal": 3.8,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Come to me with everything, it's startin' to get annoyin' I'm addicted to p-, it's crazy, yeah, I know it All this money comin' in, it drive me crazy not to show it I'll be crazy if I blow it",
+      "valence": 2.33,
+      "arousal": 3.59,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "I'm addicted to p-, it's crazy, yeah, I know it All this money comin' in, it drive me crazy not to show it I'll be crazy if I blow it Pride is the Devil, uh",
+      "valence": 2.53,
+      "arousal": 3.55,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "All this money comin' in, it drive me crazy not to show it I'll be crazy if I blow it Pride is the Devil, uh I think it got a hold on me",
+      "valence": 2.39,
+      "arousal": 3.61,
+      "dominance": 2.69
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "I'll be crazy if I blow it Pride is the Devil, uh I think it got a hold on me Pride is the Devil, uh",
+      "valence": 2.23,
+      "arousal": 3.72,
+      "dominance": 2.69
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "Pride is the Devil, uh I think it got a hold on me Pride is the Devil, uh And it left so many R.I.P.",
+      "valence": 2.51,
+      "arousal": 3.33,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "I think it got a hold on me Pride is the Devil, uh And it left so many R.I.P. Pride is the Devil",
+      "valence": 2.51,
+      "arousal": 3.29,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "Pride is the Devil, uh And it left so many R.I.P. Pride is the Devil I think it got a hold on me",
+      "valence": 2.5,
+      "arousal": 3.31,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "And it left so many R.I.P. Pride is the Devil I think it got a hold on me Pride is the Devil, uh",
+      "valence": 2.56,
+      "arousal": 3.3,
+      "dominance": 2.93
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "artist": "Luke Combs",
+  "overall_vad": {
+    "valence": 2.68,
+    "arousal": 3.23,
+    "dominance": 3.09
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Telephone rings, can I come over? It's kinda just the way things go since we've been over I know what you want and I want it too The problem is what's wrong with it's the bigger issue",
+      "valence": 2.76,
+      "arousal": 3.41,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "It's kinda just the way things go since we've been over I know what you want and I want it too The problem is what's wrong with it's the bigger issue Tomorrow me ain't gonna like the way things go tonight",
+      "valence": 2.4,
+      "arousal": 3.42,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I know what you want and I want it too The problem is what's wrong with it's the bigger issue Tomorrow me ain't gonna like the way things go tonight If I let you in and think that it'll be different this time",
+      "valence": 2.54,
+      "arousal": 3.43,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "The problem is what's wrong with it's the bigger issue Tomorrow me ain't gonna like the way things go tonight If I let you in and think that it'll be different this time So maybe we should let yesterday be",
+      "valence": 2.45,
+      "arousal": 3.17,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Tomorrow me ain't gonna like the way things go tonight If I let you in and think that it'll be different this time So maybe we should let yesterday be 'Cause I gotta live with tomorrow me",
+      "valence": 2.53,
+      "arousal": 3.2,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "If I let you in and think that it'll be different this time So maybe we should let yesterday be 'Cause I gotta live with tomorrow me In the morning light I'll be the guy",
+      "valence": 2.86,
+      "arousal": 3.16,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "So maybe we should let yesterday be 'Cause I gotta live with tomorrow me In the morning light I'll be the guy Staring down \"I told you so\" for the hundredth time",
+      "valence": 2.73,
+      "arousal": 3.4,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "'Cause I gotta live with tomorrow me In the morning light I'll be the guy Staring down \"I told you so\" for the hundredth time And you'll be okay, you always are",
+      "valence": 2.74,
+      "arousal": 3.4,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "In the morning light I'll be the guy Staring down \"I told you so\" for the hundredth time And you'll be okay, you always are And I'll be picking up the pieces if we go that far",
+      "valence": 3.04,
+      "arousal": 3.26,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Staring down \"I told you so\" for the hundredth time And you'll be okay, you always are And I'll be picking up the pieces if we go that far 'Cause tomorrow me ain't gonna like the way things go tonight",
+      "valence": 2.7,
+      "arousal": 3.34,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "And you'll be okay, you always are And I'll be picking up the pieces if we go that far 'Cause tomorrow me ain't gonna like the way things go tonight If I let you in and think that it'll be different this time",
+      "valence": 2.74,
+      "arousal": 3.15,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "And I'll be picking up the pieces if we go that far 'Cause tomorrow me ain't gonna like the way things go tonight If I let you in and think that it'll be different this time So maybe we should let yesterday be",
+      "valence": 2.63,
+      "arousal": 3.08,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "'Cause tomorrow me ain't gonna like the way things go tonight If I let you in and think that it'll be different this time So maybe we should let yesterday be 'Cause I gotta live with tomorrow me",
+      "valence": 2.55,
+      "arousal": 3.23,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "If I let you in and think that it'll be different this time So maybe we should let yesterday be 'Cause I gotta live with tomorrow me I know how it's gonna end",
+      "valence": 2.77,
+      "arousal": 3.12,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "So maybe we should let yesterday be 'Cause I gotta live with tomorrow me I know how it's gonna end Just like it always ends",
+      "valence": 2.78,
+      "arousal": 3.25,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "'Cause I gotta live with tomorrow me I know how it's gonna end Just like it always ends Yeah, tomorrow me ain't gonna like the way things go tonight",
+      "valence": 2.42,
+      "arousal": 3.29,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I know how it's gonna end Just like it always ends Yeah, tomorrow me ain't gonna like the way things go tonight If I let you in and think that it'll be different this time",
+      "valence": 2.59,
+      "arousal": 3.14,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Just like it always ends Yeah, tomorrow me ain't gonna like the way things go tonight If I let you in and think that it'll be different this time So maybe we should let yesterday be",
+      "valence": 2.69,
+      "arousal": 3.06,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Yeah, tomorrow me ain't gonna like the way things go tonight If I let you in and think that it'll be different this time So maybe we should let yesterday be Yeah, maybe we should let yesterday be",
+      "valence": 2.67,
+      "arousal": 3.07,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "If I let you in and think that it'll be different this time So maybe we should let yesterday be Yeah, maybe we should let yesterday be 'Cause I gotta live with tomorrow me",
+      "valence": 2.85,
+      "arousal": 3.07,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "So maybe we should let yesterday be Yeah, maybe we should let yesterday be 'Cause I gotta live with tomorrow me Hey, tomorrow me",
+      "valence": 2.84,
+      "arousal": 3.23,
+      "dominance": 2.97
+    }
+  ]
+}

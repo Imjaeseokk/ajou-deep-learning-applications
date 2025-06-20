@@ -1,0 +1,416 @@
+{
+  "artist": "Cardi B",
+  "overall_vad": {
+    "valence": 2.48,
+    "arousal": 3.62,
+    "dominance": 3.48
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Up, up Up (ayy), up (uh) Up, look (this is fire) Once upon a time, man, I heard that I was ugly",
+      "valence": 2.56,
+      "arousal": 3.44,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Up (ayy), up (uh) Up, look (this is fire) Once upon a time, man, I heard that I was ugly Came from a bitch who nigga wanna fuck on me",
+      "valence": 2.29,
+      "arousal": 3.65,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Up, look (this is fire) Once upon a time, man, I heard that I was ugly Came from a bitch who nigga wanna fuck on me I said my face bomb, ass tight",
+      "valence": 2.02,
+      "arousal": 3.86,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Once upon a time, man, I heard that I was ugly Came from a bitch who nigga wanna fuck on me I said my face bomb, ass tight Racks stack up Shaq height",
+      "valence": 2.04,
+      "arousal": 3.81,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Came from a bitch who nigga wanna fuck on me I said my face bomb, ass tight Racks stack up Shaq height Jewelry on me, flashlight",
+      "valence": 1.9,
+      "arousal": 3.94,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I said my face bomb, ass tight Racks stack up Shaq height Jewelry on me, flashlight I been lit since last night",
+      "valence": 2.49,
+      "arousal": 3.64,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Racks stack up Shaq height Jewelry on me, flashlight I been lit since last night Hit him with that good-good",
+      "valence": 2.9,
+      "arousal": 3.35,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Jewelry on me, flashlight I been lit since last night Hit him with that good-good Make a nigga act right",
+      "valence": 2.89,
+      "arousal": 3.37,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I been lit since last night Hit him with that good-good Make a nigga act right Broke boys don't deserve no pussy (I know that's right!)",
+      "valence": 2.71,
+      "arousal": 3.76,
+      "dominance": 3.78
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Hit him with that good-good Make a nigga act right Broke boys don't deserve no pussy (I know that's right!) Big bag bussin' out the Bentley Bentayga",
+      "valence": 2.69,
+      "arousal": 3.65,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Make a nigga act right Broke boys don't deserve no pussy (I know that's right!) Big bag bussin' out the Bentley Bentayga Man, Balenciaga Bardi back and all these bitches fucked",
+      "valence": 2.23,
+      "arousal": 3.74,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Broke boys don't deserve no pussy (I know that's right!) Big bag bussin' out the Bentley Bentayga Man, Balenciaga Bardi back and all these bitches fucked It's big bags bussin' out the Bentley Bentayga, man",
+      "valence": 2.16,
+      "arousal": 3.79,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Big bag bussin' out the Bentley Bentayga Man, Balenciaga Bardi back and all these bitches fucked It's big bags bussin' out the Bentley Bentayga, man Birkin bag, Bardi back and all you bitches fucked",
+      "valence": 2.03,
+      "arousal": 3.66,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Man, Balenciaga Bardi back and all these bitches fucked It's big bags bussin' out the Bentley Bentayga, man Birkin bag, Bardi back and all you bitches fucked If it's up, then it's up, then it's up, then it's stuck",
+      "valence": 2.17,
+      "arousal": 3.66,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "It's big bags bussin' out the Bentley Bentayga, man Birkin bag, Bardi back and all you bitches fucked If it's up, then it's up, then it's up, then it's stuck If it's up, then it's up, then it's up, then it's stuck, huh (ayy)",
+      "valence": 2.5,
+      "arousal": 3.48,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Birkin bag, Bardi back and all you bitches fucked If it's up, then it's up, then it's up, then it's stuck If it's up, then it's up, then it's up, then it's stuck, huh (ayy) Up, then it's up, if it's up, then it's stuck (huh)",
+      "valence": 2.47,
+      "arousal": 3.46,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "If it's up, then it's up, then it's up, then it's stuck If it's up, then it's up, then it's up, then it's stuck, huh (ayy) Up, then it's up, if it's up, then it's stuck (huh) If it's up, then it's up, then it's up, then it's stuck, huh (woo)",
+      "valence": 2.77,
+      "arousal": 3.28,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "If it's up, then it's up, then it's up, then it's stuck, huh (ayy) Up, then it's up, if it's up, then it's stuck (huh) If it's up, then it's up, then it's up, then it's stuck, huh (woo) I could make the party hot, I could make your body rock",
+      "valence": 3.15,
+      "arousal": 3.68,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Up, then it's up, if it's up, then it's stuck (huh) If it's up, then it's up, then it's up, then it's stuck, huh (woo) I could make the party hot, I could make your body rock Bitches say they fuckin' with me, chances are they probably not",
+      "valence": 2.78,
+      "arousal": 3.73,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "If it's up, then it's up, then it's up, then it's stuck, huh (woo) I could make the party hot, I could make your body rock Bitches say they fuckin' with me, chances are they probably not If I had a dick, you'd probably lick it like a lollipop",
+      "valence": 2.8,
+      "arousal": 3.8,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I could make the party hot, I could make your body rock Bitches say they fuckin' with me, chances are they probably not If I had a dick, you'd probably lick it like a lollipop Hoes speakin' Cap-enese, hit 'em with karate chop",
+      "valence": 2.74,
+      "arousal": 3.74,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Bitches say they fuckin' with me, chances are they probably not If I had a dick, you'd probably lick it like a lollipop Hoes speakin' Cap-enese, hit 'em with karate chop I'm forever poppin' shit, pullin' up and droppin' shit",
+      "valence": 2.29,
+      "arousal": 3.59,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "If I had a dick, you'd probably lick it like a lollipop Hoes speakin' Cap-enese, hit 'em with karate chop I'm forever poppin' shit, pullin' up and droppin' shit Gotta argue with him 'cause a nigga love a toxic bitch",
+      "valence": 2.16,
+      "arousal": 3.69,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Hoes speakin' Cap-enese, hit 'em with karate chop I'm forever poppin' shit, pullin' up and droppin' shit Gotta argue with him 'cause a nigga love a toxic bitch Niggas out here playin', gotta make 'em understand",
+      "valence": 2.25,
+      "arousal": 3.57,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I'm forever poppin' shit, pullin' up and droppin' shit Gotta argue with him 'cause a nigga love a toxic bitch Niggas out here playin', gotta make 'em understand If ain't no ring on my finger, you ain't goin' on my 'Gram",
+      "valence": 2.26,
+      "arousal": 3.56,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Gotta argue with him 'cause a nigga love a toxic bitch Niggas out here playin', gotta make 'em understand If ain't no ring on my finger, you ain't goin' on my 'Gram I said my face bomb, ass tight",
+      "valence": 2.16,
+      "arousal": 3.75,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Niggas out here playin', gotta make 'em understand If ain't no ring on my finger, you ain't goin' on my 'Gram I said my face bomb, ass tight Racks stack up Shaq height (yeah)",
+      "valence": 2.58,
+      "arousal": 3.6,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "If ain't no ring on my finger, you ain't goin' on my 'Gram I said my face bomb, ass tight Racks stack up Shaq height (yeah) Jewelry on me, flashlight (huh)",
+      "valence": 2.46,
+      "arousal": 3.66,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I said my face bomb, ass tight Racks stack up Shaq height (yeah) Jewelry on me, flashlight (huh) I been lit since last night (woo)",
+      "valence": 2.77,
+      "arousal": 3.79,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Racks stack up Shaq height (yeah) Jewelry on me, flashlight (huh) I been lit since last night (woo) Hit him with that good-good",
+      "valence": 3.02,
+      "arousal": 3.51,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Jewelry on me, flashlight (huh) I been lit since last night (woo) Hit him with that good-good Make a nigga act right (ah)",
+      "valence": 2.91,
+      "arousal": 3.45,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I been lit since last night (woo) Hit him with that good-good Make a nigga act right (ah) Broke boys don't deserve no pussy (I know that's right!)",
+      "valence": 2.67,
+      "arousal": 3.81,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Hit him with that good-good Make a nigga act right (ah) Broke boys don't deserve no pussy (I know that's right!) Big bag bussin' out the Bentley Bentayga",
+      "valence": 2.65,
+      "arousal": 3.67,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Make a nigga act right (ah) Broke boys don't deserve no pussy (I know that's right!) Big bag bussin' out the Bentley Bentayga Man, Balenciaga Bardi back and all these bitches fucked (woo)",
+      "valence": 2.29,
+      "arousal": 3.79,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Broke boys don't deserve no pussy (I know that's right!) Big bag bussin' out the Bentley Bentayga Man, Balenciaga Bardi back and all these bitches fucked (woo) It's big bags bussin' out the Bentley Bentayga, man",
+      "valence": 2.31,
+      "arousal": 3.8,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Big bag bussin' out the Bentley Bentayga Man, Balenciaga Bardi back and all these bitches fucked (woo) It's big bags bussin' out the Bentley Bentayga, man Birkin bag, Bardi back and all you bitches fucked (woo)",
+      "valence": 2.05,
+      "arousal": 3.62,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Man, Balenciaga Bardi back and all these bitches fucked (woo) It's big bags bussin' out the Bentley Bentayga, man Birkin bag, Bardi back and all you bitches fucked (woo) If it's up, then it's up, then it's up, then it's stuck",
+      "valence": 2.22,
+      "arousal": 3.64,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "It's big bags bussin' out the Bentley Bentayga, man Birkin bag, Bardi back and all you bitches fucked (woo) If it's up, then it's up, then it's up, then it's stuck If it's up, then it's up, then it's up, then it's stuck, huh (ayy)",
+      "valence": 2.37,
+      "arousal": 3.55,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Birkin bag, Bardi back and all you bitches fucked (woo) If it's up, then it's up, then it's up, then it's stuck If it's up, then it's up, then it's up, then it's stuck, huh (ayy) Up, then it's up, if it's up, then it's stuck",
+      "valence": 2.43,
+      "arousal": 3.59,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "If it's up, then it's up, then it's up, then it's stuck If it's up, then it's up, then it's up, then it's stuck, huh (ayy) Up, then it's up, if it's up, then it's stuck If it's up, then it's up, then it's up, then it's stuck, huh (bitch)",
+      "valence": 2.58,
+      "arousal": 3.36,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "If it's up, then it's up, then it's up, then it's stuck, huh (ayy) Up, then it's up, if it's up, then it's stuck If it's up, then it's up, then it's up, then it's stuck, huh (bitch) Bitches ain't fuckin' with me now and I can see why",
+      "valence": 2.33,
+      "arousal": 3.5,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Up, then it's up, if it's up, then it's stuck If it's up, then it's up, then it's up, then it's stuck, huh (bitch) Bitches ain't fuckin' with me now and I can see why Dirty-ass, dusty-ass bitch, you got pink eye",
+      "valence": 2.16,
+      "arousal": 3.51,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "If it's up, then it's up, then it's up, then it's stuck, huh (bitch) Bitches ain't fuckin' with me now and I can see why Dirty-ass, dusty-ass bitch, you got pink eye Bitches want smoke until I bring it to they doorstep",
+      "valence": 2.17,
+      "arousal": 3.46,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Bitches ain't fuckin' with me now and I can see why Dirty-ass, dusty-ass bitch, you got pink eye Bitches want smoke until I bring it to they doorstep Tell that bitch, \"Back, back, \" breath smell like horse sex (ha)",
+      "valence": 2.2,
+      "arousal": 3.61,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Dirty-ass, dusty-ass bitch, you got pink eye Bitches want smoke until I bring it to they doorstep Tell that bitch, \"Back, back, \" breath smell like horse sex (ha) Put it on him now, he will never be the same (he won't)",
+      "valence": 2.18,
+      "arousal": 3.62,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Bitches want smoke until I bring it to they doorstep Tell that bitch, \"Back, back, \" breath smell like horse sex (ha) Put it on him now, he will never be the same (he won't) Tatt'ed on my ass 'cause I really like the pain (ah)",
+      "valence": 2.28,
+      "arousal": 3.72,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Tell that bitch, \"Back, back, \" breath smell like horse sex (ha) Put it on him now, he will never be the same (he won't) Tatt'ed on my ass 'cause I really like the pain (ah) He nutted on my butt, I said, \"I'm glad that you came\"",
+      "valence": 2.86,
+      "arousal": 3.95,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Put it on him now, he will never be the same (he won't) Tatt'ed on my ass 'cause I really like the pain (ah) He nutted on my butt, I said, \"I'm glad that you came\" If that nigga had a twin, I would let 'em run a train, woo (skrrt)",
+      "valence": 2.93,
+      "arousal": 3.69,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Tatt'ed on my ass 'cause I really like the pain (ah) He nutted on my butt, I said, \"I'm glad that you came\" If that nigga had a twin, I would let 'em run a train, woo (skrrt) Big bag bussin' out the Bentley Bentayga",
+      "valence": 3.17,
+      "arousal": 3.68,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "He nutted on my butt, I said, \"I'm glad that you came\" If that nigga had a twin, I would let 'em run a train, woo (skrrt) Big bag bussin' out the Bentley Bentayga Man, Balenciaga Bardi back and all these bitches fucked (woo)",
+      "valence": 2.88,
+      "arousal": 3.74,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "If that nigga had a twin, I would let 'em run a train, woo (skrrt) Big bag bussin' out the Bentley Bentayga Man, Balenciaga Bardi back and all these bitches fucked (woo) It's big bags bussin' out the Bentley Bentayga, man",
+      "valence": 2.49,
+      "arousal": 3.54,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Big bag bussin' out the Bentley Bentayga Man, Balenciaga Bardi back and all these bitches fucked (woo) It's big bags bussin' out the Bentley Bentayga, man Birkin bag, Bardi back and all you bitches fucked (ooh)",
+      "valence": 2.08,
+      "arousal": 3.63,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Man, Balenciaga Bardi back and all these bitches fucked (woo) It's big bags bussin' out the Bentley Bentayga, man Birkin bag, Bardi back and all you bitches fucked (ooh) If it's up, then it's up, then it's up, then it's stuck",
+      "valence": 2.24,
+      "arousal": 3.65,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "It's big bags bussin' out the Bentley Bentayga, man Birkin bag, Bardi back and all you bitches fucked (ooh) If it's up, then it's up, then it's up, then it's stuck If it's up, then it's up, then it's up, then it's stuck, huh (woo)",
+      "valence": 2.36,
+      "arousal": 3.58,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Birkin bag, Bardi back and all you bitches fucked (ooh) If it's up, then it's up, then it's up, then it's stuck If it's up, then it's up, then it's up, then it's stuck, huh (woo) Up, then it's up, if it's up, then it's stuck (woo)",
+      "valence": 2.44,
+      "arousal": 3.6,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "If it's up, then it's up, then it's up, then it's stuck If it's up, then it's up, then it's up, then it's stuck, huh (woo) Up, then it's up, if it's up, then it's stuck (woo) If it's up, then it's up, then it's up, then it's stuck, huh",
+      "valence": 2.77,
+      "arousal": 3.28,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "If it's up, then it's up, then it's up, then it's stuck, huh (woo) Up, then it's up, if it's up, then it's stuck (woo) If it's up, then it's up, then it's up, then it's stuck, huh Look, gotta play it safe, huh",
+      "valence": 2.82,
+      "arousal": 3.28,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Up, then it's up, if it's up, then it's stuck (woo) If it's up, then it's up, then it's up, then it's stuck, huh Look, gotta play it safe, huh No face, no case (hahaha)",
+      "valence": 2.85,
+      "arousal": 3.29,
+      "dominance": 2.99
+    }
+  ]
+}

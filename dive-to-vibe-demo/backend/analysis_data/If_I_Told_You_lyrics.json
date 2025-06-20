@@ -1,0 +1,346 @@
+{
+  "artist": "Darius Rucker",
+  "overall_vad": {
+    "valence": 2.65,
+    "arousal": 3.37,
+    "dominance": 3.03
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "What if I told you about my little nothing town The two room house where I came from The man that I got my name from I don't even know where he is now",
+      "valence": 2.75,
+      "arousal": 3.18,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "The two room house where I came from The man that I got my name from I don't even know where he is now What if I told you sometimes I lose my faith",
+      "valence": 2.57,
+      "arousal": 3.38,
+      "dominance": 2.77
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "The man that I got my name from I don't even know where he is now What if I told you sometimes I lose my faith I wonder why someone like you would even talk to me",
+      "valence": 2.67,
+      "arousal": 3.44,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I don't even know where he is now What if I told you sometimes I lose my faith I wonder why someone like you would even talk to me What if I told you there is no fixing me",
+      "valence": 2.43,
+      "arousal": 3.45,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "What if I told you sometimes I lose my faith I wonder why someone like you would even talk to me What if I told you there is no fixing me Cause everybody has already tried",
+      "valence": 2.54,
+      "arousal": 3.39,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I wonder why someone like you would even talk to me What if I told you there is no fixing me Cause everybody has already tried Would you stay?",
+      "valence": 2.66,
+      "arousal": 3.37,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "What if I told you there is no fixing me Cause everybody has already tried Would you stay? Would you leave?",
+      "valence": 2.67,
+      "arousal": 3.31,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Cause everybody has already tried Would you stay? Would you leave? I could wait",
+      "valence": 2.93,
+      "arousal": 3.24,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Would you stay? Would you leave? I could wait It'll all come out eventually",
+      "valence": 2.97,
+      "arousal": 3.19,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Would you leave? I could wait It'll all come out eventually If I told you all the stupid things I've done",
+      "valence": 2.42,
+      "arousal": 3.42,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I could wait It'll all come out eventually If I told you all the stupid things I've done I've blamed on being young",
+      "valence": 2.47,
+      "arousal": 3.3,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "It'll all come out eventually If I told you all the stupid things I've done I've blamed on being young But I was old enough to know I know",
+      "valence": 2.56,
+      "arousal": 3.37,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "If I told you all the stupid things I've done I've blamed on being young But I was old enough to know I know If I told you the mess that I can be",
+      "valence": 2.25,
+      "arousal": 3.32,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I've blamed on being young But I was old enough to know I know If I told you the mess that I can be When there's no one there to see",
+      "valence": 2.38,
+      "arousal": 3.22,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "But I was old enough to know I know If I told you the mess that I can be When there's no one there to see Could you look the other way?",
+      "valence": 2.53,
+      "arousal": 3.33,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "If I told you the mess that I can be When there's no one there to see Could you look the other way? Could you love me anyway?",
+      "valence": 2.61,
+      "arousal": 3.5,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "When there's no one there to see Could you look the other way? Could you love me anyway? What if I told you I don't plan on staying here",
+      "valence": 2.82,
+      "arousal": 3.38,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Could you look the other way? Could you love me anyway? What if I told you I don't plan on staying here My dreams are a million miles away",
+      "valence": 2.73,
+      "arousal": 3.45,
+      "dominance": 2.73
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Could you love me anyway? What if I told you I don't plan on staying here My dreams are a million miles away And I know your family is gonna want you to stay",
+      "valence": 2.77,
+      "arousal": 3.42,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "What if I told you I don't plan on staying here My dreams are a million miles away And I know your family is gonna want you to stay You know what I don't blame 'em",
+      "valence": 2.53,
+      "arousal": 3.32,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "My dreams are a million miles away And I know your family is gonna want you to stay You know what I don't blame 'em So I'll say",
+      "valence": 2.78,
+      "arousal": 3.15,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "And I know your family is gonna want you to stay You know what I don't blame 'em So I'll say What I don't want to",
+      "valence": 2.54,
+      "arousal": 3.17,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "You know what I don't blame 'em So I'll say What I don't want to And I'll just pray",
+      "valence": 2.59,
+      "arousal": 3.17,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "So I'll say What I don't want to And I'll just pray You want what I do",
+      "valence": 2.83,
+      "arousal": 3.13,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "What I don't want to And I'll just pray You want what I do If I told you all the stupid things I've done",
+      "valence": 2.19,
+      "arousal": 3.41,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "And I'll just pray You want what I do If I told you all the stupid things I've done I've blamed on being young",
+      "valence": 2.38,
+      "arousal": 3.43,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "You want what I do If I told you all the stupid things I've done I've blamed on being young But I was old enough to know I know",
+      "valence": 2.37,
+      "arousal": 3.51,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "If I told you all the stupid things I've done I've blamed on being young But I was old enough to know I know If I told you the mess that I can be",
+      "valence": 2.25,
+      "arousal": 3.32,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I've blamed on being young But I was old enough to know I know If I told you the mess that I can be When there's no one there to see",
+      "valence": 2.38,
+      "arousal": 3.22,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "But I was old enough to know I know If I told you the mess that I can be When there's no one there to see Could you look the other way?",
+      "valence": 2.53,
+      "arousal": 3.33,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "If I told you the mess that I can be When there's no one there to see Could you look the other way? Could you love me anyway?",
+      "valence": 2.61,
+      "arousal": 3.5,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "When there's no one there to see Could you look the other way? Could you love me anyway? Aww, could you love me anyway?",
+      "valence": 3.14,
+      "arousal": 3.44,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Could you look the other way? Could you love me anyway? Aww, could you love me anyway? So before we go any further here",
+      "valence": 3.29,
+      "arousal": 3.53,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Could you love me anyway? Aww, could you love me anyway? So before we go any further here Let a week turn into another year",
+      "valence": 3.36,
+      "arousal": 3.44,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Aww, could you love me anyway? So before we go any further here Let a week turn into another year There some things you probably don't wanna hear",
+      "valence": 3.28,
+      "arousal": 3.49,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "So before we go any further here Let a week turn into another year There some things you probably don't wanna hear But you have to",
+      "valence": 2.75,
+      "arousal": 2.91,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Let a week turn into another year There some things you probably don't wanna hear But you have to If I told you sometimes I get jealous",
+      "valence": 2.59,
+      "arousal": 3.0,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "There some things you probably don't wanna hear But you have to If I told you sometimes I get jealous Sometimes I'm half crazy",
+      "valence": 2.56,
+      "arousal": 3.09,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "But you have to If I told you sometimes I get jealous Sometimes I'm half crazy Would you say the hell with me, the hell with me",
+      "valence": 2.2,
+      "arousal": 3.66,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "If I told you sometimes I get jealous Sometimes I'm half crazy Would you say the hell with me, the hell with me If I told you I barely know what love is",
+      "valence": 2.45,
+      "arousal": 3.56,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Sometimes I'm half crazy Would you say the hell with me, the hell with me If I told you I barely know what love is But girl if that's what this is",
+      "valence": 2.5,
+      "arousal": 3.68,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Would you say the hell with me, the hell with me If I told you I barely know what love is But girl if that's what this is I don't want to let it slip away",
+      "valence": 2.46,
+      "arousal": 3.78,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "If I told you I barely know what love is But girl if that's what this is I don't want to let it slip away No, no, no",
+      "valence": 2.67,
+      "arousal": 3.52,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "But girl if that's what this is I don't want to let it slip away No, no, no Could you love me anyway?",
+      "valence": 2.78,
+      "arousal": 3.55,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I don't want to let it slip away No, no, no Could you love me anyway? Please",
+      "valence": 2.59,
+      "arousal": 3.56,
+      "dominance": 2.61
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "No, no, no Could you love me anyway? Please Could you love me anyway?",
+      "valence": 2.69,
+      "arousal": 3.54,
+      "dominance": 2.64
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Could you love me anyway? Please Could you love me anyway? Could you love me anyway?",
+      "valence": 3.03,
+      "arousal": 3.42,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Please Could you love me anyway? Could you love me anyway? Could you love me anyway?",
+      "valence": 3.05,
+      "arousal": 3.36,
+      "dominance": 2.73
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "artist": "Cole Swindell",
+  "overall_vad": {
+    "valence": 3.09,
+    "arousal": 3.46,
+    "dominance": 3.15
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I was out taking shots Throwing down at the spot Three sheets, just me and the guys Every single Saturday night",
+      "valence": 3.08,
+      "arousal": 3.17,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Throwing down at the spot Three sheets, just me and the guys Every single Saturday night I was killing time, crushing cans",
+      "valence": 2.69,
+      "arousal": 3.37,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Three sheets, just me and the guys Every single Saturday night I was killing time, crushing cans Trying not to catch a tan",
+      "valence": 2.81,
+      "arousal": 3.22,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Every single Saturday night I was killing time, crushing cans Trying not to catch a tan 'Cause I was under them neon lights",
+      "valence": 2.54,
+      "arousal": 3.49,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I was killing time, crushing cans Trying not to catch a tan 'Cause I was under them neon lights Every single Saturday night, yeah",
+      "valence": 2.64,
+      "arousal": 3.43,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Trying not to catch a tan 'Cause I was under them neon lights Every single Saturday night, yeah Everybody knew they could find me there",
+      "valence": 2.81,
+      "arousal": 3.38,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "'Cause I was under them neon lights Every single Saturday night, yeah Everybody knew they could find me there Then right out of the blue, right out of nowhere",
+      "valence": 3.08,
+      "arousal": 3.49,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Every single Saturday night, yeah Everybody knew they could find me there Then right out of the blue, right out of nowhere Out of nowhere",
+      "valence": 3.17,
+      "arousal": 3.41,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Everybody knew they could find me there Then right out of the blue, right out of nowhere Out of nowhere Sitting over in the corner, baby, I saw",
+      "valence": 3.08,
+      "arousal": 3.41,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Then right out of the blue, right out of nowhere Out of nowhere Sitting over in the corner, baby, I saw Pretty red lips working on a White Claw",
+      "valence": 3.1,
+      "arousal": 3.47,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Out of nowhere Sitting over in the corner, baby, I saw Pretty red lips working on a White Claw Shaking to a little 'Shook Me All Night Long'",
+      "valence": 3.07,
+      "arousal": 3.28,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Sitting over in the corner, baby, I saw Pretty red lips working on a White Claw Shaking to a little 'Shook Me All Night Long' And I thought, man, what a beautiful sight",
+      "valence": 3.68,
+      "arousal": 3.62,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Pretty red lips working on a White Claw Shaking to a little 'Shook Me All Night Long' And I thought, man, what a beautiful sight Ain't a morning you don't wake up in my shirt now",
+      "valence": 3.58,
+      "arousal": 3.59,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Shaking to a little 'Shook Me All Night Long' And I thought, man, what a beautiful sight Ain't a morning you don't wake up in my shirt now Even holding hands walking out of church now",
+      "valence": 3.51,
+      "arousal": 3.57,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And I thought, man, what a beautiful sight Ain't a morning you don't wake up in my shirt now Even holding hands walking out of church now Who'd of thought, baby, looking back that",
+      "valence": 3.6,
+      "arousal": 3.72,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Ain't a morning you don't wake up in my shirt now Even holding hands walking out of church now Who'd of thought, baby, looking back that That would be my last single Saturday night, yeah",
+      "valence": 2.8,
+      "arousal": 3.32,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Even holding hands walking out of church now Who'd of thought, baby, looking back that That would be my last single Saturday night, yeah My last single Saturday night",
+      "valence": 2.73,
+      "arousal": 3.28,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Who'd of thought, baby, looking back that That would be my last single Saturday night, yeah My last single Saturday night And now when I'm out, having a drink or two",
+      "valence": 2.79,
+      "arousal": 3.12,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "That would be my last single Saturday night, yeah My last single Saturday night And now when I'm out, having a drink or two If they see me, well, they see you",
+      "valence": 2.93,
+      "arousal": 3.23,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "My last single Saturday night And now when I'm out, having a drink or two If they see me, well, they see you 'Cause, girl, I got you by my side",
+      "valence": 3.32,
+      "arousal": 3.47,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "And now when I'm out, having a drink or two If they see me, well, they see you 'Cause, girl, I got you by my side Every single Saturday night, yeah",
+      "valence": 3.44,
+      "arousal": 3.67,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "If they see me, well, they see you 'Cause, girl, I got you by my side Every single Saturday night, yeah Every now and then the boys tell me they miss me",
+      "valence": 3.43,
+      "arousal": 3.61,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "'Cause, girl, I got you by my side Every single Saturday night, yeah Every now and then the boys tell me they miss me Oh, but they all get it 'cause they were right there with me",
+      "valence": 3.49,
+      "arousal": 3.65,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Every single Saturday night, yeah Every now and then the boys tell me they miss me Oh, but they all get it 'cause they were right there with me Yeah, with me, when",
+      "valence": 3.02,
+      "arousal": 3.33,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Every now and then the boys tell me they miss me Oh, but they all get it 'cause they were right there with me Yeah, with me, when Sitting over in the corner, baby, I saw",
+      "valence": 2.97,
+      "arousal": 3.33,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Oh, but they all get it 'cause they were right there with me Yeah, with me, when Sitting over in the corner, baby, I saw Pretty red lips working on a White Claw",
+      "valence": 3.14,
+      "arousal": 3.3,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Yeah, with me, when Sitting over in the corner, baby, I saw Pretty red lips working on a White Claw Shaking to a little 'Shook Me All Night Long'",
+      "valence": 3.2,
+      "arousal": 3.24,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Sitting over in the corner, baby, I saw Pretty red lips working on a White Claw Shaking to a little 'Shook Me All Night Long' And I thought, man, what a beautiful sight",
+      "valence": 3.68,
+      "arousal": 3.62,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Pretty red lips working on a White Claw Shaking to a little 'Shook Me All Night Long' And I thought, man, what a beautiful sight Ain't a morning you don't wake up in my shirt now",
+      "valence": 3.58,
+      "arousal": 3.59,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Shaking to a little 'Shook Me All Night Long' And I thought, man, what a beautiful sight Ain't a morning you don't wake up in my shirt now Even holding hands walking out of church now",
+      "valence": 3.51,
+      "arousal": 3.57,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "And I thought, man, what a beautiful sight Ain't a morning you don't wake up in my shirt now Even holding hands walking out of church now Who'd of thought, baby, looking back that",
+      "valence": 3.6,
+      "arousal": 3.72,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Ain't a morning you don't wake up in my shirt now Even holding hands walking out of church now Who'd of thought, baby, looking back that That would be my last single Saturday night",
+      "valence": 2.74,
+      "arousal": 3.3,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Even holding hands walking out of church now Who'd of thought, baby, looking back that That would be my last single Saturday night The last time that I'd buy a drink for a girl I'd never met before",
+      "valence": 2.73,
+      "arousal": 3.29,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Who'd of thought, baby, looking back that That would be my last single Saturday night The last time that I'd buy a drink for a girl I'd never met before I wasn't looking for love when I walked through the door",
+      "valence": 2.64,
+      "arousal": 3.37,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "That would be my last single Saturday night The last time that I'd buy a drink for a girl I'd never met before I wasn't looking for love when I walked through the door But damn if I didn't find what I wasn't even looking for",
+      "valence": 2.43,
+      "arousal": 3.5,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "The last time that I'd buy a drink for a girl I'd never met before I wasn't looking for love when I walked through the door But damn if I didn't find what I wasn't even looking for Sitting over in the corner, baby, I saw",
+      "valence": 2.4,
+      "arousal": 3.49,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I wasn't looking for love when I walked through the door But damn if I didn't find what I wasn't even looking for Sitting over in the corner, baby, I saw Pretty red lips working on a White Claw",
+      "valence": 2.64,
+      "arousal": 3.57,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "But damn if I didn't find what I wasn't even looking for Sitting over in the corner, baby, I saw Pretty red lips working on a White Claw Shaking to a little 'Shook Me All Night Long'",
+      "valence": 2.82,
+      "arousal": 3.48,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Sitting over in the corner, baby, I saw Pretty red lips working on a White Claw Shaking to a little 'Shook Me All Night Long' And I thought, damn, what a beautiful sight",
+      "valence": 3.62,
+      "arousal": 3.71,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Pretty red lips working on a White Claw Shaking to a little 'Shook Me All Night Long' And I thought, damn, what a beautiful sight Ain't a morning you don't wake up in my shirt now",
+      "valence": 3.49,
+      "arousal": 3.68,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Shaking to a little 'Shook Me All Night Long' And I thought, damn, what a beautiful sight Ain't a morning you don't wake up in my shirt now Look at us, even picking out a church now",
+      "valence": 3.31,
+      "arousal": 3.63,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "And I thought, damn, what a beautiful sight Ain't a morning you don't wake up in my shirt now Look at us, even picking out a church now Who'd of thought, baby, looking back that",
+      "valence": 3.34,
+      "arousal": 3.89,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Ain't a morning you don't wake up in my shirt now Look at us, even picking out a church now Who'd of thought, baby, looking back that That would be my last single Saturday night, yeah",
+      "valence": 2.73,
+      "arousal": 3.37,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Look at us, even picking out a church now Who'd of thought, baby, looking back that That would be my last single Saturday night, yeah My last single Saturday night",
+      "valence": 2.87,
+      "arousal": 3.35,
+      "dominance": 3.09
+    }
+  ]
+}

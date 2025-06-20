@@ -1,0 +1,332 @@
+{
+  "artist": "Justin Bieber",
+  "overall_vad": {
+    "valence": 2.88,
+    "arousal": 3.59,
+    "dominance": 3.17
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "For all the times that you rained on my parade And all the clubs you get in using my name You think you broke my heart, oh girl, for goodness sake You think I'm crying on my own, well I ain't",
+      "valence": 2.17,
+      "arousal": 3.8,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "And all the clubs you get in using my name You think you broke my heart, oh girl, for goodness sake You think I'm crying on my own, well I ain't And I didn't wanna write a song",
+      "valence": 2.07,
+      "arousal": 3.84,
+      "dominance": 2.69
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "You think you broke my heart, oh girl, for goodness sake You think I'm crying on my own, well I ain't And I didn't wanna write a song 'Cause I didn't want anyone thinking I still care",
+      "valence": 2.05,
+      "arousal": 3.86,
+      "dominance": 2.77
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "You think I'm crying on my own, well I ain't And I didn't wanna write a song 'Cause I didn't want anyone thinking I still care I don't, but you still hit my phone up",
+      "valence": 2.19,
+      "arousal": 3.63,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "And I didn't wanna write a song 'Cause I didn't want anyone thinking I still care I don't, but you still hit my phone up And baby, I'll be movin' on",
+      "valence": 3.12,
+      "arousal": 3.66,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "'Cause I didn't want anyone thinking I still care I don't, but you still hit my phone up And baby, I'll be movin' on And I think you should be somethin'",
+      "valence": 3.05,
+      "arousal": 3.54,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I don't, but you still hit my phone up And baby, I'll be movin' on And I think you should be somethin' I don't wanna hold back, maybe you should know that",
+      "valence": 2.91,
+      "arousal": 3.45,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "And baby, I'll be movin' on And I think you should be somethin' I don't wanna hold back, maybe you should know that My mama don't like you and she likes everyone",
+      "valence": 2.73,
+      "arousal": 3.45,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "And I think you should be somethin' I don't wanna hold back, maybe you should know that My mama don't like you and she likes everyone And I never like to admit that I was wrong",
+      "valence": 2.45,
+      "arousal": 3.45,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I don't wanna hold back, maybe you should know that My mama don't like you and she likes everyone And I never like to admit that I was wrong And I've been so caught up in my job, didn't see what's going on",
+      "valence": 2.3,
+      "arousal": 3.42,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "My mama don't like you and she likes everyone And I never like to admit that I was wrong And I've been so caught up in my job, didn't see what's going on But now I know, I'm better sleeping on my own",
+      "valence": 2.47,
+      "arousal": 3.26,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "And I never like to admit that I was wrong And I've been so caught up in my job, didn't see what's going on But now I know, I'm better sleeping on my own 'Cause if you like the way you look that much",
+      "valence": 2.6,
+      "arousal": 3.26,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "And I've been so caught up in my job, didn't see what's going on But now I know, I'm better sleeping on my own 'Cause if you like the way you look that much Oh baby, you should go and love yourself",
+      "valence": 3.23,
+      "arousal": 3.56,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "But now I know, I'm better sleeping on my own 'Cause if you like the way you look that much Oh baby, you should go and love yourself And if you think that I'm still holdin' on to somethin'",
+      "valence": 2.92,
+      "arousal": 3.45,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "'Cause if you like the way you look that much Oh baby, you should go and love yourself And if you think that I'm still holdin' on to somethin' You should go and love yourself",
+      "valence": 3.6,
+      "arousal": 3.77,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Oh baby, you should go and love yourself And if you think that I'm still holdin' on to somethin' You should go and love yourself But when you told me that you hated my friends",
+      "valence": 3.36,
+      "arousal": 3.81,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "And if you think that I'm still holdin' on to somethin' You should go and love yourself But when you told me that you hated my friends The only problem was with you and not them",
+      "valence": 2.61,
+      "arousal": 3.61,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "You should go and love yourself But when you told me that you hated my friends The only problem was with you and not them And every time you told me my opinion was wrong",
+      "valence": 2.9,
+      "arousal": 3.58,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "But when you told me that you hated my friends The only problem was with you and not them And every time you told me my opinion was wrong And tried to make me forget where I came from",
+      "valence": 2.35,
+      "arousal": 3.5,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "The only problem was with you and not them And every time you told me my opinion was wrong And tried to make me forget where I came from And I didn't wanna write a song",
+      "valence": 2.4,
+      "arousal": 3.44,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "And every time you told me my opinion was wrong And tried to make me forget where I came from And I didn't wanna write a song 'Cause I didn't want anyone thinking I still care",
+      "valence": 2.25,
+      "arousal": 3.46,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "And tried to make me forget where I came from And I didn't wanna write a song 'Cause I didn't want anyone thinking I still care I don't, but you still hit my phone up",
+      "valence": 2.45,
+      "arousal": 3.5,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "And I didn't wanna write a song 'Cause I didn't want anyone thinking I still care I don't, but you still hit my phone up And baby, I'll be movin' on",
+      "valence": 3.12,
+      "arousal": 3.66,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "'Cause I didn't want anyone thinking I still care I don't, but you still hit my phone up And baby, I'll be movin' on And I think you should be somethin'",
+      "valence": 3.05,
+      "arousal": 3.54,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I don't, but you still hit my phone up And baby, I'll be movin' on And I think you should be somethin' I don't wanna hold back, maybe you should know that",
+      "valence": 2.91,
+      "arousal": 3.45,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "And baby, I'll be movin' on And I think you should be somethin' I don't wanna hold back, maybe you should know that My mama don't like you and she likes everyone",
+      "valence": 2.73,
+      "arousal": 3.45,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "And I think you should be somethin' I don't wanna hold back, maybe you should know that My mama don't like you and she likes everyone And I never like to admit that I was wrong",
+      "valence": 2.45,
+      "arousal": 3.45,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I don't wanna hold back, maybe you should know that My mama don't like you and she likes everyone And I never like to admit that I was wrong And I've been so caught up in my job, didn't see what's going on",
+      "valence": 2.3,
+      "arousal": 3.42,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "My mama don't like you and she likes everyone And I never like to admit that I was wrong And I've been so caught up in my job, didn't see what's going on But now I know, I'm better sleeping on my own",
+      "valence": 2.47,
+      "arousal": 3.26,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "And I never like to admit that I was wrong And I've been so caught up in my job, didn't see what's going on But now I know, I'm better sleeping on my own 'Cause if you like the way you look that much",
+      "valence": 2.6,
+      "arousal": 3.26,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "And I've been so caught up in my job, didn't see what's going on But now I know, I'm better sleeping on my own 'Cause if you like the way you look that much Oh baby, you should go and love yourself",
+      "valence": 3.23,
+      "arousal": 3.56,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "But now I know, I'm better sleeping on my own 'Cause if you like the way you look that much Oh baby, you should go and love yourself And if you think that I'm still holdin' on to somethin'",
+      "valence": 2.92,
+      "arousal": 3.45,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "'Cause if you like the way you look that much Oh baby, you should go and love yourself And if you think that I'm still holdin' on to somethin' You should go and love yourself",
+      "valence": 3.6,
+      "arousal": 3.77,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Oh baby, you should go and love yourself And if you think that I'm still holdin' on to somethin' You should go and love yourself For all the times that you made me feel small",
+      "valence": 3.68,
+      "arousal": 3.77,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "And if you think that I'm still holdin' on to somethin' You should go and love yourself For all the times that you made me feel small I fell in love, now I feel nothin' at all",
+      "valence": 2.83,
+      "arousal": 3.57,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "You should go and love yourself For all the times that you made me feel small I fell in love, now I feel nothin' at all I never felt so low and I was vulnerable",
+      "valence": 3.5,
+      "arousal": 3.7,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "For all the times that you made me feel small I fell in love, now I feel nothin' at all I never felt so low and I was vulnerable Was I a fool to let you break down my walls?",
+      "valence": 2.84,
+      "arousal": 3.67,
+      "dominance": 2.75
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "I fell in love, now I feel nothin' at all I never felt so low and I was vulnerable Was I a fool to let you break down my walls? 'Cause if you like the way you look that much",
+      "valence": 3.01,
+      "arousal": 3.83,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I never felt so low and I was vulnerable Was I a fool to let you break down my walls? 'Cause if you like the way you look that much Oh baby, you should go and love yourself",
+      "valence": 3.1,
+      "arousal": 3.77,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Was I a fool to let you break down my walls? 'Cause if you like the way you look that much Oh baby, you should go and love yourself And if you think that I'm still holdin' on to somethin'",
+      "valence": 2.78,
+      "arousal": 3.72,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "'Cause if you like the way you look that much Oh baby, you should go and love yourself And if you think that I'm still holdin' on to somethin' You should go and love yourself",
+      "valence": 3.6,
+      "arousal": 3.77,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Oh baby, you should go and love yourself And if you think that I'm still holdin' on to somethin' You should go and love yourself 'Cause if you like the way you look that much",
+      "valence": 3.69,
+      "arousal": 3.78,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "And if you think that I'm still holdin' on to somethin' You should go and love yourself 'Cause if you like the way you look that much Oh baby, you should go and love yourself (yeah)",
+      "valence": 3.63,
+      "arousal": 3.76,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "You should go and love yourself 'Cause if you like the way you look that much Oh baby, you should go and love yourself (yeah) And if you think (you think) that I'm (that I'm)",
+      "valence": 3.53,
+      "arousal": 3.64,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "'Cause if you like the way you look that much Oh baby, you should go and love yourself (yeah) And if you think (you think) that I'm (that I'm) Still holdin' on to somethin' (holdin' on, no)",
+      "valence": 3.23,
+      "arousal": 3.66,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Oh baby, you should go and love yourself (yeah) And if you think (you think) that I'm (that I'm) Still holdin' on to somethin' (holdin' on, no) You should go and love yourself",
+      "valence": 3.71,
+      "arousal": 3.78,
+      "dominance": 3.47
+    }
+  ]
+}

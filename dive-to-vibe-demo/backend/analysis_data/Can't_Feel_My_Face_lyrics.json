@@ -1,0 +1,318 @@
+{
+  "artist": "The Weeknd",
+  "overall_vad": {
+    "valence": 3.63,
+    "arousal": 3.78,
+    "dominance": 3.28
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "And I know she'll be the death of me At least we'll both be numb And she'll always get the best of me The worst is yet to come",
+      "valence": 2.36,
+      "arousal": 3.43,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "At least we'll both be numb And she'll always get the best of me The worst is yet to come But at least we'll both be beautiful and stay forever young",
+      "valence": 3.0,
+      "arousal": 3.3,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "And she'll always get the best of me The worst is yet to come But at least we'll both be beautiful and stay forever young This I know, yeah, this I know",
+      "valence": 3.12,
+      "arousal": 3.28,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "The worst is yet to come But at least we'll both be beautiful and stay forever young This I know, yeah, this I know She told me, \"Don't worry about it\"",
+      "valence": 3.29,
+      "arousal": 3.28,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "But at least we'll both be beautiful and stay forever young This I know, yeah, this I know She told me, \"Don't worry about it\" She told me, \"Don't worry no more\"",
+      "valence": 3.47,
+      "arousal": 3.22,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "This I know, yeah, this I know She told me, \"Don't worry about it\" She told me, \"Don't worry no more\" We both know we can't go without it",
+      "valence": 3.12,
+      "arousal": 3.06,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "She told me, \"Don't worry about it\" She told me, \"Don't worry no more\" We both know we can't go without it She told me, \"You'll never be alone\", oh, oh, woo",
+      "valence": 3.2,
+      "arousal": 3.22,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "She told me, \"Don't worry no more\" We both know we can't go without it She told me, \"You'll never be alone\", oh, oh, woo I can't feel my face when I'm with you",
+      "valence": 3.3,
+      "arousal": 3.56,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "We both know we can't go without it She told me, \"You'll never be alone\", oh, oh, woo I can't feel my face when I'm with you But I love it, but I love it, oh",
+      "valence": 3.97,
+      "arousal": 4.06,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "She told me, \"You'll never be alone\", oh, oh, woo I can't feel my face when I'm with you But I love it, but I love it, oh I can't feel my face when I'm with you",
+      "valence": 4.09,
+      "arousal": 4.13,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I can't feel my face when I'm with you But I love it, but I love it, oh I can't feel my face when I'm with you But I love it, but I love it, oh",
+      "valence": 4.29,
+      "arousal": 4.19,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "But I love it, but I love it, oh I can't feel my face when I'm with you But I love it, but I love it, oh And I know she'll be the death of me",
+      "valence": 4.16,
+      "arousal": 4.17,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I can't feel my face when I'm with you But I love it, but I love it, oh And I know she'll be the death of me At least we'll both be numb",
+      "valence": 3.84,
+      "arousal": 4.13,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "But I love it, but I love it, oh And I know she'll be the death of me At least we'll both be numb And she'll always get the best of me",
+      "valence": 3.85,
+      "arousal": 3.94,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And I know she'll be the death of me At least we'll both be numb And she'll always get the best of me The worst is yet to come",
+      "valence": 2.36,
+      "arousal": 3.43,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "At least we'll both be numb And she'll always get the best of me The worst is yet to come All the misery was necessary when we're deep in love",
+      "valence": 2.61,
+      "arousal": 3.33,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "And she'll always get the best of me The worst is yet to come All the misery was necessary when we're deep in love This I know (this I know, yeah), girl, I know",
+      "valence": 2.48,
+      "arousal": 3.35,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "The worst is yet to come All the misery was necessary when we're deep in love This I know (this I know, yeah), girl, I know She told me, \"Don't worry about it\"",
+      "valence": 2.63,
+      "arousal": 3.29,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "All the misery was necessary when we're deep in love This I know (this I know, yeah), girl, I know She told me, \"Don't worry about it\" She told me, \"Don't worry no more\"",
+      "valence": 2.95,
+      "arousal": 3.27,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "This I know (this I know, yeah), girl, I know She told me, \"Don't worry about it\" She told me, \"Don't worry no more\" We both know we can't go without it",
+      "valence": 3.13,
+      "arousal": 3.15,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "She told me, \"Don't worry about it\" She told me, \"Don't worry no more\" We both know we can't go without it She told me, \"You'll never be alone\", oh, oh, woo",
+      "valence": 3.2,
+      "arousal": 3.22,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "She told me, \"Don't worry no more\" We both know we can't go without it She told me, \"You'll never be alone\", oh, oh, woo I can't feel my face when I'm with you",
+      "valence": 3.3,
+      "arousal": 3.56,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "We both know we can't go without it She told me, \"You'll never be alone\", oh, oh, woo I can't feel my face when I'm with you But I love it, but I love it, oh",
+      "valence": 3.97,
+      "arousal": 4.06,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "She told me, \"You'll never be alone\", oh, oh, woo I can't feel my face when I'm with you But I love it, but I love it, oh I can't feel my face when I'm with you (I can't feel my face)",
+      "valence": 4.04,
+      "arousal": 4.1,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I can't feel my face when I'm with you But I love it, but I love it, oh I can't feel my face when I'm with you (I can't feel my face) But I love it, but I love it (but I love it)",
+      "valence": 4.22,
+      "arousal": 4.15,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "But I love it, but I love it, oh I can't feel my face when I'm with you (I can't feel my face) But I love it, but I love it (but I love it) Oh, I can't feel my face when I'm with you (I can't feel my face when I'm with you)",
+      "valence": 4.24,
+      "arousal": 4.14,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I can't feel my face when I'm with you (I can't feel my face) But I love it, but I love it (but I love it) Oh, I can't feel my face when I'm with you (I can't feel my face when I'm with you) But I love it, but I love it, oh (but I love it, yeah, but I love it)",
+      "valence": 4.14,
+      "arousal": 4.11,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "But I love it, but I love it (but I love it) Oh, I can't feel my face when I'm with you (I can't feel my face when I'm with you) But I love it, but I love it, oh (but I love it, yeah, but I love it) I can't feel my face when I'm with you (I can't feel my face when I'm with you)",
+      "valence": 4.23,
+      "arousal": 4.15,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Oh, I can't feel my face when I'm with you (I can't feel my face when I'm with you) But I love it, but I love it, oh (but I love it, yeah, but I love it) I can't feel my face when I'm with you (I can't feel my face when I'm with you) But I love it, but I love it, oh (but I love it, still I love it)",
+      "valence": 3.99,
+      "arousal": 4.11,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "But I love it, but I love it, oh (but I love it, yeah, but I love it) I can't feel my face when I'm with you (I can't feel my face when I'm with you) But I love it, but I love it, oh (but I love it, still I love it) She told me, \"Don't worry about it\"",
+      "valence": 4.25,
+      "arousal": 4.06,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I can't feel my face when I'm with you (I can't feel my face when I'm with you) But I love it, but I love it, oh (but I love it, still I love it) She told me, \"Don't worry about it\" She told me, \"Don't worry no more\"",
+      "valence": 4.05,
+      "arousal": 4.04,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "But I love it, but I love it, oh (but I love it, still I love it) She told me, \"Don't worry about it\" She told me, \"Don't worry no more\" We both know we can't go (can't go) without it",
+      "valence": 3.98,
+      "arousal": 3.85,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "She told me, \"Don't worry about it\" She told me, \"Don't worry no more\" We both know we can't go (can't go) without it She told me, \"You'll never be alone\", oh, oh, woo",
+      "valence": 3.15,
+      "arousal": 3.2,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "She told me, \"Don't worry no more\" We both know we can't go (can't go) without it She told me, \"You'll never be alone\", oh, oh, woo I can't feel my face when I'm with you (I can't feel my face)",
+      "valence": 3.12,
+      "arousal": 3.51,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "We both know we can't go (can't go) without it She told me, \"You'll never be alone\", oh, oh, woo I can't feel my face when I'm with you (I can't feel my face) But I love it, but I love it, oh (but I love it, oh, I love it)",
+      "valence": 3.89,
+      "arousal": 4.09,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "She told me, \"You'll never be alone\", oh, oh, woo I can't feel my face when I'm with you (I can't feel my face) But I love it, but I love it, oh (but I love it, oh, I love it) I can't feel my face when I'm with you (said, I can't feel my face)",
+      "valence": 3.97,
+      "arousal": 4.12,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I can't feel my face when I'm with you (I can't feel my face) But I love it, but I love it, oh (but I love it, oh, I love it) I can't feel my face when I'm with you (said, I can't feel my face) But I love it, but I love it, oh (but I love it, still I love it)",
+      "valence": 4.16,
+      "arousal": 4.15,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "But I love it, but I love it, oh (but I love it, oh, I love it) I can't feel my face when I'm with you (said, I can't feel my face) But I love it, but I love it, oh (but I love it, still I love it) I can't feel my face when I'm with you (I can't feel my face when I'm with you)",
+      "valence": 4.23,
+      "arousal": 4.22,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I can't feel my face when I'm with you (said, I can't feel my face) But I love it, but I love it, oh (but I love it, still I love it) I can't feel my face when I'm with you (I can't feel my face when I'm with you) But I love it, but I love it, oh (love, love it, told you I did)",
+      "valence": 4.1,
+      "arousal": 4.16,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "But I love it, but I love it, oh (but I love it, still I love it) I can't feel my face when I'm with you (I can't feel my face when I'm with you) But I love it, but I love it, oh (love, love it, told you I did) I can't feel my face when I'm with you (I can't feel my face when I'm with you)",
+      "valence": 4.24,
+      "arousal": 4.23,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I can't feel my face when I'm with you (I can't feel my face when I'm with you) But I love it, but I love it, oh (love, love it, told you I did) I can't feel my face when I'm with you (I can't feel my face when I'm with you) (I can't feel my face)",
+      "valence": 3.93,
+      "arousal": 4.15,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "But I love it, but I love it, oh (love, love it, told you I did) I can't feel my face when I'm with you (I can't feel my face when I'm with you) (I can't feel my face) But I love it, but I love it, oh (when I'm with you, baby, when I'm with you, baby)",
+      "valence": 4.37,
+      "arousal": 4.23,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I can't feel my face when I'm with you (I can't feel my face when I'm with you) (I can't feel my face) But I love it, but I love it, oh (when I'm with you, baby, when I'm with you, baby) I can't feel my fa...",
+      "valence": 3.77,
+      "arousal": 3.93,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "(I can't feel my face) But I love it, but I love it, oh (when I'm with you, baby, when I'm with you, baby) I can't feel my fa... Hey",
+      "valence": 4.1,
+      "arousal": 4.0,
+      "dominance": 3.16
+    }
+  ]
+}

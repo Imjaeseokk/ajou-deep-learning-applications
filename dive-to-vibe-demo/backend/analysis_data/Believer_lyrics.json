@@ -1,0 +1,528 @@
+{
+  "artist": "Imagine Dragons",
+  "overall_vad": {
+    "valence": 2.91,
+    "arousal": 3.63,
+    "dominance": 3.18
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "First things first I'ma say all the words inside my head I'm fired up and tired of the way that things have been, oh-ooh The way that things have been, oh-ooh",
+      "valence": 2.48,
+      "arousal": 3.52,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I'ma say all the words inside my head I'm fired up and tired of the way that things have been, oh-ooh The way that things have been, oh-ooh Second thing second",
+      "valence": 2.49,
+      "arousal": 3.64,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I'm fired up and tired of the way that things have been, oh-ooh The way that things have been, oh-ooh Second thing second Don't you tell me what you think that I could be",
+      "valence": 2.42,
+      "arousal": 3.56,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "The way that things have been, oh-ooh Second thing second Don't you tell me what you think that I could be I'm the one at the sail, I'm the master of my sea, oh-ooh",
+      "valence": 2.98,
+      "arousal": 3.31,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Second thing second Don't you tell me what you think that I could be I'm the one at the sail, I'm the master of my sea, oh-ooh The master of my sea, oh-ooh",
+      "valence": 3.06,
+      "arousal": 3.34,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Don't you tell me what you think that I could be I'm the one at the sail, I'm the master of my sea, oh-ooh The master of my sea, oh-ooh I was broken from a young age",
+      "valence": 2.81,
+      "arousal": 3.37,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I'm the one at the sail, I'm the master of my sea, oh-ooh The master of my sea, oh-ooh I was broken from a young age Taking my sulking to the masses",
+      "valence": 2.97,
+      "arousal": 3.34,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "The master of my sea, oh-ooh I was broken from a young age Taking my sulking to the masses Writing my poems for the few",
+      "valence": 2.79,
+      "arousal": 3.24,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I was broken from a young age Taking my sulking to the masses Writing my poems for the few That look at me, took to me, shook to me, feeling me",
+      "valence": 2.46,
+      "arousal": 3.37,
+      "dominance": 2.75
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Taking my sulking to the masses Writing my poems for the few That look at me, took to me, shook to me, feeling me Singing from heartache from the pain",
+      "valence": 2.44,
+      "arousal": 3.41,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Writing my poems for the few That look at me, took to me, shook to me, feeling me Singing from heartache from the pain Taking my message from the veins",
+      "valence": 2.47,
+      "arousal": 3.55,
+      "dominance": 2.77
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "That look at me, took to me, shook to me, feeling me Singing from heartache from the pain Taking my message from the veins Speaking my lesson from the brain",
+      "valence": 2.59,
+      "arousal": 3.61,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Singing from heartache from the pain Taking my message from the veins Speaking my lesson from the brain Seeing the beauty through the...",
+      "valence": 3.15,
+      "arousal": 3.49,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Taking my message from the veins Speaking my lesson from the brain Seeing the beauty through the... Pain!",
+      "valence": 3.33,
+      "arousal": 3.63,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Speaking my lesson from the brain Seeing the beauty through the... Pain! You made me a, you made me a believer, believer",
+      "valence": 3.49,
+      "arousal": 3.73,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Seeing the beauty through the... Pain! You made me a, you made me a believer, believer Pain!",
+      "valence": 3.22,
+      "arousal": 4.0,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Pain! You made me a, you made me a believer, believer Pain! You break me down and build me up, believer, believer",
+      "valence": 3.01,
+      "arousal": 4.1,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "You made me a, you made me a believer, believer Pain! You break me down and build me up, believer, believer Pain!",
+      "valence": 2.62,
+      "arousal": 4.1,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Pain! You break me down and build me up, believer, believer Pain! Oh, let the bullets fly, oh, let them rain",
+      "valence": 2.59,
+      "arousal": 3.98,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "You break me down and build me up, believer, believer Pain! Oh, let the bullets fly, oh, let them rain My life, my love, my drive, it came from...",
+      "valence": 2.99,
+      "arousal": 4.12,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Pain! Oh, let the bullets fly, oh, let them rain My life, my love, my drive, it came from... Pain!",
+      "valence": 2.46,
+      "arousal": 4.31,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Oh, let the bullets fly, oh, let them rain My life, my love, my drive, it came from... Pain! You made me a, you made me a believer, believer",
+      "valence": 3.15,
+      "arousal": 4.24,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "My life, my love, my drive, it came from... Pain! You made me a, you made me a believer, believer First things first",
+      "valence": 3.31,
+      "arousal": 4.24,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Pain! You made me a, you made me a believer, believer First things first Can you imagine what's about to happen?",
+      "valence": 2.99,
+      "arousal": 3.76,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "You made me a, you made me a believer, believer First things first Can you imagine what's about to happen? It's Weezy the Dragon, I link with the Dragons",
+      "valence": 3.27,
+      "arousal": 3.46,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "First things first Can you imagine what's about to happen? It's Weezy the Dragon, I link with the Dragons And we gon' get ratchet, no need for imaginin'",
+      "valence": 3.02,
+      "arousal": 3.2,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Can you imagine what's about to happen? It's Weezy the Dragon, I link with the Dragons And we gon' get ratchet, no need for imaginin' This is what's happenin'",
+      "valence": 2.96,
+      "arousal": 3.3,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "It's Weezy the Dragon, I link with the Dragons And we gon' get ratchet, no need for imaginin' This is what's happenin' Second thing second, I reckon immaculate",
+      "valence": 3.05,
+      "arousal": 3.19,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "And we gon' get ratchet, no need for imaginin' This is what's happenin' Second thing second, I reckon immaculate Sound about accurate",
+      "valence": 2.97,
+      "arousal": 3.18,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "This is what's happenin' Second thing second, I reckon immaculate Sound about accurate I know that strength, it don't come, don't come without strategy",
+      "valence": 2.98,
+      "arousal": 3.23,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Second thing second, I reckon immaculate Sound about accurate I know that strength, it don't come, don't come without strategy I know the sweet, it don't come without cavities",
+      "valence": 3.19,
+      "arousal": 3.13,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Sound about accurate I know that strength, it don't come, don't come without strategy I know the sweet, it don't come without cavities I know the passages come with some traffic",
+      "valence": 3.1,
+      "arousal": 2.97,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I know that strength, it don't come, don't come without strategy I know the sweet, it don't come without cavities I know the passages come with some traffic I start with from the basement, end up in the attic",
+      "valence": 3.04,
+      "arousal": 3.15,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I know the sweet, it don't come without cavities I know the passages come with some traffic I start with from the basement, end up in the attic And third thing third",
+      "valence": 2.93,
+      "arousal": 3.05,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I know the passages come with some traffic I start with from the basement, end up in the attic And third thing third Whoever call me out, they simply can't count",
+      "valence": 2.6,
+      "arousal": 3.14,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I start with from the basement, end up in the attic And third thing third Whoever call me out, they simply can't count Let's get mathematic, I'm up in this, huh",
+      "valence": 2.6,
+      "arousal": 3.36,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "And third thing third Whoever call me out, they simply can't count Let's get mathematic, I'm up in this, huh Is you a believer?",
+      "valence": 2.83,
+      "arousal": 3.37,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Whoever call me out, they simply can't count Let's get mathematic, I'm up in this, huh Is you a believer? I get a unicorn out of a zebra",
+      "valence": 3.02,
+      "arousal": 3.46,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Let's get mathematic, I'm up in this, huh Is you a believer? I get a unicorn out of a zebra I wear my uniform like a tuxedo",
+      "valence": 3.12,
+      "arousal": 3.36,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Is you a believer? I get a unicorn out of a zebra I wear my uniform like a tuxedo This dragon don't hold his breath, don't need no breather",
+      "valence": 3.1,
+      "arousal": 3.32,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I get a unicorn out of a zebra I wear my uniform like a tuxedo This dragon don't hold his breath, don't need no breather Love you Ms. Cita, the son of a leader",
+      "valence": 3.63,
+      "arousal": 3.57,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "I wear my uniform like a tuxedo This dragon don't hold his breath, don't need no breather Love you Ms. Cita, the son of a leader I know the bloomin' don't come without rain",
+      "valence": 3.55,
+      "arousal": 3.56,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "This dragon don't hold his breath, don't need no breather Love you Ms. Cita, the son of a leader I know the bloomin' don't come without rain I know the losin' don't come without shame",
+      "valence": 3.39,
+      "arousal": 3.67,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Love you Ms. Cita, the son of a leader I know the bloomin' don't come without rain I know the losin' don't come without shame I know the beauty don't come without hurt",
+      "valence": 3.87,
+      "arousal": 3.65,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I know the bloomin' don't come without rain I know the losin' don't come without shame I know the beauty don't come without hurt Hol' up, hol' up, last thing last",
+      "valence": 2.9,
+      "arousal": 3.22,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I know the losin' don't come without shame I know the beauty don't come without hurt Hol' up, hol' up, last thing last I know that Tunechi don't come without Wayne",
+      "valence": 2.72,
+      "arousal": 3.13,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I know the beauty don't come without hurt Hol' up, hol' up, last thing last I know that Tunechi don't come without Wayne I know that losin' don't come without game",
+      "valence": 2.84,
+      "arousal": 3.12,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Hol' up, hol' up, last thing last I know that Tunechi don't come without Wayne I know that losin' don't come without game I know that glory don't come without...",
+      "valence": 2.72,
+      "arousal": 3.3,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I know that Tunechi don't come without Wayne I know that losin' don't come without game I know that glory don't come without... Don't come without...",
+      "valence": 2.91,
+      "arousal": 3.07,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I know that losin' don't come without game I know that glory don't come without... Don't come without... Pain!",
+      "valence": 2.42,
+      "arousal": 3.58,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I know that glory don't come without... Don't come without... Pain! You made me a, you made me a believer, believer",
+      "valence": 2.58,
+      "arousal": 3.73,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Don't come without... Pain! You made me a, you made me a believer, believer Pain!",
+      "valence": 2.42,
+      "arousal": 4.08,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Pain! You made me a, you made me a believer, believer Pain! You break me down and build me up, believer, believer",
+      "valence": 3.01,
+      "arousal": 4.1,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "You made me a, you made me a believer, believer Pain! You break me down and build me up, believer, believer Pain",
+      "valence": 2.71,
+      "arousal": 3.98,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Pain! You break me down and build me up, believer, believer Pain Oh, let the bullets fly, oh, let them rain",
+      "valence": 2.58,
+      "arousal": 3.76,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "You break me down and build me up, believer, believer Pain Oh, let the bullets fly, oh, let them rain My life, my love, my drive, it came from...",
+      "valence": 3.28,
+      "arousal": 3.92,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Pain Oh, let the bullets fly, oh, let them rain My life, my love, my drive, it came from... Pain!",
+      "valence": 2.63,
+      "arousal": 4.17,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Oh, let the bullets fly, oh, let them rain My life, my love, my drive, it came from... Pain! You made me a, you made me a believer, believer",
+      "valence": 3.15,
+      "arousal": 4.24,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "My life, my love, my drive, it came from... Pain! You made me a, you made me a believer, believer Last things last",
+      "valence": 3.3,
+      "arousal": 4.25,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Pain! You made me a, you made me a believer, believer Last things last By the grace of fire and flames",
+      "valence": 2.95,
+      "arousal": 3.73,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "You made me a, you made me a believer, believer Last things last By the grace of fire and flames You're the face of the future, the blood in my veins, oh-ooh",
+      "valence": 3.42,
+      "arousal": 3.59,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Last things last By the grace of fire and flames You're the face of the future, the blood in my veins, oh-ooh The blood in my veins, oh-ooh",
+      "valence": 3.29,
+      "arousal": 3.61,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "By the grace of fire and flames You're the face of the future, the blood in my veins, oh-ooh The blood in my veins, oh-ooh But they never did, ever lived, ebbing and flowing",
+      "valence": 3.24,
+      "arousal": 3.59,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "You're the face of the future, the blood in my veins, oh-ooh The blood in my veins, oh-ooh But they never did, ever lived, ebbing and flowing Inhibited, limited 'til it broke open and rained down",
+      "valence": 3.08,
+      "arousal": 3.63,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "The blood in my veins, oh-ooh But they never did, ever lived, ebbing and flowing Inhibited, limited 'til it broke open and rained down It rained down, like...",
+      "valence": 2.62,
+      "arousal": 3.28,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "But they never did, ever lived, ebbing and flowing Inhibited, limited 'til it broke open and rained down It rained down, like... Pain!",
+      "valence": 2.29,
+      "arousal": 3.63,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Inhibited, limited 'til it broke open and rained down It rained down, like... Pain! You made me a, you made me a believer, believer",
+      "valence": 2.48,
+      "arousal": 3.9,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "It rained down, like... Pain! You made me a, you made me a believer, believer Pain!",
+      "valence": 2.34,
+      "arousal": 4.25,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Pain! You made me a, you made me a believer, believer Pain! You break me down and build me up, believer, believer",
+      "valence": 3.01,
+      "arousal": 4.1,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "You made me a, you made me a believer, believer Pain! You break me down and build me up, believer, believer Pain",
+      "valence": 2.71,
+      "arousal": 3.98,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Pain! You break me down and build me up, believer, believer Pain Oh, let the bullets fly, oh, let them rain",
+      "valence": 2.58,
+      "arousal": 3.76,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "You break me down and build me up, believer, believer Pain Oh, let the bullets fly, oh, let them rain My life, my love, my drive, it came from...",
+      "valence": 3.28,
+      "arousal": 3.92,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Pain Oh, let the bullets fly, oh, let them rain My life, my love, my drive, it came from... Pain!",
+      "valence": 2.63,
+      "arousal": 4.17,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Oh, let the bullets fly, oh, let them rain My life, my love, my drive, it came from... Pain! You made me a, you made me a believer, believer",
+      "valence": 3.15,
+      "arousal": 4.24,
+      "dominance": 3.12
+    }
+  ]
+}

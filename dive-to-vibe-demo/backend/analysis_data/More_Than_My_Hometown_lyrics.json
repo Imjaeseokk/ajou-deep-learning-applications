@@ -1,0 +1,290 @@
+{
+  "artist": "Morgan Wallen",
+  "overall_vad": {
+    "valence": 3.4,
+    "arousal": 3.76,
+    "dominance": 3.3
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Girl, our mamas are best friends and so are we The whole town's rooting for us like the home team Most likely to settle down Plant a few roots real deep and let 'em grow",
+      "valence": 3.67,
+      "arousal": 3.5,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "The whole town's rooting for us like the home team Most likely to settle down Plant a few roots real deep and let 'em grow But we can't stop this real world from spinnin' us",
+      "valence": 3.15,
+      "arousal": 3.18,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Most likely to settle down Plant a few roots real deep and let 'em grow But we can't stop this real world from spinnin' us Your bright lights called, I don't blame you for pickin' up",
+      "valence": 3.05,
+      "arousal": 3.11,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Plant a few roots real deep and let 'em grow But we can't stop this real world from spinnin' us Your bright lights called, I don't blame you for pickin' up Your big dream bags are all packed up and ready to go",
+      "valence": 3.21,
+      "arousal": 3.23,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "But we can't stop this real world from spinnin' us Your bright lights called, I don't blame you for pickin' up Your big dream bags are all packed up and ready to go But I just need you to know",
+      "valence": 3.08,
+      "arousal": 3.24,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Your bright lights called, I don't blame you for pickin' up Your big dream bags are all packed up and ready to go But I just need you to know That I love you more than a California sunset",
+      "valence": 3.77,
+      "arousal": 3.67,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Your big dream bags are all packed up and ready to go But I just need you to know That I love you more than a California sunset More than a beer when you ain't twenty-one yet",
+      "valence": 3.79,
+      "arousal": 3.78,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "But I just need you to know That I love you more than a California sunset More than a beer when you ain't twenty-one yet More than a Sunday morning Lord",
+      "valence": 3.68,
+      "arousal": 3.62,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "That I love you more than a California sunset More than a beer when you ain't twenty-one yet More than a Sunday morning Lord Turnin' some poor lost souls 'round, and Hallelujah bound",
+      "valence": 3.77,
+      "arousal": 3.78,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "More than a beer when you ain't twenty-one yet More than a Sunday morning Lord Turnin' some poor lost souls 'round, and Hallelujah bound Yeah, I love you more than the feeling when the bass hits the hook",
+      "valence": 3.81,
+      "arousal": 3.92,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "More than a Sunday morning Lord Turnin' some poor lost souls 'round, and Hallelujah bound Yeah, I love you more than the feeling when the bass hits the hook When the guy gets the girl at the end of the book",
+      "valence": 3.97,
+      "arousal": 3.98,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Turnin' some poor lost souls 'round, and Hallelujah bound Yeah, I love you more than the feeling when the bass hits the hook When the guy gets the girl at the end of the book But, baby, this might be the last time I get to lay you down",
+      "valence": 3.76,
+      "arousal": 4.02,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Yeah, I love you more than the feeling when the bass hits the hook When the guy gets the girl at the end of the book But, baby, this might be the last time I get to lay you down 'Cause I can't love you more than my hometown",
+      "valence": 3.87,
+      "arousal": 4.1,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "When the guy gets the girl at the end of the book But, baby, this might be the last time I get to lay you down 'Cause I can't love you more than my hometown I ain't the runaway kind, I can't change that",
+      "valence": 2.75,
+      "arousal": 3.64,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "But, baby, this might be the last time I get to lay you down 'Cause I can't love you more than my hometown I ain't the runaway kind, I can't change that My heart's stuck in these streets like the train tracks",
+      "valence": 2.64,
+      "arousal": 3.77,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "'Cause I can't love you more than my hometown I ain't the runaway kind, I can't change that My heart's stuck in these streets like the train tracks City sky ain't the same black",
+      "valence": 3.02,
+      "arousal": 3.76,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I ain't the runaway kind, I can't change that My heart's stuck in these streets like the train tracks City sky ain't the same black Ain't that a map dot shame, man, to think that",
+      "valence": 2.49,
+      "arousal": 3.34,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "My heart's stuck in these streets like the train tracks City sky ain't the same black Ain't that a map dot shame, man, to think that I love you more than a California sunset",
+      "valence": 3.09,
+      "arousal": 3.7,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "City sky ain't the same black Ain't that a map dot shame, man, to think that I love you more than a California sunset More than a beer when you ain't twenty-one yet",
+      "valence": 3.02,
+      "arousal": 3.39,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Ain't that a map dot shame, man, to think that I love you more than a California sunset More than a beer when you ain't twenty-one yet More than a Sunday morning Lord",
+      "valence": 3.3,
+      "arousal": 3.49,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I love you more than a California sunset More than a beer when you ain't twenty-one yet More than a Sunday morning Lord Turnin' some poor lost souls around, and Hallelujah bound",
+      "valence": 3.88,
+      "arousal": 3.85,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "More than a beer when you ain't twenty-one yet More than a Sunday morning Lord Turnin' some poor lost souls around, and Hallelujah bound Yeah, I love you more than the feeling when the bass hits the hook",
+      "valence": 3.82,
+      "arousal": 3.91,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "More than a Sunday morning Lord Turnin' some poor lost souls around, and Hallelujah bound Yeah, I love you more than the feeling when the bass hits the hook When the guy gets the girl at the end of the book",
+      "valence": 3.97,
+      "arousal": 3.99,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Turnin' some poor lost souls around, and Hallelujah bound Yeah, I love you more than the feeling when the bass hits the hook When the guy gets the girl at the end of the book But, baby, this might be the last time I get to lay you down",
+      "valence": 3.76,
+      "arousal": 4.02,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Yeah, I love you more than the feeling when the bass hits the hook When the guy gets the girl at the end of the book But, baby, this might be the last time I get to lay you down 'Cause I can't love you more than my hometown",
+      "valence": 3.87,
+      "arousal": 4.1,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "When the guy gets the girl at the end of the book But, baby, this might be the last time I get to lay you down 'Cause I can't love you more than my hometown Yeah, you got a wild in your eyes that I just wasn't born with",
+      "valence": 3.2,
+      "arousal": 3.85,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "But, baby, this might be the last time I get to lay you down 'Cause I can't love you more than my hometown Yeah, you got a wild in your eyes that I just wasn't born with I'm a same gas station cup of coffee in the mornin'",
+      "valence": 3.1,
+      "arousal": 3.89,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "'Cause I can't love you more than my hometown Yeah, you got a wild in your eyes that I just wasn't born with I'm a same gas station cup of coffee in the mornin' I need a house on the hill, girl, not in 'em",
+      "valence": 3.31,
+      "arousal": 4.03,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Yeah, you got a wild in your eyes that I just wasn't born with I'm a same gas station cup of coffee in the mornin' I need a house on the hill, girl, not in 'em So hang onto these words 'til them avenues help you forget 'em",
+      "valence": 2.6,
+      "arousal": 3.62,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I'm a same gas station cup of coffee in the mornin' I need a house on the hill, girl, not in 'em So hang onto these words 'til them avenues help you forget 'em 'Cause I love you more than a California sunset",
+      "valence": 3.09,
+      "arousal": 3.82,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I need a house on the hill, girl, not in 'em So hang onto these words 'til them avenues help you forget 'em 'Cause I love you more than a California sunset I love you more in a twenty-dollar sundress",
+      "valence": 3.03,
+      "arousal": 3.73,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "So hang onto these words 'til them avenues help you forget 'em 'Cause I love you more than a California sunset I love you more in a twenty-dollar sundress Hate that loaded down car you got your keys in",
+      "valence": 3.54,
+      "arousal": 3.84,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "'Cause I love you more than a California sunset I love you more in a twenty-dollar sundress Hate that loaded down car you got your keys in Girl, but I hate even more that you're leavin'",
+      "valence": 3.39,
+      "arousal": 4.06,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I love you more in a twenty-dollar sundress Hate that loaded down car you got your keys in Girl, but I hate even more that you're leavin' 'Cause I love you more than the feeling when the bass hits the hook",
+      "valence": 3.55,
+      "arousal": 4.09,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Hate that loaded down car you got your keys in Girl, but I hate even more that you're leavin' 'Cause I love you more than the feeling when the bass hits the hook When the guy gets the girl at the end of the book",
+      "valence": 2.97,
+      "arousal": 4.05,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Girl, but I hate even more that you're leavin' 'Cause I love you more than the feeling when the bass hits the hook When the guy gets the girl at the end of the book But that ain't you and me so I guess I'll see you around",
+      "valence": 2.62,
+      "arousal": 3.72,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "'Cause I love you more than the feeling when the bass hits the hook When the guy gets the girl at the end of the book But that ain't you and me so I guess I'll see you around 'Cause I can't love you more than my hometown",
+      "valence": 3.79,
+      "arousal": 3.91,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "When the guy gets the girl at the end of the book But that ain't you and me so I guess I'll see you around 'Cause I can't love you more than my hometown Love you more than my hometown",
+      "valence": 3.59,
+      "arousal": 3.73,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "But that ain't you and me so I guess I'll see you around 'Cause I can't love you more than my hometown Love you more than my hometown Love you more than my hometown",
+      "valence": 3.68,
+      "arousal": 3.67,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "'Cause I can't love you more than my hometown Love you more than my hometown Love you more than my hometown Love you more, baby, love you more",
+      "valence": 4.29,
+      "arousal": 4.18,
+      "dominance": 3.4
+    }
+  ]
+}

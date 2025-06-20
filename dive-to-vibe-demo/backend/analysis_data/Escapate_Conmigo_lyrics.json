@@ -1,0 +1,479 @@
+{
+  "artist": "Wisin Featuring Ozuna",
+  "overall_vad": {
+    "valence": 3.04,
+    "arousal": 3.16,
+    "dominance": 3.11
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Ey Ozuna! Doble U SerÃ¡ la magia que tienen tus ojos",
+      "valence": 3.22,
+      "arousal": 3.62,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Ozuna! Doble U SerÃ¡ la magia que tienen tus ojos Y esos truquitos para enamorar",
+      "valence": 3.27,
+      "arousal": 3.65,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Doble U SerÃ¡ la magia que tienen tus ojos Y esos truquitos para enamorar TÃº me seduces a tu antojo",
+      "valence": 3.11,
+      "arousal": 3.28,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "SerÃ¡ la magia que tienen tus ojos Y esos truquitos para enamorar TÃº me seduces a tu antojo Y de tu hechizo no puedo escapar",
+      "valence": 3.13,
+      "arousal": 3.22,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Y esos truquitos para enamorar TÃº me seduces a tu antojo Y de tu hechizo no puedo escapar QuÃ© ganas tengo de buscarte",
+      "valence": 3.19,
+      "arousal": 3.25,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "TÃº me seduces a tu antojo Y de tu hechizo no puedo escapar QuÃ© ganas tengo de buscarte Y de volverte a besar",
+      "valence": 3.11,
+      "arousal": 3.23,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Y de tu hechizo no puedo escapar QuÃ© ganas tengo de buscarte Y de volverte a besar Por mÃ¡s que traten de alejarte",
+      "valence": 2.99,
+      "arousal": 3.02,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "QuÃ© ganas tengo de buscarte Y de volverte a besar Por mÃ¡s que traten de alejarte Baby hoy conmigo tÃº te vas",
+      "valence": 3.02,
+      "arousal": 3.16,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Y de volverte a besar Por mÃ¡s que traten de alejarte Baby hoy conmigo tÃº te vas Yo solo quiero que confÃ­es en mÃ­",
+      "valence": 3.0,
+      "arousal": 3.2,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Por mÃ¡s que traten de alejarte Baby hoy conmigo tÃº te vas Yo solo quiero que confÃ­es en mÃ­ Y seas valiente, bebÃ©",
+      "valence": 3.07,
+      "arousal": 3.26,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Baby hoy conmigo tÃº te vas Yo solo quiero que confÃ­es en mÃ­ Y seas valiente, bebÃ© EscÃ¡pate conmigo esta noche, bebÃ©",
+      "valence": 3.15,
+      "arousal": 3.3,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Yo solo quiero que confÃ­es en mÃ­ Y seas valiente, bebÃ© EscÃ¡pate conmigo esta noche, bebÃ© Te quiero comer, te va a encantar",
+      "valence": 3.12,
+      "arousal": 3.22,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Y seas valiente, bebÃ© EscÃ¡pate conmigo esta noche, bebÃ© Te quiero comer, te va a encantar TÃº sabes que conmigo siempre la pasas bien",
+      "valence": 3.11,
+      "arousal": 3.22,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "EscÃ¡pate conmigo esta noche, bebÃ© Te quiero comer, te va a encantar TÃº sabes que conmigo siempre la pasas bien Te quiero comer, tus labios besar",
+      "valence": 3.03,
+      "arousal": 3.23,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Te quiero comer, te va a encantar TÃº sabes que conmigo siempre la pasas bien Te quiero comer, tus labios besar BebÃ© no digas que no",
+      "valence": 2.96,
+      "arousal": 3.18,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "TÃº sabes que conmigo siempre la pasas bien Te quiero comer, tus labios besar BebÃ© no digas que no Si solo somos tÃº y yo",
+      "valence": 2.81,
+      "arousal": 3.15,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Te quiero comer, tus labios besar BebÃ© no digas que no Si solo somos tÃº y yo Y se te eriza la piel",
+      "valence": 2.83,
+      "arousal": 3.16,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "BebÃ© no digas que no Si solo somos tÃº y yo Y se te eriza la piel Cuando entramos en calor",
+      "valence": 2.83,
+      "arousal": 3.14,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Si solo somos tÃº y yo Y se te eriza la piel Cuando entramos en calor BebÃ© no digas que no",
+      "valence": 2.89,
+      "arousal": 3.11,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Y se te eriza la piel Cuando entramos en calor BebÃ© no digas que no Si solo somos tÃº y yo",
+      "valence": 2.87,
+      "arousal": 3.06,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Cuando entramos en calor BebÃ© no digas que no Si solo somos tÃº y yo Y se te eriza la piel",
+      "valence": 2.84,
+      "arousal": 3.14,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "BebÃ© no digas que no Si solo somos tÃº y yo Y se te eriza la piel Cuando entramos en calor",
+      "valence": 2.83,
+      "arousal": 3.14,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Si solo somos tÃº y yo Y se te eriza la piel Cuando entramos en calor Mi super nova, la que una sonrisa me roba",
+      "valence": 2.95,
+      "arousal": 3.12,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Y se te eriza la piel Cuando entramos en calor Mi super nova, la que una sonrisa me roba Tremenda loba, solo un beso y calienta la alcoba",
+      "valence": 3.0,
+      "arousal": 3.08,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Cuando entramos en calor Mi super nova, la que una sonrisa me roba Tremenda loba, solo un beso y calienta la alcoba Se me pega y me soba, no se incomoda",
+      "valence": 2.96,
+      "arousal": 3.07,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Mi super nova, la que una sonrisa me roba Tremenda loba, solo un beso y calienta la alcoba Se me pega y me soba, no se incomoda La baby es una pantera, yo soy su Casanova",
+      "valence": 3.26,
+      "arousal": 3.26,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Tremenda loba, solo un beso y calienta la alcoba Se me pega y me soba, no se incomoda La baby es una pantera, yo soy su Casanova EscÃ¡pate conmigo, donde no hayan testigos",
+      "valence": 3.14,
+      "arousal": 3.07,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Se me pega y me soba, no se incomoda La baby es una pantera, yo soy su Casanova EscÃ¡pate conmigo, donde no hayan testigos Si te preguntan, dile que soy tu mejor amigo",
+      "valence": 3.19,
+      "arousal": 3.15,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "La baby es una pantera, yo soy su Casanova EscÃ¡pate conmigo, donde no hayan testigos Si te preguntan, dile que soy tu mejor amigo Yo quiero un beso, tu quieres castigo",
+      "valence": 3.26,
+      "arousal": 3.26,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "EscÃ¡pate conmigo, donde no hayan testigos Si te preguntan, dile que soy tu mejor amigo Yo quiero un beso, tu quieres castigo Sabes que no te obligo, te deseo, siempre te lo digo (Mamita deja la ventana abierta)",
+      "valence": 3.17,
+      "arousal": 3.2,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Si te preguntan, dile que soy tu mejor amigo Yo quiero un beso, tu quieres castigo Sabes que no te obligo, te deseo, siempre te lo digo (Mamita deja la ventana abierta) EscÃ¡pate conmigo esta noche, bebÃ©",
+      "valence": 3.15,
+      "arousal": 3.26,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Yo quiero un beso, tu quieres castigo Sabes que no te obligo, te deseo, siempre te lo digo (Mamita deja la ventana abierta) EscÃ¡pate conmigo esta noche, bebÃ© Te quiero comer, te va a encantar",
+      "valence": 3.08,
+      "arousal": 3.2,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Sabes que no te obligo, te deseo, siempre te lo digo (Mamita deja la ventana abierta) EscÃ¡pate conmigo esta noche, bebÃ© Te quiero comer, te va a encantar TÃº sabes que conmigo siempre la pasas bien",
+      "valence": 3.01,
+      "arousal": 3.11,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "EscÃ¡pate conmigo esta noche, bebÃ© Te quiero comer, te va a encantar TÃº sabes que conmigo siempre la pasas bien Te quiero comer, tus labios besar",
+      "valence": 3.03,
+      "arousal": 3.23,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Te quiero comer, te va a encantar TÃº sabes que conmigo siempre la pasas bien Te quiero comer, tus labios besar Es que yo quiero un poco mÃ¡s, de tu rica desnudez",
+      "valence": 3.02,
+      "arousal": 3.15,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "TÃº sabes que conmigo siempre la pasas bien Te quiero comer, tus labios besar Es que yo quiero un poco mÃ¡s, de tu rica desnudez Es que el sudor de tu piel, es el que yo quiero probar",
+      "valence": 3.01,
+      "arousal": 3.13,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Te quiero comer, tus labios besar Es que yo quiero un poco mÃ¡s, de tu rica desnudez Es que el sudor de tu piel, es el que yo quiero probar Es que yo quiero un poco mÃ¡s, de tu rica desnudez",
+      "valence": 2.98,
+      "arousal": 3.13,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Es que yo quiero un poco mÃ¡s, de tu rica desnudez Es que el sudor de tu piel, es el que yo quiero probar Es que yo quiero un poco mÃ¡s, de tu rica desnudez Es que el sudor de tu piel, es el que yo quiero probar",
+      "valence": 2.98,
+      "arousal": 3.16,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Es que el sudor de tu piel, es el que yo quiero probar Es que yo quiero un poco mÃ¡s, de tu rica desnudez Es que el sudor de tu piel, es el que yo quiero probar Baby andamos con los poderes",
+      "valence": 3.11,
+      "arousal": 3.17,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Es que yo quiero un poco mÃ¡s, de tu rica desnudez Es que el sudor de tu piel, es el que yo quiero probar Baby andamos con los poderes Ozuna",
+      "valence": 3.2,
+      "arousal": 3.16,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Es que el sudor de tu piel, es el que yo quiero probar Baby andamos con los poderes Ozuna Mi mente descontrola",
+      "valence": 3.18,
+      "arousal": 3.17,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Baby andamos con los poderes Ozuna Mi mente descontrola Y si la llamo ella me dice que la busque que estÃ¡ sola",
+      "valence": 3.1,
+      "arousal": 3.13,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Ozuna Mi mente descontrola Y si la llamo ella me dice que la busque que estÃ¡ sola Que no hay tiempo, pero haciÃ©ndolo se demora",
+      "valence": 2.92,
+      "arousal": 2.99,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Mi mente descontrola Y si la llamo ella me dice que la busque que estÃ¡ sola Que no hay tiempo, pero haciÃ©ndolo se demora Si le fallo, que tranquilo por que no se enamora",
+      "valence": 3.0,
+      "arousal": 2.97,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Y si la llamo ella me dice que la busque que estÃ¡ sola Que no hay tiempo, pero haciÃ©ndolo se demora Si le fallo, que tranquilo por que no se enamora Tranquila, la vida conmigo te lo vacilas",
+      "valence": 3.01,
+      "arousal": 3.03,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Que no hay tiempo, pero haciÃ©ndolo se demora Si le fallo, que tranquilo por que no se enamora Tranquila, la vida conmigo te lo vacilas Que no he visto otra baby, de tu liga",
+      "valence": 3.04,
+      "arousal": 3.12,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Si le fallo, que tranquilo por que no se enamora Tranquila, la vida conmigo te lo vacilas Que no he visto otra baby, de tu liga Esos besitos que me dan ganas",
+      "valence": 3.04,
+      "arousal": 3.1,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Tranquila, la vida conmigo te lo vacilas Que no he visto otra baby, de tu liga Esos besitos que me dan ganas De amanecer contigo todas las maÃ±anas",
+      "valence": 3.1,
+      "arousal": 3.24,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Que no he visto otra baby, de tu liga Esos besitos que me dan ganas De amanecer contigo todas las maÃ±anas EscÃ¡pate conmigo esta noche, bebÃ©",
+      "valence": 3.03,
+      "arousal": 3.27,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Esos besitos que me dan ganas De amanecer contigo todas las maÃ±anas EscÃ¡pate conmigo esta noche, bebÃ© Te quiero comer, te va a encantar",
+      "valence": 3.01,
+      "arousal": 3.2,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "De amanecer contigo todas las maÃ±anas EscÃ¡pate conmigo esta noche, bebÃ© Te quiero comer, te va a encantar TÃº sabes que conmigo siempre la pasas bien",
+      "valence": 3.07,
+      "arousal": 3.19,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "EscÃ¡pate conmigo esta noche, bebÃ© Te quiero comer, te va a encantar TÃº sabes que conmigo siempre la pasas bien Te quiero comer, tus labios besar",
+      "valence": 3.03,
+      "arousal": 3.23,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Te quiero comer, te va a encantar TÃº sabes que conmigo siempre la pasas bien Te quiero comer, tus labios besar BeÃ© no digas que no, si solo somos tÃº y yo",
+      "valence": 2.95,
+      "arousal": 3.17,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "TÃº sabes que conmigo siempre la pasas bien Te quiero comer, tus labios besar BeÃ© no digas que no, si solo somos tÃº y yo Y se te eriza la piel, cuando entramos en calor",
+      "valence": 2.89,
+      "arousal": 3.19,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Te quiero comer, tus labios besar BeÃ© no digas que no, si solo somos tÃº y yo Y se te eriza la piel, cuando entramos en calor BebÃ© no digas que no, si solo somos tÃº y yo",
+      "valence": 2.87,
+      "arousal": 3.15,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "BeÃ© no digas que no, si solo somos tÃº y yo Y se te eriza la piel, cuando entramos en calor BebÃ© no digas que no, si solo somos tÃº y yo Y se te eriza la piel, cuando entramos en calor",
+      "valence": 2.82,
+      "arousal": 3.18,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Y se te eriza la piel, cuando entramos en calor BebÃ© no digas que no, si solo somos tÃº y yo Y se te eriza la piel, cuando entramos en calor SeÃ±oritas es sencillo",
+      "valence": 2.92,
+      "arousal": 3.14,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "BebÃ© no digas que no, si solo somos tÃº y yo Y se te eriza la piel, cuando entramos en calor SeÃ±oritas es sencillo Todo lo hacemos por ustedes",
+      "valence": 2.91,
+      "arousal": 3.11,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Y se te eriza la piel, cuando entramos en calor SeÃ±oritas es sencillo Todo lo hacemos por ustedes Un junte poderoso",
+      "valence": 3.02,
+      "arousal": 3.08,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "SeÃ±oritas es sencillo Todo lo hacemos por ustedes Un junte poderoso W",
+      "valence": 3.03,
+      "arousal": 3.07,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Todo lo hacemos por ustedes Un junte poderoso W Ozuna",
+      "valence": 3.04,
+      "arousal": 2.98,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Un junte poderoso W Ozuna Multimillon Records",
+      "valence": 3.06,
+      "arousal": 2.88,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "W Ozuna Multimillon Records Los Legendarios",
+      "valence": 3.07,
+      "arousal": 2.94,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Ozuna Multimillon Records Los Legendarios Hi El Quimico",
+      "valence": 3.09,
+      "arousal": 3.0,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Multimillon Records Los Legendarios Hi El Quimico Gaby Music",
+      "valence": 3.24,
+      "arousal": 3.11,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Los Legendarios Hi El Quimico Gaby Music Otros niveles musicales",
+      "valence": 3.29,
+      "arousal": 3.19,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Hi El Quimico Gaby Music Otros niveles musicales Translate to English",
+      "valence": 3.23,
+      "arousal": 3.08,
+      "dominance": 3.12
+    }
+  ]
+}

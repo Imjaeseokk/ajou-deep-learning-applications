@@ -1,0 +1,409 @@
+{
+  "artist": "Naughty Boy Featuring Sam Smith",
+  "overall_vad": {
+    "valence": 2.63,
+    "arousal": 3.53,
+    "dominance": 3.3
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "La la, la la la la la na na na na na La la na na, la la la la la na na na na na La la, la la la la la na na na na na La la na na, la la la la la na na na na na",
+      "valence": 3.03,
+      "arousal": 3.28,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "La la na na, la la la la la na na na na na La la, la la la la la na na na na na La la na na, la la la la la na na na na na Hush, don't speak",
+      "valence": 2.77,
+      "arousal": 3.46,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "La la, la la la la la na na na na na La la na na, la la la la la na na na na na Hush, don't speak When you spit your venom, keep it shut I hate it",
+      "valence": 2.13,
+      "arousal": 4.06,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "La la na na, la la la la la na na na na na Hush, don't speak When you spit your venom, keep it shut I hate it When you hiss and preach",
+      "valence": 2.06,
+      "arousal": 3.92,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Hush, don't speak When you spit your venom, keep it shut I hate it When you hiss and preach About your new messiah 'cause your theories catch fire",
+      "valence": 2.23,
+      "arousal": 3.92,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "When you spit your venom, keep it shut I hate it When you hiss and preach About your new messiah 'cause your theories catch fire I can't find your silver lining",
+      "valence": 2.14,
+      "arousal": 3.8,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "When you hiss and preach About your new messiah 'cause your theories catch fire I can't find your silver lining I don't mean to judge",
+      "valence": 2.62,
+      "arousal": 3.29,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "About your new messiah 'cause your theories catch fire I can't find your silver lining I don't mean to judge But when you read your speech, it's tiring",
+      "valence": 2.59,
+      "arousal": 3.28,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I can't find your silver lining I don't mean to judge But when you read your speech, it's tiring Enough is enough",
+      "valence": 2.63,
+      "arousal": 3.15,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I don't mean to judge But when you read your speech, it's tiring Enough is enough I'm covering my ears like a kid",
+      "valence": 2.61,
+      "arousal": 3.39,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "But when you read your speech, it's tiring Enough is enough I'm covering my ears like a kid When your words mean nothing, I go la la la",
+      "valence": 2.53,
+      "arousal": 3.39,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Enough is enough I'm covering my ears like a kid When your words mean nothing, I go la la la I'm turning up the volume when you speak",
+      "valence": 2.42,
+      "arousal": 3.59,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I'm covering my ears like a kid When your words mean nothing, I go la la la I'm turning up the volume when you speak 'Cause if my heart can't stop it",
+      "valence": 2.62,
+      "arousal": 3.66,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "When your words mean nothing, I go la la la I'm turning up the volume when you speak 'Cause if my heart can't stop it I find a way to block it, I go",
+      "valence": 2.53,
+      "arousal": 3.7,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I'm turning up the volume when you speak 'Cause if my heart can't stop it I find a way to block it, I go La la, la la la la la na na na na na",
+      "valence": 2.67,
+      "arousal": 3.74,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "'Cause if my heart can't stop it I find a way to block it, I go La la, la la la la la na na na na na La la na na, la la la la la na na na na na",
+      "valence": 2.77,
+      "arousal": 3.46,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I find a way to block it, I go La la, la la la la la na na na na na La la na na, la la la la la na na na na na I find a way to block it, I go",
+      "valence": 2.94,
+      "arousal": 3.35,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "La la, la la la la la na na na na na La la na na, la la la la la na na na na na I find a way to block it, I go La la na na, la la la la la na na na na na",
+      "valence": 2.86,
+      "arousal": 3.37,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "La la na na, la la la la la na na na na na I find a way to block it, I go La la na na, la la la la la na na na na na La la na na, la la la la la na na na na na",
+      "valence": 2.83,
+      "arousal": 3.31,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I find a way to block it, I go La la na na, la la la la la na na na na na La la na na, la la la la la na na na na na If our love is running out of time",
+      "valence": 2.94,
+      "arousal": 3.5,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "La la na na, la la la la la na na na na na La la na na, la la la la la na na na na na If our love is running out of time I won't count the hours, rather be a coward",
+      "valence": 2.37,
+      "arousal": 3.54,
+      "dominance": 2.77
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "La la na na, la la la la la na na na na na If our love is running out of time I won't count the hours, rather be a coward When our worlds collide",
+      "valence": 2.43,
+      "arousal": 3.51,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "If our love is running out of time I won't count the hours, rather be a coward When our worlds collide I'm gonna drown you out before I lose my mind",
+      "valence": 2.25,
+      "arousal": 3.77,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I won't count the hours, rather be a coward When our worlds collide I'm gonna drown you out before I lose my mind I can't find your silver lining",
+      "valence": 2.29,
+      "arousal": 3.71,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "When our worlds collide I'm gonna drown you out before I lose my mind I can't find your silver lining I don't mean to judge",
+      "valence": 2.41,
+      "arousal": 3.79,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I'm gonna drown you out before I lose my mind I can't find your silver lining I don't mean to judge But when you read your speech, it's tiring",
+      "valence": 2.41,
+      "arousal": 3.63,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I can't find your silver lining I don't mean to judge But when you read your speech, it's tiring Enough is enough",
+      "valence": 2.63,
+      "arousal": 3.15,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I don't mean to judge But when you read your speech, it's tiring Enough is enough I'm covering my ears like a kid",
+      "valence": 2.61,
+      "arousal": 3.39,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "But when you read your speech, it's tiring Enough is enough I'm covering my ears like a kid When your words mean nothing, I go la la la",
+      "valence": 2.53,
+      "arousal": 3.39,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Enough is enough I'm covering my ears like a kid When your words mean nothing, I go la la la I'm turning up the volume when you speak",
+      "valence": 2.42,
+      "arousal": 3.59,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I'm covering my ears like a kid When your words mean nothing, I go la la la I'm turning up the volume when you speak 'Cause if my heart can't stop it",
+      "valence": 2.62,
+      "arousal": 3.66,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "When your words mean nothing, I go la la la I'm turning up the volume when you speak 'Cause if my heart can't stop it I find a way to block it, I go",
+      "valence": 2.53,
+      "arousal": 3.7,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I'm turning up the volume when you speak 'Cause if my heart can't stop it I find a way to block it, I go La la, la la la la la na na na na na",
+      "valence": 2.67,
+      "arousal": 3.74,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "'Cause if my heart can't stop it I find a way to block it, I go La la, la la la la la na na na na na La la na na, la la la la la na na na na na",
+      "valence": 2.77,
+      "arousal": 3.46,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I find a way to block it, I go La la, la la la la la na na na na na La la na na, la la la la la na na na na na I find a way to block it, I go",
+      "valence": 2.94,
+      "arousal": 3.35,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "La la, la la la la la na na na na na La la na na, la la la la la na na na na na I find a way to block it, I go La la, la la la la la na na na na na",
+      "valence": 2.86,
+      "arousal": 3.42,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "La la na na, la la la la la na na na na na I find a way to block it, I go La la, la la la la la na na na na na La la na na, la la la la la na na na na na",
+      "valence": 2.84,
+      "arousal": 3.34,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "I find a way to block it, I go La la, la la la la la na na na na na La la na na, la la la la la na na na na na I find a way to block it, oh",
+      "valence": 2.93,
+      "arousal": 3.33,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "La la, la la la la la na na na na na La la na na, la la la la la na na na na na I find a way to block it, oh La la, la la la la la na na na na na",
+      "valence": 2.85,
+      "arousal": 3.46,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "La la na na, la la la la la na na na na na I find a way to block it, oh La la, la la la la la na na na na na La la na na, la la la la la na na na na na",
+      "valence": 2.82,
+      "arousal": 3.41,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I find a way to block it, oh La la, la la la la la na na na na na La la na na, la la la la la na na na na na I find a way to block it, I go",
+      "valence": 2.9,
+      "arousal": 3.4,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "La la, la la la la la na na na na na La la na na, la la la la la na na na na na I find a way to block it, I go La la na na, la la la la la na na na na na",
+      "valence": 2.86,
+      "arousal": 3.37,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "La la na na, la la la la la na na na na na I find a way to block it, I go La la na na, la la la la la na na na na na La la na na, la la la la la na na na na na",
+      "valence": 2.83,
+      "arousal": 3.31,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I find a way to block it, I go La la na na, la la la la la na na na na na La la na na, la la la la la na na na na na I'm covering my ears like a kid",
+      "valence": 2.71,
+      "arousal": 3.45,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "La la na na, la la la la la na na na na na La la na na, la la la la la na na na na na I'm covering my ears like a kid When your words mean nothing, I go la la la",
+      "valence": 2.58,
+      "arousal": 3.44,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "La la na na, la la la la la na na na na na I'm covering my ears like a kid When your words mean nothing, I go la la la I'm turning up the volume when you speak",
+      "valence": 2.56,
+      "arousal": 3.63,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I'm covering my ears like a kid When your words mean nothing, I go la la la I'm turning up the volume when you speak 'Cause if my heart can't stop it",
+      "valence": 2.62,
+      "arousal": 3.66,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "When your words mean nothing, I go la la la I'm turning up the volume when you speak 'Cause if my heart can't stop it I find a way to block it, I go",
+      "valence": 2.53,
+      "arousal": 3.7,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I'm turning up the volume when you speak 'Cause if my heart can't stop it I find a way to block it, I go I'm covering my ears like a kid",
+      "valence": 2.64,
+      "arousal": 3.78,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "'Cause if my heart can't stop it I find a way to block it, I go I'm covering my ears like a kid When your words mean nothing, I go la la la",
+      "valence": 2.45,
+      "arousal": 3.67,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I find a way to block it, I go I'm covering my ears like a kid When your words mean nothing, I go la la la I'm turning up the volume when you speak",
+      "valence": 2.67,
+      "arousal": 3.57,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "I'm covering my ears like a kid When your words mean nothing, I go la la la I'm turning up the volume when you speak 'Cause if my heart can't stop it",
+      "valence": 2.62,
+      "arousal": 3.66,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "When your words mean nothing, I go la la la I'm turning up the volume when you speak 'Cause if my heart can't stop it I find a way to block it, I go",
+      "valence": 2.53,
+      "arousal": 3.7,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "I'm turning up the volume when you speak 'Cause if my heart can't stop it I find a way to block it, I go La la, la la la la la na na na na na",
+      "valence": 2.67,
+      "arousal": 3.74,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "'Cause if my heart can't stop it I find a way to block it, I go La la, la la la la la na na na na na La la na na, la la la la la na na na na na",
+      "valence": 2.77,
+      "arousal": 3.46,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "I find a way to block it, I go La la, la la la la la na na na na na La la na na, la la la la la na na na na na La la na na, la la la la la na na na na na",
+      "valence": 2.99,
+      "arousal": 3.34,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "La la, la la la la la na na na na na La la na na, la la la la la na na na na na La la na na, la la la la la na na na na na La la na na, la la la la la na na na na na",
+      "valence": 3.01,
+      "arousal": 3.27,
+      "dominance": 3.09
+    }
+  ]
+}

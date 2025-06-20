@@ -1,0 +1,227 @@
+{
+  "artist": "Lil Nas X Featuring Billy Ray Cyrus",
+  "overall_vad": {
+    "valence": 2.79,
+    "arousal": 3.24,
+    "dominance": 3.23
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "You know what, I'm done, done, done Yeah, I'm gonna take my horse to the old town road I'm gonna ride 'til I can't no more I'm gonna take my horse to the old town road",
+      "valence": 3.02,
+      "arousal": 3.16,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Yeah, I'm gonna take my horse to the old town road I'm gonna ride 'til I can't no more I'm gonna take my horse to the old town road I'm gonna ride (Kio, Kio) 'til I can't no more",
+      "valence": 2.8,
+      "arousal": 3.06,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I'm gonna ride 'til I can't no more I'm gonna take my horse to the old town road I'm gonna ride (Kio, Kio) 'til I can't no more I got the horses in the back",
+      "valence": 2.87,
+      "arousal": 3.08,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I'm gonna take my horse to the old town road I'm gonna ride (Kio, Kio) 'til I can't no more I got the horses in the back Horse tack is attached",
+      "valence": 2.94,
+      "arousal": 3.06,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I'm gonna ride (Kio, Kio) 'til I can't no more I got the horses in the back Horse tack is attached Hat is matte black",
+      "valence": 3.06,
+      "arousal": 3.27,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I got the horses in the back Horse tack is attached Hat is matte black Got the boots that's black to match",
+      "valence": 3.14,
+      "arousal": 3.09,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Horse tack is attached Hat is matte black Got the boots that's black to match Riding on a horse, ha",
+      "valence": 3.05,
+      "arousal": 3.08,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Hat is matte black Got the boots that's black to match Riding on a horse, ha You can whip your Porsche",
+      "valence": 3.16,
+      "arousal": 3.14,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Got the boots that's black to match Riding on a horse, ha You can whip your Porsche I been in the valley",
+      "valence": 3.05,
+      "arousal": 3.26,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Riding on a horse, ha You can whip your Porsche I been in the valley You ain't been up off the porch, now",
+      "valence": 2.79,
+      "arousal": 3.25,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "You can whip your Porsche I been in the valley You ain't been up off the porch, now Can't nobody tell me nothing",
+      "valence": 2.57,
+      "arousal": 3.34,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I been in the valley You ain't been up off the porch, now Can't nobody tell me nothing You can't tell me nothing",
+      "valence": 2.65,
+      "arousal": 3.15,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "You ain't been up off the porch, now Can't nobody tell me nothing You can't tell me nothing Can't nobody tell me nothing",
+      "valence": 2.51,
+      "arousal": 3.31,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Can't nobody tell me nothing You can't tell me nothing Can't nobody tell me nothing You can't tell me nothing",
+      "valence": 2.4,
+      "arousal": 3.37,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "You can't tell me nothing Can't nobody tell me nothing You can't tell me nothing Riding on a tractor",
+      "valence": 2.57,
+      "arousal": 3.3,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Can't nobody tell me nothing You can't tell me nothing Riding on a tractor Lean all in my bladder",
+      "valence": 2.6,
+      "arousal": 3.33,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "You can't tell me nothing Riding on a tractor Lean all in my bladder Cheated on my baby",
+      "valence": 2.4,
+      "arousal": 3.47,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Riding on a tractor Lean all in my bladder Cheated on my baby You can go and ask her",
+      "valence": 2.76,
+      "arousal": 3.3,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Lean all in my bladder Cheated on my baby You can go and ask her My life is a movie",
+      "valence": 3.06,
+      "arousal": 3.35,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Cheated on my baby You can go and ask her My life is a movie Bull riding and boobies",
+      "valence": 2.95,
+      "arousal": 3.37,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "You can go and ask her My life is a movie Bull riding and boobies Cowboy hat from Gucci",
+      "valence": 3.14,
+      "arousal": 3.17,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "My life is a movie Bull riding and boobies Cowboy hat from Gucci Wrangler on my booty",
+      "valence": 3.12,
+      "arousal": 3.3,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Bull riding and boobies Cowboy hat from Gucci Wrangler on my booty Can't nobody tell me nothing",
+      "valence": 2.71,
+      "arousal": 3.28,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Cowboy hat from Gucci Wrangler on my booty Can't nobody tell me nothing You can't tell me nothing",
+      "valence": 2.62,
+      "arousal": 3.31,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Wrangler on my booty Can't nobody tell me nothing You can't tell me nothing Can't nobody tell me nothing",
+      "valence": 2.56,
+      "arousal": 3.16,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Can't nobody tell me nothing You can't tell me nothing Can't nobody tell me nothing You can't tell me nothing",
+      "valence": 2.4,
+      "arousal": 3.37,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "You can't tell me nothing Can't nobody tell me nothing You can't tell me nothing Yeah, I'm gonna take my horse to the old town road",
+      "valence": 2.63,
+      "arousal": 3.29,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Can't nobody tell me nothing You can't tell me nothing Yeah, I'm gonna take my horse to the old town road I'm gonna ride 'til I can't no more",
+      "valence": 2.66,
+      "arousal": 3.29,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "You can't tell me nothing Yeah, I'm gonna take my horse to the old town road I'm gonna ride 'til I can't no more I'm gonna take my horse to the old town road",
+      "valence": 2.73,
+      "arousal": 3.17,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Yeah, I'm gonna take my horse to the old town road I'm gonna ride 'til I can't no more I'm gonna take my horse to the old town road I'm gonna ride 'til I can't no more",
+      "valence": 2.74,
+      "arousal": 3.04,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I'm gonna ride 'til I can't no more I'm gonna take my horse to the old town road I'm gonna ride 'til I can't no more I got the hor-",
+      "valence": 2.79,
+      "arousal": 3.17,
+      "dominance": 3.05
+    }
+  ]
+}

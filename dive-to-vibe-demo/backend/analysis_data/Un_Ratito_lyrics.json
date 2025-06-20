@@ -1,0 +1,311 @@
+{
+  "artist": "Bad Bunny",
+  "overall_vad": {
+    "valence": 3.08,
+    "arousal": 3.13,
+    "dominance": 3.08
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Yeah-yeah-yeah-yeah Yeah-yeah-yeah-yeah, yeah Ey QuizÃ¡s yo vuelva con mi ex",
+      "valence": 3.35,
+      "arousal": 3.47,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Yeah-yeah-yeah-yeah, yeah Ey QuizÃ¡s yo vuelva con mi ex Y no te vuelva a ver (y no te vuelva a ver)",
+      "valence": 3.16,
+      "arousal": 3.37,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Ey QuizÃ¡s yo vuelva con mi ex Y no te vuelva a ver (y no te vuelva a ver) QuizÃ¡ no te importa",
+      "valence": 2.87,
+      "arousal": 3.03,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "QuizÃ¡s yo vuelva con mi ex Y no te vuelva a ver (y no te vuelva a ver) QuizÃ¡ no te importa QuizÃ¡ te va a doler",
+      "valence": 2.89,
+      "arousal": 3.1,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Y no te vuelva a ver (y no te vuelva a ver) QuizÃ¡ no te importa QuizÃ¡ te va a doler Esto e' un ratito, uoh",
+      "valence": 2.86,
+      "arousal": 3.07,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "QuizÃ¡ no te importa QuizÃ¡ te va a doler Esto e' un ratito, uoh Mami, no te acostumbre', eh",
+      "valence": 2.95,
+      "arousal": 3.08,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "QuizÃ¡ te va a doler Esto e' un ratito, uoh Mami, no te acostumbre', eh Que el amor es muy bonito",
+      "valence": 3.34,
+      "arousal": 3.34,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Esto e' un ratito, uoh Mami, no te acostumbre', eh Que el amor es muy bonito Pero siempre hay algo que lo interrumpe, eh",
+      "valence": 3.22,
+      "arousal": 3.21,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Mami, no te acostumbre', eh Que el amor es muy bonito Pero siempre hay algo que lo interrumpe, eh Esto e' un ratito, uoh",
+      "valence": 3.28,
+      "arousal": 3.23,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Que el amor es muy bonito Pero siempre hay algo que lo interrumpe, eh Esto e' un ratito, uoh Mami, no te acostumbre', eh",
+      "valence": 3.24,
+      "arousal": 3.27,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Pero siempre hay algo que lo interrumpe, eh Esto e' un ratito, uoh Mami, no te acostumbre', eh Que el amor es muy bonito",
+      "valence": 3.36,
+      "arousal": 3.34,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Esto e' un ratito, uoh Mami, no te acostumbre', eh Que el amor es muy bonito Pero siempre hay algo que lo interrumpe, eh",
+      "valence": 3.22,
+      "arousal": 3.21,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Mami, no te acostumbre', eh Que el amor es muy bonito Pero siempre hay algo que lo interrumpe, eh Pa' mÃ­ que yo nacÃ­ pa' estar solo",
+      "valence": 3.25,
+      "arousal": 3.16,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Que el amor es muy bonito Pero siempre hay algo que lo interrumpe, eh Pa' mÃ­ que yo nacÃ­ pa' estar solo No hay una loca pa' este loco",
+      "valence": 3.12,
+      "arousal": 3.12,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Pero siempre hay algo que lo interrumpe, eh Pa' mÃ­ que yo nacÃ­ pa' estar solo No hay una loca pa' este loco El tiempo se va y queda poco",
+      "valence": 3.0,
+      "arousal": 2.89,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Pa' mÃ­ que yo nacÃ­ pa' estar solo No hay una loca pa' este loco El tiempo se va y queda poco Baby, vamo' a hacerlo otra ve'",
+      "valence": 3.08,
+      "arousal": 3.05,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "No hay una loca pa' este loco El tiempo se va y queda poco Baby, vamo' a hacerlo otra ve' A chingar otra ve'",
+      "valence": 3.06,
+      "arousal": 3.09,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "El tiempo se va y queda poco Baby, vamo' a hacerlo otra ve' A chingar otra ve' Porque maÃ±ana quizÃ¡ no vo'a estar",
+      "valence": 3.02,
+      "arousal": 3.13,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Baby, vamo' a hacerlo otra ve' A chingar otra ve' Porque maÃ±ana quizÃ¡ no vo'a estar La luz se puso roja, hay que parar",
+      "valence": 3.09,
+      "arousal": 3.17,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "A chingar otra ve' Porque maÃ±ana quizÃ¡ no vo'a estar La luz se puso roja, hay que parar O si quieres nos bajamo' y podemos perrear",
+      "valence": 2.96,
+      "arousal": 3.01,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Porque maÃ±ana quizÃ¡ no vo'a estar La luz se puso roja, hay que parar O si quieres nos bajamo' y podemos perrear Baby, esto no fue normal",
+      "valence": 2.88,
+      "arousal": 3.09,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "La luz se puso roja, hay que parar O si quieres nos bajamo' y podemos perrear Baby, esto no fue normal Con cualquiera no me acuesto, a cualquiera no le meto",
+      "valence": 2.83,
+      "arousal": 3.17,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "O si quieres nos bajamo' y podemos perrear Baby, esto no fue normal Con cualquiera no me acuesto, a cualquiera no le meto Ni le cuento mis secreto'",
+      "valence": 2.85,
+      "arousal": 3.1,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Baby, esto no fue normal Con cualquiera no me acuesto, a cualquiera no le meto Ni le cuento mis secreto' Me pongo feliz cuando llegan tus texto' porque",
+      "valence": 2.96,
+      "arousal": 3.09,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Con cualquiera no me acuesto, a cualquiera no le meto Ni le cuento mis secreto' Me pongo feliz cuando llegan tus texto' porque Con cualquiera no me acuesto, a cualquiera no le meto",
+      "valence": 2.96,
+      "arousal": 3.02,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Ni le cuento mis secreto' Me pongo feliz cuando llegan tus texto' porque Con cualquiera no me acuesto, a cualquiera no le meto Ni le cuento mis secreto'",
+      "valence": 2.98,
+      "arousal": 3.01,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Me pongo feliz cuando llegan tus texto' porque Con cualquiera no me acuesto, a cualquiera no le meto Ni le cuento mis secreto' Me pongo feliz cuando llegan tus texto'",
+      "valence": 3.23,
+      "arousal": 3.15,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Con cualquiera no me acuesto, a cualquiera no le meto Ni le cuento mis secreto' Me pongo feliz cuando llegan tus texto' O cuando en cuatro te lo meto",
+      "valence": 3.04,
+      "arousal": 3.09,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Ni le cuento mis secreto' Me pongo feliz cuando llegan tus texto' O cuando en cuatro te lo meto Ey, y te moja to'a",
+      "valence": 3.16,
+      "arousal": 3.15,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Me pongo feliz cuando llegan tus texto' O cuando en cuatro te lo meto Ey, y te moja to'a Contigo me voy a to'a, ey",
+      "valence": 3.15,
+      "arousal": 3.21,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "O cuando en cuatro te lo meto Ey, y te moja to'a Contigo me voy a to'a, ey Espero que lo hayas pasa'o bien",
+      "valence": 2.94,
+      "arousal": 3.02,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Ey, y te moja to'a Contigo me voy a to'a, ey Espero que lo hayas pasa'o bien Y en verdad, tÃº eres bien pero",
+      "valence": 2.91,
+      "arousal": 3.03,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Contigo me voy a to'a, ey Espero que lo hayas pasa'o bien Y en verdad, tÃº eres bien pero Mi vida es complicada, tÃº no va' a entender",
+      "valence": 3.01,
+      "arousal": 3.09,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Espero que lo hayas pasa'o bien Y en verdad, tÃº eres bien pero Mi vida es complicada, tÃº no va' a entender Un poco inestable como puedes ver (puedes ver)",
+      "valence": 3.09,
+      "arousal": 3.06,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Y en verdad, tÃº eres bien pero Mi vida es complicada, tÃº no va' a entender Un poco inestable como puedes ver (puedes ver) Mami, fue rico conocerte",
+      "valence": 3.11,
+      "arousal": 3.1,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Mi vida es complicada, tÃº no va' a entender Un poco inestable como puedes ver (puedes ver) Mami, fue rico conocerte Pero no sÃ© si vuelva a verte",
+      "valence": 3.09,
+      "arousal": 3.05,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Un poco inestable como puedes ver (puedes ver) Mami, fue rico conocerte Pero no sÃ© si vuelva a verte Esto e' un ratito, uoh",
+      "valence": 2.92,
+      "arousal": 3.06,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Mami, fue rico conocerte Pero no sÃ© si vuelva a verte Esto e' un ratito, uoh Mami, no te acostumbre', eh",
+      "valence": 2.95,
+      "arousal": 3.12,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Pero no sÃ© si vuelva a verte Esto e' un ratito, uoh Mami, no te acostumbre', eh Que el amor es muy bonito",
+      "valence": 3.34,
+      "arousal": 3.3,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Esto e' un ratito, uoh Mami, no te acostumbre', eh Que el amor es muy bonito Pero siempre hay algo que lo interrumpe, eh",
+      "valence": 3.22,
+      "arousal": 3.21,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Mami, no te acostumbre', eh Que el amor es muy bonito Pero siempre hay algo que lo interrumpe, eh Pa' mÃ­ que yo nacÃ­ pa' estar solo (solo)",
+      "valence": 3.27,
+      "arousal": 3.19,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Que el amor es muy bonito Pero siempre hay algo que lo interrumpe, eh Pa' mÃ­ que yo nacÃ­ pa' estar solo (solo) Pa' mÃ­ que yo nacÃ­ pa' estar solo",
+      "valence": 3.12,
+      "arousal": 3.16,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Pero siempre hay algo que lo interrumpe, eh Pa' mÃ­ que yo nacÃ­ pa' estar solo (solo) Pa' mÃ­ que yo nacÃ­ pa' estar solo Translate to English",
+      "valence": 2.97,
+      "arousal": 2.97,
+      "dominance": 3.02
+    }
+  ]
+}

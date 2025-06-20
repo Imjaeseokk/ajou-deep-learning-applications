@@ -1,0 +1,479 @@
+{
+  "artist": "Rocko Featuring Future & Rick Ross",
+  "overall_vad": {
+    "valence": 2.78,
+    "arousal": 3.5,
+    "dominance": 3.37
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "U.O.E.N.O it Ol' high class niggas This shit sound crazy, Fly shit only",
+      "valence": 2.36,
+      "arousal": 3.42,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Ol' high class niggas This shit sound crazy, Fly shit only You know what I'm sayin'?",
+      "valence": 2.38,
+      "arousal": 3.5,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "This shit sound crazy, Fly shit only You know what I'm sayin'? This a thousand dollar pair of shoes and you don't even know it",
+      "valence": 2.42,
+      "arousal": 3.67,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Fly shit only You know what I'm sayin'? This a thousand dollar pair of shoes and you don't even know it This a thousand dollar cup of lean and you don't even know it",
+      "valence": 2.58,
+      "arousal": 3.55,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "You know what I'm sayin'? This a thousand dollar pair of shoes and you don't even know it This a thousand dollar cup of lean and you don't even know it This a half a million dollar car, you don't even know it",
+      "valence": 3.01,
+      "arousal": 3.54,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "This a thousand dollar pair of shoes and you don't even know it This a thousand dollar cup of lean and you don't even know it This a half a million dollar car, you don't even know it I came up from bottom, you don't even know it",
+      "valence": 3.09,
+      "arousal": 3.5,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "This a thousand dollar cup of lean and you don't even know it This a half a million dollar car, you don't even know it I came up from bottom, you don't even know it My niggas all ride with me, you don't even know it",
+      "valence": 3.0,
+      "arousal": 3.51,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "This a half a million dollar car, you don't even know it I came up from bottom, you don't even know it My niggas all ride with me, you don't even know it Got killers with me right now, you don't even know it",
+      "valence": 3.01,
+      "arousal": 3.53,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I came up from bottom, you don't even know it My niggas all ride with me, you don't even know it Got killers with me right now, you don't even know it This a million dollar watch nigga, you don't even know it",
+      "valence": 2.81,
+      "arousal": 3.52,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "My niggas all ride with me, you don't even know it Got killers with me right now, you don't even know it This a million dollar watch nigga, you don't even know it Got a million dollar crib nigga, you don't even know it",
+      "valence": 2.86,
+      "arousal": 3.48,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Got killers with me right now, you don't even know it This a million dollar watch nigga, you don't even know it Got a million dollar crib nigga, you don't even know it Ay that monster truck, sit tall as fuck,",
+      "valence": 2.3,
+      "arousal": 3.73,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "This a million dollar watch nigga, you don't even know it Got a million dollar crib nigga, you don't even know it Ay that monster truck, sit tall as fuck, It's so big can't even tow it,",
+      "valence": 2.66,
+      "arousal": 3.63,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Got a million dollar crib nigga, you don't even know it Ay that monster truck, sit tall as fuck, It's so big can't even tow it, Don't like snakes keep my grass cut, so low can't even mow it",
+      "valence": 2.51,
+      "arousal": 3.62,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Ay that monster truck, sit tall as fuck, It's so big can't even tow it, Don't like snakes keep my grass cut, so low can't even mow it Sip Dom Perri', little high glow, no no we don't do Moet",
+      "valence": 2.47,
+      "arousal": 3.63,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "It's so big can't even tow it, Don't like snakes keep my grass cut, so low can't even mow it Sip Dom Perri', little high glow, no no we don't do Moet If it ain't P.J., no Rose from me ho, so don't even pour it",
+      "valence": 2.7,
+      "arousal": 2.99,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Don't like snakes keep my grass cut, so low can't even mow it Sip Dom Perri', little high glow, no no we don't do Moet If it ain't P.J., no Rose from me ho, so don't even pour it Specks on Tom Ford, button-down Michael Kors",
+      "valence": 2.68,
+      "arousal": 2.96,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Sip Dom Perri', little high glow, no no we don't do Moet If it ain't P.J., no Rose from me ho, so don't even pour it Specks on Tom Ford, button-down Michael Kors Always on like the refrigerator, I'm plugged in ho you know it",
+      "valence": 2.79,
+      "arousal": 2.96,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "If it ain't P.J., no Rose from me ho, so don't even pour it Specks on Tom Ford, button-down Michael Kors Always on like the refrigerator, I'm plugged in ho you know it AP and that PK, wear a Breitling when I'm bored",
+      "valence": 2.92,
+      "arousal": 3.04,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Specks on Tom Ford, button-down Michael Kors Always on like the refrigerator, I'm plugged in ho you know it AP and that PK, wear a Breitling when I'm bored Got a master piece and a .41 millimeter and you ain't even know it",
+      "valence": 3.06,
+      "arousal": 3.09,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Always on like the refrigerator, I'm plugged in ho you know it AP and that PK, wear a Breitling when I'm bored Got a master piece and a .41 millimeter and you ain't even know it Keep the .45 in my pocket ain't gone show it, till I have to pop it",
+      "valence": 3.02,
+      "arousal": 3.02,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "AP and that PK, wear a Breitling when I'm bored Got a master piece and a .41 millimeter and you ain't even know it Keep the .45 in my pocket ain't gone show it, till I have to pop it Then you gone know it, damn who shot you, they don't even know it",
+      "valence": 2.67,
+      "arousal": 3.32,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Got a master piece and a .41 millimeter and you ain't even know it Keep the .45 in my pocket ain't gone show it, till I have to pop it Then you gone know it, damn who shot you, they don't even know it Hawks game fuckin' floor it, TV seat front row it",
+      "valence": 2.79,
+      "arousal": 3.64,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Keep the .45 in my pocket ain't gone show it, till I have to pop it Then you gone know it, damn who shot you, they don't even know it Hawks game fuckin' floor it, TV seat front row it Rocko Da Don CEO it, ain't gotta rap and you know it",
+      "valence": 2.61,
+      "arousal": 3.59,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Then you gone know it, damn who shot you, they don't even know it Hawks game fuckin' floor it, TV seat front row it Rocko Da Don CEO it, ain't gotta rap and you know it This a thousand dollar pair of shoes and you don't even know it",
+      "valence": 2.64,
+      "arousal": 3.71,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Hawks game fuckin' floor it, TV seat front row it Rocko Da Don CEO it, ain't gotta rap and you know it This a thousand dollar pair of shoes and you don't even know it This a thousand dollar cup of lean and you don't even know it",
+      "valence": 2.97,
+      "arousal": 3.64,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Rocko Da Don CEO it, ain't gotta rap and you know it This a thousand dollar pair of shoes and you don't even know it This a thousand dollar cup of lean and you don't even know it This a half a million dollar car, you don't even know it",
+      "valence": 2.85,
+      "arousal": 3.42,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "This a thousand dollar pair of shoes and you don't even know it This a thousand dollar cup of lean and you don't even know it This a half a million dollar car, you don't even know it I came up from bottom, you don't even know it",
+      "valence": 3.09,
+      "arousal": 3.5,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "This a thousand dollar cup of lean and you don't even know it This a half a million dollar car, you don't even know it I came up from bottom, you don't even know it My niggas all ride with me, you don't even know it",
+      "valence": 3.0,
+      "arousal": 3.51,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "This a half a million dollar car, you don't even know it I came up from bottom, you don't even know it My niggas all ride with me, you don't even know it Got killers with me right now, you don't even know it",
+      "valence": 3.01,
+      "arousal": 3.53,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I came up from bottom, you don't even know it My niggas all ride with me, you don't even know it Got killers with me right now, you don't even know it This a million dollar watch nigga, you don't even know it",
+      "valence": 2.81,
+      "arousal": 3.52,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "My niggas all ride with me, you don't even know it Got killers with me right now, you don't even know it This a million dollar watch nigga, you don't even know it Got a million dollar crib nigga, you don't even know it",
+      "valence": 2.86,
+      "arousal": 3.48,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Got killers with me right now, you don't even know it This a million dollar watch nigga, you don't even know it Got a million dollar crib nigga, you don't even know it That nigga sold you that re-rock, you ain't even know it",
+      "valence": 2.47,
+      "arousal": 3.55,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "This a million dollar watch nigga, you don't even know it Got a million dollar crib nigga, you don't even know it That nigga sold you that re-rock, you ain't even know it I die over these Reeboks, you ain't even know it",
+      "valence": 2.56,
+      "arousal": 3.47,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Got a million dollar crib nigga, you don't even know it That nigga sold you that re-rock, you ain't even know it I die over these Reeboks, you ain't even know it Put Molly all in her champagne, she ain't even know it",
+      "valence": 2.63,
+      "arousal": 3.48,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "That nigga sold you that re-rock, you ain't even know it I die over these Reeboks, you ain't even know it Put Molly all in her champagne, she ain't even know it I took her home and I enjoyed that, she ain't even know it",
+      "valence": 3.03,
+      "arousal": 3.63,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I die over these Reeboks, you ain't even know it Put Molly all in her champagne, she ain't even know it I took her home and I enjoyed that, she ain't even know it Got a hundred acres I live on, you ain't even know it",
+      "valence": 2.98,
+      "arousal": 3.55,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Put Molly all in her champagne, she ain't even know it I took her home and I enjoyed that, she ain't even know it Got a hundred acres I live on, you ain't even know it Got a hundred rounds in this AR, you ain't even know it",
+      "valence": 3.56,
+      "arousal": 3.51,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "I took her home and I enjoyed that, she ain't even know it Got a hundred acres I live on, you ain't even know it Got a hundred rounds in this AR, you ain't even know it Got a bag of bitches I play with, on cloud 9 in my spaceship",
+      "valence": 3.57,
+      "arousal": 3.53,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Got a hundred acres I live on, you ain't even know it Got a hundred rounds in this AR, you ain't even know it Got a bag of bitches I play with, on cloud 9 in my spaceship Zoned out but he stay fresh from Zone 1 through Zone 6",
+      "valence": 2.83,
+      "arousal": 3.33,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Got a hundred rounds in this AR, you ain't even know it Got a bag of bitches I play with, on cloud 9 in my spaceship Zoned out but he stay fresh from Zone 1 through Zone 6 Bricks all in my blood, birds all in my dreams",
+      "valence": 2.82,
+      "arousal": 3.42,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Got a bag of bitches I play with, on cloud 9 in my spaceship Zoned out but he stay fresh from Zone 1 through Zone 6 Bricks all in my blood, birds all in my dreams Boats all in my yard, lemon pepper my wings",
+      "valence": 3.01,
+      "arousal": 3.22,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Zoned out but he stay fresh from Zone 1 through Zone 6 Bricks all in my blood, birds all in my dreams Boats all in my yard, lemon pepper my wings I'm bout to get you fuck niggas wacked, you ain't even know it",
+      "valence": 2.43,
+      "arousal": 3.72,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Bricks all in my blood, birds all in my dreams Boats all in my yard, lemon pepper my wings I'm bout to get you fuck niggas wacked, you ain't even know it Your main nigga bout to turn his back, you ain't even know it.",
+      "valence": 2.3,
+      "arousal": 3.71,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Boats all in my yard, lemon pepper my wings I'm bout to get you fuck niggas wacked, you ain't even know it Your main nigga bout to turn his back, you ain't even know it. This a thousand dollar pair of shoes and you don't even know it",
+      "valence": 2.47,
+      "arousal": 3.73,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I'm bout to get you fuck niggas wacked, you ain't even know it Your main nigga bout to turn his back, you ain't even know it. This a thousand dollar pair of shoes and you don't even know it This a thousand dollar cup of lean and you don't even know it",
+      "valence": 2.16,
+      "arousal": 3.83,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Your main nigga bout to turn his back, you ain't even know it. This a thousand dollar pair of shoes and you don't even know it This a thousand dollar cup of lean and you don't even know it This a half a million dollar car, you don't even know it",
+      "valence": 2.73,
+      "arousal": 3.54,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "This a thousand dollar pair of shoes and you don't even know it This a thousand dollar cup of lean and you don't even know it This a half a million dollar car, you don't even know it I came up from bottom, you don't even know it",
+      "valence": 3.09,
+      "arousal": 3.5,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "This a thousand dollar cup of lean and you don't even know it This a half a million dollar car, you don't even know it I came up from bottom, you don't even know it My niggas all ride with me, you don't even know it",
+      "valence": 3.0,
+      "arousal": 3.51,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "This a half a million dollar car, you don't even know it I came up from bottom, you don't even know it My niggas all ride with me, you don't even know it Got killers with me right now, you don't even know it",
+      "valence": 3.01,
+      "arousal": 3.53,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I came up from bottom, you don't even know it My niggas all ride with me, you don't even know it Got killers with me right now, you don't even know it This a million dollar watch nigga, you don't even know it",
+      "valence": 2.81,
+      "arousal": 3.52,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "My niggas all ride with me, you don't even know it Got killers with me right now, you don't even know it This a million dollar watch nigga, you don't even know it Got a million dollar crib nigga, you don't even know it",
+      "valence": 2.86,
+      "arousal": 3.48,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Got killers with me right now, you don't even know it This a million dollar watch nigga, you don't even know it Got a million dollar crib nigga, you don't even know it I'm turned up every day, you don't even know it",
+      "valence": 2.47,
+      "arousal": 3.58,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "This a million dollar watch nigga, you don't even know it Got a million dollar crib nigga, you don't even know it I'm turned up every day, you don't even know it Got your bitch with me right now, you don't even know it",
+      "valence": 2.45,
+      "arousal": 3.73,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Got a million dollar crib nigga, you don't even know it I'm turned up every day, you don't even know it Got your bitch with me right now, you don't even know it We turn up in the club, you don't even know it",
+      "valence": 2.52,
+      "arousal": 3.83,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "I'm turned up every day, you don't even know it Got your bitch with me right now, you don't even know it We turn up in the club, you don't even know it Got a hundred bottles comin', you don't even know it eh",
+      "valence": 2.55,
+      "arousal": 3.62,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Got your bitch with me right now, you don't even know it We turn up in the club, you don't even know it Got a hundred bottles comin', you don't even know it eh We came up from nothin', you don't even know it",
+      "valence": 2.66,
+      "arousal": 3.65,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "We turn up in the club, you don't even know it Got a hundred bottles comin', you don't even know it eh We came up from nothin', you don't even know it Drive a half a million dollar car, you don't even know it",
+      "valence": 3.02,
+      "arousal": 3.33,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Got a hundred bottles comin', you don't even know it eh We came up from nothin', you don't even know it Drive a half a million dollar car, you don't even know it This a thousand dollar pair of shoes, you don't even know it",
+      "valence": 3.11,
+      "arousal": 3.39,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "We came up from nothin', you don't even know it Drive a half a million dollar car, you don't even know it This a thousand dollar pair of shoes, you don't even know it Got a bitch that speak no English, she don't even know it",
+      "valence": 2.69,
+      "arousal": 3.43,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Drive a half a million dollar car, you don't even know it This a thousand dollar pair of shoes, you don't even know it Got a bitch that speak no English, she don't even know it This a thousand dollar pair of shoes and you don't even know it",
+      "valence": 2.51,
+      "arousal": 3.52,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "This a thousand dollar pair of shoes, you don't even know it Got a bitch that speak no English, she don't even know it This a thousand dollar pair of shoes and you don't even know it This a thousand dollar cup of lean and you don't even know it",
+      "valence": 2.58,
+      "arousal": 3.55,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Got a bitch that speak no English, she don't even know it This a thousand dollar pair of shoes and you don't even know it This a thousand dollar cup of lean and you don't even know it This a half a million dollar car, you don't even know it",
+      "valence": 2.37,
+      "arousal": 3.51,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "This a thousand dollar pair of shoes and you don't even know it This a thousand dollar cup of lean and you don't even know it This a half a million dollar car, you don't even know it I came up from bottom, you don't even know it",
+      "valence": 3.09,
+      "arousal": 3.5,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "This a thousand dollar cup of lean and you don't even know it This a half a million dollar car, you don't even know it I came up from bottom, you don't even know it My niggas all ride with me, you don't even know it",
+      "valence": 3.0,
+      "arousal": 3.51,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "This a half a million dollar car, you don't even know it I came up from bottom, you don't even know it My niggas all ride with me, you don't even know it Got killers with me right now, you don't even know it",
+      "valence": 3.01,
+      "arousal": 3.53,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "I came up from bottom, you don't even know it My niggas all ride with me, you don't even know it Got killers with me right now, you don't even know it This a million dollar watch nigga, you don't even know it",
+      "valence": 2.81,
+      "arousal": 3.52,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "My niggas all ride with me, you don't even know it Got killers with me right now, you don't even know it This a million dollar watch nigga, you don't even know it Got a million dollar crib nigga, you don't even know it",
+      "valence": 2.86,
+      "arousal": 3.48,
+      "dominance": 3.35
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "artist": "Jason Aldean",
+  "overall_vad": {
+    "valence": 2.53,
+    "arousal": 3.26,
+    "dominance": 3.12
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "The trouble with a heartbreak (Heartbreak, heartbreak) Don't let anybody tell ya it's gonna be easy ('Cause it ain't easy) Don't let anyone tell ya they know what it's like Mmm, when they say",
+      "valence": 2.56,
+      "arousal": 3.11,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Don't let anybody tell ya it's gonna be easy ('Cause it ain't easy) Don't let anyone tell ya they know what it's like Mmm, when they say \"Get out on this town, meet somebody new, get lost in a crowd\" all I see is you",
+      "valence": 2.86,
+      "arousal": 3.21,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Don't let anyone tell ya they know what it's like Mmm, when they say \"Get out on this town, meet somebody new, get lost in a crowd\" all I see is you Don't let anybody tell ya it's gonna be easy",
+      "valence": 2.83,
+      "arousal": 3.19,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Mmm, when they say \"Get out on this town, meet somebody new, get lost in a crowd\" all I see is you Don't let anybody tell ya it's gonna be easy And that's the trouble with a heartbreak, it's gonna hang around",
+      "valence": 2.73,
+      "arousal": 3.12,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "\"Get out on this town, meet somebody new, get lost in a crowd\" all I see is you Don't let anybody tell ya it's gonna be easy And that's the trouble with a heartbreak, it's gonna hang around Leave you midnight breaking down, wonderin' how",
+      "valence": 2.66,
+      "arousal": 3.23,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Don't let anybody tell ya it's gonna be easy And that's the trouble with a heartbreak, it's gonna hang around Leave you midnight breaking down, wonderin' how Long that it's gonna take gettin' over her",
+      "valence": 2.63,
+      "arousal": 3.15,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "And that's the trouble with a heartbreak, it's gonna hang around Leave you midnight breaking down, wonderin' how Long that it's gonna take gettin' over her It's a can't drown whiskey down kinda hurt",
+      "valence": 2.43,
+      "arousal": 3.14,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Leave you midnight breaking down, wonderin' how Long that it's gonna take gettin' over her It's a can't drown whiskey down kinda hurt Yeah, you can burn them four wheels up that road",
+      "valence": 2.41,
+      "arousal": 3.45,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Long that it's gonna take gettin' over her It's a can't drown whiskey down kinda hurt Yeah, you can burn them four wheels up that road But there ain't nowhere her memory can't go",
+      "valence": 2.45,
+      "arousal": 3.31,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "It's a can't drown whiskey down kinda hurt Yeah, you can burn them four wheels up that road But there ain't nowhere her memory can't go That's the trouble with a heartbreak",
+      "valence": 2.37,
+      "arousal": 3.27,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Yeah, you can burn them four wheels up that road But there ain't nowhere her memory can't go That's the trouble with a heartbreak Yeah, that's the trouble with a heartbreak, a heartbreak, yeah",
+      "valence": 2.39,
+      "arousal": 3.23,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "But there ain't nowhere her memory can't go That's the trouble with a heartbreak Yeah, that's the trouble with a heartbreak, a heartbreak, yeah (Heartbreak, heartbreak, heartbreak)",
+      "valence": 2.38,
+      "arousal": 3.06,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "That's the trouble with a heartbreak Yeah, that's the trouble with a heartbreak, a heartbreak, yeah (Heartbreak, heartbreak, heartbreak) Think about where she is, who she's drivin' crazy (Driving me crazy)",
+      "valence": 2.48,
+      "arousal": 3.3,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Yeah, that's the trouble with a heartbreak, a heartbreak, yeah (Heartbreak, heartbreak, heartbreak) Think about where she is, who she's drivin' crazy (Driving me crazy) Can't see a rearview sunset without thinkin' 'bout us",
+      "valence": 2.4,
+      "arousal": 3.35,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "(Heartbreak, heartbreak, heartbreak) Think about where she is, who she's drivin' crazy (Driving me crazy) Can't see a rearview sunset without thinkin' 'bout us Girl, I still think about us",
+      "valence": 2.43,
+      "arousal": 3.73,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Think about where she is, who she's drivin' crazy (Driving me crazy) Can't see a rearview sunset without thinkin' 'bout us Girl, I still think about us And that's the trouble with a heartbreak, it's gonna hang around",
+      "valence": 2.6,
+      "arousal": 3.44,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Can't see a rearview sunset without thinkin' 'bout us Girl, I still think about us And that's the trouble with a heartbreak, it's gonna hang around Leave you midnight breaking down, wonderin' how",
+      "valence": 2.55,
+      "arousal": 3.34,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Girl, I still think about us And that's the trouble with a heartbreak, it's gonna hang around Leave you midnight breaking down, wonderin' how Long that it's gonna take gettin' over her",
+      "valence": 2.46,
+      "arousal": 3.26,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "And that's the trouble with a heartbreak, it's gonna hang around Leave you midnight breaking down, wonderin' how Long that it's gonna take gettin' over her It's a can't drown whiskey down kinda hurt",
+      "valence": 2.43,
+      "arousal": 3.14,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Leave you midnight breaking down, wonderin' how Long that it's gonna take gettin' over her It's a can't drown whiskey down kinda hurt Yeah, you can burn them four wheels up that road",
+      "valence": 2.41,
+      "arousal": 3.45,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Long that it's gonna take gettin' over her It's a can't drown whiskey down kinda hurt Yeah, you can burn them four wheels up that road But there ain't nowhere her memory can't go",
+      "valence": 2.45,
+      "arousal": 3.31,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "It's a can't drown whiskey down kinda hurt Yeah, you can burn them four wheels up that road But there ain't nowhere her memory can't go That's the trouble with a heartbreak",
+      "valence": 2.37,
+      "arousal": 3.27,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Yeah, you can burn them four wheels up that road But there ain't nowhere her memory can't go That's the trouble with a heartbreak Yeah, that's the trouble with a heartbreak, a heartbreak, yeah",
+      "valence": 2.39,
+      "arousal": 3.23,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "But there ain't nowhere her memory can't go That's the trouble with a heartbreak Yeah, that's the trouble with a heartbreak, a heartbreak, yeah Oh, yeah",
+      "valence": 2.4,
+      "arousal": 3.04,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "That's the trouble with a heartbreak Yeah, that's the trouble with a heartbreak, a heartbreak, yeah Oh, yeah That's the trouble with a heartbreak",
+      "valence": 2.54,
+      "arousal": 3.1,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Yeah, that's the trouble with a heartbreak, a heartbreak, yeah Oh, yeah That's the trouble with a heartbreak Get out on this town, meet somebody new",
+      "valence": 2.79,
+      "arousal": 3.3,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Oh, yeah That's the trouble with a heartbreak Get out on this town, meet somebody new Meet somebody (Get out on this town)",
+      "valence": 2.93,
+      "arousal": 3.39,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "That's the trouble with a heartbreak Get out on this town, meet somebody new Meet somebody (Get out on this town) Get lost in a crowd, all I see is you",
+      "valence": 2.76,
+      "arousal": 3.39,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Get out on this town, meet somebody new Meet somebody (Get out on this town) Get lost in a crowd, all I see is you And that's the trouble with a heartbreak, it's gonna hang around",
+      "valence": 2.96,
+      "arousal": 3.37,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Meet somebody (Get out on this town) Get lost in a crowd, all I see is you And that's the trouble with a heartbreak, it's gonna hang around Leave you midnight breaking down, wonderin' how",
+      "valence": 2.62,
+      "arousal": 3.28,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Get lost in a crowd, all I see is you And that's the trouble with a heartbreak, it's gonna hang around Leave you midnight breaking down, wonderin' how Long that it's gonna take gettin' over her",
+      "valence": 2.4,
+      "arousal": 3.24,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "And that's the trouble with a heartbreak, it's gonna hang around Leave you midnight breaking down, wonderin' how Long that it's gonna take gettin' over her It's a can't drown whiskey down kinda hurt",
+      "valence": 2.43,
+      "arousal": 3.14,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Leave you midnight breaking down, wonderin' how Long that it's gonna take gettin' over her It's a can't drown whiskey down kinda hurt Yeah, you can burn them four wheels up that road",
+      "valence": 2.41,
+      "arousal": 3.45,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Long that it's gonna take gettin' over her It's a can't drown whiskey down kinda hurt Yeah, you can burn them four wheels up that road But there ain't nowhere her memory can't go",
+      "valence": 2.45,
+      "arousal": 3.31,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "It's a can't drown whiskey down kinda hurt Yeah, you can burn them four wheels up that road But there ain't nowhere her memory can't go That's the trouble with a heartbreak",
+      "valence": 2.37,
+      "arousal": 3.27,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Yeah, you can burn them four wheels up that road But there ain't nowhere her memory can't go That's the trouble with a heartbreak Yeah, that's the trouble with a heartbreak, a heartbreak, yeah",
+      "valence": 2.39,
+      "arousal": 3.23,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "But there ain't nowhere her memory can't go That's the trouble with a heartbreak Yeah, that's the trouble with a heartbreak, a heartbreak, yeah , oh yeah",
+      "valence": 2.4,
+      "arousal": 3.02,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "That's the trouble with a heartbreak Yeah, that's the trouble with a heartbreak, a heartbreak, yeah , oh yeah That's the trouble with a heartbreak, oh yeah",
+      "valence": 2.6,
+      "arousal": 3.1,
+      "dominance": 3.13
+    }
+  ]
+}

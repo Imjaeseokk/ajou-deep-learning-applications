@@ -1,0 +1,353 @@
+{
+  "artist": "Blake Shelton",
+  "overall_vad": {
+    "valence": 3.47,
+    "arousal": 3.61,
+    "dominance": 3.28
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Yeah, I met you 'fore anybody knew my name Playing for pennies on the dive bar stage Split an All-Star Special on our first date in a Waffle House booth Your daddy was crying when he gave you away",
+      "valence": 3.43,
+      "arousal": 3.76,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Playing for pennies on the dive bar stage Split an All-Star Special on our first date in a Waffle House booth Your daddy was crying when he gave you away 'Cause all those country songs I played",
+      "valence": 3.26,
+      "arousal": 3.64,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Split an All-Star Special on our first date in a Waffle House booth Your daddy was crying when he gave you away 'Cause all those country songs I played They didn't come with a 401K, but hey, I had you",
+      "valence": 3.32,
+      "arousal": 3.72,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Your daddy was crying when he gave you away 'Cause all those country songs I played They didn't come with a 401K, but hey, I had you You can make a six pack on the carpet",
+      "valence": 2.9,
+      "arousal": 3.65,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "'Cause all those country songs I played They didn't come with a 401K, but hey, I had you You can make a six pack on the carpet Taste like a million dollar bill",
+      "valence": 3.04,
+      "arousal": 3.3,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "They didn't come with a 401K, but hey, I had you You can make a six pack on the carpet Taste like a million dollar bill You can make a one bedroom apartment",
+      "valence": 3.24,
+      "arousal": 3.35,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "You can make a six pack on the carpet Taste like a million dollar bill You can make a one bedroom apartment Feel like a house up on the hill",
+      "valence": 3.32,
+      "arousal": 3.38,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Taste like a million dollar bill You can make a one bedroom apartment Feel like a house up on the hill You can make my truck out in the driveway",
+      "valence": 3.14,
+      "arousal": 3.32,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "You can make a one bedroom apartment Feel like a house up on the hill You can make my truck out in the driveway Roll like a cleaned up Cadillac",
+      "valence": 3.31,
+      "arousal": 3.4,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Feel like a house up on the hill You can make my truck out in the driveway Roll like a cleaned up Cadillac Girl, lookin' at you, lookin' at me that way",
+      "valence": 3.06,
+      "arousal": 3.48,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "You can make my truck out in the driveway Roll like a cleaned up Cadillac Girl, lookin' at you, lookin' at me that way Can make a man feel rich on minimum wage",
+      "valence": 2.64,
+      "arousal": 3.65,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Roll like a cleaned up Cadillac Girl, lookin' at you, lookin' at me that way Can make a man feel rich on minimum wage Girl, your love is money, your love is money",
+      "valence": 3.58,
+      "arousal": 3.78,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Girl, lookin' at you, lookin' at me that way Can make a man feel rich on minimum wage Girl, your love is money, your love is money Yeah, your love, can make a man feel rich on minimum wage",
+      "valence": 3.77,
+      "arousal": 3.83,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Can make a man feel rich on minimum wage Girl, your love is money, your love is money Yeah, your love, can make a man feel rich on minimum wage Girl, your love is money, your love is money",
+      "valence": 4.05,
+      "arousal": 3.96,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Girl, your love is money, your love is money Yeah, your love, can make a man feel rich on minimum wage Girl, your love is money, your love is money Yeah, your love, can make a man feel rich on minimum wage",
+      "valence": 4.13,
+      "arousal": 3.98,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Yeah, your love, can make a man feel rich on minimum wage Girl, your love is money, your love is money Yeah, your love, can make a man feel rich on minimum wage You can give me a tab that's always open",
+      "valence": 4.12,
+      "arousal": 3.92,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Girl, your love is money, your love is money Yeah, your love, can make a man feel rich on minimum wage You can give me a tab that's always open Or give me a yacht parked out in the ocean",
+      "valence": 4.1,
+      "arousal": 3.97,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Yeah, your love, can make a man feel rich on minimum wage You can give me a tab that's always open Or give me a yacht parked out in the ocean But all that keepin' with the Joneses",
+      "valence": 3.8,
+      "arousal": 3.71,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "You can give me a tab that's always open Or give me a yacht parked out in the ocean But all that keepin' with the Joneses It just ain't my style",
+      "valence": 2.74,
+      "arousal": 2.93,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Or give me a yacht parked out in the ocean But all that keepin' with the Joneses It just ain't my style Just give me some lights strung out in the yard",
+      "valence": 2.64,
+      "arousal": 2.99,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "But all that keepin' with the Joneses It just ain't my style Just give me some lights strung out in the yard Give me a lawn chair under the stars",
+      "valence": 2.56,
+      "arousal": 2.96,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "It just ain't my style Just give me some lights strung out in the yard Give me a lawn chair under the stars The top of the world's right where you are",
+      "valence": 2.79,
+      "arousal": 2.99,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Just give me some lights strung out in the yard Give me a lawn chair under the stars The top of the world's right where you are 'Cause every time you smile",
+      "valence": 3.53,
+      "arousal": 3.23,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Give me a lawn chair under the stars The top of the world's right where you are 'Cause every time you smile You can make a six pack on the carpet",
+      "valence": 3.67,
+      "arousal": 3.44,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "The top of the world's right where you are 'Cause every time you smile You can make a six pack on the carpet Taste like a million dollar bill",
+      "valence": 3.65,
+      "arousal": 3.53,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "'Cause every time you smile You can make a six pack on the carpet Taste like a million dollar bill You can make a one bedroom apartment",
+      "valence": 3.62,
+      "arousal": 3.48,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "You can make a six pack on the carpet Taste like a million dollar bill You can make a one bedroom apartment Feel like a house up on the hill",
+      "valence": 3.32,
+      "arousal": 3.38,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Taste like a million dollar bill You can make a one bedroom apartment Feel like a house up on the hill You can make my truck out in the driveway",
+      "valence": 3.14,
+      "arousal": 3.32,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "You can make a one bedroom apartment Feel like a house up on the hill You can make my truck out in the driveway Roll like a cleaned up Cadillac",
+      "valence": 3.31,
+      "arousal": 3.4,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Feel like a house up on the hill You can make my truck out in the driveway Roll like a cleaned up Cadillac Girl, lookin' at you, lookin' at me that way",
+      "valence": 3.06,
+      "arousal": 3.48,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "You can make my truck out in the driveway Roll like a cleaned up Cadillac Girl, lookin' at you, lookin' at me that way Can make a man feel rich on minimum wage",
+      "valence": 2.64,
+      "arousal": 3.65,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Roll like a cleaned up Cadillac Girl, lookin' at you, lookin' at me that way Can make a man feel rich on minimum wage Girl, your love is money, your love is money",
+      "valence": 3.58,
+      "arousal": 3.78,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Girl, lookin' at you, lookin' at me that way Can make a man feel rich on minimum wage Girl, your love is money, your love is money Yeah, your love, can make a man feel rich on minimum wage",
+      "valence": 3.77,
+      "arousal": 3.83,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Can make a man feel rich on minimum wage Girl, your love is money, your love is money Yeah, your love, can make a man feel rich on minimum wage Girl, your love is money, your love is money",
+      "valence": 4.05,
+      "arousal": 3.96,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Girl, your love is money, your love is money Yeah, your love, can make a man feel rich on minimum wage Girl, your love is money, your love is money Yeah, your love, can make a man feel rich on minimum wage",
+      "valence": 4.13,
+      "arousal": 3.98,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Yeah, your love, can make a man feel rich on minimum wage Girl, your love is money, your love is money Yeah, your love, can make a man feel rich on minimum wage You can make a six pack on the carpet",
+      "valence": 4.16,
+      "arousal": 4.01,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Girl, your love is money, your love is money Yeah, your love, can make a man feel rich on minimum wage You can make a six pack on the carpet Taste like a million dollar bill",
+      "valence": 4.12,
+      "arousal": 4.03,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Yeah, your love, can make a man feel rich on minimum wage You can make a six pack on the carpet Taste like a million dollar bill You can make a one bedroom apartment",
+      "valence": 3.84,
+      "arousal": 3.81,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "You can make a six pack on the carpet Taste like a million dollar bill You can make a one bedroom apartment Feel like a house up on the hill",
+      "valence": 3.32,
+      "arousal": 3.38,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Taste like a million dollar bill You can make a one bedroom apartment Feel like a house up on the hill You can make my truck out in the driveway",
+      "valence": 3.14,
+      "arousal": 3.32,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "You can make a one bedroom apartment Feel like a house up on the hill You can make my truck out in the driveway Roll like a cleaned up Cadillac",
+      "valence": 3.31,
+      "arousal": 3.4,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Feel like a house up on the hill You can make my truck out in the driveway Roll like a cleaned up Cadillac Girl, lookin' at you, looking at me that way",
+      "valence": 3.13,
+      "arousal": 3.51,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "You can make my truck out in the driveway Roll like a cleaned up Cadillac Girl, lookin' at you, looking at me that way Can make a man feel rich on minimum wage",
+      "valence": 2.64,
+      "arousal": 3.67,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Roll like a cleaned up Cadillac Girl, lookin' at you, looking at me that way Can make a man feel rich on minimum wage Girl, your love is money, your love is money",
+      "valence": 3.6,
+      "arousal": 3.81,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Girl, lookin' at you, looking at me that way Can make a man feel rich on minimum wage Girl, your love is money, your love is money Yeah, your love, can make a man feel rich on minimum wage",
+      "valence": 3.8,
+      "arousal": 3.84,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Can make a man feel rich on minimum wage Girl, your love is money, your love is money Yeah, your love, can make a man feel rich on minimum wage Girl, your love is money, your love is money",
+      "valence": 4.05,
+      "arousal": 3.96,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Girl, your love is money, your love is money Yeah, your love, can make a man feel rich on minimum wage Girl, your love is money, your love is money Yeah, your love, can make a man feel rich on minimum wage",
+      "valence": 4.13,
+      "arousal": 3.98,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Yeah, your love, can make a man feel rich on minimum wage Girl, your love is money, your love is money Yeah, your love, can make a man feel rich on minimum wage Girl, your love is money, your love is money",
+      "valence": 4.17,
+      "arousal": 4.02,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Girl, your love is money, your love is money Yeah, your love, can make a man feel rich on minimum wage Girl, your love is money, your love is money Girl, your love, can make a man feel rich on minimum wage",
+      "valence": 4.07,
+      "arousal": 3.94,
+      "dominance": 3.24
+    }
+  ]
+}

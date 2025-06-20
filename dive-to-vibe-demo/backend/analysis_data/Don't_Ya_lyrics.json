@@ -1,0 +1,255 @@
+{
+  "artist": "Brett Eldredge",
+  "overall_vad": {
+    "valence": 3.23,
+    "arousal": 3.58,
+    "dominance": 3.36
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Girl, you cut those jeans just right I know you didn't buy 'em like that So baby, don't even try that You dance, oh you move yeah",
+      "valence": 2.95,
+      "arousal": 3.52,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I know you didn't buy 'em like that So baby, don't even try that You dance, oh you move yeah Like there ain't nobody watchin'",
+      "valence": 2.69,
+      "arousal": 3.29,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "So baby, don't even try that You dance, oh you move yeah Like there ain't nobody watchin' But girl you know I'm watchin'",
+      "valence": 2.9,
+      "arousal": 3.28,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "You dance, oh you move yeah Like there ain't nobody watchin' But girl you know I'm watchin' Don't lie, you've got it all figured out",
+      "valence": 3.08,
+      "arousal": 3.4,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Like there ain't nobody watchin' But girl you know I'm watchin' Don't lie, you've got it all figured out That smile has got me spinnin' around",
+      "valence": 3.3,
+      "arousal": 3.5,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "But girl you know I'm watchin' Don't lie, you've got it all figured out That smile has got me spinnin' around Don't even try actin' like it ain't no thing",
+      "valence": 3.08,
+      "arousal": 3.5,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Don't lie, you've got it all figured out That smile has got me spinnin' around Don't even try actin' like it ain't no thing 'Cause I can see you move a little closer, closer",
+      "valence": 3.11,
+      "arousal": 3.54,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "That smile has got me spinnin' around Don't even try actin' like it ain't no thing 'Cause I can see you move a little closer, closer Girl I gotta get to get to know ya, know ya",
+      "valence": 3.27,
+      "arousal": 3.6,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Don't even try actin' like it ain't no thing 'Cause I can see you move a little closer, closer Girl I gotta get to get to know ya, know ya Everything about ya makes me want ya, want ya",
+      "valence": 3.21,
+      "arousal": 3.76,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "'Cause I can see you move a little closer, closer Girl I gotta get to get to know ya, know ya Everything about ya makes me want ya, want ya Know what you're doin' baby don't ya, don't ya",
+      "valence": 3.45,
+      "arousal": 3.76,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Girl I gotta get to get to know ya, know ya Everything about ya makes me want ya, want ya Know what you're doin' baby don't ya, don't ya You've been lookin' over here all night",
+      "valence": 3.47,
+      "arousal": 3.64,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Everything about ya makes me want ya, want ya Know what you're doin' baby don't ya, don't ya You've been lookin' over here all night And when I look, you look away",
+      "valence": 3.31,
+      "arousal": 3.66,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Know what you're doin' baby don't ya, don't ya You've been lookin' over here all night And when I look, you look away Oh I love the little games you play",
+      "valence": 3.61,
+      "arousal": 3.48,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "You've been lookin' over here all night And when I look, you look away Oh I love the little games you play Yea I bet, you didn't mean, to brush my hand when you walked by me",
+      "valence": 3.62,
+      "arousal": 3.54,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And when I look, you look away Oh I love the little games you play Yea I bet, you didn't mean, to brush my hand when you walked by me Like you didn't mean to drive me crazy",
+      "valence": 3.4,
+      "arousal": 3.52,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Oh I love the little games you play Yea I bet, you didn't mean, to brush my hand when you walked by me Like you didn't mean to drive me crazy Don't lie, you've got it all figured out",
+      "valence": 3.37,
+      "arousal": 3.65,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Yea I bet, you didn't mean, to brush my hand when you walked by me Like you didn't mean to drive me crazy Don't lie, you've got it all figured out That smile, has got me spinnin' around",
+      "valence": 3.1,
+      "arousal": 3.66,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Like you didn't mean to drive me crazy Don't lie, you've got it all figured out That smile, has got me spinnin' around Don't even try, actin' like it ain't no thing",
+      "valence": 2.61,
+      "arousal": 3.65,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Don't lie, you've got it all figured out That smile, has got me spinnin' around Don't even try, actin' like it ain't no thing 'Cause I can see you move a little closer, closer",
+      "valence": 3.05,
+      "arousal": 3.54,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "That smile, has got me spinnin' around Don't even try, actin' like it ain't no thing 'Cause I can see you move a little closer, closer Girl I gotta get to get to know ya, know ya",
+      "valence": 3.31,
+      "arousal": 3.59,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Don't even try, actin' like it ain't no thing 'Cause I can see you move a little closer, closer Girl I gotta get to get to know ya, know ya Everything about ya makes me want ya, want ya",
+      "valence": 3.17,
+      "arousal": 3.75,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "'Cause I can see you move a little closer, closer Girl I gotta get to get to know ya, know ya Everything about ya makes me want ya, want ya Know what you're doin baby don't ya, don't ya",
+      "valence": 3.44,
+      "arousal": 3.76,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Girl I gotta get to get to know ya, know ya Everything about ya makes me want ya, want ya Know what you're doin baby don't ya, don't ya Wanna get outta here and let me show ya",
+      "valence": 3.35,
+      "arousal": 3.64,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Everything about ya makes me want ya, want ya Know what you're doin baby don't ya, don't ya Wanna get outta here and let me show ya How good it would feel to hold ya",
+      "valence": 3.56,
+      "arousal": 3.73,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Know what you're doin baby don't ya, don't ya Wanna get outta here and let me show ya How good it would feel to hold ya Put your pretty little head on my shoulder, oh yea",
+      "valence": 3.54,
+      "arousal": 3.54,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Wanna get outta here and let me show ya How good it would feel to hold ya Put your pretty little head on my shoulder, oh yea Don't lie, you've got it all figured out",
+      "valence": 3.33,
+      "arousal": 3.49,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "How good it would feel to hold ya Put your pretty little head on my shoulder, oh yea Don't lie, you've got it all figured out That smile got me spinnin' around",
+      "valence": 3.83,
+      "arousal": 3.69,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Put your pretty little head on my shoulder, oh yea Don't lie, you've got it all figured out That smile got me spinnin' around Don't even try actin' like it ain't no thing",
+      "valence": 3.26,
+      "arousal": 3.45,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Don't lie, you've got it all figured out That smile got me spinnin' around Don't even try actin' like it ain't no thing No don't lie, you've got it all figured out",
+      "valence": 3.03,
+      "arousal": 3.49,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "That smile got me spinnin' around Don't even try actin' like it ain't no thing No don't lie, you've got it all figured out Girl that smile has got me spinnin' around",
+      "valence": 3.25,
+      "arousal": 3.6,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Don't even try actin' like it ain't no thing No don't lie, you've got it all figured out Girl that smile has got me spinnin' around Don't even try, actin' like it ain't no thing",
+      "valence": 2.71,
+      "arousal": 3.35,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "No don't lie, you've got it all figured out Girl that smile has got me spinnin' around Don't even try, actin' like it ain't no thing 'Cause I can see you move a little closer, closer",
+      "valence": 2.95,
+      "arousal": 3.54,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Girl that smile has got me spinnin' around Don't even try, actin' like it ain't no thing 'Cause I can see you move a little closer, closer Girl I gotta get to get to know ya, know ya",
+      "valence": 3.18,
+      "arousal": 3.58,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Don't even try, actin' like it ain't no thing 'Cause I can see you move a little closer, closer Girl I gotta get to get to know ya, know ya Everything about ya makes me want ya, want ya",
+      "valence": 3.17,
+      "arousal": 3.75,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "'Cause I can see you move a little closer, closer Girl I gotta get to get to know ya, know ya Everything about ya makes me want ya, want ya Know what you're doin' baby don't ya, don't ya",
+      "valence": 3.45,
+      "arousal": 3.76,
+      "dominance": 3.24
+    }
+  ]
+}

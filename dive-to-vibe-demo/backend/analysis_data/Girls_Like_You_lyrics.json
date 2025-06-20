@@ -1,0 +1,360 @@
+{
+  "artist": "Maroon 5 Featuring Cardi B",
+  "overall_vad": {
+    "valence": 3.36,
+    "arousal": 3.63,
+    "dominance": 3.31
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Spent 24 hours, I need more hours with you You spent the weekend getting even, ooh We spent the late nights making things right between us But now it's all good, babe",
+      "valence": 3.43,
+      "arousal": 3.52,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "You spent the weekend getting even, ooh We spent the late nights making things right between us But now it's all good, babe Roll that back wood, babe",
+      "valence": 3.64,
+      "arousal": 3.43,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "We spent the late nights making things right between us But now it's all good, babe Roll that back wood, babe And play me close",
+      "valence": 3.77,
+      "arousal": 3.53,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "But now it's all good, babe Roll that back wood, babe And play me close 'Cause girls like you run 'round with guys like me",
+      "valence": 3.51,
+      "arousal": 3.55,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Roll that back wood, babe And play me close 'Cause girls like you run 'round with guys like me 'Til sun down when I come through",
+      "valence": 3.2,
+      "arousal": 3.53,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "And play me close 'Cause girls like you run 'round with guys like me 'Til sun down when I come through I need a girl like you, yeah yeah",
+      "valence": 3.23,
+      "arousal": 3.52,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "'Cause girls like you run 'round with guys like me 'Til sun down when I come through I need a girl like you, yeah yeah Girls like you love fun and, yeah, me too",
+      "valence": 3.52,
+      "arousal": 3.59,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "'Til sun down when I come through I need a girl like you, yeah yeah Girls like you love fun and, yeah, me too What I want when I come through",
+      "valence": 3.46,
+      "arousal": 3.63,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I need a girl like you, yeah yeah Girls like you love fun and, yeah, me too What I want when I come through I need a girl like you, yeah yeah",
+      "valence": 3.65,
+      "arousal": 3.75,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Girls like you love fun and, yeah, me too What I want when I come through I need a girl like you, yeah yeah Yeah yeah yeah, yeah yeah yeah",
+      "valence": 3.75,
+      "arousal": 3.78,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "What I want when I come through I need a girl like you, yeah yeah Yeah yeah yeah, yeah yeah yeah I need a girl like you, yeah yeah",
+      "valence": 3.31,
+      "arousal": 3.7,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I need a girl like you, yeah yeah Yeah yeah yeah, yeah yeah yeah I need a girl like you, yeah yeah Yeah yeah yeah, yeah yeah yeah",
+      "valence": 3.64,
+      "arousal": 3.82,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Yeah yeah yeah, yeah yeah yeah I need a girl like you, yeah yeah Yeah yeah yeah, yeah yeah yeah I need a girl like you",
+      "valence": 3.64,
+      "arousal": 3.84,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I need a girl like you, yeah yeah Yeah yeah yeah, yeah yeah yeah I need a girl like you I spent last night on the last flight to you (ey ya)",
+      "valence": 3.51,
+      "arousal": 3.83,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Yeah yeah yeah, yeah yeah yeah I need a girl like you I spent last night on the last flight to you (ey ya) Took a whole day up trying to get way up, ooh",
+      "valence": 3.37,
+      "arousal": 3.85,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I need a girl like you I spent last night on the last flight to you (ey ya) Took a whole day up trying to get way up, ooh We spent the daylight trying to make things right between us",
+      "valence": 3.13,
+      "arousal": 3.62,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I spent last night on the last flight to you (ey ya) Took a whole day up trying to get way up, ooh We spent the daylight trying to make things right between us But now it's all good, babe",
+      "valence": 3.37,
+      "arousal": 3.5,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Took a whole day up trying to get way up, ooh We spent the daylight trying to make things right between us But now it's all good, babe Roll that back wood, babe",
+      "valence": 3.29,
+      "arousal": 3.49,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "We spent the daylight trying to make things right between us But now it's all good, babe Roll that back wood, babe And play me close, yeah",
+      "valence": 3.53,
+      "arousal": 3.54,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "But now it's all good, babe Roll that back wood, babe And play me close, yeah 'Cause girls like you run 'round with guys like me",
+      "valence": 3.6,
+      "arousal": 3.58,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Roll that back wood, babe And play me close, yeah 'Cause girls like you run 'round with guys like me 'Til sun down when I come through",
+      "valence": 3.27,
+      "arousal": 3.6,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "And play me close, yeah 'Cause girls like you run 'round with guys like me 'Til sun down when I come through I need a girl like you, yeah yeah",
+      "valence": 3.3,
+      "arousal": 3.56,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "'Cause girls like you run 'round with guys like me 'Til sun down when I come through I need a girl like you, yeah yeah Girls like you love fun and, yeah, me too",
+      "valence": 3.52,
+      "arousal": 3.59,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "'Til sun down when I come through I need a girl like you, yeah yeah Girls like you love fun and, yeah, me too What I want when I come through",
+      "valence": 3.46,
+      "arousal": 3.63,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I need a girl like you, yeah yeah Girls like you love fun and, yeah, me too What I want when I come through I need a girl like you, yeah yeah",
+      "valence": 3.65,
+      "arousal": 3.75,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Girls like you love fun and, yeah, me too What I want when I come through I need a girl like you, yeah yeah Yeah yeah yeah, yeah yeah yeah",
+      "valence": 3.75,
+      "arousal": 3.78,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "What I want when I come through I need a girl like you, yeah yeah Yeah yeah yeah, yeah yeah yeah I need a girl like you, yeah yeah",
+      "valence": 3.31,
+      "arousal": 3.7,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I need a girl like you, yeah yeah Yeah yeah yeah, yeah yeah yeah I need a girl like you, yeah yeah Yeah yeah yeah, yeah yeah yeah",
+      "valence": 3.64,
+      "arousal": 3.82,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Yeah yeah yeah, yeah yeah yeah I need a girl like you, yeah yeah Yeah yeah yeah, yeah yeah yeah I need a girl like you, yeah yeah",
+      "valence": 3.66,
+      "arousal": 3.85,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I need a girl like you, yeah yeah Yeah yeah yeah, yeah yeah yeah I need a girl like you, yeah yeah I need a girl like you, yeah yeah",
+      "valence": 3.6,
+      "arousal": 3.85,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Yeah yeah yeah, yeah yeah yeah I need a girl like you, yeah yeah I need a girl like you, yeah yeah I need a girl like you",
+      "valence": 3.54,
+      "arousal": 3.84,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I need a girl like you, yeah yeah I need a girl like you, yeah yeah I need a girl like you Maybe it's 6:45",
+      "valence": 3.32,
+      "arousal": 3.68,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I need a girl like you, yeah yeah I need a girl like you Maybe it's 6:45 Maybe I'm barely alive",
+      "valence": 3.18,
+      "arousal": 3.68,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I need a girl like you Maybe it's 6:45 Maybe I'm barely alive Maybe you've taken my shit for the last time, yeah",
+      "valence": 2.79,
+      "arousal": 3.79,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Maybe it's 6:45 Maybe I'm barely alive Maybe you've taken my shit for the last time, yeah Maybe I know that I'm drunk",
+      "valence": 2.43,
+      "arousal": 3.49,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Maybe I'm barely alive Maybe you've taken my shit for the last time, yeah Maybe I know that I'm drunk Maybe I know you're the one",
+      "valence": 2.38,
+      "arousal": 3.59,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Maybe you've taken my shit for the last time, yeah Maybe I know that I'm drunk Maybe I know you're the one Maybe you thinking it's better if you drive",
+      "valence": 2.39,
+      "arousal": 3.44,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Maybe I know that I'm drunk Maybe I know you're the one Maybe you thinking it's better if you drive Oh, 'cause girls like you run 'round with guys like me",
+      "valence": 2.73,
+      "arousal": 3.23,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Maybe I know you're the one Maybe you thinking it's better if you drive Oh, 'cause girls like you run 'round with guys like me 'Til sun down when I come through",
+      "valence": 2.81,
+      "arousal": 3.21,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Maybe you thinking it's better if you drive Oh, 'cause girls like you run 'round with guys like me 'Til sun down when I come through I need a girl like you, yeah",
+      "valence": 2.96,
+      "arousal": 3.34,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Oh, 'cause girls like you run 'round with guys like me 'Til sun down when I come through I need a girl like you, yeah 'Cause girls like you run 'round with guys like me",
+      "valence": 3.27,
+      "arousal": 3.45,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "'Til sun down when I come through I need a girl like you, yeah 'Cause girls like you run 'round with guys like me 'Til sun down when I come through",
+      "valence": 3.12,
+      "arousal": 3.35,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I need a girl like you, yeah 'Cause girls like you run 'round with guys like me 'Til sun down when I come through I need a girl like you, yeah yeah",
+      "valence": 3.26,
+      "arousal": 3.57,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "'Cause girls like you run 'round with guys like me 'Til sun down when I come through I need a girl like you, yeah yeah Girls like you love fun and, yeah, me too",
+      "valence": 3.52,
+      "arousal": 3.59,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "'Til sun down when I come through I need a girl like you, yeah yeah Girls like you love fun and, yeah, me too What I want when I come through",
+      "valence": 3.46,
+      "arousal": 3.63,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I need a girl like you, yeah yeah Girls like you love fun and, yeah, me too What I want when I come through I need a girl like you, yeah yeah",
+      "valence": 3.65,
+      "arousal": 3.75,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Girls like you love fun and, yeah, me too What I want when I come through I need a girl like you, yeah yeah Yeah yeah yeah, yeah yeah yeah",
+      "valence": 3.75,
+      "arousal": 3.78,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "What I want when I come through I need a girl like you, yeah yeah Yeah yeah yeah, yeah yeah yeah I need a girl like you, yeah yeah",
+      "valence": 3.31,
+      "arousal": 3.7,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I need a girl like you, yeah yeah Yeah yeah yeah, yeah yeah yeah I need a girl like you, yeah yeah Yeah yeah yeah, yeah yeah yeah",
+      "valence": 3.64,
+      "arousal": 3.82,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Yeah yeah yeah, yeah yeah yeah I need a girl like you, yeah yeah Yeah yeah yeah, yeah yeah yeah I need a girl like you",
+      "valence": 3.64,
+      "arousal": 3.84,
+      "dominance": 3.25
+    }
+  ]
+}

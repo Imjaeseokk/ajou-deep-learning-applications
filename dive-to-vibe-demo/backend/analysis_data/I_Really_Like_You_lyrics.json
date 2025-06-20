@@ -1,0 +1,367 @@
+{
+  "artist": "Carly Rae Jepsen",
+  "overall_vad": {
+    "valence": 3.16,
+    "arousal": 3.77,
+    "dominance": 3.11
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I really wanna stop, but I just got the taste for it I feel like I could fly with the boy on the moon So, honey, hold my hand, you like making me wait for it I feel like I could die walking up to the room, oh yeah",
+      "valence": 3.31,
+      "arousal": 3.85,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I feel like I could fly with the boy on the moon So, honey, hold my hand, you like making me wait for it I feel like I could die walking up to the room, oh yeah Late night, watching television",
+      "valence": 3.5,
+      "arousal": 3.81,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "So, honey, hold my hand, you like making me wait for it I feel like I could die walking up to the room, oh yeah Late night, watching television But how'd we get in this position?",
+      "valence": 2.99,
+      "arousal": 3.7,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I feel like I could die walking up to the room, oh yeah Late night, watching television But how'd we get in this position? It's way too soon, I know this isn't love",
+      "valence": 2.44,
+      "arousal": 3.6,
+      "dominance": 2.58
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Late night, watching television But how'd we get in this position? It's way too soon, I know this isn't love But I need to tell you something",
+      "valence": 2.73,
+      "arousal": 3.45,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "But how'd we get in this position? It's way too soon, I know this isn't love But I need to tell you something I really, really, really, really, really, really like you",
+      "valence": 3.26,
+      "arousal": 3.74,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "It's way too soon, I know this isn't love But I need to tell you something I really, really, really, really, really, really like you And I want you, do you want me, do you want me, too?",
+      "valence": 2.8,
+      "arousal": 3.84,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "But I need to tell you something I really, really, really, really, really, really like you And I want you, do you want me, do you want me, too? I really, really, really, really, really, really like you",
+      "valence": 3.43,
+      "arousal": 3.72,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I really, really, really, really, really, really like you And I want you, do you want me, do you want me, too? I really, really, really, really, really, really like you And I want you, do you want me, do you want me, too?",
+      "valence": 3.45,
+      "arousal": 3.72,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "And I want you, do you want me, do you want me, too? I really, really, really, really, really, really like you And I want you, do you want me, do you want me, too? Oh, did I say too much?",
+      "valence": 3.18,
+      "arousal": 3.79,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I really, really, really, really, really, really like you And I want you, do you want me, do you want me, too? Oh, did I say too much? I'm so in my head",
+      "valence": 3.5,
+      "arousal": 3.89,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "And I want you, do you want me, do you want me, too? Oh, did I say too much? I'm so in my head When we're out of touch",
+      "valence": 2.84,
+      "arousal": 3.77,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Oh, did I say too much? I'm so in my head When we're out of touch I really, really, really, really, really, really like you",
+      "valence": 3.27,
+      "arousal": 3.7,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I'm so in my head When we're out of touch I really, really, really, really, really, really like you And I want you, do you want me, do you want me, too?",
+      "valence": 3.06,
+      "arousal": 3.64,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "When we're out of touch I really, really, really, really, really, really like you And I want you, do you want me, do you want me, too? It's like everything you say is a sweet revelation",
+      "valence": 3.54,
+      "arousal": 3.68,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I really, really, really, really, really, really like you And I want you, do you want me, do you want me, too? It's like everything you say is a sweet revelation All I wanna do is get into your head",
+      "valence": 3.73,
+      "arousal": 3.82,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "And I want you, do you want me, do you want me, too? It's like everything you say is a sweet revelation All I wanna do is get into your head Yeah, we could stay alone, you and me in this temptation",
+      "valence": 3.13,
+      "arousal": 3.72,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "It's like everything you say is a sweet revelation All I wanna do is get into your head Yeah, we could stay alone, you and me in this temptation Sipping on your lips, hanging on by thread, baby",
+      "valence": 3.25,
+      "arousal": 3.6,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "All I wanna do is get into your head Yeah, we could stay alone, you and me in this temptation Sipping on your lips, hanging on by thread, baby Late night watching television",
+      "valence": 2.79,
+      "arousal": 3.44,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Yeah, we could stay alone, you and me in this temptation Sipping on your lips, hanging on by thread, baby Late night watching television But how we get in this position?",
+      "valence": 2.87,
+      "arousal": 3.28,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Sipping on your lips, hanging on by thread, baby Late night watching television But how we get in this position? It's way too soon, I know this isn't love",
+      "valence": 2.81,
+      "arousal": 3.38,
+      "dominance": 2.68
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Late night watching television But how we get in this position? It's way too soon, I know this isn't love But I need to tell you something",
+      "valence": 2.66,
+      "arousal": 3.48,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "But how we get in this position? It's way too soon, I know this isn't love But I need to tell you something I really, really, really, really, really, really like you",
+      "valence": 3.23,
+      "arousal": 3.78,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "It's way too soon, I know this isn't love But I need to tell you something I really, really, really, really, really, really like you And I want you, do you want me, do you want me, too?",
+      "valence": 2.8,
+      "arousal": 3.84,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "But I need to tell you something I really, really, really, really, really, really like you And I want you, do you want me, do you want me, too? I really, really, really, really, really, really like you",
+      "valence": 3.43,
+      "arousal": 3.72,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I really, really, really, really, really, really like you And I want you, do you want me, do you want me, too? I really, really, really, really, really, really like you And I want you, do you want me, do you want me, too?",
+      "valence": 3.45,
+      "arousal": 3.72,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "And I want you, do you want me, do you want me, too? I really, really, really, really, really, really like you And I want you, do you want me, do you want me, too? Oh, did I say too much?",
+      "valence": 3.18,
+      "arousal": 3.79,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I really, really, really, really, really, really like you And I want you, do you want me, do you want me, too? Oh, did I say too much? I'm so in my head, when we're out of touch",
+      "valence": 3.43,
+      "arousal": 3.81,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "And I want you, do you want me, do you want me, too? Oh, did I say too much? I'm so in my head, when we're out of touch I really really really really really really like you",
+      "valence": 3.24,
+      "arousal": 3.87,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Oh, did I say too much? I'm so in my head, when we're out of touch I really really really really really really like you And I want you, do you want me, do you want me, too?",
+      "valence": 2.97,
+      "arousal": 3.81,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I'm so in my head, when we're out of touch I really really really really really really like you And I want you, do you want me, do you want me, too? Who gave you eyes like that?",
+      "valence": 3.16,
+      "arousal": 3.77,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I really really really really really really like you And I want you, do you want me, do you want me, too? Who gave you eyes like that? Said you could keep them",
+      "valence": 3.7,
+      "arousal": 3.96,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "And I want you, do you want me, do you want me, too? Who gave you eyes like that? Said you could keep them I don't know how to act",
+      "valence": 2.91,
+      "arousal": 3.85,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Who gave you eyes like that? Said you could keep them I don't know how to act Or if I should be leaving",
+      "valence": 2.63,
+      "arousal": 3.53,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Said you could keep them I don't know how to act Or if I should be leaving I'm running out of time",
+      "valence": 2.56,
+      "arousal": 3.44,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I don't know how to act Or if I should be leaving I'm running out of time Going out of my mind",
+      "valence": 2.2,
+      "arousal": 3.68,
+      "dominance": 2.37
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Or if I should be leaving I'm running out of time Going out of my mind I need to tell you something",
+      "valence": 2.33,
+      "arousal": 3.67,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "I'm running out of time Going out of my mind I need to tell you something Yeah, I need to tell you something, yeah!",
+      "valence": 2.74,
+      "arousal": 4.17,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Going out of my mind I need to tell you something Yeah, I need to tell you something, yeah! I really, really, really, really, really, really like you",
+      "valence": 3.55,
+      "arousal": 4.17,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "I need to tell you something Yeah, I need to tell you something, yeah! I really, really, really, really, really, really like you And I want you, do you want me, do you want me, too?",
+      "valence": 3.45,
+      "arousal": 4.12,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Yeah, I need to tell you something, yeah! I really, really, really, really, really, really like you And I want you, do you want me, do you want me, too? I really, really, really, really, really, really like you",
+      "valence": 3.67,
+      "arousal": 4.04,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "I really, really, really, really, really, really like you And I want you, do you want me, do you want me, too? I really, really, really, really, really, really like you And I want you, do you want me, do you want me, too?",
+      "valence": 3.45,
+      "arousal": 3.72,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "And I want you, do you want me, do you want me, too? I really, really, really, really, really, really like you And I want you, do you want me, do you want me, too? Oh, did I say too much?",
+      "valence": 3.18,
+      "arousal": 3.79,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I really, really, really, really, really, really like you And I want you, do you want me, do you want me, too? Oh, did I say too much? I'm so in my head, when we're out of touch",
+      "valence": 3.43,
+      "arousal": 3.81,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "And I want you, do you want me, do you want me, too? Oh, did I say too much? I'm so in my head, when we're out of touch I really really really really really really like you",
+      "valence": 3.24,
+      "arousal": 3.87,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Oh, did I say too much? I'm so in my head, when we're out of touch I really really really really really really like you And I want you, do you want me, do you want me, too?",
+      "valence": 2.97,
+      "arousal": 3.81,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I'm so in my head, when we're out of touch I really really really really really really like you And I want you, do you want me, do you want me, too? Yeah! (I really, really, really, really, really, really like you)",
+      "valence": 3.53,
+      "arousal": 3.98,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I really really really really really really like you And I want you, do you want me, do you want me, too? Yeah! (I really, really, really, really, really, really like you) (And I want you, do you want me)",
+      "valence": 3.76,
+      "arousal": 3.98,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "And I want you, do you want me, do you want me, too? Yeah! (I really, really, really, really, really, really like you) (And I want you, do you want me) Yeah I need to tell you something (Do you want me, too?)",
+      "valence": 3.46,
+      "arousal": 4.02,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Yeah! (I really, really, really, really, really, really like you) (And I want you, do you want me) Yeah I need to tell you something (Do you want me, too?) I really, really, really, really, really, really like you",
+      "valence": 3.8,
+      "arousal": 4.0,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "(And I want you, do you want me) Yeah I need to tell you something (Do you want me, too?) I really, really, really, really, really, really like you And I want you, do you want me, do you want me, too?",
+      "valence": 3.24,
+      "arousal": 3.74,
+      "dominance": 3.25
+    }
+  ]
+}

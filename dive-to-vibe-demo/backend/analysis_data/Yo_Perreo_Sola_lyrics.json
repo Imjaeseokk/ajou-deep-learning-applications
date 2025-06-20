@@ -1,0 +1,402 @@
+{
+  "artist": "Bad Bunny",
+  "overall_vad": {
+    "valence": 2.93,
+    "arousal": 3.17,
+    "dominance": 3.07
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Ante' tÃº me pichaba' (tÃº me pichaba') Ahora yo picheo (mmh, nah) Antes tÃº no querÃ­a' (no querÃ­a') Ahora yo no quiero (mmh, no)",
+      "valence": 2.76,
+      "arousal": 3.18,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Ahora yo picheo (mmh, nah) Antes tÃº no querÃ­a' (no querÃ­a') Ahora yo no quiero (mmh, no) Ante' tÃº me pichaba'",
+      "valence": 2.84,
+      "arousal": 3.11,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Antes tÃº no querÃ­a' (no querÃ­a') Ahora yo no quiero (mmh, no) Ante' tÃº me pichaba' Ahora yo picheo (ja, ja)",
+      "valence": 2.81,
+      "arousal": 3.19,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Ahora yo no quiero (mmh, no) Ante' tÃº me pichaba' Ahora yo picheo (ja, ja) Antes tÃº no querÃ­a' (ey)",
+      "valence": 2.8,
+      "arousal": 3.22,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Ante' tÃº me pichaba' Ahora yo picheo (ja, ja) Antes tÃº no querÃ­a' (ey) Ahora yo no quiero, no, tranqui",
+      "valence": 2.82,
+      "arousal": 3.22,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Ahora yo picheo (ja, ja) Antes tÃº no querÃ­a' (ey) Ahora yo no quiero, no, tranqui Yo perreo sola (hmm, ey)",
+      "valence": 2.86,
+      "arousal": 3.11,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Antes tÃº no querÃ­a' (ey) Ahora yo no quiero, no, tranqui Yo perreo sola (hmm, ey) Yo perreo sola (perreo sola, ja, ja, mmh-mmh)",
+      "valence": 2.84,
+      "arousal": 3.12,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Ahora yo no quiero, no, tranqui Yo perreo sola (hmm, ey) Yo perreo sola (perreo sola, ja, ja, mmh-mmh) Yo perreo sola (ja, ja, mmh, ey)",
+      "valence": 2.82,
+      "arousal": 3.11,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Yo perreo sola (hmm, ey) Yo perreo sola (perreo sola, ja, ja, mmh-mmh) Yo perreo sola (ja, ja, mmh, ey) Yo perreo sola (perreo sola)",
+      "valence": 2.89,
+      "arousal": 3.06,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Yo perreo sola (perreo sola, ja, ja, mmh-mmh) Yo perreo sola (ja, ja, mmh, ey) Yo perreo sola (perreo sola) Okay, okay, ey, ey, ey",
+      "valence": 2.88,
+      "arousal": 3.02,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Yo perreo sola (ja, ja, mmh, ey) Yo perreo sola (perreo sola) Okay, okay, ey, ey, ey Que ningÃºn baboso se le pegue (no)",
+      "valence": 2.77,
+      "arousal": 2.99,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Yo perreo sola (perreo sola) Okay, okay, ey, ey, ey Que ningÃºn baboso se le pegue (no) La disco se prende cuando ella llegue (Â¡wuh!)",
+      "valence": 2.92,
+      "arousal": 3.23,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Okay, okay, ey, ey, ey Que ningÃºn baboso se le pegue (no) La disco se prende cuando ella llegue (Â¡wuh!) A los hombres los tienes de hobby",
+      "valence": 3.04,
+      "arousal": 3.41,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Que ningÃºn baboso se le pegue (no) La disco se prende cuando ella llegue (Â¡wuh!) A los hombres los tienes de hobby Una malcriÃ¡ como Nairobi (ja, ja)",
+      "valence": 2.95,
+      "arousal": 3.38,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "La disco se prende cuando ella llegue (Â¡wuh!) A los hombres los tienes de hobby Una malcriÃ¡ como Nairobi (ja, ja) Y tÃº la ve' bebiendo de la botella (ey)",
+      "valence": 3.04,
+      "arousal": 3.52,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "A los hombres los tienes de hobby Una malcriÃ¡ como Nairobi (ja, ja) Y tÃº la ve' bebiendo de la botella (ey) Los nene' y las nena' quieren con ella",
+      "valence": 2.91,
+      "arousal": 3.02,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Una malcriÃ¡ como Nairobi (ja, ja) Y tÃº la ve' bebiendo de la botella (ey) Los nene' y las nena' quieren con ella Tiene mÃ¡' de veinte, me enseÃ±o la cÃ©dula (ajÃ¡)",
+      "valence": 2.8,
+      "arousal": 3.08,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Y tÃº la ve' bebiendo de la botella (ey) Los nene' y las nena' quieren con ella Tiene mÃ¡' de veinte, me enseÃ±o la cÃ©dula (ajÃ¡) Ey, del amor e' una incrÃ©dula (Â¡wuh!)",
+      "valence": 3.17,
+      "arousal": 3.6,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Los nene' y las nena' quieren con ella Tiene mÃ¡' de veinte, me enseÃ±o la cÃ©dula (ajÃ¡) Ey, del amor e' una incrÃ©dula (Â¡wuh!) Ella estÃ¡ soltera antes que se pusiera de moda (ey)",
+      "valence": 3.23,
+      "arousal": 3.63,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Tiene mÃ¡' de veinte, me enseÃ±o la cÃ©dula (ajÃ¡) Ey, del amor e' una incrÃ©dula (Â¡wuh!) Ella estÃ¡ soltera antes que se pusiera de moda (ey) No cree en amor desde \"Amorfoda\" (no)",
+      "valence": 3.18,
+      "arousal": 3.47,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Ey, del amor e' una incrÃ©dula (Â¡wuh!) Ella estÃ¡ soltera antes que se pusiera de moda (ey) No cree en amor desde \"Amorfoda\" (no) El DJ la pone y se las sabe todas",
+      "valence": 3.09,
+      "arousal": 3.55,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Ella estÃ¡ soltera antes que se pusiera de moda (ey) No cree en amor desde \"Amorfoda\" (no) El DJ la pone y se las sabe todas Se trepa en la mesa y que se jodan (wuh)",
+      "valence": 2.93,
+      "arousal": 3.15,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "No cree en amor desde \"Amorfoda\" (no) El DJ la pone y se las sabe todas Se trepa en la mesa y que se jodan (wuh) En el perreo no se quita (Â¡no!)",
+      "valence": 2.87,
+      "arousal": 3.29,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "El DJ la pone y se las sabe todas Se trepa en la mesa y que se jodan (wuh) En el perreo no se quita (Â¡no!) Fuma y se pone bellaquita",
+      "valence": 2.71,
+      "arousal": 3.38,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Se trepa en la mesa y que se jodan (wuh) En el perreo no se quita (Â¡no!) Fuma y se pone bellaquita Te llama si te necesita",
+      "valence": 2.7,
+      "arousal": 3.38,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "En el perreo no se quita (Â¡no!) Fuma y se pone bellaquita Te llama si te necesita Pero por ahora estÃ¡ solita",
+      "valence": 2.79,
+      "arousal": 3.42,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Fuma y se pone bellaquita Te llama si te necesita Pero por ahora estÃ¡ solita Ella perrea sola (ey, ey, ey, ey, ey), ey",
+      "valence": 2.83,
+      "arousal": 2.95,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Te llama si te necesita Pero por ahora estÃ¡ solita Ella perrea sola (ey, ey, ey, ey, ey), ey Ella perrea sola (perrea sola, ella perrea sola, sola, sola), ey",
+      "valence": 2.92,
+      "arousal": 2.89,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Pero por ahora estÃ¡ solita Ella perrea sola (ey, ey, ey, ey, ey), ey Ella perrea sola (perrea sola, ella perrea sola, sola, sola), ey Ella perrea sola (ey, ey, ey, ey, ey, ey)",
+      "valence": 3.03,
+      "arousal": 2.85,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Ella perrea sola (ey, ey, ey, ey, ey), ey Ella perrea sola (perrea sola, ella perrea sola, sola, sola), ey Ella perrea sola (ey, ey, ey, ey, ey, ey) Ella perrea sola (ella perrea sola, ella perrea sola)",
+      "valence": 3.02,
+      "arousal": 2.93,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Ella perrea sola (perrea sola, ella perrea sola, sola, sola), ey Ella perrea sola (ey, ey, ey, ey, ey, ey) Ella perrea sola (ella perrea sola, ella perrea sola) Tiene una amiga problemÃ¡tica",
+      "valence": 2.89,
+      "arousal": 3.06,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Ella perrea sola (ey, ey, ey, ey, ey, ey) Ella perrea sola (ella perrea sola, ella perrea sola) Tiene una amiga problemÃ¡tica Y otra que casi ni habla (yo)",
+      "valence": 2.82,
+      "arousal": 3.16,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Ella perrea sola (ella perrea sola, ella perrea sola) Tiene una amiga problemÃ¡tica Y otra que casi ni habla (yo) Pero las tre' son una' diabla' (prr)",
+      "valence": 2.85,
+      "arousal": 3.08,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Tiene una amiga problemÃ¡tica Y otra que casi ni habla (yo) Pero las tre' son una' diabla' (prr) Y hoy se puso minifalda",
+      "valence": 2.78,
+      "arousal": 3.05,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Y otra que casi ni habla (yo) Pero las tre' son una' diabla' (prr) Y hoy se puso minifalda Los phillie' en las Louis Vuitton los guarda",
+      "valence": 2.86,
+      "arousal": 2.91,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Pero las tre' son una' diabla' (prr) Y hoy se puso minifalda Los phillie' en las Louis Vuitton los guarda Y me dice papi (papi, sÃ­; yes, yes)",
+      "valence": 3.09,
+      "arousal": 3.2,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Y hoy se puso minifalda Los phillie' en las Louis Vuitton los guarda Y me dice papi (papi, sÃ­; yes, yes) Ta bien dura como Natti (ah)",
+      "valence": 3.14,
+      "arousal": 3.3,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Los phillie' en las Louis Vuitton los guarda Y me dice papi (papi, sÃ­; yes, yes) Ta bien dura como Natti (ah) Borracha y loca, a ella no le importa (wuh)",
+      "valence": 3.06,
+      "arousal": 3.22,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Y me dice papi (papi, sÃ­; yes, yes) Ta bien dura como Natti (ah) Borracha y loca, a ella no le importa (wuh) Vamo' a perrear, la vida es corta, ey (wuh)",
+      "valence": 3.17,
+      "arousal": 3.17,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Ta bien dura como Natti (ah) Borracha y loca, a ella no le importa (wuh) Vamo' a perrear, la vida es corta, ey (wuh) Y me dice papi (papi, sÃ­; yes, yes)",
+      "valence": 3.13,
+      "arousal": 3.17,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Borracha y loca, a ella no le importa (wuh) Vamo' a perrear, la vida es corta, ey (wuh) Y me dice papi (papi, sÃ­; yes, yes) Ta bien dura como Natti (ah)",
+      "valence": 3.13,
+      "arousal": 3.14,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Vamo' a perrear, la vida es corta, ey (wuh) Y me dice papi (papi, sÃ­; yes, yes) Ta bien dura como Natti (ah) DespuÃ©' de las doce no se comporta (ey)",
+      "valence": 3.12,
+      "arousal": 3.2,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Y me dice papi (papi, sÃ­; yes, yes) Ta bien dura como Natti (ah) DespuÃ©' de las doce no se comporta (ey) Vamo' a perrear, la vida e' corta (wuh)",
+      "valence": 3.14,
+      "arousal": 3.19,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Ta bien dura como Natti (ah) DespuÃ©' de las doce no se comporta (ey) Vamo' a perrear, la vida e' corta (wuh) Ante' tÃº me pichaba' (tÃº me pichaba')",
+      "valence": 2.95,
+      "arousal": 3.15,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "DespuÃ©' de las doce no se comporta (ey) Vamo' a perrear, la vida e' corta (wuh) Ante' tÃº me pichaba' (tÃº me pichaba') Ahora yo picheo (hmm, nah; loco)",
+      "valence": 3.01,
+      "arousal": 3.19,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Vamo' a perrear, la vida e' corta (wuh) Ante' tÃº me pichaba' (tÃº me pichaba') Ahora yo picheo (hmm, nah; loco) Ante' tÃº no querÃ­a' (Â¿pero cuÃ¡ndo yo dije eso?)",
+      "valence": 2.96,
+      "arousal": 3.23,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Ante' tÃº me pichaba' (tÃº me pichaba') Ahora yo picheo (hmm, nah; loco) Ante' tÃº no querÃ­a' (Â¿pero cuÃ¡ndo yo dije eso?) Ahora yo no quiero (pero, pero; no)",
+      "valence": 2.84,
+      "arousal": 3.12,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Ahora yo picheo (hmm, nah; loco) Ante' tÃº no querÃ­a' (Â¿pero cuÃ¡ndo yo dije eso?) Ahora yo no quiero (pero, pero; no) Ante' tÃº me pichaba' (nah)",
+      "valence": 2.83,
+      "arousal": 3.09,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Ante' tÃº no querÃ­a' (Â¿pero cuÃ¡ndo yo dije eso?) Ahora yo no quiero (pero, pero; no) Ante' tÃº me pichaba' (nah) Ahora yo picheo (yo nunca te he pichao, mami)",
+      "valence": 2.87,
+      "arousal": 3.13,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Ahora yo no quiero (pero, pero; no) Ante' tÃº me pichaba' (nah) Ahora yo picheo (yo nunca te he pichao, mami) Ante' tÃº no querÃ­a' (ay, Dio'; ey)",
+      "valence": 2.81,
+      "arousal": 3.1,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Ante' tÃº me pichaba' (nah) Ahora yo picheo (yo nunca te he pichao, mami) Ante' tÃº no querÃ­a' (ay, Dio'; ey) Ahora yo no quiero, no, tranqui",
+      "valence": 2.87,
+      "arousal": 3.14,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Ahora yo picheo (yo nunca te he pichao, mami) Ante' tÃº no querÃ­a' (ay, Dio'; ey) Ahora yo no quiero, no, tranqui Yo perreo sola (mmh, ey)",
+      "valence": 2.93,
+      "arousal": 3.07,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Ante' tÃº no querÃ­a' (ay, Dio'; ey) Ahora yo no quiero, no, tranqui Yo perreo sola (mmh, ey) Yo perreo sola (perreo sola, ja, ja, mmh-mmh)",
+      "valence": 2.81,
+      "arousal": 3.11,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Ahora yo no quiero, no, tranqui Yo perreo sola (mmh, ey) Yo perreo sola (perreo sola, ja, ja, mmh-mmh) Yo perreo sola (ja, ja, mmh, ey)",
+      "valence": 2.82,
+      "arousal": 3.12,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Yo perreo sola (mmh, ey) Yo perreo sola (perreo sola, ja, ja, mmh-mmh) Yo perreo sola (ja, ja, mmh, ey) Yo perreo sola (perreo sola)",
+      "valence": 2.89,
+      "arousal": 3.06,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Yo perreo sola (perreo sola, ja, ja, mmh-mmh) Yo perreo sola (ja, ja, mmh, ey) Yo perreo sola (perreo sola) Translate to English",
+      "valence": 2.85,
+      "arousal": 2.92,
+      "dominance": 2.99
+    }
+  ]
+}

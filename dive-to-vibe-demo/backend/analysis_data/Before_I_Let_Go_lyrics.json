@@ -1,0 +1,304 @@
+{
+  "artist": "Beyonce",
+  "overall_vad": {
+    "valence": 3.14,
+    "arousal": 3.55,
+    "dominance": 3.34
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "You make me happy This you can bet, yeah It's clear right beside me, yeah (come on, come on) And I won't forget (come on, come on)",
+      "valence": 3.48,
+      "arousal": 3.47,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "This you can bet, yeah It's clear right beside me, yeah (come on, come on) And I won't forget (come on, come on) And I really love you",
+      "valence": 3.92,
+      "arousal": 3.89,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "It's clear right beside me, yeah (come on, come on) And I won't forget (come on, come on) And I really love you You should know",
+      "valence": 3.84,
+      "arousal": 3.92,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "And I won't forget (come on, come on) And I really love you You should know I wanna make sure I'm right, boy",
+      "valence": 3.64,
+      "arousal": 3.88,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "And I really love you You should know I wanna make sure I'm right, boy Before I let go",
+      "valence": 3.6,
+      "arousal": 3.82,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "You should know I wanna make sure I'm right, boy Before I let go Now, we had our good times",
+      "valence": 3.29,
+      "arousal": 3.55,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I wanna make sure I'm right, boy Before I let go Now, we had our good times That we can say",
+      "valence": 3.26,
+      "arousal": 3.42,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Before I let go Now, we had our good times That we can say We hurted each other, yeah",
+      "valence": 3.37,
+      "arousal": 3.52,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Now, we had our good times That we can say We hurted each other, yeah And, boy, it's a shame",
+      "valence": 2.69,
+      "arousal": 3.59,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "That we can say We hurted each other, yeah And, boy, it's a shame I won't be foolish, no",
+      "valence": 2.48,
+      "arousal": 3.48,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "We hurted each other, yeah And, boy, it's a shame I won't be foolish, no I wanna know",
+      "valence": 2.44,
+      "arousal": 3.57,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "And, boy, it's a shame I won't be foolish, no I wanna know I wanna make sure I'm bright, boy",
+      "valence": 2.98,
+      "arousal": 3.33,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I won't be foolish, no I wanna know I wanna make sure I'm bright, boy Before I let go",
+      "valence": 2.98,
+      "arousal": 3.31,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I wanna know I wanna make sure I'm bright, boy Before I let go Yeah, uh, yeah, yeah",
+      "valence": 3.05,
+      "arousal": 3.13,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I wanna make sure I'm bright, boy Before I let go Yeah, uh, yeah, yeah You know, I thank God sun rises and shines on you",
+      "valence": 3.28,
+      "arousal": 3.39,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Before I let go Yeah, uh, yeah, yeah You know, I thank God sun rises and shines on you You know there's nothing, nothing, nothing I would not do, oh",
+      "valence": 3.28,
+      "arousal": 3.34,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Yeah, uh, yeah, yeah You know, I thank God sun rises and shines on you You know there's nothing, nothing, nothing I would not do, oh Before I let you go, oh",
+      "valence": 3.36,
+      "arousal": 3.41,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "You know, I thank God sun rises and shines on you You know there's nothing, nothing, nothing I would not do, oh Before I let you go, oh I would never, never, never, never, never, never, never, never",
+      "valence": 3.25,
+      "arousal": 3.43,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "You know there's nothing, nothing, nothing I would not do, oh Before I let you go, oh I would never, never, never, never, never, never, never, never Let you go before I go",
+      "valence": 2.36,
+      "arousal": 3.47,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Before I let you go, oh I would never, never, never, never, never, never, never, never Let you go before I go I pull up to Coachella (pull up)",
+      "valence": 2.43,
+      "arousal": 3.52,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I would never, never, never, never, never, never, never, never Let you go before I go I pull up to Coachella (pull up) In boots with the ghost feathers (pull up)",
+      "valence": 2.5,
+      "arousal": 3.54,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Let you go before I go I pull up to Coachella (pull up) In boots with the ghost feathers (pull up) I brought the squad with me (squad)",
+      "valence": 3.08,
+      "arousal": 3.15,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I pull up to Coachella (pull up) In boots with the ghost feathers (pull up) I brought the squad with me (squad) Black on black bandanas, I",
+      "valence": 3.02,
+      "arousal": 3.22,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "In boots with the ghost feathers (pull up) I brought the squad with me (squad) Black on black bandanas, I DussÃ© and Champagne (Champagne)",
+      "valence": 3.09,
+      "arousal": 3.27,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I brought the squad with me (squad) Black on black bandanas, I DussÃ© and Champagne (Champagne) I did the damn thing (I did the damn thing)",
+      "valence": 2.93,
+      "arousal": 3.62,
+      "dominance": 3.8
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Black on black bandanas, I DussÃ© and Champagne (Champagne) I did the damn thing (I did the damn thing) Dirty Diana (Dirty Diana)",
+      "valence": 2.91,
+      "arousal": 3.62,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "DussÃ© and Champagne (Champagne) I did the damn thing (I did the damn thing) Dirty Diana (Dirty Diana) Singing and dancing all in the rain",
+      "valence": 3.28,
+      "arousal": 3.74,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I did the damn thing (I did the damn thing) Dirty Diana (Dirty Diana) Singing and dancing all in the rain Ooh (to the left), I just wanna have a good time (turn around)",
+      "valence": 3.67,
+      "arousal": 3.96,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Dirty Diana (Dirty Diana) Singing and dancing all in the rain Ooh (to the left), I just wanna have a good time (turn around) Turn around, kick, then slide",
+      "valence": 3.74,
+      "arousal": 3.79,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Singing and dancing all in the rain Ooh (to the left), I just wanna have a good time (turn around) Turn around, kick, then slide And twirl that ass to the right, now",
+      "valence": 3.68,
+      "arousal": 3.94,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Ooh (to the left), I just wanna have a good time (turn around) Turn around, kick, then slide And twirl that ass to the right, now Ooh, bunny hop, bunny hop, drop, pop",
+      "valence": 3.59,
+      "arousal": 3.97,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Turn around, kick, then slide And twirl that ass to the right, now Ooh, bunny hop, bunny hop, drop, pop Cross your legs, turn around and clap",
+      "valence": 3.26,
+      "arousal": 3.76,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "And twirl that ass to the right, now Ooh, bunny hop, bunny hop, drop, pop Cross your legs, turn around and clap Shuffle to the left, let's glide now",
+      "valence": 3.3,
+      "arousal": 3.66,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Ooh, bunny hop, bunny hop, drop, pop Cross your legs, turn around and clap Shuffle to the left, let's glide now Ooh, drop it down, drop it down low, low",
+      "valence": 3.32,
+      "arousal": 3.55,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Cross your legs, turn around and clap Shuffle to the left, let's glide now Ooh, drop it down, drop it down low, low Low, low, low to the floor, floor",
+      "valence": 3.18,
+      "arousal": 3.53,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Shuffle to the left, let's glide now Ooh, drop it down, drop it down low, low Low, low, low to the floor, floor Bring it up, clap, then roll, roll",
+      "valence": 3.13,
+      "arousal": 3.4,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Ooh, drop it down, drop it down low, low Low, low, low to the floor, floor Bring it up, clap, then roll, roll (Step) step on 'em, step on 'em, step on 'em, step",
+      "valence": 3.0,
+      "arousal": 3.49,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Low, low, low to the floor, floor Bring it up, clap, then roll, roll (Step) step on 'em, step on 'em, step on 'em, step Step on 'em, kick on 'em, stomp then you step",
+      "valence": 2.93,
+      "arousal": 3.52,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Bring it up, clap, then roll, roll (Step) step on 'em, step on 'em, step on 'em, step Step on 'em, kick on 'em, stomp then you step Swag the right, surf the left",
+      "valence": 3.12,
+      "arousal": 3.55,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "(Step) step on 'em, step on 'em, step on 'em, step Step on 'em, kick on 'em, stomp then you step Swag the right, surf the left Work the middle 'til it hurt a little",
+      "valence": 2.75,
+      "arousal": 3.49,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Step on 'em, kick on 'em, stomp then you step Swag the right, surf the left Work the middle 'til it hurt a little Before I let, before I let, b-b-before I let go",
+      "valence": 2.61,
+      "arousal": 3.6,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Swag the right, surf the left Work the middle 'til it hurt a little Before I let, before I let, b-b-before I let go Before I let, before I let, b-b-before I let go",
+      "valence": 2.73,
+      "arousal": 3.3,
+      "dominance": 3.12
+    }
+  ]
+}

@@ -1,0 +1,801 @@
+{
+  "artist": "Lil Baby",
+  "overall_vad": {
+    "valence": 2.74,
+    "arousal": 3.41,
+    "dominance": 3.32
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Damn Kai You goin' crazy I be in the loop, she be in a group (Yeah) Brodie want her friend, throw 'em alley-oop (Yeah)",
+      "valence": 2.53,
+      "arousal": 3.85,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "You goin' crazy I be in the loop, she be in a group (Yeah) Brodie want her friend, throw 'em alley-oop (Yeah) Turned somethin' to nothin', bruh, I'm livin' proof",
+      "valence": 2.58,
+      "arousal": 3.52,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I be in the loop, she be in a group (Yeah) Brodie want her friend, throw 'em alley-oop (Yeah) Turned somethin' to nothin', bruh, I'm livin' proof How can I lose when we the who's who's?",
+      "valence": 2.76,
+      "arousal": 3.39,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Brodie want her friend, throw 'em alley-oop (Yeah) Turned somethin' to nothin', bruh, I'm livin' proof How can I lose when we the who's who's? Still runnin' 'round with mohawk",
+      "valence": 2.67,
+      "arousal": 3.42,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Turned somethin' to nothin', bruh, I'm livin' proof How can I lose when we the who's who's? Still runnin' 'round with mohawk Jet ready, pack the Goyard",
+      "valence": 2.54,
+      "arousal": 3.36,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "How can I lose when we the who's who's? Still runnin' 'round with mohawk Jet ready, pack the Goyard People probably think I show off",
+      "valence": 2.76,
+      "arousal": 3.35,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Still runnin' 'round with mohawk Jet ready, pack the Goyard People probably think I show off I ain't even give it yet",
+      "valence": 2.74,
+      "arousal": 3.34,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Jet ready, pack the Goyard People probably think I show off I ain't even give it yet Runnin' up a silly check, stayin' off the internet",
+      "valence": 2.77,
+      "arousal": 3.14,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "People probably think I show off I ain't even give it yet Runnin' up a silly check, stayin' off the internet Share the stage with Billie Eilish",
+      "valence": 2.88,
+      "arousal": 3.02,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I ain't even give it yet Runnin' up a silly check, stayin' off the internet Share the stage with Billie Eilish Turnt at any given time",
+      "valence": 2.76,
+      "arousal": 2.98,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Runnin' up a silly check, stayin' off the internet Share the stage with Billie Eilish Turnt at any given time Personal partners pillow talkin'",
+      "valence": 3.05,
+      "arousal": 3.02,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Share the stage with Billie Eilish Turnt at any given time Personal partners pillow talkin' Because I got rich without 'em",
+      "valence": 3.12,
+      "arousal": 3.19,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Turnt at any given time Personal partners pillow talkin' Because I got rich without 'em Only thing they should be sayin' is",
+      "valence": 2.86,
+      "arousal": 3.12,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Personal partners pillow talkin' Because I got rich without 'em Only thing they should be sayin' is \"Baby keep it solid\"",
+      "valence": 2.84,
+      "arousal": 3.26,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Because I got rich without 'em Only thing they should be sayin' is \"Baby keep it solid\" We ain't even deep as we used to be",
+      "valence": 2.76,
+      "arousal": 3.2,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Only thing they should be sayin' is \"Baby keep it solid\" We ain't even deep as we used to be This shit slick, divided",
+      "valence": 2.54,
+      "arousal": 3.36,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "\"Baby keep it solid\" We ain't even deep as we used to be This shit slick, divided Bruh ain't got no hustle or nothin'",
+      "valence": 2.68,
+      "arousal": 3.17,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "We ain't even deep as we used to be This shit slick, divided Bruh ain't got no hustle or nothin' So he gon' stick to violence",
+      "valence": 2.28,
+      "arousal": 3.3,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "This shit slick, divided Bruh ain't got no hustle or nothin' So he gon' stick to violence I be known to run down, I'm dialed in",
+      "valence": 2.24,
+      "arousal": 3.62,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Bruh ain't got no hustle or nothin' So he gon' stick to violence I be known to run down, I'm dialed in So I can't speak about it",
+      "valence": 2.27,
+      "arousal": 3.61,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "So he gon' stick to violence I be known to run down, I'm dialed in So I can't speak about it She know I'm a gangster, she love me",
+      "valence": 2.44,
+      "arousal": 4.11,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I be known to run down, I'm dialed in So I can't speak about it She know I'm a gangster, she love me I bring the freak up out her",
+      "valence": 2.67,
+      "arousal": 3.97,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "So I can't speak about it She know I'm a gangster, she love me I bring the freak up out her Can't play with me, you know I come trim",
+      "valence": 2.4,
+      "arousal": 3.91,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "She know I'm a gangster, she love me I bring the freak up out her Can't play with me, you know I come trim I'm in a different league",
+      "valence": 2.82,
+      "arousal": 3.91,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I bring the freak up out her Can't play with me, you know I come trim I'm in a different league I'm tired of showin' what I can get done",
+      "valence": 2.15,
+      "arousal": 3.55,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Can't play with me, you know I come trim I'm in a different league I'm tired of showin' what I can get done What you gon' do for me?",
+      "valence": 2.35,
+      "arousal": 3.38,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I'm in a different league I'm tired of showin' what I can get done What you gon' do for me? Forty-thousand miles up in the air",
+      "valence": 2.33,
+      "arousal": 3.48,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I'm tired of showin' what I can get done What you gon' do for me? Forty-thousand miles up in the air Only time I get some Z's",
+      "valence": 2.43,
+      "arousal": 3.37,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "What you gon' do for me? Forty-thousand miles up in the air Only time I get some Z's Full-court press, foot on they neck",
+      "valence": 2.86,
+      "arousal": 3.37,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Forty-thousand miles up in the air Only time I get some Z's Full-court press, foot on they neck And I can't let 'em breathe",
+      "valence": 2.78,
+      "arousal": 3.23,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Only time I get some Z's Full-court press, foot on they neck And I can't let 'em breathe Blood, sweat, and tears come with this check",
+      "valence": 2.54,
+      "arousal": 3.36,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Full-court press, foot on they neck And I can't let 'em breathe Blood, sweat, and tears come with this check It ain't nowhere near easy",
+      "valence": 2.49,
+      "arousal": 3.37,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "And I can't let 'em breathe Blood, sweat, and tears come with this check It ain't nowhere near easy Had to fall back, you know how that go",
+      "valence": 2.31,
+      "arousal": 3.45,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Blood, sweat, and tears come with this check It ain't nowhere near easy Had to fall back, you know how that go We only speakin' briefly",
+      "valence": 2.49,
+      "arousal": 3.27,
+      "dominance": 2.67
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "It ain't nowhere near easy Had to fall back, you know how that go We only speakin' briefly Hope I'm not too much to handle",
+      "valence": 2.59,
+      "arousal": 3.16,
+      "dominance": 2.66
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Had to fall back, you know how that go We only speakin' briefly Hope I'm not too much to handle City nigga from Atlanta",
+      "valence": 2.63,
+      "arousal": 3.22,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "We only speakin' briefly Hope I'm not too much to handle City nigga from Atlanta I spent my last check on ammo",
+      "valence": 2.68,
+      "arousal": 3.21,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Hope I'm not too much to handle City nigga from Atlanta I spent my last check on ammo This is not a regular Lambo",
+      "valence": 2.59,
+      "arousal": 3.33,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "City nigga from Atlanta I spent my last check on ammo This is not a regular Lambo Hundred thousand dollars kit",
+      "valence": 2.61,
+      "arousal": 3.31,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "I spent my last check on ammo This is not a regular Lambo Hundred thousand dollars kit Could've put down on another Lambo",
+      "valence": 2.68,
+      "arousal": 3.34,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "This is not a regular Lambo Hundred thousand dollars kit Could've put down on another Lambo Don't be in the mix",
+      "valence": 2.78,
+      "arousal": 3.21,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Hundred thousand dollars kit Could've put down on another Lambo Don't be in the mix I built this shit forever havin' say so",
+      "valence": 2.7,
+      "arousal": 3.53,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Could've put down on another Lambo Don't be in the mix I built this shit forever havin' say so This shit gon' get serious about my money",
+      "valence": 2.29,
+      "arousal": 3.65,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Don't be in the mix I built this shit forever havin' say so This shit gon' get serious about my money This ain't no fuckin' Play-Doh",
+      "valence": 2.24,
+      "arousal": 3.68,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I built this shit forever havin' say so This shit gon' get serious about my money This ain't no fuckin' Play-Doh Brodie down for double homicide",
+      "valence": 2.25,
+      "arousal": 3.61,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "This shit gon' get serious about my money This ain't no fuckin' Play-Doh Brodie down for double homicide I try to tell him, \"Lay low\"",
+      "valence": 2.25,
+      "arousal": 3.62,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "This ain't no fuckin' Play-Doh Brodie down for double homicide I try to tell him, \"Lay low\" C don't like to drive, but he spin good",
+      "valence": 2.42,
+      "arousal": 3.47,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Brodie down for double homicide I try to tell him, \"Lay low\" C don't like to drive, but he spin good I'm on the way to Clayco",
+      "valence": 2.67,
+      "arousal": 3.26,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I try to tell him, \"Lay low\" C don't like to drive, but he spin good I'm on the way to Clayco AK-47s in the spots before they made the Draco",
+      "valence": 2.93,
+      "arousal": 3.28,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "C don't like to drive, but he spin good I'm on the way to Clayco AK-47s in the spots before they made the Draco I'm just tryna ball and live,",
+      "valence": 3.02,
+      "arousal": 3.34,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I'm on the way to Clayco AK-47s in the spots before they made the Draco I'm just tryna ball and live, Hundred mill', I'm calling dibs",
+      "valence": 2.93,
+      "arousal": 3.24,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "AK-47s in the spots before they made the Draco I'm just tryna ball and live, Hundred mill', I'm calling dibs I'm the boss, pay all the bills",
+      "valence": 2.86,
+      "arousal": 3.2,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "I'm just tryna ball and live, Hundred mill', I'm calling dibs I'm the boss, pay all the bills I'm the golden child for real",
+      "valence": 3.34,
+      "arousal": 3.46,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Hundred mill', I'm calling dibs I'm the boss, pay all the bills I'm the golden child for real Go off in this bitch, I will",
+      "valence": 2.67,
+      "arousal": 3.73,
+      "dominance": 3.82
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "I'm the boss, pay all the bills I'm the golden child for real Go off in this bitch, I will I been on my grind for years",
+      "valence": 2.72,
+      "arousal": 3.71,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "I'm the golden child for real Go off in this bitch, I will I been on my grind for years And I'm out here grinding still",
+      "valence": 2.62,
+      "arousal": 3.62,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Go off in this bitch, I will I been on my grind for years And I'm out here grinding still I need equity to sign the deal",
+      "valence": 2.33,
+      "arousal": 3.64,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "I been on my grind for years And I'm out here grinding still I need equity to sign the deal I'm just tryna ball and live, hundred mill",
+      "valence": 2.78,
+      "arousal": 3.15,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "And I'm out here grinding still I need equity to sign the deal I'm just tryna ball and live, hundred mill I'm calling dibs",
+      "valence": 2.68,
+      "arousal": 3.24,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "I need equity to sign the deal I'm just tryna ball and live, hundred mill I'm calling dibs I'm the boss, pay all the bills",
+      "valence": 2.88,
+      "arousal": 3.34,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "I'm just tryna ball and live, hundred mill I'm calling dibs I'm the boss, pay all the bills I'm the golden child for real",
+      "valence": 3.35,
+      "arousal": 3.43,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "I'm calling dibs I'm the boss, pay all the bills I'm the golden child for real Go off in this bitch, I will",
+      "valence": 2.74,
+      "arousal": 3.73,
+      "dominance": 3.83
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "I'm the boss, pay all the bills I'm the golden child for real Go off in this bitch, I will I been on my grind for years",
+      "valence": 2.72,
+      "arousal": 3.71,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "I'm the golden child for real Go off in this bitch, I will I been on my grind for years And I'm out here grinding still",
+      "valence": 2.62,
+      "arousal": 3.62,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Go off in this bitch, I will I been on my grind for years And I'm out here grinding still I need equity to sign the deal",
+      "valence": 2.33,
+      "arousal": 3.64,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "I been on my grind for years And I'm out here grinding still I need equity to sign the deal Overbuying cars",
+      "valence": 2.89,
+      "arousal": 3.25,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "And I'm out here grinding still I need equity to sign the deal Overbuying cars I snatch the Brabus just for motivation",
+      "valence": 2.8,
+      "arousal": 3.36,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "I need equity to sign the deal Overbuying cars I snatch the Brabus just for motivation Shootout at the spot today, tomorrow",
+      "valence": 3.13,
+      "arousal": 3.35,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Overbuying cars I snatch the Brabus just for motivation Shootout at the spot today, tomorrow We in a new location",
+      "valence": 3.18,
+      "arousal": 3.37,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "I snatch the Brabus just for motivation Shootout at the spot today, tomorrow We in a new location Free all of the guys",
+      "valence": 3.29,
+      "arousal": 3.44,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Shootout at the spot today, tomorrow We in a new location Free all of the guys I hope y'all beat the case or get probation",
+      "valence": 3.22,
+      "arousal": 3.44,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "We in a new location Free all of the guys I hope y'all beat the case or get probation Stash it at my mama house",
+      "valence": 3.21,
+      "arousal": 3.49,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Free all of the guys I hope y'all beat the case or get probation Stash it at my mama house Four hundred bands in the ventilation",
+      "valence": 3.24,
+      "arousal": 3.57,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "I hope y'all beat the case or get probation Stash it at my mama house Four hundred bands in the ventilation Now look how I'm living",
+      "valence": 3.06,
+      "arousal": 3.51,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Stash it at my mama house Four hundred bands in the ventilation Now look how I'm living I bought a house for the money to stay at",
+      "valence": 3.17,
+      "arousal": 3.34,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "Four hundred bands in the ventilation Now look how I'm living I bought a house for the money to stay at Right when niggas think that I got soft",
+      "valence": 3.01,
+      "arousal": 3.35,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "Now look how I'm living I bought a house for the money to stay at Right when niggas think that I got soft I'ma pull up and spray at",
+      "valence": 2.91,
+      "arousal": 3.43,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "I bought a house for the money to stay at Right when niggas think that I got soft I'ma pull up and spray at Living like a don",
+      "valence": 2.82,
+      "arousal": 3.39,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "Right when niggas think that I got soft I'ma pull up and spray at Living like a don Might smoke a blunt in the back of the Maybach",
+      "valence": 2.59,
+      "arousal": 3.29,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "I'ma pull up and spray at Living like a don Might smoke a blunt in the back of the Maybach Pull up like your mama with the switch",
+      "valence": 2.78,
+      "arousal": 3.26,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "Living like a don Might smoke a blunt in the back of the Maybach Pull up like your mama with the switch Why the fuck would you say that?",
+      "valence": 2.61,
+      "arousal": 3.47,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "Might smoke a blunt in the back of the Maybach Pull up like your mama with the switch Why the fuck would you say that? You can do it first",
+      "valence": 2.59,
+      "arousal": 3.51,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "Pull up like your mama with the switch Why the fuck would you say that? You can do it first I'ma do it worst, gotta double the pay back",
+      "valence": 2.7,
+      "arousal": 3.7,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "Why the fuck would you say that? You can do it first I'ma do it worst, gotta double the pay back Never take it personal, show no mercy",
+      "valence": 2.52,
+      "arousal": 3.78,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "You can do it first I'ma do it worst, gotta double the pay back Never take it personal, show no mercy Bruh taught me that way back",
+      "valence": 2.82,
+      "arousal": 3.56,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 86,
+      "lyrics_text": "I'ma do it worst, gotta double the pay back Never take it personal, show no mercy Bruh taught me that way back Condo to get off, I was always taught",
+      "valence": 2.61,
+      "arousal": 3.52,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 87,
+      "lyrics_text": "Never take it personal, show no mercy Bruh taught me that way back Condo to get off, I was always taught \"Don't tell hoes where you stay at\"",
+      "valence": 2.87,
+      "arousal": 3.23,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 88,
+      "lyrics_text": "Bruh taught me that way back Condo to get off, I was always taught \"Don't tell hoes where you stay at\" Keep a stash house",
+      "valence": 2.97,
+      "arousal": 3.04,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 89,
+      "lyrics_text": "Condo to get off, I was always taught \"Don't tell hoes where you stay at\" Keep a stash house You can't take nothing to the spot where you lay at",
+      "valence": 2.88,
+      "arousal": 3.03,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 90,
+      "lyrics_text": "\"Don't tell hoes where you stay at\" Keep a stash house You can't take nothing to the spot where you lay at Never be a bother, if you off me",
+      "valence": 2.78,
+      "arousal": 3.11,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 91,
+      "lyrics_text": "Keep a stash house You can't take nothing to the spot where you lay at Never be a bother, if you off me No problem, just say that",
+      "valence": 2.83,
+      "arousal": 3.11,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 92,
+      "lyrics_text": "You can't take nothing to the spot where you lay at Never be a bother, if you off me No problem, just say that Never runnin' off, so if I owe you",
+      "valence": 2.94,
+      "arousal": 3.19,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 93,
+      "lyrics_text": "Never be a bother, if you off me No problem, just say that Never runnin' off, so if I owe you I got you, I'll pay that",
+      "valence": 3.04,
+      "arousal": 3.24,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 94,
+      "lyrics_text": "No problem, just say that Never runnin' off, so if I owe you I got you, I'll pay that Give this shit my all, so when I'm old",
+      "valence": 2.86,
+      "arousal": 3.44,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 95,
+      "lyrics_text": "Never runnin' off, so if I owe you I got you, I'll pay that Give this shit my all, so when I'm old I can chill and just lay back",
+      "valence": 2.8,
+      "arousal": 3.4,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 96,
+      "lyrics_text": "I got you, I'll pay that Give this shit my all, so when I'm old I can chill and just lay back Really from the bottom",
+      "valence": 2.71,
+      "arousal": 3.45,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 97,
+      "lyrics_text": "Give this shit my all, so when I'm old I can chill and just lay back Really from the bottom So the trenches is where I feel safe at",
+      "valence": 2.85,
+      "arousal": 3.24,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 98,
+      "lyrics_text": "I can chill and just lay back Really from the bottom So the trenches is where I feel safe at I'm just tryna ball and live",
+      "valence": 3.19,
+      "arousal": 2.96,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 99,
+      "lyrics_text": "Really from the bottom So the trenches is where I feel safe at I'm just tryna ball and live Hundred mill', I'm calling dibs",
+      "valence": 3.1,
+      "arousal": 3.06,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 100,
+      "lyrics_text": "So the trenches is where I feel safe at I'm just tryna ball and live Hundred mill', I'm calling dibs I'm the boss, pay all the bills",
+      "valence": 3.08,
+      "arousal": 3.13,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 101,
+      "lyrics_text": "I'm just tryna ball and live Hundred mill', I'm calling dibs I'm the boss, pay all the bills I'm the golden child for real",
+      "valence": 3.35,
+      "arousal": 3.48,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 102,
+      "lyrics_text": "Hundred mill', I'm calling dibs I'm the boss, pay all the bills I'm the golden child for real Go off in this bitch, I will",
+      "valence": 2.67,
+      "arousal": 3.73,
+      "dominance": 3.82
+    },
+    {
+      "chunk_id": 103,
+      "lyrics_text": "I'm the boss, pay all the bills I'm the golden child for real Go off in this bitch, I will I been on my grind for years",
+      "valence": 2.72,
+      "arousal": 3.71,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 104,
+      "lyrics_text": "I'm the golden child for real Go off in this bitch, I will I been on my grind for years And I'm out here grinding still",
+      "valence": 2.62,
+      "arousal": 3.62,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 105,
+      "lyrics_text": "Go off in this bitch, I will I been on my grind for years And I'm out here grinding still I need equity to sign the deal",
+      "valence": 2.33,
+      "arousal": 3.64,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 106,
+      "lyrics_text": "I been on my grind for years And I'm out here grinding still I need equity to sign the deal I'm just tryna ball and live, hundred mill",
+      "valence": 2.78,
+      "arousal": 3.15,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 107,
+      "lyrics_text": "And I'm out here grinding still I need equity to sign the deal I'm just tryna ball and live, hundred mill I'm calling dibs",
+      "valence": 2.68,
+      "arousal": 3.24,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 108,
+      "lyrics_text": "I need equity to sign the deal I'm just tryna ball and live, hundred mill I'm calling dibs I'm the boss, pay all the bills",
+      "valence": 2.88,
+      "arousal": 3.34,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 109,
+      "lyrics_text": "I'm just tryna ball and live, hundred mill I'm calling dibs I'm the boss, pay all the bills I'm the golden child for real",
+      "valence": 3.35,
+      "arousal": 3.43,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 110,
+      "lyrics_text": "I'm calling dibs I'm the boss, pay all the bills I'm the golden child for real Go off in this bitch, I will",
+      "valence": 2.74,
+      "arousal": 3.73,
+      "dominance": 3.83
+    },
+    {
+      "chunk_id": 111,
+      "lyrics_text": "I'm the boss, pay all the bills I'm the golden child for real Go off in this bitch, I will I been on my grind for years",
+      "valence": 2.72,
+      "arousal": 3.71,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 112,
+      "lyrics_text": "I'm the golden child for real Go off in this bitch, I will I been on my grind for years And I'm out here grinding still",
+      "valence": 2.62,
+      "arousal": 3.62,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 113,
+      "lyrics_text": "Go off in this bitch, I will I been on my grind for years And I'm out here grinding still I need equity to sign the deal",
+      "valence": 2.33,
+      "arousal": 3.64,
+      "dominance": 3.47
+    }
+  ]
+}

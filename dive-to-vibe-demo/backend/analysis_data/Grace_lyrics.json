@@ -1,0 +1,654 @@
+{
+  "artist": "Lil Baby & 42 Dugg",
+  "overall_vad": {
+    "valence": 2.63,
+    "arousal": 3.5,
+    "dominance": 3.32
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Got a lotta new flames, still need 'em blue Three hundred fifty thou', times that by two New Dawn, no roof, I still see the sky Peace to my grandma, I can still see my guys",
+      "valence": 3.23,
+      "arousal": 3.32,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Three hundred fifty thou', times that by two New Dawn, no roof, I still see the sky Peace to my grandma, I can still see my guys Turned his back, must've felt let down",
+      "valence": 2.87,
+      "arousal": 3.26,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "New Dawn, no roof, I still see the sky Peace to my grandma, I can still see my guys Turned his back, must've felt let down Heard a down-set-hut, what you gon' bet now?",
+      "valence": 2.87,
+      "arousal": 3.4,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Peace to my grandma, I can still see my guys Turned his back, must've felt let down Heard a down-set-hut, what you gon' bet now? Yeah, I used to be a twerp, bitch, a vet now",
+      "valence": 3.07,
+      "arousal": 3.53,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Turned his back, must've felt let down Heard a down-set-hut, what you gon' bet now? Yeah, I used to be a twerp, bitch, a vet now Luke, get up, doggy, I need you",
+      "valence": 2.41,
+      "arousal": 3.68,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Heard a down-set-hut, what you gon' bet now? Yeah, I used to be a twerp, bitch, a vet now Luke, get up, doggy, I need you Only nigga made sure that I was eatin'",
+      "valence": 2.49,
+      "arousal": 3.62,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Yeah, I used to be a twerp, bitch, a vet now Luke, get up, doggy, I need you Only nigga made sure that I was eatin' Free Nef still, nigga, RIP Reese",
+      "valence": 2.42,
+      "arousal": 3.74,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Luke, get up, doggy, I need you Only nigga made sure that I was eatin' Free Nef still, nigga, RIP Reese Get her nails done, still charge for the feature",
+      "valence": 2.85,
+      "arousal": 3.49,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Only nigga made sure that I was eatin' Free Nef still, nigga, RIP Reese Get her nails done, still charge for the feature Baby, we ain't that, nah, we ain't this",
+      "valence": 2.61,
+      "arousal": 3.39,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Free Nef still, nigga, RIP Reese Get her nails done, still charge for the feature Baby, we ain't that, nah, we ain't this All that fuckin', I don't do no kiss",
+      "valence": 2.59,
+      "arousal": 3.45,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Get her nails done, still charge for the feature Baby, we ain't that, nah, we ain't this All that fuckin', I don't do no kiss Bitches ain't shit, word to my niggas",
+      "valence": 2.49,
+      "arousal": 3.41,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Baby, we ain't that, nah, we ain't this All that fuckin', I don't do no kiss Bitches ain't shit, word to my niggas All in my mentions (yeah)",
+      "valence": 2.45,
+      "arousal": 3.3,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "All that fuckin', I don't do no kiss Bitches ain't shit, word to my niggas All in my mentions (yeah) Bitch really wanna get hired",
+      "valence": 2.21,
+      "arousal": 3.58,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Bitches ain't shit, word to my niggas All in my mentions (yeah) Bitch really wanna get hired Tell the lil' hoes I'm Bryson",
+      "valence": 2.22,
+      "arousal": 3.63,
+      "dominance": 3.75
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "All in my mentions (yeah) Bitch really wanna get hired Tell the lil' hoes I'm Bryson I done hit more shit than Mike Tyson",
+      "valence": 2.37,
+      "arousal": 3.67,
+      "dominance": 3.74
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Bitch really wanna get hired Tell the lil' hoes I'm Bryson I done hit more shit than Mike Tyson Get popped, nigga, I ain't doin' no fight",
+      "valence": 2.1,
+      "arousal": 3.59,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Tell the lil' hoes I'm Bryson I done hit more shit than Mike Tyson Get popped, nigga, I ain't doin' no fight Sinnin' 'bout cash, I ain't doin' no right",
+      "valence": 2.19,
+      "arousal": 3.52,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I done hit more shit than Mike Tyson Get popped, nigga, I ain't doin' no fight Sinnin' 'bout cash, I ain't doin' no right Car too fast, can't stop at no light",
+      "valence": 2.24,
+      "arousal": 3.52,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Get popped, nigga, I ain't doin' no fight Sinnin' 'bout cash, I ain't doin' no right Car too fast, can't stop at no light I hit the gas, it skrrt and I pull off",
+      "valence": 2.45,
+      "arousal": 3.49,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Sinnin' 'bout cash, I ain't doin' no right Car too fast, can't stop at no light I hit the gas, it skrrt and I pull off I'm on they ass, I just took a year off",
+      "valence": 2.75,
+      "arousal": 3.45,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Car too fast, can't stop at no light I hit the gas, it skrrt and I pull off I'm on they ass, I just took a year off She shakin' her ass, call me when she get off",
+      "valence": 2.44,
+      "arousal": 3.8,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I hit the gas, it skrrt and I pull off I'm on they ass, I just took a year off She shakin' her ass, call me when she get off Took half a mil' for my lil' bro to get out",
+      "valence": 2.6,
+      "arousal": 3.68,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I'm on they ass, I just took a year off She shakin' her ass, call me when she get off Took half a mil' for my lil' bro to get out That new Richard Mille made me feel like a boss",
+      "valence": 2.84,
+      "arousal": 3.74,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "She shakin' her ass, call me when she get off Took half a mil' for my lil' bro to get out That new Richard Mille made me feel like a boss Feel like I'm Meech when I'm ridin' in these cars",
+      "valence": 2.96,
+      "arousal": 3.65,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Took half a mil' for my lil' bro to get out That new Richard Mille made me feel like a boss Feel like I'm Meech when I'm ridin' in these cars Who you know pull up, whole entourage in a foreign?",
+      "valence": 3.16,
+      "arousal": 3.42,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "That new Richard Mille made me feel like a boss Feel like I'm Meech when I'm ridin' in these cars Who you know pull up, whole entourage in a foreign? I got designer for days but it's somethin' about 'em",
+      "valence": 3.24,
+      "arousal": 3.41,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Feel like I'm Meech when I'm ridin' in these cars Who you know pull up, whole entourage in a foreign? I got designer for days but it's somethin' about 'em Go crazy for white Air Force One, maybe 'cause I'm a dope boy",
+      "valence": 3.01,
+      "arousal": 3.51,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Who you know pull up, whole entourage in a foreign? I got designer for days but it's somethin' about 'em Go crazy for white Air Force One, maybe 'cause I'm a dope boy He be loud, but he ain't makin' no noise",
+      "valence": 2.73,
+      "arousal": 3.45,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I got designer for days but it's somethin' about 'em Go crazy for white Air Force One, maybe 'cause I'm a dope boy He be loud, but he ain't makin' no noise 'Ventador on the ground like a skateboard",
+      "valence": 2.69,
+      "arousal": 3.43,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Go crazy for white Air Force One, maybe 'cause I'm a dope boy He be loud, but he ain't makin' no noise 'Ventador on the ground like a skateboard If I want it, I get it, I pay for it",
+      "valence": 2.74,
+      "arousal": 3.55,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "He be loud, but he ain't makin' no noise 'Ventador on the ground like a skateboard If I want it, I get it, I pay for it I pay extra, I ain't tryna wait for it",
+      "valence": 2.78,
+      "arousal": 3.36,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "'Ventador on the ground like a skateboard If I want it, I get it, I pay for it I pay extra, I ain't tryna wait for it Everything that I got, it was made for me",
+      "valence": 3.21,
+      "arousal": 3.46,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "If I want it, I get it, I pay for it I pay extra, I ain't tryna wait for it Everything that I got, it was made for me I was servin' them trap houses faithfully",
+      "valence": 2.95,
+      "arousal": 3.35,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I pay extra, I ain't tryna wait for it Everything that I got, it was made for me I was servin' them trap houses faithfully Everybody with me gotta eat",
+      "valence": 2.94,
+      "arousal": 3.34,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Everything that I got, it was made for me I was servin' them trap houses faithfully Everybody with me gotta eat Say your grace with me",
+      "valence": 3.01,
+      "arousal": 3.29,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I was servin' them trap houses faithfully Everybody with me gotta eat Say your grace with me Thou shall not try one of us, if they do, I'ma bust",
+      "valence": 2.68,
+      "arousal": 3.31,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Everybody with me gotta eat Say your grace with me Thou shall not try one of us, if they do, I'ma bust Please don't reach for no chain",
+      "valence": 2.74,
+      "arousal": 3.31,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Say your grace with me Thou shall not try one of us, if they do, I'ma bust Please don't reach for no chain Not 'bout the set, but it's more 'bout respect",
+      "valence": 2.97,
+      "arousal": 3.13,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Thou shall not try one of us, if they do, I'ma bust Please don't reach for no chain Not 'bout the set, but it's more 'bout respect If they get me upset, they gon' die, that's on gang",
+      "valence": 2.53,
+      "arousal": 3.29,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Please don't reach for no chain Not 'bout the set, but it's more 'bout respect If they get me upset, they gon' die, that's on gang Ran up my check, when I walk in the bank",
+      "valence": 2.51,
+      "arousal": 3.33,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Not 'bout the set, but it's more 'bout respect If they get me upset, they gon' die, that's on gang Ran up my check, when I walk in the bank They greet me at the door by my government name",
+      "valence": 2.72,
+      "arousal": 3.27,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "If they get me upset, they gon' die, that's on gang Ran up my check, when I walk in the bank They greet me at the door by my government name I made a promise, I'm never gon' change",
+      "valence": 2.26,
+      "arousal": 3.42,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Ran up my check, when I walk in the bank They greet me at the door by my government name I made a promise, I'm never gon' change Rolls-Royce umbrella, I'm hopin' it rain, yeah",
+      "valence": 3.07,
+      "arousal": 3.35,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "They greet me at the door by my government name I made a promise, I'm never gon' change Rolls-Royce umbrella, I'm hopin' it rain, yeah Right back on it, designer my garments",
+      "valence": 3.17,
+      "arousal": 3.43,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I made a promise, I'm never gon' change Rolls-Royce umbrella, I'm hopin' it rain, yeah Right back on it, designer my garments Corner store mornings, there until the sun down",
+      "valence": 3.13,
+      "arousal": 3.41,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Rolls-Royce umbrella, I'm hopin' it rain, yeah Right back on it, designer my garments Corner store mornings, there until the sun down I don't trust no one, I can't put my gun down",
+      "valence": 2.9,
+      "arousal": 3.48,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Right back on it, designer my garments Corner store mornings, there until the sun down I don't trust no one, I can't put my gun down Goin' number one now, hottest out",
+      "valence": 2.77,
+      "arousal": 3.44,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Corner store mornings, there until the sun down I don't trust no one, I can't put my gun down Goin' number one now, hottest out Hands down, bands out, pants down, yeah, I'm thuggin'",
+      "valence": 2.31,
+      "arousal": 3.67,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I don't trust no one, I can't put my gun down Goin' number one now, hottest out Hands down, bands out, pants down, yeah, I'm thuggin' I done got rich, everybody my cousin",
+      "valence": 2.33,
+      "arousal": 3.73,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Goin' number one now, hottest out Hands down, bands out, pants down, yeah, I'm thuggin' I done got rich, everybody my cousin You ain't servin' no packs with me, you ain't my brother",
+      "valence": 2.87,
+      "arousal": 3.63,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Hands down, bands out, pants down, yeah, I'm thuggin' I done got rich, everybody my cousin You ain't servin' no packs with me, you ain't my brother That chopper go through shit, I call it the cutter",
+      "valence": 2.41,
+      "arousal": 3.59,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "I done got rich, everybody my cousin You ain't servin' no packs with me, you ain't my brother That chopper go through shit, I call it the cutter I just bought a new whip, I went bought another",
+      "valence": 2.47,
+      "arousal": 3.46,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "You ain't servin' no packs with me, you ain't my brother That chopper go through shit, I call it the cutter I just bought a new whip, I went bought another My mother, she happy now",
+      "valence": 2.72,
+      "arousal": 3.49,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "That chopper go through shit, I call it the cutter I just bought a new whip, I went bought another My mother, she happy now Ain't no cap and gown, but I graduated",
+      "valence": 3.11,
+      "arousal": 3.47,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "I just bought a new whip, I went bought another My mother, she happy now Ain't no cap and gown, but I graduated Her house paid for, and that new Mercedes",
+      "valence": 3.55,
+      "arousal": 3.3,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "My mother, she happy now Ain't no cap and gown, but I graduated Her house paid for, and that new Mercedes Know you see that they been tryna be me lately",
+      "valence": 3.37,
+      "arousal": 3.19,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Ain't no cap and gown, but I graduated Her house paid for, and that new Mercedes Know you see that they been tryna be me lately I'm a heavy hitter like Gervonta Davis",
+      "valence": 3.17,
+      "arousal": 3.14,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Her house paid for, and that new Mercedes Know you see that they been tryna be me lately I'm a heavy hitter like Gervonta Davis That shit ain't gon' save 'em, leave 'em on the pavement",
+      "valence": 2.79,
+      "arousal": 3.3,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Know you see that they been tryna be me lately I'm a heavy hitter like Gervonta Davis That shit ain't gon' save 'em, leave 'em on the pavement All I know is get this motherfuckin' paper",
+      "valence": 2.51,
+      "arousal": 3.49,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "I'm a heavy hitter like Gervonta Davis That shit ain't gon' save 'em, leave 'em on the pavement All I know is get this motherfuckin' paper Thou shall not try one of us, if they do, I'ma bust",
+      "valence": 2.46,
+      "arousal": 3.49,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "That shit ain't gon' save 'em, leave 'em on the pavement All I know is get this motherfuckin' paper Thou shall not try one of us, if they do, I'ma bust Please don't reach for no chain",
+      "valence": 2.27,
+      "arousal": 3.48,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "All I know is get this motherfuckin' paper Thou shall not try one of us, if they do, I'ma bust Please don't reach for no chain Not 'bout the set, but it's more 'bout respect",
+      "valence": 2.48,
+      "arousal": 3.51,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Thou shall not try one of us, if they do, I'ma bust Please don't reach for no chain Not 'bout the set, but it's more 'bout respect If they get me upset, they gon' die, that's on gang",
+      "valence": 2.53,
+      "arousal": 3.29,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Please don't reach for no chain Not 'bout the set, but it's more 'bout respect If they get me upset, they gon' die, that's on gang Ran up my check, when I walk in the bank",
+      "valence": 2.51,
+      "arousal": 3.33,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Not 'bout the set, but it's more 'bout respect If they get me upset, they gon' die, that's on gang Ran up my check, when I walk in the bank They greet me at the door by my government name (hello?)",
+      "valence": 2.69,
+      "arousal": 3.31,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "If they get me upset, they gon' die, that's on gang Ran up my check, when I walk in the bank They greet me at the door by my government name (hello?) I made a promise, I'm never gon' change",
+      "valence": 2.31,
+      "arousal": 3.49,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Ran up my check, when I walk in the bank They greet me at the door by my government name (hello?) I made a promise, I'm never gon' change Rolls-Royce umbrella, I'm hopin' it rain, yeah",
+      "valence": 3.1,
+      "arousal": 3.41,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "They greet me at the door by my government name (hello?) I made a promise, I'm never gon' change Rolls-Royce umbrella, I'm hopin' it rain, yeah Bitches ain't shit, doggybone, I get it",
+      "valence": 2.86,
+      "arousal": 3.35,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "I made a promise, I'm never gon' change Rolls-Royce umbrella, I'm hopin' it rain, yeah Bitches ain't shit, doggybone, I get it Fell in love twice, had me in my feelings",
+      "valence": 3.47,
+      "arousal": 3.83,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Rolls-Royce umbrella, I'm hopin' it rain, yeah Bitches ain't shit, doggybone, I get it Fell in love twice, had me in my feelings Three months, dropped damn near a half a million",
+      "valence": 3.51,
+      "arousal": 3.71,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Bitches ain't shit, doggybone, I get it Fell in love twice, had me in my feelings Three months, dropped damn near a half a million Nigga, fuck a house, I done damn lost a building",
+      "valence": 2.48,
+      "arousal": 3.81,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Fell in love twice, had me in my feelings Three months, dropped damn near a half a million Nigga, fuck a house, I done damn lost a building Fucked a nigga's ho, so he say he wanna kill me",
+      "valence": 2.78,
+      "arousal": 3.98,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Three months, dropped damn near a half a million Nigga, fuck a house, I done damn lost a building Fucked a nigga's ho, so he say he wanna kill me I miss Tev, wish shit was different",
+      "valence": 1.91,
+      "arousal": 3.77,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Nigga, fuck a house, I done damn lost a building Fucked a nigga's ho, so he say he wanna kill me I miss Tev, wish shit was different I miss Nef, rest in peace to my nigga",
+      "valence": 2.06,
+      "arousal": 3.9,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Fucked a nigga's ho, so he say he wanna kill me I miss Tev, wish shit was different I miss Nef, rest in peace to my nigga Damn near went deaf, when they told me they killed you",
+      "valence": 2.14,
+      "arousal": 3.83,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "I miss Tev, wish shit was different I miss Nef, rest in peace to my nigga Damn near went deaf, when they told me they killed you Turn rat? Nigga, fuck on",
+      "valence": 1.96,
+      "arousal": 4.0,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "I miss Nef, rest in peace to my nigga Damn near went deaf, when they told me they killed you Turn rat? Nigga, fuck on Thirteen thou' VVS buffs on",
+      "valence": 1.99,
+      "arousal": 3.92,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "Damn near went deaf, when they told me they killed you Turn rat? Nigga, fuck on Thirteen thou' VVS buffs on Still'll flood a nigga town with a truckload",
+      "valence": 1.75,
+      "arousal": 3.95,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "Turn rat? Nigga, fuck on Thirteen thou' VVS buffs on Still'll flood a nigga town with a truckload Get the head and I'm out, I don't trust hoes",
+      "valence": 1.96,
+      "arousal": 3.79,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "Thirteen thou' VVS buffs on Still'll flood a nigga town with a truckload Get the head and I'm out, I don't trust hoes If the feds in the house, a nigga told on me",
+      "valence": 2.35,
+      "arousal": 3.58,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "Still'll flood a nigga town with a truckload Get the head and I'm out, I don't trust hoes If the feds in the house, a nigga told on me I pray to God my soul to keep",
+      "valence": 2.26,
+      "arousal": 3.6,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "Get the head and I'm out, I don't trust hoes If the feds in the house, a nigga told on me I pray to God my soul to keep G5, just beat his murder",
+      "valence": 2.18,
+      "arousal": 3.66,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "If the feds in the house, a nigga told on me I pray to God my soul to keep G5, just beat his murder Body got picked up, doggy I'm hurt",
+      "valence": 2.14,
+      "arousal": 3.58,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "I pray to God my soul to keep G5, just beat his murder Body got picked up, doggy I'm hurt Still pay the lawyer even though I'm nervous",
+      "valence": 2.26,
+      "arousal": 3.61,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "G5, just beat his murder Body got picked up, doggy I'm hurt Still pay the lawyer even though I'm nervous Thou shall not try one of us, if they do, I'ma bust",
+      "valence": 2.28,
+      "arousal": 3.51,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 86,
+      "lyrics_text": "Body got picked up, doggy I'm hurt Still pay the lawyer even though I'm nervous Thou shall not try one of us, if they do, I'ma bust Please don't reach for no chain",
+      "valence": 2.42,
+      "arousal": 3.37,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 87,
+      "lyrics_text": "Still pay the lawyer even though I'm nervous Thou shall not try one of us, if they do, I'ma bust Please don't reach for no chain Not 'bout the set, but it's more 'bout respect",
+      "valence": 2.83,
+      "arousal": 3.21,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 88,
+      "lyrics_text": "Thou shall not try one of us, if they do, I'ma bust Please don't reach for no chain Not 'bout the set, but it's more 'bout respect If they get me upset, they gon' die, that's on gang",
+      "valence": 2.53,
+      "arousal": 3.29,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 89,
+      "lyrics_text": "Please don't reach for no chain Not 'bout the set, but it's more 'bout respect If they get me upset, they gon' die, that's on gang Ran up my check, when I walk in the bank",
+      "valence": 2.51,
+      "arousal": 3.33,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 90,
+      "lyrics_text": "Not 'bout the set, but it's more 'bout respect If they get me upset, they gon' die, that's on gang Ran up my check, when I walk in the bank They greet me at the door by my government name",
+      "valence": 2.72,
+      "arousal": 3.27,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 91,
+      "lyrics_text": "If they get me upset, they gon' die, that's on gang Ran up my check, when I walk in the bank They greet me at the door by my government name I made a promise, I'm never gon' change",
+      "valence": 2.26,
+      "arousal": 3.42,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 92,
+      "lyrics_text": "Ran up my check, when I walk in the bank They greet me at the door by my government name I made a promise, I'm never gon' change Rolls-Royce umbrella, I'm hopin' it rain, yeah",
+      "valence": 3.07,
+      "arousal": 3.35,
+      "dominance": 3.22
+    }
+  ]
+}

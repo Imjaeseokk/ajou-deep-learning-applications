@@ -1,0 +1,374 @@
+{
+  "artist": "NAV Featuring Meek Mill",
+  "overall_vad": {
+    "valence": 2.71,
+    "arousal": 3.51,
+    "dominance": 3.4
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Yeah, yeah, yeah Yeah, yeah, yeah (I'm in London, got my beat from London) Yeah, yeah",
+      "valence": 3.45,
+      "arousal": 3.35,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Yeah, yeah, yeah (I'm in London, got my beat from London) Yeah, yeah In the trap, hang in places that you can't go",
+      "valence": 3.11,
+      "arousal": 3.14,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "(I'm in London, got my beat from London) Yeah, yeah In the trap, hang in places that you can't go Glock .40, he got smokey, yeah, the draco",
+      "valence": 3.08,
+      "arousal": 3.11,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Yeah, yeah In the trap, hang in places that you can't go Glock .40, he got smokey, yeah, the draco Thousand nights on that corner eating egg-rolls",
+      "valence": 2.86,
+      "arousal": 3.15,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "In the trap, hang in places that you can't go Glock .40, he got smokey, yeah, the draco Thousand nights on that corner eating egg-rolls Bad bitch Puerto Rican, look like J. Lo, woah",
+      "valence": 2.61,
+      "arousal": 3.43,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Glock .40, he got smokey, yeah, the draco Thousand nights on that corner eating egg-rolls Bad bitch Puerto Rican, look like J. Lo, woah They tried to extort me, I ain't pay though",
+      "valence": 2.3,
+      "arousal": 3.57,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Thousand nights on that corner eating egg-rolls Bad bitch Puerto Rican, look like J. Lo, woah They tried to extort me, I ain't pay though Only thing I gave 'em was a halo",
+      "valence": 2.32,
+      "arousal": 3.55,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Bad bitch Puerto Rican, look like J. Lo, woah They tried to extort me, I ain't pay though Only thing I gave 'em was a halo A-hole, Uber on the way, ho",
+      "valence": 2.16,
+      "arousal": 3.64,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "They tried to extort me, I ain't pay though Only thing I gave 'em was a halo A-hole, Uber on the way, ho Fuck her from the back",
+      "valence": 2.06,
+      "arousal": 3.81,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Only thing I gave 'em was a halo A-hole, Uber on the way, ho Fuck her from the back Put my thumb all in her A-hole",
+      "valence": 2.14,
+      "arousal": 3.8,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "A-hole, Uber on the way, ho Fuck her from the back Put my thumb all in her A-hole I got bands for real, diamonds on me",
+      "valence": 2.4,
+      "arousal": 3.99,
+      "dominance": 3.75
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Fuck her from the back Put my thumb all in her A-hole I got bands for real, diamonds on me They dance for real",
+      "valence": 2.61,
+      "arousal": 4.04,
+      "dominance": 3.78
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Put my thumb all in her A-hole I got bands for real, diamonds on me They dance for real All these sticks and drums, bangin'",
+      "valence": 3.13,
+      "arousal": 3.66,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I got bands for real, diamonds on me They dance for real All these sticks and drums, bangin' Like we in a band for real",
+      "valence": 3.23,
+      "arousal": 3.5,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "They dance for real All these sticks and drums, bangin' Like we in a band for real I got cake, I stay humble",
+      "valence": 3.18,
+      "arousal": 3.31,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "All these sticks and drums, bangin' Like we in a band for real I got cake, I stay humble Know I'm the man for real",
+      "valence": 3.26,
+      "arousal": 3.41,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Like we in a band for real I got cake, I stay humble Know I'm the man for real I got hitters, we don't rumble",
+      "valence": 3.16,
+      "arousal": 3.34,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I got cake, I stay humble Know I'm the man for real I got hitters, we don't rumble Tell your mans to chill",
+      "valence": 3.15,
+      "arousal": 3.35,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Know I'm the man for real I got hitters, we don't rumble Tell your mans to chill Yo, who's mans is this? (Somebody come get this nigga)",
+      "valence": 2.6,
+      "arousal": 3.52,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I got hitters, we don't rumble Tell your mans to chill Yo, who's mans is this? (Somebody come get this nigga) All up in my section Instagraming shit",
+      "valence": 2.39,
+      "arousal": 3.72,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Tell your mans to chill Yo, who's mans is this? (Somebody come get this nigga) All up in my section Instagraming shit I be with some real hitters",
+      "valence": 2.47,
+      "arousal": 3.7,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Yo, who's mans is this? (Somebody come get this nigga) All up in my section Instagraming shit I be with some real hitters They ain't with that camera shit",
+      "valence": 2.62,
+      "arousal": 3.63,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "All up in my section Instagraming shit I be with some real hitters They ain't with that camera shit 'Cause they really out here in the field",
+      "valence": 2.8,
+      "arousal": 3.54,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I be with some real hitters They ain't with that camera shit 'Cause they really out here in the field And they be slammin' shit",
+      "valence": 2.84,
+      "arousal": 3.57,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "They ain't with that camera shit 'Cause they really out here in the field And they be slammin' shit Tap, tap, tap, tap, tap",
+      "valence": 2.58,
+      "arousal": 3.53,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "'Cause they really out here in the field And they be slammin' shit Tap, tap, tap, tap, tap Giving head taps, lead tats, tats, tats",
+      "valence": 2.58,
+      "arousal": 3.69,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "And they be slammin' shit Tap, tap, tap, tap, tap Giving head taps, lead tats, tats, tats They said that they were with it but it's cap, cap, cap",
+      "valence": 2.33,
+      "arousal": 3.65,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Tap, tap, tap, tap, tap Giving head taps, lead tats, tats, tats They said that they were with it but it's cap, cap, cap Aim it at your fitted, push it back, back, back",
+      "valence": 2.87,
+      "arousal": 3.17,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Giving head taps, lead tats, tats, tats They said that they were with it but it's cap, cap, cap Aim it at your fitted, push it back, back, back Whack, whack, whack, whack, whack",
+      "valence": 2.86,
+      "arousal": 3.15,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "They said that they were with it but it's cap, cap, cap Aim it at your fitted, push it back, back, back Whack, whack, whack, whack, whack One phone call get you whacked, whacked, whacked",
+      "valence": 2.44,
+      "arousal": 3.46,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Aim it at your fitted, push it back, back, back Whack, whack, whack, whack, whack One phone call get you whacked, whacked, whacked Try to slap me, we gon' let it slap, slap, slap",
+      "valence": 2.12,
+      "arousal": 3.68,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Whack, whack, whack, whack, whack One phone call get you whacked, whacked, whacked Try to slap me, we gon' let it slap, slap, slap Cross a line, it's too late, you can't take it back, back, back (Yeah)",
+      "valence": 2.11,
+      "arousal": 3.77,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "One phone call get you whacked, whacked, whacked Try to slap me, we gon' let it slap, slap, slap Cross a line, it's too late, you can't take it back, back, back (Yeah) They got my brother locked inside a cage (In a cage)",
+      "valence": 2.15,
+      "arousal": 3.81,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Try to slap me, we gon' let it slap, slap, slap Cross a line, it's too late, you can't take it back, back, back (Yeah) They got my brother locked inside a cage (In a cage) Take them shackles off his feet, he ain't a slave (Slave)",
+      "valence": 2.31,
+      "arousal": 3.64,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Cross a line, it's too late, you can't take it back, back, back (Yeah) They got my brother locked inside a cage (In a cage) Take them shackles off his feet, he ain't a slave (Slave) Growin' up in the hood, you'll learn how to behave ('Have)",
+      "valence": 2.63,
+      "arousal": 3.36,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "They got my brother locked inside a cage (In a cage) Take them shackles off his feet, he ain't a slave (Slave) Growin' up in the hood, you'll learn how to behave ('Have) How we gon' learn to stack if, we ain't got nothing to save? (Save)",
+      "valence": 2.67,
+      "arousal": 3.29,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Take them shackles off his feet, he ain't a slave (Slave) Growin' up in the hood, you'll learn how to behave ('Have) How we gon' learn to stack if, we ain't got nothing to save? (Save) Got a little bad bitch got some work done on her butt (On her butt)",
+      "valence": 2.64,
+      "arousal": 3.26,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Growin' up in the hood, you'll learn how to behave ('Have) How we gon' learn to stack if, we ain't got nothing to save? (Save) Got a little bad bitch got some work done on her butt (On her butt) Gotta catch another flight as soon as I catch my nut (If I nut)",
+      "valence": 2.71,
+      "arousal": 3.3,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "How we gon' learn to stack if, we ain't got nothing to save? (Save) Got a little bad bitch got some work done on her butt (On her butt) Gotta catch another flight as soon as I catch my nut (If I nut) Just being honest, Meek was the first to show me love (Show me love)",
+      "valence": 2.87,
+      "arousal": 3.71,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Got a little bad bitch got some work done on her butt (On her butt) Gotta catch another flight as soon as I catch my nut (If I nut) Just being honest, Meek was the first to show me love (Show me love) And the first time that I seen a Maybach was with cuz (Cuz)",
+      "valence": 3.16,
+      "arousal": 3.85,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Gotta catch another flight as soon as I catch my nut (If I nut) Just being honest, Meek was the first to show me love (Show me love) And the first time that I seen a Maybach was with cuz (Cuz) Gettin' these bags, we might as well tell our opps what's up (What's up)",
+      "valence": 3.49,
+      "arousal": 3.73,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Just being honest, Meek was the first to show me love (Show me love) And the first time that I seen a Maybach was with cuz (Cuz) Gettin' these bags, we might as well tell our opps what's up (What's up) Got weddin' bands but I still don't got a bitch to cuff",
+      "valence": 3.43,
+      "arousal": 3.75,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "And the first time that I seen a Maybach was with cuz (Cuz) Gettin' these bags, we might as well tell our opps what's up (What's up) Got weddin' bands but I still don't got a bitch to cuff In every city I go they already know what's up (What's up)",
+      "valence": 2.9,
+      "arousal": 3.47,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Gettin' these bags, we might as well tell our opps what's up (What's up) Got weddin' bands but I still don't got a bitch to cuff In every city I go they already know what's up (What's up) I got resources, I could get straight to the plug",
+      "valence": 2.83,
+      "arousal": 3.38,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Got weddin' bands but I still don't got a bitch to cuff In every city I go they already know what's up (What's up) I got resources, I could get straight to the plug Tap, tap, tap, tap, tap",
+      "valence": 3.03,
+      "arousal": 3.4,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "In every city I go they already know what's up (What's up) I got resources, I could get straight to the plug Tap, tap, tap, tap, tap Giving head taps, lead tats, tats, tats",
+      "valence": 3.08,
+      "arousal": 3.29,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I got resources, I could get straight to the plug Tap, tap, tap, tap, tap Giving head taps, lead tats, tats, tats They said that they were with it but it's cap, cap, cap",
+      "valence": 3.0,
+      "arousal": 3.19,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Tap, tap, tap, tap, tap Giving head taps, lead tats, tats, tats They said that they were with it but it's cap, cap, cap Aim it at your fitted, push it back, back, back",
+      "valence": 2.87,
+      "arousal": 3.17,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Giving head taps, lead tats, tats, tats They said that they were with it but it's cap, cap, cap Aim it at your fitted, push it back, back, back Whack, whack, whack, whack, whack",
+      "valence": 2.86,
+      "arousal": 3.15,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "They said that they were with it but it's cap, cap, cap Aim it at your fitted, push it back, back, back Whack, whack, whack, whack, whack One phone call get you whacked, whacked, whacked",
+      "valence": 2.44,
+      "arousal": 3.46,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Aim it at your fitted, push it back, back, back Whack, whack, whack, whack, whack One phone call get you whacked, whacked, whacked Try to slap me, we gon' let it slap, slap, slap",
+      "valence": 2.12,
+      "arousal": 3.68,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Whack, whack, whack, whack, whack One phone call get you whacked, whacked, whacked Try to slap me, we gon' let it slap, slap, slap Cross a line, it's too late, you can't take it back, back, back (Yeah)",
+      "valence": 2.11,
+      "arousal": 3.77,
+      "dominance": 3.48
+    }
+  ]
+}

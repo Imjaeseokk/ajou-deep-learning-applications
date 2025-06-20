@@ -1,0 +1,402 @@
+{
+  "artist": "Ed Sheeran",
+  "overall_vad": {
+    "valence": 3.41,
+    "arousal": 3.67,
+    "dominance": 3.18
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Things were all good yesterday And then the devil took your memory And if you fell to your death today I hope that heaven is your resting place",
+      "valence": 2.49,
+      "arousal": 3.13,
+      "dominance": 2.55
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "And then the devil took your memory And if you fell to your death today I hope that heaven is your resting place I heard the doctors put your chest in pain",
+      "valence": 2.08,
+      "arousal": 3.3,
+      "dominance": 2.61
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "And if you fell to your death today I hope that heaven is your resting place I heard the doctors put your chest in pain But then that could've been the medicine",
+      "valence": 2.35,
+      "arousal": 3.28,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I hope that heaven is your resting place I heard the doctors put your chest in pain But then that could've been the medicine And now you're lying in the bed again",
+      "valence": 2.59,
+      "arousal": 3.21,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I heard the doctors put your chest in pain But then that could've been the medicine And now you're lying in the bed again Either way, I'll cry with the rest of them",
+      "valence": 2.09,
+      "arousal": 3.51,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "But then that could've been the medicine And now you're lying in the bed again Either way, I'll cry with the rest of them And my father told me, \"Son",
+      "valence": 2.24,
+      "arousal": 3.48,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "And now you're lying in the bed again Either way, I'll cry with the rest of them And my father told me, \"Son It's not his fault he doesn't know your face",
+      "valence": 2.22,
+      "arousal": 3.56,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Either way, I'll cry with the rest of them And my father told me, \"Son It's not his fault he doesn't know your face And you're not the only one\"",
+      "valence": 2.4,
+      "arousal": 3.53,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "And my father told me, \"Son It's not his fault he doesn't know your face And you're not the only one\" Although my grandma used to say",
+      "valence": 2.9,
+      "arousal": 3.14,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "It's not his fault he doesn't know your face And you're not the only one\" Although my grandma used to say That he used to sing",
+      "valence": 2.84,
+      "arousal": 3.33,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "And you're not the only one\" Although my grandma used to say That he used to sing Darling, hold me in your arms the way you did last night",
+      "valence": 3.4,
+      "arousal": 3.47,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Although my grandma used to say That he used to sing Darling, hold me in your arms the way you did last night And we'll lie inside for a little while here, oh",
+      "valence": 3.35,
+      "arousal": 3.29,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "That he used to sing Darling, hold me in your arms the way you did last night And we'll lie inside for a little while here, oh I could look into your eyes until the sun comes up",
+      "valence": 3.47,
+      "arousal": 3.37,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Darling, hold me in your arms the way you did last night And we'll lie inside for a little while here, oh I could look into your eyes until the sun comes up And we're wrapped in light and life and love",
+      "valence": 3.81,
+      "arousal": 3.67,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And we'll lie inside for a little while here, oh I could look into your eyes until the sun comes up And we're wrapped in light and life and love Put your open lips on mine and slowly let them shut",
+      "valence": 3.72,
+      "arousal": 3.58,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I could look into your eyes until the sun comes up And we're wrapped in light and life and love Put your open lips on mine and slowly let them shut For they're designed to be together, oh",
+      "valence": 3.74,
+      "arousal": 3.71,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "And we're wrapped in light and life and love Put your open lips on mine and slowly let them shut For they're designed to be together, oh With your body next to mine, our hearts will beat as one",
+      "valence": 3.95,
+      "arousal": 3.92,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Put your open lips on mine and slowly let them shut For they're designed to be together, oh With your body next to mine, our hearts will beat as one And we're set alight, we're afire love",
+      "valence": 3.81,
+      "arousal": 4.11,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "For they're designed to be together, oh With your body next to mine, our hearts will beat as one And we're set alight, we're afire love Love, love",
+      "valence": 4.03,
+      "arousal": 4.26,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "With your body next to mine, our hearts will beat as one And we're set alight, we're afire love Love, love And things were all good yesterday",
+      "valence": 4.28,
+      "arousal": 4.27,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "And we're set alight, we're afire love Love, love And things were all good yesterday But then the devil took your breath away",
+      "valence": 3.89,
+      "arousal": 4.32,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Love, love And things were all good yesterday But then the devil took your breath away And now we're left here in the pain",
+      "valence": 3.2,
+      "arousal": 3.85,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "And things were all good yesterday But then the devil took your breath away And now we're left here in the pain Black suit, black tie, standing in the rain",
+      "valence": 2.29,
+      "arousal": 3.43,
+      "dominance": 2.77
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "But then the devil took your breath away And now we're left here in the pain Black suit, black tie, standing in the rain And now my family is one again",
+      "valence": 2.27,
+      "arousal": 3.56,
+      "dominance": 2.75
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "And now we're left here in the pain Black suit, black tie, standing in the rain And now my family is one again Stapled together with the strangers and a friend",
+      "valence": 2.59,
+      "arousal": 3.41,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Black suit, black tie, standing in the rain And now my family is one again Stapled together with the strangers and a friend Came to my mind, I should paint it with a pen",
+      "valence": 3.13,
+      "arousal": 3.35,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "And now my family is one again Stapled together with the strangers and a friend Came to my mind, I should paint it with a pen Six years old, I remember when",
+      "valence": 3.28,
+      "arousal": 3.34,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Stapled together with the strangers and a friend Came to my mind, I should paint it with a pen Six years old, I remember when My father told me, \"Son",
+      "valence": 3.18,
+      "arousal": 3.05,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Came to my mind, I should paint it with a pen Six years old, I remember when My father told me, \"Son It's not his fault he doesn't know your face",
+      "valence": 2.97,
+      "arousal": 3.11,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Six years old, I remember when My father told me, \"Son It's not his fault he doesn't know your face And you're not the only one\"",
+      "valence": 2.86,
+      "arousal": 3.29,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "My father told me, \"Son It's not his fault he doesn't know your face And you're not the only one\" Although my grandma used to say",
+      "valence": 2.88,
+      "arousal": 3.15,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "It's not his fault he doesn't know your face And you're not the only one\" Although my grandma used to say That he used to sing",
+      "valence": 2.84,
+      "arousal": 3.33,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "And you're not the only one\" Although my grandma used to say That he used to sing Darling, hold me in your arms the way you did last night",
+      "valence": 3.4,
+      "arousal": 3.47,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Although my grandma used to say That he used to sing Darling, hold me in your arms the way you did last night And we'll lie inside for a little while here, oh",
+      "valence": 3.35,
+      "arousal": 3.29,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "That he used to sing Darling, hold me in your arms the way you did last night And we'll lie inside for a little while here, oh I could look into your eyes until the sun comes up",
+      "valence": 3.47,
+      "arousal": 3.37,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Darling, hold me in your arms the way you did last night And we'll lie inside for a little while here, oh I could look into your eyes until the sun comes up And we're wrapped in light and life and love",
+      "valence": 3.81,
+      "arousal": 3.67,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "And we'll lie inside for a little while here, oh I could look into your eyes until the sun comes up And we're wrapped in light and life and love Put your open lips on mine and slowly let them shut",
+      "valence": 3.72,
+      "arousal": 3.58,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "I could look into your eyes until the sun comes up And we're wrapped in light and life and love Put your open lips on mine and slowly let them shut For they're designed to be together, oh",
+      "valence": 3.74,
+      "arousal": 3.71,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "And we're wrapped in light and life and love Put your open lips on mine and slowly let them shut For they're designed to be together, oh With your body next to mine, our hearts will beat as one",
+      "valence": 3.95,
+      "arousal": 3.92,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Put your open lips on mine and slowly let them shut For they're designed to be together, oh With your body next to mine, our hearts will beat as one And we're set alight, we're afire love",
+      "valence": 3.81,
+      "arousal": 4.11,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "For they're designed to be together, oh With your body next to mine, our hearts will beat as one And we're set alight, we're afire love Love, love",
+      "valence": 4.03,
+      "arousal": 4.26,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "With your body next to mine, our hearts will beat as one And we're set alight, we're afire love Love, love See the love, the love, the love, the love",
+      "valence": 4.3,
+      "arousal": 4.36,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "And we're set alight, we're afire love Love, love See the love, the love, the love, the love See the love, the love, the love, the love",
+      "valence": 4.27,
+      "arousal": 4.23,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Love, love See the love, the love, the love, the love See the love, the love, the love, the love See the love, the love, the love, the love",
+      "valence": 4.3,
+      "arousal": 4.11,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "See the love, the love, the love, the love See the love, the love, the love, the love See the love, the love, the love, the love And my father and all of my family",
+      "valence": 4.28,
+      "arousal": 4.01,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "See the love, the love, the love, the love See the love, the love, the love, the love And my father and all of my family Rise from their seats to sing hallelujah",
+      "valence": 4.3,
+      "arousal": 4.15,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "See the love, the love, the love, the love And my father and all of my family Rise from their seats to sing hallelujah And my mother and all of my family",
+      "valence": 4.28,
+      "arousal": 4.08,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "And my father and all of my family Rise from their seats to sing hallelujah And my mother and all of my family Rise from their seats to sing hallelujah",
+      "valence": 3.72,
+      "arousal": 3.84,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Rise from their seats to sing hallelujah And my mother and all of my family Rise from their seats to sing hallelujah And my brother and all of my family",
+      "valence": 3.75,
+      "arousal": 3.86,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "And my mother and all of my family Rise from their seats to sing hallelujah And my brother and all of my family Rise from their seats to sing hallelujah",
+      "valence": 3.73,
+      "arousal": 3.85,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Rise from their seats to sing hallelujah And my brother and all of my family Rise from their seats to sing hallelujah (And all my brothers and my sisters, yeah, ah)",
+      "valence": 3.68,
+      "arousal": 3.81,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "And my brother and all of my family Rise from their seats to sing hallelujah (And all my brothers and my sisters, yeah, ah) And my father and all of my family",
+      "valence": 3.7,
+      "arousal": 3.82,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Rise from their seats to sing hallelujah (And all my brothers and my sisters, yeah, ah) And my father and all of my family Rise from their seats to sing hallelujah",
+      "valence": 3.71,
+      "arousal": 3.8,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "(And all my brothers and my sisters, yeah, ah) And my father and all of my family Rise from their seats to sing hallelujah To the love, the love, the love, the love",
+      "valence": 4.16,
+      "arousal": 4.08,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "And my father and all of my family Rise from their seats to sing hallelujah To the love, the love, the love, the love To the love, the love, the love, the love",
+      "valence": 4.2,
+      "arousal": 4.03,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Rise from their seats to sing hallelujah To the love, the love, the love, the love To the love, the love, the love, the love To the love, the love, the love, the love",
+      "valence": 4.11,
+      "arousal": 4.06,
+      "dominance": 3.42
+    }
+  ]
+}

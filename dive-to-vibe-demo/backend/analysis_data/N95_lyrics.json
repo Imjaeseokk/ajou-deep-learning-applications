@@ -1,0 +1,766 @@
+{
+  "artist": "Kendrick Lamar",
+  "overall_vad": {
+    "valence": 2.65,
+    "arousal": 3.45,
+    "dominance": 3.37
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Hello, new world, all the boys and girls I got some true stories to tell You're back outside, but they still lied Whoa, oh, oh, oh (yeah)",
+      "valence": 3.1,
+      "arousal": 3.41,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I got some true stories to tell You're back outside, but they still lied Whoa, oh, oh, oh (yeah) Take off the foo-foo",
+      "valence": 2.81,
+      "arousal": 3.44,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "You're back outside, but they still lied Whoa, oh, oh, oh (yeah) Take off the foo-foo Take off the clout chase",
+      "valence": 2.72,
+      "arousal": 3.54,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Whoa, oh, oh, oh (yeah) Take off the foo-foo Take off the clout chase Take off the Wi-Fi",
+      "valence": 3.12,
+      "arousal": 3.78,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Take off the foo-foo Take off the clout chase Take off the Wi-Fi Take off the money phone",
+      "valence": 2.99,
+      "arousal": 3.45,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Take off the clout chase Take off the Wi-Fi Take off the money phone Take off the car loan",
+      "valence": 2.89,
+      "arousal": 3.39,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Take off the Wi-Fi Take off the money phone Take off the car loan Take off the flex and the white lies",
+      "valence": 2.81,
+      "arousal": 3.39,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Take off the money phone Take off the car loan Take off the flex and the white lies Take off the weird-ass jewelry",
+      "valence": 2.76,
+      "arousal": 3.46,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Take off the car loan Take off the flex and the white lies Take off the weird-ass jewelry I'ma take ten steps",
+      "valence": 2.81,
+      "arousal": 3.4,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Take off the flex and the white lies Take off the weird-ass jewelry I'ma take ten steps Then I'm takin' off top five",
+      "valence": 2.89,
+      "arousal": 3.5,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Take off the weird-ass jewelry I'ma take ten steps Then I'm takin' off top five Take off them fabricated streams",
+      "valence": 2.83,
+      "arousal": 3.43,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I'ma take ten steps Then I'm takin' off top five Take off them fabricated streams And them microwave memes",
+      "valence": 3.1,
+      "arousal": 3.33,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Then I'm takin' off top five Take off them fabricated streams And them microwave memes It's a real world outside (take that shit off)",
+      "valence": 2.91,
+      "arousal": 3.42,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Take off them fabricated streams And them microwave memes It's a real world outside (take that shit off) Take off your idols",
+      "valence": 2.7,
+      "arousal": 3.65,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And them microwave memes It's a real world outside (take that shit off) Take off your idols Take off the runway",
+      "valence": 2.78,
+      "arousal": 3.66,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "It's a real world outside (take that shit off) Take off your idols Take off the runway I take off to Cairo (take that shit off)",
+      "valence": 2.68,
+      "arousal": 3.76,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Take off your idols Take off the runway I take off to Cairo (take that shit off) Take off to Saint-Tropez",
+      "valence": 2.85,
+      "arousal": 3.69,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Take off the runway I take off to Cairo (take that shit off) Take off to Saint-Tropez Five day stay, take a quarter mil'",
+      "valence": 2.73,
+      "arousal": 3.54,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I take off to Cairo (take that shit off) Take off to Saint-Tropez Five day stay, take a quarter mil' Hell, if I know (take that shit off)",
+      "valence": 2.42,
+      "arousal": 3.66,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Take off to Saint-Tropez Five day stay, take a quarter mil' Hell, if I know (take that shit off) Take off the false flag",
+      "valence": 2.53,
+      "arousal": 3.49,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Five day stay, take a quarter mil' Hell, if I know (take that shit off) Take off the false flag Take off perception",
+      "valence": 2.52,
+      "arousal": 3.53,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Hell, if I know (take that shit off) Take off the false flag Take off perception Take off the cop with the eye patch (take that shit off)",
+      "valence": 2.39,
+      "arousal": 3.75,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Take off the false flag Take off perception Take off the cop with the eye patch (take that shit off) Take off the unloyal",
+      "valence": 2.64,
+      "arousal": 3.46,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Take off perception Take off the cop with the eye patch (take that shit off) Take off the unloyal Take off the unsure",
+      "valence": 2.69,
+      "arousal": 3.45,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Take off the cop with the eye patch (take that shit off) Take off the unloyal Take off the unsure Take off decisions I lack (take it off)",
+      "valence": 2.58,
+      "arousal": 3.59,
+      "dominance": 3.75
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Take off the unloyal Take off the unsure Take off decisions I lack (take it off) Take off the fake deep",
+      "valence": 2.86,
+      "arousal": 3.19,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Take off the unsure Take off decisions I lack (take it off) Take off the fake deep Take off the fake woke",
+      "valence": 2.82,
+      "arousal": 3.21,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Take off decisions I lack (take it off) Take off the fake deep Take off the fake woke Take off the I'm broke, I care (take it off)",
+      "valence": 2.63,
+      "arousal": 3.43,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Take off the fake deep Take off the fake woke Take off the I'm broke, I care (take it off) Take off the gossip",
+      "valence": 2.73,
+      "arousal": 3.49,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Take off the fake woke Take off the I'm broke, I care (take it off) Take off the gossip Take off the new logic, that if I'm rich, I'm rare (take it off)",
+      "valence": 2.73,
+      "arousal": 3.49,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Take off the I'm broke, I care (take it off) Take off the gossip Take off the new logic, that if I'm rich, I'm rare (take it off) Take off the Chanel",
+      "valence": 2.79,
+      "arousal": 3.41,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Take off the gossip Take off the new logic, that if I'm rich, I'm rare (take it off) Take off the Chanel Take off the Dolce",
+      "valence": 2.91,
+      "arousal": 3.37,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Take off the new logic, that if I'm rich, I'm rare (take it off) Take off the Chanel Take off the Dolce Take off the Birkin bag (take it off)",
+      "valence": 2.95,
+      "arousal": 3.38,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Take off the Chanel Take off the Dolce Take off the Birkin bag (take it off) Take all that designer bullshit off",
+      "valence": 2.78,
+      "arousal": 3.51,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Take off the Dolce Take off the Birkin bag (take it off) Take all that designer bullshit off And what do you have? (Bitch)",
+      "valence": 2.49,
+      "arousal": 3.74,
+      "dominance": 3.81
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Take off the Birkin bag (take it off) Take all that designer bullshit off And what do you have? (Bitch) Huh, huh, uh, you ugly as fuck",
+      "valence": 2.1,
+      "arousal": 3.73,
+      "dominance": 3.8
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Take all that designer bullshit off And what do you have? (Bitch) Huh, huh, uh, you ugly as fuck (You out of pocket)",
+      "valence": 2.09,
+      "arousal": 3.71,
+      "dominance": 3.77
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "And what do you have? (Bitch) Huh, huh, uh, you ugly as fuck (You out of pocket) Huh, two ATMs (hah, hah, hah, hah)",
+      "valence": 2.35,
+      "arousal": 3.7,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Huh, huh, uh, you ugly as fuck (You out of pocket) Huh, two ATMs (hah, hah, hah, hah) You steppin' or what? (You out of pocket, huh)",
+      "valence": 2.3,
+      "arousal": 3.76,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "(You out of pocket) Huh, two ATMs (hah, hah, hah, hah) You steppin' or what? (You out of pocket, huh) Who you think they talk 'bout?",
+      "valence": 2.94,
+      "arousal": 3.35,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Huh, two ATMs (hah, hah, hah, hah) You steppin' or what? (You out of pocket, huh) Who you think they talk 'bout? Talk about us (you out of pocket, shoot, shoot, shoot)",
+      "valence": 2.86,
+      "arousal": 3.48,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "You steppin' or what? (You out of pocket, huh) Who you think they talk 'bout? Talk about us (you out of pocket, shoot, shoot, shoot) Who you think they copy off? (Brrt, brrt, brrt, brrt)",
+      "valence": 2.81,
+      "arousal": 3.34,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Who you think they talk 'bout? Talk about us (you out of pocket, shoot, shoot, shoot) Who you think they copy off? (Brrt, brrt, brrt, brrt) Copy off us (get back in pocket)",
+      "valence": 2.8,
+      "arousal": 3.29,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Talk about us (you out of pocket, shoot, shoot, shoot) Who you think they copy off? (Brrt, brrt, brrt, brrt) Copy off us (get back in pocket) The world in a panic",
+      "valence": 2.66,
+      "arousal": 3.48,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Who you think they copy off? (Brrt, brrt, brrt, brrt) Copy off us (get back in pocket) The world in a panic The women is stranded",
+      "valence": 2.52,
+      "arousal": 3.48,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Copy off us (get back in pocket) The world in a panic The women is stranded The men on a run",
+      "valence": 2.59,
+      "arousal": 3.44,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "The world in a panic The women is stranded The men on a run The prophets abandoned",
+      "valence": 2.28,
+      "arousal": 3.66,
+      "dominance": 2.7
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "The women is stranded The men on a run The prophets abandoned The Lord take advantage",
+      "valence": 2.53,
+      "arousal": 3.25,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "The men on a run The prophets abandoned The Lord take advantage The market is crashin'",
+      "valence": 2.68,
+      "arousal": 3.29,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "The prophets abandoned The Lord take advantage The market is crashin' The industry wants",
+      "valence": 2.77,
+      "arousal": 3.29,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "The Lord take advantage The market is crashin' The industry wants Niggas and bitches to sleep in a box",
+      "valence": 2.66,
+      "arousal": 3.33,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "The market is crashin' The industry wants Niggas and bitches to sleep in a box While they makin' a mockery followin' us",
+      "valence": 2.22,
+      "arousal": 3.45,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "The industry wants Niggas and bitches to sleep in a box While they makin' a mockery followin' us This ain't Monopoly",
+      "valence": 2.32,
+      "arousal": 3.38,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Niggas and bitches to sleep in a box While they makin' a mockery followin' us This ain't Monopoly Watchin' for love",
+      "valence": 2.56,
+      "arousal": 3.34,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "While they makin' a mockery followin' us This ain't Monopoly Watchin' for love This ain't monogamy",
+      "valence": 2.59,
+      "arousal": 3.32,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "This ain't Monopoly Watchin' for love This ain't monogamy Y'all gettin' fucked",
+      "valence": 2.39,
+      "arousal": 3.51,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Watchin' for love This ain't monogamy Y'all gettin' fucked Jumpin' on what the hell is that?",
+      "valence": 2.51,
+      "arousal": 3.6,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "This ain't monogamy Y'all gettin' fucked Jumpin' on what the hell is that? I gotta relax when I feel (huh, facts)",
+      "valence": 2.45,
+      "arousal": 3.48,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Y'all gettin' fucked Jumpin' on what the hell is that? I gotta relax when I feel (huh, facts) All of my descendants",
+      "valence": 2.4,
+      "arousal": 3.51,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Jumpin' on what the hell is that? I gotta relax when I feel (huh, facts) All of my descendants They come in my sleep and say I am too real (huh, facts)",
+      "valence": 2.78,
+      "arousal": 3.3,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "I gotta relax when I feel (huh, facts) All of my descendants They come in my sleep and say I am too real (huh, facts) I'm done with the sensitive takin' it personal",
+      "valence": 2.84,
+      "arousal": 3.08,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "All of my descendants They come in my sleep and say I am too real (huh, facts) I'm done with the sensitive takin' it personal Done with the black and the white",
+      "valence": 2.59,
+      "arousal": 3.26,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "They come in my sleep and say I am too real (huh, facts) I'm done with the sensitive takin' it personal Done with the black and the white The wrong and the right",
+      "valence": 2.56,
+      "arousal": 3.36,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "I'm done with the sensitive takin' it personal Done with the black and the white The wrong and the right You hopin' for change and clericals",
+      "valence": 2.64,
+      "arousal": 3.21,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Done with the black and the white The wrong and the right You hopin' for change and clericals I know the feelings that came with burial's cries (bitch)",
+      "valence": 2.34,
+      "arousal": 3.7,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "The wrong and the right You hopin' for change and clericals I know the feelings that came with burial's cries (bitch) Huh, huh, uh, you ugly as fuck",
+      "valence": 1.93,
+      "arousal": 3.77,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "You hopin' for change and clericals I know the feelings that came with burial's cries (bitch) Huh, huh, uh, you ugly as fuck (You out of pocket)",
+      "valence": 1.91,
+      "arousal": 3.81,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "I know the feelings that came with burial's cries (bitch) Huh, huh, uh, you ugly as fuck (You out of pocket) Huh, two ATMs (hah, hah, hah, hah)",
+      "valence": 2.19,
+      "arousal": 3.79,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Huh, huh, uh, you ugly as fuck (You out of pocket) Huh, two ATMs (hah, hah, hah, hah) You steppin' or what? (You out of pocket, huh)",
+      "valence": 2.3,
+      "arousal": 3.76,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "(You out of pocket) Huh, two ATMs (hah, hah, hah, hah) You steppin' or what? (You out of pocket, huh) Who you think they talk 'bout?",
+      "valence": 2.94,
+      "arousal": 3.35,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Huh, two ATMs (hah, hah, hah, hah) You steppin' or what? (You out of pocket, huh) Who you think they talk 'bout? Talk about us (you out of pocket, shoot, shoot, shoot)",
+      "valence": 2.86,
+      "arousal": 3.48,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "You steppin' or what? (You out of pocket, huh) Who you think they talk 'bout? Talk about us (you out of pocket, shoot, shoot, shoot) Who you think they copy off?",
+      "valence": 2.73,
+      "arousal": 3.38,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Who you think they talk 'bout? Talk about us (you out of pocket, shoot, shoot, shoot) Who you think they copy off? Copy off us (brrt, brrt, brrt, brrt)",
+      "valence": 2.69,
+      "arousal": 3.42,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Talk about us (you out of pocket, shoot, shoot, shoot) Who you think they copy off? Copy off us (brrt, brrt, brrt, brrt) Servin' up a look, dancin' in the drought",
+      "valence": 2.7,
+      "arousal": 3.29,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Who you think they copy off? Copy off us (brrt, brrt, brrt, brrt) Servin' up a look, dancin' in the drought Hello to the big stepper, never losin' count",
+      "valence": 2.7,
+      "arousal": 3.09,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "Copy off us (brrt, brrt, brrt, brrt) Servin' up a look, dancin' in the drought Hello to the big stepper, never losin' count Ventin' in the safe house, ventin' in the sa-, ahh",
+      "valence": 2.87,
+      "arousal": 2.96,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "Servin' up a look, dancin' in the drought Hello to the big stepper, never losin' count Ventin' in the safe house, ventin' in the sa-, ahh Can I vent all my truth?",
+      "valence": 2.67,
+      "arousal": 3.14,
+      "dominance": 2.75
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "Hello to the big stepper, never losin' count Ventin' in the safe house, ventin' in the sa-, ahh Can I vent all my truth? I got nothin' to lose",
+      "valence": 2.82,
+      "arousal": 3.31,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "Ventin' in the safe house, ventin' in the sa-, ahh Can I vent all my truth? I got nothin' to lose I got problems and pools",
+      "valence": 2.58,
+      "arousal": 3.47,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "Can I vent all my truth? I got nothin' to lose I got problems and pools I can swim in my faith",
+      "valence": 2.77,
+      "arousal": 3.39,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "I got nothin' to lose I got problems and pools I can swim in my faith Camera's movin' whenever I'm movin'",
+      "valence": 3.14,
+      "arousal": 3.43,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "I got problems and pools I can swim in my faith Camera's movin' whenever I'm movin' The family suin' whatever I make",
+      "valence": 3.14,
+      "arousal": 3.34,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "I can swim in my faith Camera's movin' whenever I'm movin' The family suin' whatever I make Murder is stackin', the president actin'",
+      "valence": 3.05,
+      "arousal": 3.2,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "Camera's movin' whenever I'm movin' The family suin' whatever I make Murder is stackin', the president actin' The government taxin' my funds in the bank",
+      "valence": 2.79,
+      "arousal": 3.16,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "The family suin' whatever I make Murder is stackin', the president actin' The government taxin' my funds in the bank Homies attractin' the feds",
+      "valence": 2.6,
+      "arousal": 3.33,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 86,
+      "lyrics_text": "Murder is stackin', the president actin' The government taxin' my funds in the bank Homies attractin' the feds When I'm brackin', look at my reaction",
+      "valence": 2.45,
+      "arousal": 3.48,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 87,
+      "lyrics_text": "The government taxin' my funds in the bank Homies attractin' the feds When I'm brackin', look at my reaction My pupils on skates (hold up, hold up)",
+      "valence": 2.83,
+      "arousal": 3.41,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 88,
+      "lyrics_text": "Homies attractin' the feds When I'm brackin', look at my reaction My pupils on skates (hold up, hold up) Let's think about this for a second (let's go)",
+      "valence": 2.82,
+      "arousal": 3.38,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 89,
+      "lyrics_text": "When I'm brackin', look at my reaction My pupils on skates (hold up, hold up) Let's think about this for a second (let's go) Tell me what you would do for aesthetic (let's go)",
+      "valence": 3.08,
+      "arousal": 3.14,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 90,
+      "lyrics_text": "My pupils on skates (hold up, hold up) Let's think about this for a second (let's go) Tell me what you would do for aesthetic (let's go) Would you sell your soul on credit? (Let's go)",
+      "valence": 3.06,
+      "arousal": 3.08,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 91,
+      "lyrics_text": "Let's think about this for a second (let's go) Tell me what you would do for aesthetic (let's go) Would you sell your soul on credit? (Let's go) Would you sell your bro for leverage? (Let's go)",
+      "valence": 3.07,
+      "arousal": 3.15,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 92,
+      "lyrics_text": "Tell me what you would do for aesthetic (let's go) Would you sell your soul on credit? (Let's go) Would you sell your bro for leverage? (Let's go) Where the hypocrites at?",
+      "valence": 2.77,
+      "arousal": 3.43,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 93,
+      "lyrics_text": "Would you sell your soul on credit? (Let's go) Would you sell your bro for leverage? (Let's go) Where the hypocrites at? What community feel",
+      "valence": 2.65,
+      "arousal": 3.42,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 94,
+      "lyrics_text": "Would you sell your bro for leverage? (Let's go) Where the hypocrites at? What community feel They the only ones relevant? (Let's go)",
+      "valence": 2.74,
+      "arousal": 3.32,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 95,
+      "lyrics_text": "Where the hypocrites at? What community feel They the only ones relevant? (Let's go) Where the hypocrites at?",
+      "valence": 2.42,
+      "arousal": 3.4,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 96,
+      "lyrics_text": "What community feel They the only ones relevant? (Let's go) Where the hypocrites at? What community feel",
+      "valence": 2.68,
+      "arousal": 3.34,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 97,
+      "lyrics_text": "They the only ones relevant? (Let's go) Where the hypocrites at? What community feel They the only ones relevant? (Let's go)",
+      "valence": 2.72,
+      "arousal": 3.33,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 98,
+      "lyrics_text": "Where the hypocrites at? What community feel They the only ones relevant? (Let's go) You outta pocket, yeah, you outta pocket (this shit hard)",
+      "valence": 2.22,
+      "arousal": 3.6,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 99,
+      "lyrics_text": "What community feel They the only ones relevant? (Let's go) You outta pocket, yeah, you outta pocket (this shit hard) You entertain the mediocre, need to stop it (this shit hard)",
+      "valence": 2.42,
+      "arousal": 3.51,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 100,
+      "lyrics_text": "They the only ones relevant? (Let's go) You outta pocket, yeah, you outta pocket (this shit hard) You entertain the mediocre, need to stop it (this shit hard) You entertainin' old friends when they toxic (this shit hard)",
+      "valence": 2.43,
+      "arousal": 3.51,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 101,
+      "lyrics_text": "You outta pocket, yeah, you outta pocket (this shit hard) You entertain the mediocre, need to stop it (this shit hard) You entertainin' old friends when they toxic (this shit hard) What's your life like? Bullshit and gossip (this shit hard)",
+      "valence": 2.21,
+      "arousal": 3.67,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 102,
+      "lyrics_text": "You entertain the mediocre, need to stop it (this shit hard) You entertainin' old friends when they toxic (this shit hard) What's your life like? Bullshit and gossip (this shit hard) What the fuck is cancel culture, dawg?",
+      "valence": 2.16,
+      "arousal": 3.68,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 103,
+      "lyrics_text": "You entertainin' old friends when they toxic (this shit hard) What's your life like? Bullshit and gossip (this shit hard) What the fuck is cancel culture, dawg? Say what I want about you niggas",
+      "valence": 2.21,
+      "arousal": 3.67,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 104,
+      "lyrics_text": "What's your life like? Bullshit and gossip (this shit hard) What the fuck is cancel culture, dawg? Say what I want about you niggas I'm like Oprah, dawg",
+      "valence": 2.27,
+      "arousal": 3.73,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 105,
+      "lyrics_text": "What the fuck is cancel culture, dawg? Say what I want about you niggas I'm like Oprah, dawg I treat you crackers like I'm Jigga, watch",
+      "valence": 2.36,
+      "arousal": 3.68,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 106,
+      "lyrics_text": "Say what I want about you niggas I'm like Oprah, dawg I treat you crackers like I'm Jigga, watch I own it all",
+      "valence": 2.85,
+      "arousal": 3.61,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 107,
+      "lyrics_text": "I'm like Oprah, dawg I treat you crackers like I'm Jigga, watch I own it all Oh, you worried 'bout a critic?",
+      "valence": 2.84,
+      "arousal": 3.48,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 108,
+      "lyrics_text": "I treat you crackers like I'm Jigga, watch I own it all Oh, you worried 'bout a critic? That ain't protocol (bitch)",
+      "valence": 2.52,
+      "arousal": 3.6,
+      "dominance": 3.69
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "artist": "Kanye West",
+  "overall_vad": {
+    "valence": 2.85,
+    "arousal": 3.56,
+    "dominance": 3.32
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "You're the only power (power) You're the only power that can You're the only power (power) You're the only power that can",
+      "valence": 3.1,
+      "arousal": 3.15,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "You're the only power that can You're the only power (power) You're the only power that can If young Metro don't trust you I'm gon' shoot you",
+      "valence": 2.55,
+      "arousal": 3.41,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "You're the only power (power) You're the only power that can If young Metro don't trust you I'm gon' shoot you Beautiful morning, you're the sun in my morning, babe",
+      "valence": 3.03,
+      "arousal": 3.74,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "You're the only power that can If young Metro don't trust you I'm gon' shoot you Beautiful morning, you're the sun in my morning, babe Nothing unwanted",
+      "valence": 2.97,
+      "arousal": 3.65,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "If young Metro don't trust you I'm gon' shoot you Beautiful morning, you're the sun in my morning, babe Nothing unwanted Beautiful morning, you're the sun in my morning, babe",
+      "valence": 3.17,
+      "arousal": 3.65,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Beautiful morning, you're the sun in my morning, babe Nothing unwanted Beautiful morning, you're the sun in my morning, babe Nothing unwanted",
+      "valence": 3.95,
+      "arousal": 3.62,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Nothing unwanted Beautiful morning, you're the sun in my morning, babe Nothing unwanted I just want to feel liberated, I, I, na-na-na",
+      "valence": 3.58,
+      "arousal": 3.54,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Beautiful morning, you're the sun in my morning, babe Nothing unwanted I just want to feel liberated, I, I, na-na-na I just want to feel liberated, I, I, na-na-na",
+      "valence": 3.74,
+      "arousal": 3.55,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Nothing unwanted I just want to feel liberated, I, I, na-na-na I just want to feel liberated, I, I, na-na-na If I ever instigated, I'm sorry",
+      "valence": 2.75,
+      "arousal": 3.3,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I just want to feel liberated, I, I, na-na-na I just want to feel liberated, I, I, na-na-na If I ever instigated, I'm sorry Tell me, who in here can relate? I, I, I",
+      "valence": 2.65,
+      "arousal": 3.35,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I just want to feel liberated, I, I, na-na-na If I ever instigated, I'm sorry Tell me, who in here can relate? I, I, I Now if I fuck this model",
+      "valence": 2.48,
+      "arousal": 3.58,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "If I ever instigated, I'm sorry Tell me, who in here can relate? I, I, I Now if I fuck this model And she just bleached her asshole",
+      "valence": 2.04,
+      "arousal": 3.61,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Tell me, who in here can relate? I, I, I Now if I fuck this model And she just bleached her asshole And I get bleach on my T-shirt",
+      "valence": 2.23,
+      "arousal": 3.68,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Now if I fuck this model And she just bleached her asshole And I get bleach on my T-shirt I'mma feel like an asshole",
+      "valence": 1.92,
+      "arousal": 3.82,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And she just bleached her asshole And I get bleach on my T-shirt I'mma feel like an asshole I was high when I met her",
+      "valence": 2.1,
+      "arousal": 3.76,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "And I get bleach on my T-shirt I'mma feel like an asshole I was high when I met her We was down in Tribeca",
+      "valence": 2.29,
+      "arousal": 3.62,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I'mma feel like an asshole I was high when I met her We was down in Tribeca She get under your skin if you let her",
+      "valence": 2.23,
+      "arousal": 3.73,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I was high when I met her We was down in Tribeca She get under your skin if you let her She get under your skin if you-uh",
+      "valence": 2.94,
+      "arousal": 3.46,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "We was down in Tribeca She get under your skin if you let her She get under your skin if you-uh I don't even want to talk about it",
+      "valence": 2.3,
+      "arousal": 3.55,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "She get under your skin if you let her She get under your skin if you-uh I don't even want to talk about it I don't even want to talk about it",
+      "valence": 2.07,
+      "arousal": 3.62,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "She get under your skin if you-uh I don't even want to talk about it I don't even want to talk about it I don't even want to say nothing",
+      "valence": 2.05,
+      "arousal": 3.66,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I don't even want to talk about it I don't even want to talk about it I don't even want to say nothing Everybody gon' say something",
+      "valence": 2.06,
+      "arousal": 3.74,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I don't even want to talk about it I don't even want to say nothing Everybody gon' say something I'd be worried if they said nothing",
+      "valence": 2.12,
+      "arousal": 3.69,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I don't even want to say nothing Everybody gon' say something I'd be worried if they said nothing Remind me where I know you from?",
+      "valence": 2.63,
+      "arousal": 3.42,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Everybody gon' say something I'd be worried if they said nothing Remind me where I know you from? She looking like she owe you some'",
+      "valence": 2.85,
+      "arousal": 3.35,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I'd be worried if they said nothing Remind me where I know you from? She looking like she owe you some' You know just what we want",
+      "valence": 2.89,
+      "arousal": 3.34,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Remind me where I know you from? She looking like she owe you some' You know just what we want I want to wake up with you in my",
+      "valence": 3.2,
+      "arousal": 3.4,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "She looking like she owe you some' You know just what we want I want to wake up with you in my Beautiful morning, you're the sun in my morning, babe",
+      "valence": 3.68,
+      "arousal": 3.59,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "You know just what we want I want to wake up with you in my Beautiful morning, you're the sun in my morning, babe Nothing unwanted",
+      "valence": 3.78,
+      "arousal": 3.82,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I want to wake up with you in my Beautiful morning, you're the sun in my morning, babe Nothing unwanted Beautiful morning, you're the sun in my morning, babe",
+      "valence": 3.84,
+      "arousal": 3.71,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Beautiful morning, you're the sun in my morning, babe Nothing unwanted Beautiful morning, you're the sun in my morning, babe Nothing unwanted",
+      "valence": 3.95,
+      "arousal": 3.62,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Nothing unwanted Beautiful morning, you're the sun in my morning, babe Nothing unwanted I just want to feel liberated, I, I, na-na-na",
+      "valence": 3.58,
+      "arousal": 3.54,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Beautiful morning, you're the sun in my morning, babe Nothing unwanted I just want to feel liberated, I, I, na-na-na I just want to feel liberated, I, I, na-na-na",
+      "valence": 3.74,
+      "arousal": 3.55,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Nothing unwanted I just want to feel liberated, I, I, na-na-na I just want to feel liberated, I, I, na-na-na If I ever instigated, I'm sorry",
+      "valence": 2.75,
+      "arousal": 3.3,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I just want to feel liberated, I, I, na-na-na I just want to feel liberated, I, I, na-na-na If I ever instigated, I'm sorry Tell me who in here can relate, I, I, I",
+      "valence": 2.65,
+      "arousal": 3.34,
+      "dominance": 3.0
+    }
+  ]
+}

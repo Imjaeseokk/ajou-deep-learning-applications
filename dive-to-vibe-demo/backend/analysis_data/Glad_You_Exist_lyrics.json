@@ -1,0 +1,192 @@
+{
+  "artist": "Dan + Shay",
+  "overall_vad": {
+    "valence": 3.35,
+    "arousal": 3.54,
+    "dominance": 3.3
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Here's to all the late night drunk phone calls that you picked up Here's to all the bad decisions that you didn't judge All the 'love you's and the 'hate you's and the secrets that you told me Here's to everyone but mostly us",
+      "valence": 2.68,
+      "arousal": 3.56,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Here's to all the bad decisions that you didn't judge All the 'love you's and the 'hate you's and the secrets that you told me Here's to everyone but mostly us There's a couple billion people in the world",
+      "valence": 2.6,
+      "arousal": 3.34,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "All the 'love you's and the 'hate you's and the secrets that you told me Here's to everyone but mostly us There's a couple billion people in the world And a million other places we could be, but you're here with me",
+      "valence": 3.28,
+      "arousal": 3.38,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Here's to everyone but mostly us There's a couple billion people in the world And a million other places we could be, but you're here with me Take a moment just to take it in",
+      "valence": 3.28,
+      "arousal": 3.12,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "There's a couple billion people in the world And a million other places we could be, but you're here with me Take a moment just to take it in 'Cause every high and every low led to this",
+      "valence": 3.28,
+      "arousal": 3.33,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "And a million other places we could be, but you're here with me Take a moment just to take it in 'Cause every high and every low led to this I'm just so glad you exist",
+      "valence": 3.82,
+      "arousal": 3.68,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Take a moment just to take it in 'Cause every high and every low led to this I'm just so glad you exist Hey, look what a hello from a stranger turned into",
+      "valence": 3.83,
+      "arousal": 3.66,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "'Cause every high and every low led to this I'm just so glad you exist Hey, look what a hello from a stranger turned into Caught up in a moment like it's just us in this room",
+      "valence": 3.99,
+      "arousal": 3.8,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I'm just so glad you exist Hey, look what a hello from a stranger turned into Caught up in a moment like it's just us in this room All the right words at the right time and you know 'em 'cause you know me",
+      "valence": 3.93,
+      "arousal": 3.68,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Hey, look what a hello from a stranger turned into Caught up in a moment like it's just us in this room All the right words at the right time and you know 'em 'cause you know me Better than anyone else, we don't need anyone else",
+      "valence": 3.22,
+      "arousal": 3.43,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Caught up in a moment like it's just us in this room All the right words at the right time and you know 'em 'cause you know me Better than anyone else, we don't need anyone else There's a couple billion people in the world (oh, yeah, yeah, yeah)",
+      "valence": 3.02,
+      "arousal": 3.32,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "All the right words at the right time and you know 'em 'cause you know me Better than anyone else, we don't need anyone else There's a couple billion people in the world (oh, yeah, yeah, yeah) And a million other places we could be, but you're here with me",
+      "valence": 3.13,
+      "arousal": 3.34,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Better than anyone else, we don't need anyone else There's a couple billion people in the world (oh, yeah, yeah, yeah) And a million other places we could be, but you're here with me Take a moment just to take it in (oh, yeah, yeah, yeah)",
+      "valence": 3.21,
+      "arousal": 3.4,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "There's a couple billion people in the world (oh, yeah, yeah, yeah) And a million other places we could be, but you're here with me Take a moment just to take it in (oh, yeah, yeah, yeah) 'Cause every high and every low led to this",
+      "valence": 3.3,
+      "arousal": 3.24,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And a million other places we could be, but you're here with me Take a moment just to take it in (oh, yeah, yeah, yeah) 'Cause every high and every low led to this I'm just so glad you exist",
+      "valence": 3.82,
+      "arousal": 3.69,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Take a moment just to take it in (oh, yeah, yeah, yeah) 'Cause every high and every low led to this I'm just so glad you exist Don't you ever go, don't you ever go, don't you ever go changin'",
+      "valence": 3.8,
+      "arousal": 3.66,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "'Cause every high and every low led to this I'm just so glad you exist Don't you ever go, don't you ever go, don't you ever go changin' Never let me go, never let me go, never let me go, baby",
+      "valence": 3.77,
+      "arousal": 3.84,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I'm just so glad you exist Don't you ever go, don't you ever go, don't you ever go changin' Never let me go, never let me go, never let me go, baby Don't you ever go, don't you ever go, don't you ever go changin'",
+      "valence": 3.38,
+      "arousal": 3.58,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Don't you ever go, don't you ever go, don't you ever go changin' Never let me go, never let me go, never let me go, baby Don't you ever go, don't you ever go, don't you ever go changin' Never let me go, never ever let me go, never let me go, baby",
+      "valence": 2.29,
+      "arousal": 3.55,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Never let me go, never let me go, never let me go, baby Don't you ever go, don't you ever go, don't you ever go changin' Never let me go, never ever let me go, never let me go, baby There's a couple billion people in the world (the world)",
+      "valence": 2.48,
+      "arousal": 3.58,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Don't you ever go, don't you ever go, don't you ever go changin' Never let me go, never ever let me go, never let me go, baby There's a couple billion people in the world (the world) And a million other places we could be, but you're here with me",
+      "valence": 2.69,
+      "arousal": 3.6,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Never let me go, never ever let me go, never let me go, baby There's a couple billion people in the world (the world) And a million other places we could be, but you're here with me Take a moment just to take it in (just to take it in)",
+      "valence": 3.21,
+      "arousal": 3.59,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "There's a couple billion people in the world (the world) And a million other places we could be, but you're here with me Take a moment just to take it in (just to take it in) 'Cause every high and every low led to this",
+      "valence": 3.32,
+      "arousal": 3.35,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "And a million other places we could be, but you're here with me Take a moment just to take it in (just to take it in) 'Cause every high and every low led to this I'm just so glad you exist",
+      "valence": 3.8,
+      "arousal": 3.68,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Take a moment just to take it in (just to take it in) 'Cause every high and every low led to this I'm just so glad you exist I'm glad you exist",
+      "valence": 3.85,
+      "arousal": 3.66,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "'Cause every high and every low led to this I'm just so glad you exist I'm glad you exist (Ooh) ooh",
+      "valence": 4.02,
+      "arousal": 3.88,
+      "dominance": 3.23
+    }
+  ]
+}

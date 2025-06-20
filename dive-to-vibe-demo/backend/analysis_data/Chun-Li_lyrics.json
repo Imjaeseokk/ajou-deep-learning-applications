@@ -1,0 +1,409 @@
+{
+  "artist": "Nicki Minaj",
+  "overall_vad": {
+    "valence": 2.82,
+    "arousal": 3.61,
+    "dominance": 3.41
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Ayy, yo Look like I'm goin' for a swim Dunked on 'em, now I'm swin'in' off the rim Bitch ain't comin' off the bench",
+      "valence": 2.81,
+      "arousal": 3.41,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Look like I'm goin' for a swim Dunked on 'em, now I'm swin'in' off the rim Bitch ain't comin' off the bench While I'm comin' off the court fully drenched",
+      "valence": 2.7,
+      "arousal": 3.53,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Dunked on 'em, now I'm swin'in' off the rim Bitch ain't comin' off the bench While I'm comin' off the court fully drenched Here go some haterade, get your thirst quenched",
+      "valence": 2.44,
+      "arousal": 3.62,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Bitch ain't comin' off the bench While I'm comin' off the court fully drenched Here go some haterade, get your thirst quenched Style'd on 'em in this Burberry trench",
+      "valence": 2.62,
+      "arousal": 3.47,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "While I'm comin' off the court fully drenched Here go some haterade, get your thirst quenched Style'd on 'em in this Burberry trench These birds copy every word, every inch",
+      "valence": 2.95,
+      "arousal": 3.44,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Here go some haterade, get your thirst quenched Style'd on 'em in this Burberry trench These birds copy every word, every inch But gang-gang got the hammer and the wrench (brrt)",
+      "valence": 2.66,
+      "arousal": 3.3,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Style'd on 'em in this Burberry trench These birds copy every word, every inch But gang-gang got the hammer and the wrench (brrt) I pull up in that quarter milli' off the lot",
+      "valence": 2.72,
+      "arousal": 3.18,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "These birds copy every word, every inch But gang-gang got the hammer and the wrench (brrt) I pull up in that quarter milli' off the lot Oh, now she tryna be friends like I forgot",
+      "valence": 2.7,
+      "arousal": 3.26,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "But gang-gang got the hammer and the wrench (brrt) I pull up in that quarter milli' off the lot Oh, now she tryna be friends like I forgot Show off my diamonds like I'm signed by the Roc",
+      "valence": 2.86,
+      "arousal": 3.52,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I pull up in that quarter milli' off the lot Oh, now she tryna be friends like I forgot Show off my diamonds like I'm signed by the Roc Ain't pushin' out his babies 'til he bite a rock",
+      "valence": 2.8,
+      "arousal": 3.52,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Oh, now she tryna be friends like I forgot Show off my diamonds like I'm signed by the Roc Ain't pushin' out his babies 'til he bite a rock Ayy, yo, I been on, bitch, you been corn",
+      "valence": 2.37,
+      "arousal": 3.85,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Show off my diamonds like I'm signed by the Roc Ain't pushin' out his babies 'til he bite a rock Ayy, yo, I been on, bitch, you been corn Bentley tints on, Fendi prints on",
+      "valence": 2.83,
+      "arousal": 3.78,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Ain't pushin' out his babies 'til he bite a rock Ayy, yo, I been on, bitch, you been corn Bentley tints on, Fendi prints on I mean I been Storm, X-Men been formed",
+      "valence": 2.37,
+      "arousal": 3.77,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Ayy, yo, I been on, bitch, you been corn Bentley tints on, Fendi prints on I mean I been Storm, X-Men been formed He keep on dialin' Nicki, like the Prince song",
+      "valence": 2.79,
+      "arousal": 3.82,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Bentley tints on, Fendi prints on I mean I been Storm, X-Men been formed He keep on dialin' Nicki, like the Prince song I-I-I been on, bitch, you been corn",
+      "valence": 2.78,
+      "arousal": 3.74,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I mean I been Storm, X-Men been formed He keep on dialin' Nicki, like the Prince song I-I-I been on, bitch, you been corn Bentley tints on, Fendi prints on",
+      "valence": 2.83,
+      "arousal": 3.66,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "He keep on dialin' Nicki, like the Prince song I-I-I been on, bitch, you been corn Bentley tints on, Fendi prints on Ayy, yo, I been North, Laura been Croft",
+      "valence": 2.88,
+      "arousal": 3.61,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I-I-I been on, bitch, you been corn Bentley tints on, Fendi prints on Ayy, yo, I been North, Laura been Croft Plates say 'Chun-Li' drop the Benz off",
+      "valence": 2.46,
+      "arousal": 3.81,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Bentley tints on, Fendi prints on Ayy, yo, I been North, Laura been Croft Plates say 'Chun-Li' drop the Benz off Oh, I get it",
+      "valence": 2.97,
+      "arousal": 3.4,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Ayy, yo, I been North, Laura been Croft Plates say 'Chun-Li' drop the Benz off Oh, I get it They paintin' me out to be the bad guy",
+      "valence": 2.67,
+      "arousal": 3.27,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Plates say 'Chun-Li' drop the Benz off Oh, I get it They paintin' me out to be the bad guy Well, it's the last time you're gonna see a bad guy do the rap game like me",
+      "valence": 2.51,
+      "arousal": 3.3,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Oh, I get it They paintin' me out to be the bad guy Well, it's the last time you're gonna see a bad guy do the rap game like me I went and copped the chopsticks",
+      "valence": 2.6,
+      "arousal": 3.32,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "They paintin' me out to be the bad guy Well, it's the last time you're gonna see a bad guy do the rap game like me I went and copped the chopsticks Put it in my bun just to pop shit",
+      "valence": 2.46,
+      "arousal": 3.47,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Well, it's the last time you're gonna see a bad guy do the rap game like me I went and copped the chopsticks Put it in my bun just to pop shit I'm always in the top shit",
+      "valence": 2.85,
+      "arousal": 3.53,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I went and copped the chopsticks Put it in my bun just to pop shit I'm always in the top shit Box seats, bitch, fuck the gossip",
+      "valence": 2.32,
+      "arousal": 3.88,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Put it in my bun just to pop shit I'm always in the top shit Box seats, bitch, fuck the gossip How many of them could've did it with finesse?",
+      "valence": 2.38,
+      "arousal": 3.79,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I'm always in the top shit Box seats, bitch, fuck the gossip How many of them could've did it with finesse? Now everybody like, \"She really is the best\"",
+      "valence": 2.56,
+      "arousal": 3.85,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Box seats, bitch, fuck the gossip How many of them could've did it with finesse? Now everybody like, \"She really is the best\" You play checkers, couldn't beat me playin' chess",
+      "valence": 2.55,
+      "arousal": 3.76,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "How many of them could've did it with finesse? Now everybody like, \"She really is the best\" You play checkers, couldn't beat me playin' chess Now I'm about to turn around and beat my chest",
+      "valence": 2.75,
+      "arousal": 3.48,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Now everybody like, \"She really is the best\" You play checkers, couldn't beat me playin' chess Now I'm about to turn around and beat my chest Bitch it's King Kong, yes, it's King Kong",
+      "valence": 2.62,
+      "arousal": 3.91,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "You play checkers, couldn't beat me playin' chess Now I'm about to turn around and beat my chest Bitch it's King Kong, yes, it's King Kong Bitch it's King Kong, this is Kin' Kong",
+      "valence": 2.3,
+      "arousal": 3.86,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Now I'm about to turn around and beat my chest Bitch it's King Kong, yes, it's King Kong Bitch it's King Kong, this is Kin' Kong Chinese ink on, Siamese links on",
+      "valence": 2.32,
+      "arousal": 3.85,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Bitch it's King Kong, yes, it's King Kong Bitch it's King Kong, this is Kin' Kong Chinese ink on, Siamese links on Call me 2 Chainz, name go ding-dong",
+      "valence": 2.99,
+      "arousal": 3.39,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Bitch it's King Kong, this is Kin' Kong Chinese ink on, Siamese links on Call me 2 Chainz, name go ding-dong Bitch it's King Kong, yes, I'm King Kong",
+      "valence": 2.91,
+      "arousal": 3.42,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Chinese ink on, Siamese links on Call me 2 Chainz, name go ding-dong Bitch it's King Kong, yes, I'm King Kong This is King Kong? Yes, Miss King Kong",
+      "valence": 3.02,
+      "arousal": 3.45,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Call me 2 Chainz, name go ding-dong Bitch it's King Kong, yes, I'm King Kong This is King Kong? Yes, Miss King Kong In my kingdom, with my Timbs on",
+      "valence": 3.13,
+      "arousal": 3.56,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Bitch it's King Kong, yes, I'm King Kong This is King Kong? Yes, Miss King Kong In my kingdom, with my Timbs on (How many championships?) What? Six rings on",
+      "valence": 3.05,
+      "arousal": 3.44,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "This is King Kong? Yes, Miss King Kong In my kingdom, with my Timbs on (How many championships?) What? Six rings on They need rappers like me",
+      "valence": 3.12,
+      "arousal": 3.46,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "In my kingdom, with my Timbs on (How many championships?) What? Six rings on They need rappers like me They need rappers like me",
+      "valence": 2.99,
+      "arousal": 3.49,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "(How many championships?) What? Six rings on They need rappers like me They need rappers like me So they can get on their fuckin' keyboards and make me, the bad guy",
+      "valence": 2.79,
+      "arousal": 3.63,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "They need rappers like me They need rappers like me So they can get on their fuckin' keyboards and make me, the bad guy Chun-Li",
+      "valence": 2.88,
+      "arousal": 3.57,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "They need rappers like me So they can get on their fuckin' keyboards and make me, the bad guy Chun-Li Ayy, yo, I been on, bitch you been corn",
+      "valence": 2.63,
+      "arousal": 3.6,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "So they can get on their fuckin' keyboards and make me, the bad guy Chun-Li Ayy, yo, I been on, bitch you been corn Bentley tints on, Fendi prints on",
+      "valence": 2.3,
+      "arousal": 3.74,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Chun-Li Ayy, yo, I been on, bitch you been corn Bentley tints on, Fendi prints on I mean I been Storm, X-Men been formed",
+      "valence": 2.69,
+      "arousal": 3.7,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Ayy, yo, I been on, bitch you been corn Bentley tints on, Fendi prints on I mean I been Storm, X-Men been formed He keep on dialin' Nicki, like the Prince song",
+      "valence": 2.85,
+      "arousal": 3.68,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Bentley tints on, Fendi prints on I mean I been Storm, X-Men been formed He keep on dialin' Nicki, like the Prince song I-I-I been on, bitch you been corn",
+      "valence": 2.84,
+      "arousal": 3.65,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I mean I been Storm, X-Men been formed He keep on dialin' Nicki, like the Prince song I-I-I been on, bitch you been corn Bentley tints on, Fendi prints on",
+      "valence": 2.94,
+      "arousal": 3.53,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "He keep on dialin' Nicki, like the Prince song I-I-I been on, bitch you been corn Bentley tints on, Fendi prints on Ayy, yo, I been North, Laura been Croft",
+      "valence": 2.85,
+      "arousal": 3.54,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I-I-I been on, bitch you been corn Bentley tints on, Fendi prints on Ayy, yo, I been North, Laura been Croft Plates say 'Chun-Li' drop the Benz off",
+      "valence": 2.56,
+      "arousal": 3.65,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Bentley tints on, Fendi prints on Ayy, yo, I been North, Laura been Croft Plates say 'Chun-Li' drop the Benz off I come alive, I, I'm always sky high",
+      "valence": 3.54,
+      "arousal": 3.83,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Ayy, yo, I been North, Laura been Croft Plates say 'Chun-Li' drop the Benz off I come alive, I, I'm always sky high Designer thigh highs",
+      "valence": 3.48,
+      "arousal": 3.79,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Plates say 'Chun-Li' drop the Benz off I come alive, I, I'm always sky high Designer thigh highs It's my lifestyle",
+      "valence": 3.54,
+      "arousal": 3.74,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "I come alive, I, I'm always sky high Designer thigh highs It's my lifestyle I come alive, I, I'm always sky high",
+      "valence": 3.75,
+      "arousal": 3.81,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Designer thigh highs It's my lifestyle I come alive, I, I'm always sky high Designer thigh highs",
+      "valence": 3.64,
+      "arousal": 3.65,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "It's my lifestyle I come alive, I, I'm always sky high Designer thigh highs It's my lifestyle",
+      "valence": 3.7,
+      "arousal": 3.68,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "I come alive, I, I'm always sky high Designer thigh highs It's my lifestyle I need a Mai Tai, so fuckin' sci-fi",
+      "valence": 3.31,
+      "arousal": 3.97,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Designer thigh highs It's my lifestyle I need a Mai Tai, so fuckin' sci-fi Give me the password, to the fuckin' WiFi",
+      "valence": 2.97,
+      "arousal": 3.69,
+      "dominance": 3.56
+    }
+  ]
+}

@@ -1,0 +1,507 @@
+{
+  "artist": "David Guetta Featuring Nicki Minaj, Bebe Rexha & Afrojack",
+  "overall_vad": {
+    "valence": 3.22,
+    "arousal": 3.65,
+    "dominance": 3.45
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Be my woman, girl, I'mma Be your man Be my woman, girl, I'll Be your man",
+      "valence": 3.72,
+      "arousal": 3.65,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Be your man Be my woman, girl, I'll Be your man Yes I be your woman",
+      "valence": 3.65,
+      "arousal": 3.49,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Be my woman, girl, I'll Be your man Yes I be your woman Yes I be your baby",
+      "valence": 3.76,
+      "arousal": 3.63,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Be your man Yes I be your woman Yes I be your baby Yes I be whatever that you tell me when you ready",
+      "valence": 3.45,
+      "arousal": 3.52,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Yes I be your woman Yes I be your baby Yes I be whatever that you tell me when you ready Yes I be your girl, forever your lady",
+      "valence": 3.65,
+      "arousal": 3.42,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Yes I be your baby Yes I be whatever that you tell me when you ready Yes I be your girl, forever your lady You ain't never gotta worry, I'm down for you baby",
+      "valence": 3.77,
+      "arousal": 3.72,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Yes I be whatever that you tell me when you ready Yes I be your girl, forever your lady You ain't never gotta worry, I'm down for you baby Best believe that when you need that",
+      "valence": 3.56,
+      "arousal": 3.58,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Yes I be your girl, forever your lady You ain't never gotta worry, I'm down for you baby Best believe that when you need that I'll provide that you will always have it",
+      "valence": 3.78,
+      "arousal": 3.61,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "You ain't never gotta worry, I'm down for you baby Best believe that when you need that I'll provide that you will always have it I'll be on deck keep it in check",
+      "valence": 3.44,
+      "arousal": 3.48,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Best believe that when you need that I'll provide that you will always have it I'll be on deck keep it in check When you need that I'mma let you have it",
+      "valence": 3.3,
+      "arousal": 3.19,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I'll provide that you will always have it I'll be on deck keep it in check When you need that I'mma let you have it You beatin' drum like dum di di dey",
+      "valence": 3.15,
+      "arousal": 3.28,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I'll be on deck keep it in check When you need that I'mma let you have it You beatin' drum like dum di di dey I love the dirty rhythm you play",
+      "valence": 3.52,
+      "arousal": 3.71,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "When you need that I'mma let you have it You beatin' drum like dum di di dey I love the dirty rhythm you play I wanna hear you calling my name",
+      "valence": 3.57,
+      "arousal": 3.89,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "You beatin' drum like dum di di dey I love the dirty rhythm you play I wanna hear you calling my name Like hey mama mama hey mama mama (Hey)",
+      "valence": 3.63,
+      "arousal": 3.91,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I love the dirty rhythm you play I wanna hear you calling my name Like hey mama mama hey mama mama (Hey) Banging the drum like dum di di dey",
+      "valence": 3.62,
+      "arousal": 3.93,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I wanna hear you calling my name Like hey mama mama hey mama mama (Hey) Banging the drum like dum di di dey I know you want it in the worst way",
+      "valence": 3.01,
+      "arousal": 3.8,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Like hey mama mama hey mama mama (Hey) Banging the drum like dum di di dey I know you want it in the worst way I wanna hear you calling my name",
+      "valence": 2.85,
+      "arousal": 3.77,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Banging the drum like dum di di dey I know you want it in the worst way I wanna hear you calling my name Like hey mama mama hey mama mama (Hey)",
+      "valence": 2.82,
+      "arousal": 3.8,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I know you want it in the worst way I wanna hear you calling my name Like hey mama mama hey mama mama (Hey) Be my woman, girl, I'mma",
+      "valence": 3.03,
+      "arousal": 4.01,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I wanna hear you calling my name Like hey mama mama hey mama mama (Hey) Be my woman, girl, I'mma Be your man",
+      "valence": 3.48,
+      "arousal": 3.95,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Like hey mama mama hey mama mama (Hey) Be my woman, girl, I'mma Be your man Be my woman, girl, I'll",
+      "valence": 3.54,
+      "arousal": 3.67,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Be my woman, girl, I'mma Be your man Be my woman, girl, I'll Be your man",
+      "valence": 3.72,
+      "arousal": 3.65,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Be your man Be my woman, girl, I'll Be your man Yes I do the cooking",
+      "valence": 3.65,
+      "arousal": 3.48,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Be my woman, girl, I'll Be your man Yes I do the cooking Yes I do the cleaning",
+      "valence": 3.69,
+      "arousal": 3.58,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Be your man Yes I do the cooking Yes I do the cleaning Yes I keep the nana real sweet for your eating",
+      "valence": 3.39,
+      "arousal": 3.2,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Yes I do the cooking Yes I do the cleaning Yes I keep the nana real sweet for your eating Yes you be the boss yes I be respecting",
+      "valence": 3.21,
+      "arousal": 3.32,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Yes I do the cleaning Yes I keep the nana real sweet for your eating Yes you be the boss yes I be respecting Whatever that you tell me 'cause it's game you be spitting",
+      "valence": 3.06,
+      "arousal": 3.41,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Yes I keep the nana real sweet for your eating Yes you be the boss yes I be respecting Whatever that you tell me 'cause it's game you be spitting Best believe that when you need that",
+      "valence": 3.22,
+      "arousal": 3.43,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Yes you be the boss yes I be respecting Whatever that you tell me 'cause it's game you be spitting Best believe that when you need that I'll provide that you will always have it",
+      "valence": 3.21,
+      "arousal": 3.39,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Whatever that you tell me 'cause it's game you be spitting Best believe that when you need that I'll provide that you will always have it I'll be on deck keep it in check",
+      "valence": 3.06,
+      "arousal": 3.31,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Best believe that when you need that I'll provide that you will always have it I'll be on deck keep it in check When you need that I'mma let you have it",
+      "valence": 3.3,
+      "arousal": 3.19,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I'll provide that you will always have it I'll be on deck keep it in check When you need that I'mma let you have it You beatin' my drum like dum di di dey",
+      "valence": 3.15,
+      "arousal": 3.33,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I'll be on deck keep it in check When you need that I'mma let you have it You beatin' my drum like dum di di dey I love the dirty rhythm you play",
+      "valence": 3.55,
+      "arousal": 3.77,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "When you need that I'mma let you have it You beatin' my drum like dum di di dey I love the dirty rhythm you play I wanna hear you calling my name",
+      "valence": 3.57,
+      "arousal": 3.9,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "You beatin' my drum like dum di di dey I love the dirty rhythm you play I wanna hear you calling my name Like hey mama mama hey mama mama (Hey)",
+      "valence": 3.66,
+      "arousal": 3.93,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I love the dirty rhythm you play I wanna hear you calling my name Like hey mama mama hey mama mama (Hey) Banging the drum like dum di di dey",
+      "valence": 3.62,
+      "arousal": 3.93,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I wanna hear you calling my name Like hey mama mama hey mama mama (Hey) Banging the drum like dum di di dey I know you want it in the worst way",
+      "valence": 3.01,
+      "arousal": 3.8,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Like hey mama mama hey mama mama (Hey) Banging the drum like dum di di dey I know you want it in the worst way I wanna hear you calling my name",
+      "valence": 2.85,
+      "arousal": 3.77,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Banging the drum like dum di di dey I know you want it in the worst way I wanna hear you calling my name Like hey mama mama hey mama mama (Hey)",
+      "valence": 2.82,
+      "arousal": 3.8,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "I know you want it in the worst way I wanna hear you calling my name Like hey mama mama hey mama mama (Hey) Be my woman, girl, I'mma",
+      "valence": 3.03,
+      "arousal": 4.01,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I wanna hear you calling my name Like hey mama mama hey mama mama (Hey) Be my woman, girl, I'mma Be your man",
+      "valence": 3.48,
+      "arousal": 3.95,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Like hey mama mama hey mama mama (Hey) Be my woman, girl, I'mma Be your man Be my woman, girl, I'll",
+      "valence": 3.54,
+      "arousal": 3.67,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Be my woman, girl, I'mma Be your man Be my woman, girl, I'll Be your man",
+      "valence": 3.72,
+      "arousal": 3.65,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Be your man Be my woman, girl, I'll Be your man Whole crew got the juice",
+      "valence": 3.63,
+      "arousal": 3.69,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Be my woman, girl, I'll Be your man Whole crew got the juice Your dick game the truth",
+      "valence": 3.46,
+      "arousal": 3.84,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Be your man Whole crew got the juice Your dick game the truth My screams is the proof",
+      "valence": 2.62,
+      "arousal": 3.79,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Whole crew got the juice Your dick game the truth My screams is the proof Them other dudes get the deuce",
+      "valence": 2.4,
+      "arousal": 3.74,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Your dick game the truth My screams is the proof Them other dudes get the deuce I might speed in the coupe",
+      "valence": 2.27,
+      "arousal": 3.78,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "My screams is the proof Them other dudes get the deuce I might speed in the coupe Leaving this interview",
+      "valence": 2.64,
+      "arousal": 3.63,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Them other dudes get the deuce I might speed in the coupe Leaving this interview It ain't nothin' new, I been fuckin' with you",
+      "valence": 2.49,
+      "arousal": 3.55,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I might speed in the coupe Leaving this interview It ain't nothin' new, I been fuckin' with you None of them bitches ain't taking you,",
+      "valence": 2.32,
+      "arousal": 3.59,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Leaving this interview It ain't nothin' new, I been fuckin' with you None of them bitches ain't taking you, Just tell them to make a U (Make a U)",
+      "valence": 2.41,
+      "arousal": 3.49,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "It ain't nothin' new, I been fuckin' with you None of them bitches ain't taking you, Just tell them to make a U (Make a U) Huh, that how it be, I come first like debuts, huh",
+      "valence": 2.54,
+      "arousal": 3.45,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "None of them bitches ain't taking you, Just tell them to make a U (Make a U) Huh, that how it be, I come first like debuts, huh So baby when you need that, give me that word",
+      "valence": 2.76,
+      "arousal": 3.42,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Just tell them to make a U (Make a U) Huh, that how it be, I come first like debuts, huh So baby when you need that, give me that word I'm no good, I'll be bad for my baby",
+      "valence": 2.63,
+      "arousal": 3.33,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Huh, that how it be, I come first like debuts, huh So baby when you need that, give me that word I'm no good, I'll be bad for my baby So I make sure that he's getting his share",
+      "valence": 2.82,
+      "arousal": 3.35,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "So baby when you need that, give me that word I'm no good, I'll be bad for my baby So I make sure that he's getting his share So I make sure that his baby take care",
+      "valence": 2.69,
+      "arousal": 3.42,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "I'm no good, I'll be bad for my baby So I make sure that he's getting his share So I make sure that his baby take care So I make sure mama, toes on my knees",
+      "valence": 2.74,
+      "arousal": 3.29,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "So I make sure that he's getting his share So I make sure that his baby take care So I make sure mama, toes on my knees Keep him, please, rub him down, be a lady and a freak",
+      "valence": 2.95,
+      "arousal": 3.51,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "So I make sure that his baby take care So I make sure mama, toes on my knees Keep him, please, rub him down, be a lady and a freak You beatin' my drum like dum di di dey",
+      "valence": 2.87,
+      "arousal": 3.55,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "So I make sure mama, toes on my knees Keep him, please, rub him down, be a lady and a freak You beatin' my drum like dum di di dey I love the dirty rhythm you play",
+      "valence": 3.28,
+      "arousal": 3.73,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Keep him, please, rub him down, be a lady and a freak You beatin' my drum like dum di di dey I love the dirty rhythm you play I wanna hear you calling my name",
+      "valence": 3.24,
+      "arousal": 3.93,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "You beatin' my drum like dum di di dey I love the dirty rhythm you play I wanna hear you calling my name Like hey mama mama hey mama mama (Hey)",
+      "valence": 3.66,
+      "arousal": 3.93,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "I love the dirty rhythm you play I wanna hear you calling my name Like hey mama mama hey mama mama (Hey) Banging the drum like dum di di dey",
+      "valence": 3.62,
+      "arousal": 3.93,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "I wanna hear you calling my name Like hey mama mama hey mama mama (Hey) Banging the drum like dum di di dey I know you want it in the worst way",
+      "valence": 3.01,
+      "arousal": 3.8,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Like hey mama mama hey mama mama (Hey) Banging the drum like dum di di dey I know you want it in the worst way I wanna hear you calling my name",
+      "valence": 2.85,
+      "arousal": 3.77,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Banging the drum like dum di di dey I know you want it in the worst way I wanna hear you calling my name Like hey mama mama mama hey mama mama (Hey)",
+      "valence": 2.8,
+      "arousal": 3.81,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "I know you want it in the worst way I wanna hear you calling my name Like hey mama mama mama hey mama mama (Hey) Be my woman, girl, I'mma",
+      "valence": 3.03,
+      "arousal": 4.01,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "I wanna hear you calling my name Like hey mama mama mama hey mama mama (Hey) Be my woman, girl, I'mma Be your man",
+      "valence": 3.47,
+      "arousal": 3.93,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Like hey mama mama mama hey mama mama (Hey) Be my woman, girl, I'mma Be your man Be my woman, girl, I'll",
+      "valence": 3.54,
+      "arousal": 3.67,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Be my woman, girl, I'mma Be your man Be my woman, girl, I'll Be your man",
+      "valence": 3.72,
+      "arousal": 3.65,
+      "dominance": 3.66
+    }
+  ]
+}

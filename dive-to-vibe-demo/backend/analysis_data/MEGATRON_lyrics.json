@@ -1,0 +1,591 @@
+{
+  "artist": "Nicki Minaj",
+  "overall_vad": {
+    "valence": 2.9,
+    "arousal": 3.36,
+    "dominance": 3.32
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Brra, ta, ta, tat Brra, ta, ta, tat They call me Megatron Just did a telethon",
+      "valence": 2.93,
+      "arousal": 3.36,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Brra, ta, ta, tat They call me Megatron Just did a telethon He got Margiela's on, and I get my jealous on",
+      "valence": 2.85,
+      "arousal": 3.47,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "They call me Megatron Just did a telethon He got Margiela's on, and I get my jealous on I fuck him like I miss him",
+      "valence": 2.59,
+      "arousal": 3.83,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Just did a telethon He got Margiela's on, and I get my jealous on I fuck him like I miss him He-he just came out of prison",
+      "valence": 2.46,
+      "arousal": 4.02,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "He got Margiela's on, and I get my jealous on I fuck him like I miss him He-he just came out of prison Bitches-bitches be talkin' shit, but they ain't got a pot to piss in",
+      "valence": 2.29,
+      "arousal": 3.83,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I fuck him like I miss him He-he just came out of prison Bitches-bitches be talkin' shit, but they ain't got a pot to piss in My-my name is Nicki M",
+      "valence": 2.18,
+      "arousal": 3.72,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "He-he just came out of prison Bitches-bitches be talkin' shit, but they ain't got a pot to piss in My-my name is Nicki M I'm in a sticky Benz",
+      "valence": 2.42,
+      "arousal": 3.57,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Bitches-bitches be talkin' shit, but they ain't got a pot to piss in My-my name is Nicki M I'm in a sticky Benz That-that mean it's candy apple red, I'm Barbie, this is Ken",
+      "valence": 2.51,
+      "arousal": 3.51,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "My-my name is Nicki M I'm in a sticky Benz That-that mean it's candy apple red, I'm Barbie, this is Ken That is a Fendi fact",
+      "valence": 3.12,
+      "arousal": 3.11,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I'm in a sticky Benz That-that mean it's candy apple red, I'm Barbie, this is Ken That is a Fendi fact I'm with a hundred Macs",
+      "valence": 3.06,
+      "arousal": 3.25,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "That-that mean it's candy apple red, I'm Barbie, this is Ken That is a Fendi fact I'm with a hundred Macs Oh, this is custom made, Donatella sent me that",
+      "valence": 3.23,
+      "arousal": 3.28,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "That is a Fendi fact I'm with a hundred Macs Oh, this is custom made, Donatella sent me that Feel up, baby, feel on me",
+      "valence": 3.28,
+      "arousal": 3.45,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I'm with a hundred Macs Oh, this is custom made, Donatella sent me that Feel up, baby, feel on me Pull up if you're feeling lonely",
+      "valence": 3.32,
+      "arousal": 3.38,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Oh, this is custom made, Donatella sent me that Feel up, baby, feel on me Pull up if you're feeling lonely Feel up, baby, feel on me",
+      "valence": 3.43,
+      "arousal": 3.41,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Feel up, baby, feel on me Pull up if you're feeling lonely Feel up, baby, feel on me Pull up if you're feeling lonely",
+      "valence": 3.26,
+      "arousal": 3.27,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Pull up if you're feeling lonely Feel up, baby, feel on me Pull up if you're feeling lonely Brra, ta, ta, tat",
+      "valence": 3.09,
+      "arousal": 3.3,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Feel up, baby, feel on me Pull up if you're feeling lonely Brra, ta, ta, tat Shots, shots, shots, I'm drinkin'",
+      "valence": 3.17,
+      "arousal": 3.37,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Pull up if you're feeling lonely Brra, ta, ta, tat Shots, shots, shots, I'm drinkin' It's better when I'm drinkin'",
+      "valence": 2.88,
+      "arousal": 3.15,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Brra, ta, ta, tat Shots, shots, shots, I'm drinkin' It's better when I'm drinkin' I tune up when I'm drinkin'",
+      "valence": 2.91,
+      "arousal": 3.05,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Shots, shots, shots, I'm drinkin' It's better when I'm drinkin' I tune up when I'm drinkin' Rum, rum when I'm",
+      "valence": 2.97,
+      "arousal": 2.93,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "It's better when I'm drinkin' I tune up when I'm drinkin' Rum, rum when I'm Brra, ta, ta, tat",
+      "valence": 2.87,
+      "arousal": 3.04,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I tune up when I'm drinkin' Rum, rum when I'm Brra, ta, ta, tat Shots, shots, shots, I'm drinkin'",
+      "valence": 2.8,
+      "arousal": 3.04,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Rum, rum when I'm Brra, ta, ta, tat Shots, shots, shots, I'm drinkin' It's better when I'm drinkin'",
+      "valence": 3.06,
+      "arousal": 3.07,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Brra, ta, ta, tat Shots, shots, shots, I'm drinkin' It's better when I'm drinkin' I tune up when I'm drinkin'",
+      "valence": 2.91,
+      "arousal": 3.05,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Shots, shots, shots, I'm drinkin' It's better when I'm drinkin' I tune up when I'm drinkin' Rum, rum when I'm",
+      "valence": 2.97,
+      "arousal": 2.93,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "It's better when I'm drinkin' I tune up when I'm drinkin' Rum, rum when I'm Brra, ta, ta, tat",
+      "valence": 2.87,
+      "arousal": 3.04,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I tune up when I'm drinkin' Rum, rum when I'm Brra, ta, ta, tat Brra, ta, ta, tat",
+      "valence": 2.75,
+      "arousal": 3.07,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Rum, rum when I'm Brra, ta, ta, tat Brra, ta, ta, tat Brra, ta, ta, tat",
+      "valence": 2.99,
+      "arousal": 3.19,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Brra, ta, ta, tat Brra, ta, ta, tat Brra, ta, ta, tat They call me (Megatron)",
+      "valence": 2.99,
+      "arousal": 3.33,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Brra, ta, ta, tat Brra, ta, ta, tat They call me (Megatron) Shorty's a mega con",
+      "valence": 2.86,
+      "arousal": 3.35,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Brra, ta, ta, tat They call me (Megatron) Shorty's a mega con It ain't about the race either, it's a marathon",
+      "valence": 2.95,
+      "arousal": 3.37,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "They call me (Megatron) Shorty's a mega con It ain't about the race either, it's a marathon I put the squeeze on him",
+      "valence": 2.87,
+      "arousal": 3.47,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Shorty's a mega con It ain't about the race either, it's a marathon I put the squeeze on him Throw up the B's on him",
+      "valence": 2.82,
+      "arousal": 3.62,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "It ain't about the race either, it's a marathon I put the squeeze on him Throw up the B's on him That ass clappin' on the D, Hercules on him (brrt)",
+      "valence": 2.81,
+      "arousal": 3.72,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I put the squeeze on him Throw up the B's on him That ass clappin' on the D, Hercules on him (brrt) My name is Baddie, Baddie",
+      "valence": 2.9,
+      "arousal": 3.65,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Throw up the B's on him That ass clappin' on the D, Hercules on him (brrt) My name is Baddie, Baddie I keep it tight for zaddy",
+      "valence": 2.95,
+      "arousal": 3.61,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "That ass clappin' on the D, Hercules on him (brrt) My name is Baddie, Baddie I keep it tight for zaddy He keep it comin', comin', he ain't he even drop the addy",
+      "valence": 2.92,
+      "arousal": 3.53,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "My name is Baddie, Baddie I keep it tight for zaddy He keep it comin', comin', he ain't he even drop the addy Trunk in the front-front",
+      "valence": 3.12,
+      "arousal": 3.22,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I keep it tight for zaddy He keep it comin', comin', he ain't he even drop the addy Trunk in the front-front I need a blunt-blunt",
+      "valence": 2.75,
+      "arousal": 3.35,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "He keep it comin', comin', he ain't he even drop the addy Trunk in the front-front I need a blunt-blunt I own my own Moscato, bitch, we gettin drunk-drunk",
+      "valence": 2.38,
+      "arousal": 3.67,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Trunk in the front-front I need a blunt-blunt I own my own Moscato, bitch, we gettin drunk-drunk Feel up, baby, feel on me",
+      "valence": 2.3,
+      "arousal": 3.64,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "I need a blunt-blunt I own my own Moscato, bitch, we gettin drunk-drunk Feel up, baby, feel on me Pull up if you're feeling lonely",
+      "valence": 2.45,
+      "arousal": 3.71,
+      "dominance": 3.74
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I own my own Moscato, bitch, we gettin drunk-drunk Feel up, baby, feel on me Pull up if you're feeling lonely Feel up, baby, feel on me",
+      "valence": 2.69,
+      "arousal": 3.71,
+      "dominance": 3.74
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Feel up, baby, feel on me Pull up if you're feeling lonely Feel up, baby, feel on me Pull up if you're feeling lonely",
+      "valence": 3.26,
+      "arousal": 3.27,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Pull up if you're feeling lonely Feel up, baby, feel on me Pull up if you're feeling lonely Brra, ta, ta, tat",
+      "valence": 3.09,
+      "arousal": 3.3,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Feel up, baby, feel on me Pull up if you're feeling lonely Brra, ta, ta, tat Shots, shots, shots, I'm drinkin'",
+      "valence": 3.17,
+      "arousal": 3.37,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Pull up if you're feeling lonely Brra, ta, ta, tat Shots, shots, shots, I'm drinkin' It's better when I'm drinkin'",
+      "valence": 2.88,
+      "arousal": 3.15,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Brra, ta, ta, tat Shots, shots, shots, I'm drinkin' It's better when I'm drinkin' I tune up when I'm drinkin'",
+      "valence": 2.91,
+      "arousal": 3.05,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Shots, shots, shots, I'm drinkin' It's better when I'm drinkin' I tune up when I'm drinkin' Rum, rum when I'm",
+      "valence": 2.97,
+      "arousal": 2.93,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "It's better when I'm drinkin' I tune up when I'm drinkin' Rum, rum when I'm Brra, ta, ta, tat",
+      "valence": 2.87,
+      "arousal": 3.04,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I tune up when I'm drinkin' Rum, rum when I'm Brra, ta, ta, tat Shots, shots, shots, I'm drinkin'",
+      "valence": 2.8,
+      "arousal": 3.04,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Rum, rum when I'm Brra, ta, ta, tat Shots, shots, shots, I'm drinkin' It's better when I'm drinkin'",
+      "valence": 3.06,
+      "arousal": 3.07,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Brra, ta, ta, tat Shots, shots, shots, I'm drinkin' It's better when I'm drinkin' I tune up when I'm drinkin'",
+      "valence": 2.91,
+      "arousal": 3.05,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Shots, shots, shots, I'm drinkin' It's better when I'm drinkin' I tune up when I'm drinkin' Rum, rum when I'm",
+      "valence": 2.97,
+      "arousal": 2.93,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "It's better when I'm drinkin' I tune up when I'm drinkin' Rum, rum when I'm Brra, ta, ta, tat",
+      "valence": 2.87,
+      "arousal": 3.04,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "I tune up when I'm drinkin' Rum, rum when I'm Brra, ta, ta, tat Brra, ta, ta, tat",
+      "valence": 2.75,
+      "arousal": 3.07,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Rum, rum when I'm Brra, ta, ta, tat Brra, ta, ta, tat Brra, ta, ta, tat",
+      "valence": 2.99,
+      "arousal": 3.19,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Brra, ta, ta, tat Brra, ta, ta, tat Brra, ta, ta, tat Bite me, bite me",
+      "valence": 2.35,
+      "arousal": 3.61,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Brra, ta, ta, tat Brra, ta, ta, tat Bite me, bite me That excite me",
+      "valence": 2.56,
+      "arousal": 3.77,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Brra, ta, ta, tat Bite me, bite me That excite me He said it's my pussy (yup, it might be)",
+      "valence": 2.79,
+      "arousal": 3.82,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Bite me, bite me That excite me He said it's my pussy (yup, it might be) If you eatin' it",
+      "valence": 2.9,
+      "arousal": 3.82,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "That excite me He said it's my pussy (yup, it might be) If you eatin' it Do it precisely",
+      "valence": 3.01,
+      "arousal": 3.62,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "He said it's my pussy (yup, it might be) If you eatin' it Do it precisely 'Cause I'm a millionaire, this pussy pricey",
+      "valence": 2.8,
+      "arousal": 3.61,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "If you eatin' it Do it precisely 'Cause I'm a millionaire, this pussy pricey (Yup, it might be, yup, it might be)",
+      "valence": 2.93,
+      "arousal": 3.63,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Do it precisely 'Cause I'm a millionaire, this pussy pricey (Yup, it might be, yup, it might be) He said it's my pussy (yup, it might be)",
+      "valence": 2.87,
+      "arousal": 3.59,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "'Cause I'm a millionaire, this pussy pricey (Yup, it might be, yup, it might be) He said it's my pussy (yup, it might be) My-my pussy, my-my pussy (yup, it might be)",
+      "valence": 3.03,
+      "arousal": 3.59,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "(Yup, it might be, yup, it might be) He said it's my pussy (yup, it might be) My-my pussy, my-my pussy (yup, it might be) 'Cause I'm a millionaire, this pussy pricey (pussy pricey)",
+      "valence": 3.18,
+      "arousal": 3.5,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "He said it's my pussy (yup, it might be) My-my pussy, my-my pussy (yup, it might be) 'Cause I'm a millionaire, this pussy pricey (pussy pricey) Feel up, baby, feel on me",
+      "valence": 3.28,
+      "arousal": 3.65,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "My-my pussy, my-my pussy (yup, it might be) 'Cause I'm a millionaire, this pussy pricey (pussy pricey) Feel up, baby, feel on me Pull up if you're feeling lonely",
+      "valence": 3.36,
+      "arousal": 3.69,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "'Cause I'm a millionaire, this pussy pricey (pussy pricey) Feel up, baby, feel on me Pull up if you're feeling lonely Feel up, baby, feel on me",
+      "valence": 3.17,
+      "arousal": 3.64,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Feel up, baby, feel on me Pull up if you're feeling lonely Feel up, baby, feel on me Pull up if you're feeling lonely",
+      "valence": 3.26,
+      "arousal": 3.27,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Pull up if you're feeling lonely Feel up, baby, feel on me Pull up if you're feeling lonely Brra, ta, ta, tat",
+      "valence": 3.09,
+      "arousal": 3.3,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Feel up, baby, feel on me Pull up if you're feeling lonely Brra, ta, ta, tat Shots, shots, shots, I'm drinkin'",
+      "valence": 3.17,
+      "arousal": 3.37,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Pull up if you're feeling lonely Brra, ta, ta, tat Shots, shots, shots, I'm drinkin' It's better when I'm drinkin'",
+      "valence": 2.88,
+      "arousal": 3.15,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Brra, ta, ta, tat Shots, shots, shots, I'm drinkin' It's better when I'm drinkin' I tune up when I'm drinkin'",
+      "valence": 2.91,
+      "arousal": 3.05,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "Shots, shots, shots, I'm drinkin' It's better when I'm drinkin' I tune up when I'm drinkin' Rum, rum when I'm",
+      "valence": 2.97,
+      "arousal": 2.93,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "It's better when I'm drinkin' I tune up when I'm drinkin' Rum, rum when I'm Brra, ta, ta, tat",
+      "valence": 2.87,
+      "arousal": 3.04,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "I tune up when I'm drinkin' Rum, rum when I'm Brra, ta, ta, tat Shots, shots, shots, I'm",
+      "valence": 2.82,
+      "arousal": 3.04,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "Rum, rum when I'm Brra, ta, ta, tat Shots, shots, shots, I'm Brra, ta, ta, tat",
+      "valence": 2.87,
+      "arousal": 3.23,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "Brra, ta, ta, tat Shots, shots, shots, I'm Brra, ta, ta, tat Shots, shots, shots, I'm",
+      "valence": 2.62,
+      "arousal": 3.45,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "Shots, shots, shots, I'm Brra, ta, ta, tat Shots, shots, shots, I'm Brra, ta, ta, tat",
+      "valence": 2.58,
+      "arousal": 3.46,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "Brra, ta, ta, tat Shots, shots, shots, I'm Brra, ta, ta, tat Shots, shots, shots, I'm drinkin'",
+      "valence": 2.69,
+      "arousal": 3.32,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "Shots, shots, shots, I'm Brra, ta, ta, tat Shots, shots, shots, I'm drinkin' Rum, rum when I'm (when I'm)",
+      "valence": 2.99,
+      "arousal": 3.25,
+      "dominance": 3.23
+    }
+  ]
+}

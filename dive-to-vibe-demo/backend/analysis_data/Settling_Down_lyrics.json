@@ -1,0 +1,262 @@
+{
+  "artist": "Miranda Lambert",
+  "overall_vad": {
+    "valence": 3.14,
+    "arousal": 3.35,
+    "dominance": 2.94
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Should I give up sunsets for marigold mornings? Should I look for rainbows or wait for the rain? Is happiness on the highway or it is parked in the driveway? Should I lean on you, babe, or should you lean on me?",
+      "valence": 3.02,
+      "arousal": 3.31,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Should I look for rainbows or wait for the rain? Is happiness on the highway or it is parked in the driveway? Should I lean on you, babe, or should you lean on me? Am I looking for comfort?",
+      "valence": 3.07,
+      "arousal": 3.29,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Is happiness on the highway or it is parked in the driveway? Should I lean on you, babe, or should you lean on me? Am I looking for comfort? Am I looking for an escape?",
+      "valence": 3.0,
+      "arousal": 3.32,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Should I lean on you, babe, or should you lean on me? Am I looking for comfort? Am I looking for an escape? Am I looking for you?",
+      "valence": 2.91,
+      "arousal": 3.39,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Am I looking for comfort? Am I looking for an escape? Am I looking for you? Am I looking the other way?",
+      "valence": 2.9,
+      "arousal": 3.19,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Am I looking for an escape? Am I looking for you? Am I looking the other way? I'm a wild child and a homing pigeon",
+      "valence": 2.92,
+      "arousal": 3.34,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Am I looking for you? Am I looking the other way? I'm a wild child and a homing pigeon Caravan and an empty kitchen",
+      "valence": 2.85,
+      "arousal": 3.38,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Am I looking the other way? I'm a wild child and a homing pigeon Caravan and an empty kitchen Bare feet on the tile with my head up in the clouds",
+      "valence": 2.81,
+      "arousal": 3.18,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I'm a wild child and a homing pigeon Caravan and an empty kitchen Bare feet on the tile with my head up in the clouds One heart goin' both directions",
+      "valence": 2.92,
+      "arousal": 3.32,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Caravan and an empty kitchen Bare feet on the tile with my head up in the clouds One heart goin' both directions One love and a couple of questions",
+      "valence": 3.5,
+      "arousal": 3.51,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Bare feet on the tile with my head up in the clouds One heart goin' both directions One love and a couple of questions Am I settlin' up or settlin' down?",
+      "valence": 3.52,
+      "arousal": 3.54,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "One heart goin' both directions One love and a couple of questions Am I settlin' up or settlin' down? Am I settlin' up or settlin' down?",
+      "valence": 3.31,
+      "arousal": 3.4,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "One love and a couple of questions Am I settlin' up or settlin' down? Am I settlin' up or settlin' down? I could plant a pretty garden, just send myself flowers",
+      "valence": 3.33,
+      "arousal": 3.31,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Am I settlin' up or settlin' down? Am I settlin' up or settlin' down? I could plant a pretty garden, just send myself flowers Be a jet-set Friday or a Sunday hometown girl",
+      "valence": 3.33,
+      "arousal": 3.19,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Am I settlin' up or settlin' down? I could plant a pretty garden, just send myself flowers Be a jet-set Friday or a Sunday hometown girl I could stay a little lonely or let you get to know me",
+      "valence": 3.17,
+      "arousal": 3.12,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I could plant a pretty garden, just send myself flowers Be a jet-set Friday or a Sunday hometown girl I could stay a little lonely or let you get to know me Yeah, I could love a picket fence if it wrapped around the world",
+      "valence": 3.57,
+      "arousal": 3.3,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Be a jet-set Friday or a Sunday hometown girl I could stay a little lonely or let you get to know me Yeah, I could love a picket fence if it wrapped around the world I'm a wild child and a homing pigeon",
+      "valence": 3.28,
+      "arousal": 3.29,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I could stay a little lonely or let you get to know me Yeah, I could love a picket fence if it wrapped around the world I'm a wild child and a homing pigeon Caravan and an empty kitchen",
+      "valence": 3.1,
+      "arousal": 3.24,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Yeah, I could love a picket fence if it wrapped around the world I'm a wild child and a homing pigeon Caravan and an empty kitchen Bare feet on the tile with my head up in the clouds",
+      "valence": 3.24,
+      "arousal": 3.4,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I'm a wild child and a homing pigeon Caravan and an empty kitchen Bare feet on the tile with my head up in the clouds One heart goin' both directions",
+      "valence": 2.92,
+      "arousal": 3.32,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Caravan and an empty kitchen Bare feet on the tile with my head up in the clouds One heart goin' both directions One love and a couple of questions",
+      "valence": 3.5,
+      "arousal": 3.51,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Bare feet on the tile with my head up in the clouds One heart goin' both directions One love and a couple of questions Am I settlin' up or settlin' down?",
+      "valence": 3.52,
+      "arousal": 3.54,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "One heart goin' both directions One love and a couple of questions Am I settlin' up or settlin' down? Ooh-ooh-ooh",
+      "valence": 3.44,
+      "arousal": 3.59,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "One love and a couple of questions Am I settlin' up or settlin' down? Ooh-ooh-ooh Am I looking for comfort?",
+      "valence": 3.12,
+      "arousal": 3.32,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Am I settlin' up or settlin' down? Ooh-ooh-ooh Am I looking for comfort? Am I looking for an escape?",
+      "valence": 2.88,
+      "arousal": 3.25,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Ooh-ooh-ooh Am I looking for comfort? Am I looking for an escape? Am I looking for you?",
+      "valence": 3.02,
+      "arousal": 3.34,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Am I looking for comfort? Am I looking for an escape? Am I looking for you? Am I looking the other way?",
+      "valence": 2.9,
+      "arousal": 3.19,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Am I looking for an escape? Am I looking for you? Am I looking the other way? I'm a wild child and a homing pigeon",
+      "valence": 2.92,
+      "arousal": 3.34,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Am I looking for you? Am I looking the other way? I'm a wild child and a homing pigeon Caravan and an empty kitchen",
+      "valence": 2.85,
+      "arousal": 3.38,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Am I looking the other way? I'm a wild child and a homing pigeon Caravan and an empty kitchen Bare feet on the tile with my head up in the clouds",
+      "valence": 2.81,
+      "arousal": 3.18,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I'm a wild child and a homing pigeon Caravan and an empty kitchen Bare feet on the tile with my head up in the clouds One heart goin' both directions",
+      "valence": 2.92,
+      "arousal": 3.32,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Caravan and an empty kitchen Bare feet on the tile with my head up in the clouds One heart goin' both directions One love and a couple of questions",
+      "valence": 3.5,
+      "arousal": 3.51,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Bare feet on the tile with my head up in the clouds One heart goin' both directions One love and a couple of questions Am I settlin' up or settlin' down?",
+      "valence": 3.52,
+      "arousal": 3.54,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "One heart goin' both directions One love and a couple of questions Am I settlin' up or settlin' down? Am I settlin' up or settlin' down?",
+      "valence": 3.31,
+      "arousal": 3.4,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "One love and a couple of questions Am I settlin' up or settlin' down? Am I settlin' up or settlin' down? Ooh-ooh-ooh",
+      "valence": 3.23,
+      "arousal": 3.47,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Am I settlin' up or settlin' down? Am I settlin' up or settlin' down? Ooh-ooh-ooh Ooh-ooh-ooh",
+      "valence": 2.96,
+      "arousal": 3.39,
+      "dominance": 2.87
+    }
+  ]
+}

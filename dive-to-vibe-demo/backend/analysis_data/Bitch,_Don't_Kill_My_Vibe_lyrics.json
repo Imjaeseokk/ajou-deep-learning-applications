@@ -1,0 +1,675 @@
+{
+  "artist": "Kendrick Lamar",
+  "overall_vad": {
+    "valence": 2.59,
+    "arousal": 3.63,
+    "dominance": 3.34
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I am a sinner Who's probably gonna sin again Lord forgive me Lord forgive me",
+      "valence": 2.04,
+      "arousal": 3.21,
+      "dominance": 2.66
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Who's probably gonna sin again Lord forgive me Lord forgive me Things I don't understand",
+      "valence": 2.33,
+      "arousal": 3.32,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Lord forgive me Lord forgive me Things I don't understand Sometimes I need to be alone",
+      "valence": 2.41,
+      "arousal": 3.33,
+      "dominance": 2.68
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Lord forgive me Things I don't understand Sometimes I need to be alone Bitch don't kill my vibe",
+      "valence": 2.25,
+      "arousal": 3.48,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Things I don't understand Sometimes I need to be alone Bitch don't kill my vibe Bitch don't kill my vibe",
+      "valence": 2.23,
+      "arousal": 3.59,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Sometimes I need to be alone Bitch don't kill my vibe Bitch don't kill my vibe I can feel your energy from two planets away",
+      "valence": 2.31,
+      "arousal": 3.88,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Bitch don't kill my vibe Bitch don't kill my vibe I can feel your energy from two planets away I got my drink I got my music I would share it but today I'm yelling",
+      "valence": 2.45,
+      "arousal": 4.07,
+      "dominance": 3.84
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Bitch don't kill my vibe I can feel your energy from two planets away I got my drink I got my music I would share it but today I'm yelling Bitch don't kill my vibe",
+      "valence": 2.61,
+      "arousal": 4.01,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I can feel your energy from two planets away I got my drink I got my music I would share it but today I'm yelling Bitch don't kill my vibe Bitch don't kill my vibe",
+      "valence": 2.97,
+      "arousal": 3.98,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I got my drink I got my music I would share it but today I'm yelling Bitch don't kill my vibe Bitch don't kill my vibe Bitch don't kill my vibe",
+      "valence": 2.4,
+      "arousal": 4.01,
+      "dominance": 3.8
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Bitch don't kill my vibe Bitch don't kill my vibe Bitch don't kill my vibe Bitch don't kill my vibe",
+      "valence": 2.06,
+      "arousal": 3.86,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Bitch don't kill my vibe Bitch don't kill my vibe Bitch don't kill my vibe Look inside of my soul and you can find gold and maybe get rich",
+      "valence": 2.35,
+      "arousal": 3.9,
+      "dominance": 3.75
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Bitch don't kill my vibe Bitch don't kill my vibe Look inside of my soul and you can find gold and maybe get rich Look inside of your soul and you can find out it never exist",
+      "valence": 2.28,
+      "arousal": 3.86,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Bitch don't kill my vibe Look inside of my soul and you can find gold and maybe get rich Look inside of your soul and you can find out it never exist I can feel the changes",
+      "valence": 2.65,
+      "arousal": 3.64,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Look inside of my soul and you can find gold and maybe get rich Look inside of your soul and you can find out it never exist I can feel the changes I can feel a new life",
+      "valence": 3.38,
+      "arousal": 3.3,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Look inside of your soul and you can find out it never exist I can feel the changes I can feel a new life I always knew life can be dangerous",
+      "valence": 3.05,
+      "arousal": 3.35,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I can feel the changes I can feel a new life I always knew life can be dangerous I can say that I like a challenge and you tell me it's painless",
+      "valence": 3.57,
+      "arousal": 3.46,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I can feel a new life I always knew life can be dangerous I can say that I like a challenge and you tell me it's painless You don't know what pain is",
+      "valence": 3.31,
+      "arousal": 3.43,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I always knew life can be dangerous I can say that I like a challenge and you tell me it's painless You don't know what pain is How can I paint this picture",
+      "valence": 2.85,
+      "arousal": 3.41,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I can say that I like a challenge and you tell me it's painless You don't know what pain is How can I paint this picture When the color blind is hanging with ya?",
+      "valence": 3.09,
+      "arousal": 3.43,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "You don't know what pain is How can I paint this picture When the color blind is hanging with ya? Fell on my face and I woke with a scar",
+      "valence": 2.27,
+      "arousal": 3.46,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "How can I paint this picture When the color blind is hanging with ya? Fell on my face and I woke with a scar Another mistake living deep in my heart",
+      "valence": 2.34,
+      "arousal": 3.41,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "When the color blind is hanging with ya? Fell on my face and I woke with a scar Another mistake living deep in my heart Wear it on top of my sleeve in a flick",
+      "valence": 2.57,
+      "arousal": 3.29,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Fell on my face and I woke with a scar Another mistake living deep in my heart Wear it on top of my sleeve in a flick I can admit that it did look like yours",
+      "valence": 2.5,
+      "arousal": 3.31,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Another mistake living deep in my heart Wear it on top of my sleeve in a flick I can admit that it did look like yours Why you resent every making of this?",
+      "valence": 2.54,
+      "arousal": 3.25,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Wear it on top of my sleeve in a flick I can admit that it did look like yours Why you resent every making of this? Tell me your purpose is petty again",
+      "valence": 2.61,
+      "arousal": 3.38,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I can admit that it did look like yours Why you resent every making of this? Tell me your purpose is petty again But even a small lighter can burn a bridge",
+      "valence": 2.61,
+      "arousal": 3.36,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Why you resent every making of this? Tell me your purpose is petty again But even a small lighter can burn a bridge Even a small lighter can burn a bridge",
+      "valence": 2.52,
+      "arousal": 3.54,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Tell me your purpose is petty again But even a small lighter can burn a bridge Even a small lighter can burn a bridge I can feel the changes",
+      "valence": 2.74,
+      "arousal": 3.35,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "But even a small lighter can burn a bridge Even a small lighter can burn a bridge I can feel the changes I can feel the new people 'round me just want to be famous",
+      "valence": 3.16,
+      "arousal": 3.44,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Even a small lighter can burn a bridge I can feel the changes I can feel the new people 'round me just want to be famous You can see that my city found me put me on stages",
+      "valence": 3.47,
+      "arousal": 3.47,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I can feel the changes I can feel the new people 'round me just want to be famous You can see that my city found me put me on stages To me that's amazing",
+      "valence": 3.79,
+      "arousal": 3.64,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I can feel the new people 'round me just want to be famous You can see that my city found me put me on stages To me that's amazing To you that's a quick check, with all disrespect let me say this",
+      "valence": 3.56,
+      "arousal": 3.66,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "You can see that my city found me put me on stages To me that's amazing To you that's a quick check, with all disrespect let me say this I am a sinner",
+      "valence": 3.09,
+      "arousal": 3.62,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "To me that's amazing To you that's a quick check, with all disrespect let me say this I am a sinner Who's probably gonna sin again",
+      "valence": 3.18,
+      "arousal": 3.67,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "To you that's a quick check, with all disrespect let me say this I am a sinner Who's probably gonna sin again Lord forgive me",
+      "valence": 2.12,
+      "arousal": 3.3,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I am a sinner Who's probably gonna sin again Lord forgive me Lord forgive me",
+      "valence": 2.04,
+      "arousal": 3.21,
+      "dominance": 2.66
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Who's probably gonna sin again Lord forgive me Lord forgive me Things I don't understand",
+      "valence": 2.33,
+      "arousal": 3.32,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Lord forgive me Lord forgive me Things I don't understand Sometimes I need to be alone",
+      "valence": 2.41,
+      "arousal": 3.33,
+      "dominance": 2.68
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Lord forgive me Things I don't understand Sometimes I need to be alone Bitch don't kill my vibe",
+      "valence": 2.25,
+      "arousal": 3.48,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Things I don't understand Sometimes I need to be alone Bitch don't kill my vibe Bitch don't kill my vibe",
+      "valence": 2.23,
+      "arousal": 3.59,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Sometimes I need to be alone Bitch don't kill my vibe Bitch don't kill my vibe I can feel your energy from two planets away",
+      "valence": 2.31,
+      "arousal": 3.88,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Bitch don't kill my vibe Bitch don't kill my vibe I can feel your energy from two planets away I got my drink I got my music I would share it but today I'm yelling",
+      "valence": 2.45,
+      "arousal": 4.07,
+      "dominance": 3.84
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Bitch don't kill my vibe I can feel your energy from two planets away I got my drink I got my music I would share it but today I'm yelling Bitch don't kill my vibe",
+      "valence": 2.61,
+      "arousal": 4.01,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I can feel your energy from two planets away I got my drink I got my music I would share it but today I'm yelling Bitch don't kill my vibe Bitch don't kill my vibe",
+      "valence": 2.97,
+      "arousal": 3.98,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I got my drink I got my music I would share it but today I'm yelling Bitch don't kill my vibe Bitch don't kill my vibe Bitch don't kill my vibe",
+      "valence": 2.4,
+      "arousal": 4.01,
+      "dominance": 3.8
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Bitch don't kill my vibe Bitch don't kill my vibe Bitch don't kill my vibe Bitch don't kill my vibe",
+      "valence": 2.06,
+      "arousal": 3.86,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Bitch don't kill my vibe Bitch don't kill my vibe Bitch don't kill my vibe I'm trying to keep it alive and not compromise the feeling we love",
+      "valence": 2.47,
+      "arousal": 4.03,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Bitch don't kill my vibe Bitch don't kill my vibe I'm trying to keep it alive and not compromise the feeling we love You trying to keep it deprived and only co-sign what radio does",
+      "valence": 2.56,
+      "arousal": 3.85,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Bitch don't kill my vibe I'm trying to keep it alive and not compromise the feeling we love You trying to keep it deprived and only co-sign what radio does And I'm looking right past ya",
+      "valence": 2.71,
+      "arousal": 3.74,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I'm trying to keep it alive and not compromise the feeling we love You trying to keep it deprived and only co-sign what radio does And I'm looking right past ya We live in a world, we live in a world on two different axles",
+      "valence": 3.14,
+      "arousal": 3.37,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "You trying to keep it deprived and only co-sign what radio does And I'm looking right past ya We live in a world, we live in a world on two different axles You live in a world, you living behind the mirror",
+      "valence": 2.82,
+      "arousal": 3.22,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "And I'm looking right past ya We live in a world, we live in a world on two different axles You live in a world, you living behind the mirror I know what you scared of, the feeling of feeling emotions inferior",
+      "valence": 2.6,
+      "arousal": 3.37,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "We live in a world, we live in a world on two different axles You live in a world, you living behind the mirror I know what you scared of, the feeling of feeling emotions inferior This shit is vital, I know you had to",
+      "valence": 2.56,
+      "arousal": 3.58,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "You live in a world, you living behind the mirror I know what you scared of, the feeling of feeling emotions inferior This shit is vital, I know you had to This shit is vital, I know you had to",
+      "valence": 2.45,
+      "arousal": 3.65,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "I know what you scared of, the feeling of feeling emotions inferior This shit is vital, I know you had to This shit is vital, I know you had to Die in a pitiful vain, tell me a watch and a chain",
+      "valence": 2.21,
+      "arousal": 3.6,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "This shit is vital, I know you had to This shit is vital, I know you had to Die in a pitiful vain, tell me a watch and a chain Is way more believable, give me a feasible gain",
+      "valence": 2.63,
+      "arousal": 3.63,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "This shit is vital, I know you had to Die in a pitiful vain, tell me a watch and a chain Is way more believable, give me a feasible gain Rather a seasonal name, I'll let the people know this is something you can blame",
+      "valence": 2.37,
+      "arousal": 3.64,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Die in a pitiful vain, tell me a watch and a chain Is way more believable, give me a feasible gain Rather a seasonal name, I'll let the people know this is something you can blame On yourselves you can remain, stuck in a box",
+      "valence": 2.48,
+      "arousal": 3.38,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Is way more believable, give me a feasible gain Rather a seasonal name, I'll let the people know this is something you can blame On yourselves you can remain, stuck in a box I'ma break out and then hide every lock",
+      "valence": 2.77,
+      "arousal": 3.43,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Rather a seasonal name, I'll let the people know this is something you can blame On yourselves you can remain, stuck in a box I'ma break out and then hide every lock I'ma break out and then hide every lock",
+      "valence": 2.71,
+      "arousal": 3.15,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "On yourselves you can remain, stuck in a box I'ma break out and then hide every lock I'ma break out and then hide every lock I can feel the changes",
+      "valence": 2.7,
+      "arousal": 3.25,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "I'ma break out and then hide every lock I'ma break out and then hide every lock I can feel the changes I can feel the new people around me just want to be famous",
+      "valence": 2.75,
+      "arousal": 3.45,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "I'ma break out and then hide every lock I can feel the changes I can feel the new people around me just want to be famous You can see that my city found me put me on stages",
+      "valence": 3.14,
+      "arousal": 3.44,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "I can feel the changes I can feel the new people around me just want to be famous You can see that my city found me put me on stages To me that's amazing",
+      "valence": 3.78,
+      "arousal": 3.64,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "I can feel the new people around me just want to be famous You can see that my city found me put me on stages To me that's amazing To you that's a quick check, with all disrespect let me say this",
+      "valence": 3.53,
+      "arousal": 3.63,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "You can see that my city found me put me on stages To me that's amazing To you that's a quick check, with all disrespect let me say this I am a sinner",
+      "valence": 3.09,
+      "arousal": 3.62,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "To me that's amazing To you that's a quick check, with all disrespect let me say this I am a sinner Who's probably gonna sin again",
+      "valence": 3.18,
+      "arousal": 3.67,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "To you that's a quick check, with all disrespect let me say this I am a sinner Who's probably gonna sin again Lord forgive me",
+      "valence": 2.12,
+      "arousal": 3.3,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "I am a sinner Who's probably gonna sin again Lord forgive me Lord forgive me",
+      "valence": 2.04,
+      "arousal": 3.21,
+      "dominance": 2.66
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Who's probably gonna sin again Lord forgive me Lord forgive me Things I don't understand",
+      "valence": 2.33,
+      "arousal": 3.32,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Lord forgive me Lord forgive me Things I don't understand Sometimes I need to be alone",
+      "valence": 2.41,
+      "arousal": 3.33,
+      "dominance": 2.68
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Lord forgive me Things I don't understand Sometimes I need to be alone Bitch don't kill my vibe",
+      "valence": 2.25,
+      "arousal": 3.48,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Things I don't understand Sometimes I need to be alone Bitch don't kill my vibe Bitch don't kill my vibe",
+      "valence": 2.23,
+      "arousal": 3.59,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Sometimes I need to be alone Bitch don't kill my vibe Bitch don't kill my vibe I can feel your energy from two planets away",
+      "valence": 2.31,
+      "arousal": 3.88,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "Bitch don't kill my vibe Bitch don't kill my vibe I can feel your energy from two planets away I got my drink I got my music I would share it but today I'm yelling",
+      "valence": 2.45,
+      "arousal": 4.07,
+      "dominance": 3.84
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "Bitch don't kill my vibe I can feel your energy from two planets away I got my drink I got my music I would share it but today I'm yelling Bitch don't kill my vibe",
+      "valence": 2.61,
+      "arousal": 4.01,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "I can feel your energy from two planets away I got my drink I got my music I would share it but today I'm yelling Bitch don't kill my vibe Bitch don't kill my vibe",
+      "valence": 2.97,
+      "arousal": 3.98,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "I got my drink I got my music I would share it but today I'm yelling Bitch don't kill my vibe Bitch don't kill my vibe Bitch don't kill my vibe",
+      "valence": 2.4,
+      "arousal": 4.01,
+      "dominance": 3.8
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "Bitch don't kill my vibe Bitch don't kill my vibe Bitch don't kill my vibe Bitch don't kill my vibe",
+      "valence": 2.06,
+      "arousal": 3.86,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "Bitch don't kill my vibe Bitch don't kill my vibe Bitch don't kill my vibe You ain't heard the coast like this in a long time",
+      "valence": 2.04,
+      "arousal": 3.93,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "Bitch don't kill my vibe Bitch don't kill my vibe You ain't heard the coast like this in a long time Don't you see that long line?",
+      "valence": 2.1,
+      "arousal": 3.84,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "Bitch don't kill my vibe You ain't heard the coast like this in a long time Don't you see that long line? And they waiting on Kendrick like the first and the fifteenth",
+      "valence": 2.43,
+      "arousal": 3.74,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "You ain't heard the coast like this in a long time Don't you see that long line? And they waiting on Kendrick like the first and the fifteenth 3's in the air I can see you are in sync",
+      "valence": 3.03,
+      "arousal": 3.33,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "Don't you see that long line? And they waiting on Kendrick like the first and the fifteenth 3's in the air I can see you are in sync Hide your feelings, hide your feelings now what you better do",
+      "valence": 2.73,
+      "arousal": 3.48,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 86,
+      "lyrics_text": "And they waiting on Kendrick like the first and the fifteenth 3's in the air I can see you are in sync Hide your feelings, hide your feelings now what you better do I'll take your girlfriend and put that pussy on a pedestal",
+      "valence": 2.8,
+      "arousal": 3.72,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 87,
+      "lyrics_text": "3's in the air I can see you are in sync Hide your feelings, hide your feelings now what you better do I'll take your girlfriend and put that pussy on a pedestal Bitch don't kill my vibe",
+      "valence": 2.35,
+      "arousal": 3.81,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 88,
+      "lyrics_text": "Hide your feelings, hide your feelings now what you better do I'll take your girlfriend and put that pussy on a pedestal Bitch don't kill my vibe Bitch don't kill my vibe",
+      "valence": 2.02,
+      "arousal": 3.96,
+      "dominance": 3.79
+    },
+    {
+      "chunk_id": 89,
+      "lyrics_text": "I'll take your girlfriend and put that pussy on a pedestal Bitch don't kill my vibe Bitch don't kill my vibe Walk out the door and they scream it's alive",
+      "valence": 2.08,
+      "arousal": 4.06,
+      "dominance": 3.83
+    },
+    {
+      "chunk_id": 90,
+      "lyrics_text": "Bitch don't kill my vibe Bitch don't kill my vibe Walk out the door and they scream it's alive My new year's resolution is to stop all the pollution",
+      "valence": 2.48,
+      "arousal": 4.05,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 91,
+      "lyrics_text": "Bitch don't kill my vibe Walk out the door and they scream it's alive My new year's resolution is to stop all the pollution Talk too motherfucking much, I got my drink I got my music",
+      "valence": 2.4,
+      "arousal": 4.03,
+      "dominance": 3.77
+    },
+    {
+      "chunk_id": 92,
+      "lyrics_text": "Walk out the door and they scream it's alive My new year's resolution is to stop all the pollution Talk too motherfucking much, I got my drink I got my music I say bitch don't kill my vibe",
+      "valence": 2.6,
+      "arousal": 4.03,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 93,
+      "lyrics_text": "My new year's resolution is to stop all the pollution Talk too motherfucking much, I got my drink I got my music I say bitch don't kill my vibe Bitch don't kill my vibe",
+      "valence": 2.56,
+      "arousal": 3.86,
+      "dominance": 3.85
+    },
+    {
+      "chunk_id": 94,
+      "lyrics_text": "Talk too motherfucking much, I got my drink I got my music I say bitch don't kill my vibe Bitch don't kill my vibe Bitch don't kill my vibe",
+      "valence": 2.06,
+      "arousal": 4.04,
+      "dominance": 3.83
+    },
+    {
+      "chunk_id": 95,
+      "lyrics_text": "I say bitch don't kill my vibe Bitch don't kill my vibe Bitch don't kill my vibe Bitch don't kill my vibe",
+      "valence": 1.94,
+      "arousal": 3.97,
+      "dominance": 3.76
+    }
+  ]
+}

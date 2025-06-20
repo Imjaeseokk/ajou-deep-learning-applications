@@ -1,0 +1,780 @@
+{
+  "artist": "The Carters",
+  "overall_vad": {
+    "valence": 3.07,
+    "arousal": 3.59,
+    "dominance": 3.42
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Yeah, yeah, yeah, yeah, yeah Yeah, yeah, yeah, yeah, yeah Yeah, yeah, yeah, yeah, yeah Yeah, yeah, yeah, yeah, yeah",
+      "valence": 3.3,
+      "arousal": 3.32,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Yeah, yeah, yeah, yeah, yeah Yeah, yeah, yeah, yeah, yeah Yeah, yeah, yeah, yeah, yeah Stack my money fast and go (Fast, fast, go)",
+      "valence": 3.49,
+      "arousal": 3.58,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Yeah, yeah, yeah, yeah, yeah Yeah, yeah, yeah, yeah, yeah Stack my money fast and go (Fast, fast, go) Fast like a Lambo' (Skrrt, skrrt, skrrt)",
+      "valence": 3.42,
+      "arousal": 3.62,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Yeah, yeah, yeah, yeah, yeah Stack my money fast and go (Fast, fast, go) Fast like a Lambo' (Skrrt, skrrt, skrrt) I be jumpin' off the stage, hoe (Jumpin', jumpin', hey, hey)",
+      "valence": 3.31,
+      "arousal": 3.77,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Stack my money fast and go (Fast, fast, go) Fast like a Lambo' (Skrrt, skrrt, skrrt) I be jumpin' off the stage, hoe (Jumpin', jumpin', hey, hey) Crowd better savor (Crowd goin' ape, hey)",
+      "valence": 3.07,
+      "arousal": 3.53,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Fast like a Lambo' (Skrrt, skrrt, skrrt) I be jumpin' off the stage, hoe (Jumpin', jumpin', hey, hey) Crowd better savor (Crowd goin' ape, hey) I can't believe we made it (This is what we made, made)",
+      "valence": 3.31,
+      "arousal": 3.69,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I be jumpin' off the stage, hoe (Jumpin', jumpin', hey, hey) Crowd better savor (Crowd goin' ape, hey) I can't believe we made it (This is what we made, made) This is what we're thankful for (This is what we thank, thank)",
+      "valence": 3.77,
+      "arousal": 3.77,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Crowd better savor (Crowd goin' ape, hey) I can't believe we made it (This is what we made, made) This is what we're thankful for (This is what we thank, thank) I can't believe we made it (This a different angle)",
+      "valence": 3.83,
+      "arousal": 3.64,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I can't believe we made it (This is what we made, made) This is what we're thankful for (This is what we thank, thank) I can't believe we made it (This a different angle) Have you ever seen the crowd goin' apeshit? Rah",
+      "valence": 3.84,
+      "arousal": 3.74,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "This is what we're thankful for (This is what we thank, thank) I can't believe we made it (This a different angle) Have you ever seen the crowd goin' apeshit? Rah Gimme my check, put some respek on my check",
+      "valence": 3.73,
+      "arousal": 3.64,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I can't believe we made it (This a different angle) Have you ever seen the crowd goin' apeshit? Rah Gimme my check, put some respek on my check Or pay me in equity (Pay me in equity)",
+      "valence": 2.91,
+      "arousal": 3.65,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Have you ever seen the crowd goin' apeshit? Rah Gimme my check, put some respek on my check Or pay me in equity (Pay me in equity) Watch me reverse out the debt (Skrrt)",
+      "valence": 2.78,
+      "arousal": 3.34,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Gimme my check, put some respek on my check Or pay me in equity (Pay me in equity) Watch me reverse out the debt (Skrrt) He got a bad bitch, bad bitch",
+      "valence": 2.45,
+      "arousal": 3.51,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Or pay me in equity (Pay me in equity) Watch me reverse out the debt (Skrrt) He got a bad bitch, bad bitch We livin' lavish, lavish",
+      "valence": 2.62,
+      "arousal": 3.43,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Watch me reverse out the debt (Skrrt) He got a bad bitch, bad bitch We livin' lavish, lavish I got expensive fabrics",
+      "valence": 2.4,
+      "arousal": 3.53,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "He got a bad bitch, bad bitch We livin' lavish, lavish I got expensive fabrics I got expensive habits",
+      "valence": 2.27,
+      "arousal": 3.64,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "We livin' lavish, lavish I got expensive fabrics I got expensive habits He wanna go with me (Go with me)",
+      "valence": 3.31,
+      "arousal": 3.57,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I got expensive fabrics I got expensive habits He wanna go with me (Go with me) He like to roll the weed (Roll the weed)",
+      "valence": 3.19,
+      "arousal": 3.5,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I got expensive habits He wanna go with me (Go with me) He like to roll the weed (Roll the weed) He wanna be with me (Be with me)",
+      "valence": 3.14,
+      "arousal": 3.41,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "He wanna go with me (Go with me) He like to roll the weed (Roll the weed) He wanna be with me (Be with me) He wanna give me that vitamin D (D)",
+      "valence": 3.21,
+      "arousal": 3.34,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "He like to roll the weed (Roll the weed) He wanna be with me (Be with me) He wanna give me that vitamin D (D) Ice ornaments, icy style tournaments (Woo)",
+      "valence": 3.31,
+      "arousal": 3.45,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "He wanna be with me (Be with me) He wanna give me that vitamin D (D) Ice ornaments, icy style tournaments (Woo) You ain't on to this (No)",
+      "valence": 2.99,
+      "arousal": 3.41,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "He wanna give me that vitamin D (D) Ice ornaments, icy style tournaments (Woo) You ain't on to this (No) Don't think they on to this (No)",
+      "valence": 2.86,
+      "arousal": 3.41,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Ice ornaments, icy style tournaments (Woo) You ain't on to this (No) Don't think they on to this (No) Bought him a jet",
+      "valence": 2.81,
+      "arousal": 3.41,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "You ain't on to this (No) Don't think they on to this (No) Bought him a jet (Yeah, yeah, yeah, yeah, yeah, yeah)",
+      "valence": 2.65,
+      "arousal": 3.49,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Don't think they on to this (No) Bought him a jet (Yeah, yeah, yeah, yeah, yeah, yeah) Shut down Colette",
+      "valence": 2.76,
+      "arousal": 3.46,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Bought him a jet (Yeah, yeah, yeah, yeah, yeah, yeah) Shut down Colette (Yeah, yeah, yeah, yeah, yeah, yeah)",
+      "valence": 2.88,
+      "arousal": 3.62,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "(Yeah, yeah, yeah, yeah, yeah, yeah) Shut down Colette (Yeah, yeah, yeah, yeah, yeah, yeah) Phillippe Patek",
+      "valence": 2.6,
+      "arousal": 3.52,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Shut down Colette (Yeah, yeah, yeah, yeah, yeah, yeah) Phillippe Patek (Yeah, yeah, yeah, yeah, yeah, yeah)",
+      "valence": 2.68,
+      "arousal": 3.56,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "(Yeah, yeah, yeah, yeah, yeah, yeah) Phillippe Patek (Yeah, yeah, yeah, yeah, yeah, yeah) Get off my dick (Uh, hey)",
+      "valence": 2.82,
+      "arousal": 3.68,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Phillippe Patek (Yeah, yeah, yeah, yeah, yeah, yeah) Get off my dick (Uh, hey) Gimme the ball, gimme the ball, take the top shift (Ball)",
+      "valence": 2.77,
+      "arousal": 3.65,
+      "dominance": 3.79
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "(Yeah, yeah, yeah, yeah, yeah, yeah) Get off my dick (Uh, hey) Gimme the ball, gimme the ball, take the top shift (Ball) Call my girls and put 'em all on a spaceship (Brr)",
+      "valence": 2.98,
+      "arousal": 3.84,
+      "dominance": 3.82
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Get off my dick (Uh, hey) Gimme the ball, gimme the ball, take the top shift (Ball) Call my girls and put 'em all on a spaceship (Brr) Hang one night with 'YoncÃ©, I'll make you famous (Hey)",
+      "valence": 2.94,
+      "arousal": 3.81,
+      "dominance": 3.83
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Gimme the ball, gimme the ball, take the top shift (Ball) Call my girls and put 'em all on a spaceship (Brr) Hang one night with 'YoncÃ©, I'll make you famous (Hey) Have you ever seen the stage goin' apeshit? Rah",
+      "valence": 3.19,
+      "arousal": 3.69,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Call my girls and put 'em all on a spaceship (Brr) Hang one night with 'YoncÃ©, I'll make you famous (Hey) Have you ever seen the stage goin' apeshit? Rah Stack my money fast and go (Fast, fast, go)",
+      "valence": 3.13,
+      "arousal": 3.74,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Hang one night with 'YoncÃ©, I'll make you famous (Hey) Have you ever seen the stage goin' apeshit? Rah Stack my money fast and go (Fast, fast, go) Fast like my Lambo' (Skrrt, skrrt, skrrt)",
+      "valence": 3.06,
+      "arousal": 3.58,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Have you ever seen the stage goin' apeshit? Rah Stack my money fast and go (Fast, fast, go) Fast like my Lambo' (Skrrt, skrrt, skrrt) Jumpin' off the stage, hoe (Jumpin', jumpin', hey, hey)",
+      "valence": 2.89,
+      "arousal": 3.54,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Stack my money fast and go (Fast, fast, go) Fast like my Lambo' (Skrrt, skrrt, skrrt) Jumpin' off the stage, hoe (Jumpin', jumpin', hey, hey) Crowd better savor (Crowd goin' ape, hey)",
+      "valence": 3.11,
+      "arousal": 3.52,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Fast like my Lambo' (Skrrt, skrrt, skrrt) Jumpin' off the stage, hoe (Jumpin', jumpin', hey, hey) Crowd better savor (Crowd goin' ape, hey) I can't believe we made it (This is what we made, made)",
+      "valence": 3.4,
+      "arousal": 3.66,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Jumpin' off the stage, hoe (Jumpin', jumpin', hey, hey) Crowd better savor (Crowd goin' ape, hey) I can't believe we made it (This is what we made, made) This is what we're thankful for (This is what we thank, thank)",
+      "valence": 3.79,
+      "arousal": 3.73,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Crowd better savor (Crowd goin' ape, hey) I can't believe we made it (This is what we made, made) This is what we're thankful for (This is what we thank, thank) I can't believe we made it (This a different angle)",
+      "valence": 3.83,
+      "arousal": 3.64,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "I can't believe we made it (This is what we made, made) This is what we're thankful for (This is what we thank, thank) I can't believe we made it (This a different angle) Have you ever seen the crowd goin' apeshit? (Offset)",
+      "valence": 3.89,
+      "arousal": 3.78,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "This is what we're thankful for (This is what we thank, thank) I can't believe we made it (This a different angle) Have you ever seen the crowd goin' apeshit? (Offset) I'm a gorilla in the fuckin' coupe",
+      "valence": 3.8,
+      "arousal": 3.77,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I can't believe we made it (This a different angle) Have you ever seen the crowd goin' apeshit? (Offset) I'm a gorilla in the fuckin' coupe Finna pull up in the zoo",
+      "valence": 2.95,
+      "arousal": 3.79,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Have you ever seen the crowd goin' apeshit? (Offset) I'm a gorilla in the fuckin' coupe Finna pull up in the zoo I'm like Chief Keef meet Rafiki, who been lyin' king to you? (Woo)",
+      "valence": 2.81,
+      "arousal": 3.59,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I'm a gorilla in the fuckin' coupe Finna pull up in the zoo I'm like Chief Keef meet Rafiki, who been lyin' king to you? (Woo) Pocket, watch it, like kangaroos",
+      "valence": 2.93,
+      "arousal": 3.61,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Finna pull up in the zoo I'm like Chief Keef meet Rafiki, who been lyin' king to you? (Woo) Pocket, watch it, like kangaroos Tell these clowns we ain't amused",
+      "valence": 2.92,
+      "arousal": 3.44,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I'm like Chief Keef meet Rafiki, who been lyin' king to you? (Woo) Pocket, watch it, like kangaroos Tell these clowns we ain't amused 'Nana clips for that monkey business",
+      "valence": 2.92,
+      "arousal": 3.36,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Pocket, watch it, like kangaroos Tell these clowns we ain't amused 'Nana clips for that monkey business .45 got change for you",
+      "valence": 2.75,
+      "arousal": 3.38,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Tell these clowns we ain't amused 'Nana clips for that monkey business .45 got change for you Motorcades when we came through",
+      "valence": 2.61,
+      "arousal": 3.29,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "'Nana clips for that monkey business .45 got change for you Motorcades when we came through Presidential with the planes too",
+      "valence": 3.01,
+      "arousal": 3.11,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": ".45 got change for you Motorcades when we came through Presidential with the planes too One better get you with the residential",
+      "valence": 3.08,
+      "arousal": 3.13,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Motorcades when we came through Presidential with the planes too One better get you with the residential Undefeated with the 'caine too",
+      "valence": 3.17,
+      "arousal": 3.27,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Presidential with the planes too One better get you with the residential Undefeated with the 'caine too I said no to the Superbowl",
+      "valence": 3.01,
+      "arousal": 3.47,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "One better get you with the residential Undefeated with the 'caine too I said no to the Superbowl You need me, I don't need you",
+      "valence": 2.73,
+      "arousal": 3.63,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Undefeated with the 'caine too I said no to the Superbowl You need me, I don't need you Every night we in the endzone",
+      "valence": 2.71,
+      "arousal": 3.61,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "I said no to the Superbowl You need me, I don't need you Every night we in the endzone Tell the NFL we in stadiums too",
+      "valence": 2.61,
+      "arousal": 3.63,
+      "dominance": 3.85
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "You need me, I don't need you Every night we in the endzone Tell the NFL we in stadiums too Last night was a fuckin' zoo",
+      "valence": 2.33,
+      "arousal": 3.78,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Every night we in the endzone Tell the NFL we in stadiums too Last night was a fuckin' zoo Stagedivin' in a pool of people",
+      "valence": 2.73,
+      "arousal": 3.61,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Tell the NFL we in stadiums too Last night was a fuckin' zoo Stagedivin' in a pool of people Ran through Liverpool like a fuckin' Beatle",
+      "valence": 2.77,
+      "arousal": 3.63,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Last night was a fuckin' zoo Stagedivin' in a pool of people Ran through Liverpool like a fuckin' Beatle Smoke gorilla glue like it's fuckin' legal",
+      "valence": 2.54,
+      "arousal": 3.59,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Stagedivin' in a pool of people Ran through Liverpool like a fuckin' Beatle Smoke gorilla glue like it's fuckin' legal Tell the Grammy's fuck that 0 for eight shit",
+      "valence": 2.47,
+      "arousal": 3.77,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Ran through Liverpool like a fuckin' Beatle Smoke gorilla glue like it's fuckin' legal Tell the Grammy's fuck that 0 for eight shit Have you ever seen the crowd goin' apeshit? (Rah)",
+      "valence": 2.39,
+      "arousal": 3.84,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Smoke gorilla glue like it's fuckin' legal Tell the Grammy's fuck that 0 for eight shit Have you ever seen the crowd goin' apeshit? (Rah) Stack my money fast and go (Fast, fast, go)",
+      "valence": 2.51,
+      "arousal": 3.81,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Tell the Grammy's fuck that 0 for eight shit Have you ever seen the crowd goin' apeshit? (Rah) Stack my money fast and go (Fast, fast, go) Fast like my Lambo' (Skrrt, skrrt, skrrt)",
+      "valence": 2.57,
+      "arousal": 3.78,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Have you ever seen the crowd goin' apeshit? (Rah) Stack my money fast and go (Fast, fast, go) Fast like my Lambo' (Skrrt, skrrt, skrrt) Jumpin' off the stage, hoe (Jumpin', jumpin', hey, hey)",
+      "valence": 2.94,
+      "arousal": 3.55,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Stack my money fast and go (Fast, fast, go) Fast like my Lambo' (Skrrt, skrrt, skrrt) Jumpin' off the stage, hoe (Jumpin', jumpin', hey, hey) Crowd better savor (Crowd goin' ape, hey)",
+      "valence": 3.11,
+      "arousal": 3.52,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Fast like my Lambo' (Skrrt, skrrt, skrrt) Jumpin' off the stage, hoe (Jumpin', jumpin', hey, hey) Crowd better savor (Crowd goin' ape, hey) I can't believe we made it (This is what we made, made)",
+      "valence": 3.4,
+      "arousal": 3.66,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Jumpin' off the stage, hoe (Jumpin', jumpin', hey, hey) Crowd better savor (Crowd goin' ape, hey) I can't believe we made it (This is what we made, made) This is what we're thankful for (This is what we thank, thank)",
+      "valence": 3.79,
+      "arousal": 3.73,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Crowd better savor (Crowd goin' ape, hey) I can't believe we made it (This is what we made, made) This is what we're thankful for (This is what we thank, thank) I can't believe we made it (This a different angle)",
+      "valence": 3.83,
+      "arousal": 3.64,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "I can't believe we made it (This is what we made, made) This is what we're thankful for (This is what we thank, thank) I can't believe we made it (This a different angle) Have you ever seen the crowd goin' apeshit? Rah",
+      "valence": 3.84,
+      "arousal": 3.74,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "This is what we're thankful for (This is what we thank, thank) I can't believe we made it (This a different angle) Have you ever seen the crowd goin' apeshit? Rah Haters in danger (Dangerous)",
+      "valence": 3.72,
+      "arousal": 3.66,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "I can't believe we made it (This a different angle) Have you ever seen the crowd goin' apeshit? Rah Haters in danger (Dangerous) Whole lot of gangin' (Gang)",
+      "valence": 2.72,
+      "arousal": 3.61,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Have you ever seen the crowd goin' apeshit? Rah Haters in danger (Dangerous) Whole lot of gangin' (Gang) 35 chains (Chains, chains)",
+      "valence": 2.42,
+      "arousal": 3.49,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Haters in danger (Dangerous) Whole lot of gangin' (Gang) 35 chains (Chains, chains) I don't give a damn 'bout the fame (Nope)",
+      "valence": 2.32,
+      "arousal": 3.29,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "Whole lot of gangin' (Gang) 35 chains (Chains, chains) I don't give a damn 'bout the fame (Nope) G8 planes (Tshh, tshh)",
+      "valence": 2.5,
+      "arousal": 3.28,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "35 chains (Chains, chains) I don't give a damn 'bout the fame (Nope) G8 planes (Tshh, tshh) Alexander Wang (Woo!)",
+      "valence": 3.18,
+      "arousal": 3.68,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "I don't give a damn 'bout the fame (Nope) G8 planes (Tshh, tshh) Alexander Wang (Woo!) She a thot that you claim (Woo!)",
+      "valence": 3.19,
+      "arousal": 3.85,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "G8 planes (Tshh, tshh) Alexander Wang (Woo!) She a thot that you claim (Woo!) Can't be toppin' my reign (C'mon, c'mon, c'mon)",
+      "valence": 3.16,
+      "arousal": 4.09,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "Alexander Wang (Woo!) She a thot that you claim (Woo!) Can't be toppin' my reign (C'mon, c'mon, c'mon) Poppin', I'm poppin', my bitches all poppin'",
+      "valence": 3.01,
+      "arousal": 4.06,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "She a thot that you claim (Woo!) Can't be toppin' my reign (C'mon, c'mon, c'mon) Poppin', I'm poppin', my bitches all poppin' We go to the dealer and cop it all (Cop it all)",
+      "valence": 2.61,
+      "arousal": 3.91,
+      "dominance": 3.79
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "Can't be toppin' my reign (C'mon, c'mon, c'mon) Poppin', I'm poppin', my bitches all poppin' We go to the dealer and cop it all (Cop it all) Sippin' my favorite alcohol (Alcohol)",
+      "valence": 2.97,
+      "arousal": 3.52,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "Poppin', I'm poppin', my bitches all poppin' We go to the dealer and cop it all (Cop it all) Sippin' my favorite alcohol (Alcohol) Got me so lit, I need Tylenol (Tylenol)",
+      "valence": 3.0,
+      "arousal": 3.45,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "We go to the dealer and cop it all (Cop it all) Sippin' my favorite alcohol (Alcohol) Got me so lit, I need Tylenol (Tylenol) All of my people, I free 'em all (Free 'em all)",
+      "valence": 3.34,
+      "arousal": 3.4,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "Sippin' my favorite alcohol (Alcohol) Got me so lit, I need Tylenol (Tylenol) All of my people, I free 'em all (Free 'em all) Hop in the whip, wanna see the stars, uh (Woo)",
+      "valence": 3.5,
+      "arousal": 3.61,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 86,
+      "lyrics_text": "Got me so lit, I need Tylenol (Tylenol) All of my people, I free 'em all (Free 'em all) Hop in the whip, wanna see the stars, uh (Woo) Sendin' the missiles off, drinkin' my inhibitions off",
+      "valence": 3.14,
+      "arousal": 3.56,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 87,
+      "lyrics_text": "All of my people, I free 'em all (Free 'em all) Hop in the whip, wanna see the stars, uh (Woo) Sendin' the missiles off, drinkin' my inhibitions off 250 for the Richard Mille, yeah yeah, live in a field",
+      "valence": 3.39,
+      "arousal": 3.62,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 88,
+      "lyrics_text": "Hop in the whip, wanna see the stars, uh (Woo) Sendin' the missiles off, drinkin' my inhibitions off 250 for the Richard Mille, yeah yeah, live in a field My body make Jigga go kneel (Woo)",
+      "valence": 3.16,
+      "arousal": 3.56,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 89,
+      "lyrics_text": "Sendin' the missiles off, drinkin' my inhibitions off 250 for the Richard Mille, yeah yeah, live in a field My body make Jigga go kneel (Woo) Man, my momma, my lawyer, my shield",
+      "valence": 2.82,
+      "arousal": 3.58,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 90,
+      "lyrics_text": "250 for the Richard Mille, yeah yeah, live in a field My body make Jigga go kneel (Woo) Man, my momma, my lawyer, my shield Look at my jewelry, I'm lethal (Lethal)",
+      "valence": 2.66,
+      "arousal": 3.81,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 91,
+      "lyrics_text": "My body make Jigga go kneel (Woo) Man, my momma, my lawyer, my shield Look at my jewelry, I'm lethal (Lethal) These diamonds on me, they see-through (See-through)",
+      "valence": 2.75,
+      "arousal": 3.77,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 92,
+      "lyrics_text": "Man, my momma, my lawyer, my shield Look at my jewelry, I'm lethal (Lethal) These diamonds on me, they see-through (See-through) I'm a Martian, they wishin' they equal (Equal)",
+      "valence": 3.01,
+      "arousal": 3.67,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 93,
+      "lyrics_text": "Look at my jewelry, I'm lethal (Lethal) These diamonds on me, they see-through (See-through) I'm a Martian, they wishin' they equal (Equal) I got M's like the back like Evisu",
+      "valence": 3.1,
+      "arousal": 3.59,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 94,
+      "lyrics_text": "These diamonds on me, they see-through (See-through) I'm a Martian, they wishin' they equal (Equal) I got M's like the back like Evisu Gimme the ball, gimme the ball, take a top shift (She went crazy)",
+      "valence": 3.15,
+      "arousal": 3.47,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 95,
+      "lyrics_text": "I'm a Martian, they wishin' they equal (Equal) I got M's like the back like Evisu Gimme the ball, gimme the ball, take a top shift (She went crazy) Call my girls and put 'em all on a spaceship",
+      "valence": 3.24,
+      "arousal": 3.62,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 96,
+      "lyrics_text": "I got M's like the back like Evisu Gimme the ball, gimme the ball, take a top shift (She went crazy) Call my girls and put 'em all on a spaceship Hang one night with 'YoncÃ©, I'll make you famous",
+      "valence": 3.31,
+      "arousal": 3.66,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 97,
+      "lyrics_text": "Gimme the ball, gimme the ball, take a top shift (She went crazy) Call my girls and put 'em all on a spaceship Hang one night with 'YoncÃ©, I'll make you famous Have you ever seen the crowd goin' apeshit? Rah",
+      "valence": 3.14,
+      "arousal": 3.74,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 98,
+      "lyrics_text": "Call my girls and put 'em all on a spaceship Hang one night with 'YoncÃ©, I'll make you famous Have you ever seen the crowd goin' apeshit? Rah Stack my money fast and go (Fast, fast, go)",
+      "valence": 3.07,
+      "arousal": 3.65,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 99,
+      "lyrics_text": "Hang one night with 'YoncÃ©, I'll make you famous Have you ever seen the crowd goin' apeshit? Rah Stack my money fast and go (Fast, fast, go) Fast like a Lambo' (Skrrt, skrrt, skrrt)",
+      "valence": 2.98,
+      "arousal": 3.53,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 100,
+      "lyrics_text": "Have you ever seen the crowd goin' apeshit? Rah Stack my money fast and go (Fast, fast, go) Fast like a Lambo' (Skrrt, skrrt, skrrt) I be jumpin' off the stage, hoe (Jumpin', jumpin', hey, hey)",
+      "valence": 2.88,
+      "arousal": 3.57,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 101,
+      "lyrics_text": "Stack my money fast and go (Fast, fast, go) Fast like a Lambo' (Skrrt, skrrt, skrrt) I be jumpin' off the stage, hoe (Jumpin', jumpin', hey, hey) Crowd better savor (Crowd goin' ape)",
+      "valence": 3.06,
+      "arousal": 3.53,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 102,
+      "lyrics_text": "Fast like a Lambo' (Skrrt, skrrt, skrrt) I be jumpin' off the stage, hoe (Jumpin', jumpin', hey, hey) Crowd better savor (Crowd goin' ape) I can't believe we made it (This is what we made, made)",
+      "valence": 3.31,
+      "arousal": 3.69,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 103,
+      "lyrics_text": "I be jumpin' off the stage, hoe (Jumpin', jumpin', hey, hey) Crowd better savor (Crowd goin' ape) I can't believe we made it (This is what we made, made) This is what we're thankful for (This is what we thank, thank)",
+      "valence": 3.78,
+      "arousal": 3.77,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 104,
+      "lyrics_text": "Crowd better savor (Crowd goin' ape) I can't believe we made it (This is what we made, made) This is what we're thankful for (This is what we thank, thank) I can't believe we made it (This a different angle)",
+      "valence": 3.83,
+      "arousal": 3.65,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 105,
+      "lyrics_text": "I can't believe we made it (This is what we made, made) This is what we're thankful for (This is what we thank, thank) I can't believe we made it (This a different angle) Have you ever seen the crowd goin' apeshit? Rah",
+      "valence": 3.84,
+      "arousal": 3.74,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 106,
+      "lyrics_text": "This is what we're thankful for (This is what we thank, thank) I can't believe we made it (This a different angle) Have you ever seen the crowd goin' apeshit? Rah Yeah, yeah, yeah, yeah, yeah",
+      "valence": 3.82,
+      "arousal": 3.66,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 107,
+      "lyrics_text": "I can't believe we made it (This a different angle) Have you ever seen the crowd goin' apeshit? Rah Yeah, yeah, yeah, yeah, yeah Fast and go",
+      "valence": 3.04,
+      "arousal": 3.66,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 108,
+      "lyrics_text": "Have you ever seen the crowd goin' apeshit? Rah Yeah, yeah, yeah, yeah, yeah Fast and go Yeah, yeah, yeah, yeah, yeah",
+      "valence": 2.85,
+      "arousal": 3.33,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 109,
+      "lyrics_text": "Yeah, yeah, yeah, yeah, yeah Fast and go Yeah, yeah, yeah, yeah, yeah Yeah, yeah, yeah, yeah, yeah, yeah",
+      "valence": 3.37,
+      "arousal": 3.33,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 110,
+      "lyrics_text": "Fast and go Yeah, yeah, yeah, yeah, yeah Yeah, yeah, yeah, yeah, yeah, yeah Yeah, yeah, yeah, yeah, yeah, yeah",
+      "valence": 3.27,
+      "arousal": 3.25,
+      "dominance": 3.21
+    }
+  ]
+}

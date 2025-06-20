@@ -1,0 +1,416 @@
+{
+  "artist": "Pharrell Williams",
+  "overall_vad": {
+    "valence": 3.03,
+    "arousal": 3.45,
+    "dominance": 3.43
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "You miss me? I miss all of y'all (Hey) All of you girls standin' together like that (hey), I can't take it (hun) Women",
+      "valence": 2.56,
+      "arousal": 3.62,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I miss all of y'all (Hey) All of you girls standin' together like that (hey), I can't take it (hun) Women I can do anything you like (hey)",
+      "valence": 2.81,
+      "arousal": 3.59,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "(Hey) All of you girls standin' together like that (hey), I can't take it (hun) Women I can do anything you like (hey) I can do anything you need (hey)",
+      "valence": 2.76,
+      "arousal": 3.54,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Women I can do anything you like (hey) I can do anything you need (hey) And I got a better body (hey)",
+      "valence": 3.33,
+      "arousal": 3.53,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I can do anything you like (hey) I can do anything you need (hey) And I got a better body (hey) Than the magazines you read (hey)",
+      "valence": 3.2,
+      "arousal": 3.53,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I can do anything you need (hey) And I got a better body (hey) Than the magazines you read (hey) None of them boys (hey) know the first thing about your fantasy (hey)",
+      "valence": 3.09,
+      "arousal": 3.51,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "And I got a better body (hey) Than the magazines you read (hey) None of them boys (hey) know the first thing about your fantasy (hey) And if they tried (hey), they can not do it just like me (hey)",
+      "valence": 2.96,
+      "arousal": 3.33,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Than the magazines you read (hey) None of them boys (hey) know the first thing about your fantasy (hey) And if they tried (hey), they can not do it just like me (hey) I know you certainly been gone (hey)",
+      "valence": 2.63,
+      "arousal": 3.12,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "None of them boys (hey) know the first thing about your fantasy (hey) And if they tried (hey), they can not do it just like me (hey) I know you certainly been gone (hey) And it's been much too long (hey)",
+      "valence": 2.59,
+      "arousal": 3.15,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "And if they tried (hey), they can not do it just like me (hey) I know you certainly been gone (hey) And it's been much too long (hey) And there's some things we need to do (hey)",
+      "valence": 2.59,
+      "arousal": 3.18,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I know you certainly been gone (hey) And it's been much too long (hey) And there's some things we need to do (hey) So I know you need to get home (hey)",
+      "valence": 2.67,
+      "arousal": 3.1,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "And it's been much too long (hey) And there's some things we need to do (hey) So I know you need to get home (hey) Come get it bae (hey) (c'mon)",
+      "valence": 2.89,
+      "arousal": 3.48,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "And there's some things we need to do (hey) So I know you need to get home (hey) Come get it bae (hey) (c'mon) Come get it bae (hey)",
+      "valence": 3.05,
+      "arousal": 3.53,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "So I know you need to get home (hey) Come get it bae (hey) (c'mon) Come get it bae (hey) Come get it bae (hey) (c'mon)",
+      "valence": 3.01,
+      "arousal": 3.6,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Come get it bae (hey) (c'mon) Come get it bae (hey) Come get it bae (hey) (c'mon) Come get it bae (hey)",
+      "valence": 2.93,
+      "arousal": 3.61,
+      "dominance": 3.74
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Come get it bae (hey) Come get it bae (hey) (c'mon) Come get it bae (hey) You wanna ride it (hey), my motorcycle (hey)",
+      "valence": 3.16,
+      "arousal": 3.62,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Come get it bae (hey) (c'mon) Come get it bae (hey) You wanna ride it (hey), my motorcycle (hey) You've got a license (hey), but you got the right to (hey)",
+      "valence": 3.12,
+      "arousal": 3.61,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Come get it bae (hey) You wanna ride it (hey), my motorcycle (hey) You've got a license (hey), but you got the right to (hey) Gonna pop a wheelie (hey), don't try too high too (hey)",
+      "valence": 3.11,
+      "arousal": 3.47,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "You wanna ride it (hey), my motorcycle (hey) You've got a license (hey), but you got the right to (hey) Gonna pop a wheelie (hey), don't try too high too (hey) Take it easy on the clutch (hey), 'cause girl I like you (wait man) (hey) (hey-o)",
+      "valence": 3.31,
+      "arousal": 3.59,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "You've got a license (hey), but you got the right to (hey) Gonna pop a wheelie (hey), don't try too high too (hey) Take it easy on the clutch (hey), 'cause girl I like you (wait man) (hey) (hey-o) I can see it the way you like (hey)",
+      "valence": 3.2,
+      "arousal": 3.41,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Gonna pop a wheelie (hey), don't try too high too (hey) Take it easy on the clutch (hey), 'cause girl I like you (wait man) (hey) (hey-o) I can see it the way you like (hey) I can do anything you need (hey)",
+      "valence": 3.38,
+      "arousal": 3.4,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Take it easy on the clutch (hey), 'cause girl I like you (wait man) (hey) (hey-o) I can see it the way you like (hey) I can do anything you need (hey) I can give you dirty looks (hey)",
+      "valence": 3.29,
+      "arousal": 3.55,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I can see it the way you like (hey) I can do anything you need (hey) I can give you dirty looks (hey) Like them niggas that's on TV (hey)",
+      "valence": 2.7,
+      "arousal": 3.46,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I can do anything you need (hey) I can give you dirty looks (hey) Like them niggas that's on TV (hey) None of them boys (hey) know the first thing about your fantasy (hey)",
+      "valence": 2.62,
+      "arousal": 3.44,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I can give you dirty looks (hey) Like them niggas that's on TV (hey) None of them boys (hey) know the first thing about your fantasy (hey) And if they tried (hey), they can not do it just like me (hey)",
+      "valence": 2.47,
+      "arousal": 3.26,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Like them niggas that's on TV (hey) None of them boys (hey) know the first thing about your fantasy (hey) And if they tried (hey), they can not do it just like me (hey) I know you certainly been gone (hey)",
+      "valence": 2.62,
+      "arousal": 3.18,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "None of them boys (hey) know the first thing about your fantasy (hey) And if they tried (hey), they can not do it just like me (hey) I know you certainly been gone (hey) And it's been much too long (hey)",
+      "valence": 2.59,
+      "arousal": 3.15,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "And if they tried (hey), they can not do it just like me (hey) I know you certainly been gone (hey) And it's been much too long (hey) And there's some things we need to do (hey)",
+      "valence": 2.59,
+      "arousal": 3.18,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I know you certainly been gone (hey) And it's been much too long (hey) And there's some things we need to do (hey) So I know you need to get home (hey)",
+      "valence": 2.67,
+      "arousal": 3.1,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "And it's been much too long (hey) And there's some things we need to do (hey) So I know you need to get home (hey) Come get it bae (hey) (c'mon)",
+      "valence": 2.89,
+      "arousal": 3.48,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "And there's some things we need to do (hey) So I know you need to get home (hey) Come get it bae (hey) (c'mon) Come get it bae (hey)",
+      "valence": 3.05,
+      "arousal": 3.53,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "So I know you need to get home (hey) Come get it bae (hey) (c'mon) Come get it bae (hey) Come get it bae (hey) (c'mon)",
+      "valence": 3.01,
+      "arousal": 3.6,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Come get it bae (hey) (c'mon) Come get it bae (hey) Come get it bae (hey) (c'mon) Come get it bae (hey)",
+      "valence": 2.93,
+      "arousal": 3.61,
+      "dominance": 3.74
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Come get it bae (hey) Come get it bae (hey) (c'mon) Come get it bae (hey) You wanna ride it (hey), my motorcycle (hey)",
+      "valence": 3.16,
+      "arousal": 3.62,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Come get it bae (hey) (c'mon) Come get it bae (hey) You wanna ride it (hey), my motorcycle (hey) You've got a license (hey), but you got the right to (hey)",
+      "valence": 3.12,
+      "arousal": 3.61,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Come get it bae (hey) You wanna ride it (hey), my motorcycle (hey) You've got a license (hey), but you got the right to (hey) Gonna pop a wheelie (hey), don't try too high too (hey)",
+      "valence": 3.11,
+      "arousal": 3.47,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "You wanna ride it (hey), my motorcycle (hey) You've got a license (hey), but you got the right to (hey) Gonna pop a wheelie (hey), don't try too high too (hey) Take it easy on the clutch (hey), 'cause girl I like you (hey) (hey)",
+      "valence": 3.33,
+      "arousal": 3.59,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "You've got a license (hey), but you got the right to (hey) Gonna pop a wheelie (hey), don't try too high too (hey) Take it easy on the clutch (hey), 'cause girl I like you (hey) (hey) You'll need a sugar fix (hey), ba-aby (hey)",
+      "valence": 3.15,
+      "arousal": 3.34,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Gonna pop a wheelie (hey), don't try too high too (hey) Take it easy on the clutch (hey), 'cause girl I like you (hey) (hey) You'll need a sugar fix (hey), ba-aby (hey) There comes a time (comes a time) (hey), and you won't believe what you'll do (hey)",
+      "valence": 3.25,
+      "arousal": 3.23,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Take it easy on the clutch (hey), 'cause girl I like you (hey) (hey) You'll need a sugar fix (hey), ba-aby (hey) There comes a time (comes a time) (hey), and you won't believe what you'll do (hey) When that sugar's callin' you (hey)",
+      "valence": 3.24,
+      "arousal": 3.34,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "You'll need a sugar fix (hey), ba-aby (hey) There comes a time (comes a time) (hey), and you won't believe what you'll do (hey) When that sugar's callin' you (hey) Girl, there will come (hey) a time (sugar, sugar), this is where you wanna be (hey)",
+      "valence": 3.2,
+      "arousal": 3.27,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "There comes a time (comes a time) (hey), and you won't believe what you'll do (hey) When that sugar's callin' you (hey) Girl, there will come (hey) a time (sugar, sugar), this is where you wanna be (hey) H-O-M-E (hey), (sugar, sugar) satisfaction guaranteed (hey)",
+      "valence": 3.45,
+      "arousal": 3.42,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "When that sugar's callin' you (hey) Girl, there will come (hey) a time (sugar, sugar), this is where you wanna be (hey) H-O-M-E (hey), (sugar, sugar) satisfaction guaranteed (hey) And there will come (hey) (sugar, sugar) a time, this is where you wanna be (hey)",
+      "valence": 3.45,
+      "arousal": 3.38,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Girl, there will come (hey) a time (sugar, sugar), this is where you wanna be (hey) H-O-M-E (hey), (sugar, sugar) satisfaction guaranteed (hey) And there will come (hey) (sugar, sugar) a time, this is where you wanna be (hey) 'Cause it's (sugar, sugar) (hey) everything you need, you will only find in me (hey)",
+      "valence": 3.45,
+      "arousal": 3.43,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "H-O-M-E (hey), (sugar, sugar) satisfaction guaranteed (hey) And there will come (hey) (sugar, sugar) a time, this is where you wanna be (hey) 'Cause it's (sugar, sugar) (hey) everything you need, you will only find in me (hey) Come get it bae (hey)",
+      "valence": 3.45,
+      "arousal": 3.51,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "And there will come (hey) (sugar, sugar) a time, this is where you wanna be (hey) 'Cause it's (sugar, sugar) (hey) everything you need, you will only find in me (hey) Come get it bae (hey) Come get it bae (hey)",
+      "valence": 3.23,
+      "arousal": 3.54,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "'Cause it's (sugar, sugar) (hey) everything you need, you will only find in me (hey) Come get it bae (hey) Come get it bae (hey) Come get it bae (hey)",
+      "valence": 3.08,
+      "arousal": 3.53,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Come get it bae (hey) Come get it bae (hey) Come get it bae (hey) Come get it bae (hey)",
+      "valence": 3.01,
+      "arousal": 3.54,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Come get it bae (hey) Come get it bae (hey) Come get it bae (hey) Come get it bae (hey) (c'mon)",
+      "valence": 2.99,
+      "arousal": 3.62,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Come get it bae (hey) Come get it bae (hey) Come get it bae (hey) (c'mon) Come get it bae (hey)",
+      "valence": 2.94,
+      "arousal": 3.55,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Come get it bae (hey) Come get it bae (hey) (c'mon) Come get it bae (hey) Come get it bae (hey) (c'mon)",
+      "valence": 2.92,
+      "arousal": 3.6,
+      "dominance": 3.75
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Come get it bae (hey) (c'mon) Come get it bae (hey) Come get it bae (hey) (c'mon) Come get it bae (hey)",
+      "valence": 2.93,
+      "arousal": 3.61,
+      "dominance": 3.74
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Come get it bae (hey) Come get it bae (hey) (c'mon) Come get it bae (hey) You wanna ride it (hey), my motorcycle (hey)",
+      "valence": 3.16,
+      "arousal": 3.62,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Come get it bae (hey) (c'mon) Come get it bae (hey) You wanna ride it (hey), my motorcycle (hey) You've got a license (hey), but you got the right to (hey)",
+      "valence": 3.12,
+      "arousal": 3.61,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Come get it bae (hey) You wanna ride it (hey), my motorcycle (hey) You've got a license (hey), but you got the right to (hey) Gonna pop a wheelie (hey), don't try too high too (hey)",
+      "valence": 3.11,
+      "arousal": 3.47,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "You wanna ride it (hey), my motorcycle (hey) You've got a license (hey), but you got the right to (hey) Gonna pop a wheelie (hey), don't try too high too (hey) Take it easy on the clutch (hey), 'cause girl I like you (hey) (hey)",
+      "valence": 3.33,
+      "arousal": 3.59,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "You've got a license (hey), but you got the right to (hey) Gonna pop a wheelie (hey), don't try too high too (hey) Take it easy on the clutch (hey), 'cause girl I like you (hey) (hey) Hey (wait man), hey (wait man), hey (wait man), hey (wait man)",
+      "valence": 3.2,
+      "arousal": 3.4,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Gonna pop a wheelie (hey), don't try too high too (hey) Take it easy on the clutch (hey), 'cause girl I like you (hey) (hey) Hey (wait man), hey (wait man), hey (wait man), hey (wait man) Hey (wait man), hey (wait man), hey (wait man), hey (wait man)",
+      "valence": 3.36,
+      "arousal": 3.3,
+      "dominance": 3.31
+    }
+  ]
+}

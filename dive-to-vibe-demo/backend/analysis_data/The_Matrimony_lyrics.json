@@ -1,0 +1,465 @@
+{
+  "artist": "Wale Featuring Usher",
+  "overall_vad": {
+    "valence": 3.06,
+    "arousal": 3.57,
+    "dominance": 3.22
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Couldn't make you wait forever, for forever This is forever I gotchu If there's a question of my heart, you've got it",
+      "valence": 3.11,
+      "arousal": 3.61,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "This is forever I gotchu If there's a question of my heart, you've got it It don't belong to anyone but you",
+      "valence": 3.11,
+      "arousal": 3.5,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I gotchu If there's a question of my heart, you've got it It don't belong to anyone but you If there's a question of my love, you've got it",
+      "valence": 3.76,
+      "arousal": 4.0,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "If there's a question of my heart, you've got it It don't belong to anyone but you If there's a question of my love, you've got it Baby don't worry, I've got plans for you",
+      "valence": 3.73,
+      "arousal": 3.9,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "It don't belong to anyone but you If there's a question of my love, you've got it Baby don't worry, I've got plans for you Baby, I've been making plans, oh love",
+      "valence": 3.6,
+      "arousal": 3.83,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "If there's a question of my love, you've got it Baby don't worry, I've got plans for you Baby, I've been making plans, oh love Baby, I've been making plans for you",
+      "valence": 4.08,
+      "arousal": 4.06,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Baby don't worry, I've got plans for you Baby, I've been making plans, oh love Baby, I've been making plans for you Baby, I've been making plans",
+      "valence": 4.05,
+      "arousal": 3.81,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Baby, I've been making plans, oh love Baby, I've been making plans for you Baby, I've been making plans Baby, I've been making plans for you",
+      "valence": 4.15,
+      "arousal": 3.98,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Baby, I've been making plans for you Baby, I've been making plans Baby, I've been making plans for you I'll admit it, all be it pathetic",
+      "valence": 3.13,
+      "arousal": 3.7,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Baby, I've been making plans Baby, I've been making plans for you I'll admit it, all be it pathetic That I'm in my late 20s still never been to a wedding",
+      "valence": 3.01,
+      "arousal": 3.66,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Baby, I've been making plans for you I'll admit it, all be it pathetic That I'm in my late 20s still never been to a wedding Guess the idea of that lobby empty, do not sit with me well",
+      "valence": 2.71,
+      "arousal": 3.6,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I'll admit it, all be it pathetic That I'm in my late 20s still never been to a wedding Guess the idea of that lobby empty, do not sit with me well It's not your fault they try get me, cause I'ma need the sales",
+      "valence": 2.42,
+      "arousal": 3.56,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "That I'm in my late 20s still never been to a wedding Guess the idea of that lobby empty, do not sit with me well It's not your fault they try get me, cause I'ma need the sales Cause I'm selfish, and I need you to myself",
+      "valence": 2.29,
+      "arousal": 3.51,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Guess the idea of that lobby empty, do not sit with me well It's not your fault they try get me, cause I'ma need the sales Cause I'm selfish, and I need you to myself Tryna see you afloat but don't wanna see you on sale",
+      "valence": 2.38,
+      "arousal": 3.43,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "It's not your fault they try get me, cause I'ma need the sales Cause I'm selfish, and I need you to myself Tryna see you afloat but don't wanna see you on sale Cause I failed and see you bout to cry",
+      "valence": 2.28,
+      "arousal": 3.49,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Cause I'm selfish, and I need you to myself Tryna see you afloat but don't wanna see you on sale Cause I failed and see you bout to cry Cause when I enter they city they leave without they pride",
+      "valence": 2.22,
+      "arousal": 3.51,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Tryna see you afloat but don't wanna see you on sale Cause I failed and see you bout to cry Cause when I enter they city they leave without they pride I'm sorry, and you starin' at my comments",
+      "valence": 2.32,
+      "arousal": 3.35,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Cause I failed and see you bout to cry Cause when I enter they city they leave without they pride I'm sorry, and you starin' at my comments Fearin' it's gone always be you sharin' me with all them",
+      "valence": 2.24,
+      "arousal": 3.35,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Cause when I enter they city they leave without they pride I'm sorry, and you starin' at my comments Fearin' it's gone always be you sharin' me with all them Wrong, how dare I say ignore them",
+      "valence": 2.29,
+      "arousal": 3.3,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I'm sorry, and you starin' at my comments Fearin' it's gone always be you sharin' me with all them Wrong, how dare I say ignore them Preparing for that day, I leave you here and switch you for them",
+      "valence": 2.48,
+      "arousal": 3.24,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Fearin' it's gone always be you sharin' me with all them Wrong, how dare I say ignore them Preparing for that day, I leave you here and switch you for them It's hard, you know temptation and all",
+      "valence": 2.57,
+      "arousal": 3.36,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Wrong, how dare I say ignore them Preparing for that day, I leave you here and switch you for them It's hard, you know temptation and all Bitches out here tryna see if my relationship's strong",
+      "valence": 2.48,
+      "arousal": 3.47,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Preparing for that day, I leave you here and switch you for them It's hard, you know temptation and all Bitches out here tryna see if my relationship's strong Get a place in the charts or runaway from your heart",
+      "valence": 2.8,
+      "arousal": 3.3,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "It's hard, you know temptation and all Bitches out here tryna see if my relationship's strong Get a place in the charts or runaway from your heart Gave this music my all, nothing is sacred no more I'm wrong",
+      "valence": 2.55,
+      "arousal": 3.55,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Bitches out here tryna see if my relationship's strong Get a place in the charts or runaway from your heart Gave this music my all, nothing is sacred no more I'm wrong But I'm promisin' you better though",
+      "valence": 2.42,
+      "arousal": 3.59,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Get a place in the charts or runaway from your heart Gave this music my all, nothing is sacred no more I'm wrong But I'm promisin' you better though And your friends sayin' let him go",
+      "valence": 2.76,
+      "arousal": 3.45,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Gave this music my all, nothing is sacred no more I'm wrong But I'm promisin' you better though And your friends sayin' let him go And we ain't gettin' any younger",
+      "valence": 2.78,
+      "arousal": 3.35,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "But I'm promisin' you better though And your friends sayin' let him go And we ain't gettin' any younger I can give up now but I can promise you forever though",
+      "valence": 2.85,
+      "arousal": 3.23,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "And your friends sayin' let him go And we ain't gettin' any younger I can give up now but I can promise you forever though If there's a question of my heart, you've got it",
+      "valence": 2.96,
+      "arousal": 3.27,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "And we ain't gettin' any younger I can give up now but I can promise you forever though If there's a question of my heart, you've got it It don't belong to anyone but you",
+      "valence": 3.04,
+      "arousal": 3.39,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I can give up now but I can promise you forever though If there's a question of my heart, you've got it It don't belong to anyone but you If there's a question of my love, you've got it",
+      "valence": 3.49,
+      "arousal": 3.9,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "If there's a question of my heart, you've got it It don't belong to anyone but you If there's a question of my love, you've got it Baby don't worry, I've got plans for you",
+      "valence": 3.73,
+      "arousal": 3.9,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "It don't belong to anyone but you If there's a question of my love, you've got it Baby don't worry, I've got plans for you Baby, I've been making plans, oh love",
+      "valence": 3.6,
+      "arousal": 3.83,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "If there's a question of my love, you've got it Baby don't worry, I've got plans for you Baby, I've been making plans, oh love Baby, I've been making plans for you",
+      "valence": 4.08,
+      "arousal": 4.06,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Baby don't worry, I've got plans for you Baby, I've been making plans, oh love Baby, I've been making plans for you Baby, I've been making plans",
+      "valence": 4.05,
+      "arousal": 3.81,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Baby, I've been making plans, oh love Baby, I've been making plans for you Baby, I've been making plans Baby, I've been making plans for you",
+      "valence": 4.15,
+      "arousal": 3.98,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Baby, I've been making plans for you Baby, I've been making plans Baby, I've been making plans for you I'll admit it, let me be hypothetic",
+      "valence": 3.46,
+      "arousal": 3.58,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Baby, I've been making plans Baby, I've been making plans for you I'll admit it, let me be hypothetic The day I find a woman I prolly be scared to share it",
+      "valence": 3.13,
+      "arousal": 3.54,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Baby, I've been making plans for you I'll admit it, let me be hypothetic The day I find a woman I prolly be scared to share it The idea of me finding love would run somebody off",
+      "valence": 3.08,
+      "arousal": 3.51,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "I'll admit it, let me be hypothetic The day I find a woman I prolly be scared to share it The idea of me finding love would run somebody off And true my wall could use some plaques but still I gotta floss",
+      "valence": 2.71,
+      "arousal": 3.31,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "The day I find a woman I prolly be scared to share it The idea of me finding love would run somebody off And true my wall could use some plaques but still I gotta floss Brush you off, see I'm kinda lost",
+      "valence": 2.52,
+      "arousal": 3.43,
+      "dominance": 2.64
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "The idea of me finding love would run somebody off And true my wall could use some plaques but still I gotta floss Brush you off, see I'm kinda lost Now I'm up in the club with a couple of Move Ons",
+      "valence": 2.64,
+      "arousal": 3.41,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "And true my wall could use some plaques but still I gotta floss Brush you off, see I'm kinda lost Now I'm up in the club with a couple of Move Ons And dark, good nigga troubled heart",
+      "valence": 2.58,
+      "arousal": 3.22,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Brush you off, see I'm kinda lost Now I'm up in the club with a couple of Move Ons And dark, good nigga troubled heart Went from fallin' in love to drunk and fallin' apart",
+      "valence": 2.46,
+      "arousal": 3.48,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Now I'm up in the club with a couple of Move Ons And dark, good nigga troubled heart Went from fallin' in love to drunk and fallin' apart This is hard, tryna find some time to move on",
+      "valence": 2.62,
+      "arousal": 3.31,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "And dark, good nigga troubled heart Went from fallin' in love to drunk and fallin' apart This is hard, tryna find some time to move on Cause when we lost our baby, I got shady shit got too dark",
+      "valence": 2.14,
+      "arousal": 3.25,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Went from fallin' in love to drunk and fallin' apart This is hard, tryna find some time to move on Cause when we lost our baby, I got shady shit got too dark Soft, and I thank you baby, you strong",
+      "valence": 2.91,
+      "arousal": 3.67,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "This is hard, tryna find some time to move on Cause when we lost our baby, I got shady shit got too dark Soft, and I thank you baby, you strong My ex before you married to, you solo I say so long",
+      "valence": 2.94,
+      "arousal": 3.6,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Cause when we lost our baby, I got shady shit got too dark Soft, and I thank you baby, you strong My ex before you married to, you solo I say so long Nah, good terms how that ended",
+      "valence": 3.18,
+      "arousal": 3.54,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Soft, and I thank you baby, you strong My ex before you married to, you solo I say so long Nah, good terms how that ended But it surely put a dent on how I worry about this business",
+      "valence": 3.34,
+      "arousal": 3.44,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "My ex before you married to, you solo I say so long Nah, good terms how that ended But it surely put a dent on how I worry about this business Off white picket fences, on flights with the children",
+      "valence": 2.52,
+      "arousal": 3.34,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Nah, good terms how that ended But it surely put a dent on how I worry about this business Off white picket fences, on flights with the children On site stealin' kisses on off nights my intentions but",
+      "valence": 2.64,
+      "arousal": 3.24,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "But it surely put a dent on how I worry about this business Off white picket fences, on flights with the children On site stealin' kisses on off nights my intentions but But I plan to do it better though",
+      "valence": 2.7,
+      "arousal": 3.23,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Off white picket fences, on flights with the children On site stealin' kisses on off nights my intentions but But I plan to do it better though But you still sayin' let it go",
+      "valence": 3.06,
+      "arousal": 3.27,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "On site stealin' kisses on off nights my intentions but But I plan to do it better though But you still sayin' let it go We ain't gettin' any younger",
+      "valence": 2.92,
+      "arousal": 3.3,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "But I plan to do it better though But you still sayin' let it go We ain't gettin' any younger Women love me now but in your eyes we forever though",
+      "valence": 2.77,
+      "arousal": 3.35,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "But you still sayin' let it go We ain't gettin' any younger Women love me now but in your eyes we forever though If there's a question of my heart, you've got it",
+      "valence": 2.84,
+      "arousal": 3.53,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "We ain't gettin' any younger Women love me now but in your eyes we forever though If there's a question of my heart, you've got it It don't belong to anyone but you",
+      "valence": 2.95,
+      "arousal": 3.39,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Women love me now but in your eyes we forever though If there's a question of my heart, you've got it It don't belong to anyone but you If there's a question of my love, you've got it",
+      "valence": 3.73,
+      "arousal": 3.89,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "If there's a question of my heart, you've got it It don't belong to anyone but you If there's a question of my love, you've got it Baby don't worry, I've got plans for you",
+      "valence": 3.73,
+      "arousal": 3.9,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "It don't belong to anyone but you If there's a question of my love, you've got it Baby don't worry, I've got plans for you Baby, I've been making plans, oh love",
+      "valence": 3.6,
+      "arousal": 3.83,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "If there's a question of my love, you've got it Baby don't worry, I've got plans for you Baby, I've been making plans, oh love Baby, I've been making plans for you",
+      "valence": 4.08,
+      "arousal": 4.06,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Baby don't worry, I've got plans for you Baby, I've been making plans, oh love Baby, I've been making plans for you Baby, I've been making plans",
+      "valence": 4.05,
+      "arousal": 3.81,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Baby, I've been making plans, oh love Baby, I've been making plans for you Baby, I've been making plans Baby, I've been making plans for you",
+      "valence": 4.15,
+      "arousal": 3.98,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Baby, I've been making plans for you Baby, I've been making plans Baby, I've been making plans for you We ain't nothin' but some planets",
+      "valence": 3.48,
+      "arousal": 3.64,
+      "dominance": 3.28
+    }
+  ]
+}

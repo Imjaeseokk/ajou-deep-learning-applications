@@ -1,0 +1,318 @@
+{
+  "artist": "Blake Shelton",
+  "overall_vad": {
+    "valence": 2.97,
+    "arousal": 3.35,
+    "dominance": 3.23
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Daddy drove the wheels off a flatbed Ford Flies found the hole in the old screen door Granny said the dress that my sister wore To church wasn't long enough",
+      "valence": 2.64,
+      "arousal": 3.16,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Flies found the hole in the old screen door Granny said the dress that my sister wore To church wasn't long enough Momma poured grease in a Chrisco can",
+      "valence": 2.62,
+      "arousal": 3.18,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Granny said the dress that my sister wore To church wasn't long enough Momma poured grease in a Chrisco can Put a hundred thousand miles on a Sears box fan",
+      "valence": 2.65,
+      "arousal": 3.12,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "To church wasn't long enough Momma poured grease in a Chrisco can Put a hundred thousand miles on a Sears box fan Uncle Joe put tobacco on my hand where",
+      "valence": 2.63,
+      "arousal": 3.17,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Momma poured grease in a Chrisco can Put a hundred thousand miles on a Sears box fan Uncle Joe put tobacco on my hand where The yellow jacket's torn me up",
+      "valence": 2.33,
+      "arousal": 3.35,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Put a hundred thousand miles on a Sears box fan Uncle Joe put tobacco on my hand where The yellow jacket's torn me up And I ain't making this up",
+      "valence": 2.35,
+      "arousal": 3.45,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Uncle Joe put tobacco on my hand where The yellow jacket's torn me up And I ain't making this up Oh, you think I'm talking crazy",
+      "valence": 2.46,
+      "arousal": 3.56,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "The yellow jacket's torn me up And I ain't making this up Oh, you think I'm talking crazy In a different language you might not understand",
+      "valence": 2.43,
+      "arousal": 3.64,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "And I ain't making this up Oh, you think I'm talking crazy In a different language you might not understand Oh, that's alright",
+      "valence": 2.68,
+      "arousal": 3.31,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Oh, you think I'm talking crazy In a different language you might not understand Oh, that's alright That's just the kind of life that made me who I am",
+      "valence": 2.95,
+      "arousal": 3.33,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "In a different language you might not understand Oh, that's alright That's just the kind of life that made me who I am Just taking my mind on a visit",
+      "valence": 3.18,
+      "arousal": 3.01,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Oh, that's alright That's just the kind of life that made me who I am Just taking my mind on a visit Back in time cos I miss it",
+      "valence": 3.14,
+      "arousal": 3.06,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "That's just the kind of life that made me who I am Just taking my mind on a visit Back in time cos I miss it You wouldn't know how to love it like I love it",
+      "valence": 3.7,
+      "arousal": 3.56,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Just taking my mind on a visit Back in time cos I miss it You wouldn't know how to love it like I love it Unless you lived it",
+      "valence": 3.39,
+      "arousal": 3.46,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Back in time cos I miss it You wouldn't know how to love it like I love it Unless you lived it And man, I lived it",
+      "valence": 3.17,
+      "arousal": 3.58,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "You wouldn't know how to love it like I love it Unless you lived it And man, I lived it Granddaddy smoked Salems with the windows up",
+      "valence": 3.37,
+      "arousal": 3.51,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Unless you lived it And man, I lived it Granddaddy smoked Salems with the windows up Drove me around in the back of that truck",
+      "valence": 2.8,
+      "arousal": 3.24,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "And man, I lived it Granddaddy smoked Salems with the windows up Drove me around in the back of that truck We drank from the hose and spit in the cup",
+      "valence": 2.78,
+      "arousal": 3.29,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Granddaddy smoked Salems with the windows up Drove me around in the back of that truck We drank from the hose and spit in the cup We all survived somehow",
+      "valence": 2.86,
+      "arousal": 3.3,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Drove me around in the back of that truck We drank from the hose and spit in the cup We all survived somehow Them old Duke boys, they're flattening their heels",
+      "valence": 2.78,
+      "arousal": 3.24,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "We drank from the hose and spit in the cup We all survived somehow Them old Duke boys, they're flattening their heels Hollywood was fake, wrestling was real",
+      "valence": 2.88,
+      "arousal": 3.23,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "We all survived somehow Them old Duke boys, they're flattening their heels Hollywood was fake, wrestling was real Wouldn't dream of spending that two dollar bill",
+      "valence": 2.87,
+      "arousal": 3.23,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Them old Duke boys, they're flattening their heels Hollywood was fake, wrestling was real Wouldn't dream of spending that two dollar bill From pushing a lawnmower 'round",
+      "valence": 2.74,
+      "arousal": 3.24,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Hollywood was fake, wrestling was real Wouldn't dream of spending that two dollar bill From pushing a lawnmower 'round I go back there right now",
+      "valence": 2.81,
+      "arousal": 3.18,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Wouldn't dream of spending that two dollar bill From pushing a lawnmower 'round I go back there right now Oh, you think I'm talking crazy",
+      "valence": 2.63,
+      "arousal": 3.53,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "From pushing a lawnmower 'round I go back there right now Oh, you think I'm talking crazy In a different language you might not understand",
+      "valence": 2.7,
+      "arousal": 3.5,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I go back there right now Oh, you think I'm talking crazy In a different language you might not understand Oh, that's alright",
+      "valence": 2.66,
+      "arousal": 3.42,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Oh, you think I'm talking crazy In a different language you might not understand Oh, that's alright That's just the kind of life that made me who I am",
+      "valence": 2.95,
+      "arousal": 3.33,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "In a different language you might not understand Oh, that's alright That's just the kind of life that made me who I am Just taking my mind on a visit",
+      "valence": 3.18,
+      "arousal": 3.01,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Oh, that's alright That's just the kind of life that made me who I am Just taking my mind on a visit Back in time cos I miss it",
+      "valence": 3.14,
+      "arousal": 3.06,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "That's just the kind of life that made me who I am Just taking my mind on a visit Back in time cos I miss it You wouldn't know how to love it like I love it",
+      "valence": 3.7,
+      "arousal": 3.56,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Just taking my mind on a visit Back in time cos I miss it You wouldn't know how to love it like I love it Unless you lived it",
+      "valence": 3.39,
+      "arousal": 3.46,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Back in time cos I miss it You wouldn't know how to love it like I love it Unless you lived it And man, I lived it",
+      "valence": 3.17,
+      "arousal": 3.58,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "You wouldn't know how to love it like I love it Unless you lived it And man, I lived it Oh man, I lived it",
+      "valence": 3.46,
+      "arousal": 3.62,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Unless you lived it And man, I lived it Oh man, I lived it Oh, you think I'm talking crazy",
+      "valence": 2.8,
+      "arousal": 3.48,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "And man, I lived it Oh man, I lived it Oh, you think I'm talking crazy In a different language you might not understand",
+      "valence": 2.82,
+      "arousal": 3.52,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Oh man, I lived it Oh, you think I'm talking crazy In a different language you might not understand Oh, that's alright",
+      "valence": 2.88,
+      "arousal": 3.4,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Oh, you think I'm talking crazy In a different language you might not understand Oh, that's alright That's just the kind of life that made me who I am",
+      "valence": 2.95,
+      "arousal": 3.33,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "In a different language you might not understand Oh, that's alright That's just the kind of life that made me who I am Just taking my mind on a visit",
+      "valence": 3.18,
+      "arousal": 3.01,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Oh, that's alright That's just the kind of life that made me who I am Just taking my mind on a visit Back in time cos I miss it",
+      "valence": 3.14,
+      "arousal": 3.06,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "That's just the kind of life that made me who I am Just taking my mind on a visit Back in time cos I miss it You wouldn't know how to love it like I love it",
+      "valence": 3.7,
+      "arousal": 3.56,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Just taking my mind on a visit Back in time cos I miss it You wouldn't know how to love it like I love it Unless you lived it",
+      "valence": 3.39,
+      "arousal": 3.46,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Back in time cos I miss it You wouldn't know how to love it like I love it Unless you lived it And man, I lived it",
+      "valence": 3.17,
+      "arousal": 3.58,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "You wouldn't know how to love it like I love it Unless you lived it And man, I lived it Oh man, I lived it",
+      "valence": 3.46,
+      "arousal": 3.62,
+      "dominance": 3.48
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "artist": "Jake Owen",
+  "overall_vad": {
+    "valence": 3.24,
+    "arousal": 3.43,
+    "dominance": 3.25
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Water towers are made for hearts and names Friday nights are made for football games Fallin' leaves are made for fallin' in Front porch steps are made for goodnight kissin'",
+      "valence": 3.35,
+      "arousal": 3.32,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Friday nights are made for football games Fallin' leaves are made for fallin' in Front porch steps are made for goodnight kissin' And I was made for you, yeah I was made for you",
+      "valence": 3.58,
+      "arousal": 3.62,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Fallin' leaves are made for fallin' in Front porch steps are made for goodnight kissin' And I was made for you, yeah I was made for you Summer jobs are made for spendin' cash",
+      "valence": 3.64,
+      "arousal": 3.55,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Front porch steps are made for goodnight kissin' And I was made for you, yeah I was made for you Summer jobs are made for spendin' cash Second dates are made for goin' fast",
+      "valence": 3.62,
+      "arousal": 3.65,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "And I was made for you, yeah I was made for you Summer jobs are made for spendin' cash Second dates are made for goin' fast Early curfews are made for sneakin' past",
+      "valence": 3.37,
+      "arousal": 3.44,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Summer jobs are made for spendin' cash Second dates are made for goin' fast Early curfews are made for sneakin' past Two AM was made for pissed off dads",
+      "valence": 2.99,
+      "arousal": 3.27,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Second dates are made for goin' fast Early curfews are made for sneakin' past Two AM was made for pissed off dads And I was made for you, yeah I was made for you",
+      "valence": 2.88,
+      "arousal": 3.61,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Early curfews are made for sneakin' past Two AM was made for pissed off dads And I was made for you, yeah I was made for you Oh like a ship without a sea",
+      "valence": 2.86,
+      "arousal": 3.53,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Two AM was made for pissed off dads And I was made for you, yeah I was made for you Oh like a ship without a sea Or a song without a melody",
+      "valence": 2.77,
+      "arousal": 3.55,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "And I was made for you, yeah I was made for you Oh like a ship without a sea Or a song without a melody I don't know where I'd be or what I'd do",
+      "valence": 3.16,
+      "arousal": 3.41,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Oh like a ship without a sea Or a song without a melody I don't know where I'd be or what I'd do 'Cause I was made for you",
+      "valence": 3.02,
+      "arousal": 3.26,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Or a song without a melody I don't know where I'd be or what I'd do 'Cause I was made for you Smoky bars are made for \"How 'bout a dance?\"",
+      "valence": 3.01,
+      "arousal": 3.26,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I don't know where I'd be or what I'd do 'Cause I was made for you Smoky bars are made for \"How 'bout a dance?\" Open roads are made for holdin' hands and",
+      "valence": 3.01,
+      "arousal": 3.37,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "'Cause I was made for you Smoky bars are made for \"How 'bout a dance?\" Open roads are made for holdin' hands and Laid back seats are made for young love",
+      "valence": 3.5,
+      "arousal": 3.53,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Smoky bars are made for \"How 'bout a dance?\" Open roads are made for holdin' hands and Laid back seats are made for young love Two pink lines are made for growin' up",
+      "valence": 3.48,
+      "arousal": 3.42,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Open roads are made for holdin' hands and Laid back seats are made for young love Two pink lines are made for growin' up And I was made for you, yeah I was made for you",
+      "valence": 3.61,
+      "arousal": 3.44,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Laid back seats are made for young love Two pink lines are made for growin' up And I was made for you, yeah I was made for you Like a ship without a sea",
+      "valence": 3.54,
+      "arousal": 3.4,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Two pink lines are made for growin' up And I was made for you, yeah I was made for you Like a ship without a sea Or a song without a melody",
+      "valence": 3.26,
+      "arousal": 3.38,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "And I was made for you, yeah I was made for you Like a ship without a sea Or a song without a melody I don't know where I'd be or what I'd do",
+      "valence": 3.17,
+      "arousal": 3.4,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Like a ship without a sea Or a song without a melody I don't know where I'd be or what I'd do 'Cause I was made for you",
+      "valence": 2.97,
+      "arousal": 3.26,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Or a song without a melody I don't know where I'd be or what I'd do 'Cause I was made for you Tiny shoes are made for tiny feet",
+      "valence": 3.0,
+      "arousal": 3.21,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I don't know where I'd be or what I'd do 'Cause I was made for you Tiny shoes are made for tiny feet My two arms are made for where you sleep",
+      "valence": 3.1,
+      "arousal": 3.37,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "'Cause I was made for you Tiny shoes are made for tiny feet My two arms are made for where you sleep Sky was made for the moon and stars",
+      "valence": 3.42,
+      "arousal": 3.39,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Tiny shoes are made for tiny feet My two arms are made for where you sleep Sky was made for the moon and stars You were made to steal my heart",
+      "valence": 3.22,
+      "arousal": 3.44,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "My two arms are made for where you sleep Sky was made for the moon and stars You were made to steal my heart And I was made for you, yeah I was made for you",
+      "valence": 3.39,
+      "arousal": 3.7,
+      "dominance": 3.23
+    }
+  ]
+}

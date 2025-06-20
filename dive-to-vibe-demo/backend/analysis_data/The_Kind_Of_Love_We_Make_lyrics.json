@@ -1,0 +1,353 @@
+{
+  "artist": "Luke Combs",
+  "overall_vad": {
+    "valence": 3.41,
+    "arousal": 3.51,
+    "dominance": 3.39
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "We've been burnin' both ends Keepin' the lights on So I've been thinkin' we need A little time alone",
+      "valence": 2.83,
+      "arousal": 3.02,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Keepin' the lights on So I've been thinkin' we need A little time alone So whatcha say we cancel our plans?",
+      "valence": 2.8,
+      "arousal": 3.17,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "So I've been thinkin' we need A little time alone So whatcha say we cancel our plans? Tonight, I'm only gonna be your man",
+      "valence": 3.05,
+      "arousal": 3.21,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "A little time alone So whatcha say we cancel our plans? Tonight, I'm only gonna be your man Let's get some candles burnin'",
+      "valence": 3.07,
+      "arousal": 3.25,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "So whatcha say we cancel our plans? Tonight, I'm only gonna be your man Let's get some candles burnin' And some records turnin'",
+      "valence": 3.05,
+      "arousal": 3.4,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Tonight, I'm only gonna be your man Let's get some candles burnin' And some records turnin' All the lights down low",
+      "valence": 3.22,
+      "arousal": 3.22,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Let's get some candles burnin' And some records turnin' All the lights down low Take it nice and slow",
+      "valence": 3.25,
+      "arousal": 3.12,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "And some records turnin' All the lights down low Take it nice and slow The way your body's movin'",
+      "valence": 3.39,
+      "arousal": 3.19,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "All the lights down low Take it nice and slow The way your body's movin' Keep doin' what you're doin'",
+      "valence": 3.14,
+      "arousal": 3.0,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Take it nice and slow The way your body's movin' Keep doin' what you're doin' To me all night long",
+      "valence": 3.19,
+      "arousal": 3.28,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "The way your body's movin' Keep doin' what you're doin' To me all night long Writin' our love song",
+      "valence": 3.73,
+      "arousal": 3.71,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Keep doin' what you're doin' To me all night long Writin' our love song Girl, I want it, gotta have it",
+      "valence": 3.64,
+      "arousal": 3.92,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "To me all night long Writin' our love song Girl, I want it, gotta have it Let the passion take us to a higher place",
+      "valence": 3.79,
+      "arousal": 3.89,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Writin' our love song Girl, I want it, gotta have it Let the passion take us to a higher place Makin' the kind of love we make",
+      "valence": 3.98,
+      "arousal": 3.93,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Girl, I want it, gotta have it Let the passion take us to a higher place Makin' the kind of love we make Well, there ain't no way, baby",
+      "valence": 3.63,
+      "arousal": 3.93,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Let the passion take us to a higher place Makin' the kind of love we make Well, there ain't no way, baby To get me out this house",
+      "valence": 3.68,
+      "arousal": 3.73,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Makin' the kind of love we make Well, there ain't no way, baby To get me out this house When you look this good",
+      "valence": 3.65,
+      "arousal": 3.75,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Well, there ain't no way, baby To get me out this house When you look this good What could I even think about? Oh",
+      "valence": 2.7,
+      "arousal": 3.42,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "To get me out this house When you look this good What could I even think about? Oh Besides turnin' round and lockin' the door",
+      "valence": 2.78,
+      "arousal": 3.38,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "When you look this good What could I even think about? Oh Besides turnin' round and lockin' the door Watchin' your red dress fall to the floor",
+      "valence": 2.98,
+      "arousal": 3.44,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "What could I even think about? Oh Besides turnin' round and lockin' the door Watchin' your red dress fall to the floor Let's get some candles burnin'",
+      "valence": 2.86,
+      "arousal": 3.15,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Besides turnin' round and lockin' the door Watchin' your red dress fall to the floor Let's get some candles burnin' And some records turnin'",
+      "valence": 3.11,
+      "arousal": 3.17,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Watchin' your red dress fall to the floor Let's get some candles burnin' And some records turnin' All the lights down low",
+      "valence": 3.11,
+      "arousal": 3.21,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Let's get some candles burnin' And some records turnin' All the lights down low Take it nice and slow",
+      "valence": 3.25,
+      "arousal": 3.12,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "And some records turnin' All the lights down low Take it nice and slow The way your body's movin'",
+      "valence": 3.39,
+      "arousal": 3.19,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "All the lights down low Take it nice and slow The way your body's movin' Keep doin' what you're doin'",
+      "valence": 3.14,
+      "arousal": 3.0,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Take it nice and slow The way your body's movin' Keep doin' what you're doin' To me all night long",
+      "valence": 3.19,
+      "arousal": 3.28,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "The way your body's movin' Keep doin' what you're doin' To me all night long Writin' our love song",
+      "valence": 3.73,
+      "arousal": 3.71,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Keep doin' what you're doin' To me all night long Writin' our love song Girl, I want it, gotta have it",
+      "valence": 3.64,
+      "arousal": 3.92,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "To me all night long Writin' our love song Girl, I want it, gotta have it Let the passion take us to a higher place",
+      "valence": 3.79,
+      "arousal": 3.89,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Writin' our love song Girl, I want it, gotta have it Let the passion take us to a higher place Makin' the kind of love we make",
+      "valence": 3.98,
+      "arousal": 3.93,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Girl, I want it, gotta have it Let the passion take us to a higher place Makin' the kind of love we make Kind of love we make",
+      "valence": 3.82,
+      "arousal": 4.07,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Let the passion take us to a higher place Makin' the kind of love we make Kind of love we make So whatcha say we cancel our plans?",
+      "valence": 3.71,
+      "arousal": 3.78,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Makin' the kind of love we make Kind of love we make So whatcha say we cancel our plans? Tonight, I'm only gonna be your man",
+      "valence": 3.69,
+      "arousal": 3.82,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Kind of love we make So whatcha say we cancel our plans? Tonight, I'm only gonna be your man Let's get some candles burnin'",
+      "valence": 3.51,
+      "arousal": 3.61,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "So whatcha say we cancel our plans? Tonight, I'm only gonna be your man Let's get some candles burnin' Some records turnin'",
+      "valence": 3.07,
+      "arousal": 3.42,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Tonight, I'm only gonna be your man Let's get some candles burnin' Some records turnin' All the lights down low",
+      "valence": 3.21,
+      "arousal": 3.2,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Let's get some candles burnin' Some records turnin' All the lights down low Take it nice and slow",
+      "valence": 3.25,
+      "arousal": 3.15,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Some records turnin' All the lights down low Take it nice and slow The way your body's movin'",
+      "valence": 3.33,
+      "arousal": 3.13,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "All the lights down low Take it nice and slow The way your body's movin' Keep doin' what you're doin'",
+      "valence": 3.14,
+      "arousal": 3.0,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Take it nice and slow The way your body's movin' Keep doin' what you're doin' To me all night long",
+      "valence": 3.19,
+      "arousal": 3.28,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "The way your body's movin' Keep doin' what you're doin' To me all night long Writin' our love song",
+      "valence": 3.73,
+      "arousal": 3.71,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Keep doin' what you're doin' To me all night long Writin' our love song Girl, I want it, gotta have it",
+      "valence": 3.64,
+      "arousal": 3.92,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "To me all night long Writin' our love song Girl, I want it, gotta have it Let the passion take us to a higher place",
+      "valence": 3.79,
+      "arousal": 3.89,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Writin' our love song Girl, I want it, gotta have it Let the passion take us to a higher place Girl, I want it, gotta have it",
+      "valence": 3.76,
+      "arousal": 3.85,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Girl, I want it, gotta have it Let the passion take us to a higher place Girl, I want it, gotta have it Let the passion take us to a higher place",
+      "valence": 3.62,
+      "arousal": 3.9,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Let the passion take us to a higher place Girl, I want it, gotta have it Let the passion take us to a higher place Makin' the kind of love we make",
+      "valence": 3.95,
+      "arousal": 3.91,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Girl, I want it, gotta have it Let the passion take us to a higher place Makin' the kind of love we make Kind of love we make",
+      "valence": 3.82,
+      "arousal": 4.07,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Let the passion take us to a higher place Makin' the kind of love we make Kind of love we make Makin' the kind of love we make",
+      "valence": 4.08,
+      "arousal": 3.84,
+      "dominance": 3.58
+    }
+  ]
+}

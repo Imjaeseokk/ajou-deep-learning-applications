@@ -1,0 +1,367 @@
+{
+  "artist": "Shakira & Rauw Alejandro",
+  "overall_vad": {
+    "valence": 3.11,
+    "arousal": 3.26,
+    "dominance": 3.07
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Por completarte me rompÃ­ en pedazos Me lo advirtieron, pero no hice caso Me di cuenta que lo tuyo es falso Fue la gota que rebasÃ³ el vaso",
+      "valence": 2.86,
+      "arousal": 3.1,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Me lo advirtieron, pero no hice caso Me di cuenta que lo tuyo es falso Fue la gota que rebasÃ³ el vaso No me digas que lo sientes",
+      "valence": 2.81,
+      "arousal": 3.0,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Me di cuenta que lo tuyo es falso Fue la gota que rebasÃ³ el vaso No me digas que lo sientes Eso parece sincero, pero te conozco bien y sÃ© que mientes",
+      "valence": 2.86,
+      "arousal": 3.06,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Fue la gota que rebasÃ³ el vaso No me digas que lo sientes Eso parece sincero, pero te conozco bien y sÃ© que mientes Te felicito, quÃ© bien actÃºas",
+      "valence": 3.04,
+      "arousal": 3.23,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "No me digas que lo sientes Eso parece sincero, pero te conozco bien y sÃ© que mientes Te felicito, quÃ© bien actÃºas De eso no me cabe duda",
+      "valence": 3.01,
+      "arousal": 3.13,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Eso parece sincero, pero te conozco bien y sÃ© que mientes Te felicito, quÃ© bien actÃºas De eso no me cabe duda Con tu papel continÃºa",
+      "valence": 3.1,
+      "arousal": 3.23,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Te felicito, quÃ© bien actÃºas De eso no me cabe duda Con tu papel continÃºa Te queda bien esÐµ show",
+      "valence": 3.2,
+      "arousal": 3.26,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "De eso no me cabe duda Con tu papel continÃºa Te queda bien esÐµ show Te felicito, quÃ© bien actÃºas",
+      "valence": 3.16,
+      "arousal": 3.27,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Con tu papel continÃºa Te queda bien esÐµ show Te felicito, quÃ© bien actÃºas DÐµ eso no me cabe duda",
+      "valence": 3.11,
+      "arousal": 3.22,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Te queda bien esÐµ show Te felicito, quÃ© bien actÃºas DÐµ eso no me cabe duda Con tu papel continÃºa",
+      "valence": 3.17,
+      "arousal": 3.28,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Te felicito, quÃ© bien actÃºas DÐµ eso no me cabe duda Con tu papel continÃºa Te queda bien ese show",
+      "valence": 3.19,
+      "arousal": 3.28,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "DÐµ eso no me cabe duda Con tu papel continÃºa Te queda bien ese show Te felicito, quÃ© bien actÃºas",
+      "valence": 3.13,
+      "arousal": 3.24,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Con tu papel continÃºa Te queda bien ese show Te felicito, quÃ© bien actÃºas Esa filosofÃ­a barata no la compro",
+      "valence": 3.1,
+      "arousal": 3.27,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Te queda bien ese show Te felicito, quÃ© bien actÃºas Esa filosofÃ­a barata no la compro Lo siento, en esa moto' ya no me monto",
+      "valence": 3.15,
+      "arousal": 3.25,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Te felicito, quÃ© bien actÃºas Esa filosofÃ­a barata no la compro Lo siento, en esa moto' ya no me monto La gente de dos caras no la soporto",
+      "valence": 3.07,
+      "arousal": 3.21,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Esa filosofÃ­a barata no la compro Lo siento, en esa moto' ya no me monto La gente de dos caras no la soporto Yo que ponÃ­a las manos al fuego por ti",
+      "valence": 2.84,
+      "arousal": 3.05,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Lo siento, en esa moto' ya no me monto La gente de dos caras no la soporto Yo que ponÃ­a las manos al fuego por ti Me tratas como una mÃ¡s de tus antojos",
+      "valence": 2.87,
+      "arousal": 2.99,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "La gente de dos caras no la soporto Yo que ponÃ­a las manos al fuego por ti Me tratas como una mÃ¡s de tus antojos Tu herida no me abriÃ³ la piel, pero sÃ­ los ojos",
+      "valence": 2.9,
+      "arousal": 3.07,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Yo que ponÃ­a las manos al fuego por ti Me tratas como una mÃ¡s de tus antojos Tu herida no me abriÃ³ la piel, pero sÃ­ los ojos Los tengo rojos de tanto llorar por ti",
+      "valence": 2.96,
+      "arousal": 3.09,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Me tratas como una mÃ¡s de tus antojos Tu herida no me abriÃ³ la piel, pero sÃ­ los ojos Los tengo rojos de tanto llorar por ti Y ahora resulta que lo sientes",
+      "valence": 2.88,
+      "arousal": 3.0,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Tu herida no me abriÃ³ la piel, pero sÃ­ los ojos Los tengo rojos de tanto llorar por ti Y ahora resulta que lo sientes Suena sincero, pero te conozco bien y sÃ© que mientes",
+      "valence": 2.88,
+      "arousal": 3.02,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Los tengo rojos de tanto llorar por ti Y ahora resulta que lo sientes Suena sincero, pero te conozco bien y sÃ© que mientes Te felicito, quÃ© bien actÃºas",
+      "valence": 3.1,
+      "arousal": 3.28,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Y ahora resulta que lo sientes Suena sincero, pero te conozco bien y sÃ© que mientes Te felicito, quÃ© bien actÃºas De eso no me cabe duda",
+      "valence": 3.02,
+      "arousal": 3.19,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Suena sincero, pero te conozco bien y sÃ© que mientes Te felicito, quÃ© bien actÃºas De eso no me cabe duda Con tu papel continÃºa",
+      "valence": 3.09,
+      "arousal": 3.23,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Te felicito, quÃ© bien actÃºas De eso no me cabe duda Con tu papel continÃºa Te queda bien ese show",
+      "valence": 3.22,
+      "arousal": 3.28,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "De eso no me cabe duda Con tu papel continÃºa Te queda bien ese show Te felicito, quÃ© bien actÃºas",
+      "valence": 3.15,
+      "arousal": 3.26,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Con tu papel continÃºa Te queda bien ese show Te felicito, quÃ© bien actÃºas De eso no me cabe duda",
+      "valence": 3.14,
+      "arousal": 3.24,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Te queda bien ese show Te felicito, quÃ© bien actÃºas De eso no me cabe duda Con tu papel continÃºa",
+      "valence": 3.23,
+      "arousal": 3.26,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Te felicito, quÃ© bien actÃºas De eso no me cabe duda Con tu papel continÃºa Te queda bien ese show",
+      "valence": 3.22,
+      "arousal": 3.28,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "De eso no me cabe duda Con tu papel continÃºa Te queda bien ese show Te felicito, quÃ© bien actÃºas (ey, dice, Ra-Rauw)",
+      "valence": 3.14,
+      "arousal": 3.32,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Con tu papel continÃºa Te queda bien ese show Te felicito, quÃ© bien actÃºas (ey, dice, Ra-Rauw) HablÃ¡ndote claro, no te necesito (yeah)",
+      "valence": 3.16,
+      "arousal": 3.28,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Te queda bien ese show Te felicito, quÃ© bien actÃºas (ey, dice, Ra-Rauw) HablÃ¡ndote claro, no te necesito (yeah) Perdiste a alguien autÃ©ntico (ah)",
+      "valence": 3.18,
+      "arousal": 3.26,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Te felicito, quÃ© bien actÃºas (ey, dice, Ra-Rauw) HablÃ¡ndote claro, no te necesito (yeah) Perdiste a alguien autÃ©ntico (ah) Algo me decÃ­a por quÃ© no fluÃ­amo (Â¡wuh!)",
+      "valence": 3.19,
+      "arousal": 3.44,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "HablÃ¡ndote claro, no te necesito (yeah) Perdiste a alguien autÃ©ntico (ah) Algo me decÃ­a por quÃ© no fluÃ­amo (Â¡wuh!) Te va a picar cuando recuerde cÃ³mo nos comÃ­amo (Â¡yah!)",
+      "valence": 3.22,
+      "arousal": 3.52,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Perdiste a alguien autÃ©ntico (ah) Algo me decÃ­a por quÃ© no fluÃ­amo (Â¡wuh!) Te va a picar cuando recuerde cÃ³mo nos comÃ­amo (Â¡yah!) Como ante (ey)",
+      "valence": 3.26,
+      "arousal": 3.64,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Algo me decÃ­a por quÃ© no fluÃ­amo (Â¡wuh!) Te va a picar cuando recuerde cÃ³mo nos comÃ­amo (Â¡yah!) Como ante (ey) TÃº de espalda apoyÃ¡ndote del volante (ry)",
+      "valence": 3.35,
+      "arousal": 3.71,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Te va a picar cuando recuerde cÃ³mo nos comÃ­amo (Â¡yah!) Como ante (ey) TÃº de espalda apoyÃ¡ndote del volante (ry) Quemando el tranquilizante",
+      "valence": 3.32,
+      "arousal": 3.6,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Como ante (ey) TÃº de espalda apoyÃ¡ndote del volante (ry) Quemando el tranquilizante No te bloqueÃ© de las rede pa que vea la otra en la Mercede (Â¡yah!)",
+      "valence": 3.25,
+      "arousal": 3.56,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "TÃº de espalda apoyÃ¡ndote del volante (ry) Quemando el tranquilizante No te bloqueÃ© de las rede pa que vea la otra en la Mercede (Â¡yah!) No me cuente mÃ¡s historia, no quiero saber",
+      "valence": 3.25,
+      "arousal": 3.42,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Quemando el tranquilizante No te bloqueÃ© de las rede pa que vea la otra en la Mercede (Â¡yah!) No me cuente mÃ¡s historia, no quiero saber CÃ³mo es que he sido tan ciega y no he podido ver",
+      "valence": 3.15,
+      "arousal": 3.42,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "No te bloqueÃ© de las rede pa que vea la otra en la Mercede (Â¡yah!) No me cuente mÃ¡s historia, no quiero saber CÃ³mo es que he sido tan ciega y no he podido ver Te deberÃ­an dar un Ãscar, lo has hecho tan bien",
+      "valence": 3.09,
+      "arousal": 3.33,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "No me cuente mÃ¡s historia, no quiero saber CÃ³mo es que he sido tan ciega y no he podido ver Te deberÃ­an dar un Ãscar, lo has hecho tan bien Te felicito, quÃ© bien actÃºas",
+      "valence": 3.05,
+      "arousal": 3.11,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "CÃ³mo es que he sido tan ciega y no he podido ver Te deberÃ­an dar un Ãscar, lo has hecho tan bien Te felicito, quÃ© bien actÃºas De eso no me cabe duda",
+      "valence": 3.1,
+      "arousal": 3.19,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Te deberÃ­an dar un Ãscar, lo has hecho tan bien Te felicito, quÃ© bien actÃºas De eso no me cabe duda Con tu papel continÃºa",
+      "valence": 3.15,
+      "arousal": 3.26,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Te felicito, quÃ© bien actÃºas De eso no me cabe duda Con tu papel continÃºa Te queda bien ese show",
+      "valence": 3.22,
+      "arousal": 3.28,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "De eso no me cabe duda Con tu papel continÃºa Te queda bien ese show Te felicito, quÃ© bien actÃºas",
+      "valence": 3.15,
+      "arousal": 3.26,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Con tu papel continÃºa Te queda bien ese show Te felicito, quÃ© bien actÃºas De eso no me cabe duda",
+      "valence": 3.14,
+      "arousal": 3.24,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Te queda bien ese show Te felicito, quÃ© bien actÃºas De eso no me cabe duda Con tu papel continÃºa",
+      "valence": 3.23,
+      "arousal": 3.26,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Te felicito, quÃ© bien actÃºas De eso no me cabe duda Con tu papel continÃºa Te queda bien ese show",
+      "valence": 3.22,
+      "arousal": 3.28,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "De eso no me cabe duda Con tu papel continÃºa Te queda bien ese show Te felicito, quÃ© bien actÃºas",
+      "valence": 3.15,
+      "arousal": 3.26,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Con tu papel continÃºa Te queda bien ese show Te felicito, quÃ© bien actÃºas Translate to English",
+      "valence": 3.27,
+      "arousal": 3.19,
+      "dominance": 3.15
+    }
+  ]
+}

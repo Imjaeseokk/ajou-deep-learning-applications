@@ -1,0 +1,234 @@
+{
+  "artist": "Justin Bieber",
+  "overall_vad": {
+    "valence": 3.04,
+    "arousal": 3.59,
+    "dominance": 3.03
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Youngblood thinks there's always tomorrow I miss your touch on nights when I'm hollow I know you crossed a bridge that I can't follow Since the love that you left is all that I get",
+      "valence": 3.03,
+      "arousal": 3.41,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I miss your touch on nights when I'm hollow I know you crossed a bridge that I can't follow Since the love that you left is all that I get I want you to know",
+      "valence": 3.08,
+      "arousal": 3.45,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I know you crossed a bridge that I can't follow Since the love that you left is all that I get I want you to know That if I can't be close to you",
+      "valence": 3.24,
+      "arousal": 3.5,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Since the love that you left is all that I get I want you to know That if I can't be close to you I'll settle for the ghost of you",
+      "valence": 2.89,
+      "arousal": 3.33,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I want you to know That if I can't be close to you I'll settle for the ghost of you I miss you more than life (more than life)",
+      "valence": 2.87,
+      "arousal": 3.46,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "That if I can't be close to you I'll settle for the ghost of you I miss you more than life (more than life) And if you can't be next to me",
+      "valence": 2.67,
+      "arousal": 3.37,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I'll settle for the ghost of you I miss you more than life (more than life) And if you can't be next to me Your memory is ecstasy",
+      "valence": 3.01,
+      "arousal": 3.59,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I miss you more than life (more than life) And if you can't be next to me Your memory is ecstasy I miss you more than life",
+      "valence": 3.07,
+      "arousal": 3.9,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "And if you can't be next to me Your memory is ecstasy I miss you more than life I miss you more than life",
+      "valence": 3.33,
+      "arousal": 3.99,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Your memory is ecstasy I miss you more than life I miss you more than life Youngblood thinks there's always tomorrow (woo)",
+      "valence": 3.51,
+      "arousal": 4.01,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I miss you more than life I miss you more than life Youngblood thinks there's always tomorrow (woo) I need more time but time can't be borrowed",
+      "valence": 2.79,
+      "arousal": 3.68,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I miss you more than life Youngblood thinks there's always tomorrow (woo) I need more time but time can't be borrowed I'd leave it all behind if I could follow",
+      "valence": 2.74,
+      "arousal": 3.53,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Youngblood thinks there's always tomorrow (woo) I need more time but time can't be borrowed I'd leave it all behind if I could follow Since the love that you left is all that I get",
+      "valence": 3.3,
+      "arousal": 3.44,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I need more time but time can't be borrowed I'd leave it all behind if I could follow Since the love that you left is all that I get I want you to know",
+      "valence": 3.28,
+      "arousal": 3.33,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I'd leave it all behind if I could follow Since the love that you left is all that I get I want you to know That if I can't be close to you",
+      "valence": 3.1,
+      "arousal": 3.37,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Since the love that you left is all that I get I want you to know That if I can't be close to you I'll settle for the ghost of you",
+      "valence": 2.89,
+      "arousal": 3.33,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I want you to know That if I can't be close to you I'll settle for the ghost of you I miss you more than life (more than life), yeah",
+      "valence": 2.93,
+      "arousal": 3.53,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "That if I can't be close to you I'll settle for the ghost of you I miss you more than life (more than life), yeah And if you can't be next to me",
+      "valence": 2.73,
+      "arousal": 3.43,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I'll settle for the ghost of you I miss you more than life (more than life), yeah And if you can't be next to me Your memory is ecstasy (oh)",
+      "valence": 3.11,
+      "arousal": 3.65,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I miss you more than life (more than life), yeah And if you can't be next to me Your memory is ecstasy (oh) I miss you more than life",
+      "valence": 3.06,
+      "arousal": 3.94,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "And if you can't be next to me Your memory is ecstasy (oh) I miss you more than life I miss you more than life",
+      "valence": 3.3,
+      "arousal": 4.0,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Your memory is ecstasy (oh) I miss you more than life I miss you more than life Whoa",
+      "valence": 3.62,
+      "arousal": 4.15,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I miss you more than life I miss you more than life Whoa Na, na-na",
+      "valence": 2.99,
+      "arousal": 3.82,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I miss you more than life Whoa Na, na-na More than life",
+      "valence": 3.09,
+      "arousal": 3.69,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Whoa Na, na-na More than life Oh",
+      "valence": 3.22,
+      "arousal": 3.39,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Na, na-na More than life Oh So if I can't get close to you",
+      "valence": 2.94,
+      "arousal": 3.35,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "More than life Oh So if I can't get close to you I'll settle for the ghost of you",
+      "valence": 2.87,
+      "arousal": 3.23,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Oh So if I can't get close to you I'll settle for the ghost of you But I miss you more than life",
+      "valence": 2.69,
+      "arousal": 3.36,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "So if I can't get close to you I'll settle for the ghost of you But I miss you more than life And if you can't be next to me",
+      "valence": 2.67,
+      "arousal": 3.3,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I'll settle for the ghost of you But I miss you more than life And if you can't be next to me Your memory is ecstasy",
+      "valence": 2.87,
+      "arousal": 3.54,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "But I miss you more than life And if you can't be next to me Your memory is ecstasy I miss you more than life",
+      "valence": 2.95,
+      "arousal": 3.8,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "And if you can't be next to me Your memory is ecstasy I miss you more than life I miss you more than life",
+      "valence": 3.33,
+      "arousal": 3.99,
+      "dominance": 3.07
+    }
+  ]
+}

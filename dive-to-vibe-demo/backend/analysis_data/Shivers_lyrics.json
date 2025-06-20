@@ -1,0 +1,402 @@
+{
+  "artist": "Ed Sheeran",
+  "overall_vad": {
+    "valence": 3.48,
+    "arousal": 3.86,
+    "dominance": 3.3
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I took an arrow to the heart I never kissed a mouth that tastes like yours Strawberries and somethin' more Ooh yeah, I want it all",
+      "valence": 2.92,
+      "arousal": 3.96,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I never kissed a mouth that tastes like yours Strawberries and somethin' more Ooh yeah, I want it all Lipstick on my guitar (ooh)",
+      "valence": 3.19,
+      "arousal": 3.84,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Strawberries and somethin' more Ooh yeah, I want it all Lipstick on my guitar (ooh) Fill up the engine, we can drive real far",
+      "valence": 3.24,
+      "arousal": 3.64,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Ooh yeah, I want it all Lipstick on my guitar (ooh) Fill up the engine, we can drive real far Go dancin' underneath the stars",
+      "valence": 3.27,
+      "arousal": 3.72,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Lipstick on my guitar (ooh) Fill up the engine, we can drive real far Go dancin' underneath the stars Ooh yeah, I want it all",
+      "valence": 3.3,
+      "arousal": 3.77,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Fill up the engine, we can drive real far Go dancin' underneath the stars Ooh yeah, I want it all Mm, you got me feelin' like",
+      "valence": 3.36,
+      "arousal": 3.68,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Go dancin' underneath the stars Ooh yeah, I want it all Mm, you got me feelin' like I wanna be that guy, I wanna kiss your eyes",
+      "valence": 3.54,
+      "arousal": 3.76,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Ooh yeah, I want it all Mm, you got me feelin' like I wanna be that guy, I wanna kiss your eyes I wanna drink that smile, I wanna feel like I'm",
+      "valence": 3.71,
+      "arousal": 3.86,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Mm, you got me feelin' like I wanna be that guy, I wanna kiss your eyes I wanna drink that smile, I wanna feel like I'm Like my soul's on fire, I wanna stay up all day and all night",
+      "valence": 3.65,
+      "arousal": 3.81,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I wanna be that guy, I wanna kiss your eyes I wanna drink that smile, I wanna feel like I'm Like my soul's on fire, I wanna stay up all day and all night Yeah, you got me singin' like",
+      "valence": 3.59,
+      "arousal": 3.81,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I wanna drink that smile, I wanna feel like I'm Like my soul's on fire, I wanna stay up all day and all night Yeah, you got me singin' like Ooh, I love it when you do it like that",
+      "valence": 3.96,
+      "arousal": 3.86,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Like my soul's on fire, I wanna stay up all day and all night Yeah, you got me singin' like Ooh, I love it when you do it like that And when you're close up, give me the shivers",
+      "valence": 3.87,
+      "arousal": 4.03,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Yeah, you got me singin' like Ooh, I love it when you do it like that And when you're close up, give me the shivers Oh baby, you wanna dance 'til the sunlight cracks",
+      "valence": 4.08,
+      "arousal": 3.98,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Ooh, I love it when you do it like that And when you're close up, give me the shivers Oh baby, you wanna dance 'til the sunlight cracks And when they say the party's over, then we'll bring it right back",
+      "valence": 3.91,
+      "arousal": 3.96,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And when you're close up, give me the shivers Oh baby, you wanna dance 'til the sunlight cracks And when they say the party's over, then we'll bring it right back And we'll say, ooh, I love it when you do it like that",
+      "valence": 3.8,
+      "arousal": 3.86,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Oh baby, you wanna dance 'til the sunlight cracks And when they say the party's over, then we'll bring it right back And we'll say, ooh, I love it when you do it like that And when you're close up, give me the shivers",
+      "valence": 3.78,
+      "arousal": 3.8,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "And when they say the party's over, then we'll bring it right back And we'll say, ooh, I love it when you do it like that And when you're close up, give me the shivers Oh baby, you wanna dance 'til the sunlight cracks",
+      "valence": 3.86,
+      "arousal": 3.83,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "And we'll say, ooh, I love it when you do it like that And when you're close up, give me the shivers Oh baby, you wanna dance 'til the sunlight cracks And when they say the party's over, then we'll bring it right back",
+      "valence": 3.89,
+      "arousal": 3.85,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "And when you're close up, give me the shivers Oh baby, you wanna dance 'til the sunlight cracks And when they say the party's over, then we'll bring it right back Into the car",
+      "valence": 3.17,
+      "arousal": 3.61,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Oh baby, you wanna dance 'til the sunlight cracks And when they say the party's over, then we'll bring it right back Into the car On the backseat in the moonlit dark",
+      "valence": 3.34,
+      "arousal": 3.47,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "And when they say the party's over, then we'll bring it right back Into the car On the backseat in the moonlit dark Wrap me up between your legs and arms",
+      "valence": 3.16,
+      "arousal": 3.4,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Into the car On the backseat in the moonlit dark Wrap me up between your legs and arms Ooh, I can't get enough",
+      "valence": 3.22,
+      "arousal": 3.65,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "On the backseat in the moonlit dark Wrap me up between your legs and arms Ooh, I can't get enough You know you could tear me apart (ooh)",
+      "valence": 2.71,
+      "arousal": 4.03,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Wrap me up between your legs and arms Ooh, I can't get enough You know you could tear me apart (ooh) Put me back together and take my heart",
+      "valence": 2.68,
+      "arousal": 4.1,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Ooh, I can't get enough You know you could tear me apart (ooh) Put me back together and take my heart I never thought that I could love this hard",
+      "valence": 2.85,
+      "arousal": 4.27,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "You know you could tear me apart (ooh) Put me back together and take my heart I never thought that I could love this hard Ooh, I can't get enough",
+      "valence": 3.01,
+      "arousal": 4.28,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Put me back together and take my heart I never thought that I could love this hard Ooh, I can't get enough Mm, you got me feeling like",
+      "valence": 3.5,
+      "arousal": 4.04,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I never thought that I could love this hard Ooh, I can't get enough Mm, you got me feeling like I wanna be that guy, I wanna kiss your eyes",
+      "valence": 3.76,
+      "arousal": 4.07,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Ooh, I can't get enough Mm, you got me feeling like I wanna be that guy, I wanna kiss your eyes I wanna drink that smile, I wanna feel like I'm",
+      "valence": 3.81,
+      "arousal": 3.94,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Mm, you got me feeling like I wanna be that guy, I wanna kiss your eyes I wanna drink that smile, I wanna feel like I'm Like my soul's on fire, I wanna stay up all day and all night",
+      "valence": 3.67,
+      "arousal": 3.83,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I wanna be that guy, I wanna kiss your eyes I wanna drink that smile, I wanna feel like I'm Like my soul's on fire, I wanna stay up all day and all night Yeah, you got me singin' like",
+      "valence": 3.59,
+      "arousal": 3.81,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I wanna drink that smile, I wanna feel like I'm Like my soul's on fire, I wanna stay up all day and all night Yeah, you got me singin' like Ooh, I love it when you do it like that",
+      "valence": 3.96,
+      "arousal": 3.86,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Like my soul's on fire, I wanna stay up all day and all night Yeah, you got me singin' like Ooh, I love it when you do it like that And when you're close up, give me the shivers",
+      "valence": 3.87,
+      "arousal": 4.03,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Yeah, you got me singin' like Ooh, I love it when you do it like that And when you're close up, give me the shivers Oh baby, you wanna dance 'til the sunlight cracks",
+      "valence": 4.08,
+      "arousal": 3.98,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Ooh, I love it when you do it like that And when you're close up, give me the shivers Oh baby, you wanna dance 'til the sunlight cracks And when they say the party's over, then we'll bring it right back",
+      "valence": 3.91,
+      "arousal": 3.96,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "And when you're close up, give me the shivers Oh baby, you wanna dance 'til the sunlight cracks And when they say the party's over, then we'll bring it right back And we'll say, ooh, I love it when you do it like that",
+      "valence": 3.8,
+      "arousal": 3.86,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Oh baby, you wanna dance 'til the sunlight cracks And when they say the party's over, then we'll bring it right back And we'll say, ooh, I love it when you do it like that And when you're close up, give me the shivers",
+      "valence": 3.78,
+      "arousal": 3.8,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "And when they say the party's over, then we'll bring it right back And we'll say, ooh, I love it when you do it like that And when you're close up, give me the shivers Oh baby, you wanna dance 'til the sunlight cracks",
+      "valence": 3.86,
+      "arousal": 3.83,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "And we'll say, ooh, I love it when you do it like that And when you're close up, give me the shivers Oh baby, you wanna dance 'til the sunlight cracks And when they say the party's over, then we'll bring it right back",
+      "valence": 3.89,
+      "arousal": 3.85,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "And when you're close up, give me the shivers Oh baby, you wanna dance 'til the sunlight cracks And when they say the party's over, then we'll bring it right back Baby, you burn so hot",
+      "valence": 3.23,
+      "arousal": 3.77,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Oh baby, you wanna dance 'til the sunlight cracks And when they say the party's over, then we'll bring it right back Baby, you burn so hot You make me shiver with the fire you got",
+      "valence": 3.32,
+      "arousal": 3.78,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "And when they say the party's over, then we'll bring it right back Baby, you burn so hot You make me shiver with the fire you got This thing we started, I don't want it to stop",
+      "valence": 2.65,
+      "arousal": 3.71,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Baby, you burn so hot You make me shiver with the fire you got This thing we started, I don't want it to stop You know you make me shiver-er-er",
+      "valence": 2.85,
+      "arousal": 3.94,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "You make me shiver with the fire you got This thing we started, I don't want it to stop You know you make me shiver-er-er Baby, you burn so hot",
+      "valence": 2.67,
+      "arousal": 3.89,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "This thing we started, I don't want it to stop You know you make me shiver-er-er Baby, you burn so hot You make me shiver with the fire you got",
+      "valence": 2.67,
+      "arousal": 3.81,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "You know you make me shiver-er-er Baby, you burn so hot You make me shiver with the fire you got This thing we started, I don't want it to stop",
+      "valence": 2.75,
+      "arousal": 3.86,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Baby, you burn so hot You make me shiver with the fire you got This thing we started, I don't want it to stop You know you make me shiver",
+      "valence": 2.81,
+      "arousal": 3.92,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "You make me shiver with the fire you got This thing we started, I don't want it to stop You know you make me shiver Yeah, you got me singin' like",
+      "valence": 2.91,
+      "arousal": 3.84,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "This thing we started, I don't want it to stop You know you make me shiver Yeah, you got me singin' like Ooh, I love it when you do it like that",
+      "valence": 3.66,
+      "arousal": 3.85,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "You know you make me shiver Yeah, you got me singin' like Ooh, I love it when you do it like that And when you're close up, give me the shivers",
+      "valence": 4.03,
+      "arousal": 3.99,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Yeah, you got me singin' like Ooh, I love it when you do it like that And when you're close up, give me the shivers Oh baby, you wanna dance 'til the sunlight cracks",
+      "valence": 4.08,
+      "arousal": 3.98,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Ooh, I love it when you do it like that And when you're close up, give me the shivers Oh baby, you wanna dance 'til the sunlight cracks And when they say the party's over, then we'll bring it right back (oh no)",
+      "valence": 3.79,
+      "arousal": 3.95,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "And when you're close up, give me the shivers Oh baby, you wanna dance 'til the sunlight cracks And when they say the party's over, then we'll bring it right back (oh no) And we'll say, ooh, I love it when you do it like that",
+      "valence": 3.71,
+      "arousal": 3.81,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Oh baby, you wanna dance 'til the sunlight cracks And when they say the party's over, then we'll bring it right back (oh no) And we'll say, ooh, I love it when you do it like that And when you're close up, give me the shivers",
+      "valence": 3.64,
+      "arousal": 3.78,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "And when they say the party's over, then we'll bring it right back (oh no) And we'll say, ooh, I love it when you do it like that And when you're close up, give me the shivers Oh baby, you wanna dance 'til the sunlight cracks",
+      "valence": 3.73,
+      "arousal": 3.77,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "And we'll say, ooh, I love it when you do it like that And when you're close up, give me the shivers Oh baby, you wanna dance 'til the sunlight cracks And when they say the party's over, then we'll bring it right back, hey",
+      "valence": 3.89,
+      "arousal": 3.83,
+      "dominance": 3.34
+    }
+  ]
+}

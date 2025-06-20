@@ -1,0 +1,486 @@
+{
+  "artist": "6ix9ine & Nicki Minaj",
+  "overall_vad": {
+    "valence": 2.81,
+    "arousal": 3.54,
+    "dominance": 3.49
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Sad Pony Watch, mhm, Glock, mhm, cocked, mhm, got it, mhm You need that? I got it, that's cash in my pockets That's cash, 100, you need that? I got it",
+      "valence": 3.17,
+      "arousal": 3.43,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Watch, mhm, Glock, mhm, cocked, mhm, got it, mhm You need that? I got it, that's cash in my pockets That's cash, 100, you need that? I got it Need it, got it, cash, pockets",
+      "valence": 3.17,
+      "arousal": 3.44,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "You need that? I got it, that's cash in my pockets That's cash, 100, you need that? I got it Need it, got it, cash, pockets Bands on me, sticks on me",
+      "valence": 3.23,
+      "arousal": 3.47,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "That's cash, 100, you need that? I got it Need it, got it, cash, pockets Bands on me, sticks on me You need that? I got it, that's cash in my pockets",
+      "valence": 3.22,
+      "arousal": 3.42,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Need it, got it, cash, pockets Bands on me, sticks on me You need that? I got it, that's cash in my pockets That's cash, 100, you need that?",
+      "valence": 3.13,
+      "arousal": 3.44,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Bands on me, sticks on me You need that? I got it, that's cash in my pockets That's cash, 100, you need that? Yeah, she like how I throw them racks, yeah, yeah, yeah, yeah, yeah",
+      "valence": 3.18,
+      "arousal": 3.46,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "You need that? I got it, that's cash in my pockets That's cash, 100, you need that? Yeah, she like how I throw them racks, yeah, yeah, yeah, yeah, yeah Keep on throwin' that cash, yeah, yeah, yeah, yeah, yeah",
+      "valence": 3.23,
+      "arousal": 3.43,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "That's cash, 100, you need that? Yeah, she like how I throw them racks, yeah, yeah, yeah, yeah, yeah Keep on throwin' that cash, yeah, yeah, yeah, yeah, yeah Keep on throwin' that ass, yeah, yeah, yeah, yeah, yeah",
+      "valence": 3.08,
+      "arousal": 3.5,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Yeah, she like how I throw them racks, yeah, yeah, yeah, yeah, yeah Keep on throwin' that cash, yeah, yeah, yeah, yeah, yeah Keep on throwin' that ass, yeah, yeah, yeah, yeah, yeah Benz truck in the back, yeah, yeah, yeah, yeah, yeah",
+      "valence": 3.13,
+      "arousal": 3.49,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Keep on throwin' that cash, yeah, yeah, yeah, yeah, yeah Keep on throwin' that ass, yeah, yeah, yeah, yeah, yeah Benz truck in the back, yeah, yeah, yeah, yeah, yeah I know you don't like me, you wanna fight me",
+      "valence": 2.67,
+      "arousal": 3.79,
+      "dominance": 3.75
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Keep on throwin' that ass, yeah, yeah, yeah, yeah, yeah Benz truck in the back, yeah, yeah, yeah, yeah, yeah I know you don't like me, you wanna fight me You don't want no problems at your party, don't invite me",
+      "valence": 2.32,
+      "arousal": 3.73,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Benz truck in the back, yeah, yeah, yeah, yeah, yeah I know you don't like me, you wanna fight me You don't want no problems at your party, don't invite me I don't worry 'bout you niggas, please stop talking 'bout me",
+      "valence": 2.26,
+      "arousal": 3.56,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I know you don't like me, you wanna fight me You don't want no problems at your party, don't invite me I don't worry 'bout you niggas, please stop talking 'bout me Always talking 'bout me 'cause you looking for the clouty",
+      "valence": 2.24,
+      "arousal": 3.53,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "You don't want no problems at your party, don't invite me I don't worry 'bout you niggas, please stop talking 'bout me Always talking 'bout me 'cause you looking for the clouty 6ix-nina, the 9ine-nina",
+      "valence": 2.55,
+      "arousal": 3.36,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I don't worry 'bout you niggas, please stop talking 'bout me Always talking 'bout me 'cause you looking for the clouty 6ix-nina, the 9ine-nina Riding in a two-seater with two ninas",
+      "valence": 2.66,
+      "arousal": 3.34,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Always talking 'bout me 'cause you looking for the clouty 6ix-nina, the 9ine-nina Riding in a two-seater with two ninas Baby got that Aquafina, it's cocaina",
+      "valence": 3.11,
+      "arousal": 3.31,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "6ix-nina, the 9ine-nina Riding in a two-seater with two ninas Baby got that Aquafina, it's cocaina Smoking on that OG reefer, no TMZ-a",
+      "valence": 3.07,
+      "arousal": 3.24,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Riding in a two-seater with two ninas Baby got that Aquafina, it's cocaina Smoking on that OG reefer, no TMZ-a Forgiatos on a Benz truck, make her friends fuck",
+      "valence": 2.76,
+      "arousal": 3.59,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Baby got that Aquafina, it's cocaina Smoking on that OG reefer, no TMZ-a Forgiatos on a Benz truck, make her friends fuck Told her she could get Chanel, if she let my friends fuck",
+      "valence": 2.46,
+      "arousal": 3.75,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Smoking on that OG reefer, no TMZ-a Forgiatos on a Benz truck, make her friends fuck Told her she could get Chanel, if she let my friends fuck Stars shining in the Rolls Royce, it got red guts",
+      "valence": 2.27,
+      "arousal": 3.76,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Forgiatos on a Benz truck, make her friends fuck Told her she could get Chanel, if she let my friends fuck Stars shining in the Rolls Royce, it got red guts Wait, hold up, nah, I still don't give a fuck",
+      "valence": 2.25,
+      "arousal": 3.74,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Told her she could get Chanel, if she let my friends fuck Stars shining in the Rolls Royce, it got red guts Wait, hold up, nah, I still don't give a fuck Vroom, vroom, G5",
+      "valence": 2.38,
+      "arousal": 3.67,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Stars shining in the Rolls Royce, it got red guts Wait, hold up, nah, I still don't give a fuck Vroom, vroom, G5 Vroom, vroom, we high",
+      "valence": 2.79,
+      "arousal": 3.59,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Wait, hold up, nah, I still don't give a fuck Vroom, vroom, G5 Vroom, vroom, we high You the type of nigga that I never wanna be like",
+      "valence": 2.28,
+      "arousal": 3.61,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Vroom, vroom, G5 Vroom, vroom, we high You the type of nigga that I never wanna be like You a type of bitch that will never get a reply",
+      "valence": 2.19,
+      "arousal": 3.56,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Vroom, vroom, we high You the type of nigga that I never wanna be like You a type of bitch that will never get a reply Hi, hater, bye, hater, vroom",
+      "valence": 2.23,
+      "arousal": 3.55,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "You the type of nigga that I never wanna be like You a type of bitch that will never get a reply Hi, hater, bye, hater, vroom Yeah, she like how I throw them racks, yeah, yeah, yeah, yeah, yeah",
+      "valence": 2.6,
+      "arousal": 3.7,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "You a type of bitch that will never get a reply Hi, hater, bye, hater, vroom Yeah, she like how I throw them racks, yeah, yeah, yeah, yeah, yeah Keep on throwin' that cash, yeah, yeah, yeah, yeah, yeah",
+      "valence": 2.6,
+      "arousal": 3.67,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Hi, hater, bye, hater, vroom Yeah, she like how I throw them racks, yeah, yeah, yeah, yeah, yeah Keep on throwin' that cash, yeah, yeah, yeah, yeah, yeah Keep on throwin' that ass, yeah, yeah, yeah, yeah, yeah",
+      "valence": 3.17,
+      "arousal": 3.55,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Yeah, she like how I throw them racks, yeah, yeah, yeah, yeah, yeah Keep on throwin' that cash, yeah, yeah, yeah, yeah, yeah Keep on throwin' that ass, yeah, yeah, yeah, yeah, yeah Benz truck in the back, yeah, yeah, yeah, yeah, yeah",
+      "valence": 3.13,
+      "arousal": 3.49,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Keep on throwin' that cash, yeah, yeah, yeah, yeah, yeah Keep on throwin' that ass, yeah, yeah, yeah, yeah, yeah Benz truck in the back, yeah, yeah, yeah, yeah, yeah Dollar, dollar bill, come get her",
+      "valence": 3.04,
+      "arousal": 3.63,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Keep on throwin' that ass, yeah, yeah, yeah, yeah, yeah Benz truck in the back, yeah, yeah, yeah, yeah, yeah Dollar, dollar bill, come get her Even your man know Nickis do it better",
+      "valence": 2.87,
+      "arousal": 3.62,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Benz truck in the back, yeah, yeah, yeah, yeah, yeah Dollar, dollar bill, come get her Even your man know Nickis do it better I know you don't like me, you wanna fight me",
+      "valence": 2.86,
+      "arousal": 3.58,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Dollar, dollar bill, come get her Even your man know Nickis do it better I know you don't like me, you wanna fight me Always on my page, never double-tap, like me",
+      "valence": 2.66,
+      "arousal": 3.58,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Even your man know Nickis do it better I know you don't like me, you wanna fight me Always on my page, never double-tap, like me Baddies to my left and my right",
+      "valence": 2.55,
+      "arousal": 3.58,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I know you don't like me, you wanna fight me Always on my page, never double-tap, like me Baddies to my left and my right Never chase a corny nigga, put that on my life",
+      "valence": 2.32,
+      "arousal": 3.64,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Always on my page, never double-tap, like me Baddies to my left and my right Never chase a corny nigga, put that on my life Just put it in his face, all this cake, he wanted a taste",
+      "valence": 2.63,
+      "arousal": 3.55,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Baddies to my left and my right Never chase a corny nigga, put that on my life Just put it in his face, all this cake, he wanted a taste We sippin' on that Ace, itsy-bitsy waist, pretty face",
+      "valence": 2.65,
+      "arousal": 3.65,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Never chase a corny nigga, put that on my life Just put it in his face, all this cake, he wanted a taste We sippin' on that Ace, itsy-bitsy waist, pretty face Yeah, eat it, Cookie Monster (Ooh)",
+      "valence": 2.96,
+      "arousal": 3.77,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Just put it in his face, all this cake, he wanted a taste We sippin' on that Ace, itsy-bitsy waist, pretty face Yeah, eat it, Cookie Monster (Ooh) He a slave to this pussy, call me master",
+      "valence": 2.87,
+      "arousal": 3.72,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "We sippin' on that Ace, itsy-bitsy waist, pretty face Yeah, eat it, Cookie Monster (Ooh) He a slave to this pussy, call me master Real wet, I said, \"Slurp it like it's pasta\"",
+      "valence": 3.06,
+      "arousal": 3.61,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Yeah, eat it, Cookie Monster (Ooh) He a slave to this pussy, call me master Real wet, I said, \"Slurp it like it's pasta\" They get nervous when it's Nicki on the roster (Rrr)",
+      "valence": 2.86,
+      "arousal": 3.56,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "He a slave to this pussy, call me master Real wet, I said, \"Slurp it like it's pasta\" They get nervous when it's Nicki on the roster (Rrr) Somebody usher this nigga into a clinic",
+      "valence": 2.6,
+      "arousal": 3.51,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Real wet, I said, \"Slurp it like it's pasta\" They get nervous when it's Nicki on the roster (Rrr) Somebody usher this nigga into a clinic My flow's still sick, I ain't talkin' a pandemic",
+      "valence": 2.64,
+      "arousal": 3.45,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "They get nervous when it's Nicki on the roster (Rrr) Somebody usher this nigga into a clinic My flow's still sick, I ain't talkin' a pandemic I write my own lyrics, a lot of these bitches gimmicks",
+      "valence": 2.47,
+      "arousal": 3.55,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Somebody usher this nigga into a clinic My flow's still sick, I ain't talkin' a pandemic I write my own lyrics, a lot of these bitches gimmicks They study Nicki style, now all of them wan' mimic",
+      "valence": 2.35,
+      "arousal": 3.57,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "My flow's still sick, I ain't talkin' a pandemic I write my own lyrics, a lot of these bitches gimmicks They study Nicki style, now all of them wan' mimic Talkin' 'bout snitches when it's snitches in your camp",
+      "valence": 2.43,
+      "arousal": 3.5,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I write my own lyrics, a lot of these bitches gimmicks They study Nicki style, now all of them wan' mimic Talkin' 'bout snitches when it's snitches in your camp Never stand alone, you always itchin' for a stamp",
+      "valence": 2.84,
+      "arousal": 3.25,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "They study Nicki style, now all of them wan' mimic Talkin' 'bout snitches when it's snitches in your camp Never stand alone, you always itchin' for a stamp Me, I'm still money, wrists light up like a lamp",
+      "valence": 2.96,
+      "arousal": 3.21,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Talkin' 'bout snitches when it's snitches in your camp Never stand alone, you always itchin' for a stamp Me, I'm still money, wrists light up like a lamp They gon' have to send they best fighter for the champ",
+      "valence": 2.95,
+      "arousal": 3.46,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Never stand alone, you always itchin' for a stamp Me, I'm still money, wrists light up like a lamp They gon' have to send they best fighter for the champ Racks, I got 'em, Mary, I'm poppin'",
+      "valence": 3.3,
+      "arousal": 3.5,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Me, I'm still money, wrists light up like a lamp They gon' have to send they best fighter for the champ Racks, I got 'em, Mary, I'm poppin' They keep hatin', but still watchin'",
+      "valence": 3.29,
+      "arousal": 3.4,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "They gon' have to send they best fighter for the champ Racks, I got 'em, Mary, I'm poppin' They keep hatin', but still watchin' Check the boards, I'm still toppin'",
+      "valence": 3.34,
+      "arousal": 3.48,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Racks, I got 'em, Mary, I'm poppin' They keep hatin', but still watchin' Check the boards, I'm still toppin' Bustdown or plain jane, I got options",
+      "valence": 3.25,
+      "arousal": 3.37,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "They keep hatin', but still watchin' Check the boards, I'm still toppin' Bustdown or plain jane, I got options It's a bunch of mini-mes, I'm the one they mockin'",
+      "valence": 3.08,
+      "arousal": 3.28,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Check the boards, I'm still toppin' Bustdown or plain jane, I got options It's a bunch of mini-mes, I'm the one they mockin' Showed you how to get a bag, now you goin' shoppin'",
+      "valence": 3.17,
+      "arousal": 3.25,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Bustdown or plain jane, I got options It's a bunch of mini-mes, I'm the one they mockin' Showed you how to get a bag, now you goin' shoppin' When I come out, all the sneak bitches start plottin' (Plottin')",
+      "valence": 2.78,
+      "arousal": 3.37,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "It's a bunch of mini-mes, I'm the one they mockin' Showed you how to get a bag, now you goin' shoppin' When I come out, all the sneak bitches start plottin' (Plottin') When I come out, it's a sweep, bitches start moppin'",
+      "valence": 2.71,
+      "arousal": 3.35,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Showed you how to get a bag, now you goin' shoppin' When I come out, all the sneak bitches start plottin' (Plottin') When I come out, it's a sweep, bitches start moppin' Yeah, she like how I throw them racks, yeah, yeah, yeah, yeah, yeah",
+      "valence": 2.85,
+      "arousal": 3.43,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "When I come out, all the sneak bitches start plottin' (Plottin') When I come out, it's a sweep, bitches start moppin' Yeah, she like how I throw them racks, yeah, yeah, yeah, yeah, yeah Keep on throwin' that cash, yeah, yeah, yeah, yeah, yeah",
+      "valence": 2.84,
+      "arousal": 3.49,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "When I come out, it's a sweep, bitches start moppin' Yeah, she like how I throw them racks, yeah, yeah, yeah, yeah, yeah Keep on throwin' that cash, yeah, yeah, yeah, yeah, yeah Keep on throwin' that ass, yeah, yeah, yeah, yeah, yeah",
+      "valence": 2.81,
+      "arousal": 3.62,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Yeah, she like how I throw them racks, yeah, yeah, yeah, yeah, yeah Keep on throwin' that cash, yeah, yeah, yeah, yeah, yeah Keep on throwin' that ass, yeah, yeah, yeah, yeah, yeah Benz truck in the back, yeah, yeah, yeah, yeah, yeah",
+      "valence": 3.13,
+      "arousal": 3.49,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Keep on throwin' that cash, yeah, yeah, yeah, yeah, yeah Keep on throwin' that ass, yeah, yeah, yeah, yeah, yeah Benz truck in the back, yeah, yeah, yeah, yeah, yeah Watch, mhm, Glock, mhm, cocked, mhm, got it, mhm",
+      "valence": 3.01,
+      "arousal": 3.65,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Keep on throwin' that ass, yeah, yeah, yeah, yeah, yeah Benz truck in the back, yeah, yeah, yeah, yeah, yeah Watch, mhm, Glock, mhm, cocked, mhm, got it, mhm If he like it, I throw it fast, real fast, fast, fast",
+      "valence": 3.06,
+      "arousal": 3.71,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Benz truck in the back, yeah, yeah, yeah, yeah, yeah Watch, mhm, Glock, mhm, cocked, mhm, got it, mhm If he like it, I throw it fast, real fast, fast, fast He singin' my old song yellin', \"Ass, ass, ass\"",
+      "valence": 3.17,
+      "arousal": 3.66,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Watch, mhm, Glock, mhm, cocked, mhm, got it, mhm If he like it, I throw it fast, real fast, fast, fast He singin' my old song yellin', \"Ass, ass, ass\" They be speedin', tryna beat me, then they crash, crash, crash",
+      "valence": 2.93,
+      "arousal": 3.72,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "If he like it, I throw it fast, real fast, fast, fast He singin' my old song yellin', \"Ass, ass, ass\" They be speedin', tryna beat me, then they crash, crash, crash Still a 100 like the number on my dash, dash, dash",
+      "valence": 2.89,
+      "arousal": 3.74,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "He singin' my old song yellin', \"Ass, ass, ass\" They be speedin', tryna beat me, then they crash, crash, crash Still a 100 like the number on my dash, dash, dash That real ass ain't keep your nigga home",
+      "valence": 2.43,
+      "arousal": 3.69,
+      "dominance": 3.22
+    }
+  ]
+}

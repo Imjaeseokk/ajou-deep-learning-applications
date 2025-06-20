@@ -1,0 +1,311 @@
+{
+  "artist": "Billie Eilish",
+  "overall_vad": {
+    "valence": 2.67,
+    "arousal": 3.45,
+    "dominance": 3.28
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "White shirt now red, my bloody nose Sleepin', you're on your tippy toes Creepin' around like no one knows Think you're so criminal",
+      "valence": 2.46,
+      "arousal": 3.61,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Sleepin', you're on your tippy toes Creepin' around like no one knows Think you're so criminal Bruises on both my knees for you",
+      "valence": 2.52,
+      "arousal": 3.63,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Creepin' around like no one knows Think you're so criminal Bruises on both my knees for you Don't say thank you or please",
+      "valence": 2.24,
+      "arousal": 3.65,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Think you're so criminal Bruises on both my knees for you Don't say thank you or please I do what I want when I'm wanting to",
+      "valence": 2.17,
+      "arousal": 3.75,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Bruises on both my knees for you Don't say thank you or please I do what I want when I'm wanting to My soul? So cynical",
+      "valence": 2.44,
+      "arousal": 3.6,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Don't say thank you or please I do what I want when I'm wanting to My soul? So cynical So you're a tough guy",
+      "valence": 2.47,
+      "arousal": 3.55,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I do what I want when I'm wanting to My soul? So cynical So you're a tough guy Like it really rough guy",
+      "valence": 2.53,
+      "arousal": 3.49,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "My soul? So cynical So you're a tough guy Like it really rough guy Just can't get enough guy",
+      "valence": 2.57,
+      "arousal": 3.51,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "So you're a tough guy Like it really rough guy Just can't get enough guy Chest always so puffed guy",
+      "valence": 2.99,
+      "arousal": 3.49,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Like it really rough guy Just can't get enough guy Chest always so puffed guy I'm that bad type",
+      "valence": 2.53,
+      "arousal": 3.21,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Just can't get enough guy Chest always so puffed guy I'm that bad type Make your mama sad type",
+      "valence": 2.38,
+      "arousal": 3.45,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Chest always so puffed guy I'm that bad type Make your mama sad type Make your girlfriend mad tight",
+      "valence": 2.37,
+      "arousal": 3.49,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I'm that bad type Make your mama sad type Make your girlfriend mad tight Might seduce your dad type",
+      "valence": 2.41,
+      "arousal": 3.56,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Make your mama sad type Make your girlfriend mad tight Might seduce your dad type I'm the bad guy, duh",
+      "valence": 2.45,
+      "arousal": 3.61,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Make your girlfriend mad tight Might seduce your dad type I'm the bad guy, duh I'm the bad guy",
+      "valence": 2.53,
+      "arousal": 3.65,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Might seduce your dad type I'm the bad guy, duh I'm the bad guy I like it when you take control",
+      "valence": 3.05,
+      "arousal": 3.56,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I'm the bad guy, duh I'm the bad guy I like it when you take control Even if you know that you don't",
+      "valence": 3.16,
+      "arousal": 3.44,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I'm the bad guy I like it when you take control Even if you know that you don't Own me, I'll let you play the role",
+      "valence": 3.14,
+      "arousal": 3.35,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I like it when you take control Even if you know that you don't Own me, I'll let you play the role I'll be your animal",
+      "valence": 3.44,
+      "arousal": 3.4,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Even if you know that you don't Own me, I'll let you play the role I'll be your animal My mommy likes to sing along with me",
+      "valence": 3.56,
+      "arousal": 3.38,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Own me, I'll let you play the role I'll be your animal My mommy likes to sing along with me But she won't sing this song",
+      "valence": 3.1,
+      "arousal": 3.29,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I'll be your animal My mommy likes to sing along with me But she won't sing this song If she reads all the lyrics",
+      "valence": 3.11,
+      "arousal": 3.17,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "My mommy likes to sing along with me But she won't sing this song If she reads all the lyrics She'll pity the men I know",
+      "valence": 2.76,
+      "arousal": 3.16,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "But she won't sing this song If she reads all the lyrics She'll pity the men I know So you're a tough guy",
+      "valence": 2.53,
+      "arousal": 3.23,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "If she reads all the lyrics She'll pity the men I know So you're a tough guy Like it really rough guy",
+      "valence": 2.84,
+      "arousal": 3.27,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "She'll pity the men I know So you're a tough guy Like it really rough guy Just can't get enough guy",
+      "valence": 2.87,
+      "arousal": 3.36,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "So you're a tough guy Like it really rough guy Just can't get enough guy Chest always so puffed guy",
+      "valence": 2.99,
+      "arousal": 3.49,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Like it really rough guy Just can't get enough guy Chest always so puffed guy I'm that bad type",
+      "valence": 2.53,
+      "arousal": 3.21,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Just can't get enough guy Chest always so puffed guy I'm that bad type Make your mama sad type",
+      "valence": 2.38,
+      "arousal": 3.45,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Chest always so puffed guy I'm that bad type Make your mama sad type Make your girlfriend mad tight",
+      "valence": 2.37,
+      "arousal": 3.49,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I'm that bad type Make your mama sad type Make your girlfriend mad tight Might seduce your dad type",
+      "valence": 2.41,
+      "arousal": 3.56,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Make your mama sad type Make your girlfriend mad tight Might seduce your dad type I'm the bad guy, duh",
+      "valence": 2.45,
+      "arousal": 3.61,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Make your girlfriend mad tight Might seduce your dad type I'm the bad guy, duh I'm the bad guy, duh",
+      "valence": 2.52,
+      "arousal": 3.7,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Might seduce your dad type I'm the bad guy, duh I'm the bad guy, duh I'm only good at being bad, bad",
+      "valence": 2.5,
+      "arousal": 3.36,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I'm the bad guy, duh I'm the bad guy, duh I'm only good at being bad, bad I like when you get mad",
+      "valence": 2.54,
+      "arousal": 3.4,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I'm the bad guy, duh I'm only good at being bad, bad I like when you get mad I guess I'm pretty glad that you're alone",
+      "valence": 2.91,
+      "arousal": 3.39,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I'm only good at being bad, bad I like when you get mad I guess I'm pretty glad that you're alone You said she's scared of me?",
+      "valence": 2.9,
+      "arousal": 3.32,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "I like when you get mad I guess I'm pretty glad that you're alone You said she's scared of me? I mean, I don't see what she sees",
+      "valence": 3.2,
+      "arousal": 3.44,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I guess I'm pretty glad that you're alone You said she's scared of me? I mean, I don't see what she sees But maybe it's 'cause I'm wearing your cologne",
+      "valence": 3.31,
+      "arousal": 3.36,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "You said she's scared of me? I mean, I don't see what she sees But maybe it's 'cause I'm wearing your cologne I'm a bad guy",
+      "valence": 2.47,
+      "arousal": 3.42,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I mean, I don't see what she sees But maybe it's 'cause I'm wearing your cologne I'm a bad guy I'm, I'm a bad guy",
+      "valence": 2.46,
+      "arousal": 3.35,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "But maybe it's 'cause I'm wearing your cologne I'm a bad guy I'm, I'm a bad guy Bad guy, bad guy",
+      "valence": 2.36,
+      "arousal": 3.33,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I'm a bad guy I'm, I'm a bad guy Bad guy, bad guy I'm a bad",
+      "valence": 1.96,
+      "arousal": 3.45,
+      "dominance": 3.0
+    }
+  ]
+}

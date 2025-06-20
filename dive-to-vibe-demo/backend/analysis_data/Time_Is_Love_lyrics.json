@@ -1,0 +1,178 @@
+{
+  "artist": "Josh Turner",
+  "overall_vad": {
+    "valence": 3.35,
+    "arousal": 3.6,
+    "dominance": 3.29
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I know I gotta put in the hours Make the money while the sunlight shines But anything I gotta get done It can get done some other time",
+      "valence": 3.13,
+      "arousal": 3.24,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Make the money while the sunlight shines But anything I gotta get done It can get done some other time Time is love",
+      "valence": 3.58,
+      "arousal": 3.55,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "But anything I gotta get done It can get done some other time Time is love Gotta run. Love to hang out longer but I got someone",
+      "valence": 3.18,
+      "arousal": 3.54,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "It can get done some other time Time is love Gotta run. Love to hang out longer but I got someone Who waits. Waits for me and right now she's where I need to be",
+      "valence": 3.41,
+      "arousal": 3.57,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Time is love Gotta run. Love to hang out longer but I got someone Who waits. Waits for me and right now she's where I need to be Time is love",
+      "valence": 3.66,
+      "arousal": 3.74,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Gotta run. Love to hang out longer but I got someone Who waits. Waits for me and right now she's where I need to be Time is love Gotta run. I only get so many minutes",
+      "valence": 3.37,
+      "arousal": 3.62,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Who waits. Waits for me and right now she's where I need to be Time is love Gotta run. I only get so many minutes Don't wanna spend 'em all on the clock",
+      "valence": 3.29,
+      "arousal": 3.51,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Time is love Gotta run. I only get so many minutes Don't wanna spend 'em all on the clock In the time that we've spent talkin'",
+      "valence": 3.38,
+      "arousal": 3.49,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Gotta run. I only get so many minutes Don't wanna spend 'em all on the clock In the time that we've spent talkin' How many kisses have I lost",
+      "valence": 2.79,
+      "arousal": 3.38,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Don't wanna spend 'em all on the clock In the time that we've spent talkin' How many kisses have I lost Time is Love",
+      "valence": 3.05,
+      "arousal": 3.27,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "In the time that we've spent talkin' How many kisses have I lost Time is Love Gotta run. Love to hang out longer but I got someone",
+      "valence": 3.04,
+      "arousal": 3.64,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "How many kisses have I lost Time is Love Gotta run. Love to hang out longer but I got someone Who waits. Waits for me and right now she's where I need to be",
+      "valence": 3.09,
+      "arousal": 3.62,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Time is Love Gotta run. Love to hang out longer but I got someone Who waits. Waits for me and right now she's where I need to be Time is love",
+      "valence": 3.51,
+      "arousal": 3.63,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Gotta run. Love to hang out longer but I got someone Who waits. Waits for me and right now she's where I need to be Time is love Gotta run. Gotta fly. Fly",
+      "valence": 3.39,
+      "arousal": 3.72,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Who waits. Waits for me and right now she's where I need to be Time is love Gotta run. Gotta fly. Fly Before one more moment gets by",
+      "valence": 3.31,
+      "arousal": 3.68,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Time is love Gotta run. Gotta fly. Fly Before one more moment gets by Time is love",
+      "valence": 3.52,
+      "arousal": 3.73,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Gotta run. Gotta fly. Fly Before one more moment gets by Time is love Gotta Run. Love to hang out longer but I got someone",
+      "valence": 3.18,
+      "arousal": 3.75,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Before one more moment gets by Time is love Gotta Run. Love to hang out longer but I got someone Who waits. Waits for me and right now she's where I need to be",
+      "valence": 3.48,
+      "arousal": 3.62,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Time is love Gotta Run. Love to hang out longer but I got someone Who waits. Waits for me and right now she's where I need to be Time is love",
+      "valence": 3.73,
+      "arousal": 3.73,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Gotta Run. Love to hang out longer but I got someone Who waits. Waits for me and right now she's where I need to be Time is love Gotta run. Love to hang out longer but I got someone",
+      "valence": 3.36,
+      "arousal": 3.74,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Who waits. Waits for me and right now she's where I need to be Time is love Gotta run. Love to hang out longer but I got someone Who waits. Waits for me and right now she's where I need to be",
+      "valence": 3.32,
+      "arousal": 3.55,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Time is love Gotta run. Love to hang out longer but I got someone Who waits. Waits for me and right now she's where I need to be Time is love",
+      "valence": 3.66,
+      "arousal": 3.74,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Gotta run. Love to hang out longer but I got someone Who waits. Waits for me and right now she's where I need to be Time is love Gotta run. Time is love",
+      "valence": 3.52,
+      "arousal": 3.75,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Who waits. Waits for me and right now she's where I need to be Time is love Gotta run. Time is love Gotta run",
+      "valence": 3.5,
+      "arousal": 3.65,
+      "dominance": 3.35
+    }
+  ]
+}

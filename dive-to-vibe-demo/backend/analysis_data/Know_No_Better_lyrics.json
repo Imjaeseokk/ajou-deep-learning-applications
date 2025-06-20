@@ -1,0 +1,584 @@
+{
+  "artist": "Major Lazer Featuring Travis Scott, Camila Cabello & Quavo",
+  "overall_vad": {
+    "valence": 2.78,
+    "arousal": 3.43,
+    "dominance": 3.33
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Yeah Straight up! Wrist lookin' like it been dipped Dipped in that, dipped in that, dipped in that",
+      "valence": 3.17,
+      "arousal": 3.58,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Straight up! Wrist lookin' like it been dipped Dipped in that, dipped in that, dipped in that Script lookin' like it been flipped",
+      "valence": 3.18,
+      "arousal": 3.59,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Wrist lookin' like it been dipped Dipped in that, dipped in that, dipped in that Script lookin' like it been flipped Flippin' that, flippin' that, flippin' that",
+      "valence": 2.9,
+      "arousal": 3.0,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Dipped in that, dipped in that, dipped in that Script lookin' like it been flipped Flippin' that, flippin' that, flippin' that Pull up in that foreign, my God",
+      "valence": 3.13,
+      "arousal": 3.59,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Script lookin' like it been flipped Flippin' that, flippin' that, flippin' that Pull up in that foreign, my God Whole squad get in that, get in that",
+      "valence": 2.8,
+      "arousal": 3.6,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Flippin' that, flippin' that, flippin' that Pull up in that foreign, my God Whole squad get in that, get in that Please say it ain't true",
+      "valence": 2.26,
+      "arousal": 3.75,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Pull up in that foreign, my God Whole squad get in that, get in that Please say it ain't true I had to go and cop two",
+      "valence": 2.79,
+      "arousal": 3.6,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Whole squad get in that, get in that Please say it ain't true I had to go and cop two Hell nah, we can't fit in that",
+      "valence": 2.59,
+      "arousal": 3.26,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Please say it ain't true I had to go and cop two Hell nah, we can't fit in that Wild ones, like we fresh out the cage",
+      "valence": 2.59,
+      "arousal": 3.36,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I had to go and cop two Hell nah, we can't fit in that Wild ones, like we fresh out the cage Showtime baby, fresh off the stage",
+      "valence": 2.66,
+      "arousal": 3.45,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Hell nah, we can't fit in that Wild ones, like we fresh out the cage Showtime baby, fresh off the stage Bad lil' mama, fresh off the page",
+      "valence": 2.6,
+      "arousal": 3.34,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Wild ones, like we fresh out the cage Showtime baby, fresh off the stage Bad lil' mama, fresh off the page Front like you love it, but you know that you hate it",
+      "valence": 3.06,
+      "arousal": 3.34,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Showtime baby, fresh off the stage Bad lil' mama, fresh off the page Front like you love it, but you know that you hate it Yeah you know no better (no better)",
+      "valence": 2.69,
+      "arousal": 3.47,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Bad lil' mama, fresh off the page Front like you love it, but you know that you hate it Yeah you know no better (no better) Yeah you know no better",
+      "valence": 2.19,
+      "arousal": 3.35,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Front like you love it, but you know that you hate it Yeah you know no better (no better) Yeah you know no better Yeah you know no better, ooh",
+      "valence": 2.46,
+      "arousal": 3.41,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Yeah you know no better (no better) Yeah you know no better Yeah you know no better, ooh Yeah, you know no better",
+      "valence": 2.49,
+      "arousal": 3.23,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Yeah you know no better Yeah you know no better, ooh Yeah, you know no better Say you different, who you kidding?",
+      "valence": 2.5,
+      "arousal": 3.5,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Yeah you know no better, ooh Yeah, you know no better Say you different, who you kidding? Yeah, you know no better",
+      "valence": 2.51,
+      "arousal": 3.45,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Yeah, you know no better Say you different, who you kidding? Yeah, you know no better O-oh, save that talk for the ones who don't know no better",
+      "valence": 2.68,
+      "arousal": 3.41,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Say you different, who you kidding? Yeah, you know no better O-oh, save that talk for the ones who don't know no better 'Cause baby I know you better",
+      "valence": 2.67,
+      "arousal": 3.44,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Yeah, you know no better O-oh, save that talk for the ones who don't know no better 'Cause baby I know you better 'Cause baby I know no better",
+      "valence": 2.6,
+      "arousal": 3.23,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "O-oh, save that talk for the ones who don't know no better 'Cause baby I know you better 'Cause baby I know no better Baby I know you better (baby I know)",
+      "valence": 2.95,
+      "arousal": 3.18,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "'Cause baby I know you better 'Cause baby I know no better Baby I know you better (baby I know) Baby I know you better",
+      "valence": 3.05,
+      "arousal": 3.32,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "'Cause baby I know no better Baby I know you better (baby I know) Baby I know you better Baby I know you better (straight up)",
+      "valence": 3.11,
+      "arousal": 3.38,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Baby I know you better (baby I know) Baby I know you better Baby I know you better (straight up) Baby I know you better",
+      "valence": 3.19,
+      "arousal": 3.22,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Baby I know you better Baby I know you better (straight up) Baby I know you better Baby I know, I know no better",
+      "valence": 3.0,
+      "arousal": 3.27,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Baby I know you better (straight up) Baby I know you better Baby I know, I know no better Top dropped off on my whip",
+      "valence": 2.95,
+      "arousal": 3.22,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Baby I know you better Baby I know, I know no better Top dropped off on my whip Wippin' that, wippin' that, wippin' that",
+      "valence": 2.77,
+      "arousal": 3.32,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Baby I know, I know no better Top dropped off on my whip Wippin' that, wippin' that, wippin' that Yellow and that purple on mix",
+      "valence": 2.84,
+      "arousal": 3.16,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Top dropped off on my whip Wippin' that, wippin' that, wippin' that Yellow and that purple on mix Mixin' that, mixin' that, mixin' that",
+      "valence": 3.09,
+      "arousal": 3.0,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Wippin' that, wippin' that, wippin' that Yellow and that purple on mix Mixin' that, mixin' that, mixin' that Copped my bitch from the tropics (yeah)",
+      "valence": 2.89,
+      "arousal": 3.29,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Yellow and that purple on mix Mixin' that, mixin' that, mixin' that Copped my bitch from the tropics (yeah) You know where she sitting at",
+      "valence": 2.86,
+      "arousal": 3.28,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Mixin' that, mixin' that, mixin' that Copped my bitch from the tropics (yeah) You know where she sitting at Taking shots, pouring bottle after bottle after bottle",
+      "valence": 2.93,
+      "arousal": 3.29,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Copped my bitch from the tropics (yeah) You know where she sitting at Taking shots, pouring bottle after bottle after bottle Hell nah, we ain't sipping that",
+      "valence": 2.61,
+      "arousal": 3.27,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "You know where she sitting at Taking shots, pouring bottle after bottle after bottle Hell nah, we ain't sipping that Wild ones, like we fresh out the cage",
+      "valence": 2.81,
+      "arousal": 3.09,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Taking shots, pouring bottle after bottle after bottle Hell nah, we ain't sipping that Wild ones, like we fresh out the cage Showtime baby, fresh off the stage",
+      "valence": 2.88,
+      "arousal": 3.09,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Hell nah, we ain't sipping that Wild ones, like we fresh out the cage Showtime baby, fresh off the stage Bad lil' mama, fresh off the page",
+      "valence": 2.76,
+      "arousal": 3.23,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Wild ones, like we fresh out the cage Showtime baby, fresh off the stage Bad lil' mama, fresh off the page Front like you love it, but you know that you hate it",
+      "valence": 3.06,
+      "arousal": 3.34,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Showtime baby, fresh off the stage Bad lil' mama, fresh off the page Front like you love it, but you know that you hate it Yeah you know no better (no better)",
+      "valence": 2.69,
+      "arousal": 3.47,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Bad lil' mama, fresh off the page Front like you love it, but you know that you hate it Yeah you know no better (no better) Yeah you know no better",
+      "valence": 2.19,
+      "arousal": 3.35,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Front like you love it, but you know that you hate it Yeah you know no better (no better) Yeah you know no better Yeah you know no better, ooh",
+      "valence": 2.46,
+      "arousal": 3.41,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Yeah you know no better (no better) Yeah you know no better Yeah you know no better, ooh Yeah, you know no better",
+      "valence": 2.49,
+      "arousal": 3.23,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Yeah you know no better Yeah you know no better, ooh Yeah, you know no better Say you different, who you kidding?",
+      "valence": 2.5,
+      "arousal": 3.5,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Yeah you know no better, ooh Yeah, you know no better Say you different, who you kidding? Yeah, you know no better",
+      "valence": 2.51,
+      "arousal": 3.45,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Yeah, you know no better Say you different, who you kidding? Yeah, you know no better O-oh, save that talk for the ones who don't know no better",
+      "valence": 2.68,
+      "arousal": 3.41,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Say you different, who you kidding? Yeah, you know no better O-oh, save that talk for the ones who don't know no better 'Cause baby I know you better",
+      "valence": 2.67,
+      "arousal": 3.44,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Yeah, you know no better O-oh, save that talk for the ones who don't know no better 'Cause baby I know you better 'Cause baby I know no better",
+      "valence": 2.6,
+      "arousal": 3.23,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "O-oh, save that talk for the ones who don't know no better 'Cause baby I know you better 'Cause baby I know no better Baby I know you better (baby I know)",
+      "valence": 2.95,
+      "arousal": 3.18,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "'Cause baby I know you better 'Cause baby I know no better Baby I know you better (baby I know) Baby I know you better",
+      "valence": 3.05,
+      "arousal": 3.32,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "'Cause baby I know no better Baby I know you better (baby I know) Baby I know you better Baby I know you better",
+      "valence": 3.13,
+      "arousal": 3.41,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Baby I know you better (baby I know) Baby I know you better Baby I know you better Baby I know you better",
+      "valence": 3.31,
+      "arousal": 3.36,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Baby I know you better Baby I know you better Baby I know you better Baby I know, I know no better",
+      "valence": 3.02,
+      "arousal": 3.33,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Baby I know you better Baby I know you better Baby I know, I know no better Quavo!",
+      "valence": 3.32,
+      "arousal": 3.73,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Baby I know you better Baby I know, I know no better Quavo! Drop top on the whip (drop top)",
+      "valence": 3.19,
+      "arousal": 3.74,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Baby I know, I know no better Quavo! Drop top on the whip (drop top) Dab of ranch on the chips (dab)",
+      "valence": 3.14,
+      "arousal": 3.66,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Quavo! Drop top on the whip (drop top) Dab of ranch on the chips (dab) Ice cream gave her chills (ice cream)",
+      "valence": 3.47,
+      "arousal": 3.7,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Drop top on the whip (drop top) Dab of ranch on the chips (dab) Ice cream gave her chills (ice cream) Too much cash pay the bills",
+      "valence": 3.1,
+      "arousal": 3.24,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Dab of ranch on the chips (dab) Ice cream gave her chills (ice cream) Too much cash pay the bills I make her ride Mercedes (skrr skrr)",
+      "valence": 2.98,
+      "arousal": 3.53,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Ice cream gave her chills (ice cream) Too much cash pay the bills I make her ride Mercedes (skrr skrr) I can afford the latest",
+      "valence": 3.13,
+      "arousal": 3.54,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Too much cash pay the bills I make her ride Mercedes (skrr skrr) I can afford the latest Baby ignore the ratings (ignore 'em)",
+      "valence": 2.7,
+      "arousal": 3.51,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "I make her ride Mercedes (skrr skrr) I can afford the latest Baby ignore the ratings (ignore 'em) Just pull up, we pop out, we raging",
+      "valence": 2.84,
+      "arousal": 3.62,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "I can afford the latest Baby ignore the ratings (ignore 'em) Just pull up, we pop out, we raging We know no better (no)",
+      "valence": 2.61,
+      "arousal": 3.61,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Baby ignore the ratings (ignore 'em) Just pull up, we pop out, we raging We know no better (no) Stack my bread up (stack)",
+      "valence": 2.63,
+      "arousal": 3.55,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Just pull up, we pop out, we raging We know no better (no) Stack my bread up (stack) Don't get fed up (nope)",
+      "valence": 2.7,
+      "arousal": 3.42,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "We know no better (no) Stack my bread up (stack) Don't get fed up (nope) Ain't gonna let up (yeah)",
+      "valence": 2.78,
+      "arousal": 3.26,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Stack my bread up (stack) Don't get fed up (nope) Ain't gonna let up (yeah) You told me to shut up (shut up)",
+      "valence": 2.5,
+      "arousal": 3.49,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Don't get fed up (nope) Ain't gonna let up (yeah) You told me to shut up (shut up) But I'ma do better (huh?)",
+      "valence": 2.54,
+      "arousal": 3.51,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Ain't gonna let up (yeah) You told me to shut up (shut up) But I'ma do better (huh?) It's not my race (woo!)",
+      "valence": 2.45,
+      "arousal": 4.02,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "You told me to shut up (shut up) But I'ma do better (huh?) It's not my race (woo!) Get out my face (get out)",
+      "valence": 2.1,
+      "arousal": 4.1,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "But I'ma do better (huh?) It's not my race (woo!) Get out my face (get out) Drop my case (drop it)",
+      "valence": 2.18,
+      "arousal": 4.09,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "It's not my race (woo!) Get out my face (get out) Drop my case (drop it) Which way? (where?)",
+      "valence": 2.36,
+      "arousal": 4.2,
+      "dominance": 3.81
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Get out my face (get out) Drop my case (drop it) Which way? (where?) Dat way",
+      "valence": 2.34,
+      "arousal": 3.83,
+      "dominance": 3.87
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Drop my case (drop it) Which way? (where?) Dat way Yeah, you know no better",
+      "valence": 2.53,
+      "arousal": 3.44,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Which way? (where?) Dat way Yeah, you know no better Say you different, who you kidding?",
+      "valence": 2.72,
+      "arousal": 3.46,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Dat way Yeah, you know no better Say you different, who you kidding? Yeah, you know no better",
+      "valence": 2.68,
+      "arousal": 3.33,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "Yeah, you know no better Say you different, who you kidding? Yeah, you know no better O-oh, save that talk for the ones who don't know no better",
+      "valence": 2.68,
+      "arousal": 3.41,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "Say you different, who you kidding? Yeah, you know no better O-oh, save that talk for the ones who don't know no better 'Cause baby I know you better",
+      "valence": 2.67,
+      "arousal": 3.44,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "Yeah, you know no better O-oh, save that talk for the ones who don't know no better 'Cause baby I know you better Baby I know you better (straight up)",
+      "valence": 2.76,
+      "arousal": 3.31,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "O-oh, save that talk for the ones who don't know no better 'Cause baby I know you better Baby I know you better (straight up) Baby I know you better",
+      "valence": 3.0,
+      "arousal": 3.22,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "'Cause baby I know you better Baby I know you better (straight up) Baby I know you better Baby I know you better",
+      "valence": 3.23,
+      "arousal": 3.42,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "Baby I know you better (straight up) Baby I know you better Baby I know you better Baby I know you better",
+      "valence": 3.22,
+      "arousal": 3.35,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "Baby I know you better Baby I know you better Baby I know you better Baby I know, I know no better",
+      "valence": 3.02,
+      "arousal": 3.33,
+      "dominance": 3.36
+    }
+  ]
+}

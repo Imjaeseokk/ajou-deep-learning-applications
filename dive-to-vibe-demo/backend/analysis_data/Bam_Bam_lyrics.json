@@ -1,0 +1,486 @@
+{
+  "artist": "Camila Cabello Featuring Ed Sheeran",
+  "overall_vad": {
+    "valence": 3.18,
+    "arousal": 3.49,
+    "dominance": 3.05
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "You said you hated the ocean, but you're surfin' now I said I'd love you for life, but I just sold our house We were kids at the start, I guess we're grown-ups now, mm Couldn't ever imagine even havin' doubts",
+      "valence": 3.12,
+      "arousal": 3.57,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I said I'd love you for life, but I just sold our house We were kids at the start, I guess we're grown-ups now, mm Couldn't ever imagine even havin' doubts But not everything works out, no",
+      "valence": 2.93,
+      "arousal": 3.46,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "We were kids at the start, I guess we're grown-ups now, mm Couldn't ever imagine even havin' doubts But not everything works out, no Now I'm out dancin' with strangers",
+      "valence": 2.7,
+      "arousal": 3.24,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Couldn't ever imagine even havin' doubts But not everything works out, no Now I'm out dancin' with strangers You could be casually datin'",
+      "valence": 2.55,
+      "arousal": 3.22,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "But not everything works out, no Now I'm out dancin' with strangers You could be casually datin' Damn, it's all changin' so fast",
+      "valence": 2.31,
+      "arousal": 3.71,
+      "dominance": 2.7
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Now I'm out dancin' with strangers You could be casually datin' Damn, it's all changin' so fast AsÃ­ es la vida, sÃ­",
+      "valence": 2.67,
+      "arousal": 3.63,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "You could be casually datin' Damn, it's all changin' so fast AsÃ­ es la vida, sÃ­ Yeah, that's just life, baby",
+      "valence": 3.0,
+      "arousal": 3.49,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Damn, it's all changin' so fast AsÃ­ es la vida, sÃ­ Yeah, that's just life, baby Yeah, love came around and it knocked me down",
+      "valence": 3.67,
+      "arousal": 4.1,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "AsÃ­ es la vida, sÃ­ Yeah, that's just life, baby Yeah, love came around and it knocked me down But I'm back on my feet",
+      "valence": 3.69,
+      "arousal": 3.73,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Yeah, that's just life, baby Yeah, love came around and it knocked me down But I'm back on my feet AsÃ­ es la vida, sÃ­",
+      "valence": 3.83,
+      "arousal": 3.81,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Yeah, love came around and it knocked me down But I'm back on my feet AsÃ­ es la vida, sÃ­ Yeah, that's just life, baby",
+      "valence": 3.67,
+      "arousal": 3.75,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "But I'm back on my feet AsÃ­ es la vida, sÃ­ Yeah, that's just life, baby I was barely standin', but now I'm dancin'",
+      "valence": 3.11,
+      "arousal": 3.22,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "AsÃ­ es la vida, sÃ­ Yeah, that's just life, baby I was barely standin', but now I'm dancin' He's all over me (goza)",
+      "valence": 2.98,
+      "arousal": 3.47,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Yeah, that's just life, baby I was barely standin', but now I'm dancin' He's all over me (goza) Bidi-bam-bam-bam-bam, bam-bam",
+      "valence": 2.82,
+      "arousal": 3.51,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I was barely standin', but now I'm dancin' He's all over me (goza) Bidi-bam-bam-bam-bam, bam-bam Bidi-bam-bam-bam-bam, bam-bam",
+      "valence": 2.74,
+      "arousal": 3.49,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "He's all over me (goza) Bidi-bam-bam-bam-bam, bam-bam Bidi-bam-bam-bam-bam, bam-bam Bidi-bam-bam-bam-bam, bam-bam",
+      "valence": 3.06,
+      "arousal": 3.49,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Bidi-bam-bam-bam-bam, bam-bam Bidi-bam-bam-bam-bam, bam-bam Bidi-bam-bam-bam-bam, bam-bam Bidi-bam-bam-bam-bam (asÃ­ es la vida)",
+      "valence": 3.09,
+      "arousal": 3.24,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Bidi-bam-bam-bam-bam, bam-bam Bidi-bam-bam-bam-bam, bam-bam Bidi-bam-bam-bam-bam (asÃ­ es la vida) Bidi-bam-bam-bam-bam, bam-bam (uh-huh)",
+      "valence": 3.1,
+      "arousal": 3.29,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Bidi-bam-bam-bam-bam, bam-bam Bidi-bam-bam-bam-bam (asÃ­ es la vida) Bidi-bam-bam-bam-bam, bam-bam (uh-huh) Bidi-bam-bam-bam-bam, bam-bam (uh-huh)",
+      "valence": 3.1,
+      "arousal": 3.29,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Bidi-bam-bam-bam-bam (asÃ­ es la vida) Bidi-bam-bam-bam-bam, bam-bam (uh-huh) Bidi-bam-bam-bam-bam, bam-bam (uh-huh) Bidi-bam-bam-bam-bam, bam-bam (uh-huh)",
+      "valence": 3.06,
+      "arousal": 3.3,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Bidi-bam-bam-bam-bam, bam-bam (uh-huh) Bidi-bam-bam-bam-bam, bam-bam (uh-huh) Bidi-bam-bam-bam-bam, bam-bam (uh-huh) Bidi-bam-bam-bam-bam",
+      "valence": 2.94,
+      "arousal": 3.25,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Bidi-bam-bam-bam-bam, bam-bam (uh-huh) Bidi-bam-bam-bam-bam, bam-bam (uh-huh) Bidi-bam-bam-bam-bam It's been a hell of a year, thank God we made it out",
+      "valence": 3.59,
+      "arousal": 3.65,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Bidi-bam-bam-bam-bam, bam-bam (uh-huh) Bidi-bam-bam-bam-bam It's been a hell of a year, thank God we made it out Yeah, we were riding a wave, and trying not to drown",
+      "valence": 3.62,
+      "arousal": 3.66,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Bidi-bam-bam-bam-bam It's been a hell of a year, thank God we made it out Yeah, we were riding a wave, and trying not to drown And on the surface, I held it together but underneath, I sorta came unwound",
+      "valence": 3.6,
+      "arousal": 3.58,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "It's been a hell of a year, thank God we made it out Yeah, we were riding a wave, and trying not to drown And on the surface, I held it together but underneath, I sorta came unwound Where would I be? You're all that I need, my world, baby, you hold me down",
+      "valence": 3.48,
+      "arousal": 3.66,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Yeah, we were riding a wave, and trying not to drown And on the surface, I held it together but underneath, I sorta came unwound Where would I be? You're all that I need, my world, baby, you hold me down You always hold me down, now",
+      "valence": 3.13,
+      "arousal": 3.47,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "And on the surface, I held it together but underneath, I sorta came unwound Where would I be? You're all that I need, my world, baby, you hold me down You always hold me down, now I've been a breaker and broken",
+      "valence": 2.92,
+      "arousal": 3.44,
+      "dominance": 2.67
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Where would I be? You're all that I need, my world, baby, you hold me down You always hold me down, now I've been a breaker and broken Every mistake turns to moments",
+      "valence": 2.99,
+      "arousal": 3.54,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "You always hold me down, now I've been a breaker and broken Every mistake turns to moments Wouldn't take anything back",
+      "valence": 2.41,
+      "arousal": 3.43,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I've been a breaker and broken Every mistake turns to moments Wouldn't take anything back AsÃ­ es la vida, sÃ­ (asÃ­ e')",
+      "valence": 2.78,
+      "arousal": 3.25,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Every mistake turns to moments Wouldn't take anything back AsÃ­ es la vida, sÃ­ (asÃ­ e') Yeah, that's just life, baby",
+      "valence": 3.04,
+      "arousal": 3.2,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Wouldn't take anything back AsÃ­ es la vida, sÃ­ (asÃ­ e') Yeah, that's just life, baby Yeah, love came around and it knocked me down",
+      "valence": 3.65,
+      "arousal": 3.73,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "AsÃ­ es la vida, sÃ­ (asÃ­ e') Yeah, that's just life, baby Yeah, love came around and it knocked me down But I'm back on my feet",
+      "valence": 3.71,
+      "arousal": 3.66,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Yeah, that's just life, baby Yeah, love came around and it knocked me down But I'm back on my feet AsÃ­ es la vida, sÃ­",
+      "valence": 3.83,
+      "arousal": 3.81,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Yeah, love came around and it knocked me down But I'm back on my feet AsÃ­ es la vida, sÃ­ Yeah, that's just life, baby",
+      "valence": 3.67,
+      "arousal": 3.75,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "But I'm back on my feet AsÃ­ es la vida, sÃ­ Yeah, that's just life, baby I was barely standin', but now I'm dancin'",
+      "valence": 3.11,
+      "arousal": 3.22,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "AsÃ­ es la vida, sÃ­ Yeah, that's just life, baby I was barely standin', but now I'm dancin' He's all over me",
+      "valence": 2.89,
+      "arousal": 3.42,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Yeah, that's just life, baby I was barely standin', but now I'm dancin' He's all over me Bidi-bam-bam-bam-bam, bam-bam",
+      "valence": 2.76,
+      "arousal": 3.54,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I was barely standin', but now I'm dancin' He's all over me Bidi-bam-bam-bam-bam, bam-bam Bidi-bam-bam-bam-bam, bam-bam",
+      "valence": 2.7,
+      "arousal": 3.52,
+      "dominance": 2.75
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "He's all over me Bidi-bam-bam-bam-bam, bam-bam Bidi-bam-bam-bam-bam, bam-bam Bidi-bam-bam-bam-bam, bam-bam",
+      "valence": 2.99,
+      "arousal": 3.53,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Bidi-bam-bam-bam-bam, bam-bam Bidi-bam-bam-bam-bam, bam-bam Bidi-bam-bam-bam-bam, bam-bam Bidi-bam-bam-bam-bam (ahÃ­, ahÃ­)",
+      "valence": 3.06,
+      "arousal": 3.21,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Bidi-bam-bam-bam-bam, bam-bam Bidi-bam-bam-bam-bam, bam-bam Bidi-bam-bam-bam-bam (ahÃ­, ahÃ­) Bidi-bam-bam-bam-bam, bam-bam",
+      "valence": 3.06,
+      "arousal": 3.28,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Bidi-bam-bam-bam-bam, bam-bam Bidi-bam-bam-bam-bam (ahÃ­, ahÃ­) Bidi-bam-bam-bam-bam, bam-bam Bidi-bam-bam-bam-bam, bam-bam",
+      "valence": 3.0,
+      "arousal": 3.29,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Bidi-bam-bam-bam-bam (ahÃ­, ahÃ­) Bidi-bam-bam-bam-bam, bam-bam Bidi-bam-bam-bam-bam, bam-bam Bidi-bam-bam-bam-bam, bam-bam",
+      "valence": 3.03,
+      "arousal": 3.34,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Bidi-bam-bam-bam-bam, bam-bam Bidi-bam-bam-bam-bam, bam-bam Bidi-bam-bam-bam-bam, bam-bam Bidi-bam-bam-bam-bam (pÃ³nganle azÃºcar, mi gente)",
+      "valence": 3.08,
+      "arousal": 3.26,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Bidi-bam-bam-bam-bam, bam-bam Bidi-bam-bam-bam-bam, bam-bam Bidi-bam-bam-bam-bam (pÃ³nganle azÃºcar, mi gente) Y sigue bailando, hey",
+      "valence": 3.16,
+      "arousal": 3.43,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Bidi-bam-bam-bam-bam, bam-bam Bidi-bam-bam-bam-bam (pÃ³nganle azÃºcar, mi gente) Y sigue bailando, hey Y sigue bailando, ajÃ¡ (keep dancing, yeah)",
+      "valence": 3.32,
+      "arousal": 3.54,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Bidi-bam-bam-bam-bam (pÃ³nganle azÃºcar, mi gente) Y sigue bailando, hey Y sigue bailando, ajÃ¡ (keep dancing, yeah) Y sigue bailando (keep dancing, yeah)",
+      "valence": 3.31,
+      "arousal": 3.51,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Y sigue bailando, hey Y sigue bailando, ajÃ¡ (keep dancing, yeah) Y sigue bailando (keep dancing, yeah) Y sigue bailando (ayy)",
+      "valence": 3.28,
+      "arousal": 3.46,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Y sigue bailando, ajÃ¡ (keep dancing, yeah) Y sigue bailando (keep dancing, yeah) Y sigue bailando (ayy) ajÃ¡, y sigue bailando",
+      "valence": 3.24,
+      "arousal": 3.38,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Y sigue bailando (keep dancing, yeah) Y sigue bailando (ayy) ajÃ¡, y sigue bailando (Keep dancing, yeah) y sigue bailando (ayy)",
+      "valence": 3.2,
+      "arousal": 3.34,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Y sigue bailando (ayy) ajÃ¡, y sigue bailando (Keep dancing, yeah) y sigue bailando (ayy) (Hay amor en todos lados) y sigue bailando, uoh",
+      "valence": 3.24,
+      "arousal": 3.47,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "ajÃ¡, y sigue bailando (Keep dancing, yeah) y sigue bailando (ayy) (Hay amor en todos lados) y sigue bailando, uoh (Sigue, sigue, sigue bailando)",
+      "valence": 3.26,
+      "arousal": 3.47,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "(Keep dancing, yeah) y sigue bailando (ayy) (Hay amor en todos lados) y sigue bailando, uoh (Sigue, sigue, sigue bailando) AsÃ­ es la vida, sÃ­",
+      "valence": 3.37,
+      "arousal": 3.46,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "(Hay amor en todos lados) y sigue bailando, uoh (Sigue, sigue, sigue bailando) AsÃ­ es la vida, sÃ­ Yeah, that's just life, baby",
+      "valence": 3.23,
+      "arousal": 3.27,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "(Sigue, sigue, sigue bailando) AsÃ­ es la vida, sÃ­ Yeah, that's just life, baby Yeah, love came around and it knocked me down",
+      "valence": 3.76,
+      "arousal": 3.79,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "AsÃ­ es la vida, sÃ­ Yeah, that's just life, baby Yeah, love came around and it knocked me down But I'm back on my feet",
+      "valence": 3.69,
+      "arousal": 3.73,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Yeah, that's just life, baby Yeah, love came around and it knocked me down But I'm back on my feet AsÃ­ es la vida, sÃ­",
+      "valence": 3.83,
+      "arousal": 3.81,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Yeah, love came around and it knocked me down But I'm back on my feet AsÃ­ es la vida, sÃ­ Yeah, that's just life, baby",
+      "valence": 3.67,
+      "arousal": 3.75,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "But I'm back on my feet AsÃ­ es la vida, sÃ­ Yeah, that's just life, baby I was barely standin', but now I'm dancin'",
+      "valence": 3.11,
+      "arousal": 3.22,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "AsÃ­ es la vida, sÃ­ Yeah, that's just life, baby I was barely standin', but now I'm dancin' She's all over me (hey, hey)",
+      "valence": 2.87,
+      "arousal": 3.4,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Yeah, that's just life, baby I was barely standin', but now I'm dancin' She's all over me (hey, hey) Now I'm, now I'm dancin' (keep dancing, yeah)",
+      "valence": 3.3,
+      "arousal": 3.56,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "I was barely standin', but now I'm dancin' She's all over me (hey, hey) Now I'm, now I'm dancin' (keep dancing, yeah) Now I'm, now I'm dancin' (keep dancing, yeah)",
+      "valence": 3.16,
+      "arousal": 3.52,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "She's all over me (hey, hey) Now I'm, now I'm dancin' (keep dancing, yeah) Now I'm, now I'm dancin' (keep dancing, yeah) Now I'm, now I'm dancin' (keep dancing, yeah)",
+      "valence": 3.21,
+      "arousal": 3.46,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Now I'm, now I'm dancin' (keep dancing, yeah) Now I'm, now I'm dancin' (keep dancing, yeah) Now I'm, now I'm dancin' (keep dancing, yeah) (Bam-bam-bam-bam) (hey, hey)",
+      "valence": 3.29,
+      "arousal": 3.45,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Now I'm, now I'm dancin' (keep dancing, yeah) Now I'm, now I'm dancin' (keep dancing, yeah) (Bam-bam-bam-bam) (hey, hey) And now I'm dancin' (keep dancing, yeah)",
+      "valence": 3.31,
+      "arousal": 3.44,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Now I'm, now I'm dancin' (keep dancing, yeah) (Bam-bam-bam-bam) (hey, hey) And now I'm dancin' (keep dancing, yeah) Now I'm dancin' (keep dancing, yeah)",
+      "valence": 3.3,
+      "arousal": 3.47,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "(Bam-bam-bam-bam) (hey, hey) And now I'm dancin' (keep dancing, yeah) Now I'm dancin' (keep dancing, yeah) (Bam-bam-bam-bam) eh",
+      "valence": 3.21,
+      "arousal": 3.49,
+      "dominance": 3.1
+    }
+  ]
+}

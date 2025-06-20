@@ -1,0 +1,374 @@
+{
+  "artist": "Jason Aldean",
+  "overall_vad": {
+    "valence": 2.58,
+    "arousal": 3.29,
+    "dominance": 3.15
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Goin' down like a sunset Burnin' out like a cigarette Blowin' through the cash, through the past Drinking down that memory til there's nothin' left",
+      "valence": 2.85,
+      "arousal": 3.07,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Burnin' out like a cigarette Blowin' through the cash, through the past Drinking down that memory til there's nothin' left I could go on and on",
+      "valence": 2.59,
+      "arousal": 3.25,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Blowin' through the cash, through the past Drinking down that memory til there's nothin' left I could go on and on On why you're gone",
+      "valence": 2.33,
+      "arousal": 3.37,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Drinking down that memory til there's nothin' left I could go on and on On why you're gone I could blame it on the whiskey",
+      "valence": 2.38,
+      "arousal": 3.13,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I could go on and on On why you're gone I could blame it on the whiskey I wouldn't blame you if you didn't even miss me",
+      "valence": 2.43,
+      "arousal": 3.18,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "On why you're gone I could blame it on the whiskey I wouldn't blame you if you didn't even miss me Gave you a million reasons girl not to be with me",
+      "valence": 2.37,
+      "arousal": 3.3,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I could blame it on the whiskey I wouldn't blame you if you didn't even miss me Gave you a million reasons girl not to be with me Should've never let you go",
+      "valence": 2.36,
+      "arousal": 3.37,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I wouldn't blame you if you didn't even miss me Gave you a million reasons girl not to be with me Should've never let you go Should've never watched you go",
+      "valence": 2.32,
+      "arousal": 3.5,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Gave you a million reasons girl not to be with me Should've never let you go Should've never watched you go I could blame it on a good high",
+      "valence": 2.68,
+      "arousal": 3.62,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Should've never let you go Should've never watched you go I could blame it on a good high Let it take the blame for why you told me goodbye",
+      "valence": 2.66,
+      "arousal": 3.37,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Should've never watched you go I could blame it on a good high Let it take the blame for why you told me goodbye Instead of missin' you and missin' all those good times",
+      "valence": 2.78,
+      "arousal": 3.27,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I could blame it on a good high Let it take the blame for why you told me goodbye Instead of missin' you and missin' all those good times Should've never let you go",
+      "valence": 2.74,
+      "arousal": 3.25,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Let it take the blame for why you told me goodbye Instead of missin' you and missin' all those good times Should've never let you go Should've never watched you go",
+      "valence": 2.52,
+      "arousal": 3.34,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Instead of missin' you and missin' all those good times Should've never let you go Should've never watched you go I could say I never knew",
+      "valence": 2.69,
+      "arousal": 3.22,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Should've never let you go Should've never watched you go I could say I never knew I could drink around the truth",
+      "valence": 2.47,
+      "arousal": 3.28,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Should've never watched you go I could say I never knew I could drink around the truth But I can't blame it on you, yeah, yeah",
+      "valence": 2.48,
+      "arousal": 3.26,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I could say I never knew I could drink around the truth But I can't blame it on you, yeah, yeah Trying to ride out the midnight",
+      "valence": 2.73,
+      "arousal": 3.26,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I could drink around the truth But I can't blame it on you, yeah, yeah Trying to ride out the midnight Trying to fight through the daylight",
+      "valence": 2.55,
+      "arousal": 3.22,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "But I can't blame it on you, yeah, yeah Trying to ride out the midnight Trying to fight through the daylight Wondering where you're at and just like that",
+      "valence": 2.68,
+      "arousal": 3.27,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Trying to ride out the midnight Trying to fight through the daylight Wondering where you're at and just like that I'm looking back on what I had when you were mine",
+      "valence": 2.99,
+      "arousal": 3.32,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Trying to fight through the daylight Wondering where you're at and just like that I'm looking back on what I had when you were mine I could go on and on",
+      "valence": 2.95,
+      "arousal": 3.28,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Wondering where you're at and just like that I'm looking back on what I had when you were mine I could go on and on On why you're gone",
+      "valence": 2.94,
+      "arousal": 3.18,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I'm looking back on what I had when you were mine I could go on and on On why you're gone I could blame it on the whiskey",
+      "valence": 2.69,
+      "arousal": 3.17,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I could go on and on On why you're gone I could blame it on the whiskey I wouldn't blame you if you didn't even miss me",
+      "valence": 2.43,
+      "arousal": 3.18,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "On why you're gone I could blame it on the whiskey I wouldn't blame you if you didn't even miss me Gave you a million reasons girl not to be with me",
+      "valence": 2.37,
+      "arousal": 3.3,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I could blame it on the whiskey I wouldn't blame you if you didn't even miss me Gave you a million reasons girl not to be with me Should've never let you go",
+      "valence": 2.36,
+      "arousal": 3.37,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I wouldn't blame you if you didn't even miss me Gave you a million reasons girl not to be with me Should've never let you go Should've never watched you go",
+      "valence": 2.32,
+      "arousal": 3.5,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Gave you a million reasons girl not to be with me Should've never let you go Should've never watched you go I could blame it on a good high",
+      "valence": 2.68,
+      "arousal": 3.62,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Should've never let you go Should've never watched you go I could blame it on a good high Let it take the blame for why you told me goodbye",
+      "valence": 2.66,
+      "arousal": 3.37,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Should've never watched you go I could blame it on a good high Let it take the blame for why you told me goodbye Instead of missin' you and missin' all those good times",
+      "valence": 2.78,
+      "arousal": 3.27,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I could blame it on a good high Let it take the blame for why you told me goodbye Instead of missin' you and missin' all those good times Should've never let you go",
+      "valence": 2.74,
+      "arousal": 3.25,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Let it take the blame for why you told me goodbye Instead of missin' you and missin' all those good times Should've never let you go Should've never watched you go",
+      "valence": 2.52,
+      "arousal": 3.34,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Instead of missin' you and missin' all those good times Should've never let you go Should've never watched you go I could say I never knew",
+      "valence": 2.69,
+      "arousal": 3.22,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Should've never let you go Should've never watched you go I could say I never knew I could drink around the truth",
+      "valence": 2.47,
+      "arousal": 3.28,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Should've never watched you go I could say I never knew I could drink around the truth But I can't blame it on you, yeah, yeah",
+      "valence": 2.48,
+      "arousal": 3.26,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I could say I never knew I could drink around the truth But I can't blame it on you, yeah, yeah I could go on and on",
+      "valence": 2.63,
+      "arousal": 3.23,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I could drink around the truth But I can't blame it on you, yeah, yeah I could go on and on On why you're gone",
+      "valence": 2.47,
+      "arousal": 3.14,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "But I can't blame it on you, yeah, yeah I could go on and on On why you're gone I could blame it on the whiskey",
+      "valence": 2.52,
+      "arousal": 3.16,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I could go on and on On why you're gone I could blame it on the whiskey I wouldn't blame you if you didn't even miss me",
+      "valence": 2.43,
+      "arousal": 3.18,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "On why you're gone I could blame it on the whiskey I wouldn't blame you if you didn't even miss me Gave you a million reasons girl not to be with me",
+      "valence": 2.37,
+      "arousal": 3.3,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I could blame it on the whiskey I wouldn't blame you if you didn't even miss me Gave you a million reasons girl not to be with me Should've never let you go",
+      "valence": 2.36,
+      "arousal": 3.37,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "I wouldn't blame you if you didn't even miss me Gave you a million reasons girl not to be with me Should've never let you go Should've never watched you go",
+      "valence": 2.32,
+      "arousal": 3.5,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Gave you a million reasons girl not to be with me Should've never let you go Should've never watched you go I could blame it on a good high",
+      "valence": 2.68,
+      "arousal": 3.62,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Should've never let you go Should've never watched you go I could blame it on a good high Let it take the blame for why you told me goodbye",
+      "valence": 2.66,
+      "arousal": 3.37,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Should've never watched you go I could blame it on a good high Let it take the blame for why you told me goodbye Instead of missin' you and missin' all those good times",
+      "valence": 2.78,
+      "arousal": 3.27,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I could blame it on a good high Let it take the blame for why you told me goodbye Instead of missin' you and missin' all those good times Should've never let you go",
+      "valence": 2.74,
+      "arousal": 3.25,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Let it take the blame for why you told me goodbye Instead of missin' you and missin' all those good times Should've never let you go Should've never watched you go",
+      "valence": 2.52,
+      "arousal": 3.34,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Instead of missin' you and missin' all those good times Should've never let you go Should've never watched you go I could say I never knew",
+      "valence": 2.69,
+      "arousal": 3.22,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Should've never let you go Should've never watched you go I could say I never knew I could drink around the truth",
+      "valence": 2.47,
+      "arousal": 3.28,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Should've never watched you go I could say I never knew I could drink around the truth I could say I never knew",
+      "valence": 2.5,
+      "arousal": 3.15,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I could say I never knew I could drink around the truth I could say I never knew Yeah I could drink around the truth",
+      "valence": 2.87,
+      "arousal": 3.0,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "I could drink around the truth I could say I never knew Yeah I could drink around the truth But I can't blame it on you, yeah, yeah",
+      "valence": 2.67,
+      "arousal": 3.25,
+      "dominance": 3.24
+    }
+  ]
+}

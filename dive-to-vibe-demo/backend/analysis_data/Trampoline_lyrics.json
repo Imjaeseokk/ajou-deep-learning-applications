@@ -1,0 +1,290 @@
+{
+  "artist": "SHAED",
+  "overall_vad": {
+    "valence": 3.01,
+    "arousal": 3.53,
+    "dominance": 2.88
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I've been havin' dreams Jumpin' on a trampoline Flippin' in the air I never land, just float there",
+      "valence": 3.1,
+      "arousal": 3.15,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Jumpin' on a trampoline Flippin' in the air I never land, just float there As I'm looking up",
+      "valence": 3.1,
+      "arousal": 2.98,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Flippin' in the air I never land, just float there As I'm looking up Suddenly the sky erupts",
+      "valence": 2.85,
+      "arousal": 3.19,
+      "dominance": 2.75
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I never land, just float there As I'm looking up Suddenly the sky erupts Flames alight the trees",
+      "valence": 2.93,
+      "arousal": 3.21,
+      "dominance": 2.77
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "As I'm looking up Suddenly the sky erupts Flames alight the trees Spread to fallin' leaves",
+      "valence": 3.01,
+      "arousal": 3.63,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Suddenly the sky erupts Flames alight the trees Spread to fallin' leaves Now they're right upon me",
+      "valence": 3.1,
+      "arousal": 3.66,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Flames alight the trees Spread to fallin' leaves Now they're right upon me Wait if I'm on fire",
+      "valence": 2.75,
+      "arousal": 3.6,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Spread to fallin' leaves Now they're right upon me Wait if I'm on fire How am I so deep in love?",
+      "valence": 3.28,
+      "arousal": 3.67,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Now they're right upon me Wait if I'm on fire How am I so deep in love? When I dream of dying",
+      "valence": 2.96,
+      "arousal": 3.65,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Wait if I'm on fire How am I so deep in love? When I dream of dying I never feel so loved",
+      "valence": 2.98,
+      "arousal": 3.64,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "How am I so deep in love? When I dream of dying I never feel so loved I've been having dreams",
+      "valence": 2.98,
+      "arousal": 3.6,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "When I dream of dying I never feel so loved I've been having dreams Splashin' in a summer stream",
+      "valence": 2.37,
+      "arousal": 3.34,
+      "dominance": 2.59
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I never feel so loved I've been having dreams Splashin' in a summer stream Trip and I fall in",
+      "valence": 2.77,
+      "arousal": 3.37,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I've been having dreams Splashin' in a summer stream Trip and I fall in I wanted it to happen",
+      "valence": 3.19,
+      "arousal": 3.36,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Splashin' in a summer stream Trip and I fall in I wanted it to happen My body turns to ice",
+      "valence": 3.0,
+      "arousal": 3.41,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Trip and I fall in I wanted it to happen My body turns to ice Crushin' weight of paradise",
+      "valence": 3.21,
+      "arousal": 3.6,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I wanted it to happen My body turns to ice Crushin' weight of paradise Solid block of gold",
+      "valence": 3.21,
+      "arousal": 3.64,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "My body turns to ice Crushin' weight of paradise Solid block of gold Lying in the cold",
+      "valence": 3.35,
+      "arousal": 3.58,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Crushin' weight of paradise Solid block of gold Lying in the cold I feel right at home",
+      "valence": 3.54,
+      "arousal": 3.25,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Solid block of gold Lying in the cold I feel right at home Wait if I'm on fire",
+      "valence": 3.11,
+      "arousal": 3.17,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Lying in the cold I feel right at home Wait if I'm on fire How am I so deep in love?",
+      "valence": 3.28,
+      "arousal": 3.57,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I feel right at home Wait if I'm on fire How am I so deep in love? When I dream of dying",
+      "valence": 3.05,
+      "arousal": 3.56,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Wait if I'm on fire How am I so deep in love? When I dream of dying I never feel so loved",
+      "valence": 2.98,
+      "arousal": 3.64,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "How am I so deep in love? When I dream of dying I never feel so loved Wait if I'm on fire",
+      "valence": 2.84,
+      "arousal": 3.65,
+      "dominance": 2.71
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "When I dream of dying I never feel so loved Wait if I'm on fire How am I so deep in love?",
+      "valence": 2.77,
+      "arousal": 3.69,
+      "dominance": 2.62
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I never feel so loved Wait if I'm on fire How am I so deep in love? When I dream of dying",
+      "valence": 2.81,
+      "arousal": 3.69,
+      "dominance": 2.73
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Wait if I'm on fire How am I so deep in love? When I dream of dying I never feel so loved",
+      "valence": 2.98,
+      "arousal": 3.64,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "How am I so deep in love? When I dream of dying I never feel so loved I never feel so loved",
+      "valence": 3.1,
+      "arousal": 3.6,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "When I dream of dying I never feel so loved I never feel so loved La, la, la, la, la",
+      "valence": 2.81,
+      "arousal": 3.6,
+      "dominance": 2.7
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I never feel so loved I never feel so loved La, la, la, la, la La, la, la, la, la, la, la",
+      "valence": 3.64,
+      "arousal": 3.73,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I never feel so loved La, la, la, la, la La, la, la, la, la, la, la La, la, la, la, la",
+      "valence": 3.2,
+      "arousal": 3.58,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "La, la, la, la, la La, la, la, la, la, la, la La, la, la, la, la La, la, la, la, la, la",
+      "valence": 2.96,
+      "arousal": 3.15,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "La, la, la, la, la, la, la La, la, la, la, la La, la, la, la, la, la Wait if I'm on fire",
+      "valence": 2.87,
+      "arousal": 3.61,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "La, la, la, la, la La, la, la, la, la, la Wait if I'm on fire How am I so deep in love?",
+      "valence": 3.24,
+      "arousal": 3.78,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "La, la, la, la, la, la Wait if I'm on fire How am I so deep in love? When I dream of dying",
+      "valence": 2.9,
+      "arousal": 3.65,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Wait if I'm on fire How am I so deep in love? When I dream of dying I never feel so loved",
+      "valence": 2.98,
+      "arousal": 3.64,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "How am I so deep in love? When I dream of dying I never feel so loved Wait if I'm on fire",
+      "valence": 2.84,
+      "arousal": 3.65,
+      "dominance": 2.71
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "When I dream of dying I never feel so loved Wait if I'm on fire How am I so deep in love?",
+      "valence": 2.77,
+      "arousal": 3.69,
+      "dominance": 2.62
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I never feel so loved Wait if I'm on fire How am I so deep in love? When I dream of dying",
+      "valence": 2.81,
+      "arousal": 3.69,
+      "dominance": 2.73
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Wait if I'm on fire How am I so deep in love? When I dream of dying I never feel so loved",
+      "valence": 2.98,
+      "arousal": 3.64,
+      "dominance": 2.85
+    }
+  ]
+}

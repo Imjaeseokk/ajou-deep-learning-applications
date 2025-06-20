@@ -1,0 +1,185 @@
+{
+  "artist": "Dustin Lynch",
+  "overall_vad": {
+    "valence": 3.33,
+    "arousal": 3.48,
+    "dominance": 3.19
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "There's a want and there's a need There's a history between Girls like her and guys like me Cowboys and angels",
+      "valence": 3.2,
+      "arousal": 3.29,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "There's a history between Girls like her and guys like me Cowboys and angels I've got boots and she's got wings",
+      "valence": 3.2,
+      "arousal": 3.28,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Girls like her and guys like me Cowboys and angels I've got boots and she's got wings I'm hell on wheels and she's heavenly",
+      "valence": 3.34,
+      "arousal": 3.56,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Cowboys and angels I've got boots and she's got wings I'm hell on wheels and she's heavenly I'd die for her and she lives for me",
+      "valence": 3.23,
+      "arousal": 3.57,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I've got boots and she's got wings I'm hell on wheels and she's heavenly I'd die for her and she lives for me Cowboys and angels",
+      "valence": 3.27,
+      "arousal": 3.57,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I'm hell on wheels and she's heavenly I'd die for her and she lives for me Cowboys and angels We ride side by side",
+      "valence": 3.2,
+      "arousal": 3.61,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I'd die for her and she lives for me Cowboys and angels We ride side by side A cloud of dust, a ray of light",
+      "valence": 3.12,
+      "arousal": 3.3,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Cowboys and angels We ride side by side A cloud of dust, a ray of light My touch is her temptation",
+      "valence": 3.19,
+      "arousal": 3.25,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "We ride side by side A cloud of dust, a ray of light My touch is her temptation Her kiss is my salvation",
+      "valence": 3.56,
+      "arousal": 3.56,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "A cloud of dust, a ray of light My touch is her temptation Her kiss is my salvation She's sweet, I'm wild, we're dangerous",
+      "valence": 3.68,
+      "arousal": 3.81,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "My touch is her temptation Her kiss is my salvation She's sweet, I'm wild, we're dangerous Cowboys and angels",
+      "valence": 3.77,
+      "arousal": 3.99,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Her kiss is my salvation She's sweet, I'm wild, we're dangerous Cowboys and angels I'm not sure why her path crossed mine",
+      "valence": 3.57,
+      "arousal": 3.79,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "She's sweet, I'm wild, we're dangerous Cowboys and angels I'm not sure why her path crossed mine Accident or grand design",
+      "valence": 3.04,
+      "arousal": 3.59,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Cowboys and angels I'm not sure why her path crossed mine Accident or grand design Maybe God just kinda likes",
+      "valence": 3.08,
+      "arousal": 3.03,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I'm not sure why her path crossed mine Accident or grand design Maybe God just kinda likes Cowboys and angels",
+      "valence": 3.04,
+      "arousal": 3.04,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Accident or grand design Maybe God just kinda likes Cowboys and angels We ride side by side",
+      "valence": 3.13,
+      "arousal": 3.05,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Maybe God just kinda likes Cowboys and angels We ride side by side A cloud of dust, a ray of light",
+      "valence": 3.2,
+      "arousal": 3.03,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Cowboys and angels We ride side by side A cloud of dust, a ray of light My touch is her temptation",
+      "valence": 3.19,
+      "arousal": 3.25,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "We ride side by side A cloud of dust, a ray of light My touch is her temptation Her kiss is my salvation",
+      "valence": 3.56,
+      "arousal": 3.56,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "A cloud of dust, a ray of light My touch is her temptation Her kiss is my salvation She's sweet, I'm wild, we're dangerous",
+      "valence": 3.68,
+      "arousal": 3.81,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "My touch is her temptation Her kiss is my salvation She's sweet, I'm wild, we're dangerous Cowboys and angels",
+      "valence": 3.77,
+      "arousal": 3.99,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Her kiss is my salvation She's sweet, I'm wild, we're dangerous Cowboys and angels There's a want and there's a need",
+      "valence": 3.66,
+      "arousal": 3.94,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "She's sweet, I'm wild, we're dangerous Cowboys and angels There's a want and there's a need There's a history between",
+      "valence": 3.2,
+      "arousal": 3.61,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Cowboys and angels There's a want and there's a need There's a history between Girls like you and guys like me",
+      "valence": 3.21,
+      "arousal": 3.23,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "There's a want and there's a need There's a history between Girls like you and guys like me Cowboys and angels",
+      "valence": 3.22,
+      "arousal": 3.28,
+      "dominance": 3.2
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "artist": "Adam Lambert",
+  "overall_vad": {
+    "valence": 2.46,
+    "arousal": 3.46,
+    "dominance": 2.88
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Died last night in my dreams Walking the streets Of some old ghost town I tried to believe",
+      "valence": 2.35,
+      "arousal": 3.12,
+      "dominance": 2.56
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Walking the streets Of some old ghost town I tried to believe In God and James Dean",
+      "valence": 2.85,
+      "arousal": 3.01,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Of some old ghost town I tried to believe In God and James Dean But Hollywood sold out",
+      "valence": 2.85,
+      "arousal": 3.19,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I tried to believe In God and James Dean But Hollywood sold out Saw all of the saints",
+      "valence": 3.01,
+      "arousal": 3.33,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "In God and James Dean But Hollywood sold out Saw all of the saints Lock up the gates",
+      "valence": 2.8,
+      "arousal": 3.39,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "But Hollywood sold out Saw all of the saints Lock up the gates I could not enter",
+      "valence": 2.68,
+      "arousal": 3.49,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Saw all of the saints Lock up the gates I could not enter Walked into the flames",
+      "valence": 2.75,
+      "arousal": 3.55,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Lock up the gates I could not enter Walked into the flames Called out your name",
+      "valence": 2.38,
+      "arousal": 3.78,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I could not enter Walked into the flames Called out your name But there was no answer",
+      "valence": 2.53,
+      "arousal": 3.66,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Walked into the flames Called out your name But there was no answer And now I know my heart is a ghost town",
+      "valence": 2.44,
+      "arousal": 3.58,
+      "dominance": 2.73
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Called out your name But there was no answer And now I know my heart is a ghost town My heart is a ghost town",
+      "valence": 2.45,
+      "arousal": 3.47,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "But there was no answer And now I know my heart is a ghost town My heart is a ghost town My heart is a ghost town",
+      "valence": 2.37,
+      "arousal": 3.33,
+      "dominance": 2.71
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "And now I know my heart is a ghost town My heart is a ghost town My heart is a ghost town My heart is a ghost town",
+      "valence": 2.24,
+      "arousal": 3.37,
+      "dominance": 2.69
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "My heart is a ghost town My heart is a ghost town My heart is a ghost town Died last night in my dreams",
+      "valence": 2.08,
+      "arousal": 3.5,
+      "dominance": 2.53
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "My heart is a ghost town My heart is a ghost town Died last night in my dreams All the machines",
+      "valence": 2.14,
+      "arousal": 3.44,
+      "dominance": 2.53
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "My heart is a ghost town Died last night in my dreams All the machines Had been disconnected",
+      "valence": 2.08,
+      "arousal": 3.4,
+      "dominance": 2.59
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Died last night in my dreams All the machines Had been disconnected Time was thrown at the wind",
+      "valence": 2.33,
+      "arousal": 3.43,
+      "dominance": 2.71
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "All the machines Had been disconnected Time was thrown at the wind And all of my friends",
+      "valence": 2.54,
+      "arousal": 3.47,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Had been disconnected Time was thrown at the wind And all of my friends Had been disaffected",
+      "valence": 2.39,
+      "arousal": 3.34,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Time was thrown at the wind And all of my friends Had been disaffected Now, I'm searching for trust",
+      "valence": 2.59,
+      "arousal": 3.26,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "And all of my friends Had been disaffected Now, I'm searching for trust In a city of rust",
+      "valence": 2.61,
+      "arousal": 3.12,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Had been disaffected Now, I'm searching for trust In a city of rust A city of vampires",
+      "valence": 2.76,
+      "arousal": 3.13,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Now, I'm searching for trust In a city of rust A city of vampires Tonight, Elvis is dead",
+      "valence": 2.53,
+      "arousal": 3.27,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "In a city of rust A city of vampires Tonight, Elvis is dead And everyone's spread",
+      "valence": 2.32,
+      "arousal": 3.34,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "A city of vampires Tonight, Elvis is dead And everyone's spread And love is a satire",
+      "valence": 2.66,
+      "arousal": 3.48,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Tonight, Elvis is dead And everyone's spread And love is a satire And now I know my heart is a ghost town",
+      "valence": 2.49,
+      "arousal": 3.56,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "And everyone's spread And love is a satire And now I know my heart is a ghost town My heart is a ghost town",
+      "valence": 2.67,
+      "arousal": 3.51,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "And love is a satire And now I know my heart is a ghost town My heart is a ghost town Ooh, my heart is a ghost town",
+      "valence": 2.62,
+      "arousal": 3.53,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "And now I know my heart is a ghost town My heart is a ghost town Ooh, my heart is a ghost town My heart is a ghost town",
+      "valence": 2.21,
+      "arousal": 3.53,
+      "dominance": 2.64
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "My heart is a ghost town Ooh, my heart is a ghost town My heart is a ghost town There's no one left in the world",
+      "valence": 2.22,
+      "arousal": 3.57,
+      "dominance": 2.57
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Ooh, my heart is a ghost town My heart is a ghost town There's no one left in the world I'm gunslingin'",
+      "valence": 2.23,
+      "arousal": 3.73,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "My heart is a ghost town There's no one left in the world I'm gunslingin' Don't give a fuck if I go",
+      "valence": 2.12,
+      "arousal": 3.65,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "There's no one left in the world I'm gunslingin' Don't give a fuck if I go Down, down, down",
+      "valence": 2.29,
+      "arousal": 3.64,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I'm gunslingin' Don't give a fuck if I go Down, down, down I got a voice in my head that keeps singing",
+      "valence": 2.53,
+      "arousal": 3.79,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Don't give a fuck if I go Down, down, down I got a voice in my head that keeps singing Oh, my heart is a ghost town",
+      "valence": 2.28,
+      "arousal": 3.58,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Down, down, down I got a voice in my head that keeps singing Oh, my heart is a ghost town Ooh, my heart is a ghost town",
+      "valence": 2.38,
+      "arousal": 3.53,
+      "dominance": 2.69
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I got a voice in my head that keeps singing Oh, my heart is a ghost town Ooh, my heart is a ghost town Oh, my heart is a ghost town",
+      "valence": 2.54,
+      "arousal": 3.52,
+      "dominance": 2.75
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Oh, my heart is a ghost town Ooh, my heart is a ghost town Oh, my heart is a ghost town My heart is a ghost town",
+      "valence": 2.35,
+      "arousal": 3.68,
+      "dominance": 2.53
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Ooh, my heart is a ghost town Oh, my heart is a ghost town My heart is a ghost town My heart is a ghost town",
+      "valence": 2.4,
+      "arousal": 3.61,
+      "dominance": 2.54
+    }
+  ]
+}

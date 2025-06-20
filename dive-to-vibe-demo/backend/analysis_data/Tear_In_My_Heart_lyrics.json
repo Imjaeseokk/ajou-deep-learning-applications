@@ -1,0 +1,423 @@
+{
+  "artist": "twenty one pilots",
+  "overall_vad": {
+    "valence": 3.19,
+    "arousal": 3.68,
+    "dominance": 3.21
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Oh, oh Oh, oh Sometimes you gotta bleed to know That you're alive and have a soul",
+      "valence": 2.89,
+      "arousal": 3.64,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Oh, oh Sometimes you gotta bleed to know That you're alive and have a soul But it takes someone to come around",
+      "valence": 3.04,
+      "arousal": 3.47,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Sometimes you gotta bleed to know That you're alive and have a soul But it takes someone to come around To show you how",
+      "valence": 3.07,
+      "arousal": 3.44,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "That you're alive and have a soul But it takes someone to come around To show you how She's the tear in my heart",
+      "valence": 3.16,
+      "arousal": 3.54,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "But it takes someone to come around To show you how She's the tear in my heart I'm alive",
+      "valence": 3.32,
+      "arousal": 3.63,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "To show you how She's the tear in my heart I'm alive She's the tear in my heart",
+      "valence": 3.56,
+      "arousal": 3.87,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "She's the tear in my heart I'm alive She's the tear in my heart I'm on fire",
+      "valence": 3.54,
+      "arousal": 4.19,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I'm alive She's the tear in my heart I'm on fire She's the tear in my heart",
+      "valence": 3.66,
+      "arousal": 4.25,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "She's the tear in my heart I'm on fire She's the tear in my heart Take me higher",
+      "valence": 3.32,
+      "arousal": 4.06,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I'm on fire She's the tear in my heart Take me higher Than I've ever been",
+      "valence": 3.59,
+      "arousal": 4.33,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "She's the tear in my heart Take me higher Than I've ever been Songs on the radio are okay",
+      "valence": 3.29,
+      "arousal": 3.73,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Take me higher Than I've ever been Songs on the radio are okay My taste in music is your face",
+      "valence": 3.14,
+      "arousal": 3.51,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Than I've ever been Songs on the radio are okay My taste in music is your face But it takes a song to come around",
+      "valence": 3.02,
+      "arousal": 3.22,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Songs on the radio are okay My taste in music is your face But it takes a song to come around To show you how",
+      "valence": 2.96,
+      "arousal": 3.29,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "My taste in music is your face But it takes a song to come around To show you how She's the tear in my heart",
+      "valence": 3.09,
+      "arousal": 3.64,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "But it takes a song to come around To show you how She's the tear in my heart I'm alive",
+      "valence": 3.33,
+      "arousal": 3.59,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "To show you how She's the tear in my heart I'm alive She's the tear in my heart",
+      "valence": 3.56,
+      "arousal": 3.87,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "She's the tear in my heart I'm alive She's the tear in my heart I'm on fire",
+      "valence": 3.54,
+      "arousal": 4.19,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I'm alive She's the tear in my heart I'm on fire She's the tear in my heart",
+      "valence": 3.66,
+      "arousal": 4.25,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "She's the tear in my heart I'm on fire She's the tear in my heart Take me higher",
+      "valence": 3.32,
+      "arousal": 4.06,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I'm on fire She's the tear in my heart Take me higher Than I've ever been",
+      "valence": 3.59,
+      "arousal": 4.33,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "She's the tear in my heart Take me higher Than I've ever been Than I've ever been",
+      "valence": 3.39,
+      "arousal": 3.9,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Take me higher Than I've ever been Than I've ever been Than I've ever been",
+      "valence": 3.33,
+      "arousal": 3.63,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Than I've ever been Than I've ever been Than I've ever been Than I've ever been",
+      "valence": 3.1,
+      "arousal": 3.34,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Than I've ever been Than I've ever been Than I've ever been Oh, than I've ever been",
+      "valence": 3.2,
+      "arousal": 3.41,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Than I've ever been Than I've ever been Oh, than I've ever been You fell asleep in my car, I drove the whole time",
+      "valence": 3.04,
+      "arousal": 3.44,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Than I've ever been Oh, than I've ever been You fell asleep in my car, I drove the whole time But that's okay, I'll just avoid the holes so you sleep fine",
+      "valence": 3.01,
+      "arousal": 3.25,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Oh, than I've ever been You fell asleep in my car, I drove the whole time But that's okay, I'll just avoid the holes so you sleep fine I'm driving, here I sit, cursing my government",
+      "valence": 2.3,
+      "arousal": 3.47,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "You fell asleep in my car, I drove the whole time But that's okay, I'll just avoid the holes so you sleep fine I'm driving, here I sit, cursing my government For not using my taxes to fill holes with more cement",
+      "valence": 2.41,
+      "arousal": 3.45,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "But that's okay, I'll just avoid the holes so you sleep fine I'm driving, here I sit, cursing my government For not using my taxes to fill holes with more cement You fell asleep in my car, I drove the whole time",
+      "valence": 2.37,
+      "arousal": 3.52,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I'm driving, here I sit, cursing my government For not using my taxes to fill holes with more cement You fell asleep in my car, I drove the whole time But that's okay, I'll just avoid the holes so you sleep fine",
+      "valence": 2.36,
+      "arousal": 3.48,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "For not using my taxes to fill holes with more cement You fell asleep in my car, I drove the whole time But that's okay, I'll just avoid the holes so you sleep fine I'm driving, here I sit, cursing my government",
+      "valence": 2.29,
+      "arousal": 3.57,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "You fell asleep in my car, I drove the whole time But that's okay, I'll just avoid the holes so you sleep fine I'm driving, here I sit, cursing my government For not using my taxes to fill holes with more cement",
+      "valence": 2.41,
+      "arousal": 3.45,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "But that's okay, I'll just avoid the holes so you sleep fine I'm driving, here I sit, cursing my government For not using my taxes to fill holes with more cement Sometimes you gotta bleed to know, oh, oh",
+      "valence": 2.39,
+      "arousal": 3.51,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I'm driving, here I sit, cursing my government For not using my taxes to fill holes with more cement Sometimes you gotta bleed to know, oh, oh That you're alive and have a soul, oh, oh",
+      "valence": 2.39,
+      "arousal": 3.58,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "For not using my taxes to fill holes with more cement Sometimes you gotta bleed to know, oh, oh That you're alive and have a soul, oh, oh But it takes someone to come around",
+      "valence": 2.76,
+      "arousal": 3.48,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Sometimes you gotta bleed to know, oh, oh That you're alive and have a soul, oh, oh But it takes someone to come around To show you how",
+      "valence": 2.99,
+      "arousal": 3.45,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "That you're alive and have a soul, oh, oh But it takes someone to come around To show you how She's the tear in my heart",
+      "valence": 3.14,
+      "arousal": 3.61,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "But it takes someone to come around To show you how She's the tear in my heart I'm alive",
+      "valence": 3.32,
+      "arousal": 3.63,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "To show you how She's the tear in my heart I'm alive She's the tear in my heart",
+      "valence": 3.56,
+      "arousal": 3.87,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "She's the tear in my heart I'm alive She's the tear in my heart I'm on fire",
+      "valence": 3.54,
+      "arousal": 4.19,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "I'm alive She's the tear in my heart I'm on fire She's the tear in my heart",
+      "valence": 3.66,
+      "arousal": 4.25,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "She's the tear in my heart I'm on fire She's the tear in my heart Take me higher",
+      "valence": 3.32,
+      "arousal": 4.06,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I'm on fire She's the tear in my heart Take me higher Than I've ever been",
+      "valence": 3.59,
+      "arousal": 4.33,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "She's the tear in my heart Take me higher Than I've ever been My heart is my armor",
+      "valence": 3.5,
+      "arousal": 3.8,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Take me higher Than I've ever been My heart is my armor She's the tear in my heart",
+      "valence": 3.47,
+      "arousal": 3.77,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Than I've ever been My heart is my armor She's the tear in my heart She's a carver",
+      "valence": 3.33,
+      "arousal": 3.5,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "My heart is my armor She's the tear in my heart She's a carver She's a butcher with a smile",
+      "valence": 3.67,
+      "arousal": 3.79,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "She's the tear in my heart She's a carver She's a butcher with a smile Cut me farther",
+      "valence": 3.39,
+      "arousal": 3.68,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "She's a carver She's a butcher with a smile Cut me farther Than I've ever been",
+      "valence": 3.38,
+      "arousal": 3.4,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "She's a butcher with a smile Cut me farther Than I've ever been Than I've ever been",
+      "valence": 3.4,
+      "arousal": 3.37,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Cut me farther Than I've ever been Than I've ever been Than I've ever been",
+      "valence": 2.94,
+      "arousal": 3.31,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Than I've ever been Than I've ever been Than I've ever been Oh, than I've ever been",
+      "valence": 3.2,
+      "arousal": 3.41,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Than I've ever been Than I've ever been Oh, than I've ever been My heart is my armor",
+      "valence": 3.35,
+      "arousal": 3.33,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Than I've ever been Oh, than I've ever been My heart is my armor She's the tear in my heart",
+      "valence": 3.2,
+      "arousal": 3.55,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Oh, than I've ever been My heart is my armor She's the tear in my heart She's a carver",
+      "valence": 3.37,
+      "arousal": 3.55,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "My heart is my armor She's the tear in my heart She's a carver She's a butcher with a smile",
+      "valence": 3.67,
+      "arousal": 3.79,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "She's the tear in my heart She's a carver She's a butcher with a smile Cut me farther",
+      "valence": 3.39,
+      "arousal": 3.68,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "She's a carver She's a butcher with a smile Cut me farther Than I've ever been",
+      "valence": 3.38,
+      "arousal": 3.4,
+      "dominance": 3.29
+    }
+  ]
+}

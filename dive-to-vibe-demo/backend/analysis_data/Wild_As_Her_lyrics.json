@@ -1,0 +1,269 @@
+{
+  "artist": "Corey Kent",
+  "overall_vad": {
+    "valence": 3.06,
+    "arousal": 3.46,
+    "dominance": 3.26
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "She never wanted to be white picket fenced in Her heart's like a feather in a Tulsa wind A sea salt breeze will bring her to life And all them other boys say she's a goodbye girl",
+      "valence": 3.3,
+      "arousal": 3.48,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Her heart's like a feather in a Tulsa wind A sea salt breeze will bring her to life And all them other boys say she's a goodbye girl She'll wreck your world",
+      "valence": 3.08,
+      "arousal": 3.78,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "A sea salt breeze will bring her to life And all them other boys say she's a goodbye girl She'll wreck your world And leave before the mornin' sun",
+      "valence": 2.9,
+      "arousal": 3.51,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "And all them other boys say she's a goodbye girl She'll wreck your world And leave before the mornin' sun But here she is free right next to me",
+      "valence": 2.83,
+      "arousal": 3.51,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "She'll wreck your world And leave before the mornin' sun But here she is free right next to me 'Cause I ain't trying to tame her love",
+      "valence": 2.97,
+      "arousal": 3.6,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "And leave before the mornin' sun But here she is free right next to me 'Cause I ain't trying to tame her love I keep the windows down and the wind in her hair",
+      "valence": 3.2,
+      "arousal": 3.3,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "But here she is free right next to me 'Cause I ain't trying to tame her love I keep the windows down and the wind in her hair Keep her heart hanging on 'round every turn",
+      "valence": 3.48,
+      "arousal": 3.7,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "'Cause I ain't trying to tame her love I keep the windows down and the wind in her hair Keep her heart hanging on 'round every turn She ain't scared to get tied down, scared to get burned",
+      "valence": 3.19,
+      "arousal": 3.72,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I keep the windows down and the wind in her hair Keep her heart hanging on 'round every turn She ain't scared to get tied down, scared to get burned Just looking for somebody as wild as her",
+      "valence": 2.88,
+      "arousal": 3.38,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Keep her heart hanging on 'round every turn She ain't scared to get tied down, scared to get burned Just looking for somebody as wild as her Wild",
+      "valence": 2.97,
+      "arousal": 3.53,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "She ain't scared to get tied down, scared to get burned Just looking for somebody as wild as her Wild Wild",
+      "valence": 2.96,
+      "arousal": 3.24,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Just looking for somebody as wild as her Wild Wild Saw that highway unwind in her deep brown eyes",
+      "valence": 3.05,
+      "arousal": 3.22,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Wild Wild Saw that highway unwind in her deep brown eyes She saw a long stretch of dirt road dreamin' in mine",
+      "valence": 3.09,
+      "arousal": 2.98,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Wild Saw that highway unwind in her deep brown eyes She saw a long stretch of dirt road dreamin' in mine She ain't living for a diamond ring",
+      "valence": 2.91,
+      "arousal": 3.03,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Saw that highway unwind in her deep brown eyes She saw a long stretch of dirt road dreamin' in mine She ain't living for a diamond ring Just living like the rock'n'roll song she sings out loud",
+      "valence": 3.09,
+      "arousal": 3.06,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "She saw a long stretch of dirt road dreamin' in mine She ain't living for a diamond ring Just living like the rock'n'roll song she sings out loud We're burning it down",
+      "valence": 2.76,
+      "arousal": 3.37,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "She ain't living for a diamond ring Just living like the rock'n'roll song she sings out loud We're burning it down Blazing up a trail of smoke",
+      "valence": 2.95,
+      "arousal": 3.3,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Just living like the rock'n'roll song she sings out loud We're burning it down Blazing up a trail of smoke Wherever we are, wherever we go",
+      "valence": 3.22,
+      "arousal": 3.41,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "We're burning it down Blazing up a trail of smoke Wherever we are, wherever we go That's where she calls home",
+      "valence": 3.03,
+      "arousal": 3.42,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Blazing up a trail of smoke Wherever we are, wherever we go That's where she calls home I keep the windows down and the wind in her hair",
+      "valence": 3.07,
+      "arousal": 3.07,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Wherever we are, wherever we go That's where she calls home I keep the windows down and the wind in her hair Keep her heart hanging on 'round every turn",
+      "valence": 3.35,
+      "arousal": 3.49,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "That's where she calls home I keep the windows down and the wind in her hair Keep her heart hanging on 'round every turn She ain't scared to get tied down, scared to get burned",
+      "valence": 2.91,
+      "arousal": 3.48,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I keep the windows down and the wind in her hair Keep her heart hanging on 'round every turn She ain't scared to get tied down, scared to get burned Just looking for somebody as wild as her",
+      "valence": 2.88,
+      "arousal": 3.38,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Keep her heart hanging on 'round every turn She ain't scared to get tied down, scared to get burned Just looking for somebody as wild as her Wild, wild, yeah",
+      "valence": 3.05,
+      "arousal": 3.54,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "She ain't scared to get tied down, scared to get burned Just looking for somebody as wild as her Wild, wild, yeah Yeah, I ain't tryna fix her",
+      "valence": 2.8,
+      "arousal": 3.3,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Just looking for somebody as wild as her Wild, wild, yeah Yeah, I ain't tryna fix her I just wanna kiss her",
+      "valence": 3.43,
+      "arousal": 3.87,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Wild, wild, yeah Yeah, I ain't tryna fix her I just wanna kiss her Fuel a little fire in her soul",
+      "valence": 3.35,
+      "arousal": 3.9,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Yeah, I ain't tryna fix her I just wanna kiss her Fuel a little fire in her soul We don't say forever, but when we're together",
+      "valence": 3.36,
+      "arousal": 3.78,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I just wanna kiss her Fuel a little fire in her soul We don't say forever, but when we're together I swear no, we ain't ever letting go",
+      "valence": 3.33,
+      "arousal": 3.92,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Fuel a little fire in her soul We don't say forever, but when we're together I swear no, we ain't ever letting go 'Cause she knows",
+      "valence": 2.95,
+      "arousal": 3.47,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "We don't say forever, but when we're together I swear no, we ain't ever letting go 'Cause she knows I keep the windows down and the wind in her hair",
+      "valence": 3.1,
+      "arousal": 3.5,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I swear no, we ain't ever letting go 'Cause she knows I keep the windows down and the wind in her hair Keep her heart hanging on 'round every turn",
+      "valence": 2.88,
+      "arousal": 3.77,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "'Cause she knows I keep the windows down and the wind in her hair Keep her heart hanging on 'round every turn She ain't scared to get tied down, scared to get burned",
+      "valence": 2.92,
+      "arousal": 3.55,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I keep the windows down and the wind in her hair Keep her heart hanging on 'round every turn She ain't scared to get tied down, scared to get burned Just looking for somebody as wild as her",
+      "valence": 2.88,
+      "arousal": 3.38,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Keep her heart hanging on 'round every turn She ain't scared to get tied down, scared to get burned Just looking for somebody as wild as her Wild",
+      "valence": 2.97,
+      "arousal": 3.53,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "She ain't scared to get tied down, scared to get burned Just looking for somebody as wild as her Wild Wild",
+      "valence": 2.96,
+      "arousal": 3.24,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Just looking for somebody as wild as her Wild Wild Yeah",
+      "valence": 3.19,
+      "arousal": 3.26,
+      "dominance": 3.2
+    }
+  ]
+}

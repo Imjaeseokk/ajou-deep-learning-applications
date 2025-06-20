@@ -1,0 +1,626 @@
+{
+  "artist": "Yella Beezy, Gucci Mane & Quavo",
+  "overall_vad": {
+    "valence": 2.64,
+    "arousal": 3.59,
+    "dominance": 3.41
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Cook that shit up Quay! Oh my gosh back at it again (Back at it) In the kitchen whipping I'm wrapping again (Whip it)",
+      "valence": 2.75,
+      "arousal": 3.88,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Oh my gosh back at it again (Back at it) In the kitchen whipping I'm wrapping again (Whip it) Keep on playing bitch then I'm stabbing ya friend (Woo)",
+      "valence": 2.16,
+      "arousal": 3.83,
+      "dominance": 3.8
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "In the kitchen whipping I'm wrapping again (Whip it) Keep on playing bitch then I'm stabbing ya friend (Woo) I'm in the hood they think I'm back trapping again (Trappin')",
+      "valence": 2.19,
+      "arousal": 3.75,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I'm wrapping again (Whip it) Keep on playing bitch then I'm stabbing ya friend (Woo) I'm in the hood they think I'm back trapping again (Trappin') Oh my gosh back at it again (Back at it)",
+      "valence": 2.19,
+      "arousal": 3.91,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Keep on playing bitch then I'm stabbing ya friend (Woo) I'm in the hood they think I'm back trapping again (Trappin') Oh my gosh back at it again (Back at it) On my grizzy niggas sta-stackin' again (Woo)",
+      "valence": 2.03,
+      "arousal": 3.95,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I'm in the hood they think I'm back trapping again (Trappin') Oh my gosh back at it again (Back at it) On my grizzy niggas sta-stackin' again (Woo) Big ole forty on me, back packin' again (Blaow)",
+      "valence": 2.91,
+      "arousal": 3.49,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Oh my gosh back at it again (Back at it) On my grizzy niggas sta-stackin' again (Woo) Big ole forty on me, back packin' again (Blaow) Keep a quarter on me, backpack in the Benz (Cash, cash)",
+      "valence": 2.99,
+      "arousal": 3.54,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "On my grizzy niggas sta-stackin' again (Woo) Big ole forty on me, back packin' again (Blaow) Keep a quarter on me, backpack in the Benz (Cash, cash) Quavo",
+      "valence": 3.0,
+      "arousal": 3.14,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Big ole forty on me, back packin' again (Blaow) Keep a quarter on me, backpack in the Benz (Cash, cash) Quavo Uhh, back at it, back at it, uhh",
+      "valence": 3.04,
+      "arousal": 3.23,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Keep a quarter on me, backpack in the Benz (Cash, cash) Quavo Uhh, back at it, back at it, uhh Count up a hundred throw racks at it, uhh",
+      "valence": 2.93,
+      "arousal": 3.32,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Quavo Uhh, back at it, back at it, uhh Count up a hundred throw racks at it, uhh Yeah my wrist a Titanic, uhh",
+      "valence": 2.94,
+      "arousal": 3.54,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Uhh, back at it, back at it, uhh Count up a hundred throw racks at it, uhh Yeah my wrist a Titanic, uhh Ice hit the glacier, it do damage (Ice)",
+      "valence": 2.76,
+      "arousal": 3.69,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Count up a hundred throw racks at it, uhh Yeah my wrist a Titanic, uhh Ice hit the glacier, it do damage (Ice) Uhh, yeah your nigga gon' panic",
+      "valence": 2.44,
+      "arousal": 3.78,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Yeah my wrist a Titanic, uhh Ice hit the glacier, it do damage (Ice) Uhh, yeah your nigga gon' panic I see through her panties like a panoramic (Hey)",
+      "valence": 2.44,
+      "arousal": 3.86,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Ice hit the glacier, it do damage (Ice) Uhh, yeah your nigga gon' panic I see through her panties like a panoramic (Hey) Yeah now get back to whipping",
+      "valence": 2.45,
+      "arousal": 3.79,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Uhh, yeah your nigga gon' panic I see through her panties like a panoramic (Hey) Yeah now get back to whipping And get back to trapping",
+      "valence": 2.58,
+      "arousal": 3.69,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I see through her panties like a panoramic (Hey) Yeah now get back to whipping And get back to trapping Young nigga back at it (Woo)",
+      "valence": 2.97,
+      "arousal": 3.34,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Yeah now get back to whipping And get back to trapping Young nigga back at it (Woo) Uhh, if it's too crowded might out the roof",
+      "valence": 2.8,
+      "arousal": 3.35,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "And get back to trapping Young nigga back at it (Woo) Uhh, if it's too crowded might out the roof And say let them come through (Pow pow)",
+      "valence": 2.84,
+      "arousal": 3.22,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Young nigga back at it (Woo) Uhh, if it's too crowded might out the roof And say let them come through (Pow pow) Keep it one thousand when I'm in the booth",
+      "valence": 2.96,
+      "arousal": 3.13,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Uhh, if it's too crowded might out the roof And say let them come through (Pow pow) Keep it one thousand when I'm in the booth I spent two thousand to step in the shoes (Gang)",
+      "valence": 2.95,
+      "arousal": 3.18,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "And say let them come through (Pow pow) Keep it one thousand when I'm in the booth I spent two thousand to step in the shoes (Gang) Gang on gang how you think we gon' lose (Gang)",
+      "valence": 2.78,
+      "arousal": 3.33,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Keep it one thousand when I'm in the booth I spent two thousand to step in the shoes (Gang) Gang on gang how you think we gon' lose (Gang) Back to back motorcade, that how we move (Woo)",
+      "valence": 2.87,
+      "arousal": 3.3,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I spent two thousand to step in the shoes (Gang) Gang on gang how you think we gon' lose (Gang) Back to back motorcade, that how we move (Woo) On momma porch was sitting on the stoop (Momma)",
+      "valence": 2.74,
+      "arousal": 3.27,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Gang on gang how you think we gon' lose (Gang) Back to back motorcade, that how we move (Woo) On momma porch was sitting on the stoop (Momma) When I hopped up I took off to the Moon (Ooh)",
+      "valence": 2.79,
+      "arousal": 3.35,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Back to back motorcade, that how we move (Woo) On momma porch was sitting on the stoop (Momma) When I hopped up I took off to the Moon (Ooh) Oh my gosh back at it again (Back at it)",
+      "valence": 3.3,
+      "arousal": 3.47,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "On momma porch was sitting on the stoop (Momma) When I hopped up I took off to the Moon (Ooh) Oh my gosh back at it again (Back at it) In the kitchen whipping",
+      "valence": 3.13,
+      "arousal": 3.53,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "When I hopped up I took off to the Moon (Ooh) Oh my gosh back at it again (Back at it) In the kitchen whipping I'm wrapping again (Whip it)",
+      "valence": 3.27,
+      "arousal": 3.61,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Oh my gosh back at it again (Back at it) In the kitchen whipping I'm wrapping again (Whip it) Keep on playing bitch then I'm stabbing ya friend (Woo)",
+      "valence": 2.16,
+      "arousal": 3.83,
+      "dominance": 3.8
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "In the kitchen whipping I'm wrapping again (Whip it) Keep on playing bitch then I'm stabbing ya friend (Woo) I'm in the hood they think I'm back trapping again (Trappin')",
+      "valence": 2.19,
+      "arousal": 3.75,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I'm wrapping again (Whip it) Keep on playing bitch then I'm stabbing ya friend (Woo) I'm in the hood they think I'm back trapping again (Trappin') Oh my gosh back at it again (Back at it)",
+      "valence": 2.19,
+      "arousal": 3.91,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Keep on playing bitch then I'm stabbing ya friend (Woo) I'm in the hood they think I'm back trapping again (Trappin') Oh my gosh back at it again (Back at it) On my grizzy niggas sta-stacking again (Woo)",
+      "valence": 2.03,
+      "arousal": 3.94,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I'm in the hood they think I'm back trapping again (Trappin') Oh my gosh back at it again (Back at it) On my grizzy niggas sta-stacking again (Woo) Big ole forty on me, back packing again (Blaow)",
+      "valence": 2.88,
+      "arousal": 3.49,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Oh my gosh back at it again (Back at it) On my grizzy niggas sta-stacking again (Woo) Big ole forty on me, back packing again (Blaow) Keep a quarter on me, backpack in the Benz (Cash, cash)",
+      "valence": 2.95,
+      "arousal": 3.53,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "On my grizzy niggas sta-stacking again (Woo) Big ole forty on me, back packing again (Blaow) Keep a quarter on me, backpack in the Benz (Cash, cash) My diamonds like Fiji, bitch, I'm Yella Beezy",
+      "valence": 2.84,
+      "arousal": 3.58,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Big ole forty on me, back packing again (Blaow) Keep a quarter on me, backpack in the Benz (Cash, cash) My diamonds like Fiji, bitch, I'm Yella Beezy Iced-out in this freezer, just copped a Luigi",
+      "valence": 2.84,
+      "arousal": 3.51,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Keep a quarter on me, backpack in the Benz (Cash, cash) My diamonds like Fiji, bitch, I'm Yella Beezy Iced-out in this freezer, just copped a Luigi Oh take it easy, you tripping I'm leaving",
+      "valence": 2.65,
+      "arousal": 3.64,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "My diamonds like Fiji, bitch, I'm Yella Beezy Iced-out in this freezer, just copped a Luigi Oh take it easy, you tripping I'm leaving My drank in the freezer, this shit don't come easy",
+      "valence": 2.3,
+      "arousal": 3.76,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Iced-out in this freezer, just copped a Luigi Oh take it easy, you tripping I'm leaving My drank in the freezer, this shit don't come easy I'm trapping I mean it, my blood double G me",
+      "valence": 2.37,
+      "arousal": 3.74,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Oh take it easy, you tripping I'm leaving My drank in the freezer, this shit don't come easy I'm trapping I mean it, my blood double G me The Cougar the heater, take la seÃ±orita",
+      "valence": 2.38,
+      "arousal": 3.81,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "My drank in the freezer, this shit don't come easy I'm trapping I mean it, my blood double G me The Cougar the heater, take la seÃ±orita I'll send some shots through a nigga wife-beater",
+      "valence": 2.22,
+      "arousal": 3.86,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "I'm trapping I mean it, my blood double G me The Cougar the heater, take la seÃ±orita I'll send some shots through a nigga wife-beater Chopper knock a nigga out on his people",
+      "valence": 2.57,
+      "arousal": 3.85,
+      "dominance": 3.78
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "The Cougar the heater, take la seÃ±orita I'll send some shots through a nigga wife-beater Chopper knock a nigga out on his people Don't call me, lil baby, I'm sorry don't need ya",
+      "valence": 2.39,
+      "arousal": 3.62,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I'll send some shots through a nigga wife-beater Chopper knock a nigga out on his people Don't call me, lil baby, I'm sorry don't need ya Last month I got shot up, I been win up on features",
+      "valence": 2.53,
+      "arousal": 3.58,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Chopper knock a nigga out on his people Don't call me, lil baby, I'm sorry don't need ya Last month I got shot up, I been win up on features Body for body my niggas some demons",
+      "valence": 2.32,
+      "arousal": 3.53,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Don't call me, lil baby, I'm sorry don't need ya Last month I got shot up, I been win up on features Body for body my niggas some demons We tit for tat, leave you busted and bleeding",
+      "valence": 2.25,
+      "arousal": 3.44,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Last month I got shot up, I been win up on features Body for body my niggas some demons We tit for tat, leave you busted and bleeding Stop in Atlanta in the booth with my Nina",
+      "valence": 2.74,
+      "arousal": 3.43,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Body for body my niggas some demons We tit for tat, leave you busted and bleeding Stop in Atlanta in the booth with my Nina Back in the day used to trap in a Beamer",
+      "valence": 2.45,
+      "arousal": 3.32,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "We tit for tat, leave you busted and bleeding Stop in Atlanta in the booth with my Nina Back in the day used to trap in a Beamer I'm a true hustler my bitch is a schemer",
+      "valence": 2.42,
+      "arousal": 3.47,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Stop in Atlanta in the booth with my Nina Back in the day used to trap in a Beamer I'm a true hustler my bitch is a schemer Skeet in her eyes and that lil bitch a creamer (Aye)",
+      "valence": 2.88,
+      "arousal": 3.28,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Back in the day used to trap in a Beamer I'm a true hustler my bitch is a schemer Skeet in her eyes and that lil bitch a creamer (Aye) Oh my gosh back at it again (Back at it)",
+      "valence": 2.83,
+      "arousal": 3.7,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "I'm a true hustler my bitch is a schemer Skeet in her eyes and that lil bitch a creamer (Aye) Oh my gosh back at it again (Back at it) In the kitchen whipping",
+      "valence": 2.59,
+      "arousal": 3.7,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Skeet in her eyes and that lil bitch a creamer (Aye) Oh my gosh back at it again (Back at it) In the kitchen whipping I'm wrapping again (Whip it)",
+      "valence": 2.82,
+      "arousal": 3.5,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Oh my gosh back at it again (Back at it) In the kitchen whipping I'm wrapping again (Whip it) Keep on playing bitch then I'm stabbing ya friend (Woo)",
+      "valence": 2.16,
+      "arousal": 3.83,
+      "dominance": 3.8
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "In the kitchen whipping I'm wrapping again (Whip it) Keep on playing bitch then I'm stabbing ya friend (Woo) I'm in the hood they think I'm back trapping again (Trappin')",
+      "valence": 2.19,
+      "arousal": 3.75,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "I'm wrapping again (Whip it) Keep on playing bitch then I'm stabbing ya friend (Woo) I'm in the hood they think I'm back trapping again (Trappin') Oh my gosh back at it again (Back at it)",
+      "valence": 2.19,
+      "arousal": 3.91,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Keep on playing bitch then I'm stabbing ya friend (Woo) I'm in the hood they think I'm back trapping again (Trappin') Oh my gosh back at it again (Back at it) On my grizzy niggas sta-stacking again (Woo)",
+      "valence": 2.03,
+      "arousal": 3.94,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "I'm in the hood they think I'm back trapping again (Trappin') Oh my gosh back at it again (Back at it) On my grizzy niggas sta-stacking again (Woo) Big ole forty on me, back packing again (Blaow) (Huh)",
+      "valence": 2.88,
+      "arousal": 3.47,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Oh my gosh back at it again (Back at it) On my grizzy niggas sta-stacking again (Woo) Big ole forty on me, back packing again (Blaow) (Huh) Keep a quarter on me, backpack in the Benz (Cash, cash)",
+      "valence": 2.97,
+      "arousal": 3.51,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "On my grizzy niggas sta-stacking again (Woo) Big ole forty on me, back packing again (Blaow) (Huh) Keep a quarter on me, backpack in the Benz (Cash, cash) Wrist so froze, can't shake hands",
+      "valence": 2.86,
+      "arousal": 3.27,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Big ole forty on me, back packing again (Blaow) (Huh) Keep a quarter on me, backpack in the Benz (Cash, cash) Wrist so froze, can't shake hands I gotta give you a pound",
+      "valence": 2.86,
+      "arousal": 3.34,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Keep a quarter on me, backpack in the Benz (Cash, cash) Wrist so froze, can't shake hands I gotta give you a pound Way my bank account quadrupled",
+      "valence": 2.92,
+      "arousal": 3.66,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Wrist so froze, can't shake hands I gotta give you a pound Way my bank account quadrupled Think I'm still slinging pounds (Wow)",
+      "valence": 2.89,
+      "arousal": 3.86,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "I gotta give you a pound Way my bank account quadrupled Think I'm still slinging pounds (Wow) Told them castin' my vote for who tryna get this dope cross the border",
+      "valence": 3.05,
+      "arousal": 3.82,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Way my bank account quadrupled Think I'm still slinging pounds (Wow) Told them castin' my vote for who tryna get this dope cross the border Grew up from East Atlanta",
+      "valence": 2.96,
+      "arousal": 3.76,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Think I'm still slinging pounds (Wow) Told them castin' my vote for who tryna get this dope cross the border Grew up from East Atlanta But stand my ground like it's Florida",
+      "valence": 2.86,
+      "arousal": 3.67,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Told them castin' my vote for who tryna get this dope cross the border Grew up from East Atlanta But stand my ground like it's Florida Fuck the judge, fuck the bailiff",
+      "valence": 2.26,
+      "arousal": 3.77,
+      "dominance": 3.89
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Grew up from East Atlanta But stand my ground like it's Florida Fuck the judge, fuck the bailiff Fuck the local reporter",
+      "valence": 2.21,
+      "arousal": 3.83,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "But stand my ground like it's Florida Fuck the judge, fuck the bailiff Fuck the local reporter Tell the whole truth to my lawyer",
+      "valence": 2.26,
+      "arousal": 3.89,
+      "dominance": 3.85
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Fuck the judge, fuck the bailiff Fuck the local reporter Tell the whole truth to my lawyer Guwop slicker than oil",
+      "valence": 2.11,
+      "arousal": 3.88,
+      "dominance": 3.74
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Fuck the local reporter Tell the whole truth to my lawyer Guwop slicker than oil Park the Dawn, rode the Wraith to the trap with the Adler",
+      "valence": 2.43,
+      "arousal": 3.72,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Tell the whole truth to my lawyer Guwop slicker than oil Park the Dawn, rode the Wraith to the trap with the Adler Look like a Rolls Royce dealership",
+      "valence": 2.8,
+      "arousal": 3.25,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Guwop slicker than oil Park the Dawn, rode the Wraith to the trap with the Adler Look like a Rolls Royce dealership Every time I bring out my cars",
+      "valence": 2.99,
+      "arousal": 3.1,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Park the Dawn, rode the Wraith to the trap with the Adler Look like a Rolls Royce dealership Every time I bring out my cars Fuck the stars, buy the bar",
+      "valence": 2.63,
+      "arousal": 3.47,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Look like a Rolls Royce dealership Every time I bring out my cars Fuck the stars, buy the bar Neighborhood superstar (S'Gucci)",
+      "valence": 2.66,
+      "arousal": 3.44,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "Every time I bring out my cars Fuck the stars, buy the bar Neighborhood superstar (S'Gucci) Twenty-four K, Bruno Mars",
+      "valence": 2.8,
+      "arousal": 3.61,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "Fuck the stars, buy the bar Neighborhood superstar (S'Gucci) Twenty-four K, Bruno Mars Down to the drawers (Guwop)",
+      "valence": 2.56,
+      "arousal": 3.7,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "Neighborhood superstar (S'Gucci) Twenty-four K, Bruno Mars Down to the drawers (Guwop) I'm thinking' large, talking old money, Chico DeBarge",
+      "valence": 3.14,
+      "arousal": 3.06,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "Twenty-four K, Bruno Mars Down to the drawers (Guwop) I'm thinking' large, talking old money, Chico DeBarge Lou say I'm 20 futuristic moving this part (S'Gucci)",
+      "valence": 3.12,
+      "arousal": 3.14,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "Down to the drawers (Guwop) I'm thinking' large, talking old money, Chico DeBarge Lou say I'm 20 futuristic moving this part (S'Gucci) Oh my gosh back at it again (Back at it)",
+      "valence": 3.2,
+      "arousal": 3.47,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "I'm thinking' large, talking old money, Chico DeBarge Lou say I'm 20 futuristic moving this part (S'Gucci) Oh my gosh back at it again (Back at it) In the kitchen whipping",
+      "valence": 3.1,
+      "arousal": 3.47,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "Lou say I'm 20 futuristic moving this part (S'Gucci) Oh my gosh back at it again (Back at it) In the kitchen whipping I'm wrapping again (Whip it)",
+      "valence": 3.13,
+      "arousal": 3.5,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "Oh my gosh back at it again (Back at it) In the kitchen whipping I'm wrapping again (Whip it) Keep on playing bitch then I'm stabbing ya friend (Woo)",
+      "valence": 2.16,
+      "arousal": 3.83,
+      "dominance": 3.8
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "In the kitchen whipping I'm wrapping again (Whip it) Keep on playing bitch then I'm stabbing ya friend (Woo) I'm in the hood they think I'm back trapping again (Trappin')",
+      "valence": 2.19,
+      "arousal": 3.75,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "I'm wrapping again (Whip it) Keep on playing bitch then I'm stabbing ya friend (Woo) I'm in the hood they think I'm back trapping again (Trappin') Oh my gosh back at it again (Back at it)",
+      "valence": 2.19,
+      "arousal": 3.91,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 86,
+      "lyrics_text": "Keep on playing bitch then I'm stabbing ya friend (Woo) I'm in the hood they think I'm back trapping again (Trappin') Oh my gosh back at it again (Back at it) On my grizzy niggas sta-stacking again (Woo)",
+      "valence": 2.03,
+      "arousal": 3.94,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 87,
+      "lyrics_text": "I'm in the hood they think I'm back trapping again (Trappin') Oh my gosh back at it again (Back at it) On my grizzy niggas sta-stacking again (Woo) Big ole forty on me, back packing again (Blaow)",
+      "valence": 2.88,
+      "arousal": 3.49,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 88,
+      "lyrics_text": "Oh my gosh back at it again (Back at it) On my grizzy niggas sta-stacking again (Woo) Big ole forty on me, back packing again (Blaow) Keep a quarter on me, backpack in the Benz (Cash, cash)",
+      "valence": 2.95,
+      "arousal": 3.53,
+      "dominance": 3.47
+    }
+  ]
+}

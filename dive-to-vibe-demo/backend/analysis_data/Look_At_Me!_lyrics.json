@@ -1,0 +1,311 @@
+{
+  "artist": "XXXTENTACION",
+  "overall_vad": {
+    "valence": 2.06,
+    "arousal": 3.95,
+    "dominance": 3.56
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Yeah, ayy Yeah, ayy, yeah, yeah Yeah, ayy Ayy, ayy, ayy",
+      "valence": 3.49,
+      "arousal": 3.46,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Yeah, ayy, yeah, yeah Yeah, ayy Ayy, ayy, ayy I'm like \"Bitch, who is your man's?\", ayy",
+      "valence": 3.06,
+      "arousal": 3.76,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Yeah, ayy Ayy, ayy, ayy I'm like \"Bitch, who is your man's?\", ayy Can't keep my dick in my pants, ayy",
+      "valence": 2.57,
+      "arousal": 3.85,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Ayy, ayy, ayy I'm like \"Bitch, who is your man's?\", ayy Can't keep my dick in my pants, ayy My bitch don't love me no more, ayy",
+      "valence": 1.94,
+      "arousal": 4.1,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I'm like \"Bitch, who is your man's?\", ayy Can't keep my dick in my pants, ayy My bitch don't love me no more, ayy She kick me out I'm like \"Vro\", ayy",
+      "valence": 1.93,
+      "arousal": 4.09,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Can't keep my dick in my pants, ayy My bitch don't love me no more, ayy She kick me out I'm like \"Vro\", ayy That bitch don't wanna be friends, ayy",
+      "valence": 1.88,
+      "arousal": 3.96,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "My bitch don't love me no more, ayy She kick me out I'm like \"Vro\", ayy That bitch don't wanna be friends, ayy I gave her dick, she amen, ayy",
+      "valence": 1.83,
+      "arousal": 4.01,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "She kick me out I'm like \"Vro\", ayy That bitch don't wanna be friends, ayy I gave her dick, she amen, ayy She put her tongue on my dick, ayy",
+      "valence": 2.13,
+      "arousal": 3.95,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "That bitch don't wanna be friends, ayy I gave her dick, she amen, ayy She put her tongue on my dick, ayy Look at my wrist, about ten, ayy",
+      "valence": 2.22,
+      "arousal": 3.8,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I gave her dick, she amen, ayy She put her tongue on my dick, ayy Look at my wrist, about ten, ayy Just got a pound of that boof, ayy",
+      "valence": 2.92,
+      "arousal": 3.84,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "She put her tongue on my dick, ayy Look at my wrist, about ten, ayy Just got a pound of that boof, ayy Brought that shit straight to the booth, ayy",
+      "valence": 2.68,
+      "arousal": 3.7,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Look at my wrist, about ten, ayy Just got a pound of that boof, ayy Brought that shit straight to the booth, ayy Tommy my Hilfiger voots, ayy",
+      "valence": 2.84,
+      "arousal": 3.44,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Just got a pound of that boof, ayy Brought that shit straight to the booth, ayy Tommy my Hilfiger voots, ayy She said, \"Wan' fuck?\" Bitch, I do, ayy",
+      "valence": 2.37,
+      "arousal": 3.79,
+      "dominance": 3.75
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Brought that shit straight to the booth, ayy Tommy my Hilfiger voots, ayy She said, \"Wan' fuck?\" Bitch, I do, ayy You put a gun on my mans, ayy",
+      "valence": 2.15,
+      "arousal": 3.98,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Tommy my Hilfiger voots, ayy She said, \"Wan' fuck?\" Bitch, I do, ayy You put a gun on my mans, ayy I put a hole in your parents, ayy",
+      "valence": 2.06,
+      "arousal": 3.92,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "She said, \"Wan' fuck?\" Bitch, I do, ayy You put a gun on my mans, ayy I put a hole in your parents, ayy I just got lean on my Ksubis, ayy",
+      "valence": 1.92,
+      "arousal": 3.99,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "You put a gun on my mans, ayy I put a hole in your parents, ayy I just got lean on my Ksubis, ayy I got an Uzi, no Uzi",
+      "valence": 2.24,
+      "arousal": 3.76,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I put a hole in your parents, ayy I just got lean on my Ksubis, ayy I got an Uzi, no Uzi Fuck on me, look at me, ayy",
+      "valence": 2.13,
+      "arousal": 3.85,
+      "dominance": 3.8
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I just got lean on my Ksubis, ayy I got an Uzi, no Uzi Fuck on me, look at me, ayy Fuck on me, yeah, look at me, ayy",
+      "valence": 2.03,
+      "arousal": 4.03,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I got an Uzi, no Uzi Fuck on me, look at me, ayy Fuck on me, yeah, look at me, ayy Look at me, look at me, yeah",
+      "valence": 2.01,
+      "arousal": 4.07,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Fuck on me, look at me, ayy Fuck on me, yeah, look at me, ayy Look at me, look at me, yeah Fuck on me, yeah, ayy",
+      "valence": 1.45,
+      "arousal": 4.25,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Fuck on me, yeah, look at me, ayy Look at me, look at me, yeah Fuck on me, yeah, ayy Look at me, yeah, fuck on me",
+      "valence": 1.48,
+      "arousal": 4.3,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Look at me, look at me, yeah Fuck on me, yeah, ayy Look at me, yeah, fuck on me Look at me, fuck on me, yeah",
+      "valence": 1.59,
+      "arousal": 4.29,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Fuck on me, yeah, ayy Look at me, yeah, fuck on me Look at me, fuck on me, yeah Look at me, fuck on me",
+      "valence": 1.43,
+      "arousal": 4.33,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Look at me, yeah, fuck on me Look at me, fuck on me, yeah Look at me, fuck on me Yeah, ayy",
+      "valence": 1.6,
+      "arousal": 4.29,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Look at me, fuck on me, yeah Look at me, fuck on me Yeah, ayy Tell ya fuckin' nigga voot me up, pipe up",
+      "valence": 1.88,
+      "arousal": 4.15,
+      "dominance": 3.83
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Look at me, fuck on me Yeah, ayy Tell ya fuckin' nigga voot me up, pipe up Ayy, shouts out Bans and them, ayy",
+      "valence": 2.21,
+      "arousal": 4.08,
+      "dominance": 3.87
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Yeah, ayy Tell ya fuckin' nigga voot me up, pipe up Ayy, shouts out Bans and them, ayy I took a white bitch to Starbucks",
+      "valence": 2.49,
+      "arousal": 3.8,
+      "dominance": 3.84
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Tell ya fuckin' nigga voot me up, pipe up Ayy, shouts out Bans and them, ayy I took a white bitch to Starbucks That little bitch got her throat fucked",
+      "valence": 2.14,
+      "arousal": 3.77,
+      "dominance": 3.9
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Ayy, shouts out Bans and them, ayy I took a white bitch to Starbucks That little bitch got her throat fucked I like to rock out, I'm misfit",
+      "valence": 2.14,
+      "arousal": 3.72,
+      "dominance": 3.75
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I took a white bitch to Starbucks That little bitch got her throat fucked I like to rock out, I'm misfit My emo bitch like her wrist slit",
+      "valence": 1.92,
+      "arousal": 3.73,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "That little bitch got her throat fucked I like to rock out, I'm misfit My emo bitch like her wrist slit Curly hair, bitch, like I'm Corbin",
+      "valence": 2.03,
+      "arousal": 3.74,
+      "dominance": 3.74
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I like to rock out, I'm misfit My emo bitch like her wrist slit Curly hair, bitch, like I'm Corbin Got like three bitches, I'm mormon",
+      "valence": 2.28,
+      "arousal": 3.69,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "My emo bitch like her wrist slit Curly hair, bitch, like I'm Corbin Got like three bitches, I'm mormon Skeet on your main bitch's forehead",
+      "valence": 2.03,
+      "arousal": 3.7,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Curly hair, bitch, like I'm Corbin Got like three bitches, I'm mormon Skeet on your main bitch's forehead Don't want your pussy, just want head",
+      "valence": 2.21,
+      "arousal": 3.67,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Got like three bitches, I'm mormon Skeet on your main bitch's forehead Don't want your pussy, just want head Look at me, fuck on me",
+      "valence": 1.88,
+      "arousal": 3.81,
+      "dominance": 3.82
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Skeet on your main bitch's forehead Don't want your pussy, just want head Look at me, fuck on me Look at me, fuck on me",
+      "valence": 1.84,
+      "arousal": 3.91,
+      "dominance": 3.74
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Don't want your pussy, just want head Look at me, fuck on me Look at me, fuck on me Look at me, fuck on me",
+      "valence": 1.82,
+      "arousal": 3.95,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Look at me, fuck on me Look at me, fuck on me Look at me, fuck on me Look at me, yuh, ayy",
+      "valence": 1.6,
+      "arousal": 4.23,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Look at me, fuck on me Look at me, fuck on me Look at me, yuh, ayy Look at me, fuck on me",
+      "valence": 1.51,
+      "arousal": 4.29,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Look at me, fuck on me Look at me, yuh, ayy Look at me, fuck on me Look at me, fuck on me",
+      "valence": 1.49,
+      "arousal": 4.36,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Look at me, yuh, ayy Look at me, fuck on me Look at me, fuck on me Look at me, fuck on me",
+      "valence": 1.66,
+      "arousal": 4.25,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Look at me, fuck on me Look at me, fuck on me Look at me, fuck on me Look at me, yuh",
+      "valence": 1.52,
+      "arousal": 4.25,
+      "dominance": 3.3
+    }
+  ]
+}

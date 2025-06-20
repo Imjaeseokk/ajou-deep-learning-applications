@@ -1,0 +1,157 @@
+{
+  "artist": "Zedd Featuring Foxes",
+  "overall_vad": {
+    "valence": 2.63,
+    "arousal": 3.49,
+    "dominance": 3.06
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "High dive into frozen waves where the past comes back to life Fight fear for the selfish pain, it was worth it every time Hold still right before we crash 'cause we both know how this ends A clock ticks 'til it breaks your glass and I drown in you again",
+      "valence": 2.53,
+      "arousal": 3.6,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Fight fear for the selfish pain, it was worth it every time Hold still right before we crash 'cause we both know how this ends A clock ticks 'til it breaks your glass and I drown in you again 'Cause you are the piece of me I wish I didn't need",
+      "valence": 2.71,
+      "arousal": 3.61,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Hold still right before we crash 'cause we both know how this ends A clock ticks 'til it breaks your glass and I drown in you again 'Cause you are the piece of me I wish I didn't need Chasing relentlessly, still fight and I don't know why",
+      "valence": 2.56,
+      "arousal": 3.73,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "A clock ticks 'til it breaks your glass and I drown in you again 'Cause you are the piece of me I wish I didn't need Chasing relentlessly, still fight and I don't know why If our love is tragedy, why are you my remedy?",
+      "valence": 2.61,
+      "arousal": 3.65,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "'Cause you are the piece of me I wish I didn't need Chasing relentlessly, still fight and I don't know why If our love is tragedy, why are you my remedy? If our love's insanity, why are you my clarity?",
+      "valence": 2.66,
+      "arousal": 3.52,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Chasing relentlessly, still fight and I don't know why If our love is tragedy, why are you my remedy? If our love's insanity, why are you my clarity? If our love is tragedy, why are you my remedy?",
+      "valence": 2.62,
+      "arousal": 3.51,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "If our love is tragedy, why are you my remedy? If our love's insanity, why are you my clarity? If our love is tragedy, why are you my remedy? If our love's insanity, why are you my clarity?",
+      "valence": 2.74,
+      "arousal": 3.39,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "If our love's insanity, why are you my clarity? If our love is tragedy, why are you my remedy? If our love's insanity, why are you my clarity? Walk on through a red parade and refuse to make amends",
+      "valence": 2.55,
+      "arousal": 3.48,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "If our love is tragedy, why are you my remedy? If our love's insanity, why are you my clarity? Walk on through a red parade and refuse to make amends It cuts deep through our ground and makes us forget all common sense",
+      "valence": 2.48,
+      "arousal": 3.46,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "If our love's insanity, why are you my clarity? Walk on through a red parade and refuse to make amends It cuts deep through our ground and makes us forget all common sense Don't speak as I try to leave 'cause we both know what we'll choose",
+      "valence": 2.49,
+      "arousal": 3.52,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Walk on through a red parade and refuse to make amends It cuts deep through our ground and makes us forget all common sense Don't speak as I try to leave 'cause we both know what we'll choose If you pull, then I'll push too deep and I'll fall right back to you",
+      "valence": 2.45,
+      "arousal": 3.4,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "It cuts deep through our ground and makes us forget all common sense Don't speak as I try to leave 'cause we both know what we'll choose If you pull, then I'll push too deep and I'll fall right back to you 'Cause you are the piece of me I wish I didn't need",
+      "valence": 2.58,
+      "arousal": 3.41,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Don't speak as I try to leave 'cause we both know what we'll choose If you pull, then I'll push too deep and I'll fall right back to you 'Cause you are the piece of me I wish I didn't need Chasing relentlessly, still fight and I don't know why",
+      "valence": 2.62,
+      "arousal": 3.58,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "If you pull, then I'll push too deep and I'll fall right back to you 'Cause you are the piece of me I wish I didn't need Chasing relentlessly, still fight and I don't know why If our love is tragedy, why are you my remedy?",
+      "valence": 2.63,
+      "arousal": 3.5,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "'Cause you are the piece of me I wish I didn't need Chasing relentlessly, still fight and I don't know why If our love is tragedy, why are you my remedy? If our love's insanity, why are you my clarity?",
+      "valence": 2.66,
+      "arousal": 3.52,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Chasing relentlessly, still fight and I don't know why If our love is tragedy, why are you my remedy? If our love's insanity, why are you my clarity? Why are you my clarity?",
+      "valence": 2.53,
+      "arousal": 3.54,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "If our love is tragedy, why are you my remedy? If our love's insanity, why are you my clarity? Why are you my clarity? Why are you my remedy?",
+      "valence": 2.7,
+      "arousal": 3.39,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "If our love's insanity, why are you my clarity? Why are you my clarity? Why are you my remedy? Why are you my clarity?",
+      "valence": 2.71,
+      "arousal": 3.36,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Why are you my clarity? Why are you my remedy? Why are you my clarity? Why are you my remedy?",
+      "valence": 2.88,
+      "arousal": 3.28,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Why are you my remedy? Why are you my clarity? Why are you my remedy? If our love is tragedy, why are you my remedy?",
+      "valence": 2.79,
+      "arousal": 3.41,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Why are you my clarity? Why are you my remedy? If our love is tragedy, why are you my remedy? If our love's insanity, why are you my clarity?",
+      "valence": 2.75,
+      "arousal": 3.39,
+      "dominance": 2.96
+    }
+  ]
+}

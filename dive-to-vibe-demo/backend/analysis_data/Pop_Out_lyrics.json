@@ -1,0 +1,423 @@
+{
+  "artist": "Polo G Featuring Lil Tjay",
+  "overall_vad": {
+    "valence": 2.6,
+    "arousal": 3.56,
+    "dominance": 3.25
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Jd On Tha Track Iceberg want a bag, bitch We pop out at your party, I'm with the gang And it's gon' be a robbery, so tuck ya chain",
+      "valence": 2.56,
+      "arousal": 3.72,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Iceberg want a bag, bitch We pop out at your party, I'm with the gang And it's gon' be a robbery, so tuck ya chain I'm a killer, girl, I'm sorry, but I can't change",
+      "valence": 2.26,
+      "arousal": 3.81,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "We pop out at your party, I'm with the gang And it's gon' be a robbery, so tuck ya chain I'm a killer, girl, I'm sorry, but I can't change We ain't aimin' for your body, shots hits your brain",
+      "valence": 2.34,
+      "arousal": 3.64,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "And it's gon' be a robbery, so tuck ya chain I'm a killer, girl, I'm sorry, but I can't change We ain't aimin' for your body, shots hits your brain We come from poverty, man, we ain't have a thing",
+      "valence": 2.1,
+      "arousal": 3.57,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I'm a killer, girl, I'm sorry, but I can't change We ain't aimin' for your body, shots hits your brain We come from poverty, man, we ain't have a thing It's a lot of animosity, but they won't say my name",
+      "valence": 1.96,
+      "arousal": 3.53,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "We ain't aimin' for your body, shots hits your brain We come from poverty, man, we ain't have a thing It's a lot of animosity, but they won't say my name Them killers rock with me, lil' nigga, don't get banged",
+      "valence": 2.14,
+      "arousal": 3.56,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "We come from poverty, man, we ain't have a thing It's a lot of animosity, but they won't say my name Them killers rock with me, lil' nigga, don't get banged 'Cause they'll do the job for me while I hop on a plane",
+      "valence": 2.35,
+      "arousal": 3.52,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "It's a lot of animosity, but they won't say my name Them killers rock with me, lil' nigga, don't get banged 'Cause they'll do the job for me while I hop on a plane She don't like her body, left the doctor with a new shape",
+      "valence": 2.23,
+      "arousal": 3.58,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Them killers rock with me, lil' nigga, don't get banged 'Cause they'll do the job for me while I hop on a plane She don't like her body, left the doctor with a new shape Blowing up my phone 'cause she just see me with my new bae",
+      "valence": 2.48,
+      "arousal": 3.58,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "'Cause they'll do the job for me while I hop on a plane She don't like her body, left the doctor with a new shape Blowing up my phone 'cause she just see me with my new bae Heartbreaker, ladies love me like I'm Cool J",
+      "valence": 3.51,
+      "arousal": 3.7,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "She don't like her body, left the doctor with a new shape Blowing up my phone 'cause she just see me with my new bae Heartbreaker, ladies love me like I'm Cool J She was tryna cling onto a nigga, but it's too late",
+      "valence": 3.31,
+      "arousal": 3.85,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Blowing up my phone 'cause she just see me with my new bae Heartbreaker, ladies love me like I'm Cool J She was tryna cling onto a nigga, but it's too late Booked a flight to Cali, racks and condoms in my suitcase",
+      "valence": 3.46,
+      "arousal": 3.8,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Heartbreaker, ladies love me like I'm Cool J She was tryna cling onto a nigga, but it's too late Booked a flight to Cali, racks and condoms in my suitcase And every single dollar in these bands gotta blue face",
+      "valence": 3.24,
+      "arousal": 3.71,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "She was tryna cling onto a nigga, but it's too late Booked a flight to Cali, racks and condoms in my suitcase And every single dollar in these bands gotta blue face Diamonds in the Rollie, they in HD like it's Blu-Ray",
+      "valence": 3.03,
+      "arousal": 3.51,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Booked a flight to Cali, racks and condoms in my suitcase And every single dollar in these bands gotta blue face Diamonds in the Rollie, they in HD like it's Blu-Ray The way that I been ballin' should make the cover of 2K",
+      "valence": 3.26,
+      "arousal": 3.48,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "And every single dollar in these bands gotta blue face Diamonds in the Rollie, they in HD like it's Blu-Ray The way that I been ballin' should make the cover of 2K Show out for the summer I might pull up in a new Wraith",
+      "valence": 3.15,
+      "arousal": 3.34,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Diamonds in the Rollie, they in HD like it's Blu-Ray The way that I been ballin' should make the cover of 2K Show out for the summer I might pull up in a new Wraith Dissin' on the gang that's gon' only get your crew chased",
+      "valence": 3.1,
+      "arousal": 3.25,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "The way that I been ballin' should make the cover of 2K Show out for the summer I might pull up in a new Wraith Dissin' on the gang that's gon' only get your crew chased And we hawk shit down, better tighten up yo shoe lace",
+      "valence": 2.69,
+      "arousal": 3.58,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Show out for the summer I might pull up in a new Wraith Dissin' on the gang that's gon' only get your crew chased And we hawk shit down, better tighten up yo shoe lace Lil' bro get up close let the Glock 22 spray",
+      "valence": 2.64,
+      "arousal": 3.65,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Dissin' on the gang that's gon' only get your crew chased And we hawk shit down, better tighten up yo shoe lace Lil' bro get up close let the Glock 22 spray We pop out at your party, I'm with the gang",
+      "valence": 2.44,
+      "arousal": 3.76,
+      "dominance": 3.75
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "And we hawk shit down, better tighten up yo shoe lace Lil' bro get up close let the Glock 22 spray We pop out at your party, I'm with the gang And it's gon' be a robbery, so tuck ya chain",
+      "valence": 2.47,
+      "arousal": 3.85,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Lil' bro get up close let the Glock 22 spray We pop out at your party, I'm with the gang And it's gon' be a robbery, so tuck ya chain I'm a killer, girl, I'm sorry, but I can't change",
+      "valence": 2.24,
+      "arousal": 3.77,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "We pop out at your party, I'm with the gang And it's gon' be a robbery, so tuck ya chain I'm a killer, girl, I'm sorry, but I can't change We ain't aimin' for your body, shots hits your brain",
+      "valence": 2.34,
+      "arousal": 3.64,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "And it's gon' be a robbery, so tuck ya chain I'm a killer, girl, I'm sorry, but I can't change We ain't aimin' for your body, shots hits your brain We come from poverty, man, we ain't have a thing",
+      "valence": 2.1,
+      "arousal": 3.57,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I'm a killer, girl, I'm sorry, but I can't change We ain't aimin' for your body, shots hits your brain We come from poverty, man, we ain't have a thing It's a lot of animosity, but they won't say my name",
+      "valence": 1.96,
+      "arousal": 3.53,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "We ain't aimin' for your body, shots hits your brain We come from poverty, man, we ain't have a thing It's a lot of animosity, but they won't say my name Them killers rock with me, lil' nigga, don't get banged",
+      "valence": 2.14,
+      "arousal": 3.56,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "We come from poverty, man, we ain't have a thing It's a lot of animosity, but they won't say my name Them killers rock with me, lil' nigga, don't get banged 'Cause they'll do the job for me while I hop on a plane",
+      "valence": 2.35,
+      "arousal": 3.52,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "It's a lot of animosity, but they won't say my name Them killers rock with me, lil' nigga, don't get banged 'Cause they'll do the job for me while I hop on a plane Oh-ohh-ohh, yeah",
+      "valence": 2.38,
+      "arousal": 3.62,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Them killers rock with me, lil' nigga, don't get banged 'Cause they'll do the job for me while I hop on a plane Oh-ohh-ohh, yeah I call lil' bro",
+      "valence": 2.67,
+      "arousal": 3.62,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "'Cause they'll do the job for me while I hop on a plane Oh-ohh-ohh, yeah I call lil' bro He said he ready for the stain (said he ready for the stain)",
+      "valence": 3.32,
+      "arousal": 3.46,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Oh-ohh-ohh, yeah I call lil' bro He said he ready for the stain (said he ready for the stain) What you claim? You a lame",
+      "valence": 2.78,
+      "arousal": 3.61,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I call lil' bro He said he ready for the stain (said he ready for the stain) What you claim? You a lame You ain't never put in pain (put in pain)",
+      "valence": 2.48,
+      "arousal": 3.41,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "He said he ready for the stain (said he ready for the stain) What you claim? You a lame You ain't never put in pain (put in pain) So I be around some killers",
+      "valence": 2.36,
+      "arousal": 3.47,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "What you claim? You a lame You ain't never put in pain (put in pain) So I be around some killers That go crazy for the gang (they go crazy for the game)",
+      "valence": 2.21,
+      "arousal": 3.49,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "You ain't never put in pain (put in pain) So I be around some killers That go crazy for the gang (they go crazy for the game) If I showed you all my charges",
+      "valence": 2.3,
+      "arousal": 3.39,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "So I be around some killers That go crazy for the gang (they go crazy for the game) If I showed you all my charges You won't look at me the same (you won't look at me the same)",
+      "valence": 2.39,
+      "arousal": 3.34,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "That go crazy for the gang (they go crazy for the game) If I showed you all my charges You won't look at me the same (you won't look at me the same) Made some choices in my life",
+      "valence": 2.86,
+      "arousal": 3.52,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "If I showed you all my charges You won't look at me the same (you won't look at me the same) Made some choices in my life I wish I never had to make (wish I never had to make)",
+      "valence": 2.59,
+      "arousal": 3.34,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "You won't look at me the same (you won't look at me the same) Made some choices in my life I wish I never had to make (wish I never had to make) Lost my brother, seen him die",
+      "valence": 2.23,
+      "arousal": 3.55,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Made some choices in my life I wish I never had to make (wish I never had to make) Lost my brother, seen him die And I just seen him graduate (I just seen him graduate)",
+      "valence": 2.77,
+      "arousal": 3.56,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I wish I never had to make (wish I never had to make) Lost my brother, seen him die And I just seen him graduate (I just seen him graduate) Got that .40 on my side",
+      "valence": 3.06,
+      "arousal": 3.54,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Lost my brother, seen him die And I just seen him graduate (I just seen him graduate) Got that .40 on my side And I'm just rollin' past the Jakes (I'm just rollin' past jakes)",
+      "valence": 3.0,
+      "arousal": 3.42,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "And I just seen him graduate (I just seen him graduate) Got that .40 on my side And I'm just rollin' past the Jakes (I'm just rollin' past jakes) Bro, my hands can do the job",
+      "valence": 3.3,
+      "arousal": 3.36,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Got that .40 on my side And I'm just rollin' past the Jakes (I'm just rollin' past jakes) Bro, my hands can do the job And I ain't talkin' masturbate",
+      "valence": 3.0,
+      "arousal": 3.19,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "And I'm just rollin' past the Jakes (I'm just rollin' past jakes) Bro, my hands can do the job And I ain't talkin' masturbate I was in and outta state (state)",
+      "valence": 2.93,
+      "arousal": 3.2,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Bro, my hands can do the job And I ain't talkin' masturbate I was in and outta state (state) 'Cause I had a bag to make (bag to make)",
+      "valence": 2.96,
+      "arousal": 3.31,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "And I ain't talkin' masturbate I was in and outta state (state) 'Cause I had a bag to make (bag to make) I risked my life but it's aight",
+      "valence": 2.59,
+      "arousal": 3.59,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I was in and outta state (state) 'Cause I had a bag to make (bag to make) I risked my life but it's aight 'Cause God ain't let me pass away (pass away)",
+      "valence": 2.56,
+      "arousal": 3.59,
+      "dominance": 2.64
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "'Cause I had a bag to make (bag to make) I risked my life but it's aight 'Cause God ain't let me pass away (pass away) Fuck tomorrow, spin the block",
+      "valence": 2.3,
+      "arousal": 3.95,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I risked my life but it's aight 'Cause God ain't let me pass away (pass away) Fuck tomorrow, spin the block Just know we comin' back today (back today)",
+      "valence": 2.36,
+      "arousal": 3.81,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "'Cause God ain't let me pass away (pass away) Fuck tomorrow, spin the block Just know we comin' back today (back today) I call Polo, he come dolo, we get 'em the fast way",
+      "valence": 2.6,
+      "arousal": 3.64,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Fuck tomorrow, spin the block Just know we comin' back today (back today) I call Polo, he come dolo, we get 'em the fast way We pop out at your party, I'm with the gang",
+      "valence": 2.95,
+      "arousal": 3.67,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Just know we comin' back today (back today) I call Polo, he come dolo, we get 'em the fast way We pop out at your party, I'm with the gang And it's gon' be a robbery, so tuck ya chain",
+      "valence": 2.97,
+      "arousal": 3.47,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "I call Polo, he come dolo, we get 'em the fast way We pop out at your party, I'm with the gang And it's gon' be a robbery, so tuck ya chain I'm a killer, girl, I'm sorry, but I can't change",
+      "valence": 2.7,
+      "arousal": 3.62,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "We pop out at your party, I'm with the gang And it's gon' be a robbery, so tuck ya chain I'm a killer, girl, I'm sorry, but I can't change We ain't aimin' for your body, shots hits your brain",
+      "valence": 2.34,
+      "arousal": 3.64,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "And it's gon' be a robbery, so tuck ya chain I'm a killer, girl, I'm sorry, but I can't change We ain't aimin' for your body, shots hits your brain We come from poverty, man, we ain't have a thing",
+      "valence": 2.1,
+      "arousal": 3.57,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "I'm a killer, girl, I'm sorry, but I can't change We ain't aimin' for your body, shots hits your brain We come from poverty, man, we ain't have a thing It's a lot of animosity, but they won't say my name",
+      "valence": 1.96,
+      "arousal": 3.53,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "We ain't aimin' for your body, shots hits your brain We come from poverty, man, we ain't have a thing It's a lot of animosity, but they won't say my name Them killers rock with me, lil' nigga, don't get banged",
+      "valence": 2.14,
+      "arousal": 3.56,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "We come from poverty, man, we ain't have a thing It's a lot of animosity, but they won't say my name Them killers rock with me, lil' nigga, don't get banged 'Cause they'll do the job for me while I hop on a plane",
+      "valence": 2.35,
+      "arousal": 3.52,
+      "dominance": 3.26
+    }
+  ]
+}

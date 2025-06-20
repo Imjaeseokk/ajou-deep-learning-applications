@@ -1,0 +1,136 @@
+{
+  "artist": "Coldplay",
+  "overall_vad": {
+    "valence": 3.13,
+    "arousal": 3.76,
+    "dominance": 3.37
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "'Cause you're a sky, 'cause you're a sky full of stars I'm gonna give you my heart 'Cause you're a sky, 'cause you're a sky full of stars 'Cause you light up the path",
+      "valence": 3.9,
+      "arousal": 3.78,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I'm gonna give you my heart 'Cause you're a sky, 'cause you're a sky full of stars 'Cause you light up the path I don't care, go on and tear me apart",
+      "valence": 3.45,
+      "arousal": 3.94,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "'Cause you're a sky, 'cause you're a sky full of stars 'Cause you light up the path I don't care, go on and tear me apart I don't care if you do, ooh-ooh, ooh",
+      "valence": 2.82,
+      "arousal": 3.83,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "'Cause you light up the path I don't care, go on and tear me apart I don't care if you do, ooh-ooh, ooh 'Cause in a sky, 'cause in a sky full of stars",
+      "valence": 2.74,
+      "arousal": 3.87,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I don't care, go on and tear me apart I don't care if you do, ooh-ooh, ooh 'Cause in a sky, 'cause in a sky full of stars I think I saw you",
+      "valence": 2.66,
+      "arousal": 3.9,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I don't care if you do, ooh-ooh, ooh 'Cause in a sky, 'cause in a sky full of stars I think I saw you 'Cause you're a sky, 'cause you're a sky full of stars",
+      "valence": 3.21,
+      "arousal": 3.41,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "'Cause in a sky, 'cause in a sky full of stars I think I saw you 'Cause you're a sky, 'cause you're a sky full of stars I wanna die in your arms, oh, oh-oh",
+      "valence": 3.1,
+      "arousal": 3.83,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I think I saw you 'Cause you're a sky, 'cause you're a sky full of stars I wanna die in your arms, oh, oh-oh 'Cause you get lighter the more it gets dark",
+      "valence": 3.04,
+      "arousal": 3.65,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "'Cause you're a sky, 'cause you're a sky full of stars I wanna die in your arms, oh, oh-oh 'Cause you get lighter the more it gets dark I'm gonna give you my heart, oh",
+      "valence": 3.39,
+      "arousal": 4.02,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I wanna die in your arms, oh, oh-oh 'Cause you get lighter the more it gets dark I'm gonna give you my heart, oh I don't care, go on and tear me apart",
+      "valence": 2.26,
+      "arousal": 4.04,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "'Cause you get lighter the more it gets dark I'm gonna give you my heart, oh I don't care, go on and tear me apart I don't care if you do, ooh-ooh, ooh",
+      "valence": 2.51,
+      "arousal": 3.98,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I'm gonna give you my heart, oh I don't care, go on and tear me apart I don't care if you do, ooh-ooh, ooh 'Cause in a sky, 'cause in sky full of stars",
+      "valence": 2.72,
+      "arousal": 3.97,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I don't care, go on and tear me apart I don't care if you do, ooh-ooh, ooh 'Cause in a sky, 'cause in sky full of stars I think I see you",
+      "valence": 2.67,
+      "arousal": 3.86,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I don't care if you do, ooh-ooh, ooh 'Cause in a sky, 'cause in sky full of stars I think I see you I think I see you",
+      "valence": 3.22,
+      "arousal": 3.49,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "'Cause in a sky, 'cause in sky full of stars I think I see you I think I see you 'Cause you're a sky, you're a sky full of stars",
+      "valence": 3.35,
+      "arousal": 3.33,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I think I see you I think I see you 'Cause you're a sky, you're a sky full of stars Such a heavenly view",
+      "valence": 3.55,
+      "arousal": 3.57,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I think I see you 'Cause you're a sky, you're a sky full of stars Such a heavenly view You're such a heavenly view",
+      "valence": 3.74,
+      "arousal": 3.56,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "'Cause you're a sky, you're a sky full of stars Such a heavenly view You're such a heavenly view Yeah, yeah, yeah, ooh",
+      "valence": 4.01,
+      "arousal": 3.73,
+      "dominance": 3.25
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "artist": "AWOLNATION",
+  "overall_vad": {
+    "valence": 3.06,
+    "arousal": 3.86,
+    "dominance": 3.28
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Sail! This is how I show my love I made it in my mind because Blame it on my ADD, baby",
+      "valence": 3.55,
+      "arousal": 3.93,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "This is how I show my love I made it in my mind because Blame it on my ADD, baby This is how an angel dies",
+      "valence": 2.85,
+      "arousal": 3.78,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I made it in my mind because Blame it on my ADD, baby This is how an angel dies Blame it on my own sick pride",
+      "valence": 2.2,
+      "arousal": 3.56,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Blame it on my ADD, baby This is how an angel dies Blame it on my own sick pride Blame it on my ADD, baby",
+      "valence": 2.17,
+      "arousal": 3.57,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "This is how an angel dies Blame it on my own sick pride Blame it on my ADD, baby Sail!",
+      "valence": 2.15,
+      "arousal": 3.82,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Blame it on my own sick pride Blame it on my ADD, baby Sail! Sail!",
+      "valence": 2.44,
+      "arousal": 3.97,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Blame it on my ADD, baby Sail! Sail! Sail!",
+      "valence": 3.18,
+      "arousal": 3.98,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Sail! Sail! Sail! Sail!",
+      "valence": 3.7,
+      "arousal": 4.13,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Sail! Sail! Sail! Sail!",
+      "valence": 3.7,
+      "arousal": 4.13,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Sail! Sail! Sail! Maybe I should cry for help",
+      "valence": 2.79,
+      "arousal": 4.14,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Sail! Sail! Maybe I should cry for help Maybe I should kill myself (myself, myself...)",
+      "valence": 2.68,
+      "arousal": 4.12,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Sail! Maybe I should cry for help Maybe I should kill myself (myself, myself...) Blame it on my ADD, baby",
+      "valence": 2.13,
+      "arousal": 3.98,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Maybe I should cry for help Maybe I should kill myself (myself, myself...) Blame it on my ADD, baby Maybe I'm a different breed",
+      "valence": 2.17,
+      "arousal": 3.68,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Maybe I should kill myself (myself, myself...) Blame it on my ADD, baby Maybe I'm a different breed Maybe I'm not listening",
+      "valence": 2.34,
+      "arousal": 3.58,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Blame it on my ADD, baby Maybe I'm a different breed Maybe I'm not listening So blame it on my ADD, baby",
+      "valence": 2.5,
+      "arousal": 3.27,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Maybe I'm a different breed Maybe I'm not listening So blame it on my ADD, baby Sail!",
+      "valence": 2.51,
+      "arousal": 3.52,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Maybe I'm not listening So blame it on my ADD, baby Sail! Sail!",
+      "valence": 2.65,
+      "arousal": 3.75,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "So blame it on my ADD, baby Sail! Sail! Sail!",
+      "valence": 3.02,
+      "arousal": 3.96,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Sail! Sail! Sail! Sail!",
+      "valence": 3.7,
+      "arousal": 4.13,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Sail! Sail! Sail! Sail!",
+      "valence": 3.7,
+      "arousal": 4.13,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Sail! Sail! Sail! La, la, la, la, la",
+      "valence": 3.58,
+      "arousal": 4.04,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Sail! Sail! La, la, la, la, la La, la, la, la, la, oh",
+      "valence": 3.55,
+      "arousal": 4.0,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Sail! La, la, la, la, la La, la, la, la, la, oh La, la, la, la, la",
+      "valence": 3.31,
+      "arousal": 3.86,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "La, la, la, la, la La, la, la, la, la, oh La, la, la, la, la La, la, la, la, la, oh",
+      "valence": 2.97,
+      "arousal": 3.32,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "La, la, la, la, la, oh La, la, la, la, la La, la, la, la, la, oh La, la, la, la, la",
+      "valence": 2.97,
+      "arousal": 3.27,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "La, la, la, la, la La, la, la, la, la, oh La, la, la, la, la La, la, la, la, la",
+      "valence": 2.97,
+      "arousal": 3.28,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "La, la, la, la, la, oh La, la, la, la, la La, la, la, la, la Sail!",
+      "valence": 3.36,
+      "arousal": 3.87,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "La, la, la, la, la La, la, la, la, la Sail! Sail!",
+      "valence": 3.49,
+      "arousal": 4.12,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "La, la, la, la, la Sail! Sail! Sail!",
+      "valence": 3.63,
+      "arousal": 4.22,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Sail! Sail! Sail! Sail!",
+      "valence": 3.7,
+      "arousal": 4.13,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Sail! Sail! Sail! Sail!",
+      "valence": 3.7,
+      "arousal": 4.13,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Sail! Sail! Sail! Sail with me into the dark (sail!)",
+      "valence": 3.53,
+      "arousal": 4.01,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Sail! Sail! Sail with me into the dark (sail!) Sail with me into the dark (sail!)",
+      "valence": 3.4,
+      "arousal": 3.94,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Sail! Sail with me into the dark (sail!) Sail with me into the dark (sail!) Sail with me into the dark (sail!)",
+      "valence": 3.36,
+      "arousal": 3.84,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Sail with me into the dark (sail!) Sail with me into the dark (sail!) Sail with me into the dark (sail!) Sail with me, sail with me (sail!)",
+      "valence": 3.34,
+      "arousal": 3.77,
+      "dominance": 3.44
+    }
+  ]
+}

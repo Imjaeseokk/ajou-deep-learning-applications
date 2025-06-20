@@ -1,0 +1,675 @@
+{
+  "artist": "Lil Baby & 42 Dugg",
+  "overall_vad": {
+    "valence": 2.8,
+    "arousal": 3.46,
+    "dominance": 3.44
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Can't be fucked with Ayy, 4 Pockets, huh (Section 8 just straight cooked this motherfucker up) 'Fore I go broke like Joc",
+      "valence": 2.23,
+      "arousal": 3.66,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Ayy, 4 Pockets, huh (Section 8 just straight cooked this motherfucker up) 'Fore I go broke like Joc Fuck with that dog like Vick (roof)",
+      "valence": 2.2,
+      "arousal": 3.71,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "(Section 8 just straight cooked this motherfucker up) 'Fore I go broke like Joc Fuck with that dog like Vick (roof) Not that rock, that pit'",
+      "valence": 1.99,
+      "arousal": 3.75,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "'Fore I go broke like Joc Fuck with that dog like Vick (roof) Not that rock, that pit' Palm Angels down to my sock",
+      "valence": 2.2,
+      "arousal": 3.65,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Fuck with that dog like Vick (roof) Not that rock, that pit' Palm Angels down to my sock Can't hold my Glock, reason I don't really like that shit (nigga, I don't)",
+      "valence": 1.87,
+      "arousal": 3.81,
+      "dominance": 3.75
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Not that rock, that pit' Palm Angels down to my sock Can't hold my Glock, reason I don't really like that shit (nigga, I don't) Young turnt nigga, can't wife no bitch (at all)",
+      "valence": 2.11,
+      "arousal": 3.39,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Palm Angels down to my sock Can't hold my Glock, reason I don't really like that shit (nigga, I don't) Young turnt nigga, can't wife no bitch (at all) Excuse my French, don't like no bitch (nope)",
+      "valence": 2.27,
+      "arousal": 3.34,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Can't hold my Glock, reason I don't really like that shit (nigga, I don't) Young turnt nigga, can't wife no bitch (at all) Excuse my French, don't like no bitch (nope) Limo tinted, all five of my cars, yeah, I had it hard",
+      "valence": 2.22,
+      "arousal": 3.47,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Young turnt nigga, can't wife no bitch (at all) Excuse my French, don't like no bitch (nope) Limo tinted, all five of my cars, yeah, I had it hard Seen my bitch broke bad, I ain't had a heart",
+      "valence": 2.22,
+      "arousal": 3.36,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Excuse my French, don't like no bitch (nope) Limo tinted, all five of my cars, yeah, I had it hard Seen my bitch broke bad, I ain't had a heart Skrrt, yeah, that's us",
+      "valence": 2.42,
+      "arousal": 3.42,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Limo tinted, all five of my cars, yeah, I had it hard Seen my bitch broke bad, I ain't had a heart Skrrt, yeah, that's us Two-tone AP, yeah, I'm bust",
+      "valence": 2.34,
+      "arousal": 3.5,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Seen my bitch broke bad, I ain't had a heart Skrrt, yeah, that's us Two-tone AP, yeah, I'm bust Got the head from her, I ain't even wanna fuck (fuck her)",
+      "valence": 1.97,
+      "arousal": 3.85,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Skrrt, yeah, that's us Two-tone AP, yeah, I'm bust Got the head from her, I ain't even wanna fuck (fuck her) Why? Slut, bye (fuck on)",
+      "valence": 2.19,
+      "arousal": 3.94,
+      "dominance": 3.83
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Two-tone AP, yeah, I'm bust Got the head from her, I ain't even wanna fuck (fuck her) Why? Slut, bye (fuck on) Nothin' on me from Saks, everything Revive",
+      "valence": 2.05,
+      "arousal": 4.04,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Got the head from her, I ain't even wanna fuck (fuck her) Why? Slut, bye (fuck on) Nothin' on me from Saks, everything Revive Old nigga tellin' on bro, should've died",
+      "valence": 1.77,
+      "arousal": 3.93,
+      "dominance": 3.75
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Why? Slut, bye (fuck on) Nothin' on me from Saks, everything Revive Old nigga tellin' on bro, should've died No, he ain't kill 'em, dawg, he ain't even try",
+      "valence": 1.74,
+      "arousal": 3.95,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Nothin' on me from Saks, everything Revive Old nigga tellin' on bro, should've died No, he ain't kill 'em, dawg, he ain't even try Still'll bet my last shootin' dice in the hood",
+      "valence": 2.39,
+      "arousal": 3.31,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Old nigga tellin' on bro, should've died No, he ain't kill 'em, dawg, he ain't even try Still'll bet my last shootin' dice in the hood Take who chain? Nah bitch, not Dugg's",
+      "valence": 2.2,
+      "arousal": 3.44,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "No, he ain't kill 'em, dawg, he ain't even try Still'll bet my last shootin' dice in the hood Take who chain? Nah bitch, not Dugg's Probably in somethin' fast with a Glock in the hood",
+      "valence": 2.34,
+      "arousal": 3.61,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Still'll bet my last shootin' dice in the hood Take who chain? Nah bitch, not Dugg's Probably in somethin' fast with a Glock in the hood Courtside tickets, spillin' Wock' on the wood",
+      "valence": 2.49,
+      "arousal": 3.6,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Take who chain? Nah bitch, not Dugg's Probably in somethin' fast with a Glock in the hood Courtside tickets, spillin' Wock' on the wood First turnt nigga from the hood, they curious",
+      "valence": 2.43,
+      "arousal": 3.62,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Probably in somethin' fast with a Glock in the hood Courtside tickets, spillin' Wock' on the wood First turnt nigga from the hood, they curious Four in cars, 'bout five in jewelry",
+      "valence": 2.76,
+      "arousal": 3.15,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Courtside tickets, spillin' Wock' on the wood First turnt nigga from the hood, they curious Four in cars, 'bout five in jewelry I get the commas with numbers, that's period",
+      "valence": 2.88,
+      "arousal": 3.15,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "First turnt nigga from the hood, they curious Four in cars, 'bout five in jewelry I get the commas with numbers, that's period I got your BM wan' put on Amiris",
+      "valence": 2.86,
+      "arousal": 3.14,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Four in cars, 'bout five in jewelry I get the commas with numbers, that's period I got your BM wan' put on Amiris First young nigga in the A with two Lambs'",
+      "valence": 2.81,
+      "arousal": 3.14,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I get the commas with numbers, that's period I got your BM wan' put on Amiris First young nigga in the A with two Lambs' Run up fourteen mil', started fourteen grams (same day)",
+      "valence": 2.97,
+      "arousal": 3.23,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I got your BM wan' put on Amiris First young nigga in the A with two Lambs' Run up fourteen mil', started fourteen grams (same day) Dope boy Dickies and diamonds and Timbs",
+      "valence": 3.08,
+      "arousal": 3.31,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "First young nigga in the A with two Lambs' Run up fourteen mil', started fourteen grams (same day) Dope boy Dickies and diamonds and Timbs You shouldn't play with that boy, he is not one of them",
+      "valence": 2.73,
+      "arousal": 3.23,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Run up fourteen mil', started fourteen grams (same day) Dope boy Dickies and diamonds and Timbs You shouldn't play with that boy, he is not one of them Bro, I kept taking L's, finally got me a M",
+      "valence": 2.92,
+      "arousal": 3.31,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Dope boy Dickies and diamonds and Timbs You shouldn't play with that boy, he is not one of them Bro, I kept taking L's, finally got me a M Still making double, I don't count what I spend",
+      "valence": 2.8,
+      "arousal": 3.39,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "You shouldn't play with that boy, he is not one of them Bro, I kept taking L's, finally got me a M Still making double, I don't count what I spend S550 2018",
+      "valence": 2.81,
+      "arousal": 3.37,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Bro, I kept taking L's, finally got me a M Still making double, I don't count what I spend S550 2018 Gotta come twenty if you hoppin' in the Benz",
+      "valence": 3.14,
+      "arousal": 3.29,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Still making double, I don't count what I spend S550 2018 Gotta come twenty if you hoppin' in the Benz Young turnt nigga from the D to the A",
+      "valence": 2.81,
+      "arousal": 3.23,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "S550 2018 Gotta come twenty if you hoppin' in the Benz Young turnt nigga from the D to the A I'm rockin' with the Lions",
+      "valence": 3.02,
+      "arousal": 3.41,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Gotta come twenty if you hoppin' in the Benz Young turnt nigga from the D to the A I'm rockin' with the Lions Yeah, I'm rocking with the Braves",
+      "valence": 3.41,
+      "arousal": 3.66,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Young turnt nigga from the D to the A I'm rockin' with the Lions Yeah, I'm rocking with the Braves Yeah, yeah, yeah, yeah, yeah, we paid",
+      "valence": 3.65,
+      "arousal": 3.78,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I'm rockin' with the Lions Yeah, I'm rocking with the Braves Yeah, yeah, yeah, yeah, yeah, we paid Yeah, yeah, yeah, yeah, yeah, we paid",
+      "valence": 3.77,
+      "arousal": 3.73,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Yeah, I'm rocking with the Braves Yeah, yeah, yeah, yeah, yeah, we paid Yeah, yeah, yeah, yeah, yeah, we paid I'ma turn it up a lil' more this time",
+      "valence": 3.69,
+      "arousal": 3.67,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Yeah, yeah, yeah, yeah, yeah, we paid Yeah, yeah, yeah, yeah, yeah, we paid I'ma turn it up a lil' more this time Used to dream about gettin' it, now I got it, I don't drive",
+      "valence": 3.02,
+      "arousal": 3.39,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Yeah, yeah, yeah, yeah, yeah, we paid I'ma turn it up a lil' more this time Used to dream about gettin' it, now I got it, I don't drive I had a spot like The Varsity, what'll you have?",
+      "valence": 3.27,
+      "arousal": 3.55,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I'ma turn it up a lil' more this time Used to dream about gettin' it, now I got it, I don't drive I had a spot like The Varsity, what'll you have? You buy twenty, I'll front what you buy",
+      "valence": 3.14,
+      "arousal": 3.48,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Used to dream about gettin' it, now I got it, I don't drive I had a spot like The Varsity, what'll you have? You buy twenty, I'll front what you buy I put on drip, I believe I can I fly",
+      "valence": 3.22,
+      "arousal": 3.5,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I had a spot like The Varsity, what'll you have? You buy twenty, I'll front what you buy I put on drip, I believe I can I fly Niggas know that I'm rich, but they know not to try",
+      "valence": 3.06,
+      "arousal": 3.31,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "You buy twenty, I'll front what you buy I put on drip, I believe I can I fly Niggas know that I'm rich, but they know not to try I had a show in Detroit and I stopped at Revive",
+      "valence": 2.98,
+      "arousal": 3.26,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I put on drip, I believe I can I fly Niggas know that I'm rich, but they know not to try I had a show in Detroit and I stopped at Revive And spent fifty on all of the guys",
+      "valence": 3.01,
+      "arousal": 3.2,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Niggas know that I'm rich, but they know not to try I had a show in Detroit and I stopped at Revive And spent fifty on all of the guys All of these hoes in these stores make commission",
+      "valence": 2.93,
+      "arousal": 3.18,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I had a show in Detroit and I stopped at Revive And spent fifty on all of the guys All of these hoes in these stores make commission And plus I'ma tip 'em, they holdin' my size",
+      "valence": 3.16,
+      "arousal": 3.18,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "And spent fifty on all of the guys All of these hoes in these stores make commission And plus I'ma tip 'em, they holdin' my size Get in your car and just put on your flashers",
+      "valence": 2.76,
+      "arousal": 3.25,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "All of these hoes in these stores make commission And plus I'ma tip 'em, they holdin' my size Get in your car and just put on your flashers And follow the hearse since you say you gon' ride",
+      "valence": 2.79,
+      "arousal": 3.29,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "And plus I'ma tip 'em, they holdin' my size Get in your car and just put on your flashers And follow the hearse since you say you gon' ride 'Cause somebody gon' die if they fuck with us",
+      "valence": 2.47,
+      "arousal": 3.66,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Get in your car and just put on your flashers And follow the hearse since you say you gon' ride 'Cause somebody gon' die if they fuck with us Turn a five to a dime, that's a double up",
+      "valence": 2.39,
+      "arousal": 3.61,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "And follow the hearse since you say you gon' ride 'Cause somebody gon' die if they fuck with us Turn a five to a dime, that's a double up Fuck around, walk through church with my double cup",
+      "valence": 2.23,
+      "arousal": 3.7,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "'Cause somebody gon' die if they fuck with us Turn a five to a dime, that's a double up Fuck around, walk through church with my double cup This shit a habit, I'm prayin' I give it up",
+      "valence": 2.04,
+      "arousal": 3.84,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Turn a five to a dime, that's a double up Fuck around, walk through church with my double cup This shit a habit, I'm prayin' I give it up Tiger stay with the wood, make 'em give it up",
+      "valence": 2.3,
+      "arousal": 3.78,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Fuck around, walk through church with my double cup This shit a habit, I'm prayin' I give it up Tiger stay with the wood, make 'em give it up Know I ran through a mil' every week off of weed",
+      "valence": 2.2,
+      "arousal": 3.74,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "This shit a habit, I'm prayin' I give it up Tiger stay with the wood, make 'em give it up Know I ran through a mil' every week off of weed Bro beat the charge, I can get me some sleep",
+      "valence": 2.5,
+      "arousal": 3.54,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Tiger stay with the wood, make 'em give it up Know I ran through a mil' every week off of weed Bro beat the charge, I can get me some sleep Got a backend to pick up, I won't even leave",
+      "valence": 2.72,
+      "arousal": 3.37,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Know I ran through a mil' every week off of weed Bro beat the charge, I can get me some sleep Got a backend to pick up, I won't even leave Run it up, fuck around, give the 'Vette to DT",
+      "valence": 2.65,
+      "arousal": 3.64,
+      "dominance": 3.77
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Bro beat the charge, I can get me some sleep Got a backend to pick up, I won't even leave Run it up, fuck around, give the 'Vette to DT Keep a hotboy with me, I got love for BG",
+      "valence": 3.15,
+      "arousal": 3.92,
+      "dominance": 3.8
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Got a backend to pick up, I won't even leave Run it up, fuck around, give the 'Vette to DT Keep a hotboy with me, I got love for BG Chasin' this paper since twelve or thirteen",
+      "valence": 3.01,
+      "arousal": 3.85,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Run it up, fuck around, give the 'Vette to DT Keep a hotboy with me, I got love for BG Chasin' this paper since twelve or thirteen Runnin' 'round in these streets, it was me and Marquise",
+      "valence": 2.98,
+      "arousal": 3.95,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Keep a hotboy with me, I got love for BG Chasin' this paper since twelve or thirteen Runnin' 'round in these streets, it was me and Marquise First turnt nigga from the hood, they curious",
+      "valence": 3.44,
+      "arousal": 3.67,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Chasin' this paper since twelve or thirteen Runnin' 'round in these streets, it was me and Marquise First turnt nigga from the hood, they curious Four in cars, 'bout five in jewelry",
+      "valence": 3.0,
+      "arousal": 3.05,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Runnin' 'round in these streets, it was me and Marquise First turnt nigga from the hood, they curious Four in cars, 'bout five in jewelry I get the commas with numbers, that's period",
+      "valence": 2.92,
+      "arousal": 3.06,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "First turnt nigga from the hood, they curious Four in cars, 'bout five in jewelry I get the commas with numbers, that's period I got your BM wan' put on Amiris",
+      "valence": 2.86,
+      "arousal": 3.14,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Four in cars, 'bout five in jewelry I get the commas with numbers, that's period I got your BM wan' put on Amiris First young nigga in the A with two Lambs'",
+      "valence": 2.81,
+      "arousal": 3.14,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "I get the commas with numbers, that's period I got your BM wan' put on Amiris First young nigga in the A with two Lambs' Run up fourteen mil', started fourteen grams (same day)",
+      "valence": 2.97,
+      "arousal": 3.23,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "I got your BM wan' put on Amiris First young nigga in the A with two Lambs' Run up fourteen mil', started fourteen grams (same day) Dope boy Dickies and diamonds and Timbs",
+      "valence": 3.08,
+      "arousal": 3.31,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "First young nigga in the A with two Lambs' Run up fourteen mil', started fourteen grams (same day) Dope boy Dickies and diamonds and Timbs You shouldn't play with that boy, he is not one of them",
+      "valence": 2.73,
+      "arousal": 3.23,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Run up fourteen mil', started fourteen grams (same day) Dope boy Dickies and diamonds and Timbs You shouldn't play with that boy, he is not one of them Bro, I kept taking L's, finally got me a M",
+      "valence": 2.92,
+      "arousal": 3.31,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Dope boy Dickies and diamonds and Timbs You shouldn't play with that boy, he is not one of them Bro, I kept taking L's, finally got me a M Still making double, I don't count what I spend",
+      "valence": 2.8,
+      "arousal": 3.39,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "You shouldn't play with that boy, he is not one of them Bro, I kept taking L's, finally got me a M Still making double, I don't count what I spend S550 2018",
+      "valence": 2.81,
+      "arousal": 3.37,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Bro, I kept taking L's, finally got me a M Still making double, I don't count what I spend S550 2018 Gotta come twenty if you hoppin' in the Benz",
+      "valence": 3.14,
+      "arousal": 3.29,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Still making double, I don't count what I spend S550 2018 Gotta come twenty if you hoppin' in the Benz Young turnt nigga from the D to the A",
+      "valence": 2.81,
+      "arousal": 3.23,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "S550 2018 Gotta come twenty if you hoppin' in the Benz Young turnt nigga from the D to the A I'm rockin' with the Lions",
+      "valence": 3.02,
+      "arousal": 3.41,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "Gotta come twenty if you hoppin' in the Benz Young turnt nigga from the D to the A I'm rockin' with the Lions Yeah, I'm rocking with the Braves",
+      "valence": 3.41,
+      "arousal": 3.66,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "Young turnt nigga from the D to the A I'm rockin' with the Lions Yeah, I'm rocking with the Braves Yeah, yeah, yeah, yeah, yeah, we paid",
+      "valence": 3.65,
+      "arousal": 3.78,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "I'm rockin' with the Lions Yeah, I'm rocking with the Braves Yeah, yeah, yeah, yeah, yeah, we paid Yeah, yeah, yeah, yeah, yeah, we paid",
+      "valence": 3.77,
+      "arousal": 3.73,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "Yeah, I'm rocking with the Braves Yeah, yeah, yeah, yeah, yeah, we paid Yeah, yeah, yeah, yeah, yeah, we paid First turnt nigga from the hood, they curious",
+      "valence": 3.54,
+      "arousal": 3.56,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "Yeah, yeah, yeah, yeah, yeah, we paid Yeah, yeah, yeah, yeah, yeah, we paid First turnt nigga from the hood, they curious Four in cars, 'bout five in jewelry",
+      "valence": 3.17,
+      "arousal": 3.33,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "Yeah, yeah, yeah, yeah, yeah, we paid First turnt nigga from the hood, they curious Four in cars, 'bout five in jewelry I get the commas with numbers, that's period",
+      "valence": 3.02,
+      "arousal": 3.27,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "First turnt nigga from the hood, they curious Four in cars, 'bout five in jewelry I get the commas with numbers, that's period I got your BM wan' put on Amiris",
+      "valence": 2.86,
+      "arousal": 3.14,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "Four in cars, 'bout five in jewelry I get the commas with numbers, that's period I got your BM wan' put on Amiris First young nigga in the A with two Lambs'",
+      "valence": 2.81,
+      "arousal": 3.14,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "I get the commas with numbers, that's period I got your BM wan' put on Amiris First young nigga in the A with two Lambs' Run up fourteen mil', started fourteen grams (same day)",
+      "valence": 2.97,
+      "arousal": 3.23,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "I got your BM wan' put on Amiris First young nigga in the A with two Lambs' Run up fourteen mil', started fourteen grams (same day) Dope boy Dickies and diamonds and Timbs",
+      "valence": 3.08,
+      "arousal": 3.31,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 86,
+      "lyrics_text": "First young nigga in the A with two Lambs' Run up fourteen mil', started fourteen grams (same day) Dope boy Dickies and diamonds and Timbs You shouldn't play with that boy, he is not one of them",
+      "valence": 2.73,
+      "arousal": 3.23,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 87,
+      "lyrics_text": "Run up fourteen mil', started fourteen grams (same day) Dope boy Dickies and diamonds and Timbs You shouldn't play with that boy, he is not one of them Bro, I kept taking L's, finally got me a M",
+      "valence": 2.92,
+      "arousal": 3.31,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 88,
+      "lyrics_text": "Dope boy Dickies and diamonds and Timbs You shouldn't play with that boy, he is not one of them Bro, I kept taking L's, finally got me a M Still making double, I don't count what I spend",
+      "valence": 2.8,
+      "arousal": 3.39,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 89,
+      "lyrics_text": "You shouldn't play with that boy, he is not one of them Bro, I kept taking L's, finally got me a M Still making double, I don't count what I spend S550 2018",
+      "valence": 2.81,
+      "arousal": 3.37,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 90,
+      "lyrics_text": "Bro, I kept taking L's, finally got me a M Still making double, I don't count what I spend S550 2018 Gotta come twenty if you hoppin' in the Benz",
+      "valence": 3.14,
+      "arousal": 3.29,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 91,
+      "lyrics_text": "Still making double, I don't count what I spend S550 2018 Gotta come twenty if you hoppin' in the Benz Young turnt nigga from the D to the A",
+      "valence": 2.81,
+      "arousal": 3.23,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 92,
+      "lyrics_text": "S550 2018 Gotta come twenty if you hoppin' in the Benz Young turnt nigga from the D to the A I'm rockin' with the Lions",
+      "valence": 3.02,
+      "arousal": 3.41,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 93,
+      "lyrics_text": "Gotta come twenty if you hoppin' in the Benz Young turnt nigga from the D to the A I'm rockin' with the Lions Yeah, I'm rocking with the Braves",
+      "valence": 3.41,
+      "arousal": 3.66,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 94,
+      "lyrics_text": "Young turnt nigga from the D to the A I'm rockin' with the Lions Yeah, I'm rocking with the Braves Yeah, yeah, yeah, yeah, yeah, we paid",
+      "valence": 3.65,
+      "arousal": 3.78,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 95,
+      "lyrics_text": "I'm rockin' with the Lions Yeah, I'm rocking with the Braves Yeah, yeah, yeah, yeah, yeah, we paid Yeah, yeah, yeah, yeah, yeah, we paid",
+      "valence": 3.77,
+      "arousal": 3.73,
+      "dominance": 3.43
+    }
+  ]
+}

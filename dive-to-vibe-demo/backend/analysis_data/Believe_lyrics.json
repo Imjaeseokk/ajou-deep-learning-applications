@@ -1,0 +1,255 @@
+{
+  "artist": "Mumford & Sons",
+  "overall_vad": {
+    "valence": 2.72,
+    "arousal": 3.51,
+    "dominance": 3.02
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "You may call it in this evening But you've only lost the night Present all your pretty feelings May they comfort you tonight",
+      "valence": 2.93,
+      "arousal": 3.07,
+      "dominance": 2.75
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "But you've only lost the night Present all your pretty feelings May they comfort you tonight And I'm climbing over something",
+      "valence": 2.94,
+      "arousal": 3.26,
+      "dominance": 2.67
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Present all your pretty feelings May they comfort you tonight And I'm climbing over something And I'm running through these walls",
+      "valence": 3.5,
+      "arousal": 3.32,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "May they comfort you tonight And I'm climbing over something And I'm running through these walls I don't even know if I believe",
+      "valence": 2.87,
+      "arousal": 3.5,
+      "dominance": 2.47
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "And I'm climbing over something And I'm running through these walls I don't even know if I believe I don't even know if I believe",
+      "valence": 2.86,
+      "arousal": 3.4,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "And I'm running through these walls I don't even know if I believe I don't even know if I believe I don't even know if I believe",
+      "valence": 2.65,
+      "arousal": 3.36,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I don't even know if I believe I don't even know if I believe I don't even know if I believe Everything you're trying to say to me",
+      "valence": 2.54,
+      "arousal": 3.52,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I don't even know if I believe I don't even know if I believe Everything you're trying to say to me I had the strangest feeling",
+      "valence": 2.51,
+      "arousal": 3.76,
+      "dominance": 2.69
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I don't even know if I believe Everything you're trying to say to me I had the strangest feeling Your world's not all it seems",
+      "valence": 2.43,
+      "arousal": 3.69,
+      "dominance": 2.65
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Everything you're trying to say to me I had the strangest feeling Your world's not all it seems So tired of misconceiving",
+      "valence": 2.51,
+      "arousal": 3.53,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I had the strangest feeling Your world's not all it seems So tired of misconceiving What else this could've been",
+      "valence": 2.73,
+      "arousal": 3.31,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Your world's not all it seems So tired of misconceiving What else this could've been I don't even know if I believe",
+      "valence": 2.41,
+      "arousal": 3.24,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "So tired of misconceiving What else this could've been I don't even know if I believe I don't even know if I believe",
+      "valence": 2.36,
+      "arousal": 3.35,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "What else this could've been I don't even know if I believe I don't even know if I believe I don't even know if I believe",
+      "valence": 2.66,
+      "arousal": 3.21,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I don't even know if I believe I don't even know if I believe I don't even know if I believe Everything you're trying to say to me",
+      "valence": 2.54,
+      "arousal": 3.52,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I don't even know if I believe I don't even know if I believe Everything you're trying to say to me So open up my eyes",
+      "valence": 2.72,
+      "arousal": 3.56,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I don't even know if I believe Everything you're trying to say to me So open up my eyes Tell me I'm alive",
+      "valence": 2.93,
+      "arousal": 3.77,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Everything you're trying to say to me So open up my eyes Tell me I'm alive This is never gonna go our way",
+      "valence": 2.77,
+      "arousal": 3.67,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "So open up my eyes Tell me I'm alive This is never gonna go our way If I'm gonna have to guess what's on your mind",
+      "valence": 2.72,
+      "arousal": 3.46,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Tell me I'm alive This is never gonna go our way If I'm gonna have to guess what's on your mind Say something, say something",
+      "valence": 2.49,
+      "arousal": 3.63,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "This is never gonna go our way If I'm gonna have to guess what's on your mind Say something, say something Something like you love me",
+      "valence": 2.97,
+      "arousal": 3.7,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "If I'm gonna have to guess what's on your mind Say something, say something Something like you love me Less you want to move away",
+      "valence": 3.03,
+      "arousal": 3.52,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Say something, say something Something like you love me Less you want to move away From the noise of this place",
+      "valence": 3.25,
+      "arousal": 3.72,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Something like you love me Less you want to move away From the noise of this place Well I don't even know if I believe",
+      "valence": 2.8,
+      "arousal": 3.6,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Less you want to move away From the noise of this place Well I don't even know if I believe I don't even know if I believe",
+      "valence": 2.44,
+      "arousal": 3.36,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "From the noise of this place Well I don't even know if I believe I don't even know if I believe I don't even know if I wanna believe",
+      "valence": 2.29,
+      "arousal": 3.68,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Well I don't even know if I believe I don't even know if I believe I don't even know if I wanna believe Everything you're trying to say to me",
+      "valence": 2.46,
+      "arousal": 3.61,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I don't even know if I believe I don't even know if I wanna believe Everything you're trying to say to me So open up my eyes",
+      "valence": 2.65,
+      "arousal": 3.68,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I don't even know if I wanna believe Everything you're trying to say to me So open up my eyes Tell me I'm alive",
+      "valence": 2.98,
+      "arousal": 3.82,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Everything you're trying to say to me So open up my eyes Tell me I'm alive This is never gonna go our way",
+      "valence": 2.77,
+      "arousal": 3.67,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "So open up my eyes Tell me I'm alive This is never gonna go our way If I'm gonna have to guess what's on your mind",
+      "valence": 2.72,
+      "arousal": 3.46,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Tell me I'm alive This is never gonna go our way If I'm gonna have to guess what's on your mind So open up my eyes",
+      "valence": 2.64,
+      "arousal": 3.46,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "This is never gonna go our way If I'm gonna have to guess what's on your mind So open up my eyes Tell me I'm alive",
+      "valence": 2.77,
+      "arousal": 3.58,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "If I'm gonna have to guess what's on your mind So open up my eyes Tell me I'm alive This is never gonna go our way",
+      "valence": 2.77,
+      "arousal": 3.47,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "So open up my eyes Tell me I'm alive This is never gonna go our way If I'm gonna have to guess what's on your mind",
+      "valence": 2.72,
+      "arousal": 3.46,
+      "dominance": 3.14
+    }
+  ]
+}

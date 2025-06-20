@@ -1,0 +1,227 @@
+{
+  "artist": "Blake Shelton",
+  "overall_vad": {
+    "valence": 2.88,
+    "arousal": 3.47,
+    "dominance": 3.28
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "If I could I would dare Feed your dreams And starve your fears",
+      "valence": 2.53,
+      "arousal": 3.38,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I would dare Feed your dreams And starve your fears If I could",
+      "valence": 2.59,
+      "arousal": 3.46,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Feed your dreams And starve your fears If I could Light the world",
+      "valence": 2.84,
+      "arousal": 3.48,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "And starve your fears If I could Light the world We could sit",
+      "valence": 2.66,
+      "arousal": 3.36,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "If I could Light the world We could sit And watch it burn",
+      "valence": 3.24,
+      "arousal": 3.25,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Light the world We could sit And watch it burn We could fall asleep inside the glow",
+      "valence": 3.57,
+      "arousal": 3.34,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "We could sit And watch it burn We could fall asleep inside the glow So tell me what I gotta do to win you over",
+      "valence": 3.32,
+      "arousal": 3.42,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "And watch it burn We could fall asleep inside the glow So tell me what I gotta do to win you over You'll never have to wonder if you need another",
+      "valence": 3.27,
+      "arousal": 3.58,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "We could fall asleep inside the glow So tell me what I gotta do to win you over You'll never have to wonder if you need another You'll never have to wonder if I understand",
+      "valence": 3.13,
+      "arousal": 3.49,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "So tell me what I gotta do to win you over You'll never have to wonder if you need another You'll never have to wonder if I understand And every time you reach for me you'll find a hand out, oh",
+      "valence": 3.0,
+      "arousal": 3.54,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "You'll never have to wonder if you need another You'll never have to wonder if I understand And every time you reach for me you'll find a hand out, oh If I could",
+      "valence": 2.89,
+      "arousal": 3.32,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "You'll never have to wonder if I understand And every time you reach for me you'll find a hand out, oh If I could Take you in",
+      "valence": 3.1,
+      "arousal": 3.36,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "And every time you reach for me you'll find a hand out, oh If I could Take you in Feeling you deep",
+      "valence": 3.35,
+      "arousal": 3.56,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "If I could Take you in Feeling you deep Beneath my skin",
+      "valence": 3.43,
+      "arousal": 3.52,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Take you in Feeling you deep Beneath my skin Then I could",
+      "valence": 3.57,
+      "arousal": 3.59,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Feeling you deep Beneath my skin Then I could Slip away",
+      "valence": 2.85,
+      "arousal": 3.3,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Beneath my skin Then I could Slip away With you as a poison in my veins",
+      "valence": 2.49,
+      "arousal": 3.48,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Then I could Slip away With you as a poison in my veins But I don't wanna fall asleep alone",
+      "valence": 2.4,
+      "arousal": 3.52,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Slip away With you as a poison in my veins But I don't wanna fall asleep alone And wake up knowing that I died without the one",
+      "valence": 2.16,
+      "arousal": 3.57,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "With you as a poison in my veins But I don't wanna fall asleep alone And wake up knowing that I died without the one So tell me what I gotta do to win you over",
+      "valence": 2.31,
+      "arousal": 3.67,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "But I don't wanna fall asleep alone And wake up knowing that I died without the one So tell me what I gotta do to win you over You'll never have to wonder if you need another",
+      "valence": 2.37,
+      "arousal": 3.63,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "And wake up knowing that I died without the one So tell me what I gotta do to win you over You'll never have to wonder if you need another You'll never have to wonder if I understand",
+      "valence": 2.4,
+      "arousal": 3.52,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "So tell me what I gotta do to win you over You'll never have to wonder if you need another You'll never have to wonder if I understand And every time you reach for me you'll find a hand out, oh",
+      "valence": 3.0,
+      "arousal": 3.54,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "You'll never have to wonder if you need another You'll never have to wonder if I understand And every time you reach for me you'll find a hand out, oh So tell me what I gotta do to win you over",
+      "valence": 3.09,
+      "arousal": 3.58,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "You'll never have to wonder if I understand And every time you reach for me you'll find a hand out, oh So tell me what I gotta do to win you over You'll never have to wonder if you need another",
+      "valence": 2.97,
+      "arousal": 3.53,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "And every time you reach for me you'll find a hand out, oh So tell me what I gotta do to win you over You'll never have to wonder if you need another You'll never have to wonder if I understand",
+      "valence": 2.99,
+      "arousal": 3.53,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "So tell me what I gotta do to win you over You'll never have to wonder if you need another You'll never have to wonder if I understand And every time you reach for me you'll find a hand out, oh",
+      "valence": 3.0,
+      "arousal": 3.54,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "You'll never have to wonder if you need another You'll never have to wonder if I understand And every time you reach for me you'll find a hand out, oh If I could",
+      "valence": 2.89,
+      "arousal": 3.32,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "You'll never have to wonder if I understand And every time you reach for me you'll find a hand out, oh If I could I would dare",
+      "valence": 2.67,
+      "arousal": 3.37,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "And every time you reach for me you'll find a hand out, oh If I could I would dare Feed your dreams",
+      "valence": 2.77,
+      "arousal": 3.43,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "If I could I would dare Feed your dreams And starve your fears",
+      "valence": 2.53,
+      "arousal": 3.38,
+      "dominance": 3.36
+    }
+  ]
+}

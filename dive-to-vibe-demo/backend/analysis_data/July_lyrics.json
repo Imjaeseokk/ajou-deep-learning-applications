@@ -1,0 +1,206 @@
+{
+  "artist": "Noah Cyrus & Leon Bridges",
+  "overall_vad": {
+    "valence": 2.83,
+    "arousal": 3.49,
+    "dominance": 3.07
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I've been holding my breath I've been counting to ten Over something you said I've been holding back tears",
+      "valence": 2.42,
+      "arousal": 3.88,
+      "dominance": 2.39
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I've been counting to ten Over something you said I've been holding back tears While you're throwing back beers",
+      "valence": 2.48,
+      "arousal": 3.82,
+      "dominance": 2.71
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Over something you said I've been holding back tears While you're throwing back beers I'm alone in bed",
+      "valence": 2.32,
+      "arousal": 3.7,
+      "dominance": 2.73
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I've been holding back tears While you're throwing back beers I'm alone in bed You know I, I'm afraid of change",
+      "valence": 2.15,
+      "arousal": 3.68,
+      "dominance": 2.34
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "While you're throwing back beers I'm alone in bed You know I, I'm afraid of change Guess that's why we stay the same",
+      "valence": 2.52,
+      "arousal": 3.12,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I'm alone in bed You know I, I'm afraid of change Guess that's why we stay the same So tell me to leave",
+      "valence": 2.38,
+      "arousal": 3.25,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "You know I, I'm afraid of change Guess that's why we stay the same So tell me to leave I'll pack my bags, get on the road",
+      "valence": 2.5,
+      "arousal": 3.24,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Guess that's why we stay the same So tell me to leave I'll pack my bags, get on the road Find someone that loves you",
+      "valence": 3.42,
+      "arousal": 3.54,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "So tell me to leave I'll pack my bags, get on the road Find someone that loves you Better than I do, darling, I know",
+      "valence": 3.47,
+      "arousal": 3.63,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I'll pack my bags, get on the road Find someone that loves you Better than I do, darling, I know 'Cause you remind me every day",
+      "valence": 3.77,
+      "arousal": 3.84,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Find someone that loves you Better than I do, darling, I know 'Cause you remind me every day I'm not enough, but I still stay",
+      "valence": 3.5,
+      "arousal": 3.63,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Better than I do, darling, I know 'Cause you remind me every day I'm not enough, but I still stay Feels like a lifetime",
+      "valence": 2.96,
+      "arousal": 3.28,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "'Cause you remind me every day I'm not enough, but I still stay Feels like a lifetime Just trying to get by while we're dying inside",
+      "valence": 2.44,
+      "arousal": 3.35,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I'm not enough, but I still stay Feels like a lifetime Just trying to get by while we're dying inside I've done a lot of things wrong",
+      "valence": 2.22,
+      "arousal": 3.22,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Feels like a lifetime Just trying to get by while we're dying inside I've done a lot of things wrong Loving you being one",
+      "valence": 2.98,
+      "arousal": 3.47,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Just trying to get by while we're dying inside I've done a lot of things wrong Loving you being one But I can't move on",
+      "valence": 2.38,
+      "arousal": 3.42,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I've done a lot of things wrong Loving you being one But I can't move on You know I, I'm afraid of change",
+      "valence": 2.19,
+      "arousal": 3.4,
+      "dominance": 2.73
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Loving you being one But I can't move on You know I, I'm afraid of change Guess that's why we stay the same",
+      "valence": 3.24,
+      "arousal": 3.42,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "But I can't move on You know I, I'm afraid of change Guess that's why we stay the same So tell me to leave",
+      "valence": 2.34,
+      "arousal": 3.34,
+      "dominance": 2.71
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "You know I, I'm afraid of change Guess that's why we stay the same So tell me to leave I'll pack my bags, get on the road",
+      "valence": 2.5,
+      "arousal": 3.24,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Guess that's why we stay the same So tell me to leave I'll pack my bags, get on the road Find someone that loves you",
+      "valence": 3.42,
+      "arousal": 3.54,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "So tell me to leave I'll pack my bags, get on the road Find someone that loves you Better than I do, darling, I know",
+      "valence": 3.47,
+      "arousal": 3.63,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I'll pack my bags, get on the road Find someone that loves you Better than I do, darling, I know 'Cause you remind me every day",
+      "valence": 3.77,
+      "arousal": 3.84,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Find someone that loves you Better than I do, darling, I know 'Cause you remind me every day I'm not enough, but I still stay",
+      "valence": 3.5,
+      "arousal": 3.63,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Better than I do, darling, I know 'Cause you remind me every day I'm not enough, but I still stay If you want me to leave",
+      "valence": 2.94,
+      "arousal": 3.27,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "'Cause you remind me every day I'm not enough, but I still stay If you want me to leave Then tell me to leave and baby I'll go",
+      "valence": 2.71,
+      "arousal": 3.45,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I'm not enough, but I still stay If you want me to leave Then tell me to leave and baby I'll go You remind me every day",
+      "valence": 2.64,
+      "arousal": 3.39,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "If you want me to leave Then tell me to leave and baby I'll go You remind me every day I'm not enough, but I still stay",
+      "valence": 2.54,
+      "arousal": 3.52,
+      "dominance": 3.37
+    }
+  ]
+}

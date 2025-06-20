@@ -1,0 +1,409 @@
+{
+  "artist": "Mooski",
+  "overall_vad": {
+    "valence": 2.76,
+    "arousal": 3.53,
+    "dominance": 3.11
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Yeah Mayne I ain't, I ain't ever had this happen before mayne Heart breaks so deep Heart broke so deep, it broke into a melody like this",
+      "valence": 2.76,
+      "arousal": 3.46,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Mayne I ain't, I ain't ever had this happen before mayne Heart breaks so deep Heart broke so deep, it broke into a melody like this (Ooh-ooh, ooh-ooh, ooh-ooh)",
+      "valence": 2.79,
+      "arousal": 3.57,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Heart breaks so deep Heart broke so deep, it broke into a melody like this (Ooh-ooh, ooh-ooh, ooh-ooh) (Ooh-ooh, ooh-ooh, ooh-ooh)",
+      "valence": 2.84,
+      "arousal": 3.7,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Heart broke so deep, it broke into a melody like this (Ooh-ooh, ooh-ooh, ooh-ooh) (Ooh-ooh, ooh-ooh, ooh-ooh) Aye, aye",
+      "valence": 3.03,
+      "arousal": 3.66,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "(Ooh-ooh, ooh-ooh, ooh-ooh) (Ooh-ooh, ooh-ooh, ooh-ooh) Aye, aye She's a runner, she's a track star",
+      "valence": 3.56,
+      "arousal": 3.54,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "(Ooh-ooh, ooh-ooh, ooh-ooh) Aye, aye She's a runner, she's a track star She gon' run away when it gets hard",
+      "valence": 3.31,
+      "arousal": 3.46,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Aye, aye She's a runner, she's a track star She gon' run away when it gets hard She can't take the pain, she can't get scarred",
+      "valence": 2.91,
+      "arousal": 3.33,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "She's a runner, she's a track star She gon' run away when it gets hard She can't take the pain, she can't get scarred She hurt anyone that gets involved",
+      "valence": 2.42,
+      "arousal": 3.45,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "She gon' run away when it gets hard She can't take the pain, she can't get scarred She hurt anyone that gets involved Don't wanna commit, why take it this far?",
+      "valence": 2.32,
+      "arousal": 3.43,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "She can't take the pain, she can't get scarred She hurt anyone that gets involved Don't wanna commit, why take it this far? She gon' do the race, just not this one",
+      "valence": 2.39,
+      "arousal": 3.41,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "She hurt anyone that gets involved Don't wanna commit, why take it this far? She gon' do the race, just not this one Love is a game you used to cheer for",
+      "valence": 2.56,
+      "arousal": 3.38,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Don't wanna commit, why take it this far? She gon' do the race, just not this one Love is a game you used to cheer for When I was down to talk, you weren't here for it",
+      "valence": 2.68,
+      "arousal": 3.3,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "She gon' do the race, just not this one Love is a game you used to cheer for When I was down to talk, you weren't here for it You-ouu-ouu-ouu-ouu (Yoo-ooo-oou)",
+      "valence": 2.62,
+      "arousal": 3.49,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Love is a game you used to cheer for When I was down to talk, you weren't here for it You-ouu-ouu-ouu-ouu (Yoo-ooo-oou) Leave a trail of heartbreak and heartache like it's cool (cool-ooo-ool)",
+      "valence": 2.98,
+      "arousal": 3.74,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "When I was down to talk, you weren't here for it You-ouu-ouu-ouu-ouu (Yoo-ooo-oou) Leave a trail of heartbreak and heartache like it's cool (cool-ooo-ool) I guess way too late is convenient for you (yoo-ooo-oou)",
+      "valence": 2.56,
+      "arousal": 3.57,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "You-ouu-ouu-ouu-ouu (Yoo-ooo-oou) Leave a trail of heartbreak and heartache like it's cool (cool-ooo-ool) I guess way too late is convenient for you (yoo-ooo-oou) The dirt you left don't turn into dust, it don't move (mooo-ooo-ooo-oove)",
+      "valence": 2.75,
+      "arousal": 3.61,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Leave a trail of heartbreak and heartache like it's cool (cool-ooo-ool) I guess way too late is convenient for you (yoo-ooo-oou) The dirt you left don't turn into dust, it don't move (mooo-ooo-ooo-oove) It's here waiting for you (yooo-ooo-ooo-oou)",
+      "valence": 2.81,
+      "arousal": 3.49,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I guess way too late is convenient for you (yoo-ooo-oou) The dirt you left don't turn into dust, it don't move (mooo-ooo-ooo-oove) It's here waiting for you (yooo-ooo-ooo-oou) Girl you killing me, you tweaking hard",
+      "valence": 2.59,
+      "arousal": 3.68,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "The dirt you left don't turn into dust, it don't move (mooo-ooo-ooo-oove) It's here waiting for you (yooo-ooo-ooo-oou) Girl you killing me, you tweaking hard I ask you what you feel and you don't speak at all",
+      "valence": 2.62,
+      "arousal": 3.59,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "It's here waiting for you (yooo-ooo-ooo-oou) Girl you killing me, you tweaking hard I ask you what you feel and you don't speak at all But you go straight to Twitter, you gon' tweet it all",
+      "valence": 2.68,
+      "arousal": 3.82,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Girl you killing me, you tweaking hard I ask you what you feel and you don't speak at all But you go straight to Twitter, you gon' tweet it all You must want another nigga to be alarmed",
+      "valence": 2.12,
+      "arousal": 3.75,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I ask you what you feel and you don't speak at all But you go straight to Twitter, you gon' tweet it all You must want another nigga to be alarmed We were 'posed to fight through the storm",
+      "valence": 2.49,
+      "arousal": 3.47,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "But you go straight to Twitter, you gon' tweet it all You must want another nigga to be alarmed We were 'posed to fight through the storm You made a decision, chose the easy one",
+      "valence": 2.64,
+      "arousal": 3.54,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "You must want another nigga to be alarmed We were 'posed to fight through the storm You made a decision, chose the easy one Say you following your heart, but girl you leaving one",
+      "valence": 2.72,
+      "arousal": 3.48,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "We were 'posed to fight through the storm You made a decision, chose the easy one Say you following your heart, but girl you leaving one Wanting me to take you back with open reaching arms",
+      "valence": 3.46,
+      "arousal": 3.5,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "You made a decision, chose the easy one Say you following your heart, but girl you leaving one Wanting me to take you back with open reaching arms I yai yai yai I'm",
+      "valence": 3.46,
+      "arousal": 3.62,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Say you following your heart, but girl you leaving one Wanting me to take you back with open reaching arms I yai yai yai I'm Lost for words, let it hurt",
+      "valence": 2.77,
+      "arousal": 3.68,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Wanting me to take you back with open reaching arms I yai yai yai I'm Lost for words, let it hurt I yai yai yai I",
+      "valence": 2.68,
+      "arousal": 3.88,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I yai yai yai I'm Lost for words, let it hurt I yai yai yai I Put you first, showed you your worth",
+      "valence": 2.86,
+      "arousal": 3.66,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Lost for words, let it hurt I yai yai yai I Put you first, showed you your worth She's a runner, she's a track star",
+      "valence": 3.03,
+      "arousal": 3.79,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I yai yai yai I Put you first, showed you your worth She's a runner, she's a track star She gon' run away when it gets hard",
+      "valence": 3.24,
+      "arousal": 3.46,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Put you first, showed you your worth She's a runner, she's a track star She gon' run away when it gets hard She can't take the pain, she can't get scarred",
+      "valence": 3.0,
+      "arousal": 3.46,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "She's a runner, she's a track star She gon' run away when it gets hard She can't take the pain, she can't get scarred She hurt anyone that gets involved",
+      "valence": 2.42,
+      "arousal": 3.45,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "She gon' run away when it gets hard She can't take the pain, she can't get scarred She hurt anyone that gets involved Don't wanna commit, why take it this far?",
+      "valence": 2.32,
+      "arousal": 3.43,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "She can't take the pain, she can't get scarred She hurt anyone that gets involved Don't wanna commit, why take it this far? She gon' do the race, just not this one",
+      "valence": 2.39,
+      "arousal": 3.41,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "She hurt anyone that gets involved Don't wanna commit, why take it this far? She gon' do the race, just not this one Love is a game you used to cheer for",
+      "valence": 2.56,
+      "arousal": 3.38,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Don't wanna commit, why take it this far? She gon' do the race, just not this one Love is a game you used to cheer for When I was down to talk, you weren't here for it",
+      "valence": 2.68,
+      "arousal": 3.3,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "She gon' do the race, just not this one Love is a game you used to cheer for When I was down to talk, you weren't here for it You-ouu-ouu-ouu-ouu (yoo-ooo-oou)",
+      "valence": 2.59,
+      "arousal": 3.49,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Love is a game you used to cheer for When I was down to talk, you weren't here for it You-ouu-ouu-ouu-ouu (yoo-ooo-oou) Leave a trail of heartbreak and heartache like it's cool (cool-ooo-ool)",
+      "valence": 2.97,
+      "arousal": 3.75,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "When I was down to talk, you weren't here for it You-ouu-ouu-ouu-ouu (yoo-ooo-oou) Leave a trail of heartbreak and heartache like it's cool (cool-ooo-ool) I guess way too late is convenient for you (yoo-ooo-oou)",
+      "valence": 2.53,
+      "arousal": 3.57,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "You-ouu-ouu-ouu-ouu (yoo-ooo-oou) Leave a trail of heartbreak and heartache like it's cool (cool-ooo-ool) I guess way too late is convenient for you (yoo-ooo-oou) The dirt you left don't turn into dust, it don't move (mooo-ooo-ooo-oove)",
+      "valence": 2.73,
+      "arousal": 3.6,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Leave a trail of heartbreak and heartache like it's cool (cool-ooo-ool) I guess way too late is convenient for you (yoo-ooo-oou) The dirt you left don't turn into dust, it don't move (mooo-ooo-ooo-oove) It's here waiting for you (yooo-ooo-ooo-oou)",
+      "valence": 2.81,
+      "arousal": 3.49,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I guess way too late is convenient for you (yoo-ooo-oou) The dirt you left don't turn into dust, it don't move (mooo-ooo-ooo-oove) It's here waiting for you (yooo-ooo-ooo-oou) She run from all'f her problems like she in shape for it",
+      "valence": 2.97,
+      "arousal": 3.43,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "The dirt you left don't turn into dust, it don't move (mooo-ooo-ooo-oove) It's here waiting for you (yooo-ooo-ooo-oou) She run from all'f her problems like she in shape for it Hard times, wait for it and then she break for it",
+      "valence": 3.01,
+      "arousal": 3.45,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "It's here waiting for you (yooo-ooo-ooo-oou) She run from all'f her problems like she in shape for it Hard times, wait for it and then she break for it Love don't cost a thing, ashamed how much I paid for it",
+      "valence": 3.23,
+      "arousal": 3.71,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "She run from all'f her problems like she in shape for it Hard times, wait for it and then she break for it Love don't cost a thing, ashamed how much I paid for it Love don't cost a thing, ashamed how much I gave for it",
+      "valence": 2.9,
+      "arousal": 3.46,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Hard times, wait for it and then she break for it Love don't cost a thing, ashamed how much I paid for it Love don't cost a thing, ashamed how much I gave for it Heart broken into pieces, put tape on it",
+      "valence": 2.83,
+      "arousal": 3.55,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Love don't cost a thing, ashamed how much I paid for it Love don't cost a thing, ashamed how much I gave for it Heart broken into pieces, put tape on it Fragile made out of glass, close the drapes on it",
+      "valence": 2.9,
+      "arousal": 3.47,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Love don't cost a thing, ashamed how much I gave for it Heart broken into pieces, put tape on it Fragile made out of glass, close the drapes on it Trust issues OD playing safe on it",
+      "valence": 2.72,
+      "arousal": 3.47,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Heart broken into pieces, put tape on it Fragile made out of glass, close the drapes on it Trust issues OD playing safe on it Will I ever love again or will I stay lonely?",
+      "valence": 2.44,
+      "arousal": 3.44,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Fragile made out of glass, close the drapes on it Trust issues OD playing safe on it Will I ever love again or will I stay lonely? I yai yai yai I'm",
+      "valence": 2.72,
+      "arousal": 3.15,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Trust issues OD playing safe on it Will I ever love again or will I stay lonely? I yai yai yai I'm Lost for words, let it hurt",
+      "valence": 2.32,
+      "arousal": 3.5,
+      "dominance": 2.61
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Will I ever love again or will I stay lonely? I yai yai yai I'm Lost for words, let it hurt I yai yai yai I",
+      "valence": 2.19,
+      "arousal": 3.58,
+      "dominance": 2.53
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "I yai yai yai I'm Lost for words, let it hurt I yai yai yai I Put you first, showed you your worth",
+      "valence": 2.86,
+      "arousal": 3.66,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Lost for words, let it hurt I yai yai yai I Put you first, showed you your worth She can't take it",
+      "valence": 2.54,
+      "arousal": 3.72,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "I yai yai yai I Put you first, showed you your worth She can't take it She can't take it",
+      "valence": 2.97,
+      "arousal": 3.52,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Put you first, showed you your worth She can't take it She can't take it Oh-oh yeah",
+      "valence": 2.8,
+      "arousal": 3.51,
+      "dominance": 3.28
+    }
+  ]
+}

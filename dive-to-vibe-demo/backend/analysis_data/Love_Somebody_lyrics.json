@@ -1,0 +1,276 @@
+{
+  "artist": "Maroon 5",
+  "overall_vad": {
+    "valence": 3.11,
+    "arousal": 3.73,
+    "dominance": 3.17
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I know your insides are feeling so hollow And it's a hard pill for you to swallow, yeah But if I fall for you, I'll never recover If I fall for you, I'll never be the same",
+      "valence": 2.61,
+      "arousal": 3.43,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "And it's a hard pill for you to swallow, yeah But if I fall for you, I'll never recover If I fall for you, I'll never be the same I really wanna love somebody",
+      "valence": 2.89,
+      "arousal": 3.58,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "But if I fall for you, I'll never recover If I fall for you, I'll never be the same I really wanna love somebody I really wanna dance the night away",
+      "valence": 2.91,
+      "arousal": 3.55,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "If I fall for you, I'll never be the same I really wanna love somebody I really wanna dance the night away I know we're only half way there",
+      "valence": 2.92,
+      "arousal": 3.57,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I really wanna love somebody I really wanna dance the night away I know we're only half way there But you can take me all the way, if you take me all the way",
+      "valence": 3.63,
+      "arousal": 3.82,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I really wanna dance the night away I know we're only half way there But you can take me all the way, if you take me all the way I really wanna touch somebody",
+      "valence": 3.12,
+      "arousal": 3.76,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I know we're only half way there But you can take me all the way, if you take me all the way I really wanna touch somebody I think about you every single day",
+      "valence": 3.33,
+      "arousal": 3.77,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "But you can take me all the way, if you take me all the way I really wanna touch somebody I think about you every single day I know we're only half way there",
+      "valence": 3.23,
+      "arousal": 3.7,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I really wanna touch somebody I think about you every single day I know we're only half way there But you can take me all the way, you can take me all the way",
+      "valence": 3.35,
+      "arousal": 3.9,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I think about you every single day I know we're only half way there But you can take me all the way, you can take me all the way You're such a hard act for me to follow",
+      "valence": 2.97,
+      "arousal": 3.72,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I know we're only half way there But you can take me all the way, you can take me all the way You're such a hard act for me to follow Love me today don't leave me tomorrow, yeah",
+      "valence": 3.29,
+      "arousal": 3.85,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "But you can take me all the way, you can take me all the way You're such a hard act for me to follow Love me today don't leave me tomorrow, yeah But if I fall for you, I'll never recover",
+      "valence": 3.23,
+      "arousal": 3.82,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "You're such a hard act for me to follow Love me today don't leave me tomorrow, yeah But if I fall for you, I'll never recover If I fall for you, I'll never be the same",
+      "valence": 2.93,
+      "arousal": 3.63,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Love me today don't leave me tomorrow, yeah But if I fall for you, I'll never recover If I fall for you, I'll never be the same I really wanna love somebody",
+      "valence": 3.36,
+      "arousal": 3.84,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "But if I fall for you, I'll never recover If I fall for you, I'll never be the same I really wanna love somebody I really wanna dance the night away",
+      "valence": 2.91,
+      "arousal": 3.55,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "If I fall for you, I'll never be the same I really wanna love somebody I really wanna dance the night away I know we're only half way there",
+      "valence": 2.92,
+      "arousal": 3.57,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I really wanna love somebody I really wanna dance the night away I know we're only half way there But take me all the way, if you can take me all the way",
+      "valence": 3.62,
+      "arousal": 3.85,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I really wanna dance the night away I know we're only half way there But take me all the way, if you can take me all the way I really wanna touch somebody",
+      "valence": 3.14,
+      "arousal": 3.76,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I know we're only half way there But take me all the way, if you can take me all the way I really wanna touch somebody I think about you every single day",
+      "valence": 3.31,
+      "arousal": 3.8,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "But take me all the way, if you can take me all the way I really wanna touch somebody I think about you every single day I know we're only half way there",
+      "valence": 3.19,
+      "arousal": 3.7,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I really wanna touch somebody I think about you every single day I know we're only half way there But you can take me all the way, if you can take me all the way",
+      "valence": 3.26,
+      "arousal": 3.86,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I think about you every single day I know we're only half way there But you can take me all the way, if you can take me all the way Oh, oh, oh, oh oh oh",
+      "valence": 3.05,
+      "arousal": 3.81,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I know we're only half way there But you can take me all the way, if you can take me all the way Oh, oh, oh, oh oh oh Oh, oh, oh, oh oh oh",
+      "valence": 2.74,
+      "arousal": 3.71,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "But you can take me all the way, if you can take me all the way Oh, oh, oh, oh oh oh Oh, oh, oh, oh oh oh I don't know where to start, I'm just a little lost",
+      "valence": 2.71,
+      "arousal": 3.61,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Oh, oh, oh, oh oh oh Oh, oh, oh, oh oh oh I don't know where to start, I'm just a little lost I wanna feel like we're never gonna ever stop",
+      "valence": 2.35,
+      "arousal": 3.68,
+      "dominance": 2.37
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Oh, oh, oh, oh oh oh I don't know where to start, I'm just a little lost I wanna feel like we're never gonna ever stop I don't know what to do, I'm right in front of you",
+      "valence": 2.45,
+      "arousal": 3.81,
+      "dominance": 2.41
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I don't know where to start, I'm just a little lost I wanna feel like we're never gonna ever stop I don't know what to do, I'm right in front of you Asking you to stay, you should stay, stay with me tonight, yeah",
+      "valence": 2.66,
+      "arousal": 3.65,
+      "dominance": 2.68
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I wanna feel like we're never gonna ever stop I don't know what to do, I'm right in front of you Asking you to stay, you should stay, stay with me tonight, yeah I really wanna love somebody",
+      "valence": 3.55,
+      "arousal": 3.96,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I don't know what to do, I'm right in front of you Asking you to stay, you should stay, stay with me tonight, yeah I really wanna love somebody I really wanna dance the night away",
+      "valence": 3.42,
+      "arousal": 3.82,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Asking you to stay, you should stay, stay with me tonight, yeah I really wanna love somebody I really wanna dance the night away I know we're only half way there",
+      "valence": 3.48,
+      "arousal": 3.6,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I really wanna love somebody I really wanna dance the night away I know we're only half way there But take me all the way, if you can take me all the way",
+      "valence": 3.62,
+      "arousal": 3.85,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I really wanna dance the night away I know we're only half way there But take me all the way, if you can take me all the way I really wanna touch somebody",
+      "valence": 3.14,
+      "arousal": 3.76,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I know we're only half way there But take me all the way, if you can take me all the way I really wanna touch somebody I think about you every single day",
+      "valence": 3.31,
+      "arousal": 3.8,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "But take me all the way, if you can take me all the way I really wanna touch somebody I think about you every single day I know we're only half way there",
+      "valence": 3.19,
+      "arousal": 3.7,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I really wanna touch somebody I think about you every single day I know we're only half way there But take me all the way, if you can take me all the way",
+      "valence": 3.29,
+      "arousal": 3.88,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I think about you every single day I know we're only half way there But take me all the way, if you can take me all the way Oh, oh, oh, oh oh oh",
+      "valence": 3.16,
+      "arousal": 3.81,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I know we're only half way there But take me all the way, if you can take me all the way Oh, oh, oh, oh oh oh Oh, oh, oh, oh oh oh",
+      "valence": 2.84,
+      "arousal": 3.69,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "But take me all the way, if you can take me all the way Oh, oh, oh, oh oh oh Oh, oh, oh, oh oh oh Take me all the way, if you take me all the way, yeah",
+      "valence": 2.97,
+      "arousal": 3.59,
+      "dominance": 3.54
+    }
+  ]
+}

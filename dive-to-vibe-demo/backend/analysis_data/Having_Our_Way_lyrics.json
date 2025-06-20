@@ -1,0 +1,878 @@
+{
+  "artist": "Migos Featuring Drake",
+  "overall_vad": {
+    "valence": 2.67,
+    "arousal": 3.51,
+    "dominance": 3.41
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Load up the Drac' Fuck it, I'm makin' 'em pay It's however niggas wan' take it (ayy) I'm havin' my way",
+      "valence": 2.33,
+      "arousal": 3.86,
+      "dominance": 3.93
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Fuck it, I'm makin' 'em pay It's however niggas wan' take it (ayy) I'm havin' my way 'Set out here havin' his way",
+      "valence": 2.24,
+      "arousal": 3.88,
+      "dominance": 4.01
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "It's however niggas wan' take it (ayy) I'm havin' my way 'Set out here havin' his way Qua' out here havin' his way",
+      "valence": 2.76,
+      "arousal": 3.29,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I'm havin' my way 'Set out here havin' his way Qua' out here havin' his way And like the third Migo, I take",
+      "valence": 2.92,
+      "arousal": 3.18,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "'Set out here havin' his way Qua' out here havin' his way And like the third Migo, I take (Bitch, what?)",
+      "valence": 2.55,
+      "arousal": 3.56,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Qua' out here havin' his way And like the third Migo, I take (Bitch, what?) Load up the Drac'",
+      "valence": 2.69,
+      "arousal": 3.56,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "And like the third Migo, I take (Bitch, what?) Load up the Drac' What else are they gonna play?",
+      "valence": 2.79,
+      "arousal": 3.5,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "(Bitch, what?) Load up the Drac' What else are they gonna play? It's however niggas wan' take it (ayy)",
+      "valence": 2.55,
+      "arousal": 3.72,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Load up the Drac' What else are they gonna play? It's however niggas wan' take it (ayy) I'm havin' my way",
+      "valence": 2.93,
+      "arousal": 3.4,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "What else are they gonna play? It's however niggas wan' take it (ayy) I'm havin' my way 'Set out here havin' his way",
+      "valence": 2.81,
+      "arousal": 3.33,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "It's however niggas wan' take it (ayy) I'm havin' my way 'Set out here havin' his way Qua' out here havin' his way",
+      "valence": 2.76,
+      "arousal": 3.29,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I'm havin' my way 'Set out here havin' his way Qua' out here havin' his way And like the third Migo, I take",
+      "valence": 2.92,
+      "arousal": 3.18,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "'Set out here havin' his way Qua' out here havin' his way And like the third Migo, I take (What? Ayy, yeah)",
+      "valence": 2.97,
+      "arousal": 3.23,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Qua' out here havin' his way And like the third Migo, I take (What? Ayy, yeah) Now that I'm pickin' it through",
+      "valence": 3.05,
+      "arousal": 3.1,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And like the third Migo, I take (What? Ayy, yeah) Now that I'm pickin' it through I just ain't fell in love 'cause I'm way too awake",
+      "valence": 2.88,
+      "arousal": 3.13,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "(What? Ayy, yeah) Now that I'm pickin' it through I just ain't fell in love 'cause I'm way too awake And she tried fuckin' a rapper to break up my heart",
+      "valence": 2.42,
+      "arousal": 3.56,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Now that I'm pickin' it through I just ain't fell in love 'cause I'm way too awake And she tried fuckin' a rapper to break up my heart But my heart doesn't break",
+      "valence": 2.03,
+      "arousal": 3.54,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I just ain't fell in love 'cause I'm way too awake And she tried fuckin' a rapper to break up my heart But my heart doesn't break Soon as I link with these niggas",
+      "valence": 2.16,
+      "arousal": 3.64,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "And she tried fuckin' a rapper to break up my heart But my heart doesn't break Soon as I link with these niggas They feelings are written all over they face (what?)",
+      "valence": 2.25,
+      "arousal": 3.81,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "But my heart doesn't break Soon as I link with these niggas They feelings are written all over they face (what?) Okay, great, I'm in the backroom of Wally's",
+      "valence": 2.61,
+      "arousal": 3.63,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Soon as I link with these niggas They feelings are written all over they face (what?) Okay, great, I'm in the backroom of Wally's I spent thirty thousand on somebody's grapes",
+      "valence": 2.71,
+      "arousal": 3.59,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "They feelings are written all over they face (what?) Okay, great, I'm in the backroom of Wally's I spent thirty thousand on somebody's grapes We done did so many pull ups on niggas",
+      "valence": 2.79,
+      "arousal": 3.54,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Okay, great, I'm in the backroom of Wally's I spent thirty thousand on somebody's grapes We done did so many pull ups on niggas No wonder we gettin' in shape",
+      "valence": 3.27,
+      "arousal": 3.44,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I spent thirty thousand on somebody's grapes We done did so many pull ups on niggas No wonder we gettin' in shape Too busy backin' my words up with actions",
+      "valence": 2.81,
+      "arousal": 3.26,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "We done did so many pull ups on niggas No wonder we gettin' in shape Too busy backin' my words up with actions To ever go front in your face (what? Ayy)",
+      "valence": 2.69,
+      "arousal": 3.41,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "No wonder we gettin' in shape Too busy backin' my words up with actions To ever go front in your face (what? Ayy) Shit done changed, billionaires talk to me different",
+      "valence": 2.5,
+      "arousal": 3.48,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Too busy backin' my words up with actions To ever go front in your face (what? Ayy) Shit done changed, billionaires talk to me different When they see my paystub from Lucian Grainge",
+      "valence": 2.53,
+      "arousal": 3.51,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "To ever go front in your face (what? Ayy) Shit done changed, billionaires talk to me different When they see my paystub from Lucian Grainge Told myself that I would get through this verse",
+      "valence": 2.75,
+      "arousal": 3.37,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Shit done changed, billionaires talk to me different When they see my paystub from Lucian Grainge Told myself that I would get through this verse And I'm not gonna mention the plane",
+      "valence": 2.72,
+      "arousal": 3.24,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "When they see my paystub from Lucian Grainge Told myself that I would get through this verse And I'm not gonna mention the plane But look at the plane, the fuck are we sayin'? (Yeah, what?)",
+      "valence": 2.63,
+      "arousal": 3.46,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Told myself that I would get through this verse And I'm not gonna mention the plane But look at the plane, the fuck are we sayin'? (Yeah, what?) Fuck are we sayin'?",
+      "valence": 2.42,
+      "arousal": 3.8,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "And I'm not gonna mention the plane But look at the plane, the fuck are we sayin'? (Yeah, what?) Fuck are we sayin'? Big '81, but I don't own a Harley I ride in Mercedes with Shane (ayy)",
+      "valence": 2.41,
+      "arousal": 3.89,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "But look at the plane, the fuck are we sayin'? (Yeah, what?) Fuck are we sayin'? Big '81, but I don't own a Harley I ride in Mercedes with Shane (ayy) It's me and Lil' Harley, we wreckin' this shit",
+      "valence": 2.3,
+      "arousal": 3.95,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Fuck are we sayin'? Big '81, but I don't own a Harley I ride in Mercedes with Shane (ayy) It's me and Lil' Harley, we wreckin' this shit Then we 'bout to go link with the gang (ayy)",
+      "valence": 2.45,
+      "arousal": 3.7,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Big '81, but I don't own a Harley I ride in Mercedes with Shane (ayy) It's me and Lil' Harley, we wreckin' this shit Then we 'bout to go link with the gang (ayy) And unlike that clock on the wall at your mama house",
+      "valence": 2.78,
+      "arousal": 3.23,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "It's me and Lil' Harley, we wreckin' this shit Then we 'bout to go link with the gang (ayy) And unlike that clock on the wall at your mama house I do not have time to hang",
+      "valence": 2.68,
+      "arousal": 3.58,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Then we 'bout to go link with the gang (ayy) And unlike that clock on the wall at your mama house I do not have time to hang Please don't reach out to me",
+      "valence": 2.72,
+      "arousal": 3.35,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "And unlike that clock on the wall at your mama house I do not have time to hang Please don't reach out to me Think watchin' too much of Stephen done got to me",
+      "valence": 2.65,
+      "arousal": 3.23,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I do not have time to hang Please don't reach out to me Think watchin' too much of Stephen done got to me Verses too eas', I'm servin' up by the threes",
+      "valence": 2.61,
+      "arousal": 3.32,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Please don't reach out to me Think watchin' too much of Stephen done got to me Verses too eas', I'm servin' up by the threes I'm playin' pool and the pool just connects to the beach",
+      "valence": 2.78,
+      "arousal": 3.15,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Think watchin' too much of Stephen done got to me Verses too eas', I'm servin' up by the threes I'm playin' pool and the pool just connects to the beach I've been too solid to ever have stripes on my sneaks, you get what I mean?",
+      "valence": 2.86,
+      "arousal": 3.07,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Verses too eas', I'm servin' up by the threes I'm playin' pool and the pool just connects to the beach I've been too solid to ever have stripes on my sneaks, you get what I mean? Back in the day, my dawgs was puttin' eight balls",
+      "valence": 2.98,
+      "arousal": 3.13,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I'm playin' pool and the pool just connects to the beach I've been too solid to ever have stripes on my sneaks, you get what I mean? Back in the day, my dawgs was puttin' eight balls In the pockets of all of the fiends, and- (what? What?)",
+      "valence": 2.79,
+      "arousal": 3.4,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I've been too solid to ever have stripes on my sneaks, you get what I mean? Back in the day, my dawgs was puttin' eight balls In the pockets of all of the fiends, and- (what? What?) That was back in the day",
+      "valence": 2.8,
+      "arousal": 3.39,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Back in the day, my dawgs was puttin' eight balls In the pockets of all of the fiends, and- (what? What?) That was back in the day Now we involved in legitimate business, baby, we came a long way",
+      "valence": 2.91,
+      "arousal": 3.55,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "In the pockets of all of the fiends, and- (what? What?) That was back in the day Now we involved in legitimate business, baby, we came a long way Sometimes I hop on the road by myself, and I listen to shit that you say",
+      "valence": 2.67,
+      "arousal": 3.48,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "That was back in the day Now we involved in legitimate business, baby, we came a long way Sometimes I hop on the road by myself, and I listen to shit that you say All of y'all havin' more followers than dollars",
+      "valence": 2.9,
+      "arousal": 3.37,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Now we involved in legitimate business, baby, we came a long way Sometimes I hop on the road by myself, and I listen to shit that you say All of y'all havin' more followers than dollars And that's why I cannot relate (ayy, no, what?)",
+      "valence": 2.82,
+      "arousal": 3.44,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Sometimes I hop on the road by myself, and I listen to shit that you say All of y'all havin' more followers than dollars And that's why I cannot relate (ayy, no, what?) Load up the Drac'",
+      "valence": 2.49,
+      "arousal": 3.47,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "All of y'all havin' more followers than dollars And that's why I cannot relate (ayy, no, what?) Load up the Drac' What else are they gonna play?",
+      "valence": 2.72,
+      "arousal": 3.35,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "And that's why I cannot relate (ayy, no, what?) Load up the Drac' What else are they gonna play? It's however niggas wan' take it (ayy)",
+      "valence": 2.78,
+      "arousal": 3.4,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Load up the Drac' What else are they gonna play? It's however niggas wan' take it (ayy) I'm havin' my way,",
+      "valence": 2.91,
+      "arousal": 3.36,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "What else are they gonna play? It's however niggas wan' take it (ayy) I'm havin' my way, 'Set out here havin' his way",
+      "valence": 2.81,
+      "arousal": 3.29,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "It's however niggas wan' take it (ayy) I'm havin' my way, 'Set out here havin' his way Qua' out here havin' his way,",
+      "valence": 2.73,
+      "arousal": 3.24,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "I'm havin' my way, 'Set out here havin' his way Qua' out here havin' his way, And like the third Migo, I take (ooh)",
+      "valence": 2.97,
+      "arousal": 3.27,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "'Set out here havin' his way Qua' out here havin' his way, And like the third Migo, I take (ooh) (What? Ayy)",
+      "valence": 2.98,
+      "arousal": 3.31,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Qua' out here havin' his way, And like the third Migo, I take (ooh) (What? Ayy) Load up the Drac' (Drac')",
+      "valence": 2.99,
+      "arousal": 3.43,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "And like the third Migo, I take (ooh) (What? Ayy) Load up the Drac' (Drac') Makin' them fuck niggas pay (yeah)",
+      "valence": 2.67,
+      "arousal": 3.62,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "(What? Ayy) Load up the Drac' (Drac') Makin' them fuck niggas pay (yeah) Straight out the trap to the play (we gone)",
+      "valence": 2.62,
+      "arousal": 3.63,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Load up the Drac' (Drac') Makin' them fuck niggas pay (yeah) Straight out the trap to the play (we gone) Who said they ain't havin' they way? (Who?)",
+      "valence": 2.42,
+      "arousal": 3.61,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Makin' them fuck niggas pay (yeah) Straight out the trap to the play (we gone) Who said they ain't havin' they way? (Who?) Might have a lil' more on they plate (eat it up)",
+      "valence": 2.66,
+      "arousal": 3.61,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Straight out the trap to the play (we gone) Who said they ain't havin' they way? (Who?) Might have a lil' more on they plate (eat it up) We havin' our way in three ways (woo)",
+      "valence": 3.09,
+      "arousal": 3.47,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Who said they ain't havin' they way? (Who?) Might have a lil' more on they plate (eat it up) We havin' our way in three ways (woo) OVO scope on the Drac' (uh)",
+      "valence": 3.14,
+      "arousal": 3.47,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Might have a lil' more on they plate (eat it up) We havin' our way in three ways (woo) OVO scope on the Drac' (uh) We havin' our way (havin' that shit)",
+      "valence": 2.93,
+      "arousal": 3.58,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "We havin' our way in three ways (woo) OVO scope on the Drac' (uh) We havin' our way (havin' that shit) Havin' my way in the city",
+      "valence": 2.86,
+      "arousal": 3.49,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "OVO scope on the Drac' (uh) We havin' our way (havin' that shit) Havin' my way in the city Get pulled out your britches, you talkin' or trippin'?",
+      "valence": 2.59,
+      "arousal": 3.48,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "We havin' our way (havin' that shit) Havin' my way in the city Get pulled out your britches, you talkin' or trippin'? Go put all my cleats on, walkin', ain't slippin' (walk)",
+      "valence": 2.5,
+      "arousal": 3.34,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Havin' my way in the city Get pulled out your britches, you talkin' or trippin'? Go put all my cleats on, walkin', ain't slippin' (walk) Havin' my way, now this shit like a business",
+      "valence": 2.35,
+      "arousal": 3.51,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Get pulled out your britches, you talkin' or trippin'? Go put all my cleats on, walkin', ain't slippin' (walk) Havin' my way, now this shit like a business Load up the base, now I feel like Cal Ripken (ayy)",
+      "valence": 2.52,
+      "arousal": 3.61,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Go put all my cleats on, walkin', ain't slippin' (walk) Havin' my way, now this shit like a business Load up the base, now I feel like Cal Ripken (ayy) She had it her way, now she out of a Bentley (skrrt)",
+      "valence": 2.66,
+      "arousal": 3.5,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Havin' my way, now this shit like a business Load up the base, now I feel like Cal Ripken (ayy) She had it her way, now she out of a Bentley (skrrt) (Skrrt-skrrt, get out, ooh)",
+      "valence": 2.6,
+      "arousal": 3.62,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Load up the base, now I feel like Cal Ripken (ayy) She had it her way, now she out of a Bentley (skrrt) (Skrrt-skrrt, get out, ooh) Fuck how you take it, we straight from the vacant (hey)",
+      "valence": 2.54,
+      "arousal": 3.95,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "She had it her way, now she out of a Bentley (skrrt) (Skrrt-skrrt, get out, ooh) Fuck how you take it, we straight from the vacant (hey) I caught me some cases, then beat it, then raced it (hey)",
+      "valence": 2.45,
+      "arousal": 4.03,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "(Skrrt-skrrt, get out, ooh) Fuck how you take it, we straight from the vacant (hey) I caught me some cases, then beat it, then raced it (hey) Seen they was hatin', no communication",
+      "valence": 2.16,
+      "arousal": 3.99,
+      "dominance": 3.74
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Fuck how you take it, we straight from the vacant (hey) I caught me some cases, then beat it, then raced it (hey) Seen they was hatin', no communication No invitation, cut off circulation (no)",
+      "valence": 2.27,
+      "arousal": 3.89,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "I caught me some cases, then beat it, then raced it (hey) Seen they was hatin', no communication No invitation, cut off circulation (no) Blue or the red Bugatti, this the matrix",
+      "valence": 2.74,
+      "arousal": 3.43,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "Seen they was hatin', no communication No invitation, cut off circulation (no) Blue or the red Bugatti, this the matrix Crosses all on my body, watch for Satan (Chrome)",
+      "valence": 2.61,
+      "arousal": 3.47,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "No invitation, cut off circulation (no) Blue or the red Bugatti, this the matrix Crosses all on my body, watch for Satan (Chrome) I'm havin', Gallery, Lanvin",
+      "valence": 2.59,
+      "arousal": 3.54,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "Blue or the red Bugatti, this the matrix Crosses all on my body, watch for Satan (Chrome) I'm havin', Gallery, Lanvin No talkin', we smashin' (smash)",
+      "valence": 2.73,
+      "arousal": 3.57,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "Crosses all on my body, watch for Satan (Chrome) I'm havin', Gallery, Lanvin No talkin', we smashin' (smash) This one a classic, ain't none of this average (classic)",
+      "valence": 2.9,
+      "arousal": 3.51,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "I'm havin', Gallery, Lanvin No talkin', we smashin' (smash) This one a classic, ain't none of this average (classic) Sniper, I'm snipin' the bitch, I'm assassin (snipe)",
+      "valence": 2.77,
+      "arousal": 3.56,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "No talkin', we smashin' (smash) This one a classic, ain't none of this average (classic) Sniper, I'm snipin' the bitch, I'm assassin (snipe) I piped her, then piped the bitch up for some action (hey)",
+      "valence": 2.78,
+      "arousal": 3.55,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "This one a classic, ain't none of this average (classic) Sniper, I'm snipin' the bitch, I'm assassin (snipe) I piped her, then piped the bitch up for some action (hey) I don't even be braggin', these lil' niggas maggots (maggots)",
+      "valence": 2.69,
+      "arousal": 3.57,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "Sniper, I'm snipin' the bitch, I'm assassin (snipe) I piped her, then piped the bitch up for some action (hey) I don't even be braggin', these lil' niggas maggots (maggots) I don't even flex, that shit be on accident",
+      "valence": 2.58,
+      "arousal": 3.68,
+      "dominance": 3.77
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "I piped her, then piped the bitch up for some action (hey) I don't even be braggin', these lil' niggas maggots (maggots) I don't even flex, that shit be on accident Fell in my lap, hit your bitch on a accident",
+      "valence": 2.26,
+      "arousal": 3.66,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 86,
+      "lyrics_text": "I don't even be braggin', these lil' niggas maggots (maggots) I don't even flex, that shit be on accident Fell in my lap, hit your bitch on a accident I shoot my shot, it's on point, that shit accurate (bah, uh)",
+      "valence": 2.26,
+      "arousal": 3.71,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 87,
+      "lyrics_text": "I don't even flex, that shit be on accident Fell in my lap, hit your bitch on a accident I shoot my shot, it's on point, that shit accurate (bah, uh) Load up the Drac'",
+      "valence": 2.35,
+      "arousal": 3.83,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 88,
+      "lyrics_text": "Fell in my lap, hit your bitch on a accident I shoot my shot, it's on point, that shit accurate (bah, uh) Load up the Drac' What else are they gonna play? (Fuck it)",
+      "valence": 2.01,
+      "arousal": 4.01,
+      "dominance": 3.8
+    },
+    {
+      "chunk_id": 89,
+      "lyrics_text": "I shoot my shot, it's on point, that shit accurate (bah, uh) Load up the Drac' What else are they gonna play? (Fuck it) It's however niggas wanna take it, ayy (it's up)",
+      "valence": 2.62,
+      "arousal": 3.84,
+      "dominance": 3.85
+    },
+    {
+      "chunk_id": 90,
+      "lyrics_text": "Load up the Drac' What else are they gonna play? (Fuck it) It's however niggas wanna take it, ayy (it's up) I'm havin' my way (havin' it)",
+      "valence": 2.38,
+      "arousal": 3.81,
+      "dominance": 3.75
+    },
+    {
+      "chunk_id": 91,
+      "lyrics_text": "What else are they gonna play? (Fuck it) It's however niggas wanna take it, ayy (it's up) I'm havin' my way (havin' it) 'Set out here havin' his way ('Set)",
+      "valence": 2.51,
+      "arousal": 3.67,
+      "dominance": 3.75
+    },
+    {
+      "chunk_id": 92,
+      "lyrics_text": "It's however niggas wanna take it, ayy (it's up) I'm havin' my way (havin' it) 'Set out here havin' his way ('Set) Qua' out here havin' his way (Qua')",
+      "valence": 2.97,
+      "arousal": 3.34,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 93,
+      "lyrics_text": "I'm havin' my way (havin' it) 'Set out here havin' his way ('Set) Qua' out here havin' his way (Qua') And like the third Migo, I take",
+      "valence": 2.96,
+      "arousal": 3.23,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 94,
+      "lyrics_text": "'Set out here havin' his way ('Set) Qua' out here havin' his way (Qua') And like the third Migo, I take (What? Ayy, yeah)",
+      "valence": 2.98,
+      "arousal": 3.3,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 95,
+      "lyrics_text": "Qua' out here havin' his way (Qua') And like the third Migo, I take (What? Ayy, yeah) I'm shovin' this shit in they face",
+      "valence": 2.62,
+      "arousal": 3.6,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 96,
+      "lyrics_text": "And like the third Migo, I take (What? Ayy, yeah) I'm shovin' this shit in they face Then I go put that boy right in his place",
+      "valence": 2.67,
+      "arousal": 3.46,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 97,
+      "lyrics_text": "(What? Ayy, yeah) I'm shovin' this shit in they face Then I go put that boy right in his place They know that I'm havin' my way (why?)",
+      "valence": 2.46,
+      "arousal": 3.79,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 98,
+      "lyrics_text": "I'm shovin' this shit in they face Then I go put that boy right in his place They know that I'm havin' my way (why?) I was seventeen on a song with Drake",
+      "valence": 2.4,
+      "arousal": 3.76,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 99,
+      "lyrics_text": "Then I go put that boy right in his place They know that I'm havin' my way (why?) I was seventeen on a song with Drake It's like an eviction notice when we droppin' (get out)",
+      "valence": 2.55,
+      "arousal": 3.48,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 100,
+      "lyrics_text": "They know that I'm havin' my way (why?) I was seventeen on a song with Drake It's like an eviction notice when we droppin' (get out) 'Cause niggas get moved out they space (move)",
+      "valence": 2.62,
+      "arousal": 3.38,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 101,
+      "lyrics_text": "I was seventeen on a song with Drake It's like an eviction notice when we droppin' (get out) 'Cause niggas get moved out they space (move) Two and a half, was goin' on three",
+      "valence": 2.7,
+      "arousal": 3.31,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 102,
+      "lyrics_text": "It's like an eviction notice when we droppin' (get out) 'Cause niggas get moved out they space (move) Two and a half, was goin' on three But fuck it 'cause it's worth the wait (fuck it)",
+      "valence": 2.17,
+      "arousal": 3.88,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 103,
+      "lyrics_text": "'Cause niggas get moved out they space (move) Two and a half, was goin' on three But fuck it 'cause it's worth the wait (fuck it) Not to be ignorant, but I want everything that's on the menu",
+      "valence": 2.35,
+      "arousal": 3.97,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 104,
+      "lyrics_text": "Two and a half, was goin' on three But fuck it 'cause it's worth the wait (fuck it) Not to be ignorant, but I want everything that's on the menu And what's on your plate (gimme that)",
+      "valence": 2.34,
+      "arousal": 4.16,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 105,
+      "lyrics_text": "But fuck it 'cause it's worth the wait (fuck it) Not to be ignorant, but I want everything that's on the menu And what's on your plate (gimme that) I talk to God, he give me the faith (God)",
+      "valence": 2.44,
+      "arousal": 4.23,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 106,
+      "lyrics_text": "Not to be ignorant, but I want everything that's on the menu And what's on your plate (gimme that) I talk to God, he give me the faith (God) I hit The Boy if I need me a Drac' (brrt)",
+      "valence": 2.98,
+      "arousal": 3.54,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 107,
+      "lyrics_text": "And what's on your plate (gimme that) I talk to God, he give me the faith (God) I hit The Boy if I need me a Drac' (brrt) I got a Richie that sit on my left (Mille)",
+      "valence": 3.1,
+      "arousal": 3.31,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 108,
+      "lyrics_text": "I talk to God, he give me the faith (God) I hit The Boy if I need me a Drac' (brrt) I got a Richie that sit on my left (Mille) But somehow, I always be pullin' up late (how?)",
+      "valence": 3.03,
+      "arousal": 3.27,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 109,
+      "lyrics_text": "I hit The Boy if I need me a Drac' (brrt) I got a Richie that sit on my left (Mille) But somehow, I always be pullin' up late (how?) Ain't been on earth (no)",
+      "valence": 2.94,
+      "arousal": 3.12,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 110,
+      "lyrics_text": "I got a Richie that sit on my left (Mille) But somehow, I always be pullin' up late (how?) Ain't been on earth (no) Ever since I copped that rocket chain and took a trip outer space (go)",
+      "valence": 2.92,
+      "arousal": 3.09,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 111,
+      "lyrics_text": "But somehow, I always be pullin' up late (how?) Ain't been on earth (no) Ever since I copped that rocket chain and took a trip outer space (go) Ever since birth, my mama told me (mama)",
+      "valence": 3.02,
+      "arousal": 3.19,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 112,
+      "lyrics_text": "Ain't been on earth (no) Ever since I copped that rocket chain and took a trip outer space (go) Ever since birth, my mama told me (mama) That they gon' act cool, but they really hate (hate)",
+      "valence": 2.61,
+      "arousal": 3.34,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 113,
+      "lyrics_text": "Ever since I copped that rocket chain and took a trip outer space (go) Ever since birth, my mama told me (mama) That they gon' act cool, but they really hate (hate) I know my worth (worth)",
+      "valence": 3.0,
+      "arousal": 3.42,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 114,
+      "lyrics_text": "Ever since birth, my mama told me (mama) That they gon' act cool, but they really hate (hate) I know my worth (worth) So you ain't gettin' no verse if you talkin' 'bout a lil' K (nah)",
+      "valence": 2.7,
+      "arousal": 3.3,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 115,
+      "lyrics_text": "That they gon' act cool, but they really hate (hate) I know my worth (worth) So you ain't gettin' no verse if you talkin' 'bout a lil' K (nah) Make 'em say church (amen)",
+      "valence": 2.48,
+      "arousal": 3.28,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 116,
+      "lyrics_text": "I know my worth (worth) So you ain't gettin' no verse if you talkin' 'bout a lil' K (nah) Make 'em say church (amen) When they see clarity diamonds and stones in my Jesus face",
+      "valence": 3.01,
+      "arousal": 3.29,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 117,
+      "lyrics_text": "So you ain't gettin' no verse if you talkin' 'bout a lil' K (nah) Make 'em say church (amen) When they see clarity diamonds and stones in my Jesus face Ain't gotta run 'cause this not a race (huh-huh-huh, go)",
+      "valence": 2.69,
+      "arousal": 3.35,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 118,
+      "lyrics_text": "Make 'em say church (amen) When they see clarity diamonds and stones in my Jesus face Ain't gotta run 'cause this not a race (huh-huh-huh, go) Load up the Drac'",
+      "valence": 2.72,
+      "arousal": 3.51,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 119,
+      "lyrics_text": "When they see clarity diamonds and stones in my Jesus face Ain't gotta run 'cause this not a race (huh-huh-huh, go) Load up the Drac' What else are they gon' play (fuck it)",
+      "valence": 2.28,
+      "arousal": 3.97,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 120,
+      "lyrics_text": "Ain't gotta run 'cause this not a race (huh-huh-huh, go) Load up the Drac' What else are they gon' play (fuck it) It's however niggas wanna take it, ayy (it's up)",
+      "valence": 2.38,
+      "arousal": 3.76,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 121,
+      "lyrics_text": "Load up the Drac' What else are they gon' play (fuck it) It's however niggas wanna take it, ayy (it's up) I'm havin' my way (havin' it)",
+      "valence": 2.51,
+      "arousal": 3.86,
+      "dominance": 3.8
+    },
+    {
+      "chunk_id": 122,
+      "lyrics_text": "What else are they gon' play (fuck it) It's however niggas wanna take it, ayy (it's up) I'm havin' my way (havin' it) 'Set out here havin' his way ('Set)",
+      "valence": 2.62,
+      "arousal": 3.72,
+      "dominance": 3.82
+    },
+    {
+      "chunk_id": 123,
+      "lyrics_text": "It's however niggas wanna take it, ayy (it's up) I'm havin' my way (havin' it) 'Set out here havin' his way ('Set) Qua' out here havin' his way (Qua')",
+      "valence": 2.97,
+      "arousal": 3.34,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 124,
+      "lyrics_text": "I'm havin' my way (havin' it) 'Set out here havin' his way ('Set) Qua' out here havin' his way (Qua') And like the third Migo, I take (Takeoff)",
+      "valence": 3.07,
+      "arousal": 3.31,
+      "dominance": 3.64
+    }
+  ]
+}

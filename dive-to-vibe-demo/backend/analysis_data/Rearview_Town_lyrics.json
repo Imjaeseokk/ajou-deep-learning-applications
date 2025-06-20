@@ -1,0 +1,241 @@
+{
+  "artist": "Jason Aldean",
+  "overall_vad": {
+    "valence": 2.52,
+    "arousal": 3.23,
+    "dominance": 3.04
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Wipe the footprints off my dash Tore up those sun-faded photographs Threw 'em in the wind, ya'll can have it back I'm outta here",
+      "valence": 2.61,
+      "arousal": 3.22,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Tore up those sun-faded photographs Threw 'em in the wind, ya'll can have it back I'm outta here I stuck my middle finger up in the sky",
+      "valence": 2.66,
+      "arousal": 3.41,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Threw 'em in the wind, ya'll can have it back I'm outta here I stuck my middle finger up in the sky Flipped off that \"Ya'll Come Back\" sign",
+      "valence": 2.76,
+      "arousal": 3.58,
+      "dominance": 3.75
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I'm outta here I stuck my middle finger up in the sky Flipped off that \"Ya'll Come Back\" sign Looked in the mirror one last time",
+      "valence": 2.78,
+      "arousal": 3.44,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I stuck my middle finger up in the sky Flipped off that \"Ya'll Come Back\" sign Looked in the mirror one last time And watched it disappear",
+      "valence": 2.74,
+      "arousal": 3.25,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Flipped off that \"Ya'll Come Back\" sign Looked in the mirror one last time And watched it disappear It ain't nothin' but a rearview town",
+      "valence": 2.67,
+      "arousal": 3.26,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Looked in the mirror one last time And watched it disappear It ain't nothin' but a rearview town Broken hearts and rusted plows",
+      "valence": 2.35,
+      "arousal": 3.35,
+      "dominance": 2.77
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "And watched it disappear It ain't nothin' but a rearview town Broken hearts and rusted plows Roots ripped right up out of the ground",
+      "valence": 2.25,
+      "arousal": 3.54,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "It ain't nothin' but a rearview town Broken hearts and rusted plows Roots ripped right up out of the ground Never thought I'd ever leave it",
+      "valence": 2.21,
+      "arousal": 3.46,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Broken hearts and rusted plows Roots ripped right up out of the ground Never thought I'd ever leave it Oh, it ain't nothin' what it used to be",
+      "valence": 2.23,
+      "arousal": 3.45,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Roots ripped right up out of the ground Never thought I'd ever leave it Oh, it ain't nothin' what it used to be Population minus me",
+      "valence": 2.35,
+      "arousal": 3.41,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Never thought I'd ever leave it Oh, it ain't nothin' what it used to be Population minus me On the other side of that dust cloud",
+      "valence": 2.48,
+      "arousal": 3.06,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Oh, it ain't nothin' what it used to be Population minus me On the other side of that dust cloud Ain't nothin' but a rearview town",
+      "valence": 2.55,
+      "arousal": 3.15,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Population minus me On the other side of that dust cloud Ain't nothin' but a rearview town I could tough it out, but what's the use?",
+      "valence": 2.62,
+      "arousal": 3.11,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "On the other side of that dust cloud Ain't nothin' but a rearview town I could tough it out, but what's the use? A place that small, it's hard to do",
+      "valence": 2.72,
+      "arousal": 3.16,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Ain't nothin' but a rearview town I could tough it out, but what's the use? A place that small, it's hard to do Too much of her to run into",
+      "valence": 2.79,
+      "arousal": 3.14,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I could tough it out, but what's the use? A place that small, it's hard to do Too much of her to run into And so much road to somewhere new",
+      "valence": 2.77,
+      "arousal": 3.19,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "A place that small, it's hard to do Too much of her to run into And so much road to somewhere new It ain't nothin' but a rearview town",
+      "valence": 2.67,
+      "arousal": 2.86,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Too much of her to run into And so much road to somewhere new It ain't nothin' but a rearview town Broken hearts and rusted plows",
+      "valence": 2.39,
+      "arousal": 3.14,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "And so much road to somewhere new It ain't nothin' but a rearview town Broken hearts and rusted plows Roots ripped right up out of the ground",
+      "valence": 2.31,
+      "arousal": 3.4,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "It ain't nothin' but a rearview town Broken hearts and rusted plows Roots ripped right up out of the ground Never thought I'd ever leave it",
+      "valence": 2.21,
+      "arousal": 3.46,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Broken hearts and rusted plows Roots ripped right up out of the ground Never thought I'd ever leave it Oh, it ain't nothin' what it used to be",
+      "valence": 2.23,
+      "arousal": 3.45,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Roots ripped right up out of the ground Never thought I'd ever leave it Oh, it ain't nothin' what it used to be Population minus me",
+      "valence": 2.35,
+      "arousal": 3.41,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Never thought I'd ever leave it Oh, it ain't nothin' what it used to be Population minus me On the other side of that dust cloud",
+      "valence": 2.48,
+      "arousal": 3.06,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Oh, it ain't nothin' what it used to be Population minus me On the other side of that dust cloud Ain't nothin' but a rearview town",
+      "valence": 2.55,
+      "arousal": 3.15,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Population minus me On the other side of that dust cloud Ain't nothin' but a rearview town It ain't nothin' but yesterday",
+      "valence": 2.61,
+      "arousal": 3.0,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "On the other side of that dust cloud Ain't nothin' but a rearview town It ain't nothin' but yesterday One less truck rollin' down Main",
+      "valence": 2.67,
+      "arousal": 2.89,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Ain't nothin' but a rearview town It ain't nothin' but yesterday One less truck rollin' down Main Ain't nothin' left to say",
+      "valence": 2.56,
+      "arousal": 2.93,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "It ain't nothin' but yesterday One less truck rollin' down Main Ain't nothin' left to say No, it ain't nothin' what it used to be",
+      "valence": 2.41,
+      "arousal": 3.11,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "One less truck rollin' down Main Ain't nothin' left to say No, it ain't nothin' what it used to be Population minus me",
+      "valence": 2.48,
+      "arousal": 3.19,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Ain't nothin' left to say No, it ain't nothin' what it used to be Population minus me On the other side of that dust cloud",
+      "valence": 2.52,
+      "arousal": 3.16,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "No, it ain't nothin' what it used to be Population minus me On the other side of that dust cloud Ain't nothin' but a rearview town",
+      "valence": 2.53,
+      "arousal": 3.16,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Population minus me On the other side of that dust cloud Ain't nothin' but a rearview town Ain't nothin' but a rearview town",
+      "valence": 2.63,
+      "arousal": 3.04,
+      "dominance": 3.05
+    }
+  ]
+}

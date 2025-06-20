@@ -1,0 +1,493 @@
+{
+  "artist": "Drake",
+  "overall_vad": {
+    "valence": 2.82,
+    "arousal": 3.33,
+    "dominance": 3.16
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Look at my history I'm tryna see what's different from that guy and the richer me The only thing I see is custom owls from Tiffany And some gunnas that'll hit you outta nowhere like epiphany",
+      "valence": 2.84,
+      "arousal": 3.18,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I'm tryna see what's different from that guy and the richer me The only thing I see is custom owls from Tiffany And some gunnas that'll hit you outta nowhere like epiphany Really, that's it to me",
+      "valence": 2.81,
+      "arousal": 3.35,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "The only thing I see is custom owls from Tiffany And some gunnas that'll hit you outta nowhere like epiphany Really, that's it to me Aside from the obvious, man, it changes in scenery",
+      "valence": 2.86,
+      "arousal": 3.22,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "And some gunnas that'll hit you outta nowhere like epiphany Really, that's it to me Aside from the obvious, man, it changes in scenery Testin' me gon' have my niggas testin' machinery",
+      "valence": 2.59,
+      "arousal": 3.36,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Really, that's it to me Aside from the obvious, man, it changes in scenery Testin' me gon' have my niggas testin' machinery They say that they happy, my man, that's not how they seem to be",
+      "valence": 2.68,
+      "arousal": 3.25,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Aside from the obvious, man, it changes in scenery Testin' me gon' have my niggas testin' machinery They say that they happy, my man, that's not how they seem to be The boy, he wild and peaceful, rest in peace Teena Marie",
+      "valence": 2.94,
+      "arousal": 3.26,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Testin' me gon' have my niggas testin' machinery They say that they happy, my man, that's not how they seem to be The boy, he wild and peaceful, rest in peace Teena Marie Ethics and values, mob traditions, old fashioned",
+      "valence": 2.79,
+      "arousal": 3.24,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "They say that they happy, my man, that's not how they seem to be The boy, he wild and peaceful, rest in peace Teena Marie Ethics and values, mob traditions, old fashioned Monopoly action",
+      "valence": 2.93,
+      "arousal": 3.13,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "The boy, he wild and peaceful, rest in peace Teena Marie Ethics and values, mob traditions, old fashioned Monopoly action Bronny buyin' up Brentwood like he still in Akron",
+      "valence": 3.3,
+      "arousal": 3.2,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Ethics and values, mob traditions, old fashioned Monopoly action Bronny buyin' up Brentwood like he still in Akron A lot of pain, a lot of passion",
+      "valence": 2.64,
+      "arousal": 3.28,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Monopoly action Bronny buyin' up Brentwood like he still in Akron A lot of pain, a lot of passion A lot of relaxin' while other niggas is overreactin'",
+      "valence": 2.62,
+      "arousal": 3.18,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Bronny buyin' up Brentwood like he still in Akron A lot of pain, a lot of passion A lot of relaxin' while other niggas is overreactin' That's how we continue down the path of Jordan and Jackson",
+      "valence": 2.78,
+      "arousal": 3.11,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "A lot of pain, a lot of passion A lot of relaxin' while other niggas is overreactin' That's how we continue down the path of Jordan and Jackson That's some insight for y'all even if no one's askin'",
+      "valence": 2.87,
+      "arousal": 3.12,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "A lot of relaxin' while other niggas is overreactin' That's how we continue down the path of Jordan and Jackson That's some insight for y'all even if no one's askin' Last year, niggas really feel like they rode on me",
+      "valence": 2.96,
+      "arousal": 2.97,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "That's how we continue down the path of Jordan and Jackson That's some insight for y'all even if no one's askin' Last year, niggas really feel like they rode on me Last year, niggas got hot 'cause they told on me",
+      "valence": 3.01,
+      "arousal": 3.1,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "That's some insight for y'all even if no one's askin' Last year, niggas really feel like they rode on me Last year, niggas got hot 'cause they told on me I'm 'bout to call the bluff of anybody that fold on me",
+      "valence": 2.81,
+      "arousal": 3.19,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Last year, niggas really feel like they rode on me Last year, niggas got hot 'cause they told on me I'm 'bout to call the bluff of anybody that fold on me I'm buyin' the buildin' of every door that closed on me",
+      "valence": 2.65,
+      "arousal": 3.33,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Last year, niggas got hot 'cause they told on me I'm 'bout to call the bluff of anybody that fold on me I'm buyin' the buildin' of every door that closed on me Yeah, Loro Piana and Brioni, the one and only",
+      "valence": 2.92,
+      "arousal": 3.39,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I'm 'bout to call the bluff of anybody that fold on me I'm buyin' the buildin' of every door that closed on me Yeah, Loro Piana and Brioni, the one and only Champagne popper, the love doctor",
+      "valence": 3.33,
+      "arousal": 3.57,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I'm buyin' the buildin' of every door that closed on me Yeah, Loro Piana and Brioni, the one and only Champagne popper, the love doctor Your baby mother call me when she lonely",
+      "valence": 3.58,
+      "arousal": 3.55,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Yeah, Loro Piana and Brioni, the one and only Champagne popper, the love doctor Your baby mother call me when she lonely My tailor see me twice a week, he like my homie",
+      "valence": 3.72,
+      "arousal": 3.58,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Champagne popper, the love doctor Your baby mother call me when she lonely My tailor see me twice a week, he like my homie Forever grateful, forever thankful",
+      "valence": 3.94,
+      "arousal": 3.63,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Your baby mother call me when she lonely My tailor see me twice a week, he like my homie Forever grateful, forever thankful Diamond necklace, but she wears it on her ankle",
+      "valence": 3.53,
+      "arousal": 3.48,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "My tailor see me twice a week, he like my homie Forever grateful, forever thankful Diamond necklace, but she wears it on her ankle The bitch is trendy",
+      "valence": 2.97,
+      "arousal": 3.52,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Forever grateful, forever thankful Diamond necklace, but she wears it on her ankle The bitch is trendy My enemies send each other the texts that they could never send me",
+      "valence": 2.58,
+      "arousal": 3.58,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Diamond necklace, but she wears it on her ankle The bitch is trendy My enemies send each other the texts that they could never send me I'm bankin' two million a show for the residency",
+      "valence": 2.78,
+      "arousal": 3.66,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "The bitch is trendy My enemies send each other the texts that they could never send me I'm bankin' two million a show for the residency Nevada gaming commission in a frenzy",
+      "valence": 2.38,
+      "arousal": 3.71,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "My enemies send each other the texts that they could never send me I'm bankin' two million a show for the residency Nevada gaming commission in a frenzy How much money can this casino lend me?",
+      "valence": 2.75,
+      "arousal": 3.67,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I'm bankin' two million a show for the residency Nevada gaming commission in a frenzy How much money can this casino lend me? Rippin' markers up over shots of the Henny",
+      "valence": 3.07,
+      "arousal": 3.57,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Nevada gaming commission in a frenzy How much money can this casino lend me? Rippin' markers up over shots of the Henny Vivid memory, can someone send me a real nigga interlude?",
+      "valence": 2.84,
+      "arousal": 3.56,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "How much money can this casino lend me? Rippin' markers up over shots of the Henny Vivid memory, can someone send me a real nigga interlude? To me, Benihana is pigeon food",
+      "valence": 2.87,
+      "arousal": 3.39,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Rippin' markers up over shots of the Henny Vivid memory, can someone send me a real nigga interlude? To me, Benihana is pigeon food This not a forgivin' mood",
+      "valence": 2.75,
+      "arousal": 3.25,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Vivid memory, can someone send me a real nigga interlude? To me, Benihana is pigeon food This not a forgivin' mood So much, we gotta count the twenties up in a different room",
+      "valence": 2.81,
+      "arousal": 3.28,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "To me, Benihana is pigeon food This not a forgivin' mood So much, we gotta count the twenties up in a different room I am just a body that my brothers are livin' through",
+      "valence": 2.8,
+      "arousal": 3.14,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "This not a forgivin' mood So much, we gotta count the twenties up in a different room I am just a body that my brothers are livin' through Keepin' my connections strictly physical",
+      "valence": 2.75,
+      "arousal": 3.23,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "So much, we gotta count the twenties up in a different room I am just a body that my brothers are livin' through Keepin' my connections strictly physical Everyone that's married is miserable",
+      "valence": 2.55,
+      "arousal": 3.24,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I am just a body that my brothers are livin' through Keepin' my connections strictly physical Everyone that's married is miserable I know that that is not a lifestyle I can give into",
+      "valence": 2.54,
+      "arousal": 3.22,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Keepin' my connections strictly physical Everyone that's married is miserable I know that that is not a lifestyle I can give into The rise to the top of this mountain has been biblical",
+      "valence": 2.58,
+      "arousal": 3.23,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Everyone that's married is miserable I know that that is not a lifestyle I can give into The rise to the top of this mountain has been biblical I don't carry cash 'cause the money is digital",
+      "valence": 2.49,
+      "arousal": 3.27,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "I know that that is not a lifestyle I can give into The rise to the top of this mountain has been biblical I don't carry cash 'cause the money is digital It's the American Expresser, the debt collector",
+      "valence": 2.74,
+      "arousal": 3.13,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "The rise to the top of this mountain has been biblical I don't carry cash 'cause the money is digital It's the American Expresser, the debt collector Hailin' all the way from the Mecca",
+      "valence": 2.87,
+      "arousal": 3.26,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "I don't carry cash 'cause the money is digital It's the American Expresser, the debt collector Hailin' all the way from the Mecca Got something for Trudy and Rebecca",
+      "valence": 2.91,
+      "arousal": 3.23,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "It's the American Expresser, the debt collector Hailin' all the way from the Mecca Got something for Trudy and Rebecca This shit could last forever",
+      "valence": 2.73,
+      "arousal": 3.5,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Hailin' all the way from the Mecca Got something for Trudy and Rebecca This shit could last forever The mind controller, the Ayatollah",
+      "valence": 2.84,
+      "arousal": 3.63,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Got something for Trudy and Rebecca This shit could last forever The mind controller, the Ayatollah I built a bridge to success and had visions of me ridin' over",
+      "valence": 2.77,
+      "arousal": 3.51,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "This shit could last forever The mind controller, the Ayatollah I built a bridge to success and had visions of me ridin' over Step in the room and October gets a lot closer",
+      "valence": 2.61,
+      "arousal": 3.54,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "The mind controller, the Ayatollah I built a bridge to success and had visions of me ridin' over Step in the room and October gets a lot closer Haunted houses",
+      "valence": 3.01,
+      "arousal": 3.33,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I built a bridge to success and had visions of me ridin' over Step in the room and October gets a lot closer Haunted houses I don't know how to count in thousands, only millions",
+      "valence": 3.1,
+      "arousal": 3.31,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Step in the room and October gets a lot closer Haunted houses I don't know how to count in thousands, only millions Now tell your friends I'm not the villain",
+      "valence": 2.92,
+      "arousal": 3.35,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Haunted houses I don't know how to count in thousands, only millions Now tell your friends I'm not the villain Send 'em to Lagos or Turks and Caicos",
+      "valence": 2.82,
+      "arousal": 3.36,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I don't know how to count in thousands, only millions Now tell your friends I'm not the villain Send 'em to Lagos or Turks and Caicos Barbados, Trinidad and Tobago",
+      "valence": 2.92,
+      "arousal": 3.24,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Now tell your friends I'm not the villain Send 'em to Lagos or Turks and Caicos Barbados, Trinidad and Tobago Never go the same places they go",
+      "valence": 2.9,
+      "arousal": 3.37,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Send 'em to Lagos or Turks and Caicos Barbados, Trinidad and Tobago Never go the same places they go Separate vacations",
+      "valence": 2.96,
+      "arousal": 3.07,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Barbados, Trinidad and Tobago Never go the same places they go Separate vacations A far cry from when Drizzy had slept in the basement",
+      "valence": 2.82,
+      "arousal": 2.83,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Never go the same places they go Separate vacations A far cry from when Drizzy had slept in the basement I was never on the path to get into Cambridge",
+      "valence": 2.79,
+      "arousal": 2.84,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Separate vacations A far cry from when Drizzy had slept in the basement I was never on the path to get into Cambridge I mean, I was good at doin' math, but I'm better with language",
+      "valence": 2.92,
+      "arousal": 2.92,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "A far cry from when Drizzy had slept in the basement I was never on the path to get into Cambridge I mean, I was good at doin' math, but I'm better with language Borderline dangerous, approach with caution",
+      "valence": 2.77,
+      "arousal": 3.18,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "I was never on the path to get into Cambridge I mean, I was good at doin' math, but I'm better with language Borderline dangerous, approach with caution I plan to buy your most personal belongings when they up for auction",
+      "valence": 2.64,
+      "arousal": 3.57,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "I mean, I was good at doin' math, but I'm better with language Borderline dangerous, approach with caution I plan to buy your most personal belongings when they up for auction Man, truth be told, I think about it often",
+      "valence": 2.6,
+      "arousal": 3.6,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Borderline dangerous, approach with caution I plan to buy your most personal belongings when they up for auction Man, truth be told, I think about it often The petty king, the overseer of many things",
+      "valence": 2.47,
+      "arousal": 3.56,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "I plan to buy your most personal belongings when they up for auction Man, truth be told, I think about it often The petty king, the overseer of many things I wish that I was playin' in a sport where we were gettin' rings",
+      "valence": 2.75,
+      "arousal": 3.46,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Man, truth be told, I think about it often The petty king, the overseer of many things I wish that I was playin' in a sport where we were gettin' rings I wouldn't have space on either hand for anything",
+      "valence": 2.53,
+      "arousal": 3.29,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "The petty king, the overseer of many things I wish that I was playin' in a sport where we were gettin' rings I wouldn't have space on either hand for anything West Hollywood, know my presence is menacing",
+      "valence": 2.51,
+      "arousal": 3.53,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "I wish that I was playin' in a sport where we were gettin' rings I wouldn't have space on either hand for anything West Hollywood, know my presence is menacing Cosa Nostra, shady dealings",
+      "valence": 2.56,
+      "arousal": 3.46,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "I wouldn't have space on either hand for anything West Hollywood, know my presence is menacing Cosa Nostra, shady dealings Racketeering, the syndicate got they hand in plenty things",
+      "valence": 2.42,
+      "arousal": 3.56,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "West Hollywood, know my presence is menacing Cosa Nostra, shady dealings Racketeering, the syndicate got they hand in plenty things The things that we've done to protect the name are unsettling",
+      "valence": 2.42,
+      "arousal": 3.59,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Cosa Nostra, shady dealings Racketeering, the syndicate got they hand in plenty things The things that we've done to protect the name are unsettling But no regrets, though, the name'll echo",
+      "valence": 2.64,
+      "arousal": 3.19,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Racketeering, the syndicate got they hand in plenty things The things that we've done to protect the name are unsettling But no regrets, though, the name'll echo Years later, none greater",
+      "valence": 2.77,
+      "arousal": 3.12,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "The things that we've done to protect the name are unsettling But no regrets, though, the name'll echo Years later, none greater Death to a coward and a traitor, that's just in my nature, yeah",
+      "valence": 2.53,
+      "arousal": 3.28,
+      "dominance": 3.38
+    }
+  ]
+}

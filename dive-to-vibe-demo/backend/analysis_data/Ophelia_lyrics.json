@@ -1,0 +1,192 @@
+{
+  "artist": "The Lumineers",
+  "overall_vad": {
+    "valence": 3.03,
+    "arousal": 3.59,
+    "dominance": 3.27
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I, I, when I was younger I, I, should have known better And I can't feel no remorse And you don't feel nothing back",
+      "valence": 2.32,
+      "arousal": 3.36,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I, I, should have known better And I can't feel no remorse And you don't feel nothing back I, I, got a new girlfriend",
+      "valence": 2.61,
+      "arousal": 3.54,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "And I can't feel no remorse And you don't feel nothing back I, I, got a new girlfriend She feels like he's on top",
+      "valence": 2.69,
+      "arousal": 3.55,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "And you don't feel nothing back I, I, got a new girlfriend She feels like he's on top And I don't feel no remorse",
+      "valence": 2.69,
+      "arousal": 3.48,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I, I, got a new girlfriend She feels like he's on top And I don't feel no remorse And you can't see past my blinders",
+      "valence": 2.98,
+      "arousal": 3.4,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "She feels like he's on top And I don't feel no remorse And you can't see past my blinders Oh, Ophelia",
+      "valence": 2.75,
+      "arousal": 3.13,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "And I don't feel no remorse And you can't see past my blinders Oh, Ophelia You've been on my mind girl since the flood",
+      "valence": 2.91,
+      "arousal": 3.33,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "And you can't see past my blinders Oh, Ophelia You've been on my mind girl since the flood Oh, Ophelia",
+      "valence": 3.04,
+      "arousal": 3.31,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Oh, Ophelia You've been on my mind girl since the flood Oh, Ophelia Heaven help a fool who falls in love",
+      "valence": 3.18,
+      "arousal": 3.67,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "You've been on my mind girl since the flood Oh, Ophelia Heaven help a fool who falls in love I, I, got a little paycheck",
+      "valence": 3.04,
+      "arousal": 3.72,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Oh, Ophelia Heaven help a fool who falls in love I, I, got a little paycheck You got big plans and you gotta move",
+      "valence": 2.9,
+      "arousal": 3.67,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Heaven help a fool who falls in love I, I, got a little paycheck You got big plans and you gotta move And I don't feel nothing at all",
+      "valence": 2.63,
+      "arousal": 3.43,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I, I, got a little paycheck You got big plans and you gotta move And I don't feel nothing at all And you can't feel nothing small",
+      "valence": 3.06,
+      "arousal": 3.41,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "You got big plans and you gotta move And I don't feel nothing at all And you can't feel nothing small Honey, I love you, that's all she wrote",
+      "valence": 3.49,
+      "arousal": 3.85,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And I don't feel nothing at all And you can't feel nothing small Honey, I love you, that's all she wrote Oh, Ophelia",
+      "valence": 3.6,
+      "arousal": 3.69,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "And you can't feel nothing small Honey, I love you, that's all she wrote Oh, Ophelia You've been on my mind girl like a drug",
+      "valence": 3.87,
+      "arousal": 3.92,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Honey, I love you, that's all she wrote Oh, Ophelia You've been on my mind girl like a drug Oh, Ophelia",
+      "valence": 4.01,
+      "arousal": 3.92,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Oh, Ophelia You've been on my mind girl like a drug Oh, Ophelia Heaven help a fool who falls in love",
+      "valence": 2.91,
+      "arousal": 3.67,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "You've been on my mind girl like a drug Oh, Ophelia Heaven help a fool who falls in love Oh, Ophelia",
+      "valence": 2.89,
+      "arousal": 3.71,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Oh, Ophelia Heaven help a fool who falls in love Oh, Ophelia You've been on my mind girl since the flood",
+      "valence": 3.15,
+      "arousal": 3.69,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Heaven help a fool who falls in love Oh, Ophelia You've been on my mind girl since the flood Oh, Ophelia",
+      "valence": 3.06,
+      "arousal": 3.49,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Oh, Ophelia You've been on my mind girl since the flood Oh, Ophelia Heaven help a fool who falls in love",
+      "valence": 3.18,
+      "arousal": 3.67,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "You've been on my mind girl since the flood Oh, Ophelia Heaven help a fool who falls in love Oh, Ophelia",
+      "valence": 3.15,
+      "arousal": 3.72,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Oh, Ophelia Heaven help a fool who falls in love Oh, Ophelia You've been on my mind girl like a drug",
+      "valence": 2.95,
+      "arousal": 3.73,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Heaven help a fool who falls in love Oh, Ophelia You've been on my mind girl like a drug Oh, Ophelia",
+      "valence": 2.86,
+      "arousal": 3.52,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Oh, Ophelia You've been on my mind girl like a drug Oh, Ophelia Heaven help a fool who falls in love",
+      "valence": 2.91,
+      "arousal": 3.67,
+      "dominance": 3.22
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "artist": "Chris Brown",
+  "overall_vad": {
+    "valence": 3.22,
+    "arousal": 3.53,
+    "dominance": 3.27
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Baby, does he do it for you? When he's finished, does he step back and adore you? I just gotta know, 'cause your time is money And I won't let him waste it, oh no-n (Ow!)",
+      "valence": 3.05,
+      "arousal": 3.58,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "When he's finished, does he step back and adore you? I just gotta know, 'cause your time is money And I won't let him waste it, oh no-n (Ow!) Baby, just go with it",
+      "valence": 3.1,
+      "arousal": 3.56,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I just gotta know, 'cause your time is money And I won't let him waste it, oh no-n (Ow!) Baby, just go with it 'Cause when you're with me, I can't explain it, it's just different",
+      "valence": 2.95,
+      "arousal": 3.64,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "And I won't let him waste it, oh no-n (Ow!) Baby, just go with it 'Cause when you're with me, I can't explain it, it's just different We can take it slow or act like you're my girl, let's skip the basics",
+      "valence": 3.08,
+      "arousal": 3.76,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Baby, just go with it 'Cause when you're with me, I can't explain it, it's just different We can take it slow or act like you're my girl, let's skip the basics Whoa-whoa, oh no",
+      "valence": 3.1,
+      "arousal": 3.58,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "'Cause when you're with me, I can't explain it, it's just different We can take it slow or act like you're my girl, let's skip the basics Whoa-whoa, oh no He's so replaceable",
+      "valence": 2.82,
+      "arousal": 3.6,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "We can take it slow or act like you're my girl, let's skip the basics Whoa-whoa, oh no He's so replaceable (Da-da-da-da, da-da-da, uh, da-da-da)",
+      "valence": 2.89,
+      "arousal": 3.62,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Whoa-whoa, oh no He's so replaceable (Da-da-da-da, da-da-da, uh, da-da-da) You're worth the chase you're putting on",
+      "valence": 2.68,
+      "arousal": 3.84,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "He's so replaceable (Da-da-da-da, da-da-da, uh, da-da-da) You're worth the chase you're putting on (Da-da-da-da, da-da-da)",
+      "valence": 2.88,
+      "arousal": 3.52,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "(Da-da-da-da, da-da-da, uh, da-da-da) You're worth the chase you're putting on (Da-da-da-da, da-da-da) It's alright, I'm not dangerous",
+      "valence": 3.14,
+      "arousal": 3.37,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "You're worth the chase you're putting on (Da-da-da-da, da-da-da) It's alright, I'm not dangerous When you're mine, I'll be generous",
+      "valence": 3.3,
+      "arousal": 3.47,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "(Da-da-da-da, da-da-da) It's alright, I'm not dangerous When you're mine, I'll be generous You're irreplaceable, a collectible",
+      "valence": 3.35,
+      "arousal": 3.31,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "It's alright, I'm not dangerous When you're mine, I'll be generous You're irreplaceable, a collectible Just like fine china",
+      "valence": 3.26,
+      "arousal": 3.3,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "When you're mine, I'll be generous You're irreplaceable, a collectible Just like fine china Favorite, you're my favorite",
+      "valence": 3.62,
+      "arousal": 3.49,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "You're irreplaceable, a collectible Just like fine china Favorite, you're my favorite It's like all the girls around me don't have faces",
+      "valence": 3.38,
+      "arousal": 3.31,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Just like fine china Favorite, you're my favorite It's like all the girls around me don't have faces And the saying goes",
+      "valence": 3.44,
+      "arousal": 3.2,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Favorite, you're my favorite It's like all the girls around me don't have faces And the saying goes Life is just a game but I'm not playing",
+      "valence": 3.27,
+      "arousal": 3.27,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "It's like all the girls around me don't have faces And the saying goes Life is just a game but I'm not playing Whoa-whoa, oh-oh",
+      "valence": 2.75,
+      "arousal": 3.16,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "And the saying goes Life is just a game but I'm not playing Whoa-whoa, oh-oh He's so replaceable",
+      "valence": 2.59,
+      "arousal": 3.35,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Life is just a game but I'm not playing Whoa-whoa, oh-oh He's so replaceable (Da-da-da-da, da-da-da, uh, da-da-da)",
+      "valence": 2.51,
+      "arousal": 3.44,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Whoa-whoa, oh-oh He's so replaceable (Da-da-da-da, da-da-da, uh, da-da-da) You're worth the chase you're putting on",
+      "valence": 2.8,
+      "arousal": 3.85,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "He's so replaceable (Da-da-da-da, da-da-da, uh, da-da-da) You're worth the chase you're putting on (Da-da-da-da, da-da-da)",
+      "valence": 2.88,
+      "arousal": 3.52,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "(Da-da-da-da, da-da-da, uh, da-da-da) You're worth the chase you're putting on (Da-da-da-da, da-da-da) It's alright (Yeah), I'm not dangerous",
+      "valence": 3.2,
+      "arousal": 3.32,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "You're worth the chase you're putting on (Da-da-da-da, da-da-da) It's alright (Yeah), I'm not dangerous When you're mine (Woo), I'll be generous",
+      "valence": 3.32,
+      "arousal": 3.47,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "(Da-da-da-da, da-da-da) It's alright (Yeah), I'm not dangerous When you're mine (Woo), I'll be generous (You are) You're irreplaceable, a collectible (Just like)",
+      "valence": 3.46,
+      "arousal": 3.39,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "It's alright (Yeah), I'm not dangerous When you're mine (Woo), I'll be generous (You are) You're irreplaceable, a collectible (Just like) Just like fine china",
+      "valence": 3.32,
+      "arousal": 3.38,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "When you're mine (Woo), I'll be generous (You are) You're irreplaceable, a collectible (Just like) Just like fine china It's alright (Girl), I'm not dangerous (I'm not dangerous)",
+      "valence": 3.32,
+      "arousal": 3.38,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "(You are) You're irreplaceable, a collectible (Just like) Just like fine china It's alright (Girl), I'm not dangerous (I'm not dangerous) When you're mine (Girl), I'll be generous",
+      "valence": 3.1,
+      "arousal": 3.32,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Just like fine china It's alright (Girl), I'm not dangerous (I'm not dangerous) When you're mine (Girl), I'll be generous (You are) You're irreplaceable, (You are) A collectible (Hey!)",
+      "valence": 3.47,
+      "arousal": 3.55,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "It's alright (Girl), I'm not dangerous (I'm not dangerous) When you're mine (Girl), I'll be generous (You are) You're irreplaceable, (You are) A collectible (Hey!) (You are) just like fine china",
+      "valence": 3.4,
+      "arousal": 3.53,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "When you're mine (Girl), I'll be generous (You are) You're irreplaceable, (You are) A collectible (Hey!) (You are) just like fine china Took me a while (Yeah) to find your love (Hey!)",
+      "valence": 3.78,
+      "arousal": 3.76,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "(You are) You're irreplaceable, (You are) A collectible (Hey!) (You are) just like fine china Took me a while (Yeah) to find your love (Hey!) Ain't no amount of time in this world (Ho!)",
+      "valence": 3.69,
+      "arousal": 3.77,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "(You are) just like fine china Took me a while (Yeah) to find your love (Hey!) Ain't no amount of time in this world (Ho!) Save me a lot of time and just love me (Hey!)",
+      "valence": 3.96,
+      "arousal": 3.88,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Took me a while (Yeah) to find your love (Hey!) Ain't no amount of time in this world (Ho!) Save me a lot of time and just love me (Hey!) Feel it, baby, feel it in your soul",
+      "valence": 4.0,
+      "arousal": 4.02,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Ain't no amount of time in this world (Ho!) Save me a lot of time and just love me (Hey!) Feel it, baby, feel it in your soul Are you ready? (oh)",
+      "valence": 3.88,
+      "arousal": 4.08,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Save me a lot of time and just love me (Hey!) Feel it, baby, feel it in your soul Are you ready? (oh) I know your heart been telling you, you belong to me (Ha ha)",
+      "valence": 4.07,
+      "arousal": 4.06,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Feel it, baby, feel it in your soul Are you ready? (oh) I know your heart been telling you, you belong to me (Ha ha) A-na-na, no-whoa",
+      "valence": 3.3,
+      "arousal": 3.65,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Are you ready? (oh) I know your heart been telling you, you belong to me (Ha ha) A-na-na, no-whoa It's alright (Yeah, whoa!), I'm not dangerous",
+      "valence": 3.13,
+      "arousal": 3.64,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I know your heart been telling you, you belong to me (Ha ha) A-na-na, no-whoa It's alright (Yeah, whoa!), I'm not dangerous When you're mine (Whoa, I'll get you girl), I'll be generous (I, I, no)",
+      "valence": 3.33,
+      "arousal": 3.74,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "A-na-na, no-whoa It's alright (Yeah, whoa!), I'm not dangerous When you're mine (Whoa, I'll get you girl), I'll be generous (I, I, no) You're irreplaceable, a collectible",
+      "valence": 3.37,
+      "arousal": 3.68,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "It's alright (Yeah, whoa!), I'm not dangerous When you're mine (Whoa, I'll get you girl), I'll be generous (I, I, no) You're irreplaceable, a collectible Just like fine china",
+      "valence": 3.42,
+      "arousal": 3.71,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "When you're mine (Whoa, I'll get you girl), I'll be generous (I, I, no) You're irreplaceable, a collectible Just like fine china Oh-oh-oh-oh-oh",
+      "valence": 3.21,
+      "arousal": 3.54,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "You're irreplaceable, a collectible Just like fine china Oh-oh-oh-oh-oh Oh",
+      "valence": 3.1,
+      "arousal": 3.09,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Just like fine china Oh-oh-oh-oh-oh Oh Yeah",
+      "valence": 3.18,
+      "arousal": 3.21,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Oh-oh-oh-oh-oh Oh Yeah Uh",
+      "valence": 3.1,
+      "arousal": 3.44,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Oh Yeah Uh Oh, oh no",
+      "valence": 2.39,
+      "arousal": 3.53,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Yeah Uh Oh, oh no Yeah, yeah, yeah",
+      "valence": 3.0,
+      "arousal": 3.14,
+      "dominance": 3.1
+    }
+  ]
+}

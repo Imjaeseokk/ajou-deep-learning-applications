@@ -1,0 +1,535 @@
+{
+  "artist": "Drake Featuring Rihanna",
+  "overall_vad": {
+    "valence": 2.86,
+    "arousal": 3.49,
+    "dominance": 3.07
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Oh yeah, yeah, yeah Oh yeah, yeah, yeah Yeah Look... I don't know how to talk to you",
+      "valence": 3.06,
+      "arousal": 3.41,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Oh yeah, yeah, yeah Yeah Look... I don't know how to talk to you I don't know how to ask you if you're okay",
+      "valence": 2.93,
+      "arousal": 3.42,
+      "dominance": 2.75
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Yeah Look... I don't know how to talk to you I don't know how to ask you if you're okay My friends always feel the need to tell me things",
+      "valence": 2.62,
+      "arousal": 3.58,
+      "dominance": 2.67
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Look... I don't know how to talk to you I don't know how to ask you if you're okay My friends always feel the need to tell me things Seems like they're just happier than us these days",
+      "valence": 2.84,
+      "arousal": 3.55,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I don't know how to ask you if you're okay My friends always feel the need to tell me things Seems like they're just happier than us these days Yeah, these days I don't know how to talk to you",
+      "valence": 2.57,
+      "arousal": 3.39,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "My friends always feel the need to tell me things Seems like they're just happier than us these days Yeah, these days I don't know how to talk to you I don't know how to be there when you need me",
+      "valence": 2.69,
+      "arousal": 3.4,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Seems like they're just happier than us these days Yeah, these days I don't know how to talk to you I don't know how to be there when you need me It feels like the only time you see me",
+      "valence": 2.85,
+      "arousal": 3.22,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Yeah, these days I don't know how to talk to you I don't know how to be there when you need me It feels like the only time you see me Is when you turn your head to the side and look at me differently",
+      "valence": 2.6,
+      "arousal": 3.41,
+      "dominance": 2.59
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I don't know how to be there when you need me It feels like the only time you see me Is when you turn your head to the side and look at me differently Yeah, and last night I think I lost my patience",
+      "valence": 2.58,
+      "arousal": 3.42,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "It feels like the only time you see me Is when you turn your head to the side and look at me differently Yeah, and last night I think I lost my patience Last night I got high as your expectations",
+      "valence": 2.68,
+      "arousal": 3.38,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Is when you turn your head to the side and look at me differently Yeah, and last night I think I lost my patience Last night I got high as your expectations Last night, I came to a realization",
+      "valence": 2.57,
+      "arousal": 3.25,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Yeah, and last night I think I lost my patience Last night I got high as your expectations Last night, I came to a realization And I hope you can take it",
+      "valence": 2.92,
+      "arousal": 3.57,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Last night I got high as your expectations Last night, I came to a realization And I hope you can take it I hope you can take it",
+      "valence": 3.5,
+      "arousal": 3.63,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Last night, I came to a realization And I hope you can take it I hope you can take it I'm too good to you",
+      "valence": 3.48,
+      "arousal": 3.57,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And I hope you can take it I hope you can take it I'm too good to you I'm way too good to you",
+      "valence": 3.57,
+      "arousal": 3.62,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I hope you can take it I'm too good to you I'm way too good to you You take my love for granted",
+      "valence": 3.7,
+      "arousal": 3.72,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I'm too good to you I'm way too good to you You take my love for granted I just don't understand it",
+      "valence": 2.75,
+      "arousal": 3.71,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I'm way too good to you You take my love for granted I just don't understand it No, I'm too good to you",
+      "valence": 2.9,
+      "arousal": 3.56,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "You take my love for granted I just don't understand it No, I'm too good to you I'm way too good to you",
+      "valence": 2.76,
+      "arousal": 3.58,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I just don't understand it No, I'm too good to you I'm way too good to you You take my love for granted",
+      "valence": 2.74,
+      "arousal": 3.56,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "No, I'm too good to you I'm way too good to you You take my love for granted I just don't understand it",
+      "valence": 2.71,
+      "arousal": 3.66,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I'm way too good to you You take my love for granted I just don't understand it I don't know how to talk to you",
+      "valence": 2.69,
+      "arousal": 3.9,
+      "dominance": 2.66
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "You take my love for granted I just don't understand it I don't know how to talk to you I just know I found myself getting lost with you",
+      "valence": 2.64,
+      "arousal": 3.93,
+      "dominance": 2.45
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I just don't understand it I don't know how to talk to you I just know I found myself getting lost with you Lately you just make me work too hard for you",
+      "valence": 2.44,
+      "arousal": 3.65,
+      "dominance": 2.52
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I don't know how to talk to you I just know I found myself getting lost with you Lately you just make me work too hard for you Got me on flights overseas, and I still can't get across to you",
+      "valence": 2.45,
+      "arousal": 3.66,
+      "dominance": 2.5
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I just know I found myself getting lost with you Lately you just make me work too hard for you Got me on flights overseas, and I still can't get across to you And last night I think I lost my patience",
+      "valence": 2.35,
+      "arousal": 3.53,
+      "dominance": 2.6
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Lately you just make me work too hard for you Got me on flights overseas, and I still can't get across to you And last night I think I lost my patience Last night I got high as your expectations",
+      "valence": 2.41,
+      "arousal": 3.51,
+      "dominance": 2.77
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Got me on flights overseas, and I still can't get across to you And last night I think I lost my patience Last night I got high as your expectations Last night, I came to a realization",
+      "valence": 2.5,
+      "arousal": 3.46,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "And last night I think I lost my patience Last night I got high as your expectations Last night, I came to a realization And I hope you can take it",
+      "valence": 2.89,
+      "arousal": 3.56,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Last night I got high as your expectations Last night, I came to a realization And I hope you can take it I hope you can take it",
+      "valence": 3.5,
+      "arousal": 3.63,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Last night, I came to a realization And I hope you can take it I hope you can take it I'm too good to you",
+      "valence": 3.48,
+      "arousal": 3.57,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "And I hope you can take it I hope you can take it I'm too good to you I'm way too good to you",
+      "valence": 3.57,
+      "arousal": 3.62,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I hope you can take it I'm too good to you I'm way too good to you You take my love for granted",
+      "valence": 3.7,
+      "arousal": 3.72,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I'm too good to you I'm way too good to you You take my love for granted I just don't understand it",
+      "valence": 2.75,
+      "arousal": 3.71,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I'm way too good to you You take my love for granted I just don't understand it No, I'm too good to you",
+      "valence": 2.9,
+      "arousal": 3.56,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "You take my love for granted I just don't understand it No, I'm too good to you I'm way too good to you",
+      "valence": 2.76,
+      "arousal": 3.58,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I just don't understand it No, I'm too good to you I'm way too good to you You take my love for granted",
+      "valence": 2.74,
+      "arousal": 3.56,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "No, I'm too good to you I'm way too good to you You take my love for granted I just don't understand it",
+      "valence": 2.71,
+      "arousal": 3.66,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I'm way too good to you You take my love for granted I just don't understand it Years go by too fast",
+      "valence": 2.81,
+      "arousal": 3.59,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "You take my love for granted I just don't understand it Years go by too fast I can't keep track",
+      "valence": 2.55,
+      "arousal": 3.56,
+      "dominance": 2.66
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I just don't understand it Years go by too fast I can't keep track How long did we last?",
+      "valence": 2.64,
+      "arousal": 3.23,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Years go by too fast I can't keep track How long did we last? I feel bad for asking",
+      "valence": 2.58,
+      "arousal": 3.07,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I can't keep track How long did we last? I feel bad for asking It can't end like this",
+      "valence": 2.45,
+      "arousal": 3.17,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "How long did we last? I feel bad for asking It can't end like this We gotta take time with this",
+      "valence": 2.53,
+      "arousal": 3.09,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I feel bad for asking It can't end like this We gotta take time with this Cock up yuh bumper, sit down pon it",
+      "valence": 2.45,
+      "arousal": 3.23,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "It can't end like this We gotta take time with this Cock up yuh bumper, sit down pon it Let me see if this is something I can fix",
+      "valence": 2.65,
+      "arousal": 3.22,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "We gotta take time with this Cock up yuh bumper, sit down pon it Let me see if this is something I can fix You got somebody other than me",
+      "valence": 2.82,
+      "arousal": 3.15,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Cock up yuh bumper, sit down pon it Let me see if this is something I can fix You got somebody other than me Don't play the victim when you're with me",
+      "valence": 2.7,
+      "arousal": 3.37,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Let me see if this is something I can fix You got somebody other than me Don't play the victim when you're with me Free time is costing me more than it seems",
+      "valence": 2.7,
+      "arousal": 3.4,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "You got somebody other than me Don't play the victim when you're with me Free time is costing me more than it seems Sacrificing things",
+      "valence": 2.49,
+      "arousal": 3.49,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Don't play the victim when you're with me Free time is costing me more than it seems Sacrificing things And I wanna tell you my intentions",
+      "valence": 2.59,
+      "arousal": 3.41,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Free time is costing me more than it seems Sacrificing things And I wanna tell you my intentions I wanna do the things that I mention",
+      "valence": 2.76,
+      "arousal": 3.21,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Sacrificing things And I wanna tell you my intentions I wanna do the things that I mention I wanna benefit from the friendship",
+      "valence": 3.44,
+      "arousal": 3.26,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "And I wanna tell you my intentions I wanna do the things that I mention I wanna benefit from the friendship I wanna get the late night message from you, from you",
+      "valence": 3.59,
+      "arousal": 3.5,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "I wanna do the things that I mention I wanna benefit from the friendship I wanna get the late night message from you, from you I put my hands around you",
+      "valence": 3.62,
+      "arousal": 3.58,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "I wanna benefit from the friendship I wanna get the late night message from you, from you I put my hands around you Gotta get a handle on you",
+      "valence": 3.41,
+      "arousal": 3.65,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "I wanna get the late night message from you, from you I put my hands around you Gotta get a handle on you Gotta get a handle on the fact that...",
+      "valence": 2.91,
+      "arousal": 3.63,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "I put my hands around you Gotta get a handle on you Gotta get a handle on the fact that... I'm too good to you",
+      "valence": 2.7,
+      "arousal": 3.74,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Gotta get a handle on you Gotta get a handle on the fact that... I'm too good to you I'm way too good to you",
+      "valence": 2.85,
+      "arousal": 3.5,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Gotta get a handle on the fact that... I'm too good to you I'm way too good to you You take my love for granted",
+      "valence": 3.02,
+      "arousal": 3.54,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "I'm too good to you I'm way too good to you You take my love for granted I just don't understand it",
+      "valence": 2.75,
+      "arousal": 3.71,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "I'm way too good to you You take my love for granted I just don't understand it No, I'm too good to you",
+      "valence": 2.9,
+      "arousal": 3.56,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "You take my love for granted I just don't understand it No, I'm too good to you I'm way too good to you",
+      "valence": 2.76,
+      "arousal": 3.58,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "I just don't understand it No, I'm too good to you I'm way too good to you You take my love for granted",
+      "valence": 2.74,
+      "arousal": 3.56,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "No, I'm too good to you I'm way too good to you You take my love for granted I just don't understand it",
+      "valence": 2.71,
+      "arousal": 3.66,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "I'm way too good to you You take my love for granted I just don't understand it Gyal a you mi waan",
+      "valence": 2.84,
+      "arousal": 3.63,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "You take my love for granted I just don't understand it Gyal a you mi waan Pay fi yuh visa meck yo fly out regular",
+      "valence": 2.49,
+      "arousal": 3.62,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "I just don't understand it Gyal a you mi waan Pay fi yuh visa meck yo fly out regular Baby, cock up yuh bumper, sit down pon it",
+      "valence": 2.54,
+      "arousal": 3.42,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Gyal a you mi waan Pay fi yuh visa meck yo fly out regular Baby, cock up yuh bumper, sit down pon it Gyal yo pum pum good and yuh fit",
+      "valence": 3.01,
+      "arousal": 3.31,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Pay fi yuh visa meck yo fly out regular Baby, cock up yuh bumper, sit down pon it Gyal yo pum pum good and yuh fit Mi wi give you everything weh deh in my wallet",
+      "valence": 2.99,
+      "arousal": 3.38,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Baby, cock up yuh bumper, sit down pon it Gyal yo pum pum good and yuh fit Mi wi give you everything weh deh in my wallet And in my pocket",
+      "valence": 3.04,
+      "arousal": 3.38,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Gyal yo pum pum good and yuh fit Mi wi give you everything weh deh in my wallet And in my pocket Cock up yuh bumper, sit down pon it",
+      "valence": 3.04,
+      "arousal": 3.24,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Mi wi give you everything weh deh in my wallet And in my pocket Cock up yuh bumper, sit down pon it Gyal yo pum pum good and yuh fit",
+      "valence": 3.03,
+      "arousal": 3.16,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "And in my pocket Cock up yuh bumper, sit down pon it Gyal yo pum pum good and yuh fit Mi wi give you everything weh deh in my wallet",
+      "valence": 2.99,
+      "arousal": 3.19,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Cock up yuh bumper, sit down pon it Gyal yo pum pum good and yuh fit Mi wi give you everything weh deh in my wallet And in my pocket",
+      "valence": 2.94,
+      "arousal": 3.29,
+      "dominance": 3.55
+    }
+  ]
+}

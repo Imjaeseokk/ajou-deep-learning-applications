@@ -1,0 +1,241 @@
+{
+  "artist": "Chris Janson",
+  "overall_vad": {
+    "valence": 3.08,
+    "arousal": 3.31,
+    "dominance": 3.22
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I ain't rich, but I damn sure wanna be Workin' like a dog all day ain't workin' for me I wish I had a rich uncle that'd kick the bucket And I was sittin' on a pile like Warren Buffett",
+      "valence": 2.49,
+      "arousal": 3.24,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Workin' like a dog all day ain't workin' for me I wish I had a rich uncle that'd kick the bucket And I was sittin' on a pile like Warren Buffett I know everybody says money can't buy happiness",
+      "valence": 2.59,
+      "arousal": 3.27,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I wish I had a rich uncle that'd kick the bucket And I was sittin' on a pile like Warren Buffett I know everybody says money can't buy happiness But it could buy me a boat",
+      "valence": 2.82,
+      "arousal": 3.31,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "And I was sittin' on a pile like Warren Buffett I know everybody says money can't buy happiness But it could buy me a boat It could buy me a truck to pull it",
+      "valence": 3.11,
+      "arousal": 3.21,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I know everybody says money can't buy happiness But it could buy me a boat It could buy me a truck to pull it It could buy me a Yeti 110 iced down with some silver bullets",
+      "valence": 3.22,
+      "arousal": 3.33,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "But it could buy me a boat It could buy me a truck to pull it It could buy me a Yeti 110 iced down with some silver bullets Yeah, and I know what they say, money can't buy everything",
+      "valence": 3.1,
+      "arousal": 3.3,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "It could buy me a truck to pull it It could buy me a Yeti 110 iced down with some silver bullets Yeah, and I know what they say, money can't buy everything Well, maybe so",
+      "valence": 2.99,
+      "arousal": 3.25,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "It could buy me a Yeti 110 iced down with some silver bullets Yeah, and I know what they say, money can't buy everything Well, maybe so But it could buy me a boat",
+      "valence": 3.11,
+      "arousal": 3.27,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Yeah, and I know what they say, money can't buy everything Well, maybe so But it could buy me a boat They call me redneck, white trash and blue collar",
+      "valence": 2.79,
+      "arousal": 3.28,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Well, maybe so But it could buy me a boat They call me redneck, white trash and blue collar But I could change all that if I had a couple million dollars",
+      "valence": 3.11,
+      "arousal": 3.29,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "But it could buy me a boat They call me redneck, white trash and blue collar But I could change all that if I had a couple million dollars I keep hearing that money is the root of all evil",
+      "valence": 2.77,
+      "arousal": 3.44,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "They call me redneck, white trash and blue collar But I could change all that if I had a couple million dollars I keep hearing that money is the root of all evil And you can't fit a camel through the eye of a needle",
+      "valence": 2.6,
+      "arousal": 3.44,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "But I could change all that if I had a couple million dollars I keep hearing that money is the root of all evil And you can't fit a camel through the eye of a needle I'm sure that's probably true",
+      "valence": 2.86,
+      "arousal": 3.29,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I keep hearing that money is the root of all evil And you can't fit a camel through the eye of a needle I'm sure that's probably true But it still sounds pretty cool",
+      "valence": 3.1,
+      "arousal": 3.47,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And you can't fit a camel through the eye of a needle I'm sure that's probably true But it still sounds pretty cool 'Cause it could buy me a boat",
+      "valence": 3.59,
+      "arousal": 3.58,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I'm sure that's probably true But it still sounds pretty cool 'Cause it could buy me a boat It could buy me a truck to pull it",
+      "valence": 3.48,
+      "arousal": 3.44,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "But it still sounds pretty cool 'Cause it could buy me a boat It could buy me a truck to pull it It could buy me a Yeti 110 iced down with some silver bullets",
+      "valence": 3.46,
+      "arousal": 3.58,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "'Cause it could buy me a boat It could buy me a truck to pull it It could buy me a Yeti 110 iced down with some silver bullets Yeah, and I know what they say, money can't buy everything",
+      "valence": 3.07,
+      "arousal": 3.32,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "It could buy me a truck to pull it It could buy me a Yeti 110 iced down with some silver bullets Yeah, and I know what they say, money can't buy everything Well, maybe so",
+      "valence": 2.99,
+      "arousal": 3.25,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "It could buy me a Yeti 110 iced down with some silver bullets Yeah, and I know what they say, money can't buy everything Well, maybe so But it could buy me a boat",
+      "valence": 3.11,
+      "arousal": 3.27,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Yeah, and I know what they say, money can't buy everything Well, maybe so But it could buy me a boat To float down on the water with a beer",
+      "valence": 3.18,
+      "arousal": 3.23,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Well, maybe so But it could buy me a boat To float down on the water with a beer I hear the Powerball Lotto is sitting on a hundred mill...",
+      "valence": 3.1,
+      "arousal": 3.19,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "But it could buy me a boat To float down on the water with a beer I hear the Powerball Lotto is sitting on a hundred mill... Well, that would buy me a brand new rod and reel",
+      "valence": 3.26,
+      "arousal": 3.27,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "To float down on the water with a beer I hear the Powerball Lotto is sitting on a hundred mill... Well, that would buy me a brand new rod and reel And it could buy me a boat",
+      "valence": 3.34,
+      "arousal": 3.26,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I hear the Powerball Lotto is sitting on a hundred mill... Well, that would buy me a brand new rod and reel And it could buy me a boat It could buy me a truck to pull it",
+      "valence": 3.28,
+      "arousal": 3.24,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Well, that would buy me a brand new rod and reel And it could buy me a boat It could buy me a truck to pull it It could buy me a Yeti 110 iced down with some silver bullets",
+      "valence": 3.18,
+      "arousal": 3.25,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "And it could buy me a boat It could buy me a truck to pull it It could buy me a Yeti 110 iced down with some silver bullets Yeah, and I know what they say, money can't buy everything",
+      "valence": 3.11,
+      "arousal": 3.31,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "It could buy me a truck to pull it It could buy me a Yeti 110 iced down with some silver bullets Yeah, and I know what they say, money can't buy everything Well, maybe so",
+      "valence": 2.99,
+      "arousal": 3.25,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "It could buy me a Yeti 110 iced down with some silver bullets Yeah, and I know what they say, money can't buy everything Well, maybe so But it could buy me a boat",
+      "valence": 3.11,
+      "arousal": 3.27,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Yeah, and I know what they say, money can't buy everything Well, maybe so But it could buy me a boat Yeah, and I know what they say, money can't buy everything",
+      "valence": 3.16,
+      "arousal": 3.25,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Well, maybe so But it could buy me a boat Yeah, and I know what they say, money can't buy everything Well, maybe so",
+      "valence": 3.15,
+      "arousal": 3.18,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "But it could buy me a boat Yeah, and I know what they say, money can't buy everything Well, maybe so But it could buy me a boat",
+      "valence": 3.27,
+      "arousal": 3.28,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Yeah, and I know what they say, money can't buy everything Well, maybe so But it could buy me a boat Yeah, it could buy me a boat",
+      "valence": 3.27,
+      "arousal": 3.33,
+      "dominance": 3.16
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "artist": "The Weeknd",
+  "overall_vad": {
+    "valence": 2.81,
+    "arousal": 3.63,
+    "dominance": 2.99
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Yeah I've been tryna call I've been on my own for long enough Maybe you can show me how to love, maybe",
+      "valence": 3.37,
+      "arousal": 3.47,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I've been tryna call I've been on my own for long enough Maybe you can show me how to love, maybe I'm going through withdrawals",
+      "valence": 2.97,
+      "arousal": 3.47,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I've been on my own for long enough Maybe you can show me how to love, maybe I'm going through withdrawals You don't even have to do too much",
+      "valence": 3.11,
+      "arousal": 3.44,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Maybe you can show me how to love, maybe I'm going through withdrawals You don't even have to do too much You can turn me on with just a touch, baby",
+      "valence": 3.45,
+      "arousal": 3.66,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I'm going through withdrawals You don't even have to do too much You can turn me on with just a touch, baby I look around and",
+      "valence": 2.57,
+      "arousal": 3.6,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "You don't even have to do too much You can turn me on with just a touch, baby I look around and Sin City's cold and empty (oh)",
+      "valence": 2.53,
+      "arousal": 3.65,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "You can turn me on with just a touch, baby I look around and Sin City's cold and empty (oh) No one's around to judge me (oh)",
+      "valence": 2.48,
+      "arousal": 3.52,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I look around and Sin City's cold and empty (oh) No one's around to judge me (oh) I can't see clearly when you're gone",
+      "valence": 2.18,
+      "arousal": 3.43,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Sin City's cold and empty (oh) No one's around to judge me (oh) I can't see clearly when you're gone I said, ooh, I'm blinded by the lights",
+      "valence": 2.3,
+      "arousal": 3.37,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "No one's around to judge me (oh) I can't see clearly when you're gone I said, ooh, I'm blinded by the lights No, I can't sleep until I feel your touch",
+      "valence": 2.76,
+      "arousal": 3.64,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I can't see clearly when you're gone I said, ooh, I'm blinded by the lights No, I can't sleep until I feel your touch I said, ooh, I'm drowning in the night",
+      "valence": 2.55,
+      "arousal": 3.75,
+      "dominance": 2.6
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I said, ooh, I'm blinded by the lights No, I can't sleep until I feel your touch I said, ooh, I'm drowning in the night Oh, when I'm like this, you're the one I trust",
+      "valence": 2.91,
+      "arousal": 3.8,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "No, I can't sleep until I feel your touch I said, ooh, I'm drowning in the night Oh, when I'm like this, you're the one I trust (Hey, hey, hey)",
+      "valence": 3.16,
+      "arousal": 3.83,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I said, ooh, I'm drowning in the night Oh, when I'm like this, you're the one I trust (Hey, hey, hey) I'm running out of time",
+      "valence": 2.68,
+      "arousal": 3.72,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Oh, when I'm like this, you're the one I trust (Hey, hey, hey) I'm running out of time 'Cause I can see the sun light up the sky",
+      "valence": 3.28,
+      "arousal": 3.53,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "(Hey, hey, hey) I'm running out of time 'Cause I can see the sun light up the sky So I hit the road in overdrive, baby, oh",
+      "valence": 3.0,
+      "arousal": 3.66,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I'm running out of time 'Cause I can see the sun light up the sky So I hit the road in overdrive, baby, oh The city's cold and empty (oh)",
+      "valence": 2.71,
+      "arousal": 3.52,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "'Cause I can see the sun light up the sky So I hit the road in overdrive, baby, oh The city's cold and empty (oh) No one's around to judge me (oh)",
+      "valence": 2.99,
+      "arousal": 3.64,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "So I hit the road in overdrive, baby, oh The city's cold and empty (oh) No one's around to judge me (oh) I can't see clearly when you're gone",
+      "valence": 2.66,
+      "arousal": 3.6,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "The city's cold and empty (oh) No one's around to judge me (oh) I can't see clearly when you're gone I said, ooh, I'm blinded by the lights",
+      "valence": 2.33,
+      "arousal": 3.34,
+      "dominance": 2.67
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "No one's around to judge me (oh) I can't see clearly when you're gone I said, ooh, I'm blinded by the lights No, I can't sleep until I feel your touch",
+      "valence": 2.76,
+      "arousal": 3.64,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I can't see clearly when you're gone I said, ooh, I'm blinded by the lights No, I can't sleep until I feel your touch I said, ooh, I'm drowning in the night",
+      "valence": 2.55,
+      "arousal": 3.75,
+      "dominance": 2.6
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I said, ooh, I'm blinded by the lights No, I can't sleep until I feel your touch I said, ooh, I'm drowning in the night Oh, when I'm like this, you're the one I trust",
+      "valence": 2.91,
+      "arousal": 3.8,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "No, I can't sleep until I feel your touch I said, ooh, I'm drowning in the night Oh, when I'm like this, you're the one I trust I'm just walking by to let you know (by to let you know)",
+      "valence": 3.02,
+      "arousal": 3.7,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I said, ooh, I'm drowning in the night Oh, when I'm like this, you're the one I trust I'm just walking by to let you know (by to let you know) I can never say it on the phone (say it on the phone)",
+      "valence": 2.57,
+      "arousal": 3.58,
+      "dominance": 2.67
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Oh, when I'm like this, you're the one I trust I'm just walking by to let you know (by to let you know) I can never say it on the phone (say it on the phone) Will never let you go this time (ooh)",
+      "valence": 2.81,
+      "arousal": 3.61,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I'm just walking by to let you know (by to let you know) I can never say it on the phone (say it on the phone) Will never let you go this time (ooh) I said, ooh, I'm blinded by the lights",
+      "valence": 2.6,
+      "arousal": 3.54,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I can never say it on the phone (say it on the phone) Will never let you go this time (ooh) I said, ooh, I'm blinded by the lights No, I can't sleep until I feel your touch",
+      "valence": 2.94,
+      "arousal": 3.83,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Will never let you go this time (ooh) I said, ooh, I'm blinded by the lights No, I can't sleep until I feel your touch (Hey, hey, hey)",
+      "valence": 3.01,
+      "arousal": 3.77,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I said, ooh, I'm blinded by the lights No, I can't sleep until I feel your touch (Hey, hey, hey) I said, ooh, I'm blinded by the lights",
+      "valence": 2.81,
+      "arousal": 3.71,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "No, I can't sleep until I feel your touch (Hey, hey, hey) I said, ooh, I'm blinded by the lights No, I can't sleep until I feel your touch",
+      "valence": 2.99,
+      "arousal": 3.85,
+      "dominance": 3.14
+    }
+  ]
+}

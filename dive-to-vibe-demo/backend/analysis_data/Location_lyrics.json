@@ -1,0 +1,346 @@
+{
+  "artist": "Khalid",
+  "overall_vad": {
+    "valence": 3.06,
+    "arousal": 3.31,
+    "dominance": 3.38
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Send me your location Let's focus on communicating 'Cause I just need the time and place to come through (Place to come through)",
+      "valence": 3.06,
+      "arousal": 3.08,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Let's focus on communicating 'Cause I just need the time and place to come through (Place to come through) Send me your location",
+      "valence": 3.09,
+      "arousal": 3.08,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "'Cause I just need the time and place to come through (Place to come through) Send me your location Let's ride the vibrations",
+      "valence": 3.22,
+      "arousal": 3.2,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "(Place to come through) Send me your location Let's ride the vibrations I don't need nothing else but you",
+      "valence": 3.18,
+      "arousal": 3.21,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Send me your location Let's ride the vibrations I don't need nothing else but you (I don't need nothing else but you)",
+      "valence": 3.13,
+      "arousal": 3.24,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Let's ride the vibrations I don't need nothing else but you (I don't need nothing else but you) At times I wonder why I fool with you",
+      "valence": 2.88,
+      "arousal": 3.27,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I don't need nothing else but you (I don't need nothing else but you) At times I wonder why I fool with you But this is new to me, this is new to you",
+      "valence": 2.59,
+      "arousal": 3.37,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "(I don't need nothing else but you) At times I wonder why I fool with you But this is new to me, this is new to you Initially, I didn't wanna fall for you",
+      "valence": 2.54,
+      "arousal": 3.38,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "At times I wonder why I fool with you But this is new to me, this is new to you Initially, I didn't wanna fall for you Gather my attention it was all for you, so don't",
+      "valence": 2.72,
+      "arousal": 3.39,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "But this is new to me, this is new to you Initially, I didn't wanna fall for you Gather my attention it was all for you, so don't Take advantage, don't leave my heart damaged",
+      "valence": 2.78,
+      "arousal": 3.55,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Initially, I didn't wanna fall for you Gather my attention it was all for you, so don't Take advantage, don't leave my heart damaged To understand that things go a little bit better when you plan it, oh",
+      "valence": 2.66,
+      "arousal": 3.36,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Gather my attention it was all for you, so don't Take advantage, don't leave my heart damaged To understand that things go a little bit better when you plan it, oh So won't you send me your location",
+      "valence": 2.82,
+      "arousal": 3.32,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Take advantage, don't leave my heart damaged To understand that things go a little bit better when you plan it, oh So won't you send me your location Let's focus on communicating",
+      "valence": 2.98,
+      "arousal": 3.22,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "To understand that things go a little bit better when you plan it, oh So won't you send me your location Let's focus on communicating 'Cause I just need the time and place to come through",
+      "valence": 3.02,
+      "arousal": 2.97,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "So won't you send me your location Let's focus on communicating 'Cause I just need the time and place to come through Send me your location",
+      "valence": 3.0,
+      "arousal": 3.12,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Let's focus on communicating 'Cause I just need the time and place to come through Send me your location Let's ride the vibrations",
+      "valence": 3.28,
+      "arousal": 3.2,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "'Cause I just need the time and place to come through Send me your location Let's ride the vibrations I don't need nothing else but you",
+      "valence": 3.11,
+      "arousal": 3.16,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Send me your location Let's ride the vibrations I don't need nothing else but you (I don't need nothing else but you)",
+      "valence": 3.13,
+      "arousal": 3.24,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Let's ride the vibrations I don't need nothing else but you (I don't need nothing else but you) I don't wanna fall in love off of subtweets, so",
+      "valence": 3.08,
+      "arousal": 3.25,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I don't need nothing else but you (I don't need nothing else but you) I don't wanna fall in love off of subtweets, so Let's get personal",
+      "valence": 2.69,
+      "arousal": 3.42,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "(I don't need nothing else but you) I don't wanna fall in love off of subtweets, so Let's get personal I got a lot of cool spots that we can go",
+      "valence": 3.06,
+      "arousal": 3.28,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I don't wanna fall in love off of subtweets, so Let's get personal I got a lot of cool spots that we can go Tell me what's the move and I got you",
+      "valence": 3.08,
+      "arousal": 3.33,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Let's get personal I got a lot of cool spots that we can go Tell me what's the move and I got you I'm only acting like this 'cause I like you, oh",
+      "valence": 3.33,
+      "arousal": 3.57,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I got a lot of cool spots that we can go Tell me what's the move and I got you I'm only acting like this 'cause I like you, oh Just give me the vibe to slide then",
+      "valence": 3.45,
+      "arousal": 3.57,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Tell me what's the move and I got you I'm only acting like this 'cause I like you, oh Just give me the vibe to slide then Oh, I might make you mine by the night, and",
+      "valence": 3.33,
+      "arousal": 3.53,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I'm only acting like this 'cause I like you, oh Just give me the vibe to slide then Oh, I might make you mine by the night, and Send me your location",
+      "valence": 3.47,
+      "arousal": 3.47,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Just give me the vibe to slide then Oh, I might make you mine by the night, and Send me your location Let's focus on communicating",
+      "valence": 3.34,
+      "arousal": 3.24,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Oh, I might make you mine by the night, and Send me your location Let's focus on communicating 'Cause I just need the time and place to come through",
+      "valence": 3.16,
+      "arousal": 3.15,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Send me your location Let's focus on communicating 'Cause I just need the time and place to come through (Place to come through)",
+      "valence": 3.06,
+      "arousal": 3.08,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Let's focus on communicating 'Cause I just need the time and place to come through (Place to come through) Send me your location",
+      "valence": 3.09,
+      "arousal": 3.08,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "'Cause I just need the time and place to come through (Place to come through) Send me your location Let's ride the vibrations",
+      "valence": 3.22,
+      "arousal": 3.2,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "(Place to come through) Send me your location Let's ride the vibrations I don't need nothing else but you",
+      "valence": 3.18,
+      "arousal": 3.21,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Send me your location Let's ride the vibrations I don't need nothing else but you (I don't need nothing else but you)",
+      "valence": 3.13,
+      "arousal": 3.24,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Let's ride the vibrations I don't need nothing else but you (I don't need nothing else but you) Ride, ride, ride",
+      "valence": 3.18,
+      "arousal": 3.34,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I don't need nothing else but you (I don't need nothing else but you) Ride, ride, ride Come and vibe with me tonight",
+      "valence": 3.13,
+      "arousal": 3.49,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "(I don't need nothing else but you) Ride, ride, ride Come and vibe with me tonight I don't need nothing else but you",
+      "valence": 3.15,
+      "arousal": 3.48,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Ride, ride, ride Come and vibe with me tonight I don't need nothing else but you (I don't need nothing else but you)",
+      "valence": 3.26,
+      "arousal": 3.52,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Come and vibe with me tonight I don't need nothing else but you (I don't need nothing else but you) Ride, ride, ride",
+      "valence": 3.22,
+      "arousal": 3.46,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I don't need nothing else but you (I don't need nothing else but you) Ride, ride, ride Come and vibe with me tonight",
+      "valence": 3.13,
+      "arousal": 3.49,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "(I don't need nothing else but you) Ride, ride, ride Come and vibe with me tonight I don't need nothing else but you",
+      "valence": 3.15,
+      "arousal": 3.48,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Ride, ride, ride Come and vibe with me tonight I don't need nothing else but you Nothing else but you, oh",
+      "valence": 3.15,
+      "arousal": 3.47,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Come and vibe with me tonight I don't need nothing else but you Nothing else but you, oh Do, do, do, do, do, do",
+      "valence": 3.11,
+      "arousal": 3.39,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I don't need nothing else but you Nothing else but you, oh Do, do, do, do, do, do Oh, oh, mmm, mmm, mmm, mmm",
+      "valence": 2.81,
+      "arousal": 3.25,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Nothing else but you, oh Do, do, do, do, do, do Oh, oh, mmm, mmm, mmm, mmm Oh, oh, oh",
+      "valence": 2.84,
+      "arousal": 3.17,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Do, do, do, do, do, do Oh, oh, mmm, mmm, mmm, mmm Oh, oh, oh Oh, oh, oh, mmm, mmm, mmm",
+      "valence": 3.07,
+      "arousal": 3.25,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Oh, oh, mmm, mmm, mmm, mmm Oh, oh, oh Oh, oh, oh, mmm, mmm, mmm Do, do, do, do, do, do, do",
+      "valence": 3.02,
+      "arousal": 3.37,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Oh, oh, oh Oh, oh, oh, mmm, mmm, mmm Do, do, do, do, do, do, do Do, do, do, do, do, do, do",
+      "valence": 2.98,
+      "arousal": 3.43,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Oh, oh, oh, mmm, mmm, mmm Do, do, do, do, do, do, do Do, do, do, do, do, do, do Oh, I don't need nothing else but you",
+      "valence": 3.02,
+      "arousal": 3.4,
+      "dominance": 3.22
+    }
+  ]
+}

@@ -1,0 +1,416 @@
+{
+  "artist": "Drake",
+  "overall_vad": {
+    "valence": 2.7,
+    "arousal": 3.41,
+    "dominance": 3.1
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "If I come around you, can I be myself? Wind up in the mirror just to see yourself If I was in your shoes, I would hate myself Left all this behind to be with someone else, oh",
+      "valence": 2.6,
+      "arousal": 3.43,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Wind up in the mirror just to see yourself If I was in your shoes, I would hate myself Left all this behind to be with someone else, oh Why should I fake it anymore?",
+      "valence": 2.49,
+      "arousal": 3.59,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "If I was in your shoes, I would hate myself Left all this behind to be with someone else, oh Why should I fake it anymore? If I firm the ting and work that, can you take it anymore?",
+      "valence": 2.44,
+      "arousal": 3.66,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Left all this behind to be with someone else, oh Why should I fake it anymore? If I firm the ting and work that, can you take it anymore? This time I have left cannot be wasted anymore",
+      "valence": 2.53,
+      "arousal": 3.53,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Why should I fake it anymore? If I firm the ting and work that, can you take it anymore? This time I have left cannot be wasted anymore You realize it now and you miss it",
+      "valence": 2.65,
+      "arousal": 3.43,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "If I firm the ting and work that, can you take it anymore? This time I have left cannot be wasted anymore You realize it now and you miss it Texts go green, it hits a little different, don't it?",
+      "valence": 2.66,
+      "arousal": 3.37,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "This time I have left cannot be wasted anymore You realize it now and you miss it Texts go green, it hits a little different, don't it? Know you miss the days when I was grippin' on it",
+      "valence": 2.76,
+      "arousal": 3.31,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "You realize it now and you miss it Texts go green, it hits a little different, don't it? Know you miss the days when I was grippin' on it Know you're in the house tonight just thinkin' on it",
+      "valence": 2.96,
+      "arousal": 3.18,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Texts go green, it hits a little different, don't it? Know you miss the days when I was grippin' on it Know you're in the house tonight just thinkin' on it I moved on so long ago",
+      "valence": 2.92,
+      "arousal": 3.1,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Know you miss the days when I was grippin' on it Know you're in the house tonight just thinkin' on it I moved on so long ago I moved on so long ago",
+      "valence": 2.6,
+      "arousal": 3.2,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Know you're in the house tonight just thinkin' on it I moved on so long ago I moved on so long ago You're still thinkin' 'bout me, though, oh",
+      "valence": 2.9,
+      "arousal": 3.18,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I moved on so long ago I moved on so long ago You're still thinkin' 'bout me, though, oh I'm still tryna make sense of it all",
+      "valence": 2.59,
+      "arousal": 3.3,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I moved on so long ago You're still thinkin' 'bout me, though, oh I'm still tryna make sense of it all You're still sayin' things to keep me involved",
+      "valence": 2.83,
+      "arousal": 3.24,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "You're still thinkin' 'bout me, though, oh I'm still tryna make sense of it all You're still sayin' things to keep me involved Supposed to let me know how you feel, now what to do?",
+      "valence": 2.8,
+      "arousal": 3.42,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I'm still tryna make sense of it all You're still sayin' things to keep me involved Supposed to let me know how you feel, now what to do? It shouldn't take a text from me to speak your truth",
+      "valence": 2.82,
+      "arousal": 3.53,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "You're still sayin' things to keep me involved Supposed to let me know how you feel, now what to do? It shouldn't take a text from me to speak your truth Rough",
+      "valence": 2.88,
+      "arousal": 3.44,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Supposed to let me know how you feel, now what to do? It shouldn't take a text from me to speak your truth Rough You're dealing with me rough",
+      "valence": 2.44,
+      "arousal": 3.82,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "It shouldn't take a text from me to speak your truth Rough You're dealing with me rough I know you like it rough",
+      "valence": 2.5,
+      "arousal": 3.62,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Rough You're dealing with me rough I know you like it rough But this might be too much",
+      "valence": 2.55,
+      "arousal": 3.45,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "You're dealing with me rough I know you like it rough But this might be too much You're dealing with me rough",
+      "valence": 2.32,
+      "arousal": 3.55,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I know you like it rough But this might be too much You're dealing with me rough I know you like it rough",
+      "valence": 2.87,
+      "arousal": 3.4,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "But this might be too much You're dealing with me rough I know you like it rough But this might be too much",
+      "valence": 2.49,
+      "arousal": 3.55,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "You're dealing with me rough I know you like it rough But this might be too much But this might be too much for me",
+      "valence": 2.49,
+      "arousal": 3.55,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I know you like it rough But this might be too much But this might be too much for me Dodging girls on the scene and girls from my dreams",
+      "valence": 3.0,
+      "arousal": 3.45,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "But this might be too much But this might be too much for me Dodging girls on the scene and girls from my dreams Well, don't wanna make something from nothing, that's where I be",
+      "valence": 2.71,
+      "arousal": 3.31,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "But this might be too much for me Dodging girls on the scene and girls from my dreams Well, don't wanna make something from nothing, that's where I be Well, keep getting nothing for something, how's that fair to me?",
+      "valence": 2.57,
+      "arousal": 3.29,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Dodging girls on the scene and girls from my dreams Well, don't wanna make something from nothing, that's where I be Well, keep getting nothing for something, how's that fair to me? I'm thinking something for something, that's what I need",
+      "valence": 2.73,
+      "arousal": 3.25,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Well, don't wanna make something from nothing, that's where I be Well, keep getting nothing for something, how's that fair to me? I'm thinking something for something, that's what I need I'm too behind in a race to rush for my lead",
+      "valence": 2.73,
+      "arousal": 3.22,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Well, keep getting nothing for something, how's that fair to me? I'm thinking something for something, that's what I need I'm too behind in a race to rush for my lead I'm not rushing you, trust me, I'm",
+      "valence": 2.71,
+      "arousal": 3.4,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I'm thinking something for something, that's what I need I'm too behind in a race to rush for my lead I'm not rushing you, trust me, I'm I'm the last person that needs to rush anything, wait",
+      "valence": 3.01,
+      "arousal": 3.41,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I'm too behind in a race to rush for my lead I'm not rushing you, trust me, I'm I'm the last person that needs to rush anything, wait I feel like everything these days leads to nothing, wait",
+      "valence": 2.66,
+      "arousal": 3.47,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I'm not rushing you, trust me, I'm I'm the last person that needs to rush anything, wait I feel like everything these days leads to nothing, wait I feel like everything these days leads to nothing",
+      "valence": 2.6,
+      "arousal": 3.44,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I'm the last person that needs to rush anything, wait I feel like everything these days leads to nothing, wait I feel like everything these days leads to nothing It's clear that we all get lonely, then you call me",
+      "valence": 2.46,
+      "arousal": 3.4,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I feel like everything these days leads to nothing, wait I feel like everything these days leads to nothing It's clear that we all get lonely, then you call me All I needed from you was to",
+      "valence": 2.44,
+      "arousal": 3.3,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I feel like everything these days leads to nothing It's clear that we all get lonely, then you call me All I needed from you was to Hold me down when things aren't working",
+      "valence": 2.5,
+      "arousal": 3.38,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "It's clear that we all get lonely, then you call me All I needed from you was to Hold me down when things aren't working For some reason, I believed in you, oh",
+      "valence": 2.83,
+      "arousal": 3.39,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "All I needed from you was to Hold me down when things aren't working For some reason, I believed in you, oh Texts go green, it hits a little different, don't it?",
+      "valence": 2.77,
+      "arousal": 3.38,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Hold me down when things aren't working For some reason, I believed in you, oh Texts go green, it hits a little different, don't it? Know you miss the days when I was grippin' on it",
+      "valence": 2.67,
+      "arousal": 3.29,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "For some reason, I believed in you, oh Texts go green, it hits a little different, don't it? Know you miss the days when I was grippin' on it Know you're in the house tonight just thinkin' on it",
+      "valence": 3.02,
+      "arousal": 3.24,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Texts go green, it hits a little different, don't it? Know you miss the days when I was grippin' on it Know you're in the house tonight just thinkin' on it I moved on so long ago",
+      "valence": 2.92,
+      "arousal": 3.1,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Know you miss the days when I was grippin' on it Know you're in the house tonight just thinkin' on it I moved on so long ago So long ago",
+      "valence": 2.67,
+      "arousal": 3.16,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Know you're in the house tonight just thinkin' on it I moved on so long ago So long ago I can't even remember when we lost each other",
+      "valence": 2.82,
+      "arousal": 3.31,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I moved on so long ago So long ago I can't even remember when we lost each other Was it last year, this year, or some other?",
+      "valence": 2.66,
+      "arousal": 3.14,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "So long ago I can't even remember when we lost each other Was it last year, this year, or some other? Been so long since you said things that cover up the lies",
+      "valence": 2.68,
+      "arousal": 3.25,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I can't even remember when we lost each other Was it last year, this year, or some other? Been so long since you said things that cover up the lies We can do it this time",
+      "valence": 2.86,
+      "arousal": 3.36,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Was it last year, this year, or some other? Been so long since you said things that cover up the lies We can do it this time Just have some faith, we can do it this time",
+      "valence": 3.2,
+      "arousal": 3.29,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Been so long since you said things that cover up the lies We can do it this time Just have some faith, we can do it this time Your favorite thing to say, \"We can do it this time\"",
+      "valence": 3.56,
+      "arousal": 3.44,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "We can do it this time Just have some faith, we can do it this time Your favorite thing to say, \"We can do it this time\" Just have some faith, we can do it this time",
+      "valence": 3.62,
+      "arousal": 3.37,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Just have some faith, we can do it this time Your favorite thing to say, \"We can do it this time\" Just have some faith, we can do it this time Been dealing with me rough",
+      "valence": 3.49,
+      "arousal": 3.36,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Your favorite thing to say, \"We can do it this time\" Just have some faith, we can do it this time Been dealing with me rough You're dealing with me rough",
+      "valence": 3.24,
+      "arousal": 3.45,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Just have some faith, we can do it this time Been dealing with me rough You're dealing with me rough You're dealing with me rough",
+      "valence": 2.96,
+      "arousal": 3.53,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Been dealing with me rough You're dealing with me rough You're dealing with me rough You're dealing with me rough",
+      "valence": 2.16,
+      "arousal": 3.61,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "You're dealing with me rough You're dealing with me rough You're dealing with me rough You're dealing with me rough",
+      "valence": 2.17,
+      "arousal": 3.65,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "You're dealing with me rough You're dealing with me rough You're dealing with me rough You're dealing with me rough",
+      "valence": 2.17,
+      "arousal": 3.65,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "You're dealing with me rough You're dealing with me rough You're dealing with me rough You're dealing with me rough",
+      "valence": 2.17,
+      "arousal": 3.65,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "You're dealing with me rough You're dealing with me rough You're dealing with me rough You're dealing with me rough",
+      "valence": 2.17,
+      "arousal": 3.65,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "You're dealing with me rough You're dealing with me rough You're dealing with me rough You're dealing with me",
+      "valence": 2.16,
+      "arousal": 3.71,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "You're dealing with me rough You're dealing with me rough You're dealing with me Oh",
+      "valence": 2.16,
+      "arousal": 3.76,
+      "dominance": 3.2
+    }
+  ]
+}

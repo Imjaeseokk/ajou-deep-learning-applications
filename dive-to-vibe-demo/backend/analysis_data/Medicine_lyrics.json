@@ -1,0 +1,423 @@
+{
+  "artist": "Queen Naija",
+  "overall_vad": {
+    "valence": 2.66,
+    "arousal": 3.51,
+    "dominance": 3.26
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "You tell me you love me But I ain't been feeling it lately You say you love keeping me fly but Can't keep me from looking' so crazy",
+      "valence": 2.8,
+      "arousal": 3.55,
+      "dominance": 2.7
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "But I ain't been feeling it lately You say you love keeping me fly but Can't keep me from looking' so crazy Come in at six in the mornin'",
+      "valence": 2.62,
+      "arousal": 3.31,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "You say you love keeping me fly but Can't keep me from looking' so crazy Come in at six in the mornin' Where you been, where you been?",
+      "valence": 3.01,
+      "arousal": 3.52,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Can't keep me from looking' so crazy Come in at six in the mornin' Where you been, where you been? Who is that texting your phone?",
+      "valence": 2.61,
+      "arousal": 3.74,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Come in at six in the mornin' Where you been, where you been? Who is that texting your phone? Just a friend, just a friend (okay)",
+      "valence": 3.06,
+      "arousal": 3.34,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Where you been, where you been? Who is that texting your phone? Just a friend, just a friend (okay) My intuition never lies",
+      "valence": 3.1,
+      "arousal": 3.29,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Who is that texting your phone? Just a friend, just a friend (okay) My intuition never lies There's nothing you can ever hide",
+      "valence": 3.12,
+      "arousal": 3.26,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Just a friend, just a friend (okay) My intuition never lies There's nothing you can ever hide Already got the screenshots",
+      "valence": 3.16,
+      "arousal": 3.1,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "My intuition never lies There's nothing you can ever hide Already got the screenshots So there is no need to deny",
+      "valence": 3.11,
+      "arousal": 3.12,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "There's nothing you can ever hide Already got the screenshots So there is no need to deny You been creepin' and freakin' and sneakin'",
+      "valence": 2.79,
+      "arousal": 3.4,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Already got the screenshots So there is no need to deny You been creepin' and freakin' and sneakin' Like you'll never lose me",
+      "valence": 2.74,
+      "arousal": 3.55,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "So there is no need to deny You been creepin' and freakin' and sneakin' Like you'll never lose me Steady claiming that everyone know we together",
+      "valence": 2.56,
+      "arousal": 3.47,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "You been creepin' and freakin' and sneakin' Like you'll never lose me Steady claiming that everyone know we together But you steady choosing",
+      "valence": 2.32,
+      "arousal": 3.62,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Like you'll never lose me Steady claiming that everyone know we together But you steady choosing Swear I cannot win for losing",
+      "valence": 2.59,
+      "arousal": 3.24,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Steady claiming that everyone know we together But you steady choosing Swear I cannot win for losing I been out here being faithful",
+      "valence": 2.86,
+      "arousal": 3.06,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "But you steady choosing Swear I cannot win for losing I been out here being faithful I always got this on lockdown",
+      "valence": 2.64,
+      "arousal": 3.2,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Swear I cannot win for losing I been out here being faithful I always got this on lockdown But that ain't been keeping us stable",
+      "valence": 2.42,
+      "arousal": 3.17,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I been out here being faithful I always got this on lockdown But that ain't been keeping us stable So I guess I know what I gotta do",
+      "valence": 2.63,
+      "arousal": 3.15,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I always got this on lockdown But that ain't been keeping us stable So I guess I know what I gotta do Give you a taste of your own medicine (hey, yeah)",
+      "valence": 2.61,
+      "arousal": 3.26,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "But that ain't been keeping us stable So I guess I know what I gotta do Give you a taste of your own medicine (hey, yeah) How would you like it if I do the things you do",
+      "valence": 2.86,
+      "arousal": 3.25,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "So I guess I know what I gotta do Give you a taste of your own medicine (hey, yeah) How would you like it if I do the things you do Put you on do not disturb and entertain these dudes",
+      "valence": 2.91,
+      "arousal": 3.36,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Give you a taste of your own medicine (hey, yeah) How would you like it if I do the things you do Put you on do not disturb and entertain these dudes I'ma ride him crazy and you'll never have a clue",
+      "valence": 2.68,
+      "arousal": 3.51,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "How would you like it if I do the things you do Put you on do not disturb and entertain these dudes I'ma ride him crazy and you'll never have a clue Give another guy everything that belongs to you",
+      "valence": 2.64,
+      "arousal": 3.59,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Put you on do not disturb and entertain these dudes I'ma ride him crazy and you'll never have a clue Give another guy everything that belongs to you I'ma call up Brian, I'ma FaceTime Ryan",
+      "valence": 2.76,
+      "arousal": 3.56,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I'ma ride him crazy and you'll never have a clue Give another guy everything that belongs to you I'ma call up Brian, I'ma FaceTime Ryan I'ma text Lorenzo and I'ma leave you cryin'",
+      "valence": 2.56,
+      "arousal": 3.97,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Give another guy everything that belongs to you I'ma call up Brian, I'ma FaceTime Ryan I'ma text Lorenzo and I'ma leave you cryin' Don't get it twisted I can play this game too",
+      "valence": 2.69,
+      "arousal": 3.85,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I'ma call up Brian, I'ma FaceTime Ryan I'ma text Lorenzo and I'ma leave you cryin' Don't get it twisted I can play this game too How would you like it if I did the same to you, same to you, yeah?",
+      "valence": 2.75,
+      "arousal": 3.65,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I'ma text Lorenzo and I'ma leave you cryin' Don't get it twisted I can play this game too How would you like it if I did the same to you, same to you, yeah? You don't like it",
+      "valence": 2.3,
+      "arousal": 3.69,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Don't get it twisted I can play this game too How would you like it if I did the same to you, same to you, yeah? You don't like it Now you telling' me that I should fight it",
+      "valence": 2.68,
+      "arousal": 3.44,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "How would you like it if I did the same to you, same to you, yeah? You don't like it Now you telling' me that I should fight it Why you be out here playing the victim",
+      "valence": 2.51,
+      "arousal": 3.49,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "You don't like it Now you telling' me that I should fight it Why you be out here playing the victim When I am the one who been cryin'?",
+      "valence": 2.3,
+      "arousal": 3.6,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Now you telling' me that I should fight it Why you be out here playing the victim When I am the one who been cryin'? Why dish it out but can't take it?",
+      "valence": 2.42,
+      "arousal": 3.62,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Why you be out here playing the victim When I am the one who been cryin'? Why dish it out but can't take it? I want revenge, I can't fake it",
+      "valence": 2.42,
+      "arousal": 3.63,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "When I am the one who been cryin'? Why dish it out but can't take it? I want revenge, I can't fake it Wanna see the look on your face",
+      "valence": 2.57,
+      "arousal": 3.62,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Why dish it out but can't take it? I want revenge, I can't fake it Wanna see the look on your face When I drop my clothes and I get naked",
+      "valence": 2.66,
+      "arousal": 3.82,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I want revenge, I can't fake it Wanna see the look on your face When I drop my clothes and I get naked Not for you, but for him",
+      "valence": 2.81,
+      "arousal": 3.97,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Wanna see the look on your face When I drop my clothes and I get naked Not for you, but for him Now tell me player, how does that make you feel?",
+      "valence": 3.05,
+      "arousal": 3.51,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "When I drop my clothes and I get naked Not for you, but for him Now tell me player, how does that make you feel? How could you play me when the love I gave was real?",
+      "valence": 3.04,
+      "arousal": 3.56,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Not for you, but for him Now tell me player, how does that make you feel? How could you play me when the love I gave was real? I even took you back and you still had no chill (no)",
+      "valence": 2.94,
+      "arousal": 3.58,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Now tell me player, how does that make you feel? How could you play me when the love I gave was real? I even took you back and you still had no chill (no) Boy you ain't gon' ever learn",
+      "valence": 2.81,
+      "arousal": 3.59,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "How could you play me when the love I gave was real? I even took you back and you still had no chill (no) Boy you ain't gon' ever learn Play with fire you get burned",
+      "valence": 2.67,
+      "arousal": 3.5,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "I even took you back and you still had no chill (no) Boy you ain't gon' ever learn Play with fire you get burned I don't think you'll understand",
+      "valence": 2.35,
+      "arousal": 3.35,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Boy you ain't gon' ever learn Play with fire you get burned I don't think you'll understand 'Til I hit you where it hurts (hit you where it hurts)",
+      "valence": 2.0,
+      "arousal": 3.6,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Play with fire you get burned I don't think you'll understand 'Til I hit you where it hurts (hit you where it hurts) So I guess I know what I gotta do",
+      "valence": 2.13,
+      "arousal": 3.54,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I don't think you'll understand 'Til I hit you where it hurts (hit you where it hurts) So I guess I know what I gotta do Give you a taste of your own medicine, hey yeah",
+      "valence": 2.25,
+      "arousal": 3.59,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "'Til I hit you where it hurts (hit you where it hurts) So I guess I know what I gotta do Give you a taste of your own medicine, hey yeah How would you like it if I do the things you do (do the things you do)",
+      "valence": 2.54,
+      "arousal": 3.7,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "So I guess I know what I gotta do Give you a taste of your own medicine, hey yeah How would you like it if I do the things you do (do the things you do) Put you on do not disturb and entertain these dudes (entertain these dudes)",
+      "valence": 2.96,
+      "arousal": 3.36,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Give you a taste of your own medicine, hey yeah How would you like it if I do the things you do (do the things you do) Put you on do not disturb and entertain these dudes (entertain these dudes) I'ma ride him crazy and you'll never have a clue",
+      "valence": 2.86,
+      "arousal": 3.55,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "How would you like it if I do the things you do (do the things you do) Put you on do not disturb and entertain these dudes (entertain these dudes) I'ma ride him crazy and you'll never have a clue Give another guy everything that belongs to you (that belongs to you)",
+      "valence": 2.75,
+      "arousal": 3.6,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Put you on do not disturb and entertain these dudes (entertain these dudes) I'ma ride him crazy and you'll never have a clue Give another guy everything that belongs to you (that belongs to you) I'ma call up Brian, I'ma FaceTime Ryan",
+      "valence": 2.92,
+      "arousal": 3.56,
+      "dominance": 3.74
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I'ma ride him crazy and you'll never have a clue Give another guy everything that belongs to you (that belongs to you) I'ma call up Brian, I'ma FaceTime Ryan I'ma text Lorenzo, and I'ma leave you cryin'",
+      "valence": 2.52,
+      "arousal": 3.93,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Give another guy everything that belongs to you (that belongs to you) I'ma call up Brian, I'ma FaceTime Ryan I'ma text Lorenzo, and I'ma leave you cryin' Don't get it twisted I can play this game too",
+      "valence": 2.8,
+      "arousal": 3.83,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "I'ma call up Brian, I'ma FaceTime Ryan I'ma text Lorenzo, and I'ma leave you cryin' Don't get it twisted I can play this game too How would you like it if I did the same to you, same to you, yeah?",
+      "valence": 2.76,
+      "arousal": 3.6,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "I'ma text Lorenzo, and I'ma leave you cryin' Don't get it twisted I can play this game too How would you like it if I did the same to you, same to you, yeah? All of those tears I cried",
+      "valence": 2.41,
+      "arousal": 3.72,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Don't get it twisted I can play this game too How would you like it if I did the same to you, same to you, yeah? All of those tears I cried I can't count the lonely nights",
+      "valence": 2.63,
+      "arousal": 3.48,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "How would you like it if I did the same to you, same to you, yeah? All of those tears I cried I can't count the lonely nights Time and time again I've tried",
+      "valence": 2.51,
+      "arousal": 3.44,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "All of those tears I cried I can't count the lonely nights Time and time again I've tried So when I turn into a savage, boy, don't ask me why",
+      "valence": 2.07,
+      "arousal": 3.62,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "I can't count the lonely nights Time and time again I've tried So when I turn into a savage, boy, don't ask me why Ask me why, don't ask me why, yeah",
+      "valence": 2.27,
+      "arousal": 3.53,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Time and time again I've tried So when I turn into a savage, boy, don't ask me why Ask me why, don't ask me why, yeah Give you a taste of your own medicine",
+      "valence": 2.47,
+      "arousal": 3.49,
+      "dominance": 3.49
+    }
+  ]
+}

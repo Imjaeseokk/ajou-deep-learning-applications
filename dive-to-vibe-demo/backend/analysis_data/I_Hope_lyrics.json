@@ -1,0 +1,395 @@
+{
+  "artist": "Gabby Barrett Featuring Charlie Puth",
+  "overall_vad": {
+    "valence": 3.23,
+    "arousal": 3.6,
+    "dominance": 3.14
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I, I hope she makes you smile The way it made me smile On the other end of a phone In the middle of a highway driving alone",
+      "valence": 3.91,
+      "arousal": 3.59,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "The way it made me smile On the other end of a phone In the middle of a highway driving alone Oh baby I",
+      "valence": 3.81,
+      "arousal": 3.57,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "On the other end of a phone In the middle of a highway driving alone Oh baby I I hope you hear a song",
+      "valence": 3.25,
+      "arousal": 3.49,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "In the middle of a highway driving alone Oh baby I I hope you hear a song That makes you sing along and gets you thinking 'bout her",
+      "valence": 3.48,
+      "arousal": 3.52,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Oh baby I I hope you hear a song That makes you sing along and gets you thinking 'bout her Then the last several miles turns into a blur, yeah",
+      "valence": 3.48,
+      "arousal": 3.61,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I hope you hear a song That makes you sing along and gets you thinking 'bout her Then the last several miles turns into a blur, yeah I hope you both feel the sparks by the end of the drive",
+      "valence": 3.52,
+      "arousal": 3.64,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "That makes you sing along and gets you thinking 'bout her Then the last several miles turns into a blur, yeah I hope you both feel the sparks by the end of the drive I hope you know she's the one by the end of the night",
+      "valence": 3.43,
+      "arousal": 3.7,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Then the last several miles turns into a blur, yeah I hope you both feel the sparks by the end of the drive I hope you know she's the one by the end of the night I hope you never ever felt more free",
+      "valence": 3.4,
+      "arousal": 3.7,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I hope you both feel the sparks by the end of the drive I hope you know she's the one by the end of the night I hope you never ever felt more free Tell your friends that you're so happy",
+      "valence": 3.96,
+      "arousal": 3.73,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I hope you know she's the one by the end of the night I hope you never ever felt more free Tell your friends that you're so happy I hope she comes along and wrecks every one of your plans",
+      "valence": 3.56,
+      "arousal": 3.81,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I hope you never ever felt more free Tell your friends that you're so happy I hope she comes along and wrecks every one of your plans I hope you spend your last dime to put a rock on her hand",
+      "valence": 3.48,
+      "arousal": 3.81,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Tell your friends that you're so happy I hope she comes along and wrecks every one of your plans I hope you spend your last dime to put a rock on her hand I hope she's wilder than your wildest dreams",
+      "valence": 3.72,
+      "arousal": 3.86,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I hope she comes along and wrecks every one of your plans I hope you spend your last dime to put a rock on her hand I hope she's wilder than your wildest dreams She's everything you're ever gonna need",
+      "valence": 3.26,
+      "arousal": 3.8,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I hope you spend your last dime to put a rock on her hand I hope she's wilder than your wildest dreams She's everything you're ever gonna need And then I hope she cheats",
+      "valence": 2.95,
+      "arousal": 3.62,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I hope she's wilder than your wildest dreams She's everything you're ever gonna need And then I hope she cheats Like you did on me",
+      "valence": 2.92,
+      "arousal": 3.54,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "She's everything you're ever gonna need And then I hope she cheats Like you did on me And then I hope she cheats",
+      "valence": 2.6,
+      "arousal": 3.34,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "And then I hope she cheats Like you did on me And then I hope she cheats Like you did on me",
+      "valence": 2.41,
+      "arousal": 3.31,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Like you did on me And then I hope she cheats Like you did on me Yeah babe, I hope she",
+      "valence": 2.69,
+      "arousal": 3.44,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "And then I hope she cheats Like you did on me Yeah babe, I hope she Shows up in a 2AM pic from her friend",
+      "valence": 2.86,
+      "arousal": 3.59,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Like you did on me Yeah babe, I hope she Shows up in a 2AM pic from her friend Hanging on to a guy, and you just ain't him",
+      "valence": 3.12,
+      "arousal": 3.68,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Yeah babe, I hope she Shows up in a 2AM pic from her friend Hanging on to a guy, and you just ain't him I hope you stay up all night all alone waiting by the phone",
+      "valence": 3.08,
+      "arousal": 3.57,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Shows up in a 2AM pic from her friend Hanging on to a guy, and you just ain't him I hope you stay up all night all alone waiting by the phone And then she calls",
+      "valence": 2.61,
+      "arousal": 3.29,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Hanging on to a guy, and you just ain't him I hope you stay up all night all alone waiting by the phone And then she calls And baby I",
+      "valence": 2.61,
+      "arousal": 3.26,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I hope you stay up all night all alone waiting by the phone And then she calls And baby I I hope you work it out",
+      "valence": 3.21,
+      "arousal": 3.44,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "And then she calls And baby I I hope you work it out Forgive and just about forget",
+      "valence": 3.09,
+      "arousal": 3.42,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "And baby I I hope you work it out Forgive and just about forget And take her on a first date again",
+      "valence": 3.46,
+      "arousal": 3.58,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I hope you work it out Forgive and just about forget And take her on a first date again And when you lean in for a kiss",
+      "valence": 3.43,
+      "arousal": 3.62,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Forgive and just about forget And take her on a first date again And when you lean in for a kiss I hope you both feel the sparks by the end of the drive",
+      "valence": 3.55,
+      "arousal": 3.76,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "And take her on a first date again And when you lean in for a kiss I hope you both feel the sparks by the end of the drive I hope you know she's the one by the end of the night",
+      "valence": 3.7,
+      "arousal": 3.85,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "And when you lean in for a kiss I hope you both feel the sparks by the end of the drive I hope you know she's the one by the end of the night I hope you never ever felt more free",
+      "valence": 3.78,
+      "arousal": 3.82,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I hope you both feel the sparks by the end of the drive I hope you know she's the one by the end of the night I hope you never ever felt more free Tell your friends that you're so happy",
+      "valence": 3.96,
+      "arousal": 3.73,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I hope you know she's the one by the end of the night I hope you never ever felt more free Tell your friends that you're so happy I hope she comes along and wrecks every one of your plans",
+      "valence": 3.56,
+      "arousal": 3.81,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I hope you never ever felt more free Tell your friends that you're so happy I hope she comes along and wrecks every one of your plans I hope you spend your last dime to put a rock on her hand",
+      "valence": 3.48,
+      "arousal": 3.81,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Tell your friends that you're so happy I hope she comes along and wrecks every one of your plans I hope you spend your last dime to put a rock on her hand I hope she's wilder than your wildest dreams",
+      "valence": 3.72,
+      "arousal": 3.86,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I hope she comes along and wrecks every one of your plans I hope you spend your last dime to put a rock on her hand I hope she's wilder than your wildest dreams She's everything you're ever gonna need",
+      "valence": 3.26,
+      "arousal": 3.8,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I hope you spend your last dime to put a rock on her hand I hope she's wilder than your wildest dreams She's everything you're ever gonna need And then I hope she cheats",
+      "valence": 2.95,
+      "arousal": 3.62,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I hope she's wilder than your wildest dreams She's everything you're ever gonna need And then I hope she cheats Like you did on me",
+      "valence": 2.92,
+      "arousal": 3.54,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "She's everything you're ever gonna need And then I hope she cheats Like you did on me And then I hope she cheats",
+      "valence": 2.6,
+      "arousal": 3.34,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "And then I hope she cheats Like you did on me And then I hope she cheats Like you did on me",
+      "valence": 2.41,
+      "arousal": 3.31,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Like you did on me And then I hope she cheats Like you did on me I hope it goes, comes all the way around",
+      "valence": 2.59,
+      "arousal": 3.3,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "And then I hope she cheats Like you did on me I hope it goes, comes all the way around I hope she makes you feel the same way",
+      "valence": 2.76,
+      "arousal": 3.42,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Like you did on me I hope it goes, comes all the way around I hope she makes you feel the same way About her that I feel about you right now",
+      "valence": 3.18,
+      "arousal": 3.51,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I hope it goes, comes all the way around I hope she makes you feel the same way About her that I feel about you right now I hope you both feel the sparks by the end of the drive",
+      "valence": 3.48,
+      "arousal": 3.62,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I hope she makes you feel the same way About her that I feel about you right now I hope you both feel the sparks by the end of the drive I hope you know she's the one by the end of the night",
+      "valence": 3.44,
+      "arousal": 3.66,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "About her that I feel about you right now I hope you both feel the sparks by the end of the drive I hope you know she's the one by the end of the night I hope you never ever felt more free",
+      "valence": 3.49,
+      "arousal": 3.7,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I hope you both feel the sparks by the end of the drive I hope you know she's the one by the end of the night I hope you never ever felt more free Tell your friends that you're so happy",
+      "valence": 3.96,
+      "arousal": 3.73,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I hope you know she's the one by the end of the night I hope you never ever felt more free Tell your friends that you're so happy I hope she comes along and wrecks every one of your plans",
+      "valence": 3.56,
+      "arousal": 3.81,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I hope you never ever felt more free Tell your friends that you're so happy I hope she comes along and wrecks every one of your plans I hope you spend your last dime to put a rock on her hand",
+      "valence": 3.48,
+      "arousal": 3.81,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Tell your friends that you're so happy I hope she comes along and wrecks every one of your plans I hope you spend your last dime to put a rock on her hand I hope she's wilder than your wildest dreams",
+      "valence": 3.72,
+      "arousal": 3.86,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I hope she comes along and wrecks every one of your plans I hope you spend your last dime to put a rock on her hand I hope she's wilder than your wildest dreams She's everything you're ever gonna need",
+      "valence": 3.26,
+      "arousal": 3.8,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I hope you spend your last dime to put a rock on her hand I hope she's wilder than your wildest dreams She's everything you're ever gonna need And then I hope she cheats",
+      "valence": 2.95,
+      "arousal": 3.62,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "I hope she's wilder than your wildest dreams She's everything you're ever gonna need And then I hope she cheats Like you did on me",
+      "valence": 2.92,
+      "arousal": 3.54,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "She's everything you're ever gonna need And then I hope she cheats Like you did on me And then I hope she cheats",
+      "valence": 2.6,
+      "arousal": 3.34,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "And then I hope she cheats Like you did on me And then I hope she cheats Like you did on me",
+      "valence": 2.41,
+      "arousal": 3.31,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Like you did on me And then I hope she cheats Like you did on me Like you did on me",
+      "valence": 2.41,
+      "arousal": 3.31,
+      "dominance": 2.96
+    }
+  ]
+}

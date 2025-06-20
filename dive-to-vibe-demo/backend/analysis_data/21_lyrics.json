@@ -1,0 +1,325 @@
+{
+  "artist": "Polo G",
+  "overall_vad": {
+    "valence": 2.75,
+    "arousal": 3.4,
+    "dominance": 3.37
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Decorate your block with red tape, foenem slidin' every day Bunch of hollows spittin' out the Glock I been servin' fiends all day, out there posted with the gang Nigga, we was taught to get it off the block",
+      "valence": 2.65,
+      "arousal": 3.2,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Bunch of hollows spittin' out the Glock I been servin' fiends all day, out there posted with the gang Nigga, we was taught to get it off the block It's a hunnid bands in the safe, now I got expensive taste",
+      "valence": 2.56,
+      "arousal": 3.3,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I been servin' fiends all day, out there posted with the gang Nigga, we was taught to get it off the block It's a hunnid bands in the safe, now I got expensive taste Mike Amiri jeans, fill 'em up with knots",
+      "valence": 2.57,
+      "arousal": 3.27,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Nigga, we was taught to get it off the block It's a hunnid bands in the safe, now I got expensive taste Mike Amiri jeans, fill 'em up with knots I been on my grind every day, don't believe in takin' breaks",
+      "valence": 2.78,
+      "arousal": 3.17,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "It's a hunnid bands in the safe, now I got expensive taste Mike Amiri jeans, fill 'em up with knots I been on my grind every day, don't believe in takin' breaks I ain't stoppin' 'til we chillin' at the top",
+      "valence": 2.92,
+      "arousal": 3.28,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Mike Amiri jeans, fill 'em up with knots I been on my grind every day, don't believe in takin' breaks I ain't stoppin' 'til we chillin' at the top Swervin' on the E-way, don't care if I crash in this coupe",
+      "valence": 2.82,
+      "arousal": 3.26,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I been on my grind every day, don't believe in takin' breaks I ain't stoppin' 'til we chillin' at the top Swervin' on the E-way, don't care if I crash in this coupe Shit I'm thinkin' 'bout too real, might lose my mind in this coupe",
+      "valence": 2.52,
+      "arousal": 3.37,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I ain't stoppin' 'til we chillin' at the top Swervin' on the E-way, don't care if I crash in this coupe Shit I'm thinkin' 'bout too real, might lose my mind in this coupe Can't relapse off these drugs, man, R.I.P. to Juice",
+      "valence": 2.52,
+      "arousal": 3.34,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Swervin' on the E-way, don't care if I crash in this coupe Shit I'm thinkin' 'bout too real, might lose my mind in this coupe Can't relapse off these drugs, man, R.I.P. to Juice We was tweakin' off them Percs, I popped my last one with you",
+      "valence": 2.58,
+      "arousal": 3.43,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Shit I'm thinkin' 'bout too real, might lose my mind in this coupe Can't relapse off these drugs, man, R.I.P. to Juice We was tweakin' off them Percs, I popped my last one with you Bond tight with my day ones, ain't tryna find no recruits",
+      "valence": 2.58,
+      "arousal": 3.47,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Can't relapse off these drugs, man, R.I.P. to Juice We was tweakin' off them Percs, I popped my last one with you Bond tight with my day ones, ain't tryna find no recruits We was playin' give and take on that front line with my troops",
+      "valence": 3.01,
+      "arousal": 3.3,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "We was tweakin' off them Percs, I popped my last one with you Bond tight with my day ones, ain't tryna find no recruits We was playin' give and take on that front line with my troops Ayy, like who want smoke? We got plenty guns",
+      "valence": 3.13,
+      "arousal": 3.3,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Bond tight with my day ones, ain't tryna find no recruits We was playin' give and take on that front line with my troops Ayy, like who want smoke? We got plenty guns Keep two lil' savages on X and they gon' get it done",
+      "valence": 2.99,
+      "arousal": 3.36,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "We was playin' give and take on that front line with my troops Ayy, like who want smoke? We got plenty guns Keep two lil' savages on X and they gon' get it done And them hollow tips do surgery, they gon' clip his lungs",
+      "valence": 2.69,
+      "arousal": 3.47,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Ayy, like who want smoke? We got plenty guns Keep two lil' savages on X and they gon' get it done And them hollow tips do surgery, they gon' clip his lungs It was goin' down on the set, that's when this shit was fun",
+      "valence": 3.01,
+      "arousal": 3.7,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Keep two lil' savages on X and they gon' get it done And them hollow tips do surgery, they gon' clip his lungs It was goin' down on the set, that's when this shit was fun I just been ballin' on these niggas like I'm Kendrick Nunn",
+      "valence": 3.14,
+      "arousal": 3.56,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "And them hollow tips do surgery, they gon' clip his lungs It was goin' down on the set, that's when this shit was fun I just been ballin' on these niggas like I'm Kendrick Nunn Every day my birthday, bitch, it's lit, I just turned 21",
+      "valence": 3.07,
+      "arousal": 3.67,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "It was goin' down on the set, that's when this shit was fun I just been ballin' on these niggas like I'm Kendrick Nunn Every day my birthday, bitch, it's lit, I just turned 21 Decorate your block with red tape, foenem slidin' every day",
+      "valence": 3.23,
+      "arousal": 3.62,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I just been ballin' on these niggas like I'm Kendrick Nunn Every day my birthday, bitch, it's lit, I just turned 21 Decorate your block with red tape, foenem slidin' every day Bunch of hollows spittin' out the Glock",
+      "valence": 2.7,
+      "arousal": 3.51,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Every day my birthday, bitch, it's lit, I just turned 21 Decorate your block with red tape, foenem slidin' every day Bunch of hollows spittin' out the Glock I been servin' fiends all day, out there posted with the gang",
+      "valence": 2.5,
+      "arousal": 3.61,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Decorate your block with red tape, foenem slidin' every day Bunch of hollows spittin' out the Glock I been servin' fiends all day, out there posted with the gang Nigga, we was taught to get it off the block",
+      "valence": 2.65,
+      "arousal": 3.2,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Bunch of hollows spittin' out the Glock I been servin' fiends all day, out there posted with the gang Nigga, we was taught to get it off the block It's a hunnid bands in the safe, now I got expensive taste",
+      "valence": 2.56,
+      "arousal": 3.3,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I been servin' fiends all day, out there posted with the gang Nigga, we was taught to get it off the block It's a hunnid bands in the safe, now I got expensive taste Mike Amiri jeans, fill 'em up with knots",
+      "valence": 2.57,
+      "arousal": 3.27,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Nigga, we was taught to get it off the block It's a hunnid bands in the safe, now I got expensive taste Mike Amiri jeans, fill 'em up with knots I been on my grind every day, don't believe in takin' breaks",
+      "valence": 2.78,
+      "arousal": 3.17,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "It's a hunnid bands in the safe, now I got expensive taste Mike Amiri jeans, fill 'em up with knots I been on my grind every day, don't believe in takin' breaks I ain't stoppin' 'til we chillin' at the top",
+      "valence": 2.92,
+      "arousal": 3.28,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Mike Amiri jeans, fill 'em up with knots I been on my grind every day, don't believe in takin' breaks I ain't stoppin' 'til we chillin' at the top Ever since I stepped up in this game, I've been a bomb threat",
+      "valence": 2.78,
+      "arousal": 3.42,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I been on my grind every day, don't believe in takin' breaks I ain't stoppin' 'til we chillin' at the top Ever since I stepped up in this game, I've been a bomb threat I was in the trenches, tryna see a life beyond that",
+      "valence": 2.96,
+      "arousal": 3.32,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I ain't stoppin' 'til we chillin' at the top Ever since I stepped up in this game, I've been a bomb threat I was in the trenches, tryna see a life beyond that 'Cause complacent niggas usually die up in they complex",
+      "valence": 2.82,
+      "arousal": 3.27,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Ever since I stepped up in this game, I've been a bomb threat I was in the trenches, tryna see a life beyond that 'Cause complacent niggas usually die up in they complex Nigga, where I'm from, they turn death into a contest",
+      "valence": 2.66,
+      "arousal": 3.34,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I was in the trenches, tryna see a life beyond that 'Cause complacent niggas usually die up in they complex Nigga, where I'm from, they turn death into a contest Livin' by the gun, put all my trust into this compact",
+      "valence": 2.66,
+      "arousal": 3.35,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "'Cause complacent niggas usually die up in they complex Nigga, where I'm from, they turn death into a contest Livin' by the gun, put all my trust into this compact My niggas went to war, but they ain't get no Vietnam check",
+      "valence": 2.45,
+      "arousal": 3.33,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Nigga, where I'm from, they turn death into a contest Livin' by the gun, put all my trust into this compact My niggas went to war, but they ain't get no Vietnam check Lil' bro want his head, he tryna make his brains ooze",
+      "valence": 2.4,
+      "arousal": 3.5,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Livin' by the gun, put all my trust into this compact My niggas went to war, but they ain't get no Vietnam check Lil' bro want his head, he tryna make his brains ooze Lil' bitch, I'm from the Northside where they raise goons",
+      "valence": 2.38,
+      "arousal": 3.62,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "My niggas went to war, but they ain't get no Vietnam check Lil' bro want his head, he tryna make his brains ooze Lil' bitch, I'm from the Northside where they raise goons Took losses in these streets, shit got me singin' gang blues",
+      "valence": 2.25,
+      "arousal": 3.61,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Lil' bro want his head, he tryna make his brains ooze Lil' bitch, I'm from the Northside where they raise goons Took losses in these streets, shit got me singin' gang blues I been a real nigga 'fore this shit became cool",
+      "valence": 2.27,
+      "arousal": 3.56,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Lil' bitch, I'm from the Northside where they raise goons Took losses in these streets, shit got me singin' gang blues I been a real nigga 'fore this shit became cool I'm the type to switch my watch up every time I change moods",
+      "valence": 2.24,
+      "arousal": 3.52,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Took losses in these streets, shit got me singin' gang blues I been a real nigga 'fore this shit became cool I'm the type to switch my watch up every time I change moods He the type to get excited 'cause he made The Shade Room",
+      "valence": 3.21,
+      "arousal": 3.69,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "I been a real nigga 'fore this shit became cool I'm the type to switch my watch up every time I change moods He the type to get excited 'cause he made The Shade Room Decorate your block with red tape, foenem slidin' every day",
+      "valence": 3.35,
+      "arousal": 3.64,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I'm the type to switch my watch up every time I change moods He the type to get excited 'cause he made The Shade Room Decorate your block with red tape, foenem slidin' every day Bunch of hollows spittin' out the Glock",
+      "valence": 3.18,
+      "arousal": 3.49,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "He the type to get excited 'cause he made The Shade Room Decorate your block with red tape, foenem slidin' every day Bunch of hollows spittin' out the Glock I been servin' fiends all day, out there posted with the gang",
+      "valence": 3.1,
+      "arousal": 3.51,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Decorate your block with red tape, foenem slidin' every day Bunch of hollows spittin' out the Glock I been servin' fiends all day, out there posted with the gang Nigga, we was taught to get it off the block",
+      "valence": 2.65,
+      "arousal": 3.2,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Bunch of hollows spittin' out the Glock I been servin' fiends all day, out there posted with the gang Nigga, we was taught to get it off the block It's a hunnid bands in the safe, now I got expensive taste",
+      "valence": 2.56,
+      "arousal": 3.3,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I been servin' fiends all day, out there posted with the gang Nigga, we was taught to get it off the block It's a hunnid bands in the safe, now I got expensive taste Mike Amiri jeans, fill 'em up with knots",
+      "valence": 2.57,
+      "arousal": 3.27,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Nigga, we was taught to get it off the block It's a hunnid bands in the safe, now I got expensive taste Mike Amiri jeans, fill 'em up with knots I been on my grind every day, don't believe in takin' breaks",
+      "valence": 2.78,
+      "arousal": 3.17,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "It's a hunnid bands in the safe, now I got expensive taste Mike Amiri jeans, fill 'em up with knots I been on my grind every day, don't believe in takin' breaks I ain't stoppin' 'til we chillin' at the top",
+      "valence": 2.92,
+      "arousal": 3.28,
+      "dominance": 3.36
+    }
+  ]
+}

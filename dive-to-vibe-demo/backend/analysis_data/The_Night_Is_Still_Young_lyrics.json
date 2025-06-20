@@ -1,0 +1,465 @@
+{
+  "artist": "Nicki Minaj",
+  "overall_vad": {
+    "valence": 3.04,
+    "arousal": 3.27,
+    "dominance": 3.19
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Yo, ayo tonight is the night that I'ma get twisted Myx Moscato and vodka, I'ma mix it Roll that spaceship, we about to get lifted Live in the present, that gift is for the gifted",
+      "valence": 3.29,
+      "arousal": 3.45,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Myx Moscato and vodka, I'ma mix it Roll that spaceship, we about to get lifted Live in the present, that gift is for the gifted This what you came, this what you came for",
+      "valence": 3.52,
+      "arousal": 3.47,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Roll that spaceship, we about to get lifted Live in the present, that gift is for the gifted This what you came, this what you came for You get what you buy, this what you paid for",
+      "valence": 3.48,
+      "arousal": 3.43,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Live in the present, that gift is for the gifted This what you came, this what you came for You get what you buy, this what you paid for So make sure the stars is what you aim for",
+      "valence": 3.42,
+      "arousal": 3.31,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "This what you came, this what you came for You get what you buy, this what you paid for So make sure the stars is what you aim for Make mistakes though",
+      "valence": 3.03,
+      "arousal": 3.24,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "You get what you buy, this what you paid for So make sure the stars is what you aim for Make mistakes though I never worry, life is a journey",
+      "valence": 3.15,
+      "arousal": 3.28,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "So make sure the stars is what you aim for Make mistakes though I never worry, life is a journey I just wanna enjoy the ride",
+      "valence": 3.43,
+      "arousal": 3.42,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Make mistakes though I never worry, life is a journey I just wanna enjoy the ride What is the hurry? It's pretty early",
+      "valence": 3.3,
+      "arousal": 3.39,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I never worry, life is a journey I just wanna enjoy the ride What is the hurry? It's pretty early It's okay, we'll take our time",
+      "valence": 3.42,
+      "arousal": 3.37,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I just wanna enjoy the ride What is the hurry? It's pretty early It's okay, we'll take our time The night is still young",
+      "valence": 3.36,
+      "arousal": 3.39,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "What is the hurry? It's pretty early It's okay, we'll take our time The night is still young The night is still young",
+      "valence": 2.94,
+      "arousal": 3.19,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "It's okay, we'll take our time The night is still young The night is still young The night is still young",
+      "valence": 3.14,
+      "arousal": 3.03,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "The night is still young The night is still young The night is still young And so are we",
+      "valence": 3.02,
+      "arousal": 3.02,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "The night is still young The night is still young And so are we The night is still young",
+      "valence": 2.98,
+      "arousal": 2.94,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "The night is still young And so are we The night is still young The night is still young",
+      "valence": 2.98,
+      "arousal": 2.96,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "And so are we The night is still young The night is still young The night is still young",
+      "valence": 3.03,
+      "arousal": 2.99,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "The night is still young The night is still young The night is still young And so are we",
+      "valence": 3.02,
+      "arousal": 3.02,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "The night is still young The night is still young And so are we Ayo, drinks on you or the drinks is on me",
+      "valence": 2.94,
+      "arousal": 3.24,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "The night is still young And so are we Ayo, drinks on you or the drinks is on me We ain't going nowhere like tanks is on E",
+      "valence": 2.81,
+      "arousal": 3.28,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "And so are we Ayo, drinks on you or the drinks is on me We ain't going nowhere like tanks is on E We still getting money, which bank is it gonna be?",
+      "valence": 2.83,
+      "arousal": 3.42,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Ayo, drinks on you or the drinks is on me We ain't going nowhere like tanks is on E We still getting money, which bank is it gonna be? If he sexy, he planking on me",
+      "valence": 2.77,
+      "arousal": 3.53,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "We ain't going nowhere like tanks is on E We still getting money, which bank is it gonna be? If he sexy, he planking on me So when them big boys want all of that",
+      "valence": 2.75,
+      "arousal": 3.51,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "We still getting money, which bank is it gonna be? If he sexy, he planking on me So when them big boys want all of that Tell the bartender, say my order back",
+      "valence": 2.81,
+      "arousal": 3.53,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "If he sexy, he planking on me So when them big boys want all of that Tell the bartender, say my order back It's bottle service, he ordered that",
+      "valence": 2.92,
+      "arousal": 3.49,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "So when them big boys want all of that Tell the bartender, say my order back It's bottle service, he ordered that Might let him take it home and slaughter that",
+      "valence": 2.49,
+      "arousal": 3.32,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Tell the bartender, say my order back It's bottle service, he ordered that Might let him take it home and slaughter that He got friends for all of my friends",
+      "valence": 2.95,
+      "arousal": 3.57,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "It's bottle service, he ordered that Might let him take it home and slaughter that He got friends for all of my friends They ain't leaving 'til we say when",
+      "valence": 2.72,
+      "arousal": 3.53,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Might let him take it home and slaughter that He got friends for all of my friends They ain't leaving 'til we say when And we gon' hangover the next day",
+      "valence": 2.85,
+      "arousal": 3.3,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "He got friends for all of my friends They ain't leaving 'til we say when And we gon' hangover the next day But we will remember this day",
+      "valence": 2.96,
+      "arousal": 3.32,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "They ain't leaving 'til we say when And we gon' hangover the next day But we will remember this day So drop the pop and get low",
+      "valence": 2.93,
+      "arousal": 3.14,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "And we gon' hangover the next day But we will remember this day So drop the pop and get low Or we can drop the top and just cruise",
+      "valence": 3.07,
+      "arousal": 3.17,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "But we will remember this day So drop the pop and get low Or we can drop the top and just cruise We fresh to death, down to the shoes",
+      "valence": 2.92,
+      "arousal": 3.2,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "So drop the pop and get low Or we can drop the top and just cruise We fresh to death, down to the shoes My only motto in life is don't lose",
+      "valence": 2.87,
+      "arousal": 3.32,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Or we can drop the top and just cruise We fresh to death, down to the shoes My only motto in life is don't lose I never worry, life is a journey",
+      "valence": 2.88,
+      "arousal": 3.28,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "We fresh to death, down to the shoes My only motto in life is don't lose I never worry, life is a journey I just wanna enjoy the ride",
+      "valence": 3.2,
+      "arousal": 3.42,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "My only motto in life is don't lose I never worry, life is a journey I just wanna enjoy the ride What is the hurry? It's pretty early",
+      "valence": 3.37,
+      "arousal": 3.41,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I never worry, life is a journey I just wanna enjoy the ride What is the hurry? It's pretty early It's okay, we'll take our time",
+      "valence": 3.42,
+      "arousal": 3.37,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "I just wanna enjoy the ride What is the hurry? It's pretty early It's okay, we'll take our time The night is still young",
+      "valence": 3.36,
+      "arousal": 3.39,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "What is the hurry? It's pretty early It's okay, we'll take our time The night is still young The night is still young",
+      "valence": 2.94,
+      "arousal": 3.19,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "It's okay, we'll take our time The night is still young The night is still young The night is still young",
+      "valence": 3.14,
+      "arousal": 3.03,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "The night is still young The night is still young The night is still young And so are we",
+      "valence": 3.02,
+      "arousal": 3.02,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "The night is still young The night is still young And so are we The night is still young",
+      "valence": 2.98,
+      "arousal": 2.94,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "The night is still young And so are we The night is still young The night is still young",
+      "valence": 2.98,
+      "arousal": 2.96,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "And so are we The night is still young The night is still young The night is still young",
+      "valence": 3.03,
+      "arousal": 2.99,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "The night is still young The night is still young The night is still young So are we",
+      "valence": 3.0,
+      "arousal": 3.01,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "The night is still young The night is still young So are we We're just getting started yeah yeah",
+      "valence": 3.08,
+      "arousal": 3.1,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "The night is still young So are we We're just getting started yeah yeah We're just getting started yeah yeah",
+      "valence": 3.12,
+      "arousal": 3.11,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "So are we We're just getting started yeah yeah We're just getting started yeah yeah Can't you see the night's still early",
+      "valence": 3.1,
+      "arousal": 3.13,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "We're just getting started yeah yeah We're just getting started yeah yeah Can't you see the night's still early And we gon' get wild and crazy?",
+      "valence": 3.27,
+      "arousal": 3.57,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "We're just getting started yeah yeah Can't you see the night's still early And we gon' get wild and crazy? We're just getting started yeah yeah",
+      "valence": 3.31,
+      "arousal": 3.6,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Can't you see the night's still early And we gon' get wild and crazy? We're just getting started yeah yeah We're just getting started yeah yeah",
+      "valence": 3.3,
+      "arousal": 3.67,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "And we gon' get wild and crazy? We're just getting started yeah yeah We're just getting started yeah yeah Can't you see the night's still early",
+      "valence": 3.26,
+      "arousal": 3.66,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "We're just getting started yeah yeah We're just getting started yeah yeah Can't you see the night's still early And we gon' get wild and crazy?",
+      "valence": 3.27,
+      "arousal": 3.57,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "We're just getting started yeah yeah Can't you see the night's still early And we gon' get wild and crazy? The night is still young",
+      "valence": 3.16,
+      "arousal": 3.54,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Can't you see the night's still early And we gon' get wild and crazy? The night is still young The night is still young",
+      "valence": 3.05,
+      "arousal": 3.47,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "And we gon' get wild and crazy? The night is still young The night is still young The night is still young",
+      "valence": 2.92,
+      "arousal": 3.49,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "The night is still young The night is still young The night is still young And so are we",
+      "valence": 3.02,
+      "arousal": 3.02,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "The night is still young The night is still young And so are we The night is still young",
+      "valence": 2.98,
+      "arousal": 2.94,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "The night is still young And so are we The night is still young The night is still young",
+      "valence": 2.98,
+      "arousal": 2.96,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "And so are we The night is still young The night is still young The night is still young",
+      "valence": 3.03,
+      "arousal": 2.99,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "The night is still young The night is still young The night is still young So are we",
+      "valence": 3.0,
+      "arousal": 3.01,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "The night is still young The night is still young So are we How dare we sit quietly",
+      "valence": 2.64,
+      "arousal": 3.28,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "The night is still young So are we How dare we sit quietly And watch the world pass us by",
+      "valence": 2.63,
+      "arousal": 3.24,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "So are we How dare we sit quietly And watch the world pass us by How dare we sit quietly",
+      "valence": 2.68,
+      "arousal": 3.35,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "How dare we sit quietly And watch the world pass us by How dare we sit quietly And watch the world pass us by",
+      "valence": 2.53,
+      "arousal": 3.36,
+      "dominance": 3.1
+    }
+  ]
+}

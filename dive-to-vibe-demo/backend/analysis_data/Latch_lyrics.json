@@ -1,0 +1,283 @@
+{
+  "artist": "Disclosure Featuring Sam Smith",
+  "overall_vad": {
+    "valence": 3.4,
+    "arousal": 3.78,
+    "dominance": 3.38
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "You lift my heart up When the rest of me is down You, you enchant me, even when you're not around If there are boundaries, I will try to knock them down",
+      "valence": 3.68,
+      "arousal": 3.79,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "When the rest of me is down You, you enchant me, even when you're not around If there are boundaries, I will try to knock them down I'm latching on babe",
+      "valence": 3.53,
+      "arousal": 3.79,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "You, you enchant me, even when you're not around If there are boundaries, I will try to knock them down I'm latching on babe Now I know what I have found",
+      "valence": 3.54,
+      "arousal": 3.72,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "If there are boundaries, I will try to knock them down I'm latching on babe Now I know what I have found I feel we're close enough",
+      "valence": 3.09,
+      "arousal": 3.58,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I'm latching on babe Now I know what I have found I feel we're close enough I wanna lock in your love",
+      "valence": 3.97,
+      "arousal": 4.16,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Now I know what I have found I feel we're close enough I wanna lock in your love I think we're close enough",
+      "valence": 3.83,
+      "arousal": 3.87,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I feel we're close enough I wanna lock in your love I think we're close enough Could I lock in your love, baby?",
+      "valence": 3.69,
+      "arousal": 3.75,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I wanna lock in your love I think we're close enough Could I lock in your love, baby? Now I got you in my space",
+      "valence": 3.65,
+      "arousal": 3.79,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I think we're close enough Could I lock in your love, baby? Now I got you in my space I won't let go of you",
+      "valence": 3.69,
+      "arousal": 3.84,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Could I lock in your love, baby? Now I got you in my space I won't let go of you Got you shackled in my embrace",
+      "valence": 3.48,
+      "arousal": 3.96,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Now I got you in my space I won't let go of you Got you shackled in my embrace I'm latching on to you",
+      "valence": 3.09,
+      "arousal": 3.66,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I won't let go of you Got you shackled in my embrace I'm latching on to you Now I got you in my space",
+      "valence": 2.96,
+      "arousal": 3.66,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Got you shackled in my embrace I'm latching on to you Now I got you in my space I won't let go of you",
+      "valence": 2.97,
+      "arousal": 3.66,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I'm latching on to you Now I got you in my space I won't let go of you Got you shackled in my embrace",
+      "valence": 3.08,
+      "arousal": 3.63,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Now I got you in my space I won't let go of you Got you shackled in my embrace I'm latching on to you",
+      "valence": 3.09,
+      "arousal": 3.66,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I won't let go of you Got you shackled in my embrace I'm latching on to you I'm so encaptured, got me wrapped up in your touch",
+      "valence": 3.15,
+      "arousal": 3.74,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Got you shackled in my embrace I'm latching on to you I'm so encaptured, got me wrapped up in your touch Feel so enamored, hold me tight within your clutch",
+      "valence": 3.72,
+      "arousal": 3.93,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I'm latching on to you I'm so encaptured, got me wrapped up in your touch Feel so enamored, hold me tight within your clutch How do you do it, you got me losing every breath",
+      "valence": 3.61,
+      "arousal": 3.91,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I'm so encaptured, got me wrapped up in your touch Feel so enamored, hold me tight within your clutch How do you do it, you got me losing every breath What did you give me to make my heart beat out my chest?",
+      "valence": 3.59,
+      "arousal": 3.93,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Feel so enamored, hold me tight within your clutch How do you do it, you got me losing every breath What did you give me to make my heart beat out my chest? I feel we're close enough",
+      "valence": 3.41,
+      "arousal": 3.94,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "How do you do it, you got me losing every breath What did you give me to make my heart beat out my chest? I feel we're close enough I wanna lock in your love",
+      "valence": 3.54,
+      "arousal": 4.08,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "What did you give me to make my heart beat out my chest? I feel we're close enough I wanna lock in your love I think we're close enough",
+      "valence": 3.51,
+      "arousal": 3.97,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I feel we're close enough I wanna lock in your love I think we're close enough Could I lock in your love, baby?",
+      "valence": 3.69,
+      "arousal": 3.75,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I wanna lock in your love I think we're close enough Could I lock in your love, baby? I feel we're close enough",
+      "valence": 3.68,
+      "arousal": 3.71,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I think we're close enough Could I lock in your love, baby? I feel we're close enough I wanna lock in your love",
+      "valence": 3.87,
+      "arousal": 3.91,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Could I lock in your love, baby? I feel we're close enough I wanna lock in your love I think we're close enough",
+      "valence": 3.66,
+      "arousal": 3.75,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I feel we're close enough I wanna lock in your love I think we're close enough Could I lock in your love, baby?",
+      "valence": 3.69,
+      "arousal": 3.75,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I wanna lock in your love I think we're close enough Could I lock in your love, baby? Now I got you in my space",
+      "valence": 3.65,
+      "arousal": 3.79,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I think we're close enough Could I lock in your love, baby? Now I got you in my space I won't let go of you",
+      "valence": 3.69,
+      "arousal": 3.84,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Could I lock in your love, baby? Now I got you in my space I won't let go of you Got you shackled in my embrace",
+      "valence": 3.48,
+      "arousal": 3.96,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Now I got you in my space I won't let go of you Got you shackled in my embrace I'm latching on to you",
+      "valence": 3.09,
+      "arousal": 3.66,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I won't let go of you Got you shackled in my embrace I'm latching on to you Now I got you in my space",
+      "valence": 2.96,
+      "arousal": 3.66,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Got you shackled in my embrace I'm latching on to you Now I got you in my space I won't let go of you",
+      "valence": 2.97,
+      "arousal": 3.66,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I'm latching on to you Now I got you in my space I won't let go of you Got you shackled in my embrace",
+      "valence": 3.08,
+      "arousal": 3.63,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Now I got you in my space I won't let go of you Got you shackled in my embrace I'm latching on to you",
+      "valence": 3.09,
+      "arousal": 3.66,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I won't let go of you Got you shackled in my embrace I'm latching on to you I'm latching on to you (I'm latching on to you)",
+      "valence": 3.01,
+      "arousal": 3.76,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Got you shackled in my embrace I'm latching on to you I'm latching on to you (I'm latching on to you) I won't let go of you (I won't let go)",
+      "valence": 3.0,
+      "arousal": 3.76,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "I'm latching on to you I'm latching on to you (I'm latching on to you) I won't let go of you (I won't let go) I'm latching on to you (I don't wanna let go)",
+      "valence": 3.12,
+      "arousal": 3.64,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I'm latching on to you (I'm latching on to you) I won't let go of you (I won't let go) I'm latching on to you (I don't wanna let go) I won't let go of you (I won't let go, I won't let go)",
+      "valence": 3.08,
+      "arousal": 3.62,
+      "dominance": 3.3
+    }
+  ]
+}

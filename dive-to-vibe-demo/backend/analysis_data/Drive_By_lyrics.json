@@ -1,0 +1,346 @@
+{
+  "artist": "Train",
+  "overall_vad": {
+    "valence": 3.16,
+    "arousal": 3.59,
+    "dominance": 3.15
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "On the other side of a street I knew Stood a girl that looked like you I guess that's dÃ©jÃ  vu But I thought this can't be true 'cause",
+      "valence": 2.88,
+      "arousal": 3.36,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Stood a girl that looked like you I guess that's dÃ©jÃ  vu But I thought this can't be true 'cause You moved to west L.A., or New York or Santa Fe",
+      "valence": 2.82,
+      "arousal": 3.21,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I guess that's dÃ©jÃ  vu But I thought this can't be true 'cause You moved to west L.A., or New York or Santa Fe Or wherever, to get away from me",
+      "valence": 2.62,
+      "arousal": 3.3,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "But I thought this can't be true 'cause You moved to west L.A., or New York or Santa Fe Or wherever, to get away from me Oh, but that one night, was more than just right",
+      "valence": 2.82,
+      "arousal": 3.39,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "You moved to west L.A., or New York or Santa Fe Or wherever, to get away from me Oh, but that one night, was more than just right I didn't leave you 'cause I was all through",
+      "valence": 2.69,
+      "arousal": 3.39,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Or wherever, to get away from me Oh, but that one night, was more than just right I didn't leave you 'cause I was all through Oh, I was overwhelmed, and frankly scared as hell",
+      "valence": 2.23,
+      "arousal": 3.67,
+      "dominance": 2.6
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Oh, but that one night, was more than just right I didn't leave you 'cause I was all through Oh, I was overwhelmed, and frankly scared as hell Because I really fell for you",
+      "valence": 2.76,
+      "arousal": 3.83,
+      "dominance": 2.73
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I didn't leave you 'cause I was all through Oh, I was overwhelmed, and frankly scared as hell Because I really fell for you Oh, I swear to you, I'll be there for you",
+      "valence": 2.89,
+      "arousal": 3.91,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Oh, I was overwhelmed, and frankly scared as hell Because I really fell for you Oh, I swear to you, I'll be there for you This is not a drive by",
+      "valence": 2.74,
+      "arousal": 3.97,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Because I really fell for you Oh, I swear to you, I'll be there for you This is not a drive by Just a shy guy, looking for a two-ply Hefty bag",
+      "valence": 3.23,
+      "arousal": 3.67,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Oh, I swear to you, I'll be there for you This is not a drive by Just a shy guy, looking for a two-ply Hefty bag To hold my love",
+      "valence": 3.45,
+      "arousal": 3.84,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "This is not a drive by Just a shy guy, looking for a two-ply Hefty bag To hold my love When you move me, everything is groovy",
+      "valence": 3.54,
+      "arousal": 3.53,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Just a shy guy, looking for a two-ply Hefty bag To hold my love When you move me, everything is groovy They don't like it sue me, mhmm the way you do me",
+      "valence": 3.66,
+      "arousal": 3.74,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "To hold my love When you move me, everything is groovy They don't like it sue me, mhmm the way you do me Oh, I swear to you, I'll be there for you",
+      "valence": 3.86,
+      "arousal": 3.87,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "When you move me, everything is groovy They don't like it sue me, mhmm the way you do me Oh, I swear to you, I'll be there for you This is not a drive by",
+      "valence": 3.11,
+      "arousal": 3.41,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "They don't like it sue me, mhmm the way you do me Oh, I swear to you, I'll be there for you This is not a drive by On the upside of a downward spiral",
+      "valence": 2.85,
+      "arousal": 3.46,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Oh, I swear to you, I'll be there for you This is not a drive by On the upside of a downward spiral My love for you went viral",
+      "valence": 3.42,
+      "arousal": 3.89,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "This is not a drive by On the upside of a downward spiral My love for you went viral And I loved you every mile you drove away",
+      "valence": 3.36,
+      "arousal": 3.69,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "On the upside of a downward spiral My love for you went viral And I loved you every mile you drove away But now here you are again",
+      "valence": 3.33,
+      "arousal": 3.54,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "My love for you went viral And I loved you every mile you drove away But now here you are again So let's skip the, \"How you been?\"",
+      "valence": 3.57,
+      "arousal": 3.57,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "And I loved you every mile you drove away But now here you are again So let's skip the, \"How you been?\" And get down to the \"More than friends\" at last",
+      "valence": 3.43,
+      "arousal": 3.36,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "But now here you are again So let's skip the, \"How you been?\" And get down to the \"More than friends\" at last Oh, but that one night, is still the highlight",
+      "valence": 3.15,
+      "arousal": 3.15,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "So let's skip the, \"How you been?\" And get down to the \"More than friends\" at last Oh, but that one night, is still the highlight I didn't need you, until I came to",
+      "valence": 3.01,
+      "arousal": 3.2,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "And get down to the \"More than friends\" at last Oh, but that one night, is still the highlight I didn't need you, until I came to And I was overwhelmed, and frankly scared as hell",
+      "valence": 2.49,
+      "arousal": 3.46,
+      "dominance": 2.75
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Oh, but that one night, is still the highlight I didn't need you, until I came to And I was overwhelmed, and frankly scared as hell Because I really fell for you",
+      "valence": 2.5,
+      "arousal": 3.64,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I didn't need you, until I came to And I was overwhelmed, and frankly scared as hell Because I really fell for you Oh, I swear to you, I'll be there for you",
+      "valence": 2.64,
+      "arousal": 3.75,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "And I was overwhelmed, and frankly scared as hell Because I really fell for you Oh, I swear to you, I'll be there for you This is not a drive by",
+      "valence": 2.6,
+      "arousal": 3.97,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Because I really fell for you Oh, I swear to you, I'll be there for you This is not a drive by Just a shy guy, looking for a two-ply Hefty bag",
+      "valence": 3.23,
+      "arousal": 3.67,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Oh, I swear to you, I'll be there for you This is not a drive by Just a shy guy, looking for a two-ply Hefty bag To hold my love",
+      "valence": 3.45,
+      "arousal": 3.84,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "This is not a drive by Just a shy guy, looking for a two-ply Hefty bag To hold my love When you move me, everything is groovy",
+      "valence": 3.54,
+      "arousal": 3.53,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Just a shy guy, looking for a two-ply Hefty bag To hold my love When you move me, everything is groovy They don't like it sue me, mhmm the way you do me",
+      "valence": 3.66,
+      "arousal": 3.74,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "To hold my love When you move me, everything is groovy They don't like it sue me, mhmm the way you do me Oh, I swear to you, I'll be there for you",
+      "valence": 3.86,
+      "arousal": 3.87,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "When you move me, everything is groovy They don't like it sue me, mhmm the way you do me Oh, I swear to you, I'll be there for you This is not a drive by",
+      "valence": 3.11,
+      "arousal": 3.41,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "They don't like it sue me, mhmm the way you do me Oh, I swear to you, I'll be there for you This is not a drive by Please believe that when I leave",
+      "valence": 2.82,
+      "arousal": 3.5,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Oh, I swear to you, I'll be there for you This is not a drive by Please believe that when I leave There's nothing up my sleeve but love for you",
+      "valence": 3.53,
+      "arousal": 3.81,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "This is not a drive by Please believe that when I leave There's nothing up my sleeve but love for you And a little time to get my head together too",
+      "valence": 3.26,
+      "arousal": 3.6,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Please believe that when I leave There's nothing up my sleeve but love for you And a little time to get my head together too On the other side of a street I knew",
+      "valence": 3.39,
+      "arousal": 3.68,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "There's nothing up my sleeve but love for you And a little time to get my head together too On the other side of a street I knew Stood a girl that looked like you",
+      "valence": 3.88,
+      "arousal": 3.96,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "And a little time to get my head together too On the other side of a street I knew Stood a girl that looked like you I guess that's dÃ©jÃ  vu",
+      "valence": 2.91,
+      "arousal": 3.18,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "On the other side of a street I knew Stood a girl that looked like you I guess that's dÃ©jÃ  vu But I thought this can't be true, 'cause",
+      "valence": 2.89,
+      "arousal": 3.36,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Stood a girl that looked like you I guess that's dÃ©jÃ  vu But I thought this can't be true, 'cause Oh, I swear to you, I'll be there for you",
+      "valence": 2.97,
+      "arousal": 3.4,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "I guess that's dÃ©jÃ  vu But I thought this can't be true, 'cause Oh, I swear to you, I'll be there for you This is not a drive by",
+      "valence": 2.92,
+      "arousal": 3.37,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "But I thought this can't be true, 'cause Oh, I swear to you, I'll be there for you This is not a drive by Just a shy guy, looking for a two-ply Hefty bag",
+      "valence": 2.91,
+      "arousal": 3.44,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Oh, I swear to you, I'll be there for you This is not a drive by Just a shy guy, looking for a two-ply Hefty bag To hold my love",
+      "valence": 3.45,
+      "arousal": 3.84,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "This is not a drive by Just a shy guy, looking for a two-ply Hefty bag To hold my love When you move me, everything is groovy",
+      "valence": 3.54,
+      "arousal": 3.53,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Just a shy guy, looking for a two-ply Hefty bag To hold my love When you move me, everything is groovy They don't like it sue me, mhmm the way you do me",
+      "valence": 3.66,
+      "arousal": 3.74,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "To hold my love When you move me, everything is groovy They don't like it sue me, mhmm the way you do me Oh, I swear to you, I'll be there for you",
+      "valence": 3.86,
+      "arousal": 3.87,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "When you move me, everything is groovy They don't like it sue me, mhmm the way you do me Oh, I swear to you, I'll be there for you This is not a drive by",
+      "valence": 3.11,
+      "arousal": 3.41,
+      "dominance": 3.36
+    }
+  ]
+}

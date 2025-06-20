@@ -1,0 +1,430 @@
+{
+  "artist": "Halsey Featuring Big Sean & Stefflon Don",
+  "overall_vad": {
+    "valence": 2.82,
+    "arousal": 3.27,
+    "dominance": 3.09
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "If I If I Said he tried to phone me But I never have time",
+      "valence": 2.62,
+      "arousal": 3.36,
+      "dominance": 2.67
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "If I Said he tried to phone me But I never have time He said that I never listen",
+      "valence": 2.66,
+      "arousal": 3.34,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Said he tried to phone me But I never have time He said that I never listen But I don't even try",
+      "valence": 2.57,
+      "arousal": 3.23,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "But I never have time He said that I never listen But I don't even try I got a new place in Cali",
+      "valence": 2.57,
+      "arousal": 3.19,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "He said that I never listen But I don't even try I got a new place in Cali But I'm gone every night",
+      "valence": 2.45,
+      "arousal": 3.19,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "But I don't even try I got a new place in Cali But I'm gone every night So I fill it with strangers",
+      "valence": 2.84,
+      "arousal": 3.22,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I got a new place in Cali But I'm gone every night So I fill it with strangers So they keep on the light",
+      "valence": 3.4,
+      "arousal": 3.35,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "But I'm gone every night So I fill it with strangers So they keep on the light She said she told you she knows me",
+      "valence": 3.12,
+      "arousal": 3.16,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "So I fill it with strangers So they keep on the light She said she told you she knows me But the face isn't right",
+      "valence": 3.04,
+      "arousal": 3.13,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "So they keep on the light She said she told you she knows me But the face isn't right She asked if I recognized her",
+      "valence": 3.06,
+      "arousal": 3.21,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "She said she told you she knows me But the face isn't right She asked if I recognized her And I told her I might",
+      "valence": 2.87,
+      "arousal": 3.25,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "But the face isn't right She asked if I recognized her And I told her I might See, everywhere I go",
+      "valence": 2.79,
+      "arousal": 3.23,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "She asked if I recognized her And I told her I might See, everywhere I go I got a million different people tryna kick it",
+      "valence": 3.01,
+      "arousal": 3.38,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "And I told her I might See, everywhere I go I got a million different people tryna kick it But I'm still alone in my mind",
+      "valence": 2.65,
+      "arousal": 3.27,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "See, everywhere I go I got a million different people tryna kick it But I'm still alone in my mind I know you're dying to meet me",
+      "valence": 2.87,
+      "arousal": 3.43,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I got a million different people tryna kick it But I'm still alone in my mind I know you're dying to meet me But I can just tell you this",
+      "valence": 2.7,
+      "arousal": 3.45,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "But I'm still alone in my mind I know you're dying to meet me But I can just tell you this Baby, as soon as you meet me",
+      "valence": 3.29,
+      "arousal": 3.54,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I know you're dying to meet me But I can just tell you this Baby, as soon as you meet me You'll wish that you never did",
+      "valence": 3.23,
+      "arousal": 3.57,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "But I can just tell you this Baby, as soon as you meet me You'll wish that you never did (You'll wish that you never did)",
+      "valence": 3.17,
+      "arousal": 3.32,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Baby, as soon as you meet me You'll wish that you never did (You'll wish that you never did) I stayed a night out in Paris",
+      "valence": 2.97,
+      "arousal": 3.24,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "You'll wish that you never did (You'll wish that you never did) I stayed a night out in Paris Where they don't know my name",
+      "valence": 2.49,
+      "arousal": 3.09,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "(You'll wish that you never did) I stayed a night out in Paris Where they don't know my name And I got into some trouble",
+      "valence": 2.53,
+      "arousal": 3.06,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I stayed a night out in Paris Where they don't know my name And I got into some trouble With that drink in my veins",
+      "valence": 2.35,
+      "arousal": 3.12,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Where they don't know my name And I got into some trouble With that drink in my veins I got a problem with parties",
+      "valence": 2.29,
+      "arousal": 3.13,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "And I got into some trouble With that drink in my veins I got a problem with parties 'Cause it's loud in my brain",
+      "valence": 2.39,
+      "arousal": 3.03,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "With that drink in my veins I got a problem with parties 'Cause it's loud in my brain And I can never say sorry",
+      "valence": 2.4,
+      "arousal": 3.06,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I got a problem with parties 'Cause it's loud in my brain And I can never say sorry 'Cause I won't take the blame",
+      "valence": 2.29,
+      "arousal": 3.16,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "'Cause it's loud in my brain And I can never say sorry 'Cause I won't take the blame I know I always go missing",
+      "valence": 2.35,
+      "arousal": 3.13,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "And I can never say sorry 'Cause I won't take the blame I know I always go missing And you're lying awake",
+      "valence": 2.31,
+      "arousal": 3.22,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "'Cause I won't take the blame I know I always go missing And you're lying awake But if you ask why I'm distant",
+      "valence": 2.34,
+      "arousal": 3.2,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I know I always go missing And you're lying awake But if you ask why I'm distant Oh, I'm runnin' away",
+      "valence": 2.34,
+      "arousal": 3.31,
+      "dominance": 2.68
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "And you're lying awake But if you ask why I'm distant Oh, I'm runnin' away You know that everywhere I go",
+      "valence": 2.5,
+      "arousal": 3.25,
+      "dominance": 2.71
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "But if you ask why I'm distant Oh, I'm runnin' away You know that everywhere I go I got a million different people tryna kick it",
+      "valence": 2.5,
+      "arousal": 3.36,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Oh, I'm runnin' away You know that everywhere I go I got a million different people tryna kick it But I'm still alone in my mind",
+      "valence": 2.37,
+      "arousal": 3.62,
+      "dominance": 2.61
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "You know that everywhere I go I got a million different people tryna kick it But I'm still alone in my mind I know you're dying to meet me",
+      "valence": 2.81,
+      "arousal": 3.46,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I got a million different people tryna kick it But I'm still alone in my mind I know you're dying to meet me But I can just tell you this",
+      "valence": 2.7,
+      "arousal": 3.45,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "But I'm still alone in my mind I know you're dying to meet me But I can just tell you this Baby, as soon as you meet me",
+      "valence": 3.29,
+      "arousal": 3.54,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "I know you're dying to meet me But I can just tell you this Baby, as soon as you meet me You'll wish that you never did",
+      "valence": 3.23,
+      "arousal": 3.57,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "But I can just tell you this Baby, as soon as you meet me You'll wish that you never did (You'll wish that you never did)",
+      "valence": 3.17,
+      "arousal": 3.32,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Baby, as soon as you meet me You'll wish that you never did (You'll wish that you never did) I, I know you wanna",
+      "valence": 3.12,
+      "arousal": 3.38,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "You'll wish that you never did (You'll wish that you never did) I, I know you wanna I, I know you wanna",
+      "valence": 2.7,
+      "arousal": 3.08,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "(You'll wish that you never did) I, I know you wanna I, I know you wanna I, I know you wanna",
+      "valence": 2.83,
+      "arousal": 3.15,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I, I know you wanna I, I know you wanna I, I know you wanna Slip under my armor",
+      "valence": 3.17,
+      "arousal": 3.21,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I, I know you wanna I, I know you wanna Slip under my armor I, I know you wanna",
+      "valence": 3.16,
+      "arousal": 3.23,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I, I know you wanna Slip under my armor I, I know you wanna I, I know you wanna",
+      "valence": 3.16,
+      "arousal": 3.23,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Slip under my armor I, I know you wanna I, I know you wanna I, I know you wanna",
+      "valence": 3.19,
+      "arousal": 3.16,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I, I know you wanna I, I know you wanna I, I know you wanna Slip under my armor",
+      "valence": 3.17,
+      "arousal": 3.21,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I, I know you wanna I, I know you wanna Slip under my armor See, everywhere I go",
+      "valence": 3.12,
+      "arousal": 3.08,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I, I know you wanna Slip under my armor See, everywhere I go I got a million different people tryna hit it",
+      "valence": 3.15,
+      "arousal": 3.31,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Slip under my armor See, everywhere I go I got a million different people tryna hit it But I'm still alone in my mind",
+      "valence": 2.72,
+      "arousal": 3.13,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "See, everywhere I go I got a million different people tryna hit it But I'm still alone in my mind I know you're dying to meet me",
+      "valence": 2.88,
+      "arousal": 3.41,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "I got a million different people tryna hit it But I'm still alone in my mind I know you're dying to meet me But I can just tell you this",
+      "valence": 2.83,
+      "arousal": 3.41,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "But I'm still alone in my mind I know you're dying to meet me But I can just tell you this Baby, as soon as you meet me",
+      "valence": 3.29,
+      "arousal": 3.54,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "I know you're dying to meet me But I can just tell you this Baby, as soon as you meet me You'll wish that you never did",
+      "valence": 3.23,
+      "arousal": 3.57,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "But I can just tell you this Baby, as soon as you meet me You'll wish that you never did (You'll wish that you never did)",
+      "valence": 3.17,
+      "arousal": 3.32,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Baby, as soon as you meet me You'll wish that you never did (You'll wish that you never did) Yeah, yeah",
+      "valence": 3.07,
+      "arousal": 3.37,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "You'll wish that you never did (You'll wish that you never did) Yeah, yeah You'll wish that you never did",
+      "valence": 2.64,
+      "arousal": 3.1,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "(You'll wish that you never did) Yeah, yeah You'll wish that you never did (I know you wanna slip under my armor)",
+      "valence": 2.7,
+      "arousal": 3.24,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Yeah, yeah You'll wish that you never did (I know you wanna slip under my armor) Oh (I know you wanna, I, I know you wanna)",
+      "valence": 2.78,
+      "arousal": 3.12,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "You'll wish that you never did (I know you wanna slip under my armor) Oh (I know you wanna, I, I know you wanna) You'll wish that you never did",
+      "valence": 2.67,
+      "arousal": 3.07,
+      "dominance": 3.0
+    }
+  ]
+}

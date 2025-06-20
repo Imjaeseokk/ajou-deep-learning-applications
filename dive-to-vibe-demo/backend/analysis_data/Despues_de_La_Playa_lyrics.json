@@ -1,0 +1,528 @@
+{
+  "artist": "Bad Bunny",
+  "overall_vad": {
+    "valence": 3.01,
+    "arousal": 3.2,
+    "dominance": 3.1
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Yeah-yeah, yeah-yeah, yeah-yeah Eh-eh Ja, ja Eh-eh, eh-eh, eh",
+      "valence": 3.2,
+      "arousal": 3.33,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Eh-eh Ja, ja Eh-eh, eh-eh, eh TÃº dices que no me atrevo",
+      "valence": 2.85,
+      "arousal": 3.1,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Ja, ja Eh-eh, eh-eh, eh TÃº dices que no me atrevo Si supieras que yo ando a fuego",
+      "valence": 2.87,
+      "arousal": 3.15,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Eh-eh, eh-eh, eh TÃº dices que no me atrevo Si supieras que yo ando a fuego Dime quÃ© tÃº juega' y yo lo juego",
+      "valence": 2.83,
+      "arousal": 3.2,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "TÃº dices que no me atrevo Si supieras que yo ando a fuego Dime quÃ© tÃº juega' y yo lo juego No lo dejemo' pa' luego, no",
+      "valence": 2.77,
+      "arousal": 3.12,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Si supieras que yo ando a fuego Dime quÃ© tÃº juega' y yo lo juego No lo dejemo' pa' luego, no Que la luz ya se fue",
+      "valence": 2.89,
+      "arousal": 3.12,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Dime quÃ© tÃº juega' y yo lo juego No lo dejemo' pa' luego, no Que la luz ya se fue Y la noche llegÃ³, ey",
+      "valence": 2.92,
+      "arousal": 3.05,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "No lo dejemo' pa' luego, no Que la luz ya se fue Y la noche llegÃ³, ey Quiero saber si usted quiere lo mismo que yo",
+      "valence": 2.9,
+      "arousal": 3.15,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Que la luz ya se fue Y la noche llegÃ³, ey Quiero saber si usted quiere lo mismo que yo Dime pa' dÃ³nde vamo' despuÃ©s de la playa",
+      "valence": 2.87,
+      "arousal": 3.18,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Y la noche llegÃ³, ey Quiero saber si usted quiere lo mismo que yo Dime pa' dÃ³nde vamo' despuÃ©s de la playa Si nos secamo', yo traigo la toalla",
+      "valence": 2.95,
+      "arousal": 3.23,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Quiero saber si usted quiere lo mismo que yo Dime pa' dÃ³nde vamo' despuÃ©s de la playa Si nos secamo', yo traigo la toalla Y de nuevo nos mojamo', pero en mi cama",
+      "valence": 2.98,
+      "arousal": 3.24,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Dime pa' dÃ³nde vamo' despuÃ©s de la playa Si nos secamo', yo traigo la toalla Y de nuevo nos mojamo', pero en mi cama Te vo'a dar tabla de surfear, yeah",
+      "valence": 3.11,
+      "arousal": 3.19,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Si nos secamo', yo traigo la toalla Y de nuevo nos mojamo', pero en mi cama Te vo'a dar tabla de surfear, yeah Dime pa' dÃ³nde vamo' despuÃ©s de la playa",
+      "valence": 3.04,
+      "arousal": 3.17,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Y de nuevo nos mojamo', pero en mi cama Te vo'a dar tabla de surfear, yeah Dime pa' dÃ³nde vamo' despuÃ©s de la playa Si nos secamo', yo traigo la toalla",
+      "valence": 3.05,
+      "arousal": 3.18,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Te vo'a dar tabla de surfear, yeah Dime pa' dÃ³nde vamo' despuÃ©s de la playa Si nos secamo', yo traigo la toalla Y de nuevo nos mojamo', pero en mi cama",
+      "valence": 3.1,
+      "arousal": 3.2,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Dime pa' dÃ³nde vamo' despuÃ©s de la playa Si nos secamo', yo traigo la toalla Y de nuevo nos mojamo', pero en mi cama Te vo'a dar tabla de surfear, bebÃ©",
+      "valence": 3.08,
+      "arousal": 3.18,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Si nos secamo', yo traigo la toalla Y de nuevo nos mojamo', pero en mi cama Te vo'a dar tabla de surfear, bebÃ© Dime, Â¿vamo' pa'l mambo o no vamo' pa'l mambo?",
+      "valence": 2.99,
+      "arousal": 3.11,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Y de nuevo nos mojamo', pero en mi cama Te vo'a dar tabla de surfear, bebÃ© Dime, Â¿vamo' pa'l mambo o no vamo' pa'l mambo? TÃº me dice', mami",
+      "valence": 3.0,
+      "arousal": 3.08,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Te vo'a dar tabla de surfear, bebÃ© Dime, Â¿vamo' pa'l mambo o no vamo' pa'l mambo? TÃº me dice', mami Zumba",
+      "valence": 3.02,
+      "arousal": 3.08,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Dime, Â¿vamo' pa'l mambo o no vamo' pa'l mambo? TÃº me dice', mami Zumba Â¿QuÃ©?",
+      "valence": 2.97,
+      "arousal": 3.14,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "TÃº me dice', mami Zumba Â¿QuÃ©? Ey, ey, ey",
+      "valence": 2.98,
+      "arousal": 3.08,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Zumba Â¿QuÃ©? Ey, ey, ey Hoy sÃ­ que sÃ­, ja",
+      "valence": 3.04,
+      "arousal": 3.09,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Â¿QuÃ©? Ey, ey, ey Hoy sÃ­ que sÃ­, ja Dime pa' dÃ³nde vamo' despuÃ©s de la playa",
+      "valence": 3.07,
+      "arousal": 3.12,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Ey, ey, ey Hoy sÃ­ que sÃ­, ja Dime pa' dÃ³nde vamo' despuÃ©s de la playa Si nos secamo', yo traigo la toalla",
+      "valence": 3.06,
+      "arousal": 3.22,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Hoy sÃ­ que sÃ­, ja Dime pa' dÃ³nde vamo' despuÃ©s de la playa Si nos secamo', yo traigo la toalla Y de nuevo nos mojamo', pero en mi cama",
+      "valence": 3.05,
+      "arousal": 3.16,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Dime pa' dÃ³nde vamo' despuÃ©s de la playa Si nos secamo', yo traigo la toalla Y de nuevo nos mojamo', pero en mi cama Te vo'a dar tabla de surfear, bebÃ©",
+      "valence": 3.08,
+      "arousal": 3.18,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Si nos secamo', yo traigo la toalla Y de nuevo nos mojamo', pero en mi cama Te vo'a dar tabla de surfear, bebÃ© Mami, tÃº vive' lejo' (Â¿QuÃ©?)",
+      "valence": 3.14,
+      "arousal": 3.25,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Y de nuevo nos mojamo', pero en mi cama Te vo'a dar tabla de surfear, bebÃ© Mami, tÃº vive' lejo' (Â¿QuÃ©?) Pero como quiera yo vo'a buscarte (Wuh)",
+      "valence": 3.05,
+      "arousal": 3.2,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Te vo'a dar tabla de surfear, bebÃ© Mami, tÃº vive' lejo' (Â¿QuÃ©?) Pero como quiera yo vo'a buscarte (Wuh) Porque tÃº 'tÃ¡s buena y te lo merece' (TÃº 'tÃ¡s rica)",
+      "valence": 3.1,
+      "arousal": 3.21,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Mami, tÃº vive' lejo' (Â¿QuÃ©?) Pero como quiera yo vo'a buscarte (Wuh) Porque tÃº 'tÃ¡s buena y te lo merece' (TÃº 'tÃ¡s rica) Al frente 'el mar es que yo quiero darte",
+      "valence": 3.09,
+      "arousal": 3.19,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Pero como quiera yo vo'a buscarte (Wuh) Porque tÃº 'tÃ¡s buena y te lo merece' (TÃº 'tÃ¡s rica) Al frente 'el mar es que yo quiero darte Pa' que se pongan contento' to' los pece' (Wuh)",
+      "valence": 3.01,
+      "arousal": 3.14,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Porque tÃº 'tÃ¡s buena y te lo merece' (TÃº 'tÃ¡s rica) Al frente 'el mar es que yo quiero darte Pa' que se pongan contento' to' los pece' (Wuh) Y tÃº estÃ¡s moja', yo estoy ready pa' surfearte ('Toy ready)",
+      "valence": 3.15,
+      "arousal": 3.25,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Al frente 'el mar es que yo quiero darte Pa' que se pongan contento' to' los pece' (Wuh) Y tÃº estÃ¡s moja', yo estoy ready pa' surfearte ('Toy ready) Tranquila, que yo sÃ© que esto e' a vece' (Normal)",
+      "valence": 3.19,
+      "arousal": 3.27,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Pa' que se pongan contento' to' los pece' (Wuh) Y tÃº estÃ¡s moja', yo estoy ready pa' surfearte ('Toy ready) Tranquila, que yo sÃ© que esto e' a vece' (Normal) La otra ve' en la playa te emborrachaste (Â¿CÃ³mo fue?)",
+      "valence": 3.2,
+      "arousal": 3.23,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Y tÃº estÃ¡s moja', yo estoy ready pa' surfearte ('Toy ready) Tranquila, que yo sÃ© que esto e' a vece' (Normal) La otra ve' en la playa te emborrachaste (Â¿CÃ³mo fue?) Y pediste que te bese, yeh",
+      "valence": 3.26,
+      "arousal": 3.28,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Tranquila, que yo sÃ© que esto e' a vece' (Normal) La otra ve' en la playa te emborrachaste (Â¿CÃ³mo fue?) Y pediste que te bese, yeh Â¿CÃ³mo?",
+      "valence": 2.99,
+      "arousal": 3.14,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "La otra ve' en la playa te emborrachaste (Â¿CÃ³mo fue?) Y pediste que te bese, yeh Â¿CÃ³mo? Ey, ey, ey, ey, ey, ey, ey, ey",
+      "valence": 2.96,
+      "arousal": 3.16,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Y pediste que te bese, yeh Â¿CÃ³mo? Ey, ey, ey, ey, ey, ey, ey, ey Prende eso, prende eso, prende eso",
+      "valence": 2.98,
+      "arousal": 3.14,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Â¿CÃ³mo? Ey, ey, ey, ey, ey, ey, ey, ey Prende eso, prende eso, prende eso Â¿CÃ³mo?",
+      "valence": 2.99,
+      "arousal": 3.18,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Ey, ey, ey, ey, ey, ey, ey, ey Prende eso, prende eso, prende eso Â¿CÃ³mo? Ando con el apecha'o",
+      "valence": 2.94,
+      "arousal": 3.17,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Prende eso, prende eso, prende eso Â¿CÃ³mo? Ando con el apecha'o Que no me llame nadie hoy, Â¿okey?",
+      "valence": 2.96,
+      "arousal": 3.01,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Â¿CÃ³mo? Ando con el apecha'o Que no me llame nadie hoy, Â¿okey? Me lo vo'a beber todo (Ja)",
+      "valence": 2.93,
+      "arousal": 2.99,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Ando con el apecha'o Que no me llame nadie hoy, Â¿okey? Me lo vo'a beber todo (Ja) Ey, to' el mundo borracho bailando en la playa",
+      "valence": 2.88,
+      "arousal": 2.89,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Que no me llame nadie hoy, Â¿okey? Me lo vo'a beber todo (Ja) Ey, to' el mundo borracho bailando en la playa Sintiendo el calor, sintiendo el calor",
+      "valence": 2.89,
+      "arousal": 2.95,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Me lo vo'a beber todo (Ja) Ey, to' el mundo borracho bailando en la playa Sintiendo el calor, sintiendo el calor TÃº llevas rato mirando y mirando",
+      "valence": 3.06,
+      "arousal": 3.23,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Ey, to' el mundo borracho bailando en la playa Sintiendo el calor, sintiendo el calor TÃº llevas rato mirando y mirando PÃ©gate mejor, pÃ©gate mejor",
+      "valence": 3.05,
+      "arousal": 3.28,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Sintiendo el calor, sintiendo el calor TÃº llevas rato mirando y mirando PÃ©gate mejor, pÃ©gate mejor De esa chapa se habla en toa' las barberÃ­a'",
+      "valence": 2.96,
+      "arousal": 3.21,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "TÃº llevas rato mirando y mirando PÃ©gate mejor, pÃ©gate mejor De esa chapa se habla en toa' las barberÃ­a' Y en el colmadÃ³n, y en el colmadÃ³n (Â¿CÃ³mo?)",
+      "valence": 3.01,
+      "arousal": 3.2,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "PÃ©gate mejor, pÃ©gate mejor De esa chapa se habla en toa' las barberÃ­a' Y en el colmadÃ³n, y en el colmadÃ³n (Â¿CÃ³mo?) Ey, tu novio se cree Romeo",
+      "valence": 2.98,
+      "arousal": 3.2,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "De esa chapa se habla en toa' las barberÃ­a' Y en el colmadÃ³n, y en el colmadÃ³n (Â¿CÃ³mo?) Ey, tu novio se cree Romeo Y yo le vo'a hacer como Don",
+      "valence": 3.04,
+      "arousal": 3.09,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Y en el colmadÃ³n, y en el colmadÃ³n (Â¿CÃ³mo?) Ey, tu novio se cree Romeo Y yo le vo'a hacer como Don Le vo'a hacer como Don, Â¿quÃ©, quÃ©, quÃ©?",
+      "valence": 3.05,
+      "arousal": 3.22,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Ey, tu novio se cree Romeo Y yo le vo'a hacer como Don Le vo'a hacer como Don, Â¿quÃ©, quÃ©, quÃ©? \"SalÃ­ con tu mujer\"",
+      "valence": 3.07,
+      "arousal": 3.2,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Y yo le vo'a hacer como Don Le vo'a hacer como Don, Â¿quÃ©, quÃ©, quÃ©? \"SalÃ­ con tu mujer\" Ya Dio' me perdonÃ³, faltas tÃº",
+      "valence": 3.01,
+      "arousal": 3.22,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Le vo'a hacer como Don, Â¿quÃ©, quÃ©, quÃ©? \"SalÃ­ con tu mujer\" Ya Dio' me perdonÃ³, faltas tÃº Â¿QuÃ©, quÃ©, quÃ©?",
+      "valence": 3.02,
+      "arousal": 3.22,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "\"SalÃ­ con tu mujer\" Ya Dio' me perdonÃ³, faltas tÃº Â¿QuÃ©, quÃ©, quÃ©? 'Toy borracho, borracho",
+      "valence": 3.03,
+      "arousal": 3.4,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Ya Dio' me perdonÃ³, faltas tÃº Â¿QuÃ©, quÃ©, quÃ©? 'Toy borracho, borracho Ey, ey, ey, ey, ey, ey",
+      "valence": 2.9,
+      "arousal": 3.27,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Â¿QuÃ©, quÃ©, quÃ©? 'Toy borracho, borracho Ey, ey, ey, ey, ey, ey Â¿QuÃ© tÃº dice' de esto?",
+      "valence": 2.95,
+      "arousal": 3.17,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "'Toy borracho, borracho Ey, ey, ey, ey, ey, ey Â¿QuÃ© tÃº dice' de esto? No le vo'a bajar, Â¿okey?",
+      "valence": 2.98,
+      "arousal": 3.09,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Ey, ey, ey, ey, ey, ey Â¿QuÃ© tÃº dice' de esto? No le vo'a bajar, Â¿okey? No le baje', no le baje'",
+      "valence": 3.03,
+      "arousal": 3.0,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Â¿QuÃ© tÃº dice' de esto? No le vo'a bajar, Â¿okey? No le baje', no le baje' Ah, ah, ah, ah, ah, ah, ah (Â¿CÃ³mo?)",
+      "valence": 3.01,
+      "arousal": 3.0,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "No le vo'a bajar, Â¿okey? No le baje', no le baje' Ah, ah, ah, ah, ah, ah, ah (Â¿CÃ³mo?) Ey, ey, ey, ey, ey",
+      "valence": 2.91,
+      "arousal": 3.05,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "No le baje', no le baje' Ah, ah, ah, ah, ah, ah, ah (Â¿CÃ³mo?) Ey, ey, ey, ey, ey Â¡QuÃ© gozadera!",
+      "valence": 2.82,
+      "arousal": 3.62,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Ah, ah, ah, ah, ah, ah, ah (Â¿CÃ³mo?) Ey, ey, ey, ey, ey Â¡QuÃ© gozadera! Ey, ey, ey, ey, ey",
+      "valence": 3.19,
+      "arousal": 3.89,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Ey, ey, ey, ey, ey Â¡QuÃ© gozadera! Ey, ey, ey, ey, ey Que no se apague",
+      "valence": 3.02,
+      "arousal": 3.86,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Â¡QuÃ© gozadera! Ey, ey, ey, ey, ey Que no se apague Ey, ey, ey, ey",
+      "valence": 3.09,
+      "arousal": 3.86,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Ey, ey, ey, ey, ey Que no se apague Ey, ey, ey, ey Â¿Pa 'Ã³nde vamo'?",
+      "valence": 2.9,
+      "arousal": 2.99,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Que no se apague Ey, ey, ey, ey Â¿Pa 'Ã³nde vamo'? Â¿Pa' Ã³nde vamo'?",
+      "valence": 2.92,
+      "arousal": 3.18,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Ey, ey, ey, ey Â¿Pa 'Ã³nde vamo'? Â¿Pa' Ã³nde vamo'? Dime, despuÃ©' de aquÃ­",
+      "valence": 2.99,
+      "arousal": 3.28,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Â¿Pa 'Ã³nde vamo'? Â¿Pa' Ã³nde vamo'? Dime, despuÃ©' de aquÃ­ Mera",
+      "valence": 3.01,
+      "arousal": 3.27,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Â¿Pa' Ã³nde vamo'? Dime, despuÃ©' de aquÃ­ Mera Â¿Y este cabrÃ³n quiÃ©n e'?",
+      "valence": 3.05,
+      "arousal": 3.18,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Dime, despuÃ©' de aquÃ­ Mera Â¿Y este cabrÃ³n quiÃ©n e'? Que estÃ¡ cogiendo cerveza en la neverita, tÃº, eh",
+      "valence": 3.03,
+      "arousal": 3.09,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Mera Â¿Y este cabrÃ³n quiÃ©n e'? Que estÃ¡ cogiendo cerveza en la neverita, tÃº, eh Â¿Anda con nosotro'?",
+      "valence": 3.06,
+      "arousal": 3.15,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Â¿Y este cabrÃ³n quiÃ©n e'? Que estÃ¡ cogiendo cerveza en la neverita, tÃº, eh Â¿Anda con nosotro'? Ah, okey, okey, okey, okey, dale",
+      "valence": 3.03,
+      "arousal": 3.17,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Que estÃ¡ cogiendo cerveza en la neverita, tÃº, eh Â¿Anda con nosotro'? Ah, okey, okey, okey, okey, dale Translate to English",
+      "valence": 3.03,
+      "arousal": 3.19,
+      "dominance": 3.08
+    }
+  ]
+}

@@ -1,0 +1,416 @@
+{
+  "artist": "Sam Hunt",
+  "overall_vad": {
+    "valence": 2.89,
+    "arousal": 3.39,
+    "dominance": 3.28
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I don't know if you were looking at me or not You probably smile like that all the time And I don't mean to bother you but I couldn't just walk by",
+      "valence": 2.8,
+      "arousal": 3.21,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "You probably smile like that all the time And I don't mean to bother you but I couldn't just walk by And not say hi",
+      "valence": 2.82,
+      "arousal": 3.24,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "And I don't mean to bother you but I couldn't just walk by And not say hi And I know your name",
+      "valence": 2.74,
+      "arousal": 3.28,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I couldn't just walk by And not say hi And I know your name 'Cause everybody in here knows your name",
+      "valence": 3.05,
+      "arousal": 3.26,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "And not say hi And I know your name 'Cause everybody in here knows your name And you're not looking for anything right now",
+      "valence": 2.77,
+      "arousal": 3.25,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "And I know your name 'Cause everybody in here knows your name And you're not looking for anything right now So I don't wanna come on strong",
+      "valence": 2.6,
+      "arousal": 3.25,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "'Cause everybody in here knows your name And you're not looking for anything right now So I don't wanna come on strong But don't get me wrong",
+      "valence": 2.67,
+      "arousal": 3.26,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "And you're not looking for anything right now So I don't wanna come on strong But don't get me wrong Your eyes are so intimidating",
+      "valence": 2.42,
+      "arousal": 3.72,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "So I don't wanna come on strong But don't get me wrong Your eyes are so intimidating My heart is pounding but",
+      "valence": 2.69,
+      "arousal": 3.95,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "But don't get me wrong Your eyes are so intimidating My heart is pounding but It's just a conversation",
+      "valence": 2.73,
+      "arousal": 3.89,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Your eyes are so intimidating My heart is pounding but It's just a conversation No, girl, I'm not wasted",
+      "valence": 2.74,
+      "arousal": 3.98,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "My heart is pounding but It's just a conversation No, girl, I'm not wasted You don't know me",
+      "valence": 2.67,
+      "arousal": 3.8,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "It's just a conversation No, girl, I'm not wasted You don't know me I don't know you but I want to",
+      "valence": 2.87,
+      "arousal": 3.52,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "No, girl, I'm not wasted You don't know me I don't know you but I want to And I don't wanna steal your freedom",
+      "valence": 2.69,
+      "arousal": 3.65,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "You don't know me I don't know you but I want to And I don't wanna steal your freedom I don't wanna change your mind",
+      "valence": 2.62,
+      "arousal": 3.33,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I don't know you but I want to And I don't wanna steal your freedom I don't wanna change your mind I don't have to make you love me",
+      "valence": 2.86,
+      "arousal": 3.43,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "And I don't wanna steal your freedom I don't wanna change your mind I don't have to make you love me I just want to take your time",
+      "valence": 3.2,
+      "arousal": 3.31,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I don't wanna change your mind I don't have to make you love me I just want to take your time I don't wanna wreck your Friday",
+      "valence": 3.08,
+      "arousal": 3.32,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I don't have to make you love me I just want to take your time I don't wanna wreck your Friday I ain't gonna waste my lines",
+      "valence": 3.08,
+      "arousal": 3.17,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I just want to take your time I don't wanna wreck your Friday I ain't gonna waste my lines I don't have to take your heart",
+      "valence": 3.08,
+      "arousal": 3.1,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I don't wanna wreck your Friday I ain't gonna waste my lines I don't have to take your heart I just wanna take your time",
+      "valence": 3.09,
+      "arousal": 3.17,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I ain't gonna waste my lines I don't have to take your heart I just wanna take your time And I know it starts with hello",
+      "valence": 3.22,
+      "arousal": 3.08,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I don't have to take your heart I just wanna take your time And I know it starts with hello And the next thing you know you try to be nice",
+      "valence": 3.23,
+      "arousal": 3.21,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I just wanna take your time And I know it starts with hello And the next thing you know you try to be nice And some guys getting too close",
+      "valence": 3.04,
+      "arousal": 3.08,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "And I know it starts with hello And the next thing you know you try to be nice And some guys getting too close Trying to pick you up",
+      "valence": 2.9,
+      "arousal": 3.33,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "And the next thing you know you try to be nice And some guys getting too close Trying to pick you up Trying to get you drunk",
+      "valence": 2.75,
+      "arousal": 3.43,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "And some guys getting too close Trying to pick you up Trying to get you drunk And I'm sure one of your friends is about to come over here",
+      "valence": 2.63,
+      "arousal": 3.33,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Trying to pick you up Trying to get you drunk And I'm sure one of your friends is about to come over here 'Cause she's supposed to save you from random guys",
+      "valence": 2.78,
+      "arousal": 3.55,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Trying to get you drunk And I'm sure one of your friends is about to come over here 'Cause she's supposed to save you from random guys That talk to much and wanna stay too long",
+      "valence": 2.86,
+      "arousal": 3.47,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "And I'm sure one of your friends is about to come over here 'Cause she's supposed to save you from random guys That talk to much and wanna stay too long It's the same old song and dance but I think you know it well",
+      "valence": 3.19,
+      "arousal": 3.34,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "'Cause she's supposed to save you from random guys That talk to much and wanna stay too long It's the same old song and dance but I think you know it well You coulda rolled your eyes",
+      "valence": 2.88,
+      "arousal": 3.29,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "That talk to much and wanna stay too long It's the same old song and dance but I think you know it well You coulda rolled your eyes Told me to go to hell",
+      "valence": 2.45,
+      "arousal": 3.36,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "It's the same old song and dance but I think you know it well You coulda rolled your eyes Told me to go to hell Coulda walked away",
+      "valence": 2.47,
+      "arousal": 3.35,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "You coulda rolled your eyes Told me to go to hell Coulda walked away But you're still here",
+      "valence": 2.34,
+      "arousal": 3.51,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Told me to go to hell Coulda walked away But you're still here And I'm still here",
+      "valence": 2.59,
+      "arousal": 3.5,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Coulda walked away But you're still here And I'm still here Come on let's see where it goes",
+      "valence": 3.08,
+      "arousal": 3.27,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "But you're still here And I'm still here Come on let's see where it goes I don't wanna steal your freedom",
+      "valence": 2.88,
+      "arousal": 3.48,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "And I'm still here Come on let's see where it goes I don't wanna steal your freedom I don't wanna change your mind",
+      "valence": 2.89,
+      "arousal": 3.34,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Come on let's see where it goes I don't wanna steal your freedom I don't wanna change your mind I don't have to make you love me",
+      "valence": 3.08,
+      "arousal": 3.58,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "I don't wanna steal your freedom I don't wanna change your mind I don't have to make you love me I just wanna take your time",
+      "valence": 3.02,
+      "arousal": 3.45,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I don't wanna change your mind I don't have to make you love me I just wanna take your time I don't have to meet your mother",
+      "valence": 3.1,
+      "arousal": 3.37,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "I don't have to make you love me I just wanna take your time I don't have to meet your mother We don't have to cross that line",
+      "valence": 3.11,
+      "arousal": 3.34,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I just wanna take your time I don't have to meet your mother We don't have to cross that line I don't wanna steal your covers",
+      "valence": 3.03,
+      "arousal": 3.18,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I don't have to meet your mother We don't have to cross that line I don't wanna steal your covers I just wanna take your time",
+      "valence": 3.02,
+      "arousal": 3.14,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "We don't have to cross that line I don't wanna steal your covers I just wanna take your time I don't wanna go home with you, woah-ooh-oh, oh",
+      "valence": 2.9,
+      "arousal": 3.48,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I don't wanna steal your covers I just wanna take your time I don't wanna go home with you, woah-ooh-oh, oh I just wanna be alone with you",
+      "valence": 3.0,
+      "arousal": 3.28,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I just wanna take your time I don't wanna go home with you, woah-ooh-oh, oh I just wanna be alone with you I don't wanna steal your freedom",
+      "valence": 2.95,
+      "arousal": 3.34,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I don't wanna go home with you, woah-ooh-oh, oh I just wanna be alone with you I don't wanna steal your freedom I don't wanna change your mind",
+      "valence": 2.82,
+      "arousal": 3.49,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I just wanna be alone with you I don't wanna steal your freedom I don't wanna change your mind I don't have to make you love me",
+      "valence": 3.08,
+      "arousal": 3.51,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I don't wanna steal your freedom I don't wanna change your mind I don't have to make you love me I just wanna take your time",
+      "valence": 3.02,
+      "arousal": 3.45,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I don't wanna change your mind I don't have to make you love me I just wanna take your time I don't wanna blow your phone up",
+      "valence": 2.9,
+      "arousal": 3.45,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "I don't have to make you love me I just wanna take your time I don't wanna blow your phone up I just wanna blow your mind",
+      "valence": 2.98,
+      "arousal": 3.52,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "I just wanna take your time I don't wanna blow your phone up I just wanna blow your mind I don't have to take your heart",
+      "valence": 2.95,
+      "arousal": 3.31,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "I don't wanna blow your phone up I just wanna blow your mind I don't have to take your heart I just wanna take your time",
+      "valence": 2.91,
+      "arousal": 3.39,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "I just wanna blow your mind I don't have to take your heart I just wanna take your time No, I ain't gotta call you baby",
+      "valence": 2.7,
+      "arousal": 3.55,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "I don't have to take your heart I just wanna take your time No, I ain't gotta call you baby And I ain't gotta call you mine",
+      "valence": 3.15,
+      "arousal": 3.27,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "I just wanna take your time No, I ain't gotta call you baby And I ain't gotta call you mine I don't have to take your heart",
+      "valence": 3.09,
+      "arousal": 3.13,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "No, I ain't gotta call you baby And I ain't gotta call you mine I don't have to take your heart I just wanna take your time",
+      "valence": 3.16,
+      "arousal": 3.28,
+      "dominance": 3.16
+    }
+  ]
+}

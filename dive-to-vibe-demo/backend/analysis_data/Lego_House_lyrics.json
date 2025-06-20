@@ -1,0 +1,346 @@
+{
+  "artist": "Ed Sheeran",
+  "overall_vad": {
+    "valence": 3.43,
+    "arousal": 3.67,
+    "dominance": 3.3
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I'm gonna pick up the pieces And build a Lego house When things go wrong we can knock it down My three words have two meanings",
+      "valence": 3.09,
+      "arousal": 3.35,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "And build a Lego house When things go wrong we can knock it down My three words have two meanings There's one thing on my mind, it's all for you",
+      "valence": 3.29,
+      "arousal": 3.45,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "When things go wrong we can knock it down My three words have two meanings There's one thing on my mind, it's all for you And it's dark in a cold December",
+      "valence": 2.98,
+      "arousal": 3.26,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "My three words have two meanings There's one thing on my mind, it's all for you And it's dark in a cold December But I've got ya to keep me warm",
+      "valence": 3.21,
+      "arousal": 3.33,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "There's one thing on my mind, it's all for you And it's dark in a cold December But I've got ya to keep me warm And if you're broken I'll mend ya",
+      "valence": 3.25,
+      "arousal": 3.42,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "And it's dark in a cold December But I've got ya to keep me warm And if you're broken I'll mend ya And I keep you sheltered from the storm",
+      "valence": 3.24,
+      "arousal": 3.31,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "But I've got ya to keep me warm And if you're broken I'll mend ya And I keep you sheltered from the storm That's raging on now",
+      "valence": 3.3,
+      "arousal": 3.36,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "And if you're broken I'll mend ya And I keep you sheltered from the storm That's raging on now I'm out of touch, I'm out of love",
+      "valence": 2.97,
+      "arousal": 3.63,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "And I keep you sheltered from the storm That's raging on now I'm out of touch, I'm out of love I'll pick you up when you're getting down",
+      "valence": 3.24,
+      "arousal": 3.61,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "That's raging on now I'm out of touch, I'm out of love I'll pick you up when you're getting down And out of all these things I've done",
+      "valence": 2.79,
+      "arousal": 3.86,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I'm out of touch, I'm out of love I'll pick you up when you're getting down And out of all these things I've done I think I love you better now",
+      "valence": 3.72,
+      "arousal": 4.01,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I'll pick you up when you're getting down And out of all these things I've done I think I love you better now I'm out of sight, I'm out of mind",
+      "valence": 3.67,
+      "arousal": 3.73,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "And out of all these things I've done I think I love you better now I'm out of sight, I'm out of mind I'll do it all for you in time",
+      "valence": 3.85,
+      "arousal": 3.67,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I think I love you better now I'm out of sight, I'm out of mind I'll do it all for you in time And out of all these things I've done",
+      "valence": 3.8,
+      "arousal": 3.62,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I'm out of sight, I'm out of mind I'll do it all for you in time And out of all these things I've done I think I love you better now, now",
+      "valence": 3.63,
+      "arousal": 3.53,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I'll do it all for you in time And out of all these things I've done I think I love you better now, now I'm gonna paint you by numbers and color you in",
+      "valence": 3.65,
+      "arousal": 3.53,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "And out of all these things I've done I think I love you better now, now I'm gonna paint you by numbers and color you in If things go right we can frame it",
+      "valence": 3.71,
+      "arousal": 3.66,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I think I love you better now, now I'm gonna paint you by numbers and color you in If things go right we can frame it And put you on a wall",
+      "valence": 3.66,
+      "arousal": 3.65,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I'm gonna paint you by numbers and color you in If things go right we can frame it And put you on a wall And it's so hard to say it but I've been here before",
+      "valence": 3.16,
+      "arousal": 3.29,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "If things go right we can frame it And put you on a wall And it's so hard to say it but I've been here before Now I'll surrender up my heart and swap it for yours",
+      "valence": 3.11,
+      "arousal": 3.46,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "And put you on a wall And it's so hard to say it but I've been here before Now I'll surrender up my heart and swap it for yours I'm out of touch, I'm out of love",
+      "valence": 3.55,
+      "arousal": 4.03,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "And it's so hard to say it but I've been here before Now I'll surrender up my heart and swap it for yours I'm out of touch, I'm out of love I'll pick you up when you're getting down",
+      "valence": 3.65,
+      "arousal": 4.05,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Now I'll surrender up my heart and swap it for yours I'm out of touch, I'm out of love I'll pick you up when you're getting down And out of all these things I've done",
+      "valence": 3.45,
+      "arousal": 3.83,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I'm out of touch, I'm out of love I'll pick you up when you're getting down And out of all these things I've done I think I love you better now",
+      "valence": 3.72,
+      "arousal": 4.01,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I'll pick you up when you're getting down And out of all these things I've done I think I love you better now I'm out of sight, I'm out of mind",
+      "valence": 3.67,
+      "arousal": 3.73,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "And out of all these things I've done I think I love you better now I'm out of sight, I'm out of mind I'll do it all for you in time",
+      "valence": 3.85,
+      "arousal": 3.67,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I think I love you better now I'm out of sight, I'm out of mind I'll do it all for you in time And out of all these things I've done",
+      "valence": 3.8,
+      "arousal": 3.62,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I'm out of sight, I'm out of mind I'll do it all for you in time And out of all these things I've done I think I love you better now",
+      "valence": 3.71,
+      "arousal": 3.6,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I'll do it all for you in time And out of all these things I've done I think I love you better now Don't hold me down",
+      "valence": 3.6,
+      "arousal": 3.64,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "And out of all these things I've done I think I love you better now Don't hold me down I think my braces are breaking",
+      "valence": 3.54,
+      "arousal": 4.05,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I think I love you better now Don't hold me down I think my braces are breaking And it's more than I can take",
+      "valence": 3.37,
+      "arousal": 4.24,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Don't hold me down I think my braces are breaking And it's more than I can take And it's dark in a cold December",
+      "valence": 2.4,
+      "arousal": 3.81,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I think my braces are breaking And it's more than I can take And it's dark in a cold December But I've got ya to keep me warm",
+      "valence": 2.94,
+      "arousal": 3.52,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "And it's more than I can take And it's dark in a cold December But I've got ya to keep me warm If you're broken I will mend ya",
+      "valence": 3.09,
+      "arousal": 3.4,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "And it's dark in a cold December But I've got ya to keep me warm If you're broken I will mend ya And I keep you sheltered from the storm",
+      "valence": 3.27,
+      "arousal": 3.32,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "But I've got ya to keep me warm If you're broken I will mend ya And I keep you sheltered from the storm That's raging on now",
+      "valence": 3.34,
+      "arousal": 3.37,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "If you're broken I will mend ya And I keep you sheltered from the storm That's raging on now I'm out of touch, I'm out of love",
+      "valence": 3.0,
+      "arousal": 3.61,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "And I keep you sheltered from the storm That's raging on now I'm out of touch, I'm out of love I'll pick you up when you're getting down",
+      "valence": 3.24,
+      "arousal": 3.61,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "That's raging on now I'm out of touch, I'm out of love I'll pick you up when you're getting down And out of all these things I've done",
+      "valence": 2.79,
+      "arousal": 3.86,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "I'm out of touch, I'm out of love I'll pick you up when you're getting down And out of all these things I've done I think I love you better now",
+      "valence": 3.72,
+      "arousal": 4.01,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I'll pick you up when you're getting down And out of all these things I've done I think I love you better now I'm out of sight, I'm out of mind",
+      "valence": 3.67,
+      "arousal": 3.73,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "And out of all these things I've done I think I love you better now I'm out of sight, I'm out of mind I'll do it all for you in time",
+      "valence": 3.85,
+      "arousal": 3.67,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I think I love you better now I'm out of sight, I'm out of mind I'll do it all for you in time And out of all these things I've done",
+      "valence": 3.8,
+      "arousal": 3.62,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I'm out of sight, I'm out of mind I'll do it all for you in time And out of all these things I've done I think I love you better now",
+      "valence": 3.71,
+      "arousal": 3.6,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I'll do it all for you in time And out of all these things I've done I think I love you better now I'm out of touch, I'm out of love",
+      "valence": 3.89,
+      "arousal": 3.84,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "And out of all these things I've done I think I love you better now I'm out of touch, I'm out of love I'll pick you up when you're getting down",
+      "valence": 3.74,
+      "arousal": 3.95,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I think I love you better now I'm out of touch, I'm out of love I'll pick you up when you're getting down And out of all these things I've done",
+      "valence": 3.52,
+      "arousal": 3.91,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I'm out of touch, I'm out of love I'll pick you up when you're getting down And out of all these things I've done I will love you better now",
+      "valence": 3.6,
+      "arousal": 3.93,
+      "dominance": 3.22
+    }
+  ]
+}

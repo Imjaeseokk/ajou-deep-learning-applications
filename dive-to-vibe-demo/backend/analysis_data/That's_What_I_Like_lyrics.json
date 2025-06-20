@@ -1,0 +1,479 @@
+{
+  "artist": "Bruno Mars",
+  "overall_vad": {
+    "valence": 3.56,
+    "arousal": 3.54,
+    "dominance": 3.43
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Ayy, ayy, ayy I got a condo in Manhattan Baby girl, what's happenin'? (What's happenin'?) You and your ass invited",
+      "valence": 3.05,
+      "arousal": 3.65,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I got a condo in Manhattan Baby girl, what's happenin'? (What's happenin'?) You and your ass invited So go on and get to clappin' (clap)",
+      "valence": 3.09,
+      "arousal": 3.66,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Baby girl, what's happenin'? (What's happenin'?) You and your ass invited So go on and get to clappin' (clap) Go pop it for a player, pop-pop it for me",
+      "valence": 3.13,
+      "arousal": 3.6,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "You and your ass invited So go on and get to clappin' (clap) Go pop it for a player, pop-pop it for me Turn around and drop it for a player (drop it)",
+      "valence": 3.06,
+      "arousal": 3.49,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "So go on and get to clappin' (clap) Go pop it for a player, pop-pop it for me Turn around and drop it for a player (drop it) Drop-drop it for me (drop it)",
+      "valence": 3.11,
+      "arousal": 3.31,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Go pop it for a player, pop-pop it for me Turn around and drop it for a player (drop it) Drop-drop it for me (drop it) I'll rent a beach house in Miami ('ami)",
+      "valence": 3.26,
+      "arousal": 3.1,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Turn around and drop it for a player (drop it) Drop-drop it for me (drop it) I'll rent a beach house in Miami ('ami) Wake up with no jammies (nope)",
+      "valence": 2.95,
+      "arousal": 3.23,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Drop-drop it for me (drop it) I'll rent a beach house in Miami ('ami) Wake up with no jammies (nope) Lobster tail for dinner (uh)",
+      "valence": 3.05,
+      "arousal": 3.29,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I'll rent a beach house in Miami ('ami) Wake up with no jammies (nope) Lobster tail for dinner (uh) Julio, serve that scampi (Julio)",
+      "valence": 3.08,
+      "arousal": 3.36,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Wake up with no jammies (nope) Lobster tail for dinner (uh) Julio, serve that scampi (Julio) You got it if you want it, got, got it if you want it",
+      "valence": 3.04,
+      "arousal": 3.42,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Lobster tail for dinner (uh) Julio, serve that scampi (Julio) You got it if you want it, got, got it if you want it Said, you got it if you want it, take my wallet if you want it, now",
+      "valence": 3.18,
+      "arousal": 3.43,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Julio, serve that scampi (Julio) You got it if you want it, got, got it if you want it Said, you got it if you want it, take my wallet if you want it, now Jump in the Cadillac",
+      "valence": 3.17,
+      "arousal": 3.44,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "You got it if you want it, got, got it if you want it Said, you got it if you want it, take my wallet if you want it, now Jump in the Cadillac (Girl, let's put some miles on it)",
+      "valence": 3.16,
+      "arousal": 3.52,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Said, you got it if you want it, take my wallet if you want it, now Jump in the Cadillac (Girl, let's put some miles on it) Anything you want",
+      "valence": 3.0,
+      "arousal": 3.49,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Jump in the Cadillac (Girl, let's put some miles on it) Anything you want (Just to put a smile on it)",
+      "valence": 3.47,
+      "arousal": 3.51,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "(Girl, let's put some miles on it) Anything you want (Just to put a smile on it) You deserve it, baby, you deserve it all",
+      "valence": 3.52,
+      "arousal": 3.71,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Anything you want (Just to put a smile on it) You deserve it, baby, you deserve it all And I'm gonna give it to you",
+      "valence": 3.87,
+      "arousal": 3.75,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "(Just to put a smile on it) You deserve it, baby, you deserve it all And I'm gonna give it to you Gold jewelry shining so bright",
+      "valence": 4.04,
+      "arousal": 3.81,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "You deserve it, baby, you deserve it all And I'm gonna give it to you Gold jewelry shining so bright Strawberry champagne on ice",
+      "valence": 3.74,
+      "arousal": 3.83,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "And I'm gonna give it to you Gold jewelry shining so bright Strawberry champagne on ice Lucky for you, that's what I like, that's what I like",
+      "valence": 4.03,
+      "arousal": 3.62,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Gold jewelry shining so bright Strawberry champagne on ice Lucky for you, that's what I like, that's what I like Lucky for you, that's what I like, that's what I like",
+      "valence": 4.1,
+      "arousal": 3.6,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Strawberry champagne on ice Lucky for you, that's what I like, that's what I like Lucky for you, that's what I like, that's what I like Sex by the fire at night",
+      "valence": 4.02,
+      "arousal": 3.52,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Lucky for you, that's what I like, that's what I like Lucky for you, that's what I like, that's what I like Sex by the fire at night Silk sheets and diamonds all white",
+      "valence": 3.98,
+      "arousal": 3.53,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Lucky for you, that's what I like, that's what I like Sex by the fire at night Silk sheets and diamonds all white Lucky for you, that's what I like, that's what I like",
+      "valence": 3.94,
+      "arousal": 3.54,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Sex by the fire at night Silk sheets and diamonds all white Lucky for you, that's what I like, that's what I like Lucky for you, that's what I like, that's what I like",
+      "valence": 3.99,
+      "arousal": 3.69,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Silk sheets and diamonds all white Lucky for you, that's what I like, that's what I like Lucky for you, that's what I like, that's what I like I'm talkin' trips to Puerto Rico (bih)",
+      "valence": 3.95,
+      "arousal": 3.51,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Lucky for you, that's what I like, that's what I like Lucky for you, that's what I like, that's what I like I'm talkin' trips to Puerto Rico (bih) Say the word and we go (say it)",
+      "valence": 3.97,
+      "arousal": 3.55,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Lucky for you, that's what I like, that's what I like I'm talkin' trips to Puerto Rico (bih) Say the word and we go (say it) You can be my freaka (brr)",
+      "valence": 3.74,
+      "arousal": 3.5,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I'm talkin' trips to Puerto Rico (bih) Say the word and we go (say it) You can be my freaka (brr) Girl, I'll be your fleeko, mamacita",
+      "valence": 3.49,
+      "arousal": 3.57,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Say the word and we go (say it) You can be my freaka (brr) Girl, I'll be your fleeko, mamacita I will never make a promise that I can't keep",
+      "valence": 3.52,
+      "arousal": 3.69,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "You can be my freaka (brr) Girl, I'll be your fleeko, mamacita I will never make a promise that I can't keep I promise that your smile ain't gon' never leave",
+      "valence": 3.6,
+      "arousal": 3.65,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Girl, I'll be your fleeko, mamacita I will never make a promise that I can't keep I promise that your smile ain't gon' never leave Shopping sprees in Paris (ooh)",
+      "valence": 3.39,
+      "arousal": 3.62,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I will never make a promise that I can't keep I promise that your smile ain't gon' never leave Shopping sprees in Paris (ooh) Everything twenty-four karats (uh)",
+      "valence": 3.03,
+      "arousal": 3.35,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I promise that your smile ain't gon' never leave Shopping sprees in Paris (ooh) Everything twenty-four karats (uh) Take a look in that mirror (take a look)",
+      "valence": 3.17,
+      "arousal": 3.35,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Shopping sprees in Paris (ooh) Everything twenty-four karats (uh) Take a look in that mirror (take a look) Now tell me who's the fairest?",
+      "valence": 3.09,
+      "arousal": 3.23,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Everything twenty-four karats (uh) Take a look in that mirror (take a look) Now tell me who's the fairest? Is it you? (Is it you?) Is it me? (Is it me?)",
+      "valence": 3.0,
+      "arousal": 3.21,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Take a look in that mirror (take a look) Now tell me who's the fairest? Is it you? (Is it you?) Is it me? (Is it me?) Say it's us (say it's us) and I'll agree, baby",
+      "valence": 3.12,
+      "arousal": 3.26,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Now tell me who's the fairest? Is it you? (Is it you?) Is it me? (Is it me?) Say it's us (say it's us) and I'll agree, baby Jump in the Cadillac",
+      "valence": 3.1,
+      "arousal": 3.32,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Is it you? (Is it you?) Is it me? (Is it me?) Say it's us (say it's us) and I'll agree, baby Jump in the Cadillac (Girl, let's put some miles on it)",
+      "valence": 3.08,
+      "arousal": 3.34,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Say it's us (say it's us) and I'll agree, baby Jump in the Cadillac (Girl, let's put some miles on it) Anything you want",
+      "valence": 3.15,
+      "arousal": 3.5,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Jump in the Cadillac (Girl, let's put some miles on it) Anything you want (Just to put a smile on it)",
+      "valence": 3.47,
+      "arousal": 3.51,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "(Girl, let's put some miles on it) Anything you want (Just to put a smile on it) You deserve it baby, you deserve it all",
+      "valence": 3.53,
+      "arousal": 3.73,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Anything you want (Just to put a smile on it) You deserve it baby, you deserve it all And I'm gonna give it to you",
+      "valence": 3.88,
+      "arousal": 3.8,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "(Just to put a smile on it) You deserve it baby, you deserve it all And I'm gonna give it to you Gold jewelry shining so bright",
+      "valence": 4.07,
+      "arousal": 3.83,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "You deserve it baby, you deserve it all And I'm gonna give it to you Gold jewelry shining so bright Strawberry champagne on ice",
+      "valence": 3.77,
+      "arousal": 3.9,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "And I'm gonna give it to you Gold jewelry shining so bright Strawberry champagne on ice Lucky for you, that's what I like, that's what I like",
+      "valence": 4.03,
+      "arousal": 3.62,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Gold jewelry shining so bright Strawberry champagne on ice Lucky for you, that's what I like, that's what I like Lucky for you, that's what I like, that's what I like",
+      "valence": 4.1,
+      "arousal": 3.6,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Strawberry champagne on ice Lucky for you, that's what I like, that's what I like Lucky for you, that's what I like, that's what I like Sex by the fire at night",
+      "valence": 4.02,
+      "arousal": 3.52,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Lucky for you, that's what I like, that's what I like Lucky for you, that's what I like, that's what I like Sex by the fire at night Silk sheets and diamonds all white",
+      "valence": 3.98,
+      "arousal": 3.53,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Lucky for you, that's what I like, that's what I like Sex by the fire at night Silk sheets and diamonds all white Lucky for you, that's what I like, that's what I like",
+      "valence": 3.94,
+      "arousal": 3.54,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Sex by the fire at night Silk sheets and diamonds all white Lucky for you, that's what I like, that's what I like Lucky for you, that's what I like, that's what I like",
+      "valence": 3.99,
+      "arousal": 3.69,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Silk sheets and diamonds all white Lucky for you, that's what I like, that's what I like Lucky for you, that's what I like, that's what I like You say you want a good time",
+      "valence": 4.13,
+      "arousal": 3.63,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Lucky for you, that's what I like, that's what I like Lucky for you, that's what I like, that's what I like You say you want a good time Well, here I am, baby, here I am, baby",
+      "valence": 4.16,
+      "arousal": 3.65,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Lucky for you, that's what I like, that's what I like You say you want a good time Well, here I am, baby, here I am, baby Talk to me, talk to me, talk to me",
+      "valence": 3.95,
+      "arousal": 3.58,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "You say you want a good time Well, here I am, baby, here I am, baby Talk to me, talk to me, talk to me Talk to me, tell me, what's on your mind? (What's on your mind?)",
+      "valence": 3.44,
+      "arousal": 3.45,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Well, here I am, baby, here I am, baby Talk to me, talk to me, talk to me Talk to me, tell me, what's on your mind? (What's on your mind?) If you want it, girl, come and get it",
+      "valence": 3.32,
+      "arousal": 3.39,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Talk to me, talk to me, talk to me Talk to me, tell me, what's on your mind? (What's on your mind?) If you want it, girl, come and get it All this is here for you",
+      "valence": 3.3,
+      "arousal": 3.49,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Talk to me, tell me, what's on your mind? (What's on your mind?) If you want it, girl, come and get it All this is here for you Tell me, baby, tell me, tell me, baby",
+      "valence": 3.28,
+      "arousal": 3.51,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "If you want it, girl, come and get it All this is here for you Tell me, baby, tell me, tell me, baby What you tryna do?",
+      "valence": 3.14,
+      "arousal": 3.47,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "All this is here for you Tell me, baby, tell me, tell me, baby What you tryna do? Gold jewelry shining so bright",
+      "valence": 3.11,
+      "arousal": 3.46,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Tell me, baby, tell me, tell me, baby What you tryna do? Gold jewelry shining so bright Strawberry champagne on ice",
+      "valence": 3.17,
+      "arousal": 3.53,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "What you tryna do? Gold jewelry shining so bright Strawberry champagne on ice Lucky for you, that's what I like, that's what I like (that's what I like, baby)",
+      "valence": 3.85,
+      "arousal": 3.6,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Gold jewelry shining so bright Strawberry champagne on ice Lucky for you, that's what I like, that's what I like (that's what I like, baby) Lucky for you, that's what I like, that's what I like (oh, oh)",
+      "valence": 4.16,
+      "arousal": 3.65,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Strawberry champagne on ice Lucky for you, that's what I like, that's what I like (that's what I like, baby) Lucky for you, that's what I like, that's what I like (oh, oh) Sex by the fire at night",
+      "valence": 4.13,
+      "arousal": 3.67,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Lucky for you, that's what I like, that's what I like (that's what I like, baby) Lucky for you, that's what I like, that's what I like (oh, oh) Sex by the fire at night Silk sheets and diamonds all white",
+      "valence": 4.09,
+      "arousal": 3.69,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Lucky for you, that's what I like, that's what I like (oh, oh) Sex by the fire at night Silk sheets and diamonds all white Lucky for you, that's what I like, that's what I like (that's what I like, baby)",
+      "valence": 4.09,
+      "arousal": 3.72,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Sex by the fire at night Silk sheets and diamonds all white Lucky for you, that's what I like, that's what I like (that's what I like, baby) Lucky for you, that's what I like, that's what I like (ooh, ooh, ooh)",
+      "valence": 4.07,
+      "arousal": 3.79,
+      "dominance": 3.39
+    }
+  ]
+}

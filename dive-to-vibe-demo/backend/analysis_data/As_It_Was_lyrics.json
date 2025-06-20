@@ -1,0 +1,234 @@
+{
+  "artist": "Harry Styles",
+  "overall_vad": {
+    "valence": 2.66,
+    "arousal": 3.16,
+    "dominance": 3.07
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Holdin' me back Gravity's holdin' me back I want you to hold out the palm of your hand Why don't we leave it at that?",
+      "valence": 2.67,
+      "arousal": 3.48,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Gravity's holdin' me back I want you to hold out the palm of your hand Why don't we leave it at that? Nothin' to say",
+      "valence": 2.71,
+      "arousal": 3.29,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I want you to hold out the palm of your hand Why don't we leave it at that? Nothin' to say When everything gets in the way",
+      "valence": 2.89,
+      "arousal": 3.05,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Why don't we leave it at that? Nothin' to say When everything gets in the way Seems you cannot be replaced",
+      "valence": 2.77,
+      "arousal": 2.98,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Nothin' to say When everything gets in the way Seems you cannot be replaced And I'm the one who will stay, oh",
+      "valence": 2.78,
+      "arousal": 3.13,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "When everything gets in the way Seems you cannot be replaced And I'm the one who will stay, oh In this world, it's just us",
+      "valence": 2.91,
+      "arousal": 3.13,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Seems you cannot be replaced And I'm the one who will stay, oh In this world, it's just us You know it's not the same as it was",
+      "valence": 2.8,
+      "arousal": 3.21,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "And I'm the one who will stay, oh In this world, it's just us You know it's not the same as it was In this world, it's just us",
+      "valence": 2.97,
+      "arousal": 3.06,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "In this world, it's just us You know it's not the same as it was In this world, it's just us You know it's not the same as it was",
+      "valence": 2.61,
+      "arousal": 3.01,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "You know it's not the same as it was In this world, it's just us You know it's not the same as it was As it was, as it was",
+      "valence": 2.54,
+      "arousal": 3.1,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "In this world, it's just us You know it's not the same as it was As it was, as it was You know it's not the same",
+      "valence": 2.54,
+      "arousal": 2.98,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "You know it's not the same as it was As it was, as it was You know it's not the same Answer the phone",
+      "valence": 2.61,
+      "arousal": 3.08,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "As it was, as it was You know it's not the same Answer the phone \"Harry, you're no good alone",
+      "valence": 2.65,
+      "arousal": 3.14,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "You know it's not the same Answer the phone \"Harry, you're no good alone Why are you sittin' at home on the floor?",
+      "valence": 2.61,
+      "arousal": 3.26,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Answer the phone \"Harry, you're no good alone Why are you sittin' at home on the floor? What kind of pills are you on?\"",
+      "valence": 2.68,
+      "arousal": 3.31,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "\"Harry, you're no good alone Why are you sittin' at home on the floor? What kind of pills are you on?\" Ringin' the bell",
+      "valence": 2.57,
+      "arousal": 3.38,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Why are you sittin' at home on the floor? What kind of pills are you on?\" Ringin' the bell And nobody's comin' to help",
+      "valence": 2.49,
+      "arousal": 3.37,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "What kind of pills are you on?\" Ringin' the bell And nobody's comin' to help Your daddy lives by himself",
+      "valence": 2.49,
+      "arousal": 3.36,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Ringin' the bell And nobody's comin' to help Your daddy lives by himself He just wants to know that you're well, oh",
+      "valence": 2.58,
+      "arousal": 3.23,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "And nobody's comin' to help Your daddy lives by himself He just wants to know that you're well, oh In this world, it's just us",
+      "valence": 2.55,
+      "arousal": 3.25,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Your daddy lives by himself He just wants to know that you're well, oh In this world, it's just us You know it's not the same as it was",
+      "valence": 2.66,
+      "arousal": 3.23,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "He just wants to know that you're well, oh In this world, it's just us You know it's not the same as it was In this world, it's just us",
+      "valence": 2.82,
+      "arousal": 3.14,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "In this world, it's just us You know it's not the same as it was In this world, it's just us You know it's not the same as it was",
+      "valence": 2.61,
+      "arousal": 3.01,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "You know it's not the same as it was In this world, it's just us You know it's not the same as it was As it was, as it was",
+      "valence": 2.54,
+      "arousal": 3.1,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "In this world, it's just us You know it's not the same as it was As it was, as it was You know it's not the same",
+      "valence": 2.54,
+      "arousal": 2.98,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "You know it's not the same as it was As it was, as it was You know it's not the same Go home, get ahead, light-speed internet",
+      "valence": 2.77,
+      "arousal": 3.15,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "As it was, as it was You know it's not the same Go home, get ahead, light-speed internet I don't wanna talk about the way that it was",
+      "valence": 2.46,
+      "arousal": 3.2,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "You know it's not the same Go home, get ahead, light-speed internet I don't wanna talk about the way that it was Leave America, two kids follow her",
+      "valence": 2.63,
+      "arousal": 3.28,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Go home, get ahead, light-speed internet I don't wanna talk about the way that it was Leave America, two kids follow her I don't wanna talk about who's doin' it first",
+      "valence": 2.93,
+      "arousal": 3.16,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I don't wanna talk about the way that it was Leave America, two kids follow her I don't wanna talk about who's doin' it first As it was",
+      "valence": 2.77,
+      "arousal": 2.9,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Leave America, two kids follow her I don't wanna talk about who's doin' it first As it was You know it's not the same as it was",
+      "valence": 2.57,
+      "arousal": 3.12,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I don't wanna talk about who's doin' it first As it was You know it's not the same as it was As it was, as it was",
+      "valence": 2.48,
+      "arousal": 3.01,
+      "dominance": 3.24
+    }
+  ]
+}

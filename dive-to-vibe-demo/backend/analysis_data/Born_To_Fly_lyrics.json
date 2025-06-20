@@ -1,0 +1,227 @@
+{
+  "artist": "Danielle Bradbery",
+  "overall_vad": {
+    "valence": 3.17,
+    "arousal": 3.3,
+    "dominance": 3.02
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I've been tellin' my dreams to the scarecrow 'Bout the places that I'd like to see I said, friend do you think I'll ever get there Ah, but he just stands there smilin' back at me",
+      "valence": 2.85,
+      "arousal": 3.22,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "'Bout the places that I'd like to see I said, friend do you think I'll ever get there Ah, but he just stands there smilin' back at me So I confess my sins to the preacher",
+      "valence": 2.54,
+      "arousal": 3.25,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I said, friend do you think I'll ever get there Ah, but he just stands there smilin' back at me So I confess my sins to the preacher About the love I've been prayin' to find",
+      "valence": 2.54,
+      "arousal": 3.27,
+      "dominance": 2.77
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Ah, but he just stands there smilin' back at me So I confess my sins to the preacher About the love I've been prayin' to find Is there a brown eyed boy in my future, yeah",
+      "valence": 2.8,
+      "arousal": 3.36,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "So I confess my sins to the preacher About the love I've been prayin' to find Is there a brown eyed boy in my future, yeah He says. girl you've got nothin' but time",
+      "valence": 2.84,
+      "arousal": 3.4,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "About the love I've been prayin' to find Is there a brown eyed boy in my future, yeah He says. girl you've got nothin' but time But how do you wait for heaven",
+      "valence": 3.56,
+      "arousal": 3.67,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Is there a brown eyed boy in my future, yeah He says. girl you've got nothin' but time But how do you wait for heaven And who has that much time",
+      "valence": 3.13,
+      "arousal": 3.36,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "He says. girl you've got nothin' but time But how do you wait for heaven And who has that much time And how do you keep your feet on the ground",
+      "valence": 3.01,
+      "arousal": 3.09,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "But how do you wait for heaven And who has that much time And how do you keep your feet on the ground When you know, that you were born, you were born to fly",
+      "valence": 3.07,
+      "arousal": 3.13,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "And who has that much time And how do you keep your feet on the ground When you know, that you were born, you were born to fly My daddy, he's grounded like the oak tree",
+      "valence": 3.05,
+      "arousal": 3.16,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "And how do you keep your feet on the ground When you know, that you were born, you were born to fly My daddy, he's grounded like the oak tree My momma, she is steady as the sun",
+      "valence": 3.17,
+      "arousal": 3.18,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "When you know, that you were born, you were born to fly My daddy, he's grounded like the oak tree My momma, she is steady as the sun Oh you know I love my folks",
+      "valence": 3.83,
+      "arousal": 3.61,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "My daddy, he's grounded like the oak tree My momma, she is steady as the sun Oh you know I love my folks But I keep starin' down that road",
+      "valence": 3.47,
+      "arousal": 3.42,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "My momma, she is steady as the sun Oh you know I love my folks But I keep starin' down that road Just lookin' for my one chance to run",
+      "valence": 3.67,
+      "arousal": 3.58,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Oh you know I love my folks But I keep starin' down that road Just lookin' for my one chance to run Hey, 'cause I will soar away like the blackbird",
+      "valence": 3.6,
+      "arousal": 3.53,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "But I keep starin' down that road Just lookin' for my one chance to run Hey, 'cause I will soar away like the blackbird I will blow in the wind like a seed",
+      "valence": 3.17,
+      "arousal": 3.31,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Just lookin' for my one chance to run Hey, 'cause I will soar away like the blackbird I will blow in the wind like a seed I will plant my heart in the garden of my dreams",
+      "valence": 3.4,
+      "arousal": 3.48,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Hey, 'cause I will soar away like the blackbird I will blow in the wind like a seed I will plant my heart in the garden of my dreams And I will grow up where I'll wander wild and free",
+      "valence": 3.55,
+      "arousal": 3.38,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I will blow in the wind like a seed I will plant my heart in the garden of my dreams And I will grow up where I'll wander wild and free But how do you wait for heaven",
+      "valence": 3.4,
+      "arousal": 3.36,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I will plant my heart in the garden of my dreams And I will grow up where I'll wander wild and free But how do you wait for heaven And who has that much time",
+      "valence": 3.35,
+      "arousal": 3.3,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "And I will grow up where I'll wander wild and free But how do you wait for heaven And who has that much time But how do you keep your feet on the ground",
+      "valence": 3.1,
+      "arousal": 3.23,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "But how do you wait for heaven And who has that much time But how do you keep your feet on the ground When you know, that you were born",
+      "valence": 3.02,
+      "arousal": 3.16,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "And who has that much time But how do you keep your feet on the ground When you know, that you were born Yeah you were born",
+      "valence": 3.01,
+      "arousal": 3.17,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "But how do you keep your feet on the ground When you know, that you were born Yeah you were born You were born to fly",
+      "valence": 3.11,
+      "arousal": 3.2,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "When you know, that you were born Yeah you were born You were born to fly So how do you wait for heaven",
+      "valence": 3.1,
+      "arousal": 3.23,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Yeah you were born You were born to fly So how do you wait for heaven And who has that much time",
+      "valence": 3.08,
+      "arousal": 3.27,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "You were born to fly So how do you wait for heaven And who has that much time How do you keep your feet on the ground",
+      "valence": 3.11,
+      "arousal": 3.12,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "So how do you wait for heaven And who has that much time How do you keep your feet on the ground When you know that you were born",
+      "valence": 3.05,
+      "arousal": 3.15,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "And who has that much time How do you keep your feet on the ground When you know that you were born You were born to fly, fly,",
+      "valence": 3.09,
+      "arousal": 3.13,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "How do you keep your feet on the ground When you know that you were born You were born to fly, fly, You were born to fly",
+      "valence": 3.18,
+      "arousal": 3.19,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "When you know that you were born You were born to fly, fly, You were born to fly You were born to fly",
+      "valence": 3.36,
+      "arousal": 3.26,
+      "dominance": 3.21
+    }
+  ]
+}

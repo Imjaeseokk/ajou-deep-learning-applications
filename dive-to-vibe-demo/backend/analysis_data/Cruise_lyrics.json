@@ -1,0 +1,353 @@
+{
+  "artist": "Florida Georgia Line Featuring Nelly",
+  "overall_vad": {
+    "valence": 3.43,
+    "arousal": 3.67,
+    "dominance": 3.33
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Baby you're a song You make me wanna roll my windows down and cruise Yeah, when I first saw that bikini top on her She's poppin' right out of the South Georgia water",
+      "valence": 3.63,
+      "arousal": 3.81,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "You make me wanna roll my windows down and cruise Yeah, when I first saw that bikini top on her She's poppin' right out of the South Georgia water Thought, \"Oh, good Lord, she had them long tanned legs\"",
+      "valence": 3.41,
+      "arousal": 3.75,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Yeah, when I first saw that bikini top on her She's poppin' right out of the South Georgia water Thought, \"Oh, good Lord, she had them long tanned legs\" Couldn't help myself so I walked up and said",
+      "valence": 3.35,
+      "arousal": 3.61,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "She's poppin' right out of the South Georgia water Thought, \"Oh, good Lord, she had them long tanned legs\" Couldn't help myself so I walked up and said Baby you're a song",
+      "valence": 3.36,
+      "arousal": 3.5,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Thought, \"Oh, good Lord, she had them long tanned legs\" Couldn't help myself so I walked up and said Baby you're a song You make me wanna roll my windows down and cruise",
+      "valence": 3.47,
+      "arousal": 3.74,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Couldn't help myself so I walked up and said Baby you're a song You make me wanna roll my windows down and cruise Down a back road blowin' stop signs through the middle",
+      "valence": 3.37,
+      "arousal": 3.72,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Baby you're a song You make me wanna roll my windows down and cruise Down a back road blowin' stop signs through the middle Every little farm town with you",
+      "valence": 3.53,
+      "arousal": 3.78,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "You make me wanna roll my windows down and cruise Down a back road blowin' stop signs through the middle Every little farm town with you In this brand new Chevy with a lift kit",
+      "valence": 3.09,
+      "arousal": 3.54,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Down a back road blowin' stop signs through the middle Every little farm town with you In this brand new Chevy with a lift kit Would look a hell lot better with you up in it",
+      "valence": 3.08,
+      "arousal": 3.27,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Every little farm town with you In this brand new Chevy with a lift kit Would look a hell lot better with you up in it So baby you're a song",
+      "valence": 3.3,
+      "arousal": 3.42,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "In this brand new Chevy with a lift kit Would look a hell lot better with you up in it So baby you're a song You make me wanna roll my windows down and cruise",
+      "valence": 3.38,
+      "arousal": 3.69,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Would look a hell lot better with you up in it So baby you're a song You make me wanna roll my windows down and cruise She was sippin' on southern and singin' Marshall Tucker",
+      "valence": 3.31,
+      "arousal": 3.5,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "So baby you're a song You make me wanna roll my windows down and cruise She was sippin' on southern and singin' Marshall Tucker We were falling in love in the sweet heart of summer",
+      "valence": 4.03,
+      "arousal": 3.87,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "You make me wanna roll my windows down and cruise She was sippin' on southern and singin' Marshall Tucker We were falling in love in the sweet heart of summer She hopped right up into the cab of my truck and said",
+      "valence": 3.92,
+      "arousal": 3.9,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "She was sippin' on southern and singin' Marshall Tucker We were falling in love in the sweet heart of summer She hopped right up into the cab of my truck and said \"Fire it up, let's go get this thing stuck\"",
+      "valence": 3.93,
+      "arousal": 3.82,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "We were falling in love in the sweet heart of summer She hopped right up into the cab of my truck and said \"Fire it up, let's go get this thing stuck\" Baby you're a song",
+      "valence": 4.09,
+      "arousal": 3.96,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "She hopped right up into the cab of my truck and said \"Fire it up, let's go get this thing stuck\" Baby you're a song You make me wanna roll my windows down and cruise",
+      "valence": 3.52,
+      "arousal": 3.75,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "\"Fire it up, let's go get this thing stuck\" Baby you're a song You make me wanna roll my windows down and cruise Down a back road blowin' stop signs through the middle",
+      "valence": 3.41,
+      "arousal": 3.85,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Baby you're a song You make me wanna roll my windows down and cruise Down a back road blowin' stop signs through the middle Every little farm town with you",
+      "valence": 3.53,
+      "arousal": 3.78,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "You make me wanna roll my windows down and cruise Down a back road blowin' stop signs through the middle Every little farm town with you In this brand new Chevy with a lift kit",
+      "valence": 3.09,
+      "arousal": 3.54,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Down a back road blowin' stop signs through the middle Every little farm town with you In this brand new Chevy with a lift kit Would look a hell lot better with you up in it",
+      "valence": 3.08,
+      "arousal": 3.27,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Every little farm town with you In this brand new Chevy with a lift kit Would look a hell lot better with you up in it So baby you're a song",
+      "valence": 3.3,
+      "arousal": 3.42,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "In this brand new Chevy with a lift kit Would look a hell lot better with you up in it So baby you're a song You make me wanna roll my windows down and cruise",
+      "valence": 3.38,
+      "arousal": 3.69,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Would look a hell lot better with you up in it So baby you're a song You make me wanna roll my windows down and cruise When that summer sun fell to its knees",
+      "valence": 3.27,
+      "arousal": 3.56,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "So baby you're a song You make me wanna roll my windows down and cruise When that summer sun fell to its knees I looked at her and she looked at me",
+      "valence": 3.5,
+      "arousal": 3.77,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "You make me wanna roll my windows down and cruise When that summer sun fell to its knees I looked at her and she looked at me And I turned on those KC lights and drove all night",
+      "valence": 2.99,
+      "arousal": 3.62,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "When that summer sun fell to its knees I looked at her and she looked at me And I turned on those KC lights and drove all night 'Cause it felt so right, her and I, man we felt so right",
+      "valence": 3.48,
+      "arousal": 3.58,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I looked at her and she looked at me And I turned on those KC lights and drove all night 'Cause it felt so right, her and I, man we felt so right I put it in park and",
+      "valence": 3.53,
+      "arousal": 3.57,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "And I turned on those KC lights and drove all night 'Cause it felt so right, her and I, man we felt so right I put it in park and Grabbed my guitar",
+      "valence": 3.53,
+      "arousal": 3.55,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "'Cause it felt so right, her and I, man we felt so right I put it in park and Grabbed my guitar And strummed a couple chords",
+      "valence": 3.71,
+      "arousal": 3.48,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I put it in park and Grabbed my guitar And strummed a couple chords And sang from the heart",
+      "valence": 3.46,
+      "arousal": 3.44,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Grabbed my guitar And strummed a couple chords And sang from the heart Girl you sure got the beat in my chest bumpin'",
+      "valence": 3.65,
+      "arousal": 3.79,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "And strummed a couple chords And sang from the heart Girl you sure got the beat in my chest bumpin' Hell I can't get you out of my head",
+      "valence": 3.3,
+      "arousal": 3.67,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "And sang from the heart Girl you sure got the beat in my chest bumpin' Hell I can't get you out of my head Baby you're a song",
+      "valence": 3.49,
+      "arousal": 3.9,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Girl you sure got the beat in my chest bumpin' Hell I can't get you out of my head Baby you're a song You make me wanna roll my windows down and cruise",
+      "valence": 3.55,
+      "arousal": 4.09,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Hell I can't get you out of my head Baby you're a song You make me wanna roll my windows down and cruise Down a back road blowin' stop signs through the middle",
+      "valence": 3.25,
+      "arousal": 3.91,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Baby you're a song You make me wanna roll my windows down and cruise Down a back road blowin' stop signs through the middle Every little farm town with you",
+      "valence": 3.53,
+      "arousal": 3.78,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "You make me wanna roll my windows down and cruise Down a back road blowin' stop signs through the middle Every little farm town with you Baby you're a song",
+      "valence": 3.3,
+      "arousal": 3.72,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Down a back road blowin' stop signs through the middle Every little farm town with you Baby you're a song You make me wanna roll my windows down and cruise",
+      "valence": 3.44,
+      "arousal": 3.71,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Every little farm town with you Baby you're a song You make me wanna roll my windows down and cruise Down a back road blowin' stop signs through the middle",
+      "valence": 3.57,
+      "arousal": 3.8,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Baby you're a song You make me wanna roll my windows down and cruise Down a back road blowin' stop signs through the middle Every little farm town with you",
+      "valence": 3.53,
+      "arousal": 3.78,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "You make me wanna roll my windows down and cruise Down a back road blowin' stop signs through the middle Every little farm town with you In this brand new Chevy with a lift kit",
+      "valence": 3.09,
+      "arousal": 3.54,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Down a back road blowin' stop signs through the middle Every little farm town with you In this brand new Chevy with a lift kit Would look a hell lot better with you up in it",
+      "valence": 3.08,
+      "arousal": 3.27,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Every little farm town with you In this brand new Chevy with a lift kit Would look a hell lot better with you up in it Come on",
+      "valence": 3.17,
+      "arousal": 3.32,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "In this brand new Chevy with a lift kit Would look a hell lot better with you up in it Come on Baby you're a song",
+      "valence": 3.26,
+      "arousal": 3.47,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Would look a hell lot better with you up in it Come on Baby you're a song You make me wanna roll my windows down and cruise",
+      "valence": 3.27,
+      "arousal": 3.6,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Come on Baby you're a song You make me wanna roll my windows down and cruise Come on girl",
+      "valence": 3.67,
+      "arousal": 3.99,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Baby you're a song You make me wanna roll my windows down and cruise Come on girl Get those windows down and cruise",
+      "valence": 3.5,
+      "arousal": 3.9,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "You make me wanna roll my windows down and cruise Come on girl Get those windows down and cruise Aww yeah",
+      "valence": 3.24,
+      "arousal": 3.9,
+      "dominance": 3.39
+    }
+  ]
+}

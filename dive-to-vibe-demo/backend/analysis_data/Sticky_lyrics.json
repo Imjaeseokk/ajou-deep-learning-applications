@@ -1,0 +1,472 @@
+{
+  "artist": "Drake",
+  "overall_vad": {
+    "valence": 2.93,
+    "arousal": 3.34,
+    "dominance": 3.14
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Ayy Homer hangin' on my neck The bracelet matches the set My brother named his ting Nadal",
+      "valence": 3.15,
+      "arousal": 3.0,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Homer hangin' on my neck The bracelet matches the set My brother named his ting Nadal Let's stop all that back and forth over the net",
+      "valence": 3.04,
+      "arousal": 3.2,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "The bracelet matches the set My brother named his ting Nadal Let's stop all that back and forth over the net My mama wish I woulda went corporate",
+      "valence": 2.87,
+      "arousal": 3.23,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "My brother named his ting Nadal Let's stop all that back and forth over the net My mama wish I woulda went corporate She wish I woulda went exec'",
+      "valence": 2.77,
+      "arousal": 3.22,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Let's stop all that back and forth over the net My mama wish I woulda went corporate She wish I woulda went exec' I still turn to a CEO",
+      "valence": 2.84,
+      "arousal": 3.17,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "My mama wish I woulda went corporate She wish I woulda went exec' I still turn to a CEO So the lifestyle she respect",
+      "valence": 2.92,
+      "arousal": 3.25,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "She wish I woulda went exec' I still turn to a CEO So the lifestyle she respect Ayy, two Sprinters to Quebec",
+      "valence": 3.0,
+      "arousal": 3.12,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I still turn to a CEO So the lifestyle she respect Ayy, two Sprinters to Quebec ChÃ©rie, oÃ¹ est mon bec?",
+      "valence": 3.04,
+      "arousal": 3.1,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "So the lifestyle she respect Ayy, two Sprinters to Quebec ChÃ©rie, oÃ¹ est mon bec? They only givin' niggas plus ones",
+      "valence": 2.95,
+      "arousal": 3.03,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Ayy, two Sprinters to Quebec ChÃ©rie, oÃ¹ est mon bec? They only givin' niggas plus ones So I never pull up to the Met",
+      "valence": 2.69,
+      "arousal": 3.01,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "ChÃ©rie, oÃ¹ est mon bec? They only givin' niggas plus ones So I never pull up to the Met You know I gotta bring the set",
+      "valence": 2.71,
+      "arousal": 3.13,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "They only givin' niggas plus ones So I never pull up to the Met You know I gotta bring the set You know I gotta bring the G-Block",
+      "valence": 2.7,
+      "arousal": 3.16,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "So I never pull up to the Met You know I gotta bring the set You know I gotta bring the G-Block You know I gotta bring the D-Block",
+      "valence": 2.8,
+      "arousal": 3.2,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "You know I gotta bring the set You know I gotta bring the G-Block You know I gotta bring the D-Block 'Cause you know how sticky it get, ayy",
+      "valence": 3.02,
+      "arousal": 3.33,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "You know I gotta bring the G-Block You know I gotta bring the D-Block 'Cause you know how sticky it get, ayy You know how sticky it get, ayy",
+      "valence": 2.92,
+      "arousal": 3.48,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "You know I gotta bring the D-Block 'Cause you know how sticky it get, ayy You know how sticky it get, ayy You know how sticky it get, ayy",
+      "valence": 2.92,
+      "arousal": 3.46,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "'Cause you know how sticky it get, ayy You know how sticky it get, ayy You know how sticky it get, ayy You know how sticky it get, ayy",
+      "valence": 2.94,
+      "arousal": 3.34,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "You know how sticky it get, ayy You know how sticky it get, ayy You know how sticky it get, ayy She want me to play with that cat, ayy",
+      "valence": 2.95,
+      "arousal": 3.43,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "You know how sticky it get, ayy You know how sticky it get, ayy She want me to play with that cat, ayy She lovin' how I'm makin' her wet, ayy",
+      "valence": 3.2,
+      "arousal": 3.56,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "You know how sticky it get, ayy She want me to play with that cat, ayy She lovin' how I'm makin' her wet, ayy You know how sticky it get, ayy",
+      "valence": 3.12,
+      "arousal": 3.52,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "She want me to play with that cat, ayy She lovin' how I'm makin' her wet, ayy You know how sticky it get, ayy Ayo Eric, bring them girls to the stage",
+      "valence": 3.39,
+      "arousal": 3.55,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "She lovin' how I'm makin' her wet, ayy You know how sticky it get, ayy Ayo Eric, bring them girls to the stage 'Cause somebody's gettin' paid and",
+      "valence": 3.19,
+      "arousal": 3.57,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "You know how sticky it get, ayy Ayo Eric, bring them girls to the stage 'Cause somebody's gettin' paid and Free Big Slime out the cage and",
+      "valence": 2.95,
+      "arousal": 3.38,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Ayo Eric, bring them girls to the stage 'Cause somebody's gettin' paid and Free Big Slime out the cage and Shawty try to play it cool but",
+      "valence": 3.12,
+      "arousal": 3.35,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "'Cause somebody's gettin' paid and Free Big Slime out the cage and Shawty try to play it cool but Now she wish she woulda stayed 'cause",
+      "valence": 2.82,
+      "arousal": 3.31,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Free Big Slime out the cage and Shawty try to play it cool but Now she wish she woulda stayed 'cause Every song that I made is",
+      "valence": 2.85,
+      "arousal": 3.27,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Shawty try to play it cool but Now she wish she woulda stayed 'cause Every song that I made is Ringin' like I got engaged, yeah",
+      "valence": 2.89,
+      "arousal": 3.27,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Now she wish she woulda stayed 'cause Every song that I made is Ringin' like I got engaged, yeah Love my guys, I wouldn't trade, ayy",
+      "valence": 3.37,
+      "arousal": 3.77,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Every song that I made is Ringin' like I got engaged, yeah Love my guys, I wouldn't trade, ayy From the cradle to the grave, ayy",
+      "valence": 3.98,
+      "arousal": 3.93,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Ringin' like I got engaged, yeah Love my guys, I wouldn't trade, ayy From the cradle to the grave, ayy Gordo got me on the wave, ayy",
+      "valence": 4.08,
+      "arousal": 3.91,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Love my guys, I wouldn't trade, ayy From the cradle to the grave, ayy Gordo got me on the wave, ayy Ant got me on the wave, ayy",
+      "valence": 4.01,
+      "arousal": 3.9,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "From the cradle to the grave, ayy Gordo got me on the wave, ayy Ant got me on the wave, ayy Couple hits, now you brave, what",
+      "valence": 3.41,
+      "arousal": 3.48,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Gordo got me on the wave, ayy Ant got me on the wave, ayy Couple hits, now you brave, what You niggas better behave, what",
+      "valence": 3.15,
+      "arousal": 3.48,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Ant got me on the wave, ayy Couple hits, now you brave, what You niggas better behave, what All that pumpin' up your chest, what",
+      "valence": 3.01,
+      "arousal": 3.53,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Couple hits, now you brave, what You niggas better behave, what All that pumpin' up your chest, what All that talk about the best, what",
+      "valence": 2.65,
+      "arousal": 3.48,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "You niggas better behave, what All that pumpin' up your chest, what All that talk about the best, what You know how sticky it gets",
+      "valence": 2.53,
+      "arousal": 3.33,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "All that pumpin' up your chest, what All that talk about the best, what You know how sticky it gets Yeah",
+      "valence": 2.89,
+      "arousal": 3.21,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "All that talk about the best, what You know how sticky it gets Yeah If I'm with two of 'em, then it's a threesome",
+      "valence": 3.05,
+      "arousal": 3.44,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "You know how sticky it gets Yeah If I'm with two of 'em, then it's a threesome If she alone, you know she a freak one",
+      "valence": 2.79,
+      "arousal": 3.49,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Yeah If I'm with two of 'em, then it's a threesome If she alone, you know she a freak one If it's a escort, it's a police one",
+      "valence": 2.88,
+      "arousal": 3.47,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "If I'm with two of 'em, then it's a threesome If she alone, you know she a freak one If it's a escort, it's a police one King of the hill, you know it's a steep one",
+      "valence": 2.86,
+      "arousal": 3.44,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "If she alone, you know she a freak one If it's a escort, it's a police one King of the hill, you know it's a steep one If we together, you know it's a brief one",
+      "valence": 2.73,
+      "arousal": 3.35,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "If it's a escort, it's a police one King of the hill, you know it's a steep one If we together, you know it's a brief one Back in the ocean you go, it's a",
+      "valence": 3.06,
+      "arousal": 3.06,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "King of the hill, you know it's a steep one If we together, you know it's a brief one Back in the ocean you go, it's a It's a deep one",
+      "valence": 3.13,
+      "arousal": 3.12,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "If we together, you know it's a brief one Back in the ocean you go, it's a It's a deep one Forgave niggas in they feelings",
+      "valence": 3.01,
+      "arousal": 3.04,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Back in the ocean you go, it's a It's a deep one Forgave niggas in they feelings Lucky for y'all, we don't do civilians",
+      "valence": 2.8,
+      "arousal": 3.03,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "It's a deep one Forgave niggas in they feelings Lucky for y'all, we don't do civilians You say I changed, I say that I million",
+      "valence": 2.86,
+      "arousal": 3.12,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Forgave niggas in they feelings Lucky for y'all, we don't do civilians You say I changed, I say that I million I did",
+      "valence": 2.91,
+      "arousal": 3.16,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Lucky for y'all, we don't do civilians You say I changed, I say that I million I did The toughest act to follow's back on tour",
+      "valence": 3.36,
+      "arousal": 3.32,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "You say I changed, I say that I million I did The toughest act to follow's back on tour Off-road Maybach, Pyrex trap",
+      "valence": 3.08,
+      "arousal": 3.28,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I did The toughest act to follow's back on tour Off-road Maybach, Pyrex trap Virgil came back through the boy, damn",
+      "valence": 2.69,
+      "arousal": 3.53,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "The toughest act to follow's back on tour Off-road Maybach, Pyrex trap Virgil came back through the boy, damn That's somethin' to me, niggas really had they back turned to me",
+      "valence": 2.64,
+      "arousal": 3.54,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Off-road Maybach, Pyrex trap Virgil came back through the boy, damn That's somethin' to me, niggas really had they back turned to me I ain't talkin' my assistant",
+      "valence": 2.65,
+      "arousal": 3.44,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Virgil came back through the boy, damn That's somethin' to me, niggas really had they back turned to me I ain't talkin' my assistant When I say niggas down to pack somethin' for me",
+      "valence": 2.65,
+      "arousal": 3.44,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "That's somethin' to me, niggas really had they back turned to me I ain't talkin' my assistant When I say niggas down to pack somethin' for me Then they thought they had the trap set for me",
+      "valence": 2.61,
+      "arousal": 3.33,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "I ain't talkin' my assistant When I say niggas down to pack somethin' for me Then they thought they had the trap set for me How you really think that went for me?",
+      "valence": 2.55,
+      "arousal": 3.39,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "When I say niggas down to pack somethin' for me Then they thought they had the trap set for me How you really think that went for me? Niggas gotta do a fact check for me",
+      "valence": 2.54,
+      "arousal": 3.46,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Then they thought they had the trap set for me How you really think that went for me? Niggas gotta do a fact check for me When everything is put to rest",
+      "valence": 2.55,
+      "arousal": 3.48,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "How you really think that went for me? Niggas gotta do a fact check for me When everything is put to rest And everybody takes a breath",
+      "valence": 2.62,
+      "arousal": 3.35,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Niggas gotta do a fact check for me When everything is put to rest And everybody takes a breath And everything gets addressed",
+      "valence": 2.63,
+      "arousal": 3.24,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "When everything is put to rest And everybody takes a breath And everything gets addressed It's you alone with your regrets",
+      "valence": 2.6,
+      "arousal": 3.11,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "And everybody takes a breath And everything gets addressed It's you alone with your regrets All that pumpin' up your chest",
+      "valence": 2.63,
+      "arousal": 3.2,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "And everything gets addressed It's you alone with your regrets All that pumpin' up your chest All that talk about the best",
+      "valence": 2.72,
+      "arousal": 3.16,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "It's you alone with your regrets All that pumpin' up your chest All that talk about the best You know how sticky it gets",
+      "valence": 2.58,
+      "arousal": 3.21,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "All that pumpin' up your chest All that talk about the best You know how sticky it gets Like, we weren't supposed to come up with something this clean",
+      "valence": 2.61,
+      "arousal": 3.15,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "All that talk about the best You know how sticky it gets Like, we weren't supposed to come up with something this clean You know it's, like, something happened",
+      "valence": 2.52,
+      "arousal": 3.24,
+      "dominance": 3.04
+    }
+  ]
+}

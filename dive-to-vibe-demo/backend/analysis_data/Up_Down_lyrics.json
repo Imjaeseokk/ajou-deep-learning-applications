@@ -1,0 +1,283 @@
+{
+  "artist": "Morgan Wallen Featuring Florida Georgia Line",
+  "overall_vad": {
+    "valence": 3.14,
+    "arousal": 3.33,
+    "dominance": 3.35
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Was Friday after five, I got here just in time Went ahead and wet a line 'fore I went and lost my mind And I ain't been here long, but the bobbers in the pond Going up down, up, down, up, down",
+      "valence": 3.08,
+      "arousal": 3.18,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Went ahead and wet a line 'fore I went and lost my mind And I ain't been here long, but the bobbers in the pond Going up down, up, down, up, down Tonight, we're gonna raise a whole lot more than cane",
+      "valence": 3.2,
+      "arousal": 3.37,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "And I ain't been here long, but the bobbers in the pond Going up down, up, down, up, down Tonight, we're gonna raise a whole lot more than cane 'Cause there's money in the bank and tomorrow's Saturday",
+      "valence": 3.38,
+      "arousal": 3.44,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Going up down, up, down, up, down Tonight, we're gonna raise a whole lot more than cane 'Cause there's money in the bank and tomorrow's Saturday So if they pass that fifth of Jack this way",
+      "valence": 3.28,
+      "arousal": 3.46,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Tonight, we're gonna raise a whole lot more than cane 'Cause there's money in the bank and tomorrow's Saturday So if they pass that fifth of Jack this way I turn it up, down, up, down, up, down",
+      "valence": 3.29,
+      "arousal": 3.47,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "'Cause there's money in the bank and tomorrow's Saturday So if they pass that fifth of Jack this way I turn it up, down, up, down, up, down We're just holding it down here in BFE",
+      "valence": 3.07,
+      "arousal": 3.17,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "So if they pass that fifth of Jack this way I turn it up, down, up, down, up, down We're just holding it down here in BFE Still rolling around with a burnt CD",
+      "valence": 2.8,
+      "arousal": 3.05,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I turn it up, down, up, down, up, down We're just holding it down here in BFE Still rolling around with a burnt CD Free Bird, five minutes deep",
+      "valence": 2.94,
+      "arousal": 3.07,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "We're just holding it down here in BFE Still rolling around with a burnt CD Free Bird, five minutes deep Head bopping up, down, up, down, up, down",
+      "valence": 2.89,
+      "arousal": 2.99,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Still rolling around with a burnt CD Free Bird, five minutes deep Head bopping up, down, up, down, up, down We got what we got, we don't need the rest",
+      "valence": 2.89,
+      "arousal": 3.25,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Free Bird, five minutes deep Head bopping up, down, up, down, up, down We got what we got, we don't need the rest Can turn this parking lot into a party",
+      "valence": 3.03,
+      "arousal": 3.4,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Head bopping up, down, up, down, up, down We got what we got, we don't need the rest Can turn this parking lot into a party With an ice chest, dancing, cold beer",
+      "valence": 3.02,
+      "arousal": 3.42,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "We got what we got, we don't need the rest Can turn this parking lot into a party With an ice chest, dancing, cold beer Man, we live it up, down, up, down",
+      "valence": 3.19,
+      "arousal": 3.52,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Can turn this parking lot into a party With an ice chest, dancing, cold beer Man, we live it up, down, up, down We live it up down",
+      "valence": 3.42,
+      "arousal": 3.55,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "With an ice chest, dancing, cold beer Man, we live it up, down, up, down We live it up down Here",
+      "valence": 3.57,
+      "arousal": 3.54,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Man, we live it up, down, up, down We live it up down Here Yeah, the girls, they hit the spot, even hotter when it's hot",
+      "valence": 3.52,
+      "arousal": 3.6,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "We live it up down Here Yeah, the girls, they hit the spot, even hotter when it's hot If you can't buy her a yacht, but still proud of what you got",
+      "valence": 3.54,
+      "arousal": 3.61,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Here Yeah, the girls, they hit the spot, even hotter when it's hot If you can't buy her a yacht, but still proud of what you got 'Cause when the day's done, red neck is from the sun",
+      "valence": 3.57,
+      "arousal": 3.53,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Yeah, the girls, they hit the spot, even hotter when it's hot If you can't buy her a yacht, but still proud of what you got 'Cause when the day's done, red neck is from the sun Going up, down, up, down, up, down",
+      "valence": 3.48,
+      "arousal": 3.5,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "If you can't buy her a yacht, but still proud of what you got 'Cause when the day's done, red neck is from the sun Going up, down, up, down, up, down We're just holding it down here in BFE",
+      "valence": 3.45,
+      "arousal": 3.33,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "'Cause when the day's done, red neck is from the sun Going up, down, up, down, up, down We're just holding it down here in BFE Still rolling around with a burnt CD",
+      "valence": 2.94,
+      "arousal": 2.93,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Going up, down, up, down, up, down We're just holding it down here in BFE Still rolling around with a burnt CD Free Bird, five minutes deep",
+      "valence": 2.87,
+      "arousal": 3.0,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "We're just holding it down here in BFE Still rolling around with a burnt CD Free Bird, five minutes deep Head bopping up, down, up, down, up, down",
+      "valence": 2.89,
+      "arousal": 2.99,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Still rolling around with a burnt CD Free Bird, five minutes deep Head bopping up, down, up, down, up, down We got what we got, we don't need the rest",
+      "valence": 2.89,
+      "arousal": 3.25,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Free Bird, five minutes deep Head bopping up, down, up, down, up, down We got what we got, we don't need the rest Can turn this parking lot into a party",
+      "valence": 3.03,
+      "arousal": 3.4,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Head bopping up, down, up, down, up, down We got what we got, we don't need the rest Can turn this parking lot into a party With an ice chest, dancing, cold beer",
+      "valence": 3.02,
+      "arousal": 3.42,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "We got what we got, we don't need the rest Can turn this parking lot into a party With an ice chest, dancing, cold beer Man, we live it up, down, up, down",
+      "valence": 3.19,
+      "arousal": 3.52,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Can turn this parking lot into a party With an ice chest, dancing, cold beer Man, we live it up, down, up, down We live it up, down here",
+      "valence": 3.4,
+      "arousal": 3.54,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "With an ice chest, dancing, cold beer Man, we live it up, down, up, down We live it up, down here Somebody pass that fifth of Camp this way",
+      "valence": 3.25,
+      "arousal": 3.46,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Man, we live it up, down, up, down We live it up, down here Somebody pass that fifth of Camp this way I'll turn it up, down, up, down, up, down",
+      "valence": 3.09,
+      "arousal": 3.24,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "We live it up, down here Somebody pass that fifth of Camp this way I'll turn it up, down, up, down, up, down We're just holding it down here in BFE",
+      "valence": 3.02,
+      "arousal": 3.15,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Somebody pass that fifth of Camp this way I'll turn it up, down, up, down, up, down We're just holding it down here in BFE Still rolling around with a burnt CD",
+      "valence": 2.75,
+      "arousal": 3.08,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I'll turn it up, down, up, down, up, down We're just holding it down here in BFE Still rolling around with a burnt CD Free Bird, five minutes deep",
+      "valence": 3.01,
+      "arousal": 3.15,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "We're just holding it down here in BFE Still rolling around with a burnt CD Free Bird, five minutes deep Head bopping up, down, up, down, up, down",
+      "valence": 2.89,
+      "arousal": 2.99,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Still rolling around with a burnt CD Free Bird, five minutes deep Head bopping up, down, up, down, up, down We got what we got, we don't need the rest",
+      "valence": 2.89,
+      "arousal": 3.25,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Free Bird, five minutes deep Head bopping up, down, up, down, up, down We got what we got, we don't need the rest Can turn this parking lot into a party",
+      "valence": 3.03,
+      "arousal": 3.4,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Head bopping up, down, up, down, up, down We got what we got, we don't need the rest Can turn this parking lot into a party With an ice chest, dancing, cold beer",
+      "valence": 3.02,
+      "arousal": 3.42,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "We got what we got, we don't need the rest Can turn this parking lot into a party With an ice chest, dancing, cold beer Man, we live it up, down, up, down",
+      "valence": 3.19,
+      "arousal": 3.52,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Can turn this parking lot into a party With an ice chest, dancing, cold beer Man, we live it up, down, up, down We live it up, down here",
+      "valence": 3.4,
+      "arousal": 3.54,
+      "dominance": 3.48
+    }
+  ]
+}

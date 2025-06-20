@@ -1,0 +1,136 @@
+{
+  "artist": "Calvin Harris",
+  "overall_vad": {
+    "valence": 3.43,
+    "arousal": 3.58,
+    "dominance": 3.21
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "When I met you in the summer To my heartbeat's sound We fell in love As the leaves turned brown",
+      "valence": 4.11,
+      "arousal": 4.0,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "To my heartbeat's sound We fell in love As the leaves turned brown And we could be together, baby",
+      "valence": 4.1,
+      "arousal": 3.96,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "We fell in love As the leaves turned brown And we could be together, baby As long as skies are blue",
+      "valence": 4.05,
+      "arousal": 3.85,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "As the leaves turned brown And we could be together, baby As long as skies are blue You act so innocent now",
+      "valence": 3.44,
+      "arousal": 3.35,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "And we could be together, baby As long as skies are blue You act so innocent now But you lied so soon",
+      "valence": 3.05,
+      "arousal": 3.5,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "As long as skies are blue You act so innocent now But you lied so soon When I met you in the summer",
+      "valence": 2.82,
+      "arousal": 3.33,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "You act so innocent now But you lied so soon When I met you in the summer When I met you in the summer",
+      "valence": 2.75,
+      "arousal": 3.35,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "But you lied so soon When I met you in the summer When I met you in the summer To my heartbeat's sound",
+      "valence": 2.91,
+      "arousal": 3.34,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "When I met you in the summer When I met you in the summer To my heartbeat's sound We fell in love",
+      "valence": 4.1,
+      "arousal": 4.01,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "When I met you in the summer To my heartbeat's sound We fell in love As the leaves turned brown",
+      "valence": 4.11,
+      "arousal": 4.0,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "To my heartbeat's sound We fell in love As the leaves turned brown And we could be together, baby",
+      "valence": 4.1,
+      "arousal": 3.96,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "We fell in love As the leaves turned brown And we could be together, baby As long as skies are blue",
+      "valence": 4.05,
+      "arousal": 3.85,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "As the leaves turned brown And we could be together, baby As long as skies are blue You act so innocent now",
+      "valence": 3.44,
+      "arousal": 3.35,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "And we could be together, baby As long as skies are blue You act so innocent now But you lied so soon",
+      "valence": 3.05,
+      "arousal": 3.5,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "As long as skies are blue You act so innocent now But you lied so soon When I met you in the summer",
+      "valence": 2.82,
+      "arousal": 3.33,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "You act so innocent now But you lied so soon When I met you in the summer Summer",
+      "valence": 2.73,
+      "arousal": 3.36,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "But you lied so soon When I met you in the summer Summer When I met you in the summer",
+      "valence": 2.73,
+      "arousal": 3.1,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "When I met you in the summer Summer When I met you in the summer Summer",
+      "valence": 3.46,
+      "arousal": 3.24,
+      "dominance": 3.22
+    }
+  ]
+}

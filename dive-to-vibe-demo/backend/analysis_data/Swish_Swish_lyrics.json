@@ -1,0 +1,619 @@
+{
+  "artist": "Katy Perry Featuring Nicki Minaj",
+  "overall_vad": {
+    "valence": 2.8,
+    "arousal": 3.48,
+    "dominance": 3.28
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "They know what is what But they don't know what is what They just strut What the fuck?",
+      "valence": 2.53,
+      "arousal": 3.52,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "But they don't know what is what They just strut What the fuck? A tiger",
+      "valence": 2.55,
+      "arousal": 3.52,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "They just strut What the fuck? A tiger Don't lose no sleep",
+      "valence": 2.33,
+      "arousal": 3.64,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "What the fuck? A tiger Don't lose no sleep Don't need opinions",
+      "valence": 2.29,
+      "arousal": 3.7,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "A tiger Don't lose no sleep Don't need opinions From a shellfish or a sheep",
+      "valence": 2.95,
+      "arousal": 2.83,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Don't lose no sleep Don't need opinions From a shellfish or a sheep Don't you come for me",
+      "valence": 2.84,
+      "arousal": 3.19,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Don't need opinions From a shellfish or a sheep Don't you come for me No, not today (woah)",
+      "valence": 2.63,
+      "arousal": 3.42,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "From a shellfish or a sheep Don't you come for me No, not today (woah) You're calculated",
+      "valence": 2.54,
+      "arousal": 3.52,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Don't you come for me No, not today (woah) You're calculated I got your number",
+      "valence": 2.75,
+      "arousal": 3.57,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "No, not today (woah) You're calculated I got your number 'Cause you're a joker",
+      "valence": 2.48,
+      "arousal": 3.64,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "You're calculated I got your number 'Cause you're a joker And I'm a courtside killer queen",
+      "valence": 2.86,
+      "arousal": 3.52,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I got your number 'Cause you're a joker And I'm a courtside killer queen And you will kiss the ring",
+      "valence": 3.22,
+      "arousal": 3.72,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "'Cause you're a joker And I'm a courtside killer queen And you will kiss the ring You best believe",
+      "valence": 3.03,
+      "arousal": 3.62,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "And I'm a courtside killer queen And you will kiss the ring You best believe So keep calm, honey, I'ma stick around",
+      "valence": 3.2,
+      "arousal": 3.66,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And you will kiss the ring You best believe So keep calm, honey, I'ma stick around For more than a minute, get used to it",
+      "valence": 3.24,
+      "arousal": 3.37,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "You best believe So keep calm, honey, I'ma stick around For more than a minute, get used to it Funny my name keeps comin' out your mouth",
+      "valence": 2.88,
+      "arousal": 3.39,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "So keep calm, honey, I'ma stick around For more than a minute, get used to it Funny my name keeps comin' out your mouth 'Cause I stay winning",
+      "valence": 3.26,
+      "arousal": 3.45,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "For more than a minute, get used to it Funny my name keeps comin' out your mouth 'Cause I stay winning Lay 'em up like",
+      "valence": 3.03,
+      "arousal": 3.41,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Funny my name keeps comin' out your mouth 'Cause I stay winning Lay 'em up like Swish, swish, bish",
+      "valence": 3.27,
+      "arousal": 3.41,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "'Cause I stay winning Lay 'em up like Swish, swish, bish Another one in the basket (basket, woah, basket, woah)",
+      "valence": 3.28,
+      "arousal": 3.41,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Lay 'em up like Swish, swish, bish Another one in the basket (basket, woah, basket, woah) Can't touch this",
+      "valence": 2.78,
+      "arousal": 3.31,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Swish, swish, bish Another one in the basket (basket, woah, basket, woah) Can't touch this Another one in the casket (casket, woah, casket)",
+      "valence": 2.81,
+      "arousal": 3.35,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Another one in the basket (basket, woah, basket, woah) Can't touch this Another one in the casket (casket, woah, casket) Your game is tired",
+      "valence": 2.6,
+      "arousal": 3.27,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Can't touch this Another one in the casket (casket, woah, casket) Your game is tired You should retire",
+      "valence": 2.48,
+      "arousal": 3.22,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Another one in the casket (casket, woah, casket) Your game is tired You should retire You're 'bout as cute as",
+      "valence": 2.92,
+      "arousal": 3.22,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Your game is tired You should retire You're 'bout as cute as An old coupon expired (woah, woah)",
+      "valence": 2.81,
+      "arousal": 3.38,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "You should retire You're 'bout as cute as An old coupon expired (woah, woah) And karma's not a liar",
+      "valence": 2.87,
+      "arousal": 3.41,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "You're 'bout as cute as An old coupon expired (woah, woah) And karma's not a liar She keeps receipts",
+      "valence": 3.03,
+      "arousal": 3.45,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "An old coupon expired (woah, woah) And karma's not a liar She keeps receipts So keep calm, honey, I'ma stick around",
+      "valence": 2.75,
+      "arousal": 3.4,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "And karma's not a liar She keeps receipts So keep calm, honey, I'ma stick around For more than a minute, get used to it",
+      "valence": 2.89,
+      "arousal": 3.23,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "She keeps receipts So keep calm, honey, I'ma stick around For more than a minute, get used to it Funny my name keeps comin' out your mouth",
+      "valence": 2.88,
+      "arousal": 3.32,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "So keep calm, honey, I'ma stick around For more than a minute, get used to it Funny my name keeps comin' out your mouth 'Cause I stay winning",
+      "valence": 3.26,
+      "arousal": 3.45,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "For more than a minute, get used to it Funny my name keeps comin' out your mouth 'Cause I stay winning Lay 'em up like",
+      "valence": 3.03,
+      "arousal": 3.41,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Funny my name keeps comin' out your mouth 'Cause I stay winning Lay 'em up like Swish, swish, bish",
+      "valence": 3.27,
+      "arousal": 3.41,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "'Cause I stay winning Lay 'em up like Swish, swish, bish Another one in the basket (basket, woah, basket, woah)",
+      "valence": 3.28,
+      "arousal": 3.41,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Lay 'em up like Swish, swish, bish Another one in the basket (basket, woah, basket, woah) Can't touch this",
+      "valence": 2.78,
+      "arousal": 3.31,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Swish, swish, bish Another one in the basket (basket, woah, basket, woah) Can't touch this Another one in the casket (casket, woah, casket, let's go, woah)",
+      "valence": 2.81,
+      "arousal": 3.39,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Another one in the basket (basket, woah, basket, woah) Can't touch this Another one in the casket (casket, woah, casket, let's go, woah) Swish, swish, bish",
+      "valence": 2.78,
+      "arousal": 3.36,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Can't touch this Another one in the casket (casket, woah, casket, let's go, woah) Swish, swish, bish Another one in the basket (basket, woah, basket, woah)",
+      "valence": 2.75,
+      "arousal": 3.34,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Another one in the casket (casket, woah, casket, let's go, woah) Swish, swish, bish Another one in the basket (basket, woah, basket, woah) Can't touch this",
+      "valence": 2.85,
+      "arousal": 3.41,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Swish, swish, bish Another one in the basket (basket, woah, basket, woah) Can't touch this Another one in the casket (casket, woah, casket, woah)",
+      "valence": 2.8,
+      "arousal": 3.37,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Another one in the basket (basket, woah, basket, woah) Can't touch this Another one in the casket (casket, woah, casket, woah) They know what is what",
+      "valence": 2.72,
+      "arousal": 3.34,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Can't touch this Another one in the casket (casket, woah, casket, woah) They know what is what But they don't know what is what",
+      "valence": 2.59,
+      "arousal": 3.34,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Another one in the casket (casket, woah, casket, woah) They know what is what But they don't know what is what Katy Perry (woah)",
+      "valence": 2.8,
+      "arousal": 3.35,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "They know what is what But they don't know what is what Katy Perry (woah) They just know what is what",
+      "valence": 2.81,
+      "arousal": 3.26,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "But they don't know what is what Katy Perry (woah) They just know what is what Young Money",
+      "valence": 2.88,
+      "arousal": 3.25,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Katy Perry (woah) They just know what is what Young Money But they don't know what is what (what, woah)",
+      "valence": 2.77,
+      "arousal": 3.29,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "They just know what is what Young Money But they don't know what is what (what, woah) They just know what is what",
+      "valence": 2.84,
+      "arousal": 3.14,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Young Money But they don't know what is what (what, woah) They just know what is what But they don't know what is what (woah)",
+      "valence": 2.74,
+      "arousal": 3.18,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "But they don't know what is what (what, woah) They just know what is what But they don't know what is what (woah) They just strut",
+      "valence": 2.75,
+      "arousal": 3.2,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "They just know what is what But they don't know what is what (woah) They just strut Hahaha, yo",
+      "valence": 2.83,
+      "arousal": 3.23,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "But they don't know what is what (woah) They just strut Hahaha, yo What the fuck? (Woah)",
+      "valence": 2.55,
+      "arousal": 3.72,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "They just strut Hahaha, yo What the fuck? (Woah) Pink Ferragamo sliders on deck",
+      "valence": 2.88,
+      "arousal": 3.82,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Hahaha, yo What the fuck? (Woah) Pink Ferragamo sliders on deck Silly rap beefs just get me more checks",
+      "valence": 2.75,
+      "arousal": 3.87,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "What the fuck? (Woah) Pink Ferragamo sliders on deck Silly rap beefs just get me more checks My life is a movie, I'm never off set",
+      "valence": 2.75,
+      "arousal": 3.86,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Pink Ferragamo sliders on deck Silly rap beefs just get me more checks My life is a movie, I'm never off set Me and my amigos (no, not Offset)",
+      "valence": 2.88,
+      "arousal": 3.49,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Silly rap beefs just get me more checks My life is a movie, I'm never off set Me and my amigos (no, not Offset) Swiss swish, aww I got them upset",
+      "valence": 2.58,
+      "arousal": 3.62,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "My life is a movie, I'm never off set Me and my amigos (no, not Offset) Swiss swish, aww I got them upset But my shooters'll make 'em dance like dubstep",
+      "valence": 2.99,
+      "arousal": 3.54,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Me and my amigos (no, not Offset) Swiss swish, aww I got them upset But my shooters'll make 'em dance like dubstep Swiss, swish, aww, my haters is obsessed",
+      "valence": 2.58,
+      "arousal": 3.79,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Swiss swish, aww I got them upset But my shooters'll make 'em dance like dubstep Swiss, swish, aww, my haters is obsessed 'Cause I make M's, they get much less",
+      "valence": 2.65,
+      "arousal": 3.64,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "But my shooters'll make 'em dance like dubstep Swiss, swish, aww, my haters is obsessed 'Cause I make M's, they get much less Don't be tryna double back",
+      "valence": 2.87,
+      "arousal": 3.64,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Swiss, swish, aww, my haters is obsessed 'Cause I make M's, they get much less Don't be tryna double back I already despise you (yeah)",
+      "valence": 2.44,
+      "arousal": 3.85,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "'Cause I make M's, they get much less Don't be tryna double back I already despise you (yeah) All that fake love you showin'",
+      "valence": 2.63,
+      "arousal": 3.49,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Don't be tryna double back I already despise you (yeah) All that fake love you showin' Couldn't even disguise you, yo, yo",
+      "valence": 2.4,
+      "arousal": 3.84,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "I already despise you (yeah) All that fake love you showin' Couldn't even disguise you, yo, yo Ran? When? Nicki gettin' tan",
+      "valence": 2.29,
+      "arousal": 3.85,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "All that fake love you showin' Couldn't even disguise you, yo, yo Ran? When? Nicki gettin' tan Mirror mirror who's the fairest bitch in all the land?",
+      "valence": 2.51,
+      "arousal": 3.74,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Couldn't even disguise you, yo, yo Ran? When? Nicki gettin' tan Mirror mirror who's the fairest bitch in all the land? Damn, man, this bitch is a Stan",
+      "valence": 2.32,
+      "arousal": 3.82,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Ran? When? Nicki gettin' tan Mirror mirror who's the fairest bitch in all the land? Damn, man, this bitch is a Stan The generous queen'll kiss a fan",
+      "valence": 2.47,
+      "arousal": 3.76,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Mirror mirror who's the fairest bitch in all the land? Damn, man, this bitch is a Stan The generous queen'll kiss a fan Ass goodbye, I'ma be riding by",
+      "valence": 2.36,
+      "arousal": 3.8,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Damn, man, this bitch is a Stan The generous queen'll kiss a fan Ass goodbye, I'ma be riding by I'ma tell my Biggz, yeah that's the guy",
+      "valence": 2.47,
+      "arousal": 3.92,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "The generous queen'll kiss a fan Ass goodbye, I'ma be riding by I'ma tell my Biggz, yeah that's the guy A star's a star, da ha da ha",
+      "valence": 3.41,
+      "arousal": 3.57,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Ass goodbye, I'ma be riding by I'ma tell my Biggz, yeah that's the guy A star's a star, da ha da ha They never thought the swish god would take it this far",
+      "valence": 3.13,
+      "arousal": 3.57,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "I'ma tell my Biggz, yeah that's the guy A star's a star, da ha da ha They never thought the swish god would take it this far Get my pimp cup, this is pimp shit, baby",
+      "valence": 2.66,
+      "arousal": 3.85,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "A star's a star, da ha da ha They never thought the swish god would take it this far Get my pimp cup, this is pimp shit, baby I only rock with queens, so I'm makin' hits with Katy",
+      "valence": 3.07,
+      "arousal": 3.75,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "They never thought the swish god would take it this far Get my pimp cup, this is pimp shit, baby I only rock with queens, so I'm makin' hits with Katy Swish, swish, bish",
+      "valence": 2.99,
+      "arousal": 3.76,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "Get my pimp cup, this is pimp shit, baby I only rock with queens, so I'm makin' hits with Katy Swish, swish, bish Another one in the basket (and another one, and another one) (basket, woah, basket, woah)",
+      "valence": 2.92,
+      "arousal": 3.79,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "I only rock with queens, so I'm makin' hits with Katy Swish, swish, bish Another one in the basket (and another one, and another one) (basket, woah, basket, woah) Can't touch this (can't touch this)",
+      "valence": 3.25,
+      "arousal": 3.61,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "Swish, swish, bish Another one in the basket (and another one, and another one) (basket, woah, basket, woah) Can't touch this (can't touch this) Another one in the casket (and another one, and another one) (casket, woah, casket, woah)",
+      "valence": 2.86,
+      "arousal": 3.49,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "Another one in the basket (and another one, and another one) (basket, woah, basket, woah) Can't touch this (can't touch this) Another one in the casket (and another one, and another one) (casket, woah, casket, woah) They know what is what",
+      "valence": 2.78,
+      "arousal": 3.46,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "Can't touch this (can't touch this) Another one in the casket (and another one, and another one) (casket, woah, casket, woah) They know what is what Do they know?",
+      "valence": 2.64,
+      "arousal": 3.54,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "Another one in the casket (and another one, and another one) (casket, woah, casket, woah) They know what is what Do they know? But they don't know what is what",
+      "valence": 2.85,
+      "arousal": 3.31,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "They know what is what Do they know? But they don't know what is what They just know what is what (woah)",
+      "valence": 2.78,
+      "arousal": 3.3,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "Do they know? But they don't know what is what They just know what is what (woah) But they don't know what is what (woah)",
+      "valence": 2.74,
+      "arousal": 3.16,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "But they don't know what is what They just know what is what (woah) But they don't know what is what (woah) They just know what is what",
+      "valence": 2.78,
+      "arousal": 3.12,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "They just know what is what (woah) But they don't know what is what (woah) They just know what is what But they don't know what is what",
+      "valence": 2.73,
+      "arousal": 3.13,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 86,
+      "lyrics_text": "But they don't know what is what (woah) They just know what is what But they don't know what is what They just strut (woah)",
+      "valence": 2.77,
+      "arousal": 3.21,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 87,
+      "lyrics_text": "They just know what is what But they don't know what is what They just strut (woah) What the (woah)",
+      "valence": 2.73,
+      "arousal": 3.35,
+      "dominance": 3.11
+    }
+  ]
+}

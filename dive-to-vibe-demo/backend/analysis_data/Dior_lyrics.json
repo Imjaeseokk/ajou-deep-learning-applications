@@ -1,0 +1,486 @@
+{
+  "artist": "Pop Smoke",
+  "overall_vad": {
+    "valence": 2.99,
+    "arousal": 3.46,
+    "dominance": 3.33
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Traphouse Mob Huh, roll another one Said I'm never lackin', always pistol packing With them automatics, we gon' send him to heaven",
+      "valence": 2.82,
+      "arousal": 3.35,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Huh, roll another one Said I'm never lackin', always pistol packing With them automatics, we gon' send him to heaven Wait, wait, wait, wait, ayy, ayy, woo (aw, shit), huh?",
+      "valence": 2.47,
+      "arousal": 3.78,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Said I'm never lackin', always pistol packing With them automatics, we gon' send him to heaven Wait, wait, wait, wait, ayy, ayy, woo (aw, shit), huh? Oh, you feelin' sturdy, huh? (You feelin' sturdy, man)",
+      "valence": 2.68,
+      "arousal": 3.68,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "With them automatics, we gon' send him to heaven Wait, wait, wait, wait, ayy, ayy, woo (aw, shit), huh? Oh, you feelin' sturdy, huh? (You feelin' sturdy, man) Let me see somethin'",
+      "valence": 2.6,
+      "arousal": 3.78,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Wait, wait, wait, wait, ayy, ayy, woo (aw, shit), huh? Oh, you feelin' sturdy, huh? (You feelin' sturdy, man) Let me see somethin' Shake it, shake it, shake it",
+      "valence": 2.69,
+      "arousal": 3.68,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Oh, you feelin' sturdy, huh? (You feelin' sturdy, man) Let me see somethin' Shake it, shake it, shake it She like the way that I dance",
+      "valence": 3.35,
+      "arousal": 3.36,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Let me see somethin' Shake it, shake it, shake it She like the way that I dance She like the way that I move",
+      "valence": 3.36,
+      "arousal": 3.47,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Shake it, shake it, shake it She like the way that I dance She like the way that I move She like the way that I rock",
+      "valence": 3.6,
+      "arousal": 3.63,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "She like the way that I dance She like the way that I move She like the way that I rock She like the way that I woo",
+      "valence": 3.72,
+      "arousal": 3.54,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "She like the way that I move She like the way that I rock She like the way that I woo And she let it clap for a nigga",
+      "valence": 3.41,
+      "arousal": 3.52,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "She like the way that I rock She like the way that I woo And she let it clap for a nigga She let it clap for a nigga",
+      "valence": 3.39,
+      "arousal": 3.54,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "She like the way that I woo And she let it clap for a nigga She let it clap for a nigga And she throw it back for a nigga",
+      "valence": 3.06,
+      "arousal": 3.41,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "And she let it clap for a nigga She let it clap for a nigga And she throw it back for a nigga Yeah, she throw it back for a nigga",
+      "valence": 2.49,
+      "arousal": 3.5,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "She let it clap for a nigga And she throw it back for a nigga Yeah, she throw it back for a nigga Mike Amiri, Mike Amiri",
+      "valence": 2.78,
+      "arousal": 3.4,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And she throw it back for a nigga Yeah, she throw it back for a nigga Mike Amiri, Mike Amiri Billie Jean, Billie Jean, uh",
+      "valence": 2.76,
+      "arousal": 3.41,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Yeah, she throw it back for a nigga Mike Amiri, Mike Amiri Billie Jean, Billie Jean, uh Christian Dior, Dior",
+      "valence": 3.06,
+      "arousal": 3.44,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Mike Amiri, Mike Amiri Billie Jean, Billie Jean, uh Christian Dior, Dior I'm up in all the stores",
+      "valence": 3.28,
+      "arousal": 3.35,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Billie Jean, Billie Jean, uh Christian Dior, Dior I'm up in all the stores When it rains, it pours",
+      "valence": 3.08,
+      "arousal": 3.38,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Christian Dior, Dior I'm up in all the stores When it rains, it pours She like the way I rrr",
+      "valence": 3.37,
+      "arousal": 3.39,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I'm up in all the stores When it rains, it pours She like the way I rrr Mike Amiri, Mike Amiri",
+      "valence": 3.22,
+      "arousal": 3.23,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "When it rains, it pours She like the way I rrr Mike Amiri, Mike Amiri Billie Jean, Billie Jean, uh",
+      "valence": 3.2,
+      "arousal": 3.22,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "She like the way I rrr Mike Amiri, Mike Amiri Billie Jean, Billie Jean, uh Christian Dior, Dior",
+      "valence": 3.47,
+      "arousal": 3.26,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Mike Amiri, Mike Amiri Billie Jean, Billie Jean, uh Christian Dior, Dior I'm up in all the stores",
+      "valence": 3.28,
+      "arousal": 3.35,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Billie Jean, Billie Jean, uh Christian Dior, Dior I'm up in all the stores When it rains, it pours",
+      "valence": 3.08,
+      "arousal": 3.38,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Christian Dior, Dior I'm up in all the stores When it rains, it pours She like the way I rrr",
+      "valence": 3.37,
+      "arousal": 3.39,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I'm up in all the stores When it rains, it pours She like the way I rrr When I walk in the spot, 30 on me",
+      "valence": 3.02,
+      "arousal": 3.28,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "When it rains, it pours She like the way I rrr When I walk in the spot, 30 on me Buy out the club, niggas know that I'm paid",
+      "valence": 2.96,
+      "arousal": 3.34,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "She like the way I rrr When I walk in the spot, 30 on me Buy out the club, niggas know that I'm paid Bitch, I'm a thot, get me lit",
+      "valence": 2.73,
+      "arousal": 3.6,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "When I walk in the spot, 30 on me Buy out the club, niggas know that I'm paid Bitch, I'm a thot, get me lit I can't fuck with these niggas 'cause niggas is gay",
+      "valence": 2.28,
+      "arousal": 3.73,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Buy out the club, niggas know that I'm paid Bitch, I'm a thot, get me lit I can't fuck with these niggas 'cause niggas is gay All on my page suckin' dick",
+      "valence": 2.15,
+      "arousal": 3.85,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Bitch, I'm a thot, get me lit I can't fuck with these niggas 'cause niggas is gay All on my page suckin' dick All in my comments and screamin' my name",
+      "valence": 1.94,
+      "arousal": 3.93,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I can't fuck with these niggas 'cause niggas is gay All on my page suckin' dick All in my comments and screamin' my name While I'm in the club, throwin' them 100s, and 50s, and ones, and ones",
+      "valence": 2.02,
+      "arousal": 3.84,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "All on my page suckin' dick All in my comments and screamin' my name While I'm in the club, throwin' them 100s, and 50s, and ones, and ones Pop Smoke, they know I'm wildin'",
+      "valence": 2.41,
+      "arousal": 3.87,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "All in my comments and screamin' my name While I'm in the club, throwin' them 100s, and 50s, and ones, and ones Pop Smoke, they know I'm wildin' If I'm on the island, I'm snatchin' the cell",
+      "valence": 2.93,
+      "arousal": 3.67,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "While I'm in the club, throwin' them 100s, and 50s, and ones, and ones Pop Smoke, they know I'm wildin' If I'm on the island, I'm snatchin' the cell Brody got locked, denied his bail",
+      "valence": 3.0,
+      "arousal": 3.46,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Pop Smoke, they know I'm wildin' If I'm on the island, I'm snatchin' the cell Brody got locked, denied his bail Until he free, I'm raisin' hell",
+      "valence": 2.7,
+      "arousal": 3.56,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "If I'm on the island, I'm snatchin' the cell Brody got locked, denied his bail Until he free, I'm raisin' hell Tell my shooters call me FaceTime",
+      "valence": 2.5,
+      "arousal": 3.67,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Brody got locked, denied his bail Until he free, I'm raisin' hell Tell my shooters call me FaceTime For all the times we had to face time",
+      "valence": 2.45,
+      "arousal": 3.72,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Until he free, I'm raisin' hell Tell my shooters call me FaceTime For all the times we had to face time Free D-Nice, he doin' state time",
+      "valence": 2.75,
+      "arousal": 3.71,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Tell my shooters call me FaceTime For all the times we had to face time Free D-Nice, he doin' state time If you need the glizzy, you could take mine",
+      "valence": 3.06,
+      "arousal": 3.32,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "For all the times we had to face time Free D-Nice, he doin' state time If you need the glizzy, you could take mine Please don't come out your mouth, you know I'm like that",
+      "valence": 2.89,
+      "arousal": 3.34,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Free D-Nice, he doin' state time If you need the glizzy, you could take mine Please don't come out your mouth, you know I'm like that I'll make a movie like TNT",
+      "valence": 3.24,
+      "arousal": 3.4,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "If you need the glizzy, you could take mine Please don't come out your mouth, you know I'm like that I'll make a movie like TNT Glock-30 on me, ask who really want it",
+      "valence": 2.83,
+      "arousal": 3.5,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Please don't come out your mouth, you know I'm like that I'll make a movie like TNT Glock-30 on me, ask who really want it I bet I air it like BNB",
+      "valence": 2.69,
+      "arousal": 3.49,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I'll make a movie like TNT Glock-30 on me, ask who really want it I bet I air it like BNB Nappy Blue wildin' in my section",
+      "valence": 3.04,
+      "arousal": 3.28,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Glock-30 on me, ask who really want it I bet I air it like BNB Nappy Blue wildin' in my section And I keep that .38 for the weapon",
+      "valence": 2.8,
+      "arousal": 3.33,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I bet I air it like BNB Nappy Blue wildin' in my section And I keep that .38 for the weapon Remember when I came home from corrections",
+      "valence": 2.98,
+      "arousal": 3.16,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Nappy Blue wildin' in my section And I keep that .38 for the weapon Remember when I came home from corrections All the bad bitches in my direction",
+      "valence": 2.78,
+      "arousal": 3.19,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "And I keep that .38 for the weapon Remember when I came home from corrections All the bad bitches in my direction She like the way that I dance",
+      "valence": 3.07,
+      "arousal": 3.33,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Remember when I came home from corrections All the bad bitches in my direction She like the way that I dance She like the way that I move",
+      "valence": 3.22,
+      "arousal": 3.32,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "All the bad bitches in my direction She like the way that I dance She like the way that I move She like the way that I rock",
+      "valence": 3.34,
+      "arousal": 3.46,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "She like the way that I dance She like the way that I move She like the way that I rock She like the way that I woo",
+      "valence": 3.72,
+      "arousal": 3.54,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "She like the way that I move She like the way that I rock She like the way that I woo And she let it clap for a nigga",
+      "valence": 3.41,
+      "arousal": 3.52,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "She like the way that I rock She like the way that I woo And she let it clap for a nigga She let it clap for a nigga",
+      "valence": 3.39,
+      "arousal": 3.54,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "She like the way that I woo And she let it clap for a nigga She let it clap for a nigga And she throw it back for a nigga",
+      "valence": 3.06,
+      "arousal": 3.41,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "And she let it clap for a nigga She let it clap for a nigga And she throw it back for a nigga Yeah, she throw it back for a nigga",
+      "valence": 2.49,
+      "arousal": 3.5,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "She let it clap for a nigga And she throw it back for a nigga Yeah, she throw it back for a nigga Mike Amiri, Mike Amiri",
+      "valence": 2.78,
+      "arousal": 3.4,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "And she throw it back for a nigga Yeah, she throw it back for a nigga Mike Amiri, Mike Amiri Billie Jean, Billie Jean, uh",
+      "valence": 2.76,
+      "arousal": 3.41,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Yeah, she throw it back for a nigga Mike Amiri, Mike Amiri Billie Jean, Billie Jean, uh Christian Dior, Dior",
+      "valence": 3.06,
+      "arousal": 3.44,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Mike Amiri, Mike Amiri Billie Jean, Billie Jean, uh Christian Dior, Dior I'm up in all the stores",
+      "valence": 3.28,
+      "arousal": 3.35,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Billie Jean, Billie Jean, uh Christian Dior, Dior I'm up in all the stores When it rains, it pours",
+      "valence": 3.08,
+      "arousal": 3.38,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Christian Dior, Dior I'm up in all the stores When it rains, it pours She like the way I rrr",
+      "valence": 3.37,
+      "arousal": 3.39,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "I'm up in all the stores When it rains, it pours She like the way I rrr Mike Amiri, Mike Amiri",
+      "valence": 3.22,
+      "arousal": 3.23,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "When it rains, it pours She like the way I rrr Mike Amiri, Mike Amiri Billie Jean, Billie Jean, uh",
+      "valence": 3.2,
+      "arousal": 3.22,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "She like the way I rrr Mike Amiri, Mike Amiri Billie Jean, Billie Jean, uh Christian Dior, Dior",
+      "valence": 3.47,
+      "arousal": 3.26,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Mike Amiri, Mike Amiri Billie Jean, Billie Jean, uh Christian Dior, Dior I'm up in all the stores",
+      "valence": 3.28,
+      "arousal": 3.35,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Billie Jean, Billie Jean, uh Christian Dior, Dior I'm up in all the stores When it rains, it pours",
+      "valence": 3.08,
+      "arousal": 3.38,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Christian Dior, Dior I'm up in all the stores When it rains, it pours She like the way I rrr",
+      "valence": 3.37,
+      "arousal": 3.39,
+      "dominance": 3.31
+    }
+  ]
+}

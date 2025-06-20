@@ -1,0 +1,367 @@
+{
+  "artist": "Marshmello & Kane Brown",
+  "overall_vad": {
+    "valence": 2.83,
+    "arousal": 3.43,
+    "dominance": 3.25
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I've cheated and I've lied I've broke down and I've cried I've got nothing to hide no more I've loved and I've hurt",
+      "valence": 1.77,
+      "arousal": 3.92,
+      "dominance": 2.47
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I've broke down and I've cried I've got nothing to hide no more I've loved and I've hurt I've broken people down with words",
+      "valence": 1.83,
+      "arousal": 4.0,
+      "dominance": 2.4
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I've got nothing to hide no more I've loved and I've hurt I've broken people down with words More grace than I deserve, for sure",
+      "valence": 2.63,
+      "arousal": 3.6,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I've loved and I've hurt I've broken people down with words More grace than I deserve, for sure Known to be crazy, known to be wild",
+      "valence": 2.83,
+      "arousal": 3.62,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I've broken people down with words More grace than I deserve, for sure Known to be crazy, known to be wild Mama had herself a little devilish child",
+      "valence": 2.97,
+      "arousal": 3.24,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "More grace than I deserve, for sure Known to be crazy, known to be wild Mama had herself a little devilish child Ain't no stranger to the troubles at my door (at my door)",
+      "valence": 2.51,
+      "arousal": 3.24,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Known to be crazy, known to be wild Mama had herself a little devilish child Ain't no stranger to the troubles at my door (at my door) I've been at the wrong place at the wrong time",
+      "valence": 2.3,
+      "arousal": 3.42,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Mama had herself a little devilish child Ain't no stranger to the troubles at my door (at my door) I've been at the wrong place at the wrong time Chasing all the wrong things most of my life",
+      "valence": 2.19,
+      "arousal": 3.4,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Ain't no stranger to the troubles at my door (at my door) I've been at the wrong place at the wrong time Chasing all the wrong things most of my life Been every kind of lost that you can't find",
+      "valence": 2.24,
+      "arousal": 3.39,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I've been at the wrong place at the wrong time Chasing all the wrong things most of my life Been every kind of lost that you can't find But I got one thing right",
+      "valence": 2.68,
+      "arousal": 3.3,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Chasing all the wrong things most of my life Been every kind of lost that you can't find But I got one thing right Been the kind of guy girls' mommas don't like",
+      "valence": 2.44,
+      "arousal": 3.16,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Been every kind of lost that you can't find But I got one thing right Been the kind of guy girls' mommas don't like Running with the wrong crowd on the wrong nights",
+      "valence": 2.78,
+      "arousal": 3.19,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "But I got one thing right Been the kind of guy girls' mommas don't like Running with the wrong crowd on the wrong nights 'Cause I've been wrong about a million times",
+      "valence": 2.71,
+      "arousal": 3.35,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Been the kind of guy girls' mommas don't like Running with the wrong crowd on the wrong nights 'Cause I've been wrong about a million times But I got one thing right, you",
+      "valence": 2.77,
+      "arousal": 3.47,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Running with the wrong crowd on the wrong nights 'Cause I've been wrong about a million times But I got one thing right, you I got you",
+      "valence": 2.87,
+      "arousal": 3.51,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "'Cause I've been wrong about a million times But I got one thing right, you I got you (Baby, I got one thing right)",
+      "valence": 3.34,
+      "arousal": 3.61,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "But I got one thing right, you I got you (Baby, I got one thing right) I got one thing right",
+      "valence": 3.52,
+      "arousal": 3.56,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I got you (Baby, I got one thing right) I got one thing right You saw right through my pain",
+      "valence": 3.46,
+      "arousal": 3.69,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "(Baby, I got one thing right) I got one thing right You saw right through my pain Kept us patient while I change",
+      "valence": 3.42,
+      "arousal": 3.47,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I got one thing right You saw right through my pain Kept us patient while I change Never even crossed your mind to walk away (to walk away)",
+      "valence": 3.21,
+      "arousal": 3.42,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "You saw right through my pain Kept us patient while I change Never even crossed your mind to walk away (to walk away) When I was getting crazy, reckless and wild",
+      "valence": 2.94,
+      "arousal": 3.39,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Kept us patient while I change Never even crossed your mind to walk away (to walk away) When I was getting crazy, reckless and wild Acting like my mama's little devilish child",
+      "valence": 2.74,
+      "arousal": 3.23,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Never even crossed your mind to walk away (to walk away) When I was getting crazy, reckless and wild Acting like my mama's little devilish child It took a heart like yours to find its place (find its place)",
+      "valence": 2.92,
+      "arousal": 3.27,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "When I was getting crazy, reckless and wild Acting like my mama's little devilish child It took a heart like yours to find its place (find its place) I've been at the wrong place at the wrong time",
+      "valence": 2.46,
+      "arousal": 3.36,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Acting like my mama's little devilish child It took a heart like yours to find its place (find its place) I've been at the wrong place at the wrong time Chasing all the wrong things most of my life",
+      "valence": 2.51,
+      "arousal": 3.29,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "It took a heart like yours to find its place (find its place) I've been at the wrong place at the wrong time Chasing all the wrong things most of my life Been every kind of lost that you can't find",
+      "valence": 2.67,
+      "arousal": 3.25,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I've been at the wrong place at the wrong time Chasing all the wrong things most of my life Been every kind of lost that you can't find But I got one thing right",
+      "valence": 2.68,
+      "arousal": 3.3,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Chasing all the wrong things most of my life Been every kind of lost that you can't find But I got one thing right Been the kind of guy girls' mommas don't like",
+      "valence": 2.44,
+      "arousal": 3.16,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Been every kind of lost that you can't find But I got one thing right Been the kind of guy girls' mommas don't like Running with the wrong crowd on the wrong nights",
+      "valence": 2.78,
+      "arousal": 3.19,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "But I got one thing right Been the kind of guy girls' mommas don't like Running with the wrong crowd on the wrong nights I've been wrong about a million times",
+      "valence": 2.62,
+      "arousal": 3.33,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Been the kind of guy girls' mommas don't like Running with the wrong crowd on the wrong nights I've been wrong about a million times But I got one thing right, you",
+      "valence": 2.8,
+      "arousal": 3.45,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Running with the wrong crowd on the wrong nights I've been wrong about a million times But I got one thing right, you I got you",
+      "valence": 3.03,
+      "arousal": 3.6,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I've been wrong about a million times But I got one thing right, you I got you (Baby, I got one thing right)",
+      "valence": 3.3,
+      "arousal": 3.62,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "But I got one thing right, you I got you (Baby, I got one thing right) I got one thing right",
+      "valence": 3.52,
+      "arousal": 3.56,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I got you (Baby, I got one thing right) I got one thing right I've been wrong about a million times",
+      "valence": 3.42,
+      "arousal": 3.69,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "(Baby, I got one thing right) I got one thing right I've been wrong about a million times But I got one thing right, I got one thing right",
+      "valence": 3.39,
+      "arousal": 3.37,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I got one thing right I've been wrong about a million times But I got one thing right, I got one thing right I've been at the wrong place at the wrong time",
+      "valence": 2.77,
+      "arousal": 3.37,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "I've been wrong about a million times But I got one thing right, I got one thing right I've been at the wrong place at the wrong time Chasing all the wrong things most of my life",
+      "valence": 2.57,
+      "arousal": 3.41,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "But I got one thing right, I got one thing right I've been at the wrong place at the wrong time Chasing all the wrong things most of my life Been every kind of lost that you can't find",
+      "valence": 2.71,
+      "arousal": 3.37,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "I've been at the wrong place at the wrong time Chasing all the wrong things most of my life Been every kind of lost that you can't find But I got one thing right (But I got one thing right)",
+      "valence": 2.83,
+      "arousal": 3.36,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Chasing all the wrong things most of my life Been every kind of lost that you can't find But I got one thing right (But I got one thing right) Been the kind of guy girls' mommas don't like (mommas don't like)",
+      "valence": 2.68,
+      "arousal": 3.25,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Been every kind of lost that you can't find But I got one thing right (But I got one thing right) Been the kind of guy girls' mommas don't like (mommas don't like) Running with the wrong crowd on the wrong nights",
+      "valence": 2.75,
+      "arousal": 3.3,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "But I got one thing right (But I got one thing right) Been the kind of guy girls' mommas don't like (mommas don't like) Running with the wrong crowd on the wrong nights I've been wrong about a million times",
+      "valence": 2.79,
+      "arousal": 3.43,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Been the kind of guy girls' mommas don't like (mommas don't like) Running with the wrong crowd on the wrong nights I've been wrong about a million times But I got one thing right, you",
+      "valence": 2.77,
+      "arousal": 3.47,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Running with the wrong crowd on the wrong nights I've been wrong about a million times But I got one thing right, you I got you",
+      "valence": 3.03,
+      "arousal": 3.6,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I've been wrong about a million times But I got one thing right, you I got you (Baby, I got one thing right)",
+      "valence": 3.3,
+      "arousal": 3.62,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "But I got one thing right, you I got you (Baby, I got one thing right) I got one thing right",
+      "valence": 3.52,
+      "arousal": 3.56,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I got you (Baby, I got one thing right) I got one thing right I've been at the wrong place at the wrong time",
+      "valence": 3.36,
+      "arousal": 3.62,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "(Baby, I got one thing right) I got one thing right I've been at the wrong place at the wrong time Chasing all the wrong things most of my life",
+      "valence": 3.03,
+      "arousal": 3.34,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I got one thing right I've been at the wrong place at the wrong time Chasing all the wrong things most of my life Been every kind of lost that you can't find",
+      "valence": 2.52,
+      "arousal": 3.33,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I've been at the wrong place at the wrong time Chasing all the wrong things most of my life Been every kind of lost that you can't find But I got one thing right (I got one thing right)",
+      "valence": 2.85,
+      "arousal": 3.38,
+      "dominance": 3.29
+    }
+  ]
+}

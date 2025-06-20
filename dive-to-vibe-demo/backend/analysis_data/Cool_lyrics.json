@@ -1,0 +1,304 @@
+{
+  "artist": "Jonas Brothers",
+  "overall_vad": {
+    "valence": 3.73,
+    "arousal": 3.66,
+    "dominance": 3.27
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I'm feeling so cool Top to the bottom, just cool Every little thing that I do Dammit, I'm feelin' so cool, yeah",
+      "valence": 4.31,
+      "arousal": 3.96,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Top to the bottom, just cool Every little thing that I do Dammit, I'm feelin' so cool, yeah Woke up feelin' like a new James Dean",
+      "valence": 3.98,
+      "arousal": 3.74,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Every little thing that I do Dammit, I'm feelin' so cool, yeah Woke up feelin' like a new James Dean I comb my hair like an old-school Sheen",
+      "valence": 3.8,
+      "arousal": 3.62,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Dammit, I'm feelin' so cool, yeah Woke up feelin' like a new James Dean I comb my hair like an old-school Sheen I'm feelin' high like a late night summer of last year, yeah",
+      "valence": 3.92,
+      "arousal": 3.85,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Woke up feelin' like a new James Dean I comb my hair like an old-school Sheen I'm feelin' high like a late night summer of last year, yeah Standin' there with the red dress on you",
+      "valence": 3.33,
+      "arousal": 3.47,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I comb my hair like an old-school Sheen I'm feelin' high like a late night summer of last year, yeah Standin' there with the red dress on you A Killer Queen like a young Jane Fonda",
+      "valence": 3.27,
+      "arousal": 3.37,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I'm feelin' high like a late night summer of last year, yeah Standin' there with the red dress on you A Killer Queen like a young Jane Fonda Is it me, or am I just havin' a good year?",
+      "valence": 3.34,
+      "arousal": 3.38,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Standin' there with the red dress on you A Killer Queen like a young Jane Fonda Is it me, or am I just havin' a good year? Lately, I've been feelin' so cool (cool)",
+      "valence": 3.37,
+      "arousal": 3.29,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "A Killer Queen like a young Jane Fonda Is it me, or am I just havin' a good year? Lately, I've been feelin' so cool (cool) Top to the bottom, just cool (cool)",
+      "valence": 3.47,
+      "arousal": 3.37,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Is it me, or am I just havin' a good year? Lately, I've been feelin' so cool (cool) Top to the bottom, just cool (cool) Every little thing that I do (do)",
+      "valence": 3.61,
+      "arousal": 3.31,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Lately, I've been feelin' so cool (cool) Top to the bottom, just cool (cool) Every little thing that I do (do) Dammit, I feel so cool",
+      "valence": 4.18,
+      "arousal": 3.82,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Top to the bottom, just cool (cool) Every little thing that I do (do) Dammit, I feel so cool It's like, ooh (ooh)",
+      "valence": 4.05,
+      "arousal": 3.85,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Every little thing that I do (do) Dammit, I feel so cool It's like, ooh (ooh) Maybe I should bottle my moves (moves)",
+      "valence": 3.64,
+      "arousal": 3.72,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Dammit, I feel so cool It's like, ooh (ooh) Maybe I should bottle my moves (moves) Sell 'em for a dollar or two (two)",
+      "valence": 3.77,
+      "arousal": 4.01,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "It's like, ooh (ooh) Maybe I should bottle my moves (moves) Sell 'em for a dollar or two (two) Dammit, I'm feelin' so cool (cool)",
+      "valence": 3.81,
+      "arousal": 3.83,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Maybe I should bottle my moves (moves) Sell 'em for a dollar or two (two) Dammit, I'm feelin' so cool (cool) Must've done something right 'cause all these",
+      "valence": 3.68,
+      "arousal": 3.65,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Sell 'em for a dollar or two (two) Dammit, I'm feelin' so cool (cool) Must've done something right 'cause all these Lights are green, man, they look like palm trees",
+      "valence": 3.88,
+      "arousal": 3.87,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Dammit, I'm feelin' so cool (cool) Must've done something right 'cause all these Lights are green, man, they look like palm trees And every time that song comes on it's about me",
+      "valence": 3.91,
+      "arousal": 3.83,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Must've done something right 'cause all these Lights are green, man, they look like palm trees And every time that song comes on it's about me Oh, I feel like Post Malone when I get home",
+      "valence": 3.27,
+      "arousal": 3.38,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Lights are green, man, they look like palm trees And every time that song comes on it's about me Oh, I feel like Post Malone when I get home Sittin' there, winnin' like it's Game of Thrones",
+      "valence": 3.4,
+      "arousal": 3.34,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "And every time that song comes on it's about me Oh, I feel like Post Malone when I get home Sittin' there, winnin' like it's Game of Thrones And now that we've made it, how complicated was last year?",
+      "valence": 3.19,
+      "arousal": 3.37,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Oh, I feel like Post Malone when I get home Sittin' there, winnin' like it's Game of Thrones And now that we've made it, how complicated was last year? Lately, I've been feelin' so cool (cool)",
+      "valence": 3.66,
+      "arousal": 3.56,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Sittin' there, winnin' like it's Game of Thrones And now that we've made it, how complicated was last year? Lately, I've been feelin' so cool (cool) Top to the bottom, just cool (cool)",
+      "valence": 3.67,
+      "arousal": 3.48,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "And now that we've made it, how complicated was last year? Lately, I've been feelin' so cool (cool) Top to the bottom, just cool (cool) Every little thing that I do (do)",
+      "valence": 3.69,
+      "arousal": 3.44,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Lately, I've been feelin' so cool (cool) Top to the bottom, just cool (cool) Every little thing that I do (do) Dammit, I feel so cool",
+      "valence": 4.18,
+      "arousal": 3.82,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Top to the bottom, just cool (cool) Every little thing that I do (do) Dammit, I feel so cool It's like, ooh (ooh)",
+      "valence": 4.05,
+      "arousal": 3.85,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Every little thing that I do (do) Dammit, I feel so cool It's like, ooh (ooh) Maybe I should bottle my moves (moves)",
+      "valence": 3.64,
+      "arousal": 3.72,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Dammit, I feel so cool It's like, ooh (ooh) Maybe I should bottle my moves (moves) Sell 'em for a dollar or two (two)",
+      "valence": 3.77,
+      "arousal": 4.01,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "It's like, ooh (ooh) Maybe I should bottle my moves (moves) Sell 'em for a dollar or two (two) 'Cause dammit, I'm feelin' so cool",
+      "valence": 3.73,
+      "arousal": 3.76,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Maybe I should bottle my moves (moves) Sell 'em for a dollar or two (two) 'Cause dammit, I'm feelin' so cool Woke up feelin' like a new James Dean",
+      "valence": 3.6,
+      "arousal": 3.62,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Sell 'em for a dollar or two (two) 'Cause dammit, I'm feelin' so cool Woke up feelin' like a new James Dean I comb my hair like an old-school Sheen",
+      "valence": 3.57,
+      "arousal": 3.65,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "'Cause dammit, I'm feelin' so cool Woke up feelin' like a new James Dean I comb my hair like an old-school Sheen When I grow up, I wanna be just like me",
+      "valence": 3.73,
+      "arousal": 3.74,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Woke up feelin' like a new James Dean I comb my hair like an old-school Sheen When I grow up, I wanna be just like me Lately, I've been feelin' so cool (cool)",
+      "valence": 3.69,
+      "arousal": 3.58,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I comb my hair like an old-school Sheen When I grow up, I wanna be just like me Lately, I've been feelin' so cool (cool) Top to the bottom, just cool (cool)",
+      "valence": 3.79,
+      "arousal": 3.58,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "When I grow up, I wanna be just like me Lately, I've been feelin' so cool (cool) Top to the bottom, just cool (cool) Every little thing that I do (I do)",
+      "valence": 3.83,
+      "arousal": 3.6,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Lately, I've been feelin' so cool (cool) Top to the bottom, just cool (cool) Every little thing that I do (I do) Dammit, I'm feelin' so cool",
+      "valence": 4.16,
+      "arousal": 3.76,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Top to the bottom, just cool (cool) Every little thing that I do (I do) Dammit, I'm feelin' so cool It's like, ooh (ooh)",
+      "valence": 4.04,
+      "arousal": 3.8,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Every little thing that I do (I do) Dammit, I'm feelin' so cool It's like, ooh (ooh) Maybe I should bottle my moves (moves)",
+      "valence": 3.61,
+      "arousal": 3.67,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Dammit, I'm feelin' so cool It's like, ooh (ooh) Maybe I should bottle my moves (moves) Sell 'em for a dollar or two (two)",
+      "valence": 3.75,
+      "arousal": 3.84,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "It's like, ooh (ooh) Maybe I should bottle my moves (moves) Sell 'em for a dollar or two (two) 'Cause dammit, I'm feelin' so cool",
+      "valence": 3.73,
+      "arousal": 3.76,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Maybe I should bottle my moves (moves) Sell 'em for a dollar or two (two) 'Cause dammit, I'm feelin' so cool (Hey, hey, hey)",
+      "valence": 3.57,
+      "arousal": 3.63,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Sell 'em for a dollar or two (two) 'Cause dammit, I'm feelin' so cool (Hey, hey, hey) Cool",
+      "valence": 3.86,
+      "arousal": 3.78,
+      "dominance": 3.49
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "artist": "The Kid LAROI",
+  "overall_vad": {
+    "valence": 2.62,
+    "arousal": 3.55,
+    "dominance": 3.09
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I know that look on your face You're comin' my way, you're comin' my way tonight Here goes another mistake I know I'm gon' make, I know I'm gon' make tonight",
+      "valence": 2.81,
+      "arousal": 3.36,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "You're comin' my way, you're comin' my way tonight Here goes another mistake I know I'm gon' make, I know I'm gon' make tonight Oh, I wish I let it go, you're better off alone",
+      "valence": 2.73,
+      "arousal": 3.43,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Here goes another mistake I know I'm gon' make, I know I'm gon' make tonight Oh, I wish I let it go, you're better off alone 'Cause I'm about to fuck it up with you",
+      "valence": 2.17,
+      "arousal": 3.72,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I know I'm gon' make, I know I'm gon' make tonight Oh, I wish I let it go, you're better off alone 'Cause I'm about to fuck it up with you I know that look on your face",
+      "valence": 2.36,
+      "arousal": 3.8,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Oh, I wish I let it go, you're better off alone 'Cause I'm about to fuck it up with you I know that look on your face You're comin' my way, you're comin' my way tonight",
+      "valence": 2.02,
+      "arousal": 4.0,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "'Cause I'm about to fuck it up with you I know that look on your face You're comin' my way, you're comin' my way tonight And I will never change",
+      "valence": 1.95,
+      "arousal": 4.03,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I know that look on your face You're comin' my way, you're comin' my way tonight And I will never change I couldn't even if I wanted to for you (oh, oh)",
+      "valence": 2.98,
+      "arousal": 3.63,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "You're comin' my way, you're comin' my way tonight And I will never change I couldn't even if I wanted to for you (oh, oh) There's nothin' left to say",
+      "valence": 2.8,
+      "arousal": 3.57,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "And I will never change I couldn't even if I wanted to for you (oh, oh) There's nothin' left to say If I was you, if I was you, then I would stay",
+      "valence": 2.7,
+      "arousal": 3.31,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I couldn't even if I wanted to for you (oh, oh) There's nothin' left to say If I was you, if I was you, then I would stay A thousand miles away",
+      "valence": 2.55,
+      "arousal": 3.41,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "There's nothin' left to say If I was you, if I was you, then I would stay A thousand miles away (A thousand miles away, yeah)",
+      "valence": 2.7,
+      "arousal": 3.19,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "If I was you, if I was you, then I would stay A thousand miles away (A thousand miles away, yeah) It's hard to give it all up (all up)",
+      "valence": 2.85,
+      "arousal": 3.25,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "A thousand miles away (A thousand miles away, yeah) It's hard to give it all up (all up) Tryna block you out, but you're invading my thoughts",
+      "valence": 2.49,
+      "arousal": 3.74,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "(A thousand miles away, yeah) It's hard to give it all up (all up) Tryna block you out, but you're invading my thoughts And you got ten fingers wrapped around my heart (heart)",
+      "valence": 2.7,
+      "arousal": 3.93,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "It's hard to give it all up (all up) Tryna block you out, but you're invading my thoughts And you got ten fingers wrapped around my heart (heart) Uh, wish I could give you everything that you want, but I won't, no",
+      "valence": 2.66,
+      "arousal": 3.88,
+      "dominance": 2.75
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Tryna block you out, but you're invading my thoughts And you got ten fingers wrapped around my heart (heart) Uh, wish I could give you everything that you want, but I won't, no I wish I let it go, you're better off alone",
+      "valence": 2.6,
+      "arousal": 3.85,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "And you got ten fingers wrapped around my heart (heart) Uh, wish I could give you everything that you want, but I won't, no I wish I let it go, you're better off alone 'Cause I'm about to fuck it up with you",
+      "valence": 2.63,
+      "arousal": 4.04,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Uh, wish I could give you everything that you want, but I won't, no I wish I let it go, you're better off alone 'Cause I'm about to fuck it up with you I know that look on your face",
+      "valence": 2.09,
+      "arousal": 3.81,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I wish I let it go, you're better off alone 'Cause I'm about to fuck it up with you I know that look on your face You're comin' my way, tomorrow, we'll say goodbye",
+      "valence": 2.1,
+      "arousal": 3.86,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "'Cause I'm about to fuck it up with you I know that look on your face You're comin' my way, tomorrow, we'll say goodbye And I will never change",
+      "valence": 1.95,
+      "arousal": 3.92,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I know that look on your face You're comin' my way, tomorrow, we'll say goodbye And I will never change I couldn't even if I wanted to for you (oh, oh)",
+      "valence": 2.88,
+      "arousal": 3.46,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "You're comin' my way, tomorrow, we'll say goodbye And I will never change I couldn't even if I wanted to for you (oh, oh) There's nothin' left to say",
+      "valence": 2.73,
+      "arousal": 3.38,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "And I will never change I couldn't even if I wanted to for you (oh, oh) There's nothin' left to say If I was you, if I was you, then I would stay",
+      "valence": 2.7,
+      "arousal": 3.31,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I couldn't even if I wanted to for you (oh, oh) There's nothin' left to say If I was you, if I was you, then I would stay A thousand miles away",
+      "valence": 2.55,
+      "arousal": 3.41,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "There's nothin' left to say If I was you, if I was you, then I would stay A thousand miles away (A thousand miles away, yeah)",
+      "valence": 2.7,
+      "arousal": 3.19,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "If I was you, if I was you, then I would stay A thousand miles away (A thousand miles away, yeah) Here in your arms",
+      "valence": 3.14,
+      "arousal": 3.46,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "A thousand miles away (A thousand miles away, yeah) Here in your arms I'm already gone",
+      "valence": 3.3,
+      "arousal": 3.56,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "(A thousand miles away, yeah) Here in your arms I'm already gone You got me wrong",
+      "valence": 2.93,
+      "arousal": 3.58,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Here in your arms I'm already gone You got me wrong And I played along",
+      "valence": 2.93,
+      "arousal": 3.43,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I'm already gone You got me wrong And I played along I know that look on your face",
+      "valence": 2.46,
+      "arousal": 3.5,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "You got me wrong And I played along I know that look on your face You're comin' my way, you're comin' my way tonight",
+      "valence": 2.47,
+      "arousal": 3.56,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "And I played along I know that look on your face You're comin' my way, you're comin' my way tonight Here goes another mistake",
+      "valence": 2.7,
+      "arousal": 3.3,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I know that look on your face You're comin' my way, you're comin' my way tonight Here goes another mistake I know I'm gon' make, I know I'm gon' make tonight",
+      "valence": 2.81,
+      "arousal": 3.36,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "You're comin' my way, you're comin' my way tonight Here goes another mistake I know I'm gon' make, I know I'm gon' make tonight And I will never change",
+      "valence": 2.86,
+      "arousal": 3.39,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Here goes another mistake I know I'm gon' make, I know I'm gon' make tonight And I will never change I couldn't even if I wanted to for you (oh, oh)",
+      "valence": 2.56,
+      "arousal": 3.36,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I know I'm gon' make, I know I'm gon' make tonight And I will never change I couldn't even if I wanted to for you (oh, oh) There's nothin' left to say",
+      "valence": 2.69,
+      "arousal": 3.44,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "And I will never change I couldn't even if I wanted to for you (oh, oh) There's nothin' left to say If I was you, if I was you, then I would stay",
+      "valence": 2.7,
+      "arousal": 3.31,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "I couldn't even if I wanted to for you (oh, oh) There's nothin' left to say If I was you, if I was you, then I would stay A thousand miles away",
+      "valence": 2.55,
+      "arousal": 3.41,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "There's nothin' left to say If I was you, if I was you, then I would stay A thousand miles away (A thousand miles away, yeah)",
+      "valence": 2.7,
+      "arousal": 3.19,
+      "dominance": 3.09
+    }
+  ]
+}

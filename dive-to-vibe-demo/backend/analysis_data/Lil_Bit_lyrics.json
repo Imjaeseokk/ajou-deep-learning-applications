@@ -1,0 +1,542 @@
+{
+  "artist": "Nelly & Florida Georgia Line",
+  "overall_vad": {
+    "valence": 3.36,
+    "arousal": 3.59,
+    "dominance": 3.29
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "What up, Nelly? You ready to do another one, bruh? Talk to 'em (uh, uh, uh, uh), haha Yeah, runnin' all red lights",
+      "valence": 3.1,
+      "arousal": 3.5,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "You ready to do another one, bruh? Talk to 'em (uh, uh, uh, uh), haha Yeah, runnin' all red lights Pull up to the club, just to get, to get ahead, right",
+      "valence": 3.1,
+      "arousal": 3.51,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Talk to 'em (uh, uh, uh, uh), haha Yeah, runnin' all red lights Pull up to the club, just to get, to get ahead, right I do this shit er'ry night",
+      "valence": 2.89,
+      "arousal": 3.53,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Yeah, runnin' all red lights Pull up to the club, just to get, to get ahead, right I do this shit er'ry night You can call it limelight, I'ma call it my life",
+      "valence": 2.96,
+      "arousal": 3.47,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Pull up to the club, just to get, to get ahead, right I do this shit er'ry night You can call it limelight, I'ma call it my life Shawty lookin' alright",
+      "valence": 3.03,
+      "arousal": 3.44,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I do this shit er'ry night You can call it limelight, I'ma call it my life Shawty lookin' alright TK jeans on, skin-skin-skintight",
+      "valence": 3.16,
+      "arousal": 3.45,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "You can call it limelight, I'ma call it my life Shawty lookin' alright TK jeans on, skin-skin-skintight She be shakin' that taillight",
+      "valence": 3.29,
+      "arousal": 3.38,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Shawty lookin' alright TK jeans on, skin-skin-skintight She be shakin' that taillight Got me froze in the road like a deer in the headlights (uh, uh, yeah)",
+      "valence": 2.81,
+      "arousal": 3.4,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "TK jeans on, skin-skin-skintight She be shakin' that taillight Got me froze in the road like a deer in the headlights (uh, uh, yeah) Oh, Backwoods, wanna know if you can roll",
+      "valence": 2.85,
+      "arousal": 3.38,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "She be shakin' that taillight Got me froze in the road like a deer in the headlights (uh, uh, yeah) Oh, Backwoods, wanna know if you can roll Got CÃ®roc on the rocks, ice-cold",
+      "valence": 2.79,
+      "arousal": 3.38,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Got me froze in the road like a deer in the headlights (uh, uh, yeah) Oh, Backwoods, wanna know if you can roll Got CÃ®roc on the rocks, ice-cold Got the coupe on the new town road",
+      "valence": 2.83,
+      "arousal": 3.31,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Oh, Backwoods, wanna know if you can roll Got CÃ®roc on the rocks, ice-cold Got the coupe on the new town road Real low, oh",
+      "valence": 3.05,
+      "arousal": 3.11,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Got CÃ®roc on the rocks, ice-cold Got the coupe on the new town road Real low, oh I know we just met, but, girl, let's roll",
+      "valence": 3.27,
+      "arousal": 3.5,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Got the coupe on the new town road Real low, oh I know we just met, but, girl, let's roll Let's roll, whoa, let's roll, let's roll",
+      "valence": 3.23,
+      "arousal": 3.8,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Real low, oh I know we just met, but, girl, let's roll Let's roll, whoa, let's roll, let's roll I'll go anywhere you wanna go",
+      "valence": 3.22,
+      "arousal": 3.75,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I know we just met, but, girl, let's roll Let's roll, whoa, let's roll, let's roll I'll go anywhere you wanna go Let's go, oh",
+      "valence": 3.27,
+      "arousal": 3.77,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Let's roll, whoa, let's roll, let's roll I'll go anywhere you wanna go Let's go, oh And she said, \"Take me to the country, show me where you from\"",
+      "valence": 3.2,
+      "arousal": 3.71,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I'll go anywhere you wanna go Let's go, oh And she said, \"Take me to the country, show me where you from\" I said, \"Shawty, you gon' love me and we gon' have some fun\"",
+      "valence": 3.85,
+      "arousal": 3.79,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Let's go, oh And she said, \"Take me to the country, show me where you from\" I said, \"Shawty, you gon' love me and we gon' have some fun\" I'll break out my big wheel and you can climb on up",
+      "valence": 3.76,
+      "arousal": 3.71,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "And she said, \"Take me to the country, show me where you from\" I said, \"Shawty, you gon' love me and we gon' have some fun\" I'll break out my big wheel and you can climb on up Girl, I think you a big deal, now show your boy some love",
+      "valence": 3.91,
+      "arousal": 3.92,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I said, \"Shawty, you gon' love me and we gon' have some fun\" I'll break out my big wheel and you can climb on up Girl, I think you a big deal, now show your boy some love Huh, just a lil' bit",
+      "valence": 4.02,
+      "arousal": 3.94,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I'll break out my big wheel and you can climb on up Girl, I think you a big deal, now show your boy some love Huh, just a lil' bit Just a lil' bit (uh)",
+      "valence": 3.51,
+      "arousal": 3.66,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Girl, I think you a big deal, now show your boy some love Huh, just a lil' bit Just a lil' bit (uh) Just a lil' bit (yeah)",
+      "valence": 3.47,
+      "arousal": 3.71,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Huh, just a lil' bit Just a lil' bit (uh) Just a lil' bit (yeah) Just a lil' bit (uh)",
+      "valence": 2.9,
+      "arousal": 3.03,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Just a lil' bit (uh) Just a lil' bit (yeah) Just a lil' bit (uh) We gon' have some fun",
+      "valence": 3.62,
+      "arousal": 3.71,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Just a lil' bit (yeah) Just a lil' bit (uh) We gon' have some fun Just a lil' bit (uh)",
+      "valence": 3.54,
+      "arousal": 3.63,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Just a lil' bit (uh) We gon' have some fun Just a lil' bit (uh) Just a lil' bit (yeah)",
+      "valence": 3.6,
+      "arousal": 3.64,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "We gon' have some fun Just a lil' bit (uh) Just a lil' bit (yeah) Just a lil' bit",
+      "valence": 3.62,
+      "arousal": 3.68,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Just a lil' bit (uh) Just a lil' bit (yeah) Just a lil' bit Yeah, we gon' have some-",
+      "valence": 3.11,
+      "arousal": 3.22,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Just a lil' bit (yeah) Just a lil' bit Yeah, we gon' have some- Shawty messin' with a pro now (woo)",
+      "valence": 3.08,
+      "arousal": 3.48,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Just a lil' bit Yeah, we gon' have some- Shawty messin' with a pro now (woo) I'm a pro now",
+      "valence": 3.06,
+      "arousal": 3.36,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Yeah, we gon' have some- Shawty messin' with a pro now (woo) I'm a pro now I'm the who, what, when, where to go now",
+      "valence": 2.87,
+      "arousal": 3.64,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Shawty messin' with a pro now (woo) I'm a pro now I'm the who, what, when, where to go now Shows sold out",
+      "valence": 3.01,
+      "arousal": 3.67,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I'm a pro now I'm the who, what, when, where to go now Shows sold out From the front to the back, hip-hop or the hoedown",
+      "valence": 3.35,
+      "arousal": 3.64,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I'm the who, what, when, where to go now Shows sold out From the front to the back, hip-hop or the hoedown Got the game on the go route",
+      "valence": 3.37,
+      "arousal": 3.62,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Shows sold out From the front to the back, hip-hop or the hoedown Got the game on the go route I'm the black Tom Brady in this, I'm the G.O.A.T. now (haha)",
+      "valence": 3.28,
+      "arousal": 3.73,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "From the front to the back, hip-hop or the hoedown Got the game on the go route I'm the black Tom Brady in this, I'm the G.O.A.T. now (haha) Shawty, I'm so wow",
+      "valence": 3.54,
+      "arousal": 3.9,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Got the game on the go route I'm the black Tom Brady in this, I'm the G.O.A.T. now (haha) Shawty, I'm so wow Orleans out to SoCal",
+      "valence": 3.66,
+      "arousal": 3.87,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I'm the black Tom Brady in this, I'm the G.O.A.T. now (haha) Shawty, I'm so wow Orleans out to SoCal Better know now",
+      "valence": 3.24,
+      "arousal": 3.76,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Shawty, I'm so wow Orleans out to SoCal Better know now I know we just met, but, girl, let's roll",
+      "valence": 3.63,
+      "arousal": 3.86,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Orleans out to SoCal Better know now I know we just met, but, girl, let's roll Let's roll, whoa, let's roll, let's roll",
+      "valence": 3.28,
+      "arousal": 3.85,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Better know now I know we just met, but, girl, let's roll Let's roll, whoa, let's roll, let's roll I'll go anywhere you wanna go",
+      "valence": 3.27,
+      "arousal": 3.84,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I know we just met, but, girl, let's roll Let's roll, whoa, let's roll, let's roll I'll go anywhere you wanna go Let's go, oh (ayy, ayy, ayy)",
+      "valence": 3.28,
+      "arousal": 3.79,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Let's roll, whoa, let's roll, let's roll I'll go anywhere you wanna go Let's go, oh (ayy, ayy, ayy) And she said, \"Take me to the country, show me where you from\" (let's ride)",
+      "valence": 3.27,
+      "arousal": 3.7,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I'll go anywhere you wanna go Let's go, oh (ayy, ayy, ayy) And she said, \"Take me to the country, show me where you from\" (let's ride) I said, \"Shawty, you gon' love me and we gon' have some fun\"",
+      "valence": 3.76,
+      "arousal": 3.72,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Let's go, oh (ayy, ayy, ayy) And she said, \"Take me to the country, show me where you from\" (let's ride) I said, \"Shawty, you gon' love me and we gon' have some fun\" I'll break out my big wheel and you can climb on up",
+      "valence": 3.68,
+      "arousal": 3.64,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "And she said, \"Take me to the country, show me where you from\" (let's ride) I said, \"Shawty, you gon' love me and we gon' have some fun\" I'll break out my big wheel and you can climb on up Girl, I think you a big deal, now show your boy some love",
+      "valence": 3.89,
+      "arousal": 3.89,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I said, \"Shawty, you gon' love me and we gon' have some fun\" I'll break out my big wheel and you can climb on up Girl, I think you a big deal, now show your boy some love Huh, just a lil' bit",
+      "valence": 4.02,
+      "arousal": 3.94,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I'll break out my big wheel and you can climb on up Girl, I think you a big deal, now show your boy some love Huh, just a lil' bit Just a lil' bit (yeah, baby, uh)",
+      "valence": 3.58,
+      "arousal": 3.67,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Girl, I think you a big deal, now show your boy some love Huh, just a lil' bit Just a lil' bit (yeah, baby, uh) Just a lil' bit (yeah)",
+      "valence": 3.55,
+      "arousal": 3.69,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Huh, just a lil' bit Just a lil' bit (yeah, baby, uh) Just a lil' bit (yeah) Just a lil' bit (uh)",
+      "valence": 2.95,
+      "arousal": 3.06,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Just a lil' bit (yeah, baby, uh) Just a lil' bit (yeah) Just a lil' bit (uh) We gon' have some fun",
+      "valence": 3.66,
+      "arousal": 3.69,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Just a lil' bit (yeah) Just a lil' bit (uh) We gon' have some fun Just a lil' bit (uh)",
+      "valence": 3.54,
+      "arousal": 3.63,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Just a lil' bit (uh) We gon' have some fun Just a lil' bit (uh) Just a lil' bit (yeah)",
+      "valence": 3.6,
+      "arousal": 3.64,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "We gon' have some fun Just a lil' bit (uh) Just a lil' bit (yeah) Just a lil' bit (haha, uh, yeah, yeah)",
+      "valence": 3.66,
+      "arousal": 3.77,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Just a lil' bit (uh) Just a lil' bit (yeah) Just a lil' bit (haha, uh, yeah, yeah) Oh, Backwoods, wanna know if you can roll",
+      "valence": 3.26,
+      "arousal": 3.39,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Just a lil' bit (yeah) Just a lil' bit (haha, uh, yeah, yeah) Oh, Backwoods, wanna know if you can roll Got CÃ®roc on the rocks, ice-cold",
+      "valence": 3.31,
+      "arousal": 3.37,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Just a lil' bit (haha, uh, yeah, yeah) Oh, Backwoods, wanna know if you can roll Got CÃ®roc on the rocks, ice-cold Got the coupe on the new town road (uh, uh, uh)",
+      "valence": 3.25,
+      "arousal": 3.37,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Oh, Backwoods, wanna know if you can roll Got CÃ®roc on the rocks, ice-cold Got the coupe on the new town road (uh, uh, uh) Real low, oh",
+      "valence": 3.02,
+      "arousal": 3.06,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Got CÃ®roc on the rocks, ice-cold Got the coupe on the new town road (uh, uh, uh) Real low, oh Oh, Backwoods, wanna know if you can roll (can she roll?)",
+      "valence": 3.07,
+      "arousal": 3.22,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Got the coupe on the new town road (uh, uh, uh) Real low, oh Oh, Backwoods, wanna know if you can roll (can she roll?) Got CÃ®roc on the rocks, ice-cold",
+      "valence": 3.06,
+      "arousal": 3.23,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Real low, oh Oh, Backwoods, wanna know if you can roll (can she roll?) Got CÃ®roc on the rocks, ice-cold Got the coupe on the new town road",
+      "valence": 3.03,
+      "arousal": 3.19,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Oh, Backwoods, wanna know if you can roll (can she roll?) Got CÃ®roc on the rocks, ice-cold Got the coupe on the new town road Real low, oh",
+      "valence": 3.04,
+      "arousal": 3.18,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Got CÃ®roc on the rocks, ice-cold Got the coupe on the new town road Real low, oh And she said, \"Take me to the country, show me where you from\"",
+      "valence": 3.06,
+      "arousal": 3.23,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Got the coupe on the new town road Real low, oh And she said, \"Take me to the country, show me where you from\" I said, \"Shawty, you gon' love me and we gon' have some fun\" (we back, man)",
+      "valence": 3.79,
+      "arousal": 3.79,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Real low, oh And she said, \"Take me to the country, show me where you from\" I said, \"Shawty, you gon' love me and we gon' have some fun\" (we back, man) I'll break out my big wheel and you can climb on up",
+      "valence": 3.69,
+      "arousal": 3.75,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "And she said, \"Take me to the country, show me where you from\" I said, \"Shawty, you gon' love me and we gon' have some fun\" (we back, man) I'll break out my big wheel and you can climb on up Girl, I think you a big deal, now show your boy some love",
+      "valence": 3.9,
+      "arousal": 3.95,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "I said, \"Shawty, you gon' love me and we gon' have some fun\" (we back, man) I'll break out my big wheel and you can climb on up Girl, I think you a big deal, now show your boy some love Huh, just a lil' bit (ayy, ayy)",
+      "valence": 3.97,
+      "arousal": 3.94,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "I'll break out my big wheel and you can climb on up Girl, I think you a big deal, now show your boy some love Huh, just a lil' bit (ayy, ayy) Just a lil' bit (come on, ayy, ayy)",
+      "valence": 3.51,
+      "arousal": 3.74,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Girl, I think you a big deal, now show your boy some love Huh, just a lil' bit (ayy, ayy) Just a lil' bit (come on, ayy, ayy) Just a lil' bit (ayy, ayy)",
+      "valence": 3.37,
+      "arousal": 3.72,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Huh, just a lil' bit (ayy, ayy) Just a lil' bit (come on, ayy, ayy) Just a lil' bit (ayy, ayy) Just a lil' bit",
+      "valence": 2.9,
+      "arousal": 3.11,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Just a lil' bit (come on, ayy, ayy) Just a lil' bit (ayy, ayy) Just a lil' bit We gon' have some fun (ayy, ayy)",
+      "valence": 3.57,
+      "arousal": 3.72,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Just a lil' bit (ayy, ayy) Just a lil' bit We gon' have some fun (ayy, ayy) Just a lil' bit (ayy, ayy)",
+      "valence": 3.58,
+      "arousal": 3.69,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Just a lil' bit We gon' have some fun (ayy, ayy) Just a lil' bit (ayy, ayy) Just a lil' bit (ayy, ayy)",
+      "valence": 3.64,
+      "arousal": 3.73,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "We gon' have some fun (ayy, ayy) Just a lil' bit (ayy, ayy) Just a lil' bit (ayy, ayy) Just a lil' bit",
+      "valence": 3.68,
+      "arousal": 3.77,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "Just a lil' bit (ayy, ayy) Just a lil' bit (ayy, ayy) Just a lil' bit We gon' have some fun",
+      "valence": 3.65,
+      "arousal": 3.66,
+      "dominance": 3.22
+    }
+  ]
+}

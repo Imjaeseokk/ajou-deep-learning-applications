@@ -1,0 +1,521 @@
+{
+  "artist": "Kevin Gates Featuring August Alsina",
+  "overall_vad": {
+    "valence": 2.83,
+    "arousal": 3.39,
+    "dominance": 3.37
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I was tryna get it how I live I want them dead presidents I wanna pull up, head spin Get it, get fly, I got six jobs, I don't get tired",
+      "valence": 2.39,
+      "arousal": 3.69,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I want them dead presidents I wanna pull up, head spin Get it, get fly, I got six jobs, I don't get tired And I don't get tired, I don't get, I don't get tired",
+      "valence": 2.45,
+      "arousal": 3.66,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I wanna pull up, head spin Get it, get fly, I got six jobs, I don't get tired And I don't get tired, I don't get, I don't get tired And I don't get tired, I don't get, I don't get tired",
+      "valence": 2.85,
+      "arousal": 3.53,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Get it, get fly, I got six jobs, I don't get tired And I don't get tired, I don't get, I don't get tired And I don't get tired, I don't get, I don't get tired And I don't get tired, I don't get, I don't get tired",
+      "valence": 2.92,
+      "arousal": 3.38,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "And I don't get tired, I don't get, I don't get tired And I don't get tired, I don't get, I don't get tired And I don't get tired, I don't get, I don't get tired Get it, get fly, I got six jobs, I don't get tired",
+      "valence": 2.87,
+      "arousal": 3.32,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "And I don't get tired, I don't get, I don't get tired And I don't get tired, I don't get, I don't get tired Get it, get fly, I got six jobs, I don't get tired Full time father, full time artist",
+      "valence": 2.96,
+      "arousal": 3.35,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "And I don't get tired, I don't get, I don't get tired Get it, get fly, I got six jobs, I don't get tired Full time father, full time artist Asked God, he said \"Grind a little harder\"",
+      "valence": 2.91,
+      "arousal": 3.4,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Get it, get fly, I got six jobs, I don't get tired Full time father, full time artist Asked God, he said \"Grind a little harder\" Learn from every time you ever fail",
+      "valence": 3.1,
+      "arousal": 3.41,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Full time father, full time artist Asked God, he said \"Grind a little harder\" Learn from every time you ever fail If it never fail just grind smarter",
+      "valence": 3.12,
+      "arousal": 3.24,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Asked God, he said \"Grind a little harder\" Learn from every time you ever fail If it never fail just grind smarter Iron sharpens, you the dagger",
+      "valence": 2.95,
+      "arousal": 3.2,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Learn from every time you ever fail If it never fail just grind smarter Iron sharpens, you the dagger On they hindquarters and they all acting",
+      "valence": 2.87,
+      "arousal": 3.15,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "If it never fail just grind smarter Iron sharpens, you the dagger On they hindquarters and they all acting Rap game, I'm a pallbearer",
+      "valence": 2.81,
+      "arousal": 3.19,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Iron sharpens, you the dagger On they hindquarters and they all acting Rap game, I'm a pallbearer Kill me and get a call after",
+      "valence": 2.54,
+      "arousal": 3.44,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "On they hindquarters and they all acting Rap game, I'm a pallbearer Kill me and get a call after First look, it was all laughter",
+      "valence": 3.08,
+      "arousal": 3.58,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Rap game, I'm a pallbearer Kill me and get a call after First look, it was all laughter Kevin Gates, no small matter",
+      "valence": 3.0,
+      "arousal": 3.45,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Kill me and get a call after First look, it was all laughter Kevin Gates, no small matter Made men believe what they didn't believe",
+      "valence": 3.04,
+      "arousal": 3.59,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "First look, it was all laughter Kevin Gates, no small matter Made men believe what they didn't believe Dive in the crowd, no safety harness",
+      "valence": 3.23,
+      "arousal": 3.27,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Kevin Gates, no small matter Made men believe what they didn't believe Dive in the crowd, no safety harness Gun in the booth, no safety on it",
+      "valence": 2.61,
+      "arousal": 3.16,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Made men believe what they didn't believe Dive in the crowd, no safety harness Gun in the booth, no safety on it Aim and I shoot for the stars",
+      "valence": 2.84,
+      "arousal": 3.41,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Dive in the crowd, no safety harness Gun in the booth, no safety on it Aim and I shoot for the stars At the awards I ain't win no awards",
+      "valence": 2.77,
+      "arousal": 3.34,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Gun in the booth, no safety on it Aim and I shoot for the stars At the awards I ain't win no awards Only meaning one thing, don't get tired, I go hard",
+      "valence": 2.83,
+      "arousal": 3.33,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Aim and I shoot for the stars At the awards I ain't win no awards Only meaning one thing, don't get tired, I go hard I was tryna get it how I live",
+      "valence": 2.9,
+      "arousal": 3.0,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "At the awards I ain't win no awards Only meaning one thing, don't get tired, I go hard I was tryna get it how I live I want them dead presidents",
+      "valence": 2.44,
+      "arousal": 3.09,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Only meaning one thing, don't get tired, I go hard I was tryna get it how I live I want them dead presidents I wanna pull up, head spin",
+      "valence": 2.37,
+      "arousal": 3.55,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I was tryna get it how I live I want them dead presidents I wanna pull up, head spin Get it, get fly, I got six jobs, I don't get tired",
+      "valence": 2.39,
+      "arousal": 3.69,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I want them dead presidents I wanna pull up, head spin Get it, get fly, I got six jobs, I don't get tired And I don't get tired, I don't get, I don't get tired",
+      "valence": 2.45,
+      "arousal": 3.66,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I wanna pull up, head spin Get it, get fly, I got six jobs, I don't get tired And I don't get tired, I don't get, I don't get tired And I don't get tired, I don't get, I don't get tired",
+      "valence": 2.85,
+      "arousal": 3.53,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Get it, get fly, I got six jobs, I don't get tired And I don't get tired, I don't get, I don't get tired And I don't get tired, I don't get, I don't get tired And I don't get tired, I don't get, I don't get tired",
+      "valence": 2.92,
+      "arousal": 3.38,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "And I don't get tired, I don't get, I don't get tired And I don't get tired, I don't get, I don't get tired And I don't get tired, I don't get, I don't get tired Get it, get fly, I got six jobs, I don't get tired",
+      "valence": 2.87,
+      "arousal": 3.32,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "And I don't get tired, I don't get, I don't get tired And I don't get tired, I don't get, I don't get tired Get it, get fly, I got six jobs, I don't get tired Me and the woman I love on an air mattress",
+      "valence": 2.97,
+      "arousal": 3.4,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "And I don't get tired, I don't get, I don't get tired Get it, get fly, I got six jobs, I don't get tired Me and the woman I love on an air mattress We share a cot, my hair nappy",
+      "valence": 3.05,
+      "arousal": 3.48,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Get it, get fly, I got six jobs, I don't get tired Me and the woman I love on an air mattress We share a cot, my hair nappy Couldn't afford flights, no air travel",
+      "valence": 3.13,
+      "arousal": 3.55,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Me and the woman I love on an air mattress We share a cot, my hair nappy Couldn't afford flights, no air travel Stale Rice Krispies like sand and gravel",
+      "valence": 3.48,
+      "arousal": 3.34,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "We share a cot, my hair nappy Couldn't afford flights, no air travel Stale Rice Krispies like sand and gravel Our testament to what can happen",
+      "valence": 2.86,
+      "arousal": 3.16,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Couldn't afford flights, no air travel Stale Rice Krispies like sand and gravel Our testament to what can happen The moment you follow your heart",
+      "valence": 2.84,
+      "arousal": 3.14,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Stale Rice Krispies like sand and gravel Our testament to what can happen The moment you follow your heart Keeping the faith even when it get dark",
+      "valence": 3.2,
+      "arousal": 3.02,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Our testament to what can happen The moment you follow your heart Keeping the faith even when it get dark They say give up as I tell them \"Get lost\"",
+      "valence": 3.29,
+      "arousal": 3.25,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "The moment you follow your heart Keeping the faith even when it get dark They say give up as I tell them \"Get lost\" Six weeks ago I just purchased a foreign",
+      "valence": 3.2,
+      "arousal": 3.16,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Keeping the faith even when it get dark They say give up as I tell them \"Get lost\" Six weeks ago I just purchased a foreign Most likely the one that you cannot afford",
+      "valence": 2.97,
+      "arousal": 3.21,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "They say give up as I tell them \"Get lost\" Six weeks ago I just purchased a foreign Most likely the one that you cannot afford Right foot on the gas",
+      "valence": 2.81,
+      "arousal": 3.3,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Six weeks ago I just purchased a foreign Most likely the one that you cannot afford Right foot on the gas Balenciaga be accelerating, I'm doing the dash",
+      "valence": 2.99,
+      "arousal": 3.38,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Most likely the one that you cannot afford Right foot on the gas Balenciaga be accelerating, I'm doing the dash Chick that I'm with",
+      "valence": 2.88,
+      "arousal": 3.28,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Right foot on the gas Balenciaga be accelerating, I'm doing the dash Chick that I'm with Shorty be doing her shit and it's okay to say that she bad",
+      "valence": 2.68,
+      "arousal": 3.41,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Balenciaga be accelerating, I'm doing the dash Chick that I'm with Shorty be doing her shit and it's okay to say that she bad Look to the right and I give her a glance",
+      "valence": 2.75,
+      "arousal": 3.3,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Chick that I'm with Shorty be doing her shit and it's okay to say that she bad Look to the right and I give her a glance Pray to God we don't, pray to God we don't crash",
+      "valence": 2.52,
+      "arousal": 3.51,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Shorty be doing her shit and it's okay to say that she bad Look to the right and I give her a glance Pray to God we don't, pray to God we don't crash I was tryna get it how I live",
+      "valence": 2.46,
+      "arousal": 3.45,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Look to the right and I give her a glance Pray to God we don't, pray to God we don't crash I was tryna get it how I live I want them dead presidents",
+      "valence": 2.3,
+      "arousal": 3.6,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Pray to God we don't, pray to God we don't crash I was tryna get it how I live I want them dead presidents I wanna pull up, head spin",
+      "valence": 2.26,
+      "arousal": 3.81,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I was tryna get it how I live I want them dead presidents I wanna pull up, head spin Get it, get fly, I got six jobs, I don't get tired",
+      "valence": 2.39,
+      "arousal": 3.69,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I want them dead presidents I wanna pull up, head spin Get it, get fly, I got six jobs, I don't get tired And I don't get tired, I don't get, I don't get tired",
+      "valence": 2.45,
+      "arousal": 3.66,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I wanna pull up, head spin Get it, get fly, I got six jobs, I don't get tired And I don't get tired, I don't get, I don't get tired And I don't get tired, I don't get, I don't get tired",
+      "valence": 2.85,
+      "arousal": 3.53,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Get it, get fly, I got six jobs, I don't get tired And I don't get tired, I don't get, I don't get tired And I don't get tired, I don't get, I don't get tired And I don't get tired, I don't get, I don't get tired",
+      "valence": 2.92,
+      "arousal": 3.38,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "And I don't get tired, I don't get, I don't get tired And I don't get tired, I don't get, I don't get tired And I don't get tired, I don't get, I don't get tired Get it, get fly, I got six jobs, I don't get tired",
+      "valence": 2.87,
+      "arousal": 3.32,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "And I don't get tired, I don't get, I don't get tired And I don't get tired, I don't get, I don't get tired Get it, get fly, I got six jobs, I don't get tired Only meaning one thing, don't get tired, I go hard",
+      "valence": 2.94,
+      "arousal": 3.33,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "And I don't get tired, I don't get, I don't get tired Get it, get fly, I got six jobs, I don't get tired Only meaning one thing, don't get tired, I go hard Don't play with the hustle, you eat or you starve",
+      "valence": 2.85,
+      "arousal": 3.35,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Get it, get fly, I got six jobs, I don't get tired Only meaning one thing, don't get tired, I go hard Don't play with the hustle, you eat or you starve Don't mimic pretenders, just be who you are",
+      "valence": 2.96,
+      "arousal": 3.43,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Only meaning one thing, don't get tired, I go hard Don't play with the hustle, you eat or you starve Don't mimic pretenders, just be who you are Ain't never change, been like this from the start",
+      "valence": 2.91,
+      "arousal": 3.31,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Don't play with the hustle, you eat or you starve Don't mimic pretenders, just be who you are Ain't never change, been like this from the start Only meaning one thing, don't get tired, I go hard (I don't get tired)",
+      "valence": 2.87,
+      "arousal": 3.26,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Don't mimic pretenders, just be who you are Ain't never change, been like this from the start Only meaning one thing, don't get tired, I go hard (I don't get tired) Don't play with the hustle, you eat or you starve",
+      "valence": 2.91,
+      "arousal": 3.27,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Ain't never change, been like this from the start Only meaning one thing, don't get tired, I go hard (I don't get tired) Don't play with the hustle, you eat or you starve Don't mimic pretenders, just be who you are",
+      "valence": 2.99,
+      "arousal": 3.21,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Only meaning one thing, don't get tired, I go hard (I don't get tired) Don't play with the hustle, you eat or you starve Don't mimic pretenders, just be who you are Get it, get fly, I got six jobs, I don't get tired",
+      "valence": 3.05,
+      "arousal": 3.36,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Don't play with the hustle, you eat or you starve Don't mimic pretenders, just be who you are Get it, get fly, I got six jobs, I don't get tired I was tryna get it how I live (And I don't get tired)",
+      "valence": 2.91,
+      "arousal": 3.36,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Don't mimic pretenders, just be who you are Get it, get fly, I got six jobs, I don't get tired I was tryna get it how I live (And I don't get tired) I want them dead presidents (And I don't get tired)",
+      "valence": 2.73,
+      "arousal": 3.45,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Get it, get fly, I got six jobs, I don't get tired I was tryna get it how I live (And I don't get tired) I want them dead presidents (And I don't get tired) I wanna pull up, head spin",
+      "valence": 2.64,
+      "arousal": 3.61,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "I was tryna get it how I live (And I don't get tired) I want them dead presidents (And I don't get tired) I wanna pull up, head spin Get it, get fly, I got six jobs, I don't get tired",
+      "valence": 2.61,
+      "arousal": 3.46,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "I want them dead presidents (And I don't get tired) I wanna pull up, head spin Get it, get fly, I got six jobs, I don't get tired And I don't get tired, I don't get, I don't get tired",
+      "valence": 2.49,
+      "arousal": 3.5,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "I wanna pull up, head spin Get it, get fly, I got six jobs, I don't get tired And I don't get tired, I don't get, I don't get tired And I don't get tired, I don't get, I don't get tired",
+      "valence": 2.85,
+      "arousal": 3.53,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Get it, get fly, I got six jobs, I don't get tired And I don't get tired, I don't get, I don't get tired And I don't get tired, I don't get, I don't get tired And I don't get tired, I don't get, I don't get tired",
+      "valence": 2.92,
+      "arousal": 3.38,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "And I don't get tired, I don't get, I don't get tired And I don't get tired, I don't get, I don't get tired And I don't get tired, I don't get, I don't get tired Get it, get fly, I got six jobs, I don't get tired",
+      "valence": 2.87,
+      "arousal": 3.32,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "And I don't get tired, I don't get, I don't get tired And I don't get tired, I don't get, I don't get tired Get it, get fly, I got six jobs, I don't get tired And I don't get tired",
+      "valence": 2.89,
+      "arousal": 3.32,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "And I don't get tired, I don't get, I don't get tired Get it, get fly, I got six jobs, I don't get tired And I don't get tired And I don't get tired",
+      "valence": 2.77,
+      "arousal": 3.4,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Get it, get fly, I got six jobs, I don't get tired And I don't get tired And I don't get tired And I don't get tired",
+      "valence": 3.0,
+      "arousal": 3.4,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "And I don't get tired And I don't get tired And I don't get tired Get it, get fly, I got six jobs, I don't get tired",
+      "valence": 2.89,
+      "arousal": 3.34,
+      "dominance": 3.5
+    }
+  ]
+}

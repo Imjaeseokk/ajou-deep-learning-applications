@@ -1,0 +1,227 @@
+{
+  "artist": "Lainey Wilson",
+  "overall_vad": {
+    "valence": 2.98,
+    "arousal": 3.23,
+    "dominance": 3.21
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I can hook a trailer on a two-inch hitch I can shoot a shotgun, I can catch a fish I can change a tire on the side of a road Yeah, I know a few things a man oughta know",
+      "valence": 3.32,
+      "arousal": 3.16,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I can shoot a shotgun, I can catch a fish I can change a tire on the side of a road Yeah, I know a few things a man oughta know How to know when it's love",
+      "valence": 3.53,
+      "arousal": 3.39,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I can change a tire on the side of a road Yeah, I know a few things a man oughta know How to know when it's love How to stay when it's tough",
+      "valence": 3.31,
+      "arousal": 3.23,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Yeah, I know a few things a man oughta know How to know when it's love How to stay when it's tough How to know you're messin' up a good thing",
+      "valence": 3.13,
+      "arousal": 3.19,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "How to know when it's love How to stay when it's tough How to know you're messin' up a good thing And how to fix it 'fore it's too late",
+      "valence": 3.12,
+      "arousal": 3.17,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "How to stay when it's tough How to know you're messin' up a good thing And how to fix it 'fore it's too late And yeah, I know a boy",
+      "valence": 2.89,
+      "arousal": 3.14,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "How to know you're messin' up a good thing And how to fix it 'fore it's too late And yeah, I know a boy Who gave up and got it wrong",
+      "valence": 2.74,
+      "arousal": 3.1,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "And how to fix it 'fore it's too late And yeah, I know a boy Who gave up and got it wrong If you really love a woman, you don't let her go",
+      "valence": 2.69,
+      "arousal": 3.22,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "And yeah, I know a boy Who gave up and got it wrong If you really love a woman, you don't let her go Yeah, I know a few things a man oughta know",
+      "valence": 2.86,
+      "arousal": 3.27,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Who gave up and got it wrong If you really love a woman, you don't let her go Yeah, I know a few things a man oughta know If I can't have it, I can do without",
+      "valence": 2.79,
+      "arousal": 3.37,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "If you really love a woman, you don't let her go Yeah, I know a few things a man oughta know If I can't have it, I can do without I can hang a picture same as I can take it down",
+      "valence": 3.01,
+      "arousal": 3.3,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Yeah, I know a few things a man oughta know If I can't have it, I can do without I can hang a picture same as I can take it down And how to keep it hidden when a heart gets broke",
+      "valence": 3.02,
+      "arousal": 3.1,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "If I can't have it, I can do without I can hang a picture same as I can take it down And how to keep it hidden when a heart gets broke Yeah, I know a few things a man oughta know",
+      "valence": 2.98,
+      "arousal": 3.06,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I can hang a picture same as I can take it down And how to keep it hidden when a heart gets broke Yeah, I know a few things a man oughta know How to know when it's love",
+      "valence": 3.26,
+      "arousal": 3.22,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And how to keep it hidden when a heart gets broke Yeah, I know a few things a man oughta know How to know when it's love How to stay when it's tough",
+      "valence": 3.15,
+      "arousal": 3.27,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Yeah, I know a few things a man oughta know How to know when it's love How to stay when it's tough How to know you're messin' up a good thing",
+      "valence": 3.13,
+      "arousal": 3.19,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "How to know when it's love How to stay when it's tough How to know you're messin' up a good thing And how to fix it 'fore it's too late",
+      "valence": 3.12,
+      "arousal": 3.17,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "How to stay when it's tough How to know you're messin' up a good thing And how to fix it 'fore it's too late And yeah, I know a boy",
+      "valence": 2.89,
+      "arousal": 3.14,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "How to know you're messin' up a good thing And how to fix it 'fore it's too late And yeah, I know a boy Who gave up and got it wrong",
+      "valence": 2.74,
+      "arousal": 3.1,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "And how to fix it 'fore it's too late And yeah, I know a boy Who gave up and got it wrong If you really love a woman, you don't let her go",
+      "valence": 2.69,
+      "arousal": 3.22,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "And yeah, I know a boy Who gave up and got it wrong If you really love a woman, you don't let her go Yeah, I know a few things a man oughta know",
+      "valence": 2.86,
+      "arousal": 3.27,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Who gave up and got it wrong If you really love a woman, you don't let her go Yeah, I know a few things a man oughta know I",
+      "valence": 2.81,
+      "arousal": 3.44,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "If you really love a woman, you don't let her go Yeah, I know a few things a man oughta know I How to know when it's love",
+      "valence": 3.24,
+      "arousal": 3.44,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Yeah, I know a few things a man oughta know I How to know when it's love How to stay when it's tough",
+      "valence": 3.24,
+      "arousal": 3.21,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I How to know when it's love How to stay when it's tough How to chase forever down a driveway",
+      "valence": 3.02,
+      "arousal": 3.18,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "How to know when it's love How to stay when it's tough How to chase forever down a driveway How to never let it get there in the first place",
+      "valence": 3.0,
+      "arousal": 3.25,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "How to stay when it's tough How to chase forever down a driveway How to never let it get there in the first place And yeah, I know a boy",
+      "valence": 2.77,
+      "arousal": 3.24,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "How to chase forever down a driveway How to never let it get there in the first place And yeah, I know a boy Who gave up and got it wrong",
+      "valence": 2.59,
+      "arousal": 3.17,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "How to never let it get there in the first place And yeah, I know a boy Who gave up and got it wrong If you really love a woman, you don't let her go",
+      "valence": 2.69,
+      "arousal": 3.23,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "And yeah, I know a boy Who gave up and got it wrong If you really love a woman, you don't let her go Well, I know a few things a man oughta know",
+      "valence": 2.8,
+      "arousal": 3.23,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Who gave up and got it wrong If you really love a woman, you don't let her go Well, I know a few things a man oughta know Yeah, I know a few things a man oughta know",
+      "valence": 2.87,
+      "arousal": 3.36,
+      "dominance": 3.4
+    }
+  ]
+}

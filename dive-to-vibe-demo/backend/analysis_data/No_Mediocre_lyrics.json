@@ -1,0 +1,773 @@
+{
+  "artist": "T.I. Featuring Iggy Azalea",
+  "overall_vad": {
+    "valence": 2.38,
+    "arousal": 3.47,
+    "dominance": 3.55
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "All I fuck is bad bitches I don't want no mediocre I don't want no mediocre I don't want no mediocre no",
+      "valence": 1.96,
+      "arousal": 3.57,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I don't want no mediocre I don't want no mediocre I don't want no mediocre no Bad bitches only",
+      "valence": 2.42,
+      "arousal": 3.3,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I don't want no mediocre I don't want no mediocre no Bad bitches only Ain't no mediocre",
+      "valence": 2.45,
+      "arousal": 3.3,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I don't want no mediocre no Bad bitches only Ain't no mediocre Don't want no mediocre",
+      "valence": 2.46,
+      "arousal": 3.21,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Bad bitches only Ain't no mediocre Don't want no mediocre I won't hit no mediocre",
+      "valence": 2.31,
+      "arousal": 3.17,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Ain't no mediocre Don't want no mediocre I won't hit no mediocre You a bad bitch",
+      "valence": 2.19,
+      "arousal": 3.33,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Don't want no mediocre I won't hit no mediocre You a bad bitch Stuntin on the mediocre",
+      "valence": 2.22,
+      "arousal": 3.32,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I won't hit no mediocre You a bad bitch Stuntin on the mediocre Stuntin on the mediocre",
+      "valence": 2.24,
+      "arousal": 3.28,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "You a bad bitch Stuntin on the mediocre Stuntin on the mediocre Stuntin on the mediocre",
+      "valence": 2.17,
+      "arousal": 3.43,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Stuntin on the mediocre Stuntin on the mediocre Stuntin on the mediocre 7 bitches with me and ain't none of them mediocre",
+      "valence": 2.54,
+      "arousal": 3.3,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Stuntin on the mediocre Stuntin on the mediocre 7 bitches with me and ain't none of them mediocre From they head to they toes they so far from mediocre",
+      "valence": 2.51,
+      "arousal": 3.24,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Stuntin on the mediocre 7 bitches with me and ain't none of them mediocre From they head to they toes they so far from mediocre Right hand in the air",
+      "valence": 2.46,
+      "arousal": 3.3,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "7 bitches with me and ain't none of them mediocre From they head to they toes they so far from mediocre Right hand in the air I solemnly swear",
+      "valence": 2.46,
+      "arousal": 3.41,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "From they head to they toes they so far from mediocre Right hand in the air I solemnly swear I never fuck a bitch if she don't do her hair",
+      "valence": 2.26,
+      "arousal": 3.53,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Right hand in the air I solemnly swear I never fuck a bitch if she don't do her hair No more, you won't get no dick if there's a bush down there",
+      "valence": 2.24,
+      "arousal": 3.66,
+      "dominance": 3.85
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I solemnly swear I never fuck a bitch if she don't do her hair No more, you won't get no dick if there's a bush down there Girl I should see nothing but pussy when I look down there",
+      "valence": 2.33,
+      "arousal": 3.68,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I never fuck a bitch if she don't do her hair No more, you won't get no dick if there's a bush down there Girl I should see nothing but pussy when I look down there You come fuck with a nigga what better to do",
+      "valence": 2.15,
+      "arousal": 3.57,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "No more, you won't get no dick if there's a bush down there Girl I should see nothing but pussy when I look down there You come fuck with a nigga what better to do He call to ask how you doin tell him better than you, yeah",
+      "valence": 2.23,
+      "arousal": 3.6,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Girl I should see nothing but pussy when I look down there You come fuck with a nigga what better to do He call to ask how you doin tell him better than you, yeah I'm kicked back with four pieces like a kit kat",
+      "valence": 2.12,
+      "arousal": 3.66,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "You come fuck with a nigga what better to do He call to ask how you doin tell him better than you, yeah I'm kicked back with four pieces like a kit kat Me fucking if you ain't a dime, just forget that",
+      "valence": 2.03,
+      "arousal": 3.85,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "He call to ask how you doin tell him better than you, yeah I'm kicked back with four pieces like a kit kat Me fucking if you ain't a dime, just forget that Pretty face fat ass, if she don't have",
+      "valence": 2.4,
+      "arousal": 3.74,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I'm kicked back with four pieces like a kit kat Me fucking if you ain't a dime, just forget that Pretty face fat ass, if she don't have Have one of these, well I think I'll pass",
+      "valence": 2.31,
+      "arousal": 3.59,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Me fucking if you ain't a dime, just forget that Pretty face fat ass, if she don't have Have one of these, well I think I'll pass I just handed her the keys to a new drop Jag",
+      "valence": 2.45,
+      "arousal": 3.53,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Pretty face fat ass, if she don't have Have one of these, well I think I'll pass I just handed her the keys to a new drop Jag When she took it I took it back",
+      "valence": 2.69,
+      "arousal": 3.24,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Have one of these, well I think I'll pass I just handed her the keys to a new drop Jag When she took it I took it back You shoulda asked for a Benz",
+      "valence": 2.95,
+      "arousal": 3.06,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I just handed her the keys to a new drop Jag When she took it I took it back You shoulda asked for a Benz That's mediocre bitch",
+      "valence": 2.29,
+      "arousal": 3.49,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "When she took it I took it back You shoulda asked for a Benz That's mediocre bitch All I fuck is bad bitches",
+      "valence": 2.01,
+      "arousal": 3.61,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "You shoulda asked for a Benz That's mediocre bitch All I fuck is bad bitches I don't want no mediocre",
+      "valence": 1.91,
+      "arousal": 3.56,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "That's mediocre bitch All I fuck is bad bitches I don't want no mediocre I don't want no mediocre",
+      "valence": 1.87,
+      "arousal": 3.55,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "All I fuck is bad bitches I don't want no mediocre I don't want no mediocre I don't want no mediocre no",
+      "valence": 1.96,
+      "arousal": 3.57,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I don't want no mediocre I don't want no mediocre I don't want no mediocre no Bad bitches only",
+      "valence": 2.42,
+      "arousal": 3.3,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I don't want no mediocre I don't want no mediocre no Bad bitches only Ain't no mediocre",
+      "valence": 2.45,
+      "arousal": 3.3,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I don't want no mediocre no Bad bitches only Ain't no mediocre Don't want no mediocre",
+      "valence": 2.46,
+      "arousal": 3.21,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Bad bitches only Ain't no mediocre Don't want no mediocre I won't hit no mediocre",
+      "valence": 2.31,
+      "arousal": 3.17,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Ain't no mediocre Don't want no mediocre I won't hit no mediocre You a bad bitch",
+      "valence": 2.19,
+      "arousal": 3.33,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Don't want no mediocre I won't hit no mediocre You a bad bitch Stuntin on the mediocre",
+      "valence": 2.22,
+      "arousal": 3.32,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I won't hit no mediocre You a bad bitch Stuntin on the mediocre Stuntin on the mediocre",
+      "valence": 2.24,
+      "arousal": 3.28,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "You a bad bitch Stuntin on the mediocre Stuntin on the mediocre Stuntin on the mediocre",
+      "valence": 2.17,
+      "arousal": 3.43,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Stuntin on the mediocre Stuntin on the mediocre Stuntin on the mediocre 7 bitches with me and ain't none of them mediocre",
+      "valence": 2.54,
+      "arousal": 3.3,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Stuntin on the mediocre Stuntin on the mediocre 7 bitches with me and ain't none of them mediocre From they head to they toes they so far from mediocre",
+      "valence": 2.51,
+      "arousal": 3.24,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Stuntin on the mediocre 7 bitches with me and ain't none of them mediocre From they head to they toes they so far from mediocre Heard he want to lay it down on Iggy Iggy",
+      "valence": 2.41,
+      "arousal": 3.35,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "7 bitches with me and ain't none of them mediocre From they head to they toes they so far from mediocre Heard he want to lay it down on Iggy Iggy Gave it to him twice",
+      "valence": 2.42,
+      "arousal": 3.41,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "From they head to they toes they so far from mediocre Heard he want to lay it down on Iggy Iggy Gave it to him twice Now he want a 3, Mike Bibby diva",
+      "valence": 2.84,
+      "arousal": 3.37,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Heard he want to lay it down on Iggy Iggy Gave it to him twice Now he want a 3, Mike Bibby diva But I need a bad boy",
+      "valence": 2.59,
+      "arousal": 3.36,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Gave it to him twice Now he want a 3, Mike Bibby diva But I need a bad boy Rest in peace Whitney pardon me",
+      "valence": 2.65,
+      "arousal": 3.34,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Now he want a 3, Mike Bibby diva But I need a bad boy Rest in peace Whitney pardon me But I don't think none of these bitches fucking with me",
+      "valence": 2.24,
+      "arousal": 3.56,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "But I need a bad boy Rest in peace Whitney pardon me But I don't think none of these bitches fucking with me Want a billboard bitch stop running in place",
+      "valence": 2.11,
+      "arousal": 3.64,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Rest in peace Whitney pardon me But I don't think none of these bitches fucking with me Want a billboard bitch stop running in place Heels on me saying gimme 6 inches of space",
+      "valence": 2.39,
+      "arousal": 3.65,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "But I don't think none of these bitches fucking with me Want a billboard bitch stop running in place Heels on me saying gimme 6 inches of space Courtside while designer frames cover my face",
+      "valence": 2.19,
+      "arousal": 3.79,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Want a billboard bitch stop running in place Heels on me saying gimme 6 inches of space Courtside while designer frames cover my face Now everybody in the game wanna get em a taste",
+      "valence": 2.53,
+      "arousal": 3.77,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Heels on me saying gimme 6 inches of space Courtside while designer frames cover my face Now everybody in the game wanna get em a taste I'm still Grand Hustle first lady fuck you pay me",
+      "valence": 2.84,
+      "arousal": 3.75,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Courtside while designer frames cover my face Now everybody in the game wanna get em a taste I'm still Grand Hustle first lady fuck you pay me Bet he won't go 12 rounds with the million dollar baby",
+      "valence": 2.67,
+      "arousal": 3.66,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Now everybody in the game wanna get em a taste I'm still Grand Hustle first lady fuck you pay me Bet he won't go 12 rounds with the million dollar baby I can change your life quick stop playing with me",
+      "valence": 2.7,
+      "arousal": 3.79,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "I'm still Grand Hustle first lady fuck you pay me Bet he won't go 12 rounds with the million dollar baby I can change your life quick stop playing with me And if you ain't talking money what you saying to me",
+      "valence": 2.54,
+      "arousal": 3.8,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Bet he won't go 12 rounds with the million dollar baby I can change your life quick stop playing with me And if you ain't talking money what you saying to me All I fuck is bad bitches",
+      "valence": 2.22,
+      "arousal": 3.72,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "I can change your life quick stop playing with me And if you ain't talking money what you saying to me All I fuck is bad bitches I don't want no mediocre",
+      "valence": 2.06,
+      "arousal": 3.65,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "And if you ain't talking money what you saying to me All I fuck is bad bitches I don't want no mediocre I don't want no mediocre",
+      "valence": 2.01,
+      "arousal": 3.6,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "All I fuck is bad bitches I don't want no mediocre I don't want no mediocre I don't want no mediocre no",
+      "valence": 1.96,
+      "arousal": 3.57,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "I don't want no mediocre I don't want no mediocre I don't want no mediocre no Bad bitches only",
+      "valence": 2.42,
+      "arousal": 3.3,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "I don't want no mediocre I don't want no mediocre no Bad bitches only Ain't no mediocre",
+      "valence": 2.45,
+      "arousal": 3.3,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "I don't want no mediocre no Bad bitches only Ain't no mediocre Don't want no mediocre",
+      "valence": 2.46,
+      "arousal": 3.21,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Bad bitches only Ain't no mediocre Don't want no mediocre I won't hit no mediocre",
+      "valence": 2.31,
+      "arousal": 3.17,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Ain't no mediocre Don't want no mediocre I won't hit no mediocre You a bad bitch",
+      "valence": 2.19,
+      "arousal": 3.33,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Don't want no mediocre I won't hit no mediocre You a bad bitch Stuntin on the mediocre",
+      "valence": 2.22,
+      "arousal": 3.32,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "I won't hit no mediocre You a bad bitch Stuntin on the mediocre Stuntin on the mediocre",
+      "valence": 2.24,
+      "arousal": 3.28,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "You a bad bitch Stuntin on the mediocre Stuntin on the mediocre Stuntin on the mediocre",
+      "valence": 2.17,
+      "arousal": 3.43,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Stuntin on the mediocre Stuntin on the mediocre Stuntin on the mediocre 7 bitches with me and ain't none of them mediocre",
+      "valence": 2.54,
+      "arousal": 3.3,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Stuntin on the mediocre Stuntin on the mediocre 7 bitches with me and ain't none of them mediocre From they head to they toes they so far from mediocre",
+      "valence": 2.51,
+      "arousal": 3.24,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Stuntin on the mediocre 7 bitches with me and ain't none of them mediocre From they head to they toes they so far from mediocre I'm in Brazil with a bitch",
+      "valence": 2.15,
+      "arousal": 3.54,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "7 bitches with me and ain't none of them mediocre From they head to they toes they so far from mediocre I'm in Brazil with a bitch Catch me in a mansion in the hills with a bitch",
+      "valence": 2.13,
+      "arousal": 3.71,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "From they head to they toes they so far from mediocre I'm in Brazil with a bitch Catch me in a mansion in the hills with a bitch Get her out dem tennis shoes",
+      "valence": 2.22,
+      "arousal": 3.71,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "I'm in Brazil with a bitch Catch me in a mansion in the hills with a bitch Get her out dem tennis shoes Throw some heels on a bitch",
+      "valence": 2.14,
+      "arousal": 3.79,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Catch me in a mansion in the hills with a bitch Get her out dem tennis shoes Throw some heels on a bitch I'm the type of nigga split a mil with a bitch",
+      "valence": 2.21,
+      "arousal": 3.68,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Get her out dem tennis shoes Throw some heels on a bitch I'm the type of nigga split a mil with a bitch Hold up, only if she bad though",
+      "valence": 2.4,
+      "arousal": 3.52,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Throw some heels on a bitch I'm the type of nigga split a mil with a bitch Hold up, only if she bad though Out here trying to find someone that better than my last go",
+      "valence": 2.41,
+      "arousal": 3.53,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "I'm the type of nigga split a mil with a bitch Hold up, only if she bad though Out here trying to find someone that better than my last go Take her to my castle",
+      "valence": 2.46,
+      "arousal": 3.47,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "Hold up, only if she bad though Out here trying to find someone that better than my last go Take her to my castle Drown her in my cash flow",
+      "valence": 2.55,
+      "arousal": 3.48,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "Out here trying to find someone that better than my last go Take her to my castle Drown her in my cash flow Say your dick so little she can fit it in her asshole",
+      "valence": 2.36,
+      "arousal": 3.65,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "Take her to my castle Drown her in my cash flow Say your dick so little she can fit it in her asshole Told me she can write this shit",
+      "valence": 2.28,
+      "arousal": 3.74,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "Drown her in my cash flow Say your dick so little she can fit it in her asshole Told me she can write this shit No further than a cab go",
+      "valence": 2.28,
+      "arousal": 3.6,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "Say your dick so little she can fit it in her asshole Told me she can write this shit No further than a cab go Said I got that don dick",
+      "valence": 2.17,
+      "arousal": 3.5,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "Told me she can write this shit No further than a cab go Said I got that don dick She wanna be my tutor",
+      "valence": 2.66,
+      "arousal": 3.43,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "No further than a cab go Said I got that don dick She wanna be my tutor So she give me brain getting head on the scooter",
+      "valence": 2.7,
+      "arousal": 3.25,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "Said I got that don dick She wanna be my tutor So she give me brain getting head on the scooter Had sex on the beach",
+      "valence": 3.0,
+      "arousal": 3.47,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "She wanna be my tutor So she give me brain getting head on the scooter Had sex on the beach From Bermuda up to Cuba",
+      "valence": 3.1,
+      "arousal": 3.42,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 86,
+      "lyrics_text": "So she give me brain getting head on the scooter Had sex on the beach From Bermuda up to Cuba I done fucked a lot of dimes",
+      "valence": 2.94,
+      "arousal": 3.48,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 87,
+      "lyrics_text": "Had sex on the beach From Bermuda up to Cuba I done fucked a lot of dimes But I'm looking for a cute bitch",
+      "valence": 3.14,
+      "arousal": 3.83,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 88,
+      "lyrics_text": "From Bermuda up to Cuba I done fucked a lot of dimes But I'm looking for a cute bitch You the shit",
+      "valence": 2.58,
+      "arousal": 3.79,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 89,
+      "lyrics_text": "I done fucked a lot of dimes But I'm looking for a cute bitch You the shit What she say when she got to sit",
+      "valence": 2.47,
+      "arousal": 3.6,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 90,
+      "lyrics_text": "But I'm looking for a cute bitch You the shit What she say when she got to sit When I ain't around",
+      "valence": 2.49,
+      "arousal": 3.6,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 91,
+      "lyrics_text": "You the shit What she say when she got to sit When I ain't around Give a damn who you do it with",
+      "valence": 2.3,
+      "arousal": 3.56,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 92,
+      "lyrics_text": "What she say when she got to sit When I ain't around Give a damn who you do it with Super thick pretty face",
+      "valence": 2.67,
+      "arousal": 3.5,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 93,
+      "lyrics_text": "When I ain't around Give a damn who you do it with Super thick pretty face MÃ©nage Ã  veinte",
+      "valence": 2.63,
+      "arousal": 3.53,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 94,
+      "lyrics_text": "Give a damn who you do it with Super thick pretty face MÃ©nage Ã  veinte 20 at the same time",
+      "valence": 3.03,
+      "arousal": 3.56,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 95,
+      "lyrics_text": "Super thick pretty face MÃ©nage Ã  veinte 20 at the same time Wanna get ya rent paid",
+      "valence": 3.25,
+      "arousal": 3.49,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 96,
+      "lyrics_text": "MÃ©nage Ã  veinte 20 at the same time Wanna get ya rent paid All I fuck is bad bitches",
+      "valence": 1.99,
+      "arousal": 3.59,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 97,
+      "lyrics_text": "20 at the same time Wanna get ya rent paid All I fuck is bad bitches I don't want no mediocre",
+      "valence": 2.03,
+      "arousal": 3.58,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 98,
+      "lyrics_text": "Wanna get ya rent paid All I fuck is bad bitches I don't want no mediocre I don't want no mediocre",
+      "valence": 1.99,
+      "arousal": 3.55,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 99,
+      "lyrics_text": "All I fuck is bad bitches I don't want no mediocre I don't want no mediocre I don't want no mediocre no",
+      "valence": 1.96,
+      "arousal": 3.57,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 100,
+      "lyrics_text": "I don't want no mediocre I don't want no mediocre I don't want no mediocre no Bad bitches only",
+      "valence": 2.42,
+      "arousal": 3.3,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 101,
+      "lyrics_text": "I don't want no mediocre I don't want no mediocre no Bad bitches only Ain't no mediocre",
+      "valence": 2.45,
+      "arousal": 3.3,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 102,
+      "lyrics_text": "I don't want no mediocre no Bad bitches only Ain't no mediocre Don't want no mediocre",
+      "valence": 2.46,
+      "arousal": 3.21,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 103,
+      "lyrics_text": "Bad bitches only Ain't no mediocre Don't want no mediocre I won't hit no mediocre",
+      "valence": 2.31,
+      "arousal": 3.17,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 104,
+      "lyrics_text": "Ain't no mediocre Don't want no mediocre I won't hit no mediocre You a bad bitch",
+      "valence": 2.19,
+      "arousal": 3.33,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 105,
+      "lyrics_text": "Don't want no mediocre I won't hit no mediocre You a bad bitch Stuntin on the mediocre",
+      "valence": 2.22,
+      "arousal": 3.32,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 106,
+      "lyrics_text": "I won't hit no mediocre You a bad bitch Stuntin on the mediocre Stuntin on the mediocre",
+      "valence": 2.24,
+      "arousal": 3.28,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 107,
+      "lyrics_text": "You a bad bitch Stuntin on the mediocre Stuntin on the mediocre Stuntin on the mediocre",
+      "valence": 2.17,
+      "arousal": 3.43,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 108,
+      "lyrics_text": "Stuntin on the mediocre Stuntin on the mediocre Stuntin on the mediocre 7 bitches with me and ain't none of them mediocre",
+      "valence": 2.54,
+      "arousal": 3.3,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 109,
+      "lyrics_text": "Stuntin on the mediocre Stuntin on the mediocre 7 bitches with me and ain't none of them mediocre From they head to they toes they so far from mediocre",
+      "valence": 2.51,
+      "arousal": 3.24,
+      "dominance": 3.43
+    }
+  ]
+}

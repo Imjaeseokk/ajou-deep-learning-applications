@@ -1,0 +1,486 @@
+{
+  "artist": "Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",
+  "overall_vad": {
+    "valence": 2.77,
+    "arousal": 3.45,
+    "dominance": 3.32
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "What's poppin'? (Pooh, you a fool for this one) Brand new whip, just hopped in I got options I could pass that bitch like Stockton",
+      "valence": 2.89,
+      "arousal": 3.41,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Brand new whip, just hopped in I got options I could pass that bitch like Stockton Just joshin'",
+      "valence": 3.21,
+      "arousal": 3.42,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I got options I could pass that bitch like Stockton Just joshin' I'ma spend this holiday locked in",
+      "valence": 2.67,
+      "arousal": 3.45,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I could pass that bitch like Stockton Just joshin' I'ma spend this holiday locked in My body got rid of them toxins",
+      "valence": 2.29,
+      "arousal": 3.52,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Just joshin' I'ma spend this holiday locked in My body got rid of them toxins SportsCenter, top ten",
+      "valence": 2.76,
+      "arousal": 3.46,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I'ma spend this holiday locked in My body got rid of them toxins SportsCenter, top ten I could put the ball in the end zone",
+      "valence": 2.77,
+      "arousal": 3.51,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "My body got rid of them toxins SportsCenter, top ten I could put the ball in the end zone Put a bad bitch in the friendzone, ooh",
+      "valence": 2.72,
+      "arousal": 3.61,
+      "dominance": 3.78
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "SportsCenter, top ten I could put the ball in the end zone Put a bad bitch in the friendzone, ooh This shit sound like an intro",
+      "valence": 2.49,
+      "arousal": 3.58,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I could put the ball in the end zone Put a bad bitch in the friendzone, ooh This shit sound like an intro Jetson, give me that tempo, ooh",
+      "valence": 2.36,
+      "arousal": 3.53,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Put a bad bitch in the friendzone, ooh This shit sound like an intro Jetson, give me that tempo, ooh Told Pooh he a fool with this shit",
+      "valence": 2.27,
+      "arousal": 3.54,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "This shit sound like an intro Jetson, give me that tempo, ooh Told Pooh he a fool with this shit Told her don't let her friends know",
+      "valence": 2.44,
+      "arousal": 3.5,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Jetson, give me that tempo, ooh Told Pooh he a fool with this shit Told her don't let her friends know In the 'Ville and I move like a don",
+      "valence": 2.56,
+      "arousal": 3.43,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Told Pooh he a fool with this shit Told her don't let her friends know In the 'Ville and I move like a don Eating fettuccine at Vincenzo's",
+      "valence": 2.45,
+      "arousal": 3.46,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Told her don't let her friends know In the 'Ville and I move like a don Eating fettuccine at Vincenzo's Me and my 'migos got that free smoke",
+      "valence": 2.79,
+      "arousal": 3.29,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "In the 'Ville and I move like a don Eating fettuccine at Vincenzo's Me and my 'migos got that free smoke On the West Coast, yeah, I'm talking 'bout pre-rolls",
+      "valence": 3.11,
+      "arousal": 3.27,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Eating fettuccine at Vincenzo's Me and my 'migos got that free smoke On the West Coast, yeah, I'm talking 'bout pre-rolls Dark haired bitch and she look like Shego",
+      "valence": 3.11,
+      "arousal": 3.37,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Me and my 'migos got that free smoke On the West Coast, yeah, I'm talking 'bout pre-rolls Dark haired bitch and she look like Shego Hometown hero, feeling myself, can't murder my ego",
+      "valence": 2.68,
+      "arousal": 3.65,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "On the West Coast, yeah, I'm talking 'bout pre-rolls Dark haired bitch and she look like Shego Hometown hero, feeling myself, can't murder my ego She heard of my deep stroke",
+      "valence": 2.66,
+      "arousal": 3.48,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Dark haired bitch and she look like Shego Hometown hero, feeling myself, can't murder my ego She heard of my deep stroke She said, \"Babe, does it hurt when I deep throat?\"",
+      "valence": 2.55,
+      "arousal": 3.51,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Hometown hero, feeling myself, can't murder my ego She heard of my deep stroke She said, \"Babe, does it hurt when I deep throat?\" Certified freak ho",
+      "valence": 2.5,
+      "arousal": 3.52,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "She heard of my deep stroke She said, \"Babe, does it hurt when I deep throat?\" Certified freak ho Hang around us and she learnin' my lingo",
+      "valence": 2.81,
+      "arousal": 3.3,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "She said, \"Babe, does it hurt when I deep throat?\" Certified freak ho Hang around us and she learnin' my lingo Back then, wasn't worried 'bout me though",
+      "valence": 2.77,
+      "arousal": 3.28,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Certified freak ho Hang around us and she learnin' my lingo Back then, wasn't worried 'bout me though In the gym tryna work on my free throw",
+      "valence": 2.77,
+      "arousal": 3.25,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Hang around us and she learnin' my lingo Back then, wasn't worried 'bout me though In the gym tryna work on my free throw Goddamn",
+      "valence": 2.72,
+      "arousal": 3.43,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Back then, wasn't worried 'bout me though In the gym tryna work on my free throw Goddamn Spending money at the club like Sam's",
+      "valence": 2.83,
+      "arousal": 3.42,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "In the gym tryna work on my free throw Goddamn Spending money at the club like Sam's Yes, ma'am",
+      "valence": 2.98,
+      "arousal": 3.41,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Goddamn Spending money at the club like Sam's Yes, ma'am She a lil' freak on cam",
+      "valence": 2.43,
+      "arousal": 3.62,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Spending money at the club like Sam's Yes, ma'am She a lil' freak on cam But she don't put this on the 'Gram",
+      "valence": 2.6,
+      "arousal": 3.43,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Yes, ma'am She a lil' freak on cam But she don't put this on the 'Gram Lil' boys tryna diss on the 'Gram",
+      "valence": 2.49,
+      "arousal": 3.52,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "She a lil' freak on cam But she don't put this on the 'Gram Lil' boys tryna diss on the 'Gram I can't switch on the fam",
+      "valence": 2.37,
+      "arousal": 3.54,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "But she don't put this on the 'Gram Lil' boys tryna diss on the 'Gram I can't switch on the fam Shit's hot, hit the switch on the fan",
+      "valence": 2.38,
+      "arousal": 3.73,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Lil' boys tryna diss on the 'Gram I can't switch on the fam Shit's hot, hit the switch on the fan This where my head is",
+      "valence": 2.44,
+      "arousal": 3.57,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I can't switch on the fam Shit's hot, hit the switch on the fan This where my head is I feel resentment from every direction",
+      "valence": 2.09,
+      "arousal": 3.58,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Shit's hot, hit the switch on the fan This where my head is I feel resentment from every direction Even some homies be wearing expressions",
+      "valence": 2.17,
+      "arousal": 3.41,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "This where my head is I feel resentment from every direction Even some homies be wearing expressions I be discouraged from sharing my blessings",
+      "valence": 2.22,
+      "arousal": 3.34,
+      "dominance": 2.61
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I feel resentment from every direction Even some homies be wearing expressions I be discouraged from sharing my blessings We used to share a connection",
+      "valence": 2.37,
+      "arousal": 3.41,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Even some homies be wearing expressions I be discouraged from sharing my blessings We used to share a connection Now it just feels like it's wearing and stretching",
+      "valence": 2.93,
+      "arousal": 3.2,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "I be discouraged from sharing my blessings We used to share a connection Now it just feels like it's wearing and stretching I'm getting real sick of taking advice",
+      "valence": 2.5,
+      "arousal": 3.29,
+      "dominance": 2.66
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "We used to share a connection Now it just feels like it's wearing and stretching I'm getting real sick of taking advice From people that never could stare at reflections",
+      "valence": 2.45,
+      "arousal": 3.31,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Now it just feels like it's wearing and stretching I'm getting real sick of taking advice From people that never could stare at reflections Somewhere in there is a lesson",
+      "valence": 2.52,
+      "arousal": 3.29,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I'm getting real sick of taking advice From people that never could stare at reflections Somewhere in there is a lesson Y'all ain't evolvin', it's very depressing",
+      "valence": 2.14,
+      "arousal": 3.51,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "From people that never could stare at reflections Somewhere in there is a lesson Y'all ain't evolvin', it's very depressing I'm at the club with the basketball team",
+      "valence": 2.24,
+      "arousal": 3.4,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Somewhere in there is a lesson Y'all ain't evolvin', it's very depressing I'm at the club with the basketball team Me and the Cardinals are sharing a section",
+      "valence": 2.45,
+      "arousal": 3.54,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Y'all ain't evolvin', it's very depressing I'm at the club with the basketball team Me and the Cardinals are sharing a section Gotta cherish the present",
+      "valence": 2.91,
+      "arousal": 3.66,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I'm at the club with the basketball team Me and the Cardinals are sharing a section Gotta cherish the present I'm drinking water and wearing protection",
+      "valence": 3.83,
+      "arousal": 3.48,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Me and the Cardinals are sharing a section Gotta cherish the present I'm drinking water and wearing protection Got a career and I'm very invested",
+      "valence": 3.92,
+      "arousal": 3.63,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Gotta cherish the present I'm drinking water and wearing protection Got a career and I'm very invested Some people call it a scary obsession",
+      "valence": 3.57,
+      "arousal": 3.51,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I'm drinking water and wearing protection Got a career and I'm very invested Some people call it a scary obsession I like to call it a passion",
+      "valence": 3.33,
+      "arousal": 3.38,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Got a career and I'm very invested Some people call it a scary obsession I like to call it a passion I can't be sitting relaxin'",
+      "valence": 2.96,
+      "arousal": 3.48,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Some people call it a scary obsession I like to call it a passion I can't be sitting relaxin' PG, we getting some traction",
+      "valence": 2.93,
+      "arousal": 3.35,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I like to call it a passion I can't be sitting relaxin' PG, we getting some traction I'm at the venue, it's packed in",
+      "valence": 3.32,
+      "arousal": 3.71,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "I can't be sitting relaxin' PG, we getting some traction I'm at the venue, it's packed in I'm digging her accent",
+      "valence": 3.29,
+      "arousal": 3.61,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "PG, we getting some traction I'm at the venue, it's packed in I'm digging her accent I got a B.B. Simon belt on me and she tryna get it unfastened",
+      "valence": 3.39,
+      "arousal": 3.52,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "I'm at the venue, it's packed in I'm digging her accent I got a B.B. Simon belt on me and she tryna get it unfastened That's my type of distraction",
+      "valence": 2.93,
+      "arousal": 3.56,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "I'm digging her accent I got a B.B. Simon belt on me and she tryna get it unfastened That's my type of distraction That's my type and she Latin",
+      "valence": 3.18,
+      "arousal": 3.46,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "I got a B.B. Simon belt on me and she tryna get it unfastened That's my type of distraction That's my type and she Latin Got my own flow and I'm 'bout to get a patent",
+      "valence": 2.99,
+      "arousal": 3.28,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "That's my type of distraction That's my type and she Latin Got my own flow and I'm 'bout to get a patent Brand new sheets for the bed, they satin (soft, real soft)",
+      "valence": 3.33,
+      "arousal": 3.37,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "That's my type and she Latin Got my own flow and I'm 'bout to get a patent Brand new sheets for the bed, they satin (soft, real soft) Y'all wasn't tuned in back then",
+      "valence": 3.22,
+      "arousal": 3.29,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Got my own flow and I'm 'bout to get a patent Brand new sheets for the bed, they satin (soft, real soft) Y'all wasn't tuned in back then My swag, they keep jackin'",
+      "valence": 3.41,
+      "arousal": 3.42,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Brand new sheets for the bed, they satin (soft, real soft) Y'all wasn't tuned in back then My swag, they keep jackin' I ain't doin' no verse, quit askin'",
+      "valence": 3.01,
+      "arousal": 3.42,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Y'all wasn't tuned in back then My swag, they keep jackin' I ain't doin' no verse, quit askin' What's poppin'? (Pooh, you a fool for this one)",
+      "valence": 2.62,
+      "arousal": 3.35,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "My swag, they keep jackin' I ain't doin' no verse, quit askin' What's poppin'? (Pooh, you a fool for this one) Brand new whip, just hopped in",
+      "valence": 2.72,
+      "arousal": 3.36,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "I ain't doin' no verse, quit askin' What's poppin'? (Pooh, you a fool for this one) Brand new whip, just hopped in I got options",
+      "valence": 2.78,
+      "arousal": 3.29,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "What's poppin'? (Pooh, you a fool for this one) Brand new whip, just hopped in I got options I could pass that bitch like Stockton",
+      "valence": 2.89,
+      "arousal": 3.41,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Brand new whip, just hopped in I got options I could pass that bitch like Stockton Just joshin'",
+      "valence": 3.21,
+      "arousal": 3.42,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "I got options I could pass that bitch like Stockton Just joshin' I'ma spend this holiday locked in",
+      "valence": 2.67,
+      "arousal": 3.45,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "I could pass that bitch like Stockton Just joshin' I'ma spend this holiday locked in My body got rid of them toxins",
+      "valence": 2.29,
+      "arousal": 3.52,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Just joshin' I'ma spend this holiday locked in My body got rid of them toxins SportsCenter, top ten",
+      "valence": 2.76,
+      "arousal": 3.46,
+      "dominance": 3.53
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "artist": "The Kid LAROI",
+  "overall_vad": {
+    "valence": 2.24,
+    "arousal": 3.66,
+    "dominance": 2.83
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "You cut out a piece of me, and now I bleed internally Left here without you (no, no, no), without you (ooh) And it hurts for me to think about what life could possibly be like Without you (no, no, no), without you (no, no)",
+      "valence": 1.91,
+      "arousal": 3.79,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Left here without you (no, no, no), without you (ooh) And it hurts for me to think about what life could possibly be like Without you (no, no, no), without you (no, no) I can't believe that you wouldn't believe me",
+      "valence": 2.12,
+      "arousal": 3.71,
+      "dominance": 2.75
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "And it hurts for me to think about what life could possibly be like Without you (no, no, no), without you (no, no) I can't believe that you wouldn't believe me Fuck all of your reasons",
+      "valence": 2.01,
+      "arousal": 3.98,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Without you (no, no, no), without you (no, no) I can't believe that you wouldn't believe me Fuck all of your reasons I lost my shit, you know I didn't mean it",
+      "valence": 2.11,
+      "arousal": 4.05,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I can't believe that you wouldn't believe me Fuck all of your reasons I lost my shit, you know I didn't mean it Now I see it, you run and repeat it",
+      "valence": 2.34,
+      "arousal": 4.02,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Fuck all of your reasons I lost my shit, you know I didn't mean it Now I see it, you run and repeat it And I can't take it back, so in the past is where we'll leave it, huh",
+      "valence": 2.14,
+      "arousal": 3.78,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I lost my shit, you know I didn't mean it Now I see it, you run and repeat it And I can't take it back, so in the past is where we'll leave it, huh So there you go, oh",
+      "valence": 2.44,
+      "arousal": 3.38,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Now I see it, you run and repeat it And I can't take it back, so in the past is where we'll leave it, huh So there you go, oh Can't make a wife out of a ho, oh",
+      "valence": 2.67,
+      "arousal": 3.14,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "And I can't take it back, so in the past is where we'll leave it, huh So there you go, oh Can't make a wife out of a ho, oh I'll never find the words to say I'm sorry",
+      "valence": 2.42,
+      "arousal": 3.14,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "So there you go, oh Can't make a wife out of a ho, oh I'll never find the words to say I'm sorry But I'm scared to be alone",
+      "valence": 2.18,
+      "arousal": 3.39,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Can't make a wife out of a ho, oh I'll never find the words to say I'm sorry But I'm scared to be alone You cut out a piece of me, and now I bleed internally",
+      "valence": 2.0,
+      "arousal": 3.64,
+      "dominance": 2.62
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I'll never find the words to say I'm sorry But I'm scared to be alone You cut out a piece of me, and now I bleed internally Left here without you (no, no, no), without you (ooh)",
+      "valence": 1.91,
+      "arousal": 3.75,
+      "dominance": 2.5
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "But I'm scared to be alone You cut out a piece of me, and now I bleed internally Left here without you (no, no, no), without you (ooh) And it hurts for me to think about what life could possibly be like",
+      "valence": 1.88,
+      "arousal": 3.8,
+      "dominance": 2.5
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "You cut out a piece of me, and now I bleed internally Left here without you (no, no, no), without you (ooh) And it hurts for me to think about what life could possibly be like Without you (no, no, no), without you (no, no)",
+      "valence": 1.91,
+      "arousal": 3.79,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Left here without you (no, no, no), without you (ooh) And it hurts for me to think about what life could possibly be like Without you (no, no, no), without you (no, no) Oh-oh, whoa-oh, oh-oh, whoa-oh",
+      "valence": 2.16,
+      "arousal": 3.71,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "And it hurts for me to think about what life could possibly be like Without you (no, no, no), without you (no, no) Oh-oh, whoa-oh, oh-oh, whoa-oh Oh-oh, whoa-oh, oh-oh, whoa-oh",
+      "valence": 2.06,
+      "arousal": 3.78,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Without you (no, no, no), without you (no, no) Oh-oh, whoa-oh, oh-oh, whoa-oh Oh-oh, whoa-oh, oh-oh, whoa-oh Without you, without you, ooh",
+      "valence": 2.46,
+      "arousal": 3.73,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Oh-oh, whoa-oh, oh-oh, whoa-oh Oh-oh, whoa-oh, oh-oh, whoa-oh Without you, without you, ooh Oh-oh, whoa-oh, oh-oh, whoa-oh",
+      "valence": 2.89,
+      "arousal": 3.75,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Oh-oh, whoa-oh, oh-oh, whoa-oh Without you, without you, ooh Oh-oh, whoa-oh, oh-oh, whoa-oh Oh-oh, whoa-oh, oh-oh, whoa-oh",
+      "valence": 2.87,
+      "arousal": 3.73,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Without you, without you, ooh Oh-oh, whoa-oh, oh-oh, whoa-oh Oh-oh, whoa-oh, oh-oh, whoa-oh Without you, without you",
+      "valence": 2.54,
+      "arousal": 3.73,
+      "dominance": 2.73
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Oh-oh, whoa-oh, oh-oh, whoa-oh Oh-oh, whoa-oh, oh-oh, whoa-oh Without you, without you It's gon' be hard here on my own",
+      "valence": 2.67,
+      "arousal": 3.77,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Oh-oh, whoa-oh, oh-oh, whoa-oh Without you, without you It's gon' be hard here on my own And even harder to let you go",
+      "valence": 2.61,
+      "arousal": 3.78,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Without you, without you It's gon' be hard here on my own And even harder to let you go I really wish that we could've got this right",
+      "valence": 2.31,
+      "arousal": 3.43,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "It's gon' be hard here on my own And even harder to let you go I really wish that we could've got this right So here I go, oh",
+      "valence": 2.41,
+      "arousal": 3.37,
+      "dominance": 2.75
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "And even harder to let you go I really wish that we could've got this right So here I go, oh Can't make a wife out of a ho, oh",
+      "valence": 2.42,
+      "arousal": 3.32,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I really wish that we could've got this right So here I go, oh Can't make a wife out of a ho, oh I'll never find the words to say I'm sorry",
+      "valence": 2.21,
+      "arousal": 3.34,
+      "dominance": 2.69
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "So here I go, oh Can't make a wife out of a ho, oh I'll never find the words to say I'm sorry But I'm scared to be alone",
+      "valence": 2.13,
+      "arousal": 3.38,
+      "dominance": 2.63
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Can't make a wife out of a ho, oh I'll never find the words to say I'm sorry But I'm scared to be alone You cut out a piece of me, and now I bleed internally",
+      "valence": 2.0,
+      "arousal": 3.64,
+      "dominance": 2.62
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I'll never find the words to say I'm sorry But I'm scared to be alone You cut out a piece of me, and now I bleed internally Left here without you (no, no, no), without you (ooh)",
+      "valence": 1.91,
+      "arousal": 3.75,
+      "dominance": 2.5
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "But I'm scared to be alone You cut out a piece of me, and now I bleed internally Left here without you (no, no, no), without you (ooh) And it hurts for me to think about what life could possibly be like",
+      "valence": 1.88,
+      "arousal": 3.8,
+      "dominance": 2.5
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "You cut out a piece of me, and now I bleed internally Left here without you (no, no, no), without you (ooh) And it hurts for me to think about what life could possibly be like Without you (no, no, no), without you (no, no)",
+      "valence": 1.91,
+      "arousal": 3.79,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Left here without you (no, no, no), without you (ooh) And it hurts for me to think about what life could possibly be like Without you (no, no, no), without you (no, no) Oh-oh, whoa-oh, oh-oh, whoa-oh",
+      "valence": 2.16,
+      "arousal": 3.71,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "And it hurts for me to think about what life could possibly be like Without you (no, no, no), without you (no, no) Oh-oh, whoa-oh, oh-oh, whoa-oh Oh-oh, whoa-oh, oh-oh, whoa-oh",
+      "valence": 2.06,
+      "arousal": 3.78,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Without you (no, no, no), without you (no, no) Oh-oh, whoa-oh, oh-oh, whoa-oh Oh-oh, whoa-oh, oh-oh, whoa-oh Without you, without you (no, no, no)",
+      "valence": 2.35,
+      "arousal": 3.71,
+      "dominance": 2.87
+    }
+  ]
+}

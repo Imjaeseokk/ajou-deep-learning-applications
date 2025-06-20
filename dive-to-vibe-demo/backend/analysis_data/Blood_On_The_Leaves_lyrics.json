@@ -1,0 +1,584 @@
+{
+  "artist": "Kanye West",
+  "overall_vad": {
+    "valence": 2.72,
+    "arousal": 3.41,
+    "dominance": 3.21
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Strange fruit, hanging, from the poplar trees I just need to clear my mind now It's been racin' since the summertime And I'm holdin' down the summer now",
+      "valence": 2.9,
+      "arousal": 3.18,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I just need to clear my mind now It's been racin' since the summertime And I'm holdin' down the summer now And all I want is what I can't buy now",
+      "valence": 2.63,
+      "arousal": 3.29,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "It's been racin' since the summertime And I'm holdin' down the summer now And all I want is what I can't buy now 'Cause I ain't got the money on me right now",
+      "valence": 2.76,
+      "arousal": 3.25,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "And I'm holdin' down the summer now And all I want is what I can't buy now 'Cause I ain't got the money on me right now And I told you to wait",
+      "valence": 2.63,
+      "arousal": 3.25,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "And all I want is what I can't buy now 'Cause I ain't got the money on me right now And I told you to wait Yeah I told you to wait",
+      "valence": 2.54,
+      "arousal": 3.37,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "'Cause I ain't got the money on me right now And I told you to wait Yeah I told you to wait So I'mma need a little more time now",
+      "valence": 2.64,
+      "arousal": 3.28,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "And I told you to wait Yeah I told you to wait So I'mma need a little more time now 'Cause I ain't got the money on me right now",
+      "valence": 2.65,
+      "arousal": 3.3,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Yeah I told you to wait So I'mma need a little more time now 'Cause I ain't got the money on me right now And I thought you could wait",
+      "valence": 2.74,
+      "arousal": 3.25,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "So I'mma need a little more time now 'Cause I ain't got the money on me right now And I thought you could wait Yeah, I thought you could wait",
+      "valence": 2.8,
+      "arousal": 3.12,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "'Cause I ain't got the money on me right now And I thought you could wait Yeah, I thought you could wait These bitches surroundin' me",
+      "valence": 2.39,
+      "arousal": 3.45,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "And I thought you could wait Yeah, I thought you could wait These bitches surroundin' me All want somethin' out me",
+      "valence": 2.53,
+      "arousal": 3.34,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Yeah, I thought you could wait These bitches surroundin' me All want somethin' out me Then they talk about me",
+      "valence": 2.5,
+      "arousal": 3.47,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "These bitches surroundin' me All want somethin' out me Then they talk about me Would be lost without me",
+      "valence": 2.35,
+      "arousal": 3.42,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "All want somethin' out me Then they talk about me Would be lost without me We could've been somebody",
+      "valence": 2.65,
+      "arousal": 3.26,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Then they talk about me Would be lost without me We could've been somebody Thought you'd be different 'bout it",
+      "valence": 2.76,
+      "arousal": 3.18,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Would be lost without me We could've been somebody Thought you'd be different 'bout it Now I know you not it (I'm the poplar trees)",
+      "valence": 2.75,
+      "arousal": 3.16,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "We could've been somebody Thought you'd be different 'bout it Now I know you not it (I'm the poplar trees) So let's get on with it",
+      "valence": 2.85,
+      "arousal": 3.13,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Thought you'd be different 'bout it Now I know you not it (I'm the poplar trees) So let's get on with it We could've been somebody",
+      "valence": 2.86,
+      "arousal": 3.09,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Now I know you not it (I'm the poplar trees) So let's get on with it We could've been somebody 'Stead you had to tell somebody",
+      "valence": 2.76,
+      "arousal": 3.24,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "So let's get on with it We could've been somebody 'Stead you had to tell somebody Let's take it back to the first party",
+      "valence": 2.93,
+      "arousal": 3.12,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "We could've been somebody 'Stead you had to tell somebody Let's take it back to the first party When you tried your first molly",
+      "valence": 3.04,
+      "arousal": 3.07,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "'Stead you had to tell somebody Let's take it back to the first party When you tried your first molly And came out of your body",
+      "valence": 3.0,
+      "arousal": 3.24,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Let's take it back to the first party When you tried your first molly And came out of your body And came out of your body",
+      "valence": 3.16,
+      "arousal": 3.21,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "When you tried your first molly And came out of your body And came out of your body Running naked down the lobby",
+      "valence": 3.1,
+      "arousal": 3.59,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "And came out of your body And came out of your body Running naked down the lobby And you was screamin' that you love me",
+      "valence": 3.29,
+      "arousal": 3.97,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "And came out of your body Running naked down the lobby And you was screamin' that you love me Before the limelight tore ya'",
+      "valence": 3.34,
+      "arousal": 3.9,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Running naked down the lobby And you was screamin' that you love me Before the limelight tore ya' Before the limelight stole ya'",
+      "valence": 3.51,
+      "arousal": 3.84,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "And you was screamin' that you love me Before the limelight tore ya' Before the limelight stole ya' Remember we were so young",
+      "valence": 3.64,
+      "arousal": 3.84,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Before the limelight tore ya' Before the limelight stole ya' Remember we were so young When I would hold you",
+      "valence": 3.26,
+      "arousal": 3.44,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Before the limelight stole ya' Remember we were so young When I would hold you Before the blood on the leaves",
+      "valence": 3.25,
+      "arousal": 3.48,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Remember we were so young When I would hold you Before the blood on the leaves I know there ain't wrong with me",
+      "valence": 2.98,
+      "arousal": 3.38,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "When I would hold you Before the blood on the leaves I know there ain't wrong with me Something strange is happening",
+      "valence": 2.75,
+      "arousal": 3.25,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Before the blood on the leaves I know there ain't wrong with me Something strange is happening You could've been somebody",
+      "valence": 2.63,
+      "arousal": 3.25,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I know there ain't wrong with me Something strange is happening You could've been somebody We could've ugh, we could've been somebody",
+      "valence": 2.45,
+      "arousal": 3.33,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Something strange is happening You could've been somebody We could've ugh, we could've been somebody Or was it on the first party",
+      "valence": 2.74,
+      "arousal": 3.25,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "You could've been somebody We could've ugh, we could've been somebody Or was it on the first party When we tried our first molly",
+      "valence": 2.93,
+      "arousal": 3.24,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "We could've ugh, we could've been somebody Or was it on the first party When we tried our first molly And came out of our body",
+      "valence": 2.84,
+      "arousal": 3.24,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Or was it on the first party When we tried our first molly And came out of our body And came out of our body",
+      "valence": 3.09,
+      "arousal": 3.13,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "When we tried our first molly And came out of our body And came out of our body Before they call lawyers",
+      "valence": 2.97,
+      "arousal": 3.18,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "And came out of our body And came out of our body Before they call lawyers Before you tried to destroy us",
+      "valence": 2.69,
+      "arousal": 3.38,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "And came out of our body Before they call lawyers Before you tried to destroy us How you gon' lie to the lawyer?",
+      "valence": 2.54,
+      "arousal": 3.43,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Before they call lawyers Before you tried to destroy us How you gon' lie to the lawyer? It's like I don't even know ya",
+      "valence": 2.3,
+      "arousal": 3.56,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Before you tried to destroy us How you gon' lie to the lawyer? It's like I don't even know ya I gotta bring it back to the 'nolia",
+      "valence": 2.29,
+      "arousal": 3.62,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "How you gon' lie to the lawyer? It's like I don't even know ya I gotta bring it back to the 'nolia Fuck them other niggas cause I'm down with my niggas",
+      "valence": 2.11,
+      "arousal": 3.88,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "It's like I don't even know ya I gotta bring it back to the 'nolia Fuck them other niggas cause I'm down with my niggas Fuck them other niggas cause I'm down with my niggas",
+      "valence": 1.94,
+      "arousal": 3.97,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I gotta bring it back to the 'nolia Fuck them other niggas cause I'm down with my niggas Fuck them other niggas cause I'm down with my niggas Fuck them other niggas cause I'm down with my niggas",
+      "valence": 1.98,
+      "arousal": 3.96,
+      "dominance": 3.77
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Fuck them other niggas cause I'm down with my niggas Fuck them other niggas cause I'm down with my niggas Fuck them other niggas cause I'm down with my niggas I ride with my niggas, I'll die for my...",
+      "valence": 2.03,
+      "arousal": 3.97,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Fuck them other niggas cause I'm down with my niggas Fuck them other niggas cause I'm down with my niggas I ride with my niggas, I'll die for my... To all my second string bitches, try and get a baby",
+      "valence": 2.07,
+      "arousal": 3.96,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Fuck them other niggas cause I'm down with my niggas I ride with my niggas, I'll die for my... To all my second string bitches, try and get a baby Trying to get a baby, now you talkin' crazy",
+      "valence": 2.01,
+      "arousal": 3.97,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I ride with my niggas, I'll die for my... To all my second string bitches, try and get a baby Trying to get a baby, now you talkin' crazy I don't give a damn if you used to talk to Jay-Z",
+      "valence": 2.26,
+      "arousal": 3.7,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "To all my second string bitches, try and get a baby Trying to get a baby, now you talkin' crazy I don't give a damn if you used to talk to Jay-Z He ain't with you, he with BeyoncÃ©, you need to stop actin' lazy",
+      "valence": 2.2,
+      "arousal": 3.77,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Trying to get a baby, now you talkin' crazy I don't give a damn if you used to talk to Jay-Z He ain't with you, he with BeyoncÃ©, you need to stop actin' lazy She Instagram herself like #BadBitchAlert",
+      "valence": 2.26,
+      "arousal": 3.75,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "I don't give a damn if you used to talk to Jay-Z He ain't with you, he with BeyoncÃ©, you need to stop actin' lazy She Instagram herself like #BadBitchAlert He Instagram his watch like #MadRichAlert",
+      "valence": 2.29,
+      "arousal": 3.61,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "He ain't with you, he with BeyoncÃ©, you need to stop actin' lazy She Instagram herself like #BadBitchAlert He Instagram his watch like #MadRichAlert He only wanna see that ass in reverse",
+      "valence": 2.31,
+      "arousal": 3.62,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "She Instagram herself like #BadBitchAlert He Instagram his watch like #MadRichAlert He only wanna see that ass in reverse Two-thousand-dollar bag with no cash in your purse",
+      "valence": 2.56,
+      "arousal": 3.4,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "He Instagram his watch like #MadRichAlert He only wanna see that ass in reverse Two-thousand-dollar bag with no cash in your purse Now you sittin' courtside, wifey on the other side",
+      "valence": 2.7,
+      "arousal": 3.42,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "He only wanna see that ass in reverse Two-thousand-dollar bag with no cash in your purse Now you sittin' courtside, wifey on the other side Gotta keep 'em separated, I call that apartheid",
+      "valence": 2.51,
+      "arousal": 3.4,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Two-thousand-dollar bag with no cash in your purse Now you sittin' courtside, wifey on the other side Gotta keep 'em separated, I call that apartheid Then she said she impregnated, that's the night your heart died",
+      "valence": 2.42,
+      "arousal": 3.53,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Now you sittin' courtside, wifey on the other side Gotta keep 'em separated, I call that apartheid Then she said she impregnated, that's the night your heart died Then you gotta go and tell your girl and report that",
+      "valence": 2.48,
+      "arousal": 3.63,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Gotta keep 'em separated, I call that apartheid Then she said she impregnated, that's the night your heart died Then you gotta go and tell your girl and report that Main reason cause your pastor said you can't abort that",
+      "valence": 2.37,
+      "arousal": 3.52,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Then she said she impregnated, that's the night your heart died Then you gotta go and tell your girl and report that Main reason cause your pastor said you can't abort that Now your driver say that new Benz you can't afford that",
+      "valence": 2.38,
+      "arousal": 3.69,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Then you gotta go and tell your girl and report that Main reason cause your pastor said you can't abort that Now your driver say that new Benz you can't afford that All that cocaine on the table you can't snort that",
+      "valence": 2.46,
+      "arousal": 3.61,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Main reason cause your pastor said you can't abort that Now your driver say that new Benz you can't afford that All that cocaine on the table you can't snort that That going to that owing money that the court got",
+      "valence": 2.6,
+      "arousal": 3.45,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Now your driver say that new Benz you can't afford that All that cocaine on the table you can't snort that That going to that owing money that the court got All in on that alimony, uh, yeah-yeah, she got you homie",
+      "valence": 2.61,
+      "arousal": 3.58,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "All that cocaine on the table you can't snort that That going to that owing money that the court got All in on that alimony, uh, yeah-yeah, she got you homie 'Til death but do your part, unholy matrimony",
+      "valence": 2.66,
+      "arousal": 3.52,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "That going to that owing money that the court got All in on that alimony, uh, yeah-yeah, she got you homie 'Til death but do your part, unholy matrimony Black bodies swinging in the Southern breeze, breeze",
+      "valence": 2.79,
+      "arousal": 3.46,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "All in on that alimony, uh, yeah-yeah, she got you homie 'Til death but do your part, unholy matrimony Black bodies swinging in the Southern breeze, breeze Strange fruit, fruit from the Poplar trees, from the Poplar trees",
+      "valence": 2.98,
+      "arousal": 3.46,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "'Til death but do your part, unholy matrimony Black bodies swinging in the Southern breeze, breeze Strange fruit, fruit from the Poplar trees, from the Poplar trees That summer night holding long and long, 'din long",
+      "valence": 2.79,
+      "arousal": 3.28,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Black bodies swinging in the Southern breeze, breeze Strange fruit, fruit from the Poplar trees, from the Poplar trees That summer night holding long and long, 'din long No waiting for the summer rose and (breathe)",
+      "valence": 3.2,
+      "arousal": 3.21,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Strange fruit, fruit from the Poplar trees, from the Poplar trees That summer night holding long and long, 'din long No waiting for the summer rose and (breathe) And breathe and breathe",
+      "valence": 3.09,
+      "arousal": 3.23,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "That summer night holding long and long, 'din long No waiting for the summer rose and (breathe) And breathe and breathe And breathe and breathe",
+      "valence": 3.01,
+      "arousal": 3.18,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "No waiting for the summer rose and (breathe) And breathe and breathe And breathe and breathe And breathe and breathe",
+      "valence": 3.09,
+      "arousal": 3.22,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "And breathe and breathe And breathe and breathe And breathe and breathe And live and learn",
+      "valence": 3.31,
+      "arousal": 3.2,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "And breathe and breathe And breathe and breathe And live and learn And live and learn",
+      "valence": 3.31,
+      "arousal": 3.09,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "And breathe and breathe And live and learn And live and learn And living and living like I'm lonely",
+      "valence": 2.87,
+      "arousal": 3.09,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "And live and learn And live and learn And living and living like I'm lonely Lonely, lonely",
+      "valence": 2.7,
+      "arousal": 3.11,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "And live and learn And living and living like I'm lonely Lonely, lonely And living all I have",
+      "valence": 2.74,
+      "arousal": 3.08,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "And living and living like I'm lonely Lonely, lonely And living all I have And living all",
+      "valence": 2.54,
+      "arousal": 3.12,
+      "dominance": 2.73
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "Lonely, lonely And living all I have And living all And live",
+      "valence": 2.69,
+      "arousal": 3.16,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "And living all I have And living all And live And live",
+      "valence": 3.17,
+      "arousal": 3.18,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "And living all And live And live (Blood on the leaves)",
+      "valence": 3.0,
+      "arousal": 3.23,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "And live And live (Blood on the leaves) Breeze, breeze",
+      "valence": 3.22,
+      "arousal": 3.24,
+      "dominance": 3.19
+    }
+  ]
+}

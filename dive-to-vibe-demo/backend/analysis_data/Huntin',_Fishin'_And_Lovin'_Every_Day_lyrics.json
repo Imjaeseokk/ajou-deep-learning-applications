@@ -1,0 +1,318 @@
+{
+  "artist": "Luke Bryan",
+  "overall_vad": {
+    "valence": 3.35,
+    "arousal": 3.29,
+    "dominance": 3.19
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Woah, woah, mmm If I could make a livin' walkin' in the woods You could bet I'd be sittin' pretty good High on a hill lookin' at a field downwind",
+      "valence": 3.26,
+      "arousal": 3.15,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "If I could make a livin' walkin' in the woods You could bet I'd be sittin' pretty good High on a hill lookin' at a field downwind If I could make a nickel off a turning 'em bass",
+      "valence": 3.23,
+      "arousal": 3.1,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "You could bet I'd be sittin' pretty good High on a hill lookin' at a field downwind If I could make a nickel off a turning 'em bass Never worry about the price of gas",
+      "valence": 3.25,
+      "arousal": 3.13,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "High on a hill lookin' at a field downwind If I could make a nickel off a turning 'em bass Never worry about the price of gas I'd be wheelin' and dealin' and sittin' there reelin' 'em in",
+      "valence": 3.07,
+      "arousal": 3.26,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "If I could make a nickel off a turning 'em bass Never worry about the price of gas I'd be wheelin' and dealin' and sittin' there reelin' 'em in A huntin', fishin', and lovin' every day",
+      "valence": 3.05,
+      "arousal": 3.34,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Never worry about the price of gas I'd be wheelin' and dealin' and sittin' there reelin' 'em in A huntin', fishin', and lovin' every day That's the prayer that a country boy prays",
+      "valence": 3.1,
+      "arousal": 3.2,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I'd be wheelin' and dealin' and sittin' there reelin' 'em in A huntin', fishin', and lovin' every day That's the prayer that a country boy prays Thank God He made me this way",
+      "valence": 3.32,
+      "arousal": 3.22,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "A huntin', fishin', and lovin' every day That's the prayer that a country boy prays Thank God He made me this way Huntin' and fishin' and lovin' every day",
+      "valence": 3.51,
+      "arousal": 3.29,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "That's the prayer that a country boy prays Thank God He made me this way Huntin' and fishin' and lovin' every day Early in the mornin' and late in the evenin'",
+      "valence": 3.23,
+      "arousal": 3.24,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Thank God He made me this way Huntin' and fishin' and lovin' every day Early in the mornin' and late in the evenin' I'm gettin' red dirt rich and Flint River pay",
+      "valence": 3.7,
+      "arousal": 3.34,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Huntin' and fishin' and lovin' every day Early in the mornin' and late in the evenin' I'm gettin' red dirt rich and Flint River pay Huntin' and fishin' and lovin' every day",
+      "valence": 3.64,
+      "arousal": 3.29,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Early in the mornin' and late in the evenin' I'm gettin' red dirt rich and Flint River pay Huntin' and fishin' and lovin' every day I'd get a little farm pond buzz",
+      "valence": 3.34,
+      "arousal": 3.04,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I'm gettin' red dirt rich and Flint River pay Huntin' and fishin' and lovin' every day I'd get a little farm pond buzz Sound of gravel when I back it up",
+      "valence": 3.33,
+      "arousal": 3.11,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Huntin' and fishin' and lovin' every day I'd get a little farm pond buzz Sound of gravel when I back it up And pullin' the string on a nine point nine two stroke",
+      "valence": 3.39,
+      "arousal": 3.16,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I'd get a little farm pond buzz Sound of gravel when I back it up And pullin' the string on a nine point nine two stroke Murphy",
+      "valence": 3.14,
+      "arousal": 3.02,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Sound of gravel when I back it up And pullin' the string on a nine point nine two stroke Murphy I love it when my baby wants to roll with me",
+      "valence": 3.83,
+      "arousal": 3.48,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "And pullin' the string on a nine point nine two stroke Murphy I love it when my baby wants to roll with me Throws her boots on, climbs in a tree",
+      "valence": 3.82,
+      "arousal": 3.47,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Murphy I love it when my baby wants to roll with me Throws her boots on, climbs in a tree Tuckin' her hair in my hat and she's ready to go",
+      "valence": 3.99,
+      "arousal": 3.47,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I love it when my baby wants to roll with me Throws her boots on, climbs in a tree Tuckin' her hair in my hat and she's ready to go And we'd get to huntin', fishin' and lovin' every day",
+      "valence": 4.15,
+      "arousal": 3.64,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Throws her boots on, climbs in a tree Tuckin' her hair in my hat and she's ready to go And we'd get to huntin', fishin' and lovin' every day That's the prayer that a country boy prays",
+      "valence": 3.4,
+      "arousal": 3.34,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Tuckin' her hair in my hat and she's ready to go And we'd get to huntin', fishin' and lovin' every day That's the prayer that a country boy prays Thank God He made me this way",
+      "valence": 3.59,
+      "arousal": 3.39,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "And we'd get to huntin', fishin' and lovin' every day That's the prayer that a country boy prays Thank God He made me this way Huntin', fishin' and lovin' every day",
+      "valence": 3.63,
+      "arousal": 3.4,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "That's the prayer that a country boy prays Thank God He made me this way Huntin', fishin' and lovin' every day Early in the mornin' and late in the evenin'",
+      "valence": 3.19,
+      "arousal": 3.22,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Thank God He made me this way Huntin', fishin' and lovin' every day Early in the mornin' and late in the evenin' I'm gettin' red dirt rich, Flint River pay",
+      "valence": 3.78,
+      "arousal": 3.36,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Huntin', fishin' and lovin' every day Early in the mornin' and late in the evenin' I'm gettin' red dirt rich, Flint River pay Huntin' and fishin' and lovin' every day",
+      "valence": 3.71,
+      "arousal": 3.33,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Early in the mornin' and late in the evenin' I'm gettin' red dirt rich, Flint River pay Huntin' and fishin' and lovin' every day So while y'all are up there",
+      "valence": 3.47,
+      "arousal": 3.24,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I'm gettin' red dirt rich, Flint River pay Huntin' and fishin' and lovin' every day So while y'all are up there Breathin' in that dirty air",
+      "valence": 3.07,
+      "arousal": 3.25,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Huntin' and fishin' and lovin' every day So while y'all are up there Breathin' in that dirty air I'll be down here knee deep in the Muckalee",
+      "valence": 3.19,
+      "arousal": 3.3,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "So while y'all are up there Breathin' in that dirty air I'll be down here knee deep in the Muckalee Huntin', Fishin', Lovin' everyday",
+      "valence": 2.93,
+      "arousal": 3.33,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Breathin' in that dirty air I'll be down here knee deep in the Muckalee Huntin', Fishin', Lovin' everyday I wanna see them tall pines sway",
+      "valence": 2.97,
+      "arousal": 3.38,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I'll be down here knee deep in the Muckalee Huntin', Fishin', Lovin' everyday I wanna see them tall pines sway Y'all close them eyes",
+      "valence": 3.3,
+      "arousal": 3.42,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Huntin', Fishin', Lovin' everyday I wanna see them tall pines sway Y'all close them eyes And lets go there in our minds",
+      "valence": 3.19,
+      "arousal": 3.26,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I wanna see them tall pines sway Y'all close them eyes And lets go there in our minds Huntin', fishin', and lovin' every day",
+      "valence": 3.16,
+      "arousal": 3.28,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Y'all close them eyes And lets go there in our minds Huntin', fishin', and lovin' every day That's the prayer this country boy prays",
+      "valence": 2.99,
+      "arousal": 3.14,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "And lets go there in our minds Huntin', fishin', and lovin' every day That's the prayer this country boy prays Thank God He made me this way",
+      "valence": 3.26,
+      "arousal": 3.21,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Huntin', fishin', and lovin' every day That's the prayer this country boy prays Thank God He made me this way Huntin', fishin' and lovin' every day",
+      "valence": 3.56,
+      "arousal": 3.35,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "That's the prayer this country boy prays Thank God He made me this way Huntin', fishin' and lovin' every day Black coffee in the mornin' and dark whiskey in the evenin'",
+      "valence": 3.23,
+      "arousal": 3.22,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Thank God He made me this way Huntin', fishin' and lovin' every day Black coffee in the mornin' and dark whiskey in the evenin' I get red dirt rich and Flint River pay",
+      "valence": 3.54,
+      "arousal": 3.31,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Huntin', fishin' and lovin' every day Black coffee in the mornin' and dark whiskey in the evenin' I get red dirt rich and Flint River pay Huntin', fishin' and lovin' every day",
+      "valence": 3.48,
+      "arousal": 3.29,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Black coffee in the mornin' and dark whiskey in the evenin' I get red dirt rich and Flint River pay Huntin', fishin' and lovin' every day Won't you come along with me",
+      "valence": 2.92,
+      "arousal": 3.28,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I get red dirt rich and Flint River pay Huntin', fishin' and lovin' every day Won't you come along with me Won't you come along with me",
+      "valence": 2.9,
+      "arousal": 3.33,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Huntin', fishin' and lovin' every day Won't you come along with me Won't you come along with me I know you'll wanna see",
+      "valence": 3.26,
+      "arousal": 3.35,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Won't you come along with me Won't you come along with me I know you'll wanna see Huntin' and fishin' and lovin' every day",
+      "valence": 3.2,
+      "arousal": 3.37,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Won't you come along with me I know you'll wanna see Huntin' and fishin' and lovin' every day Yeah",
+      "valence": 3.34,
+      "arousal": 3.44,
+      "dominance": 3.27
+    }
+  ]
+}

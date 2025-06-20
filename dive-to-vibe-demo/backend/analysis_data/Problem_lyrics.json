@@ -1,0 +1,395 @@
+{
+  "artist": "Ariana Grande Featuring Iggy Azalea",
+  "overall_vad": {
+    "valence": 2.91,
+    "arousal": 3.44,
+    "dominance": 3.3
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "It's Iggy Iggs I got one more problem with you girl Aye Hey baby, even though I hate ya",
+      "valence": 2.42,
+      "arousal": 3.36,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I got one more problem with you girl Aye Hey baby, even though I hate ya I wanna love ya, I want you",
+      "valence": 2.9,
+      "arousal": 3.79,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Aye Hey baby, even though I hate ya I wanna love ya, I want you And even though I can't forgive ya",
+      "valence": 3.72,
+      "arousal": 3.86,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Hey baby, even though I hate ya I wanna love ya, I want you And even though I can't forgive ya I really want to, I want you",
+      "valence": 3.8,
+      "arousal": 4.11,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I wanna love ya, I want you And even though I can't forgive ya I really want to, I want you Tell me, tell me, baby",
+      "valence": 3.75,
+      "arousal": 4.17,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "And even though I can't forgive ya I really want to, I want you Tell me, tell me, baby Why can't you leave me",
+      "valence": 2.77,
+      "arousal": 3.7,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I really want to, I want you Tell me, tell me, baby Why can't you leave me Cause even though I shouldn't want it",
+      "valence": 2.69,
+      "arousal": 3.75,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Tell me, tell me, baby Why can't you leave me Cause even though I shouldn't want it I gotta have it, I want you",
+      "valence": 2.73,
+      "arousal": 3.74,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Why can't you leave me Cause even though I shouldn't want it I gotta have it, I want you Head in the clouds",
+      "valence": 2.87,
+      "arousal": 3.59,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Cause even though I shouldn't want it I gotta have it, I want you Head in the clouds Got no weight on my shoulders",
+      "valence": 2.95,
+      "arousal": 3.53,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I gotta have it, I want you Head in the clouds Got no weight on my shoulders I should be wiser",
+      "valence": 2.92,
+      "arousal": 3.58,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Head in the clouds Got no weight on my shoulders I should be wiser And realize that I've got",
+      "valence": 2.74,
+      "arousal": 3.01,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Got no weight on my shoulders I should be wiser And realize that I've got One less problem without ya",
+      "valence": 2.73,
+      "arousal": 3.26,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I should be wiser And realize that I've got One less problem without ya I got one less problem without ya",
+      "valence": 2.65,
+      "arousal": 3.3,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And realize that I've got One less problem without ya I got one less problem without ya I got one less problem without ya",
+      "valence": 2.73,
+      "arousal": 3.33,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "One less problem without ya I got one less problem without ya I got one less problem without ya (I got one less, one less problem)",
+      "valence": 2.97,
+      "arousal": 3.46,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I got one less problem without ya I got one less problem without ya (I got one less, one less problem) I know you're never gonna wake up",
+      "valence": 2.71,
+      "arousal": 3.41,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I got one less problem without ya (I got one less, one less problem) I know you're never gonna wake up I gotta give up, but it's you",
+      "valence": 2.71,
+      "arousal": 3.47,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "(I got one less, one less problem) I know you're never gonna wake up I gotta give up, but it's you I know I shouldn't ever call back",
+      "valence": 2.71,
+      "arousal": 3.31,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I know you're never gonna wake up I gotta give up, but it's you I know I shouldn't ever call back Or let you come back, but it's you",
+      "valence": 2.69,
+      "arousal": 3.32,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I gotta give up, but it's you I know I shouldn't ever call back Or let you come back, but it's you Every time you touch me",
+      "valence": 2.65,
+      "arousal": 3.55,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I know I shouldn't ever call back Or let you come back, but it's you Every time you touch me And say you love me",
+      "valence": 3.6,
+      "arousal": 3.81,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Or let you come back, but it's you Every time you touch me And say you love me I get a little bit breathless",
+      "valence": 3.25,
+      "arousal": 3.56,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Every time you touch me And say you love me I get a little bit breathless I shouldn't want it, but it's you",
+      "valence": 3.34,
+      "arousal": 3.75,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "And say you love me I get a little bit breathless I shouldn't want it, but it's you Head in the clouds",
+      "valence": 3.37,
+      "arousal": 3.55,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I get a little bit breathless I shouldn't want it, but it's you Head in the clouds Got no weight on my shoulders",
+      "valence": 2.7,
+      "arousal": 3.17,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I shouldn't want it, but it's you Head in the clouds Got no weight on my shoulders I should be wiser",
+      "valence": 2.45,
+      "arousal": 3.25,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Head in the clouds Got no weight on my shoulders I should be wiser And realize that I've got",
+      "valence": 2.74,
+      "arousal": 3.01,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Got no weight on my shoulders I should be wiser And realize that I've got One less problem without ya",
+      "valence": 2.73,
+      "arousal": 3.26,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I should be wiser And realize that I've got One less problem without ya I got one less problem without ya",
+      "valence": 2.65,
+      "arousal": 3.3,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "And realize that I've got One less problem without ya I got one less problem without ya I got one less problem without ya",
+      "valence": 2.73,
+      "arousal": 3.33,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "One less problem without ya I got one less problem without ya I got one less problem without ya (I got one less, one less problem)",
+      "valence": 2.97,
+      "arousal": 3.46,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I got one less problem without ya I got one less problem without ya (I got one less, one less problem) It's Iggy Iggs",
+      "valence": 2.84,
+      "arousal": 3.4,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I got one less problem without ya (I got one less, one less problem) It's Iggy Iggs What you got",
+      "valence": 2.99,
+      "arousal": 3.35,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "(I got one less, one less problem) It's Iggy Iggs What you got Smart money bettin' I'll be better off without you",
+      "valence": 2.97,
+      "arousal": 3.25,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "It's Iggy Iggs What you got Smart money bettin' I'll be better off without you In no time I'll be forgettin' all about you",
+      "valence": 2.87,
+      "arousal": 3.18,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "What you got Smart money bettin' I'll be better off without you In no time I'll be forgettin' all about you Sayin' that you know, but I really, really doubt you",
+      "valence": 2.61,
+      "arousal": 3.35,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Smart money bettin' I'll be better off without you In no time I'll be forgettin' all about you Sayin' that you know, but I really, really doubt you Understand my life is easy when I ain't around you",
+      "valence": 2.67,
+      "arousal": 3.22,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "In no time I'll be forgettin' all about you Sayin' that you know, but I really, really doubt you Understand my life is easy when I ain't around you Iggy Iggy, too biggie to be here stressin'",
+      "valence": 2.58,
+      "arousal": 3.32,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Sayin' that you know, but I really, really doubt you Understand my life is easy when I ain't around you Iggy Iggy, too biggie to be here stressin' I'm thinkin' I love the thought of you more than I love your presence",
+      "valence": 3.12,
+      "arousal": 3.6,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Understand my life is easy when I ain't around you Iggy Iggy, too biggie to be here stressin' I'm thinkin' I love the thought of you more than I love your presence And the best thing now is probably for you to exit",
+      "valence": 3.3,
+      "arousal": 3.36,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Iggy Iggy, too biggie to be here stressin' I'm thinkin' I love the thought of you more than I love your presence And the best thing now is probably for you to exit I let you go, let you back, I finally learned my lesson",
+      "valence": 3.54,
+      "arousal": 3.59,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I'm thinkin' I love the thought of you more than I love your presence And the best thing now is probably for you to exit I let you go, let you back, I finally learned my lesson No half-steppin', either you want it or you just playin'",
+      "valence": 3.54,
+      "arousal": 3.48,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "And the best thing now is probably for you to exit I let you go, let you back, I finally learned my lesson No half-steppin', either you want it or you just playin' I'm listenin' to you knowin' I can't believe what you're sayin'",
+      "valence": 2.93,
+      "arousal": 3.45,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I let you go, let you back, I finally learned my lesson No half-steppin', either you want it or you just playin' I'm listenin' to you knowin' I can't believe what you're sayin' There's a million you's baby boy, so don't be dumb",
+      "valence": 3.18,
+      "arousal": 3.5,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "No half-steppin', either you want it or you just playin' I'm listenin' to you knowin' I can't believe what you're sayin' There's a million you's baby boy, so don't be dumb I got 99 problems but you won't be one",
+      "valence": 2.89,
+      "arousal": 3.52,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I'm listenin' to you knowin' I can't believe what you're sayin' There's a million you's baby boy, so don't be dumb I got 99 problems but you won't be one Like what",
+      "valence": 2.79,
+      "arousal": 3.75,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "There's a million you's baby boy, so don't be dumb I got 99 problems but you won't be one Like what Head in the clouds",
+      "valence": 2.79,
+      "arousal": 3.44,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I got 99 problems but you won't be one Like what Head in the clouds Got no weight on my shoulders",
+      "valence": 2.48,
+      "arousal": 3.22,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Like what Head in the clouds Got no weight on my shoulders I should be wiser",
+      "valence": 2.87,
+      "arousal": 2.97,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Head in the clouds Got no weight on my shoulders I should be wiser And realize that I've got",
+      "valence": 2.74,
+      "arousal": 3.01,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Got no weight on my shoulders I should be wiser And realize that I've got One less problem without ya",
+      "valence": 2.73,
+      "arousal": 3.26,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "I should be wiser And realize that I've got One less problem without ya I got one less problem without ya",
+      "valence": 2.65,
+      "arousal": 3.3,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "And realize that I've got One less problem without ya I got one less problem without ya I got one less problem without ya",
+      "valence": 2.73,
+      "arousal": 3.33,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "One less problem without ya I got one less problem without ya I got one less problem without ya (I got one less, one less problem)",
+      "valence": 2.97,
+      "arousal": 3.46,
+      "dominance": 3.49
+    }
+  ]
+}

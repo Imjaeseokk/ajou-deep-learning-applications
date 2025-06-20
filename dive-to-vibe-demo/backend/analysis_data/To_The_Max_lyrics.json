@@ -1,0 +1,451 @@
+{
+  "artist": "DJ Khaled Featuring Drake",
+  "overall_vad": {
+    "valence": 3.18,
+    "arousal": 3.4,
+    "dominance": 3.41
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Ooh, get 'em right Get 'em right, get 'em right Get 'em right, get 'em right Get 'em right, get 'em right",
+      "valence": 3.13,
+      "arousal": 3.13,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Get 'em right, get 'em right Get 'em right, get 'em right Get 'em right, get 'em right Another one",
+      "valence": 3.21,
+      "arousal": 3.21,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Get 'em right, get 'em right Get 'em right, get 'em right Another one We the Best Music!",
+      "valence": 3.76,
+      "arousal": 3.92,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Get 'em right, get 'em right Another one We the Best Music! The legacy continues",
+      "valence": 3.97,
+      "arousal": 4.12,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Another one We the Best Music! The legacy continues DJ Khaled!",
+      "valence": 4.03,
+      "arousal": 4.08,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "We the Best Music! The legacy continues DJ Khaled! I talk grey, I don't keep it white and black",
+      "valence": 3.54,
+      "arousal": 3.58,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "The legacy continues DJ Khaled! I talk grey, I don't keep it white and black Only say \"I love you\" just so I can hear it back",
+      "valence": 3.54,
+      "arousal": 3.71,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "DJ Khaled! I talk grey, I don't keep it white and black Only say \"I love you\" just so I can hear it back Sometimes, other times I'd love to have you back",
+      "valence": 3.7,
+      "arousal": 3.82,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I talk grey, I don't keep it white and black Only say \"I love you\" just so I can hear it back Sometimes, other times I'd love to have you back Can't think of a night that we ain't turn up to the max",
+      "valence": 3.48,
+      "arousal": 3.64,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Only say \"I love you\" just so I can hear it back Sometimes, other times I'd love to have you back Can't think of a night that we ain't turn up to the max To the max, no",
+      "valence": 3.57,
+      "arousal": 3.74,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Sometimes, other times I'd love to have you back Can't think of a night that we ain't turn up to the max To the max, no Like the album just went platinum, yeah",
+      "valence": 3.27,
+      "arousal": 3.48,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Can't think of a night that we ain't turn up to the max To the max, no Like the album just went platinum, yeah Turnt up to the max",
+      "valence": 3.11,
+      "arousal": 3.32,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "To the max, no Like the album just went platinum, yeah Turnt up to the max If they pop somebody's chain then we gotta get it back",
+      "valence": 3.06,
+      "arousal": 3.45,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Like the album just went platinum, yeah Turnt up to the max If they pop somebody's chain then we gotta get it back No discussion to be had, we ain't goin' out like that",
+      "valence": 2.89,
+      "arousal": 3.52,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Turnt up to the max If they pop somebody's chain then we gotta get it back No discussion to be had, we ain't goin' out like that Man, we lit",
+      "valence": 2.54,
+      "arousal": 3.42,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "If they pop somebody's chain then we gotta get it back No discussion to be had, we ain't goin' out like that Man, we lit My young niggas lit",
+      "valence": 2.49,
+      "arousal": 3.44,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "No discussion to be had, we ain't goin' out like that Man, we lit My young niggas lit All of my young niggas lit, we lit",
+      "valence": 2.81,
+      "arousal": 3.4,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Man, we lit My young niggas lit All of my young niggas lit, we lit My young niggas lit",
+      "valence": 3.37,
+      "arousal": 3.4,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "My young niggas lit All of my young niggas lit, we lit My young niggas lit All of my young niggas lit, we lit",
+      "valence": 3.5,
+      "arousal": 3.32,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "All of my young niggas lit, we lit My young niggas lit All of my young niggas lit, we lit My young niggas lit",
+      "valence": 3.51,
+      "arousal": 3.38,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "My young niggas lit All of my young niggas lit, we lit My young niggas lit All of my young niggas lit, we lit",
+      "valence": 3.5,
+      "arousal": 3.32,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "All of my young niggas lit, we lit My young niggas lit All of my young niggas lit, we lit My young niggas lit",
+      "valence": 3.51,
+      "arousal": 3.38,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "My young niggas lit All of my young niggas lit, we lit My young niggas lit All of my young niggas lit, we lit",
+      "valence": 3.5,
+      "arousal": 3.32,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "All of my young niggas lit, we lit My young niggas lit All of my young niggas lit, we lit Get 'em right, get 'em right",
+      "valence": 3.27,
+      "arousal": 3.32,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "My young niggas lit All of my young niggas lit, we lit Get 'em right, get 'em right Get 'em right, get 'em right",
+      "valence": 3.16,
+      "arousal": 3.2,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "All of my young niggas lit, we lit Get 'em right, get 'em right Get 'em right, get 'em right Get 'em right, get 'em right",
+      "valence": 3.1,
+      "arousal": 3.15,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Get 'em right, get 'em right Get 'em right, get 'em right Get 'em right, get 'em right Get 'em right, get 'em right",
+      "valence": 3.14,
+      "arousal": 3.16,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Get 'em right, get 'em right Get 'em right, get 'em right Get 'em right, get 'em right Get 'em right, get 'em right",
+      "valence": 3.14,
+      "arousal": 3.16,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Get 'em right, get 'em right Get 'em right, get 'em right Get 'em right, get 'em right Get 'em right, get 'em right (yeah)",
+      "valence": 3.16,
+      "arousal": 3.18,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Get 'em right, get 'em right Get 'em right, get 'em right Get 'em right, get 'em right (yeah) Get 'em right, get 'em right",
+      "valence": 3.13,
+      "arousal": 3.18,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Get 'em right, get 'em right Get 'em right, get 'em right (yeah) Get 'em right, get 'em right Got it on the dresser, I've been under pressure",
+      "valence": 2.98,
+      "arousal": 3.28,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Get 'em right, get 'em right (yeah) Get 'em right, get 'em right Got it on the dresser, I've been under pressure They wanna see me laid out on a stretcher",
+      "valence": 2.71,
+      "arousal": 3.47,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Get 'em right, get 'em right Got it on the dresser, I've been under pressure They wanna see me laid out on a stretcher Gotta keep my head up",
+      "valence": 2.59,
+      "arousal": 3.49,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Got it on the dresser, I've been under pressure They wanna see me laid out on a stretcher Gotta keep my head up (Get 'em right, get 'em right)",
+      "valence": 2.61,
+      "arousal": 3.53,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "They wanna see me laid out on a stretcher Gotta keep my head up (Get 'em right, get 'em right) Now all of a sudden, people say we cousins",
+      "valence": 2.71,
+      "arousal": 3.5,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Gotta keep my head up (Get 'em right, get 'em right) Now all of a sudden, people say we cousins I keep hearin' all this \"You my brother\" talk, I can't relate to nothin'",
+      "valence": 2.69,
+      "arousal": 3.43,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "(Get 'em right, get 'em right) Now all of a sudden, people say we cousins I keep hearin' all this \"You my brother\" talk, I can't relate to nothin' My broski down to ride",
+      "valence": 2.64,
+      "arousal": 3.37,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Now all of a sudden, people say we cousins I keep hearin' all this \"You my brother\" talk, I can't relate to nothin' My broski down to ride Made a knot in the line",
+      "valence": 2.46,
+      "arousal": 3.44,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I keep hearin' all this \"You my brother\" talk, I can't relate to nothin' My broski down to ride Made a knot in the line You can never break ties",
+      "valence": 2.42,
+      "arousal": 3.41,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "My broski down to ride Made a knot in the line You can never break ties We don't really rate those yutes there",
+      "valence": 2.92,
+      "arousal": 2.95,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Made a knot in the line You can never break ties We don't really rate those yutes there That's a whole other side",
+      "valence": 2.81,
+      "arousal": 2.88,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "You can never break ties We don't really rate those yutes there That's a whole other side That's a whole 'nother vibe",
+      "valence": 2.62,
+      "arousal": 3.05,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "We don't really rate those yutes there That's a whole other side That's a whole 'nother vibe They ain't really on shit, yeah",
+      "valence": 2.58,
+      "arousal": 3.09,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "That's a whole other side That's a whole 'nother vibe They ain't really on shit, yeah My young niggas lit",
+      "valence": 2.66,
+      "arousal": 3.19,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "That's a whole 'nother vibe They ain't really on shit, yeah My young niggas lit All of my young niggas lit, we lit",
+      "valence": 2.76,
+      "arousal": 3.29,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "They ain't really on shit, yeah My young niggas lit All of my young niggas lit, we lit My young niggas lit",
+      "valence": 2.94,
+      "arousal": 3.31,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "My young niggas lit All of my young niggas lit, we lit My young niggas lit All of my young niggas lit, we lit",
+      "valence": 3.5,
+      "arousal": 3.32,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "All of my young niggas lit, we lit My young niggas lit All of my young niggas lit, we lit My young niggas lit",
+      "valence": 3.51,
+      "arousal": 3.38,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "My young niggas lit All of my young niggas lit, we lit My young niggas lit All of my young niggas lit, we lit",
+      "valence": 3.5,
+      "arousal": 3.32,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "All of my young niggas lit, we lit My young niggas lit All of my young niggas lit, we lit My young niggas lit",
+      "valence": 3.51,
+      "arousal": 3.38,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "My young niggas lit All of my young niggas lit, we lit My young niggas lit All of my young niggas lit, we lit",
+      "valence": 3.5,
+      "arousal": 3.32,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "All of my young niggas lit, we lit My young niggas lit All of my young niggas lit, we lit My young niggas lit",
+      "valence": 3.51,
+      "arousal": 3.38,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "My young niggas lit All of my young niggas lit, we lit My young niggas lit All of my young niggas lit, we lit",
+      "valence": 3.5,
+      "arousal": 3.32,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "All of my young niggas lit, we lit My young niggas lit All of my young niggas lit, we lit My young niggas lit",
+      "valence": 3.51,
+      "arousal": 3.38,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "My young niggas lit All of my young niggas lit, we lit My young niggas lit All of my young niggas lit, we lit",
+      "valence": 3.5,
+      "arousal": 3.32,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "All of my young niggas lit, we lit My young niggas lit All of my young niggas lit, we lit My young niggas lit",
+      "valence": 3.51,
+      "arousal": 3.38,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "My young niggas lit All of my young niggas lit, we lit My young niggas lit All of my young niggas lit, we lit",
+      "valence": 3.5,
+      "arousal": 3.32,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "All of my young niggas lit, we lit My young niggas lit All of my young niggas lit, we lit My young niggas lit",
+      "valence": 3.51,
+      "arousal": 3.38,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "My young niggas lit All of my young niggas lit, we lit My young niggas lit All of my young niggas lit, we lit",
+      "valence": 3.5,
+      "arousal": 3.32,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "All of my young niggas lit, we lit My young niggas lit All of my young niggas lit, we lit More chune pon' your head top",
+      "valence": 3.43,
+      "arousal": 3.41,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "My young niggas lit All of my young niggas lit, we lit More chune pon' your head top Watch how you speak on my name, you know?",
+      "valence": 2.98,
+      "arousal": 3.54,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "All of my young niggas lit, we lit More chune pon' your head top Watch how you speak on my name, you know? DJ Khaled!",
+      "valence": 3.14,
+      "arousal": 3.84,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "More chune pon' your head top Watch how you speak on my name, you know? DJ Khaled! Another one",
+      "valence": 3.1,
+      "arousal": 3.74,
+      "dominance": 3.19
+    }
+  ]
+}

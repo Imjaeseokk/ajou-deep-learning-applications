@@ -1,0 +1,528 @@
+{
+  "artist": "2 Chainz & Wiz Khalifa",
+  "overall_vad": {
+    "valence": 2.99,
+    "arousal": 3.5,
+    "dominance": 3.37
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "It's Young Khalifa man 2 Chainz! Money's the motivation Money's the conversation",
+      "valence": 3.34,
+      "arousal": 3.57,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "2 Chainz! Money's the motivation Money's the conversation You on vacation, we gettin' paid so",
+      "valence": 3.47,
+      "arousal": 3.59,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Money's the motivation Money's the conversation You on vacation, we gettin' paid so We on paid-cation, I did it for the fam",
+      "valence": 3.54,
+      "arousal": 3.5,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Money's the conversation You on vacation, we gettin' paid so We on paid-cation, I did it for the fam It's whatever we had to do, it's just who I am",
+      "valence": 3.39,
+      "arousal": 3.43,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "You on vacation, we gettin' paid so We on paid-cation, I did it for the fam It's whatever we had to do, it's just who I am Yeah, it's the life I chose",
+      "valence": 3.51,
+      "arousal": 3.44,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "We on paid-cation, I did it for the fam It's whatever we had to do, it's just who I am Yeah, it's the life I chose Gunshots in the dark, one eye closed",
+      "valence": 3.26,
+      "arousal": 3.36,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "It's whatever we had to do, it's just who I am Yeah, it's the life I chose Gunshots in the dark, one eye closed And we got it cookin' like a one-eyed stove",
+      "valence": 3.06,
+      "arousal": 3.27,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Yeah, it's the life I chose Gunshots in the dark, one eye closed And we got it cookin' like a one-eyed stove You can catch me kissin' my girl with both eye' closed",
+      "valence": 3.26,
+      "arousal": 3.52,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Gunshots in the dark, one eye closed And we got it cookin' like a one-eyed stove You can catch me kissin' my girl with both eye' closed Perfectin' my passion, thanks for askin'",
+      "valence": 3.79,
+      "arousal": 3.93,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "And we got it cookin' like a one-eyed stove You can catch me kissin' my girl with both eye' closed Perfectin' my passion, thanks for askin' Couldn't slow down, so we had to crash it",
+      "valence": 3.67,
+      "arousal": 4.05,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "You can catch me kissin' my girl with both eye' closed Perfectin' my passion, thanks for askin' Couldn't slow down, so we had to crash it You use plastic, we 'bout cash",
+      "valence": 3.55,
+      "arousal": 3.95,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Perfectin' my passion, thanks for askin' Couldn't slow down, so we had to crash it You use plastic, we 'bout cash I see some people ahead that we gon' pass, yeah!",
+      "valence": 3.58,
+      "arousal": 4.1,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Couldn't slow down, so we had to crash it You use plastic, we 'bout cash I see some people ahead that we gon' pass, yeah! I never fear death or dyin'",
+      "valence": 2.49,
+      "arousal": 3.84,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "You use plastic, we 'bout cash I see some people ahead that we gon' pass, yeah! I never fear death or dyin' I only fear never tryin'",
+      "valence": 2.72,
+      "arousal": 3.56,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I see some people ahead that we gon' pass, yeah! I never fear death or dyin' I only fear never tryin' I am whatever I am",
+      "valence": 2.82,
+      "arousal": 3.62,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I never fear death or dyin' I only fear never tryin' I am whatever I am Only God can judge me now",
+      "valence": 2.46,
+      "arousal": 3.36,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I only fear never tryin' I am whatever I am Only God can judge me now One shot, everything rides on tonight",
+      "valence": 2.63,
+      "arousal": 3.45,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I am whatever I am Only God can judge me now One shot, everything rides on tonight Even if I got three strikes, I'ma go for it",
+      "valence": 3.04,
+      "arousal": 3.39,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Only God can judge me now One shot, everything rides on tonight Even if I got three strikes, I'ma go for it This moment, we own it",
+      "valence": 3.16,
+      "arousal": 3.51,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "One shot, everything rides on tonight Even if I got three strikes, I'ma go for it This moment, we own it Ayy, I'm not to be played with",
+      "valence": 3.06,
+      "arousal": 3.53,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Even if I got three strikes, I'ma go for it This moment, we own it Ayy, I'm not to be played with Because it could get dangerous",
+      "valence": 2.93,
+      "arousal": 3.53,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "This moment, we own it Ayy, I'm not to be played with Because it could get dangerous See these people I ride with",
+      "valence": 2.7,
+      "arousal": 3.51,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Ayy, I'm not to be played with Because it could get dangerous See these people I ride with This moment, we own it",
+      "valence": 2.59,
+      "arousal": 3.49,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Because it could get dangerous See these people I ride with This moment, we own it And the same ones that I ride with, be the same ones that I die with",
+      "valence": 2.41,
+      "arousal": 3.3,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "See these people I ride with This moment, we own it And the same ones that I ride with, be the same ones that I die with Put it all out on the line with, if you're looking for me",
+      "valence": 3.07,
+      "arousal": 3.37,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "This moment, we own it And the same ones that I ride with, be the same ones that I die with Put it all out on the line with, if you're looking for me You could find Wiz in the new car or the crowd",
+      "valence": 3.09,
+      "arousal": 3.45,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "And the same ones that I ride with, be the same ones that I die with Put it all out on the line with, if you're looking for me You could find Wiz in the new car or the crowd With my new broad, that's a fine chick",
+      "valence": 3.1,
+      "arousal": 3.34,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Put it all out on the line with, if you're looking for me You could find Wiz in the new car or the crowd With my new broad, that's a fine chick And no other squad I'm down with, ain't (no way around it)",
+      "valence": 3.05,
+      "arousal": 3.41,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "You could find Wiz in the new car or the crowd With my new broad, that's a fine chick And no other squad I'm down with, ain't (no way around it) What you say? Tell me what you say",
+      "valence": 3.18,
+      "arousal": 3.42,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "With my new broad, that's a fine chick And no other squad I'm down with, ain't (no way around it) What you say? Tell me what you say Workin' hard, reppin' for my dogs, do this everyday",
+      "valence": 3.3,
+      "arousal": 3.52,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "And no other squad I'm down with, ain't (no way around it) What you say? Tell me what you say Workin' hard, reppin' for my dogs, do this everyday Takin' off, lookin' out for all, makin' sure we ball",
+      "valence": 3.03,
+      "arousal": 3.54,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "What you say? Tell me what you say Workin' hard, reppin' for my dogs, do this everyday Takin' off, lookin' out for all, makin' sure we ball Like the mob, all you do is call",
+      "valence": 3.0,
+      "arousal": 3.43,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Workin' hard, reppin' for my dogs, do this everyday Takin' off, lookin' out for all, makin' sure we ball Like the mob, all you do is call Catch you if you fall, Young Khalifa",
+      "valence": 3.15,
+      "arousal": 3.43,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Takin' off, lookin' out for all, makin' sure we ball Like the mob, all you do is call Catch you if you fall, Young Khalifa I never fear death or dyin'",
+      "valence": 2.85,
+      "arousal": 3.46,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Like the mob, all you do is call Catch you if you fall, Young Khalifa I never fear death or dyin' I only fear never tryin'",
+      "valence": 2.5,
+      "arousal": 3.4,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Catch you if you fall, Young Khalifa I never fear death or dyin' I only fear never tryin' I am whatever I am",
+      "valence": 2.82,
+      "arousal": 3.44,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I never fear death or dyin' I only fear never tryin' I am whatever I am Only God can judge me now",
+      "valence": 2.46,
+      "arousal": 3.36,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "I only fear never tryin' I am whatever I am Only God can judge me now One shot, everything rides on tonight",
+      "valence": 2.63,
+      "arousal": 3.45,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I am whatever I am Only God can judge me now One shot, everything rides on tonight Even if I got three strikes, I'ma go for it",
+      "valence": 3.04,
+      "arousal": 3.39,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Only God can judge me now One shot, everything rides on tonight Even if I got three strikes, I'ma go for it This moment, we own it",
+      "valence": 3.16,
+      "arousal": 3.51,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "One shot, everything rides on tonight Even if I got three strikes, I'ma go for it This moment, we own it Ayy, I'm not to be played with (I ride or die for mine)",
+      "valence": 3.1,
+      "arousal": 3.59,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Even if I got three strikes, I'ma go for it This moment, we own it Ayy, I'm not to be played with (I ride or die for mine) Because it could get dangerous",
+      "valence": 2.94,
+      "arousal": 3.59,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "This moment, we own it Ayy, I'm not to be played with (I ride or die for mine) Because it could get dangerous See these people I ride with (I ride or die for life)",
+      "valence": 2.57,
+      "arousal": 3.61,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Ayy, I'm not to be played with (I ride or die for mine) Because it could get dangerous See these people I ride with (I ride or die for life) This moment, we own it",
+      "valence": 2.66,
+      "arousal": 3.6,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Because it could get dangerous See these people I ride with (I ride or die for life) This moment, we own it This the biggest day of my life",
+      "valence": 2.92,
+      "arousal": 3.66,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "See these people I ride with (I ride or die for life) This moment, we own it This the biggest day of my life We got big guns, been graduated from knives",
+      "valence": 3.07,
+      "arousal": 3.64,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "This moment, we own it This the biggest day of my life We got big guns, been graduated from knives It's the day in the life, and I'm ready to ride",
+      "valence": 3.64,
+      "arousal": 3.81,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "This the biggest day of my life We got big guns, been graduated from knives It's the day in the life, and I'm ready to ride Got the spirit, I'm feeling like a killer inside",
+      "valence": 2.8,
+      "arousal": 3.83,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "We got big guns, been graduated from knives It's the day in the life, and I'm ready to ride Got the spirit, I'm feeling like a killer inside Oh, financial outbreak, I'm free, but I ain't out yet",
+      "valence": 2.61,
+      "arousal": 3.55,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "It's the day in the life, and I'm ready to ride Got the spirit, I'm feeling like a killer inside Oh, financial outbreak, I'm free, but I ain't out yet Ridin' with the plugs, so I'm close to the outlet",
+      "valence": 2.94,
+      "arousal": 3.57,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Got the spirit, I'm feeling like a killer inside Oh, financial outbreak, I'm free, but I ain't out yet Ridin' with the plugs, so I'm close to the outlet At the red light, rims sittin' offset",
+      "valence": 2.65,
+      "arousal": 3.46,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Oh, financial outbreak, I'm free, but I ain't out yet Ridin' with the plugs, so I'm close to the outlet At the red light, rims sittin' offset I look better on your girl (than her outfit)",
+      "valence": 3.22,
+      "arousal": 3.4,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Ridin' with the plugs, so I'm close to the outlet At the red light, rims sittin' offset I look better on your girl (than her outfit) Stuck to the plan, always said that we would stand up, never ran",
+      "valence": 3.15,
+      "arousal": 3.18,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "At the red light, rims sittin' offset I look better on your girl (than her outfit) Stuck to the plan, always said that we would stand up, never ran We the fam, and loyalty never change up",
+      "valence": 3.14,
+      "arousal": 3.27,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "I look better on your girl (than her outfit) Stuck to the plan, always said that we would stand up, never ran We the fam, and loyalty never change up Been down since day one, look at where we came from",
+      "valence": 3.34,
+      "arousal": 3.43,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Stuck to the plan, always said that we would stand up, never ran We the fam, and loyalty never change up Been down since day one, look at where we came from Jumpin' out on anybody who tryin' to say somethin'",
+      "valence": 3.1,
+      "arousal": 3.24,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "We the fam, and loyalty never change up Been down since day one, look at where we came from Jumpin' out on anybody who tryin' to say somethin' One thing about it, got a problem? I got the same one",
+      "valence": 2.68,
+      "arousal": 3.32,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Been down since day one, look at where we came from Jumpin' out on anybody who tryin' to say somethin' One thing about it, got a problem? I got the same one Money rose, we fold",
+      "valence": 2.58,
+      "arousal": 3.31,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Jumpin' out on anybody who tryin' to say somethin' One thing about it, got a problem? I got the same one Money rose, we fold Playin' in clubs we closed",
+      "valence": 2.48,
+      "arousal": 3.33,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "One thing about it, got a problem? I got the same one Money rose, we fold Playin' in clubs we closed Follow the same code",
+      "valence": 2.62,
+      "arousal": 3.16,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Money rose, we fold Playin' in clubs we closed Follow the same code Never turn our backs",
+      "valence": 3.08,
+      "arousal": 3.29,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Playin' in clubs we closed Follow the same code Never turn our backs Our cars don't even lose control",
+      "valence": 2.72,
+      "arousal": 3.33,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Follow the same code Never turn our backs Our cars don't even lose control One shot, everything rides on tonight",
+      "valence": 2.84,
+      "arousal": 3.42,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Never turn our backs Our cars don't even lose control One shot, everything rides on tonight Even if I got three strikes, I'ma go for it",
+      "valence": 2.92,
+      "arousal": 3.46,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Our cars don't even lose control One shot, everything rides on tonight Even if I got three strikes, I'ma go for it This moment, we own it",
+      "valence": 3.16,
+      "arousal": 3.59,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "One shot, everything rides on tonight Even if I got three strikes, I'ma go for it This moment, we own it Ayy, I'm not to be played with (I ride or die for mine)",
+      "valence": 3.1,
+      "arousal": 3.59,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Even if I got three strikes, I'ma go for it This moment, we own it Ayy, I'm not to be played with (I ride or die for mine) Because it could get dangerous",
+      "valence": 2.94,
+      "arousal": 3.59,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "This moment, we own it Ayy, I'm not to be played with (I ride or die for mine) Because it could get dangerous See these people I ride with (I ride or die for life)",
+      "valence": 2.57,
+      "arousal": 3.61,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Ayy, I'm not to be played with (I ride or die for mine) Because it could get dangerous See these people I ride with (I ride or die for life) This moment, we own it",
+      "valence": 2.66,
+      "arousal": 3.6,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Because it could get dangerous See these people I ride with (I ride or die for life) This moment, we own it This moment, we own it",
+      "valence": 2.52,
+      "arousal": 3.5,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "See these people I ride with (I ride or die for life) This moment, we own it This moment, we own it I ride or die for mine",
+      "valence": 3.07,
+      "arousal": 3.47,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "This moment, we own it This moment, we own it I ride or die for mine I'm ride or die material",
+      "valence": 3.21,
+      "arousal": 3.55,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "This moment, we own it I ride or die for mine I'm ride or die material One life to live, so here we go",
+      "valence": 3.01,
+      "arousal": 3.38,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "I ride or die for mine I'm ride or die material One life to live, so here we go This moment, we own it",
+      "valence": 3.12,
+      "arousal": 3.34,
+      "dominance": 3.37
+    }
+  ]
+}

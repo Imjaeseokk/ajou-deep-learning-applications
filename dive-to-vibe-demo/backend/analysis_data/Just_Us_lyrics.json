@@ -1,0 +1,500 @@
+{
+  "artist": "DJ Khaled Featuring SZA",
+  "overall_vad": {
+    "valence": 2.87,
+    "arousal": 3.34,
+    "dominance": 3.15
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "We The Best Music Another one DJ Khaled Back against the wall, middle fingers in the air",
+      "valence": 3.33,
+      "arousal": 3.27,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Another one DJ Khaled Back against the wall, middle fingers in the air Busting through the crowd, they gon' feel me now",
+      "valence": 3.11,
+      "arousal": 3.52,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "DJ Khaled Back against the wall, middle fingers in the air Busting through the crowd, they gon' feel me now Straight shooter from the hip, yeah, we heavy in here",
+      "valence": 3.02,
+      "arousal": 3.49,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Back against the wall, middle fingers in the air Busting through the crowd, they gon' feel me now Straight shooter from the hip, yeah, we heavy in here Tell me get 'em, then I got 'em (get 'em)",
+      "valence": 2.95,
+      "arousal": 3.62,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Busting through the crowd, they gon' feel me now Straight shooter from the hip, yeah, we heavy in here Tell me get 'em, then I got 'em (get 'em) 99 problems, but you ain't one",
+      "valence": 2.77,
+      "arousal": 3.52,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Straight shooter from the hip, yeah, we heavy in here Tell me get 'em, then I got 'em (get 'em) 99 problems, but you ain't one Been so high lately, I don't care who's goin' down",
+      "valence": 2.66,
+      "arousal": 3.31,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Tell me get 'em, then I got 'em (get 'em) 99 problems, but you ain't one Been so high lately, I don't care who's goin' down You could see it in my eyes, he be hitting it right",
+      "valence": 2.53,
+      "arousal": 3.39,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "99 problems, but you ain't one Been so high lately, I don't care who's goin' down You could see it in my eyes, he be hitting it right Got me wishing that he wasn't, oh no",
+      "valence": 2.57,
+      "arousal": 3.38,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Been so high lately, I don't care who's goin' down You could see it in my eyes, he be hitting it right Got me wishing that he wasn't, oh no And I need it all night",
+      "valence": 2.61,
+      "arousal": 3.55,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "You could see it in my eyes, he be hitting it right Got me wishing that he wasn't, oh no And I need it all night Real love, show me what it feels like?",
+      "valence": 3.14,
+      "arousal": 3.86,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Got me wishing that he wasn't, oh no And I need it all night Real love, show me what it feels like? Fuck it, I let you pull up on me broad day light",
+      "valence": 2.74,
+      "arousal": 4.08,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "And I need it all night Real love, show me what it feels like? Fuck it, I let you pull up on me broad day light Shots over here, fuck the other side",
+      "valence": 2.8,
+      "arousal": 4.19,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Real love, show me what it feels like? Fuck it, I let you pull up on me broad day light Shots over here, fuck the other side We don't gotta lay low, we grown",
+      "valence": 2.72,
+      "arousal": 4.2,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Fuck it, I let you pull up on me broad day light Shots over here, fuck the other side We don't gotta lay low, we grown A field trip and I don't need no chaperone",
+      "valence": 2.24,
+      "arousal": 4.08,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Shots over here, fuck the other side We don't gotta lay low, we grown A field trip and I don't need no chaperone I'm tryna get ghost",
+      "valence": 2.11,
+      "arousal": 3.84,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "We don't gotta lay low, we grown A field trip and I don't need no chaperone I'm tryna get ghost Oh, oh (another one)",
+      "valence": 2.68,
+      "arousal": 3.5,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "A field trip and I don't need no chaperone I'm tryna get ghost Oh, oh (another one) It's just us against the world",
+      "valence": 2.62,
+      "arousal": 3.36,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I'm tryna get ghost Oh, oh (another one) It's just us against the world In this life of sin",
+      "valence": 2.63,
+      "arousal": 3.27,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Oh, oh (another one) It's just us against the world In this life of sin Ain't nobody gonna take us out",
+      "valence": 2.64,
+      "arousal": 3.18,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "It's just us against the world In this life of sin Ain't nobody gonna take us out It's always us, never them",
+      "valence": 2.71,
+      "arousal": 3.1,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "In this life of sin Ain't nobody gonna take us out It's always us, never them It's just us against the world",
+      "valence": 2.58,
+      "arousal": 3.13,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Ain't nobody gonna take us out It's always us, never them It's just us against the world When the smoke clears",
+      "valence": 2.89,
+      "arousal": 3.16,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "It's always us, never them It's just us against the world When the smoke clears All we got is all we got",
+      "valence": 2.91,
+      "arousal": 3.13,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "It's just us against the world When the smoke clears All we got is all we got It's always us, never them",
+      "valence": 2.86,
+      "arousal": 3.21,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "When the smoke clears All we got is all we got It's always us, never them It's lovely at the top, private destination",
+      "valence": 3.26,
+      "arousal": 3.22,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "All we got is all we got It's always us, never them It's lovely at the top, private destination Sippin' on the rocks, only way with us",
+      "valence": 3.39,
+      "arousal": 3.17,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "It's always us, never them It's lovely at the top, private destination Sippin' on the rocks, only way with us This kinda love dangerous when there's nothing else to lose",
+      "valence": 3.47,
+      "arousal": 3.23,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "It's lovely at the top, private destination Sippin' on the rocks, only way with us This kinda love dangerous when there's nothing else to lose So don't make me wild out (let's ride)",
+      "valence": 3.35,
+      "arousal": 3.38,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Sippin' on the rocks, only way with us This kinda love dangerous when there's nothing else to lose So don't make me wild out (let's ride) Got 99 problems, what's one more?",
+      "valence": 3.02,
+      "arousal": 3.31,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "This kinda love dangerous when there's nothing else to lose So don't make me wild out (let's ride) Got 99 problems, what's one more? 50 feet get you touched at your front door",
+      "valence": 2.9,
+      "arousal": 3.47,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "So don't make me wild out (let's ride) Got 99 problems, what's one more? 50 feet get you touched at your front door Leaving fast and we spinning slow",
+      "valence": 2.88,
+      "arousal": 3.36,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Got 99 problems, what's one more? 50 feet get you touched at your front door Leaving fast and we spinning slow Side eyes let me know that we visible",
+      "valence": 2.74,
+      "arousal": 3.26,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "50 feet get you touched at your front door Leaving fast and we spinning slow Side eyes let me know that we visible And I need it right now (yeah)",
+      "valence": 3.02,
+      "arousal": 3.48,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Leaving fast and we spinning slow Side eyes let me know that we visible And I need it right now (yeah) Ten toes down, show me what it's all about",
+      "valence": 2.94,
+      "arousal": 3.52,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Side eyes let me know that we visible And I need it right now (yeah) Ten toes down, show me what it's all about Thuggin', we only duckin' when the boys come out",
+      "valence": 2.88,
+      "arousal": 3.39,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "And I need it right now (yeah) Ten toes down, show me what it's all about Thuggin', we only duckin' when the boys come out It's us over them, fuck the other side",
+      "valence": 2.52,
+      "arousal": 3.76,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Ten toes down, show me what it's all about Thuggin', we only duckin' when the boys come out It's us over them, fuck the other side We gon' turn the lights off, we hard",
+      "valence": 2.4,
+      "arousal": 3.55,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Thuggin', we only duckin' when the boys come out It's us over them, fuck the other side We gon' turn the lights off, we hard What we doin', don't nobody gotta know",
+      "valence": 2.32,
+      "arousal": 3.5,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "It's us over them, fuck the other side We gon' turn the lights off, we hard What we doin', don't nobody gotta know I ain't tryna get ghost, oh yes",
+      "valence": 2.39,
+      "arousal": 3.75,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "We gon' turn the lights off, we hard What we doin', don't nobody gotta know I ain't tryna get ghost, oh yes Oh, oh",
+      "valence": 2.73,
+      "arousal": 3.36,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "What we doin', don't nobody gotta know I ain't tryna get ghost, oh yes Oh, oh It's just us against the world",
+      "valence": 2.61,
+      "arousal": 3.33,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "I ain't tryna get ghost, oh yes Oh, oh It's just us against the world In this life of sin",
+      "valence": 2.66,
+      "arousal": 3.06,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Oh, oh It's just us against the world In this life of sin Ain't nobody gonna take us out",
+      "valence": 2.55,
+      "arousal": 3.17,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "It's just us against the world In this life of sin Ain't nobody gonna take us out It's always us, never them",
+      "valence": 2.71,
+      "arousal": 3.1,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "In this life of sin Ain't nobody gonna take us out It's always us, never them It's just us against the world",
+      "valence": 2.58,
+      "arousal": 3.13,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Ain't nobody gonna take us out It's always us, never them It's just us against the world When the smoke clears",
+      "valence": 2.89,
+      "arousal": 3.16,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "It's always us, never them It's just us against the world When the smoke clears All we got is all we got",
+      "valence": 2.91,
+      "arousal": 3.13,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "It's just us against the world When the smoke clears All we got is all we got It's always us, never them",
+      "valence": 2.86,
+      "arousal": 3.21,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "When the smoke clears All we got is all we got It's always us, never them This how an angel sounds (no, no, do-do)",
+      "valence": 2.84,
+      "arousal": 3.12,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "All we got is all we got It's always us, never them This how an angel sounds (no, no, do-do) It's just, uh, it's just us, it's just us",
+      "valence": 2.93,
+      "arousal": 3.12,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "It's always us, never them This how an angel sounds (no, no, do-do) It's just, uh, it's just us, it's just us It's just us",
+      "valence": 3.0,
+      "arousal": 3.04,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "This how an angel sounds (no, no, do-do) It's just, uh, it's just us, it's just us It's just us It's always us, it's always us",
+      "valence": 3.02,
+      "arousal": 3.05,
+      "dominance": 2.77
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "It's just, uh, it's just us, it's just us It's just us It's always us, it's always us It's only us",
+      "valence": 2.91,
+      "arousal": 2.95,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "It's just us It's always us, it's always us It's only us It's just us, it's just us, it's just us",
+      "valence": 3.1,
+      "arousal": 2.91,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "It's always us, it's always us It's only us It's just us, it's just us, it's just us It's always, it's always us, it's always us",
+      "valence": 3.12,
+      "arousal": 2.94,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "It's only us It's just us, it's just us, it's just us It's always, it's always us, it's always us It's just us against the world",
+      "valence": 2.97,
+      "arousal": 3.12,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "It's just us, it's just us, it's just us It's always, it's always us, it's always us It's just us against the world In this life of sin",
+      "valence": 2.74,
+      "arousal": 3.13,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "It's always, it's always us, it's always us It's just us against the world In this life of sin Ain't nobody gonna take us out",
+      "valence": 2.71,
+      "arousal": 3.16,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "It's just us against the world In this life of sin Ain't nobody gonna take us out It's always us, never them (yeah, yeah)",
+      "valence": 2.71,
+      "arousal": 3.13,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "In this life of sin Ain't nobody gonna take us out It's always us, never them (yeah, yeah) It's just us against the world",
+      "valence": 2.6,
+      "arousal": 3.14,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Ain't nobody gonna take us out It's always us, never them (yeah, yeah) It's just us against the world When the smoke clears",
+      "valence": 2.89,
+      "arousal": 3.18,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "It's always us, never them (yeah, yeah) It's just us against the world When the smoke clears All we got is all we got",
+      "valence": 2.93,
+      "arousal": 3.14,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "It's just us against the world When the smoke clears All we got is all we got It's always us, never them",
+      "valence": 2.86,
+      "arousal": 3.21,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "When the smoke clears All we got is all we got It's always us, never them You're all that I need, ooh, yeah",
+      "valence": 3.15,
+      "arousal": 3.31,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "All we got is all we got It's always us, never them You're all that I need, ooh, yeah It's just, uh, it's just us, it's just us",
+      "valence": 3.21,
+      "arousal": 3.27,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "It's always us, never them You're all that I need, ooh, yeah It's just, uh, it's just us, it's just us We The Best Music",
+      "valence": 3.41,
+      "arousal": 3.31,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "You're all that I need, ooh, yeah It's just, uh, it's just us, it's just us We The Best Music It's always, it's always us, it's always",
+      "valence": 3.62,
+      "arousal": 3.42,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "It's just, uh, it's just us, it's just us We The Best Music It's always, it's always us, it's always It's just us, it's just us, it's just us",
+      "valence": 3.37,
+      "arousal": 3.21,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "We The Best Music It's always, it's always us, it's always It's just us, it's just us, it's just us Another one",
+      "valence": 3.55,
+      "arousal": 3.33,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "It's always, it's always us, it's always It's just us, it's just us, it's just us Another one It's always, it's always us, it's always",
+      "valence": 3.16,
+      "arousal": 3.03,
+      "dominance": 3.15
+    }
+  ]
+}

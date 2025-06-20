@@ -1,0 +1,360 @@
+{
+  "artist": "Jordan Davis",
+  "overall_vad": {
+    "valence": 2.71,
+    "arousal": 3.29,
+    "dominance": 3.08
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I had one saying we were done In a Baton Rouge college bar It kinda came out of nowhere Man, I took that one pretty hard",
+      "valence": 2.93,
+      "arousal": 3.5,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "In a Baton Rouge college bar It kinda came out of nowhere Man, I took that one pretty hard And I had another one in another town",
+      "valence": 2.98,
+      "arousal": 3.43,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "It kinda came out of nowhere Man, I took that one pretty hard And I had another one in another town And I spent a whole lot of nights missing her",
+      "valence": 2.61,
+      "arousal": 3.48,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Man, I took that one pretty hard And I had another one in another town And I spent a whole lot of nights missing her 'Til it all went black, she stopped texting back",
+      "valence": 2.61,
+      "arousal": 3.5,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "And I had another one in another town And I spent a whole lot of nights missing her 'Til it all went black, she stopped texting back And I finally got the picture",
+      "valence": 2.8,
+      "arousal": 3.26,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "And I spent a whole lot of nights missing her 'Til it all went black, she stopped texting back And I finally got the picture Here's to the almost, so close",
+      "valence": 3.12,
+      "arousal": 3.45,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "'Til it all went black, she stopped texting back And I finally got the picture Here's to the almost, so close It's over out of the blues",
+      "valence": 3.03,
+      "arousal": 3.42,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "And I finally got the picture Here's to the almost, so close It's over out of the blues Here's to the hey I think we need to talk",
+      "valence": 3.32,
+      "arousal": 3.38,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Here's to the almost, so close It's over out of the blues Here's to the hey I think we need to talk And the it ain't me it's you's",
+      "valence": 2.73,
+      "arousal": 3.26,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "It's over out of the blues Here's to the hey I think we need to talk And the it ain't me it's you's And here's to the tears and beers and wasted years",
+      "valence": 2.44,
+      "arousal": 3.22,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Here's to the hey I think we need to talk And the it ain't me it's you's And here's to the tears and beers and wasted years On the weeds that looked like daisies",
+      "valence": 2.41,
+      "arousal": 3.18,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "And the it ain't me it's you's And here's to the tears and beers and wasted years On the weeds that looked like daisies I wouldn't be sittin' here next to you",
+      "valence": 2.34,
+      "arousal": 3.25,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "And here's to the tears and beers and wasted years On the weeds that looked like daisies I wouldn't be sittin' here next to you If it weren't for the almost maybes",
+      "valence": 2.47,
+      "arousal": 3.16,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "On the weeds that looked like daisies I wouldn't be sittin' here next to you If it weren't for the almost maybes Here's to the one that my family thought",
+      "valence": 2.83,
+      "arousal": 2.97,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I wouldn't be sittin' here next to you If it weren't for the almost maybes Here's to the one that my family thought Was gonna make me drop to one knee",
+      "valence": 2.56,
+      "arousal": 3.35,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "If it weren't for the almost maybes Here's to the one that my family thought Was gonna make me drop to one knee And I tried like hell, but I couldn't help",
+      "valence": 2.43,
+      "arousal": 3.43,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Here's to the one that my family thought Was gonna make me drop to one knee And I tried like hell, but I couldn't help My mama loved her more than me",
+      "valence": 2.93,
+      "arousal": 3.47,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Was gonna make me drop to one knee And I tried like hell, but I couldn't help My mama loved her more than me And to all those July crushes",
+      "valence": 3.19,
+      "arousal": 3.73,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "And I tried like hell, but I couldn't help My mama loved her more than me And to all those July crushes Turning into September leavin's",
+      "valence": 3.19,
+      "arousal": 3.47,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "My mama loved her more than me And to all those July crushes Turning into September leavin's Goodbyes that didn't feel good back then",
+      "valence": 3.16,
+      "arousal": 3.36,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "And to all those July crushes Turning into September leavin's Goodbyes that didn't feel good back then It happened for a real good reason",
+      "valence": 2.79,
+      "arousal": 3.14,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Turning into September leavin's Goodbyes that didn't feel good back then It happened for a real good reason Here's to the almost, so close",
+      "valence": 3.04,
+      "arousal": 3.12,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Goodbyes that didn't feel good back then It happened for a real good reason Here's to the almost, so close It's over out of the blues",
+      "valence": 2.96,
+      "arousal": 3.18,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "It happened for a real good reason Here's to the almost, so close It's over out of the blues Here's to the hey I think we need to talk",
+      "valence": 2.96,
+      "arousal": 3.36,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Here's to the almost, so close It's over out of the blues Here's to the hey I think we need to talk And the it ain't me it's you's",
+      "valence": 2.73,
+      "arousal": 3.26,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "It's over out of the blues Here's to the hey I think we need to talk And the it ain't me it's you's And here's to the tears and beers and wasted years",
+      "valence": 2.44,
+      "arousal": 3.22,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Here's to the hey I think we need to talk And the it ain't me it's you's And here's to the tears and beers and wasted years On the weeds that looked like daisies",
+      "valence": 2.41,
+      "arousal": 3.18,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "And the it ain't me it's you's And here's to the tears and beers and wasted years On the weeds that looked like daisies I wouldn't be sittin' here next to you",
+      "valence": 2.34,
+      "arousal": 3.25,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "And here's to the tears and beers and wasted years On the weeds that looked like daisies I wouldn't be sittin' here next to you If it weren't for the almost maybes",
+      "valence": 2.47,
+      "arousal": 3.16,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "On the weeds that looked like daisies I wouldn't be sittin' here next to you If it weren't for the almost maybes If not for the almost maybes (yeah the almost maybes)",
+      "valence": 2.79,
+      "arousal": 3.17,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I wouldn't be sittin' here next to you If it weren't for the almost maybes If not for the almost maybes (yeah the almost maybes) Wouldn't be no all alone's",
+      "valence": 2.78,
+      "arousal": 3.16,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "If it weren't for the almost maybes If not for the almost maybes (yeah the almost maybes) Wouldn't be no all alone's Wouldn't be no sad songs",
+      "valence": 2.67,
+      "arousal": 3.15,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "If not for the almost maybes (yeah the almost maybes) Wouldn't be no all alone's Wouldn't be no sad songs Wouldn't be no had enough, pick yourself up and get to moving on's",
+      "valence": 2.8,
+      "arousal": 3.23,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Wouldn't be no all alone's Wouldn't be no sad songs Wouldn't be no had enough, pick yourself up and get to moving on's From the didn't work outs",
+      "valence": 2.63,
+      "arousal": 3.18,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Wouldn't be no sad songs Wouldn't be no had enough, pick yourself up and get to moving on's From the didn't work outs The girls next door and the bat shit crazies",
+      "valence": 2.44,
+      "arousal": 3.3,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Wouldn't be no had enough, pick yourself up and get to moving on's From the didn't work outs The girls next door and the bat shit crazies There wouldn't be no you and me right now",
+      "valence": 2.45,
+      "arousal": 3.45,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "From the didn't work outs The girls next door and the bat shit crazies There wouldn't be no you and me right now If it weren't for the almost maybes",
+      "valence": 2.42,
+      "arousal": 3.35,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "The girls next door and the bat shit crazies There wouldn't be no you and me right now If it weren't for the almost maybes Here's to the almost, so close",
+      "valence": 2.64,
+      "arousal": 3.49,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "There wouldn't be no you and me right now If it weren't for the almost maybes Here's to the almost, so close It's over out of the blues",
+      "valence": 2.84,
+      "arousal": 3.17,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "If it weren't for the almost maybes Here's to the almost, so close It's over out of the blues Here's to the hey I think we need to talk",
+      "valence": 2.77,
+      "arousal": 3.24,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Here's to the almost, so close It's over out of the blues Here's to the hey I think we need to talk And the it ain't me it's you's",
+      "valence": 2.73,
+      "arousal": 3.26,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "It's over out of the blues Here's to the hey I think we need to talk And the it ain't me it's you's And here's to the tears and beers and wasted years",
+      "valence": 2.44,
+      "arousal": 3.22,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Here's to the hey I think we need to talk And the it ain't me it's you's And here's to the tears and beers and wasted years On the weeds that looked like daisies",
+      "valence": 2.41,
+      "arousal": 3.18,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "And the it ain't me it's you's And here's to the tears and beers and wasted years On the weeds that looked like daisies I wouldn't be sittin' here next to you",
+      "valence": 2.34,
+      "arousal": 3.25,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "And here's to the tears and beers and wasted years On the weeds that looked like daisies I wouldn't be sittin' here next to you If it weren't for the almost maybes",
+      "valence": 2.47,
+      "arousal": 3.16,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "On the weeds that looked like daisies I wouldn't be sittin' here next to you If it weren't for the almost maybes Not for the almost maybes (almost maybes)",
+      "valence": 2.74,
+      "arousal": 3.08,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I wouldn't be sittin' here next to you If it weren't for the almost maybes Not for the almost maybes (almost maybes) (Oh-oh, oh-oh)",
+      "valence": 2.65,
+      "arousal": 3.27,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "If it weren't for the almost maybes Not for the almost maybes (almost maybes) (Oh-oh, oh-oh) (Oh-oh, oh-oh)",
+      "valence": 2.72,
+      "arousal": 3.29,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Not for the almost maybes (almost maybes) (Oh-oh, oh-oh) (Oh-oh, oh-oh) No, it wouldn't be no you and me right now",
+      "valence": 2.67,
+      "arousal": 3.39,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "(Oh-oh, oh-oh) (Oh-oh, oh-oh) No, it wouldn't be no you and me right now If it weren't for the almost maybes",
+      "valence": 2.85,
+      "arousal": 3.29,
+      "dominance": 2.98
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "artist": "Billie Eilish & Khalid",
+  "overall_vad": {
+    "valence": 3.24,
+    "arousal": 3.47,
+    "dominance": 2.99
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Thought I found a way Thought I found a way out (found) But you never go away (never go away) So I guess I gotta stay now",
+      "valence": 3.25,
+      "arousal": 3.16,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Thought I found a way out (found) But you never go away (never go away) So I guess I gotta stay now Oh, I hope some day I'll make it out of here",
+      "valence": 3.09,
+      "arousal": 3.21,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "But you never go away (never go away) So I guess I gotta stay now Oh, I hope some day I'll make it out of here Even if it takes all night or a hundred years",
+      "valence": 2.96,
+      "arousal": 3.32,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "So I guess I gotta stay now Oh, I hope some day I'll make it out of here Even if it takes all night or a hundred years Need a place to hide, but I can't find one near",
+      "valence": 2.76,
+      "arousal": 3.36,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Oh, I hope some day I'll make it out of here Even if it takes all night or a hundred years Need a place to hide, but I can't find one near Wanna feel alive, outside I can't fight my fear",
+      "valence": 2.62,
+      "arousal": 3.56,
+      "dominance": 2.61
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Even if it takes all night or a hundred years Need a place to hide, but I can't find one near Wanna feel alive, outside I can't fight my fear Isn't it lovely, all alone",
+      "valence": 3.15,
+      "arousal": 3.37,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Need a place to hide, but I can't find one near Wanna feel alive, outside I can't fight my fear Isn't it lovely, all alone Heart made of glass, my mind of stone",
+      "valence": 3.12,
+      "arousal": 3.4,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Wanna feel alive, outside I can't fight my fear Isn't it lovely, all alone Heart made of glass, my mind of stone Tear me to pieces, skin to bone",
+      "valence": 3.28,
+      "arousal": 3.5,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Isn't it lovely, all alone Heart made of glass, my mind of stone Tear me to pieces, skin to bone Hello, welcome home",
+      "valence": 3.79,
+      "arousal": 3.48,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Heart made of glass, my mind of stone Tear me to pieces, skin to bone Hello, welcome home Walkin' out of town",
+      "valence": 3.26,
+      "arousal": 3.7,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Tear me to pieces, skin to bone Hello, welcome home Walkin' out of town Lookin' for a better place (lookin' for a better place)",
+      "valence": 3.39,
+      "arousal": 3.62,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Hello, welcome home Walkin' out of town Lookin' for a better place (lookin' for a better place) Something's on my mind (mind)",
+      "valence": 3.5,
+      "arousal": 3.31,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Walkin' out of town Lookin' for a better place (lookin' for a better place) Something's on my mind (mind) Always in my head space",
+      "valence": 2.88,
+      "arousal": 3.07,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Lookin' for a better place (lookin' for a better place) Something's on my mind (mind) Always in my head space But I know some day I'll make it out of here",
+      "valence": 3.18,
+      "arousal": 3.33,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Something's on my mind (mind) Always in my head space But I know some day I'll make it out of here Even if it takes all night or a hundred years",
+      "valence": 3.14,
+      "arousal": 3.39,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Always in my head space But I know some day I'll make it out of here Even if it takes all night or a hundred years Need a place to hide, but I can't find one near",
+      "valence": 2.91,
+      "arousal": 3.29,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "But I know some day I'll make it out of here Even if it takes all night or a hundred years Need a place to hide, but I can't find one near Wanna feel alive, outside I can't fight my fear",
+      "valence": 2.53,
+      "arousal": 3.51,
+      "dominance": 2.65
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Even if it takes all night or a hundred years Need a place to hide, but I can't find one near Wanna feel alive, outside I can't fight my fear Isn't it lovely, all alone",
+      "valence": 3.15,
+      "arousal": 3.37,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Need a place to hide, but I can't find one near Wanna feel alive, outside I can't fight my fear Isn't it lovely, all alone Heart made of glass, my mind of stone",
+      "valence": 3.12,
+      "arousal": 3.4,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Wanna feel alive, outside I can't fight my fear Isn't it lovely, all alone Heart made of glass, my mind of stone Tear me to pieces, skin to bone",
+      "valence": 3.28,
+      "arousal": 3.5,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Isn't it lovely, all alone Heart made of glass, my mind of stone Tear me to pieces, skin to bone Hello, welcome home",
+      "valence": 3.79,
+      "arousal": 3.48,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Heart made of glass, my mind of stone Tear me to pieces, skin to bone Hello, welcome home Whoa, yeah",
+      "valence": 3.41,
+      "arousal": 3.87,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Tear me to pieces, skin to bone Hello, welcome home Whoa, yeah Yeah, ah",
+      "valence": 3.59,
+      "arousal": 3.94,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Hello, welcome home Whoa, yeah Yeah, ah Whoa, whoa",
+      "valence": 3.92,
+      "arousal": 3.82,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Whoa, yeah Yeah, ah Whoa, whoa Hello, welcome home",
+      "valence": 3.93,
+      "arousal": 3.83,
+      "dominance": 3.09
+    }
+  ]
+}

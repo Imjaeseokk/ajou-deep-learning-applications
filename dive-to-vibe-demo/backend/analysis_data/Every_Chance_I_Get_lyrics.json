@@ -1,0 +1,605 @@
+{
+  "artist": "DJ Khaled Featuring Lil Baby & Lil Durk",
+  "overall_vad": {
+    "valence": 2.58,
+    "arousal": 3.63,
+    "dominance": 3.38
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Tay Keith, this too hard We The Best Music Tay Keith, fuck these niggas up Another one",
+      "valence": 2.22,
+      "arousal": 3.8,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "We The Best Music Tay Keith, fuck these niggas up Another one DJ Khaled",
+      "valence": 2.49,
+      "arousal": 3.72,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Tay Keith, fuck these niggas up Another one DJ Khaled Scratched a million off my checklist three years ago",
+      "valence": 2.3,
+      "arousal": 3.69,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Another one DJ Khaled Scratched a million off my checklist three years ago Add two zeros to the one, I'm in a different mode",
+      "valence": 3.13,
+      "arousal": 3.3,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "DJ Khaled Scratched a million off my checklist three years ago Add two zeros to the one, I'm in a different mode This my life, do what I want, I be with different hoes",
+      "valence": 3.15,
+      "arousal": 3.35,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Scratched a million off my checklist three years ago Add two zeros to the one, I'm in a different mode This my life, do what I want, I be with different hoes You know the pick and roll, I picked her up and sent her home",
+      "valence": 3.15,
+      "arousal": 3.44,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Add two zeros to the one, I'm in a different mode This my life, do what I want, I be with different hoes You know the pick and roll, I picked her up and sent her home I got rich off strong, we get 'em in and get 'em gone",
+      "valence": 3.22,
+      "arousal": 3.45,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "This my life, do what I want, I be with different hoes You know the pick and roll, I picked her up and sent her home I got rich off strong, we get 'em in and get 'em gone You know Trappy just got out, I ain't have to put him on",
+      "valence": 3.22,
+      "arousal": 3.39,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "You know the pick and roll, I picked her up and sent her home I got rich off strong, we get 'em in and get 'em gone You know Trappy just got out, I ain't have to put him on We the ones who got the numbers, who put the city on",
+      "valence": 3.16,
+      "arousal": 3.35,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I got rich off strong, we get 'em in and get 'em gone You know Trappy just got out, I ain't have to put him on We the ones who got the numbers, who put the city on It's the middle of the summer, I got a hoodie on",
+      "valence": 3.1,
+      "arousal": 3.4,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "You know Trappy just got out, I ain't have to put him on We the ones who got the numbers, who put the city on It's the middle of the summer, I got a hoodie on My demon time ain't nothing nice",
+      "valence": 2.47,
+      "arousal": 3.4,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "We the ones who got the numbers, who put the city on It's the middle of the summer, I got a hoodie on My demon time ain't nothing nice I try not to wear nothing twice",
+      "valence": 2.59,
+      "arousal": 3.33,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "It's the middle of the summer, I got a hoodie on My demon time ain't nothing nice I try not to wear nothing twice I came up off of shooting dice, yeah",
+      "valence": 2.67,
+      "arousal": 3.25,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "My demon time ain't nothing nice I try not to wear nothing twice I came up off of shooting dice, yeah My lil' brother ain't living right",
+      "valence": 2.09,
+      "arousal": 3.25,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I try not to wear nothing twice I came up off of shooting dice, yeah My lil' brother ain't living right My sis' and 'em doing aight",
+      "valence": 2.43,
+      "arousal": 3.21,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I came up off of shooting dice, yeah My lil' brother ain't living right My sis' and 'em doing aight My cuz and 'em still serving life, yeah",
+      "valence": 2.53,
+      "arousal": 3.34,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "My lil' brother ain't living right My sis' and 'em doing aight My cuz and 'em still serving life, yeah Seen a robber rob a deacon",
+      "valence": 2.18,
+      "arousal": 3.44,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "My sis' and 'em doing aight My cuz and 'em still serving life, yeah Seen a robber rob a deacon I seen a preacher get caught for cheating",
+      "valence": 2.56,
+      "arousal": 3.43,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "My cuz and 'em still serving life, yeah Seen a robber rob a deacon I seen a preacher get caught for cheating I'll break the bank for one of my people",
+      "valence": 2.36,
+      "arousal": 3.57,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Seen a robber rob a deacon I seen a preacher get caught for cheating I'll break the bank for one of my people I said, \"I'm the one, \" they didn't believe me",
+      "valence": 2.43,
+      "arousal": 3.61,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I seen a preacher get caught for cheating I'll break the bank for one of my people I said, \"I'm the one, \" they didn't believe me I show 'em the facts, then they all need me",
+      "valence": 2.56,
+      "arousal": 3.63,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I'll break the bank for one of my people I said, \"I'm the one, \" they didn't believe me I show 'em the facts, then they all need me I'ma get cake as long as I'm breathing",
+      "valence": 2.87,
+      "arousal": 3.58,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I said, \"I'm the one, \" they didn't believe me I show 'em the facts, then they all need me I'ma get cake as long as I'm breathing They making it hard, this shit really easy, yeah (yeah, yeah, yeah, yeah, yeah)",
+      "valence": 2.8,
+      "arousal": 3.58,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I show 'em the facts, then they all need me I'ma get cake as long as I'm breathing They making it hard, this shit really easy, yeah (yeah, yeah, yeah, yeah, yeah) I'ma turn up on a hater every chance that I get",
+      "valence": 2.49,
+      "arousal": 3.57,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I'ma get cake as long as I'm breathing They making it hard, this shit really easy, yeah (yeah, yeah, yeah, yeah, yeah) I'ma turn up on a hater every chance that I get I want the biggest watch that they got, don't care if that shit hurt my wrist",
+      "valence": 2.51,
+      "arousal": 3.72,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "They making it hard, this shit really easy, yeah (yeah, yeah, yeah, yeah, yeah) I'ma turn up on a hater every chance that I get I want the biggest watch that they got, don't care if that shit hurt my wrist All these hoes fuck on us all, I wish I would claim that bitch",
+      "valence": 2.12,
+      "arousal": 3.85,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I'ma turn up on a hater every chance that I get I want the biggest watch that they got, don't care if that shit hurt my wrist All these hoes fuck on us all, I wish I would claim that bitch They get hard when they get guns, we got a hood full of sticks",
+      "valence": 2.04,
+      "arousal": 3.8,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I want the biggest watch that they got, don't care if that shit hurt my wrist All these hoes fuck on us all, I wish I would claim that bitch They get hard when they get guns, we got a hood full of sticks Soon as they say we can't come, you know we'll run 'round that bitch",
+      "valence": 2.07,
+      "arousal": 3.87,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "All these hoes fuck on us all, I wish I would claim that bitch They get hard when they get guns, we got a hood full of sticks Soon as they say we can't come, you know we'll run 'round that bitch You can miss me with that shit, you know I live in the mix",
+      "valence": 1.97,
+      "arousal": 3.72,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "They get hard when they get guns, we got a hood full of sticks Soon as they say we can't come, you know we'll run 'round that bitch You can miss me with that shit, you know I live in the mix Money, cars, and clothes, and hoes",
+      "valence": 2.33,
+      "arousal": 3.72,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Soon as they say we can't come, you know we'll run 'round that bitch You can miss me with that shit, you know I live in the mix Money, cars, and clothes, and hoes You know I live in the mix, money, cars, and clothes, and hoes",
+      "valence": 2.34,
+      "arousal": 3.67,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "You can miss me with that shit, you know I live in the mix Money, cars, and clothes, and hoes You know I live in the mix, money, cars, and clothes, and hoes Yeah, she think I'm a regular rapper, I'm not",
+      "valence": 2.65,
+      "arousal": 3.49,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Money, cars, and clothes, and hoes You know I live in the mix, money, cars, and clothes, and hoes Yeah, she think I'm a regular rapper, I'm not One person come tell me, we fuck up your block",
+      "valence": 2.59,
+      "arousal": 3.57,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "You know I live in the mix, money, cars, and clothes, and hoes Yeah, she think I'm a regular rapper, I'm not One person come tell me, we fuck up your block Watch me run this shit to the tippity-top, yeah (keep going)",
+      "valence": 2.66,
+      "arousal": 3.75,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Yeah, she think I'm a regular rapper, I'm not One person come tell me, we fuck up your block Watch me run this shit to the tippity-top, yeah (keep going) Put my kids in Givenchy",
+      "valence": 2.54,
+      "arousal": 3.82,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "One person come tell me, we fuck up your block Watch me run this shit to the tippity-top, yeah (keep going) Put my kids in Givenchy She must think one plus one is three",
+      "valence": 2.23,
+      "arousal": 3.77,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Watch me run this shit to the tippity-top, yeah (keep going) Put my kids in Givenchy She must think one plus one is three I can't support you personally",
+      "valence": 2.36,
+      "arousal": 3.83,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Put my kids in Givenchy She must think one plus one is three I can't support you personally She don't got a mortgage, moved in with her niece",
+      "valence": 2.58,
+      "arousal": 3.52,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "She must think one plus one is three I can't support you personally She don't got a mortgage, moved in with her niece These niggas be capping, them cars be leased",
+      "valence": 2.52,
+      "arousal": 3.51,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "I can't support you personally She don't got a mortgage, moved in with her niece These niggas be capping, them cars be leased Youngest in charge, I speak for the streets",
+      "valence": 2.5,
+      "arousal": 3.58,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "She don't got a mortgage, moved in with her niece These niggas be capping, them cars be leased Youngest in charge, I speak for the streets I was nodding off, they woke up a beast",
+      "valence": 2.52,
+      "arousal": 3.37,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "These niggas be capping, them cars be leased Youngest in charge, I speak for the streets I was nodding off, they woke up a beast Struggle what made me, we used to have water for dinner, we didn't have nothing to eat",
+      "valence": 2.54,
+      "arousal": 3.33,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Youngest in charge, I speak for the streets I was nodding off, they woke up a beast Struggle what made me, we used to have water for dinner, we didn't have nothing to eat Soon as I get on his ass, they gon' look at me better, like",
+      "valence": 2.56,
+      "arousal": 3.35,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I was nodding off, they woke up a beast Struggle what made me, we used to have water for dinner, we didn't have nothing to eat Soon as I get on his ass, they gon' look at me better, like \"Damn, he was fucking with me, \" yeah (yeah, yeah, yeah, yeah, yeah)",
+      "valence": 2.15,
+      "arousal": 4.03,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Struggle what made me, we used to have water for dinner, we didn't have nothing to eat Soon as I get on his ass, they gon' look at me better, like \"Damn, he was fucking with me, \" yeah (yeah, yeah, yeah, yeah, yeah) I'ma turn up on a hater every chance that I get",
+      "valence": 2.23,
+      "arousal": 3.75,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Soon as I get on his ass, they gon' look at me better, like \"Damn, he was fucking with me, \" yeah (yeah, yeah, yeah, yeah, yeah) I'ma turn up on a hater every chance that I get I want the biggest watch that they got, don't care if that shit hurt my wrist",
+      "valence": 2.0,
+      "arousal": 4.0,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "\"Damn, he was fucking with me, \" yeah (yeah, yeah, yeah, yeah, yeah) I'ma turn up on a hater every chance that I get I want the biggest watch that they got, don't care if that shit hurt my wrist All these hoes fuck on us all, I wish I would claim that bitch",
+      "valence": 1.84,
+      "arousal": 4.12,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I'ma turn up on a hater every chance that I get I want the biggest watch that they got, don't care if that shit hurt my wrist All these hoes fuck on us all, I wish I would claim that bitch They get hard when they get guns, we got a hood full of sticks",
+      "valence": 2.04,
+      "arousal": 3.8,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I want the biggest watch that they got, don't care if that shit hurt my wrist All these hoes fuck on us all, I wish I would claim that bitch They get hard when they get guns, we got a hood full of sticks Soon as they say we can't come, you know we'll run 'round that bitch",
+      "valence": 2.07,
+      "arousal": 3.87,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "All these hoes fuck on us all, I wish I would claim that bitch They get hard when they get guns, we got a hood full of sticks Soon as they say we can't come, you know we'll run 'round that bitch You can miss me with that shit, you know I live in the mix",
+      "valence": 1.97,
+      "arousal": 3.72,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "They get hard when they get guns, we got a hood full of sticks Soon as they say we can't come, you know we'll run 'round that bitch You can miss me with that shit, you know I live in the mix Money, cars, and clothes, and hoes",
+      "valence": 2.33,
+      "arousal": 3.72,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Soon as they say we can't come, you know we'll run 'round that bitch You can miss me with that shit, you know I live in the mix Money, cars, and clothes, and hoes You know I live in the mix, money, cars, and clothes, and hoes",
+      "valence": 2.34,
+      "arousal": 3.67,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "You can miss me with that shit, you know I live in the mix Money, cars, and clothes, and hoes You know I live in the mix, money, cars, and clothes, and hoes I'm from the trenches",
+      "valence": 2.62,
+      "arousal": 3.48,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Money, cars, and clothes, and hoes You know I live in the mix, money, cars, and clothes, and hoes I'm from the trenches Niggas be tough on the 'net, but really be there for attention",
+      "valence": 3.04,
+      "arousal": 3.41,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "You know I live in the mix, money, cars, and clothes, and hoes I'm from the trenches Niggas be tough on the 'net, but really be there for attention Bitches be talking like they really rich",
+      "valence": 2.81,
+      "arousal": 3.44,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "I'm from the trenches Niggas be tough on the 'net, but really be there for attention Bitches be talking like they really rich But really be begging me under my pictures",
+      "valence": 2.71,
+      "arousal": 3.49,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Niggas be tough on the 'net, but really be there for attention Bitches be talking like they really rich But really be begging me under my pictures I'll give her 40-50, 000 cash to start up a business",
+      "valence": 2.83,
+      "arousal": 3.51,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Bitches be talking like they really rich But really be begging me under my pictures I'll give her 40-50, 000 cash to start up a business I'll spend that shit at the dentist",
+      "valence": 2.41,
+      "arousal": 3.66,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "But really be begging me under my pictures I'll give her 40-50, 000 cash to start up a business I'll spend that shit at the dentist I'd rather fuck her and pay up her rent for a year just to get out of her feelings",
+      "valence": 2.19,
+      "arousal": 3.85,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "I'll give her 40-50, 000 cash to start up a business I'll spend that shit at the dentist I'd rather fuck her and pay up her rent for a year just to get out of her feelings I'm in the Lambo' truck in my hood, nobody gon' tell me shit",
+      "valence": 2.16,
+      "arousal": 3.74,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "I'll spend that shit at the dentist I'd rather fuck her and pay up her rent for a year just to get out of her feelings I'm in the Lambo' truck in my hood, nobody gon' tell me shit Going to Cali', I pick up my weed for sure, nobody gon' mail me shit",
+      "valence": 2.11,
+      "arousal": 3.67,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "I'd rather fuck her and pay up her rent for a year just to get out of her feelings I'm in the Lambo' truck in my hood, nobody gon' tell me shit Going to Cali', I pick up my weed for sure, nobody gon' mail me shit Dice game, Craps and Cee-Lo, I need cash, don't sell me shit",
+      "valence": 2.09,
+      "arousal": 3.76,
+      "dominance": 3.81
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "I'm in the Lambo' truck in my hood, nobody gon' tell me shit Going to Cali', I pick up my weed for sure, nobody gon' mail me shit Dice game, Craps and Cee-Lo, I need cash, don't sell me shit Baby got his hood on smash, yeah, you can tell they really rich",
+      "valence": 2.68,
+      "arousal": 3.45,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Going to Cali', I pick up my weed for sure, nobody gon' mail me shit Dice game, Craps and Cee-Lo, I need cash, don't sell me shit Baby got his hood on smash, yeah, you can tell they really rich Drop the load, ain't no room right now, I took her to the O'",
+      "valence": 2.75,
+      "arousal": 3.45,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Dice game, Craps and Cee-Lo, I need cash, don't sell me shit Baby got his hood on smash, yeah, you can tell they really rich Drop the load, ain't no room right now, I took her to the O' Then I pulled up on the Lamb' 'cause she a fan of Boonie Moe",
+      "valence": 2.74,
+      "arousal": 3.44,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Baby got his hood on smash, yeah, you can tell they really rich Drop the load, ain't no room right now, I took her to the O' Then I pulled up on the Lamb' 'cause she a fan of Boonie Moe I got the city on lock, uh, fucking up all the opps",
+      "valence": 2.76,
+      "arousal": 3.69,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Drop the load, ain't no room right now, I took her to the O' Then I pulled up on the Lamb' 'cause she a fan of Boonie Moe I got the city on lock, uh, fucking up all the opps I be around with three million dollars in jewelry",
+      "valence": 2.71,
+      "arousal": 3.73,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Then I pulled up on the Lamb' 'cause she a fan of Boonie Moe I got the city on lock, uh, fucking up all the opps I be around with three million dollars in jewelry I'm standing on all the blocks",
+      "valence": 2.91,
+      "arousal": 3.87,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "I got the city on lock, uh, fucking up all the opps I be around with three million dollars in jewelry I'm standing on all the blocks This the anthem, mhm",
+      "valence": 2.68,
+      "arousal": 4.11,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "I be around with three million dollars in jewelry I'm standing on all the blocks This the anthem, mhm Dropping the six in the Fanta, mmm",
+      "valence": 3.33,
+      "arousal": 3.51,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "I'm standing on all the blocks This the anthem, mhm Dropping the six in the Fanta, mmm Black Rolls truck with the all-white seats remind me of sitting on Panda, mmm",
+      "valence": 3.2,
+      "arousal": 3.26,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "This the anthem, mhm Dropping the six in the Fanta, mmm Black Rolls truck with the all-white seats remind me of sitting on Panda, mmm I love my cousin, she was a dancer",
+      "valence": 3.69,
+      "arousal": 3.56,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Dropping the six in the Fanta, mmm Black Rolls truck with the all-white seats remind me of sitting on Panda, mmm I love my cousin, she was a dancer I love my brother, he was a scammer",
+      "valence": 3.82,
+      "arousal": 3.66,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Black Rolls truck with the all-white seats remind me of sitting on Panda, mmm I love my cousin, she was a dancer I love my brother, he was a scammer Sit on my lap 'cause I'm pulling her tracks",
+      "valence": 3.84,
+      "arousal": 3.7,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "I love my cousin, she was a dancer I love my brother, he was a scammer Sit on my lap 'cause I'm pulling her tracks And I fuck from the back 'cause she calling me handsome, yeah, yeah, yeah, yeah, yeah",
+      "valence": 3.76,
+      "arousal": 3.99,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "I love my brother, he was a scammer Sit on my lap 'cause I'm pulling her tracks And I fuck from the back 'cause she calling me handsome, yeah, yeah, yeah, yeah, yeah I'ma turn up on a hater every chance that I get",
+      "valence": 3.12,
+      "arousal": 4.0,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "Sit on my lap 'cause I'm pulling her tracks And I fuck from the back 'cause she calling me handsome, yeah, yeah, yeah, yeah, yeah I'ma turn up on a hater every chance that I get I want the biggest watch that they got, don't care if that shit hurt my wrist",
+      "valence": 2.77,
+      "arousal": 3.96,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "And I fuck from the back 'cause she calling me handsome, yeah, yeah, yeah, yeah, yeah I'ma turn up on a hater every chance that I get I want the biggest watch that they got, don't care if that shit hurt my wrist All these hoes fuck on us all, I wish I would claim that bitch",
+      "valence": 2.28,
+      "arousal": 4.05,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "I'ma turn up on a hater every chance that I get I want the biggest watch that they got, don't care if that shit hurt my wrist All these hoes fuck on us all, I wish I would claim that bitch They get hard when they get guns, we got a hood full of sticks",
+      "valence": 2.04,
+      "arousal": 3.8,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "I want the biggest watch that they got, don't care if that shit hurt my wrist All these hoes fuck on us all, I wish I would claim that bitch They get hard when they get guns, we got a hood full of sticks Soon as they say we can't come, you know we'll run 'round that bitch",
+      "valence": 2.07,
+      "arousal": 3.87,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "All these hoes fuck on us all, I wish I would claim that bitch They get hard when they get guns, we got a hood full of sticks Soon as they say we can't come, you know we'll run 'round that bitch You can miss me with that shit, you know I live in the mix",
+      "valence": 1.97,
+      "arousal": 3.72,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "They get hard when they get guns, we got a hood full of sticks Soon as they say we can't come, you know we'll run 'round that bitch You can miss me with that shit, you know I live in the mix Money, cars and clothes and hoes",
+      "valence": 2.34,
+      "arousal": 3.72,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "Soon as they say we can't come, you know we'll run 'round that bitch You can miss me with that shit, you know I live in the mix Money, cars and clothes and hoes You know I live in the mix, money, cars and clothes and hoes",
+      "valence": 2.32,
+      "arousal": 3.69,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "You can miss me with that shit, you know I live in the mix Money, cars and clothes and hoes You know I live in the mix, money, cars and clothes and hoes We The Best Music",
+      "valence": 2.85,
+      "arousal": 3.59,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "Money, cars and clothes and hoes You know I live in the mix, money, cars and clothes and hoes We The Best Music Another one",
+      "valence": 3.31,
+      "arousal": 3.36,
+      "dominance": 3.29
+    }
+  ]
+}

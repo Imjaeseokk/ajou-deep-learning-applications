@@ -1,0 +1,451 @@
+{
+  "artist": "Kirko Bangz",
+  "overall_vad": {
+    "valence": 2.76,
+    "arousal": 3.52,
+    "dominance": 3.42
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I done came down hol' up I done came down, hol' up Grip the grain, roll up And your girlfriend want a nigga like me",
+      "valence": 2.59,
+      "arousal": 3.45,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I done came down, hol' up Grip the grain, roll up And your girlfriend want a nigga like me 'Cause I ain't tryin' to control her",
+      "valence": 2.34,
+      "arousal": 3.34,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Grip the grain, roll up And your girlfriend want a nigga like me 'Cause I ain't tryin' to control her She call me when she want a change",
+      "valence": 2.51,
+      "arousal": 3.47,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "And your girlfriend want a nigga like me 'Cause I ain't tryin' to control her She call me when she want a change Black diamond, my pinky ring",
+      "valence": 2.5,
+      "arousal": 3.57,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "'Cause I ain't tryin' to control her She call me when she want a change Black diamond, my pinky ring And she know you weak and we ain't the same",
+      "valence": 2.38,
+      "arousal": 3.5,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "She call me when she want a change Black diamond, my pinky ring And she know you weak and we ain't the same You hit the scene, I make the scene",
+      "valence": 2.94,
+      "arousal": 3.47,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Black diamond, my pinky ring And she know you weak and we ain't the same You hit the scene, I make the scene I'm in her head like Maybelline",
+      "valence": 2.75,
+      "arousal": 3.41,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "And she know you weak and we ain't the same You hit the scene, I make the scene I'm in her head like Maybelline H-Town so I'm made for lean",
+      "valence": 2.81,
+      "arousal": 3.42,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "You hit the scene, I make the scene I'm in her head like Maybelline H-Town so I'm made for lean I'm in her soul, I make her scream",
+      "valence": 3.09,
+      "arousal": 3.82,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I'm in her head like Maybelline H-Town so I'm made for lean I'm in her soul, I make her scream I don't ride the toll, don't pay the change",
+      "valence": 2.8,
+      "arousal": 3.63,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "H-Town so I'm made for lean I'm in her soul, I make her scream I don't ride the toll, don't pay the change I'm EZ tag like Peter Pan",
+      "valence": 2.97,
+      "arousal": 3.56,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I'm in her soul, I make her scream I don't ride the toll, don't pay the change I'm EZ tag like Peter Pan She want a man, don't need a man",
+      "valence": 2.65,
+      "arousal": 3.69,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I don't ride the toll, don't pay the change I'm EZ tag like Peter Pan She want a man, don't need a man I'm flying down your boulevard",
+      "valence": 2.75,
+      "arousal": 3.39,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I'm EZ tag like Peter Pan She want a man, don't need a man I'm flying down your boulevard She cookin' dinner with your pans",
+      "valence": 3.13,
+      "arousal": 3.45,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "She want a man, don't need a man I'm flying down your boulevard She cookin' dinner with your pans Draped up, dripped out",
+      "valence": 3.0,
+      "arousal": 3.48,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I'm flying down your boulevard She cookin' dinner with your pans Draped up, dripped out Your bitch know what I'm taking 'bout",
+      "valence": 2.62,
+      "arousal": 3.62,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "She cookin' dinner with your pans Draped up, dripped out Your bitch know what I'm taking 'bout Pulls up, pull out we get it poppin' in the parking lot",
+      "valence": 2.43,
+      "arousal": 3.51,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Draped up, dripped out Your bitch know what I'm taking 'bout Pulls up, pull out we get it poppin' in the parking lot She like to do it with the lights on",
+      "valence": 2.63,
+      "arousal": 3.4,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Your bitch know what I'm taking 'bout Pulls up, pull out we get it poppin' in the parking lot She like to do it with the lights on Don't matter to me if it's dark or not",
+      "valence": 2.55,
+      "arousal": 3.39,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Pulls up, pull out we get it poppin' in the parking lot She like to do it with the lights on Don't matter to me if it's dark or not I'm G'd up, East up",
+      "valence": 2.98,
+      "arousal": 3.16,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "She like to do it with the lights on Don't matter to me if it's dark or not I'm G'd up, East up Fossil pants, I'm hard as rock",
+      "valence": 2.95,
+      "arousal": 3.28,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Don't matter to me if it's dark or not I'm G'd up, East up Fossil pants, I'm hard as rock Girl I know how much you really want somebody",
+      "valence": 2.9,
+      "arousal": 3.59,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I'm G'd up, East up Fossil pants, I'm hard as rock Girl I know how much you really want somebody Want somebody that don't really need you",
+      "valence": 3.0,
+      "arousal": 3.51,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Fossil pants, I'm hard as rock Girl I know how much you really want somebody Want somebody that don't really need you Girl I know how much you really want somebody",
+      "valence": 2.95,
+      "arousal": 3.47,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Girl I know how much you really want somebody Want somebody that don't really need you Girl I know how much you really want somebody Want somebody that ain't trying to keep",
+      "valence": 2.95,
+      "arousal": 3.3,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Want somebody that don't really need you Girl I know how much you really want somebody Want somebody that ain't trying to keep You heard what I said, that could put you to bed",
+      "valence": 2.81,
+      "arousal": 3.41,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Girl I know how much you really want somebody Want somebody that ain't trying to keep You heard what I said, that could put you to bed That ain't tryin' to love you baby, just fuck you instead",
+      "valence": 2.27,
+      "arousal": 3.79,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Want somebody that ain't trying to keep You heard what I said, that could put you to bed That ain't tryin' to love you baby, just fuck you instead And don't tell 'em nothing baby, you know that I'm comin' baby",
+      "valence": 2.38,
+      "arousal": 3.98,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "You heard what I said, that could put you to bed That ain't tryin' to love you baby, just fuck you instead And don't tell 'em nothing baby, you know that I'm comin' baby Just hit up my phone whenever you need you some company",
+      "valence": 2.32,
+      "arousal": 3.99,
+      "dominance": 3.8
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "That ain't tryin' to love you baby, just fuck you instead And don't tell 'em nothing baby, you know that I'm comin' baby Just hit up my phone whenever you need you some company Got this drank in my cup,",
+      "valence": 2.38,
+      "arousal": 3.95,
+      "dominance": 3.8
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "And don't tell 'em nothing baby, you know that I'm comin' baby Just hit up my phone whenever you need you some company Got this drank in my cup, oh yeah, I got this drank in my cup",
+      "valence": 3.17,
+      "arousal": 3.55,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Just hit up my phone whenever you need you some company Got this drank in my cup, oh yeah, I got this drank in my cup I got this drank in my cup, cup, cup",
+      "valence": 3.21,
+      "arousal": 3.28,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Got this drank in my cup, oh yeah, I got this drank in my cup I got this drank in my cup, cup, cup I done came down, came up, slow pitch, change up",
+      "valence": 3.15,
+      "arousal": 3.18,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "oh yeah, I got this drank in my cup I got this drank in my cup, cup, cup I done came down, came up, slow pitch, change up Same hood, same style, same drink, same cup",
+      "valence": 3.08,
+      "arousal": 3.18,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I got this drank in my cup, cup, cup I done came down, came up, slow pitch, change up Same hood, same style, same drink, same cup She call me when she wanna fuck",
+      "valence": 2.7,
+      "arousal": 3.68,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I done came down, came up, slow pitch, change up Same hood, same style, same drink, same cup She call me when she wanna fuck I never call, she knows what's up",
+      "valence": 2.54,
+      "arousal": 3.6,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Same hood, same style, same drink, same cup She call me when she wanna fuck I never call, she knows what's up Same page, same book, different song, same hook",
+      "valence": 2.76,
+      "arousal": 3.71,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "She call me when she wanna fuck I never call, she knows what's up Same page, same book, different song, same hook Every time her nigga trippin', she on the phone with the same crook",
+      "valence": 2.6,
+      "arousal": 3.69,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I never call, she knows what's up Same page, same book, different song, same hook Every time her nigga trippin', she on the phone with the same crook And every time I pull up, she hit me with that same look",
+      "valence": 2.69,
+      "arousal": 3.41,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Same page, same book, different song, same hook Every time her nigga trippin', she on the phone with the same crook And every time I pull up, she hit me with that same look Lips bitin', hips right she left her man for that get right",
+      "valence": 2.87,
+      "arousal": 3.46,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Every time her nigga trippin', she on the phone with the same crook And every time I pull up, she hit me with that same look Lips bitin', hips right she left her man for that get right I'm in the middle, like midnight",
+      "valence": 2.71,
+      "arousal": 3.49,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "And every time I pull up, she hit me with that same look Lips bitin', hips right she left her man for that get right I'm in the middle, like midnight Only if you got that sit tight",
+      "valence": 2.73,
+      "arousal": 3.51,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Lips bitin', hips right she left her man for that get right I'm in the middle, like midnight Only if you got that sit tight Only if you got that wine fine",
+      "valence": 2.99,
+      "arousal": 3.31,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I'm in the middle, like midnight Only if you got that sit tight Only if you got that wine fine Only if you got that sip type",
+      "valence": 3.02,
+      "arousal": 3.0,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Only if you got that sit tight Only if you got that wine fine Only if you got that sip type Only if you got that mine bomb",
+      "valence": 2.9,
+      "arousal": 3.19,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Only if you got that wine fine Only if you got that sip type Only if you got that mine bomb Only if you got that zip tight",
+      "valence": 2.95,
+      "arousal": 3.11,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Only if you got that sip type Only if you got that mine bomb Only if you got that zip tight Eat that shit like wanton",
+      "valence": 2.6,
+      "arousal": 3.45,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Only if you got that mine bomb Only if you got that zip tight Eat that shit like wanton Jokin' baby, I'm pimp tight",
+      "valence": 2.62,
+      "arousal": 3.53,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Only if you got that zip tight Eat that shit like wanton Jokin' baby, I'm pimp tight I'm used to bein' that one and done",
+      "valence": 2.67,
+      "arousal": 3.56,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Eat that shit like wanton Jokin' baby, I'm pimp tight I'm used to bein' that one and done But girl you got that g-get right",
+      "valence": 2.52,
+      "arousal": 3.54,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Jokin' baby, I'm pimp tight I'm used to bein' that one and done But girl you got that g-get right Girl I know how much you really want somebody",
+      "valence": 3.12,
+      "arousal": 3.74,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "I'm used to bein' that one and done But girl you got that g-get right Girl I know how much you really want somebody Want somebody that don't really need you",
+      "valence": 2.93,
+      "arousal": 3.33,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "But girl you got that g-get right Girl I know how much you really want somebody Want somebody that don't really need you Girl I know how much you really want somebody",
+      "valence": 3.04,
+      "arousal": 3.42,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Girl I know how much you really want somebody Want somebody that don't really need you Girl I know how much you really want somebody Want somebody that ain't trying to keep",
+      "valence": 2.95,
+      "arousal": 3.3,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Want somebody that don't really need you Girl I know how much you really want somebody Want somebody that ain't trying to keep You heard what I said, that could put you to bed",
+      "valence": 2.81,
+      "arousal": 3.41,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Girl I know how much you really want somebody Want somebody that ain't trying to keep You heard what I said, that could put you to bed That ain't tryin' to love you baby, just fuck you instead",
+      "valence": 2.27,
+      "arousal": 3.79,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Want somebody that ain't trying to keep You heard what I said, that could put you to bed That ain't tryin' to love you baby, just fuck you instead And don't tell 'em nothing baby, you know that I'm comin' baby",
+      "valence": 2.38,
+      "arousal": 3.98,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "You heard what I said, that could put you to bed That ain't tryin' to love you baby, just fuck you instead And don't tell 'em nothing baby, you know that I'm comin' baby Just hit up my phone whenever you need you some company",
+      "valence": 2.32,
+      "arousal": 3.99,
+      "dominance": 3.8
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "That ain't tryin' to love you baby, just fuck you instead And don't tell 'em nothing baby, you know that I'm comin' baby Just hit up my phone whenever you need you some company Got this drank in my cup, H-town, oh yeah",
+      "valence": 2.42,
+      "arousal": 3.98,
+      "dominance": 3.8
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "And don't tell 'em nothing baby, you know that I'm comin' baby Just hit up my phone whenever you need you some company Got this drank in my cup, H-town, oh yeah I got this drank in my cup",
+      "valence": 3.14,
+      "arousal": 3.55,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Just hit up my phone whenever you need you some company Got this drank in my cup, H-town, oh yeah I got this drank in my cup I got this drank in my cup, cup, cup",
+      "valence": 3.17,
+      "arousal": 3.3,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Got this drank in my cup, H-town, oh yeah I got this drank in my cup I got this drank in my cup, cup, cup I done came down hol' up hol' up i say hol' up",
+      "valence": 2.98,
+      "arousal": 3.41,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "I got this drank in my cup I got this drank in my cup, cup, cup I done came down hol' up hol' up i say hol' up Hol' up I done came down hol' up hol' up hol' up fuck, yeah",
+      "valence": 2.39,
+      "arousal": 3.98,
+      "dominance": 3.39
+    }
+  ]
+}

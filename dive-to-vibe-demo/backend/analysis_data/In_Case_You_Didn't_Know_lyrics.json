@@ -1,0 +1,339 @@
+{
+  "artist": "Brett Young",
+  "overall_vad": {
+    "valence": 3.04,
+    "arousal": 3.39,
+    "dominance": 3.19
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I can't count the times I almost said what's on my mind But I didn't And just the other day",
+      "valence": 2.82,
+      "arousal": 3.42,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I almost said what's on my mind But I didn't And just the other day I wrote down all the things I'd say",
+      "valence": 2.89,
+      "arousal": 3.31,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "But I didn't And just the other day I wrote down all the things I'd say But I couldn't",
+      "valence": 2.62,
+      "arousal": 3.18,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "And just the other day I wrote down all the things I'd say But I couldn't I just couldn't",
+      "valence": 2.69,
+      "arousal": 3.31,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I wrote down all the things I'd say But I couldn't I just couldn't Baby, I know that you've been wonderin'",
+      "valence": 2.67,
+      "arousal": 3.45,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "But I couldn't I just couldn't Baby, I know that you've been wonderin' Mm, so here goes nothin'",
+      "valence": 2.52,
+      "arousal": 3.18,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I just couldn't Baby, I know that you've been wonderin' Mm, so here goes nothin' In case you didn't know",
+      "valence": 2.75,
+      "arousal": 3.12,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Baby, I know that you've been wonderin' Mm, so here goes nothin' In case you didn't know Baby, I'm crazy 'bout you",
+      "valence": 2.69,
+      "arousal": 3.36,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Mm, so here goes nothin' In case you didn't know Baby, I'm crazy 'bout you And I would be lyin' if I said",
+      "valence": 2.58,
+      "arousal": 3.33,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "In case you didn't know Baby, I'm crazy 'bout you And I would be lyin' if I said That I could live this life without you",
+      "valence": 2.68,
+      "arousal": 3.54,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Baby, I'm crazy 'bout you And I would be lyin' if I said That I could live this life without you Even though",
+      "valence": 2.76,
+      "arousal": 3.64,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "And I would be lyin' if I said That I could live this life without you Even though I don't tell you all the time",
+      "valence": 2.78,
+      "arousal": 3.23,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "That I could live this life without you Even though I don't tell you all the time You had my heart a long, long time ago",
+      "valence": 2.93,
+      "arousal": 3.27,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Even though I don't tell you all the time You had my heart a long, long time ago In case you didn't know",
+      "valence": 3.31,
+      "arousal": 3.32,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I don't tell you all the time You had my heart a long, long time ago In case you didn't know The way you look tonight",
+      "valence": 3.43,
+      "arousal": 3.49,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "You had my heart a long, long time ago In case you didn't know The way you look tonight That second glass of wine",
+      "valence": 3.57,
+      "arousal": 3.53,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "In case you didn't know The way you look tonight That second glass of wine That did it",
+      "valence": 3.15,
+      "arousal": 3.39,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "The way you look tonight That second glass of wine That did it Mm",
+      "valence": 3.17,
+      "arousal": 3.26,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "That second glass of wine That did it Mm There was somethin' 'bout that kiss",
+      "valence": 3.17,
+      "arousal": 3.36,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "That did it Mm There was somethin' 'bout that kiss Girl, it did me in",
+      "valence": 3.26,
+      "arousal": 3.57,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Mm There was somethin' 'bout that kiss Girl, it did me in Got me thinkin'",
+      "valence": 3.4,
+      "arousal": 3.55,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "There was somethin' 'bout that kiss Girl, it did me in Got me thinkin' I'm thinkin'",
+      "valence": 3.32,
+      "arousal": 3.49,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Girl, it did me in Got me thinkin' I'm thinkin' One of the things that I've been feelin'",
+      "valence": 3.38,
+      "arousal": 3.51,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Got me thinkin' I'm thinkin' One of the things that I've been feelin' Mm, it's time you hear 'em",
+      "valence": 3.18,
+      "arousal": 3.27,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I'm thinkin' One of the things that I've been feelin' Mm, it's time you hear 'em In case you didn't know",
+      "valence": 3.1,
+      "arousal": 3.19,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "One of the things that I've been feelin' Mm, it's time you hear 'em In case you didn't know Baby, I'm crazy 'bout you",
+      "valence": 2.87,
+      "arousal": 3.5,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Mm, it's time you hear 'em In case you didn't know Baby, I'm crazy 'bout you And I would be lyin' if I said",
+      "valence": 2.75,
+      "arousal": 3.44,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "In case you didn't know Baby, I'm crazy 'bout you And I would be lyin' if I said That I could live this life without you",
+      "valence": 2.68,
+      "arousal": 3.54,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Baby, I'm crazy 'bout you And I would be lyin' if I said That I could live this life without you Even though",
+      "valence": 2.76,
+      "arousal": 3.64,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "And I would be lyin' if I said That I could live this life without you Even though I don't tell you all the time",
+      "valence": 2.78,
+      "arousal": 3.23,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "That I could live this life without you Even though I don't tell you all the time You had my heart a long, long time ago",
+      "valence": 2.93,
+      "arousal": 3.27,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Even though I don't tell you all the time You had my heart a long, long time ago In case you didn't know",
+      "valence": 3.31,
+      "arousal": 3.32,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I don't tell you all the time You had my heart a long, long time ago In case you didn't know You got all of me",
+      "valence": 3.36,
+      "arousal": 3.45,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "You had my heart a long, long time ago In case you didn't know You got all of me I belong to you",
+      "valence": 3.37,
+      "arousal": 3.37,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "In case you didn't know You got all of me I belong to you Yeah, you're my everything",
+      "valence": 3.39,
+      "arousal": 3.5,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "You got all of me I belong to you Yeah, you're my everything In case you didn't know",
+      "valence": 3.48,
+      "arousal": 3.53,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I belong to you Yeah, you're my everything In case you didn't know I'm crazy 'bout you",
+      "valence": 3.43,
+      "arousal": 3.49,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Yeah, you're my everything In case you didn't know I'm crazy 'bout you I would be lyin' if I said",
+      "valence": 3.31,
+      "arousal": 3.52,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "In case you didn't know I'm crazy 'bout you I would be lyin' if I said That I could live this life without you",
+      "valence": 2.68,
+      "arousal": 3.42,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "I'm crazy 'bout you I would be lyin' if I said That I could live this life without you Even though",
+      "valence": 2.64,
+      "arousal": 3.55,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I would be lyin' if I said That I could live this life without you Even though I don't tell you all the time",
+      "valence": 2.79,
+      "arousal": 3.25,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "That I could live this life without you Even though I don't tell you all the time You had my heart a long, long time ago",
+      "valence": 2.93,
+      "arousal": 3.27,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Even though I don't tell you all the time You had my heart a long, long time ago Yeah, you had my heart a long, long time ago",
+      "valence": 3.49,
+      "arousal": 3.47,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I don't tell you all the time You had my heart a long, long time ago Yeah, you had my heart a long, long time ago Mm",
+      "valence": 3.61,
+      "arousal": 3.52,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "You had my heart a long, long time ago Yeah, you had my heart a long, long time ago Mm In case you didn't know",
+      "valence": 3.59,
+      "arousal": 3.53,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Yeah, you had my heart a long, long time ago Mm In case you didn't know No, no",
+      "valence": 3.26,
+      "arousal": 3.38,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Mm In case you didn't know No, no In case you didn't know",
+      "valence": 2.77,
+      "arousal": 3.04,
+      "dominance": 3.41
+    }
+  ]
+}

@@ -1,0 +1,591 @@
+{
+  "artist": "Tech N9Ne Featuring 2 Chainz & B.o.B",
+  "overall_vad": {
+    "valence": 2.74,
+    "arousal": 3.53,
+    "dominance": 3.33
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Saturday mornin', I ain't gotta work Last night's show sold a lot of merch Bad bitch in my bed so I ain't gotta jerk Forbes List caught me so it's hard to make a dollar hurt",
+      "valence": 2.5,
+      "arousal": 3.53,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Last night's show sold a lot of merch Bad bitch in my bed so I ain't gotta jerk Forbes List caught me so it's hard to make a dollar hurt All we need is good green and some Bou Lou",
+      "valence": 2.74,
+      "arousal": 3.57,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Bad bitch in my bed so I ain't gotta jerk Forbes List caught me so it's hard to make a dollar hurt All we need is good green and some Bou Lou Five to one so i'ts guaranteed you can do you",
+      "valence": 2.65,
+      "arousal": 3.34,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Forbes List caught me so it's hard to make a dollar hurt All we need is good green and some Bou Lou Five to one so i'ts guaranteed you can do you 'Zilla keep the heater just in case we have a boo-boo",
+      "valence": 3.08,
+      "arousal": 3.42,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "All we need is good green and some Bou Lou Five to one so i'ts guaranteed you can do you 'Zilla keep the heater just in case we have a boo-boo Kansas City natives and we all a little coo-coo",
+      "valence": 3.11,
+      "arousal": 3.45,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Five to one so i'ts guaranteed you can do you 'Zilla keep the heater just in case we have a boo-boo Kansas City natives and we all a little coo-coo This the type of shit to make the hood go crazy",
+      "valence": 2.71,
+      "arousal": 3.61,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "'Zilla keep the heater just in case we have a boo-boo Kansas City natives and we all a little coo-coo This the type of shit to make the hood go crazy On the interstate doin' 180",
+      "valence": 2.59,
+      "arousal": 3.47,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Kansas City natives and we all a little coo-coo This the type of shit to make the hood go crazy On the interstate doin' 180 She said, \"do it for me, baby\"",
+      "valence": 2.55,
+      "arousal": 3.45,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "This the type of shit to make the hood go crazy On the interstate doin' 180 She said, \"do it for me, baby\" Took a double shot and then we all went crazy",
+      "valence": 2.57,
+      "arousal": 3.59,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "On the interstate doin' 180 She said, \"do it for me, baby\" Took a double shot and then we all went crazy White girls go crazy",
+      "valence": 2.99,
+      "arousal": 3.59,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "She said, \"do it for me, baby\" Took a double shot and then we all went crazy White girls go crazy Black girls go crazy",
+      "valence": 2.95,
+      "arousal": 3.63,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Took a double shot and then we all went crazy White girls go crazy Black girls go crazy College girls go crazy",
+      "valence": 2.8,
+      "arousal": 3.6,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "White girls go crazy Black girls go crazy College girls go crazy This the type of shit to make the hood go crazy",
+      "valence": 2.45,
+      "arousal": 3.49,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Black girls go crazy College girls go crazy This the type of shit to make the hood go crazy So much liquor, I never spare that kitchen",
+      "valence": 2.41,
+      "arousal": 3.35,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "College girls go crazy This the type of shit to make the hood go crazy So much liquor, I never spare that kitchen Keep it so I usually have a pair that's kissin'",
+      "valence": 2.73,
+      "arousal": 3.27,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "This the type of shit to make the hood go crazy So much liquor, I never spare that kitchen Keep it so I usually have a pair that's kissin' And I'm lifted on purple hair, that's bitchin'",
+      "valence": 2.4,
+      "arousal": 3.59,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "So much liquor, I never spare that kitchen Keep it so I usually have a pair that's kissin' And I'm lifted on purple hair, that's bitchin' Now that's what I call a fuckin' air Technician",
+      "valence": 2.42,
+      "arousal": 3.65,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Keep it so I usually have a pair that's kissin' And I'm lifted on purple hair, that's bitchin' Now that's what I call a fuckin' air Technician Down there, they got the hair that's missin'",
+      "valence": 2.41,
+      "arousal": 3.57,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "And I'm lifted on purple hair, that's bitchin' Now that's what I call a fuckin' air Technician Down there, they got the hair that's missin' Keep it bare, I promise I'll never tear that kitten",
+      "valence": 2.23,
+      "arousal": 3.73,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Now that's what I call a fuckin' air Technician Down there, they got the hair that's missin' Keep it bare, I promise I'll never tear that kitten I am aware sex hittin' is the care when I share that stick and",
+      "valence": 2.49,
+      "arousal": 3.53,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Down there, they got the hair that's missin' Keep it bare, I promise I'll never tear that kitten I am aware sex hittin' is the care when I share that stick and So good I might impair that vision",
+      "valence": 2.66,
+      "arousal": 3.29,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Keep it bare, I promise I'll never tear that kitten I am aware sex hittin' is the care when I share that stick and So good I might impair that vision So I dip in, then dip off",
+      "valence": 2.88,
+      "arousal": 3.25,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I am aware sex hittin' is the care when I share that stick and So good I might impair that vision So I dip in, then dip off Look for another chick, then they pissed off",
+      "valence": 2.71,
+      "arousal": 3.24,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "So good I might impair that vision So I dip in, then dip off Look for another chick, then they pissed off Till I give them another spliff then they lift off",
+      "valence": 2.71,
+      "arousal": 3.35,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "So I dip in, then dip off Look for another chick, then they pissed off Till I give them another spliff then they lift off Party is the mission, I did cross",
+      "valence": 2.81,
+      "arousal": 3.43,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Look for another chick, then they pissed off Till I give them another spliff then they lift off Party is the mission, I did cross Three thick friends, we mixin' these licks when",
+      "valence": 2.92,
+      "arousal": 3.46,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Till I give them another spliff then they lift off Party is the mission, I did cross Three thick friends, we mixin' these licks when They big friend wanna lip off",
+      "valence": 3.15,
+      "arousal": 3.25,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Party is the mission, I did cross Three thick friends, we mixin' these licks when They big friend wanna lip off So I told her come and get lost, bitch",
+      "valence": 2.73,
+      "arousal": 3.54,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Three thick friends, we mixin' these licks when They big friend wanna lip off So I told her come and get lost, bitch This my place and it's way too turnt up to trip off shit",
+      "valence": 2.52,
+      "arousal": 3.57,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "They big friend wanna lip off So I told her come and get lost, bitch This my place and it's way too turnt up to trip off shit This the type of shit to make the hood go crazy",
+      "valence": 2.26,
+      "arousal": 3.67,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "So I told her come and get lost, bitch This my place and it's way too turnt up to trip off shit This the type of shit to make the hood go crazy On the interstate doin' 180",
+      "valence": 2.32,
+      "arousal": 3.67,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "This my place and it's way too turnt up to trip off shit This the type of shit to make the hood go crazy On the interstate doin' 180 She said, \"do it for me, baby\"",
+      "valence": 2.59,
+      "arousal": 3.64,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "This the type of shit to make the hood go crazy On the interstate doin' 180 She said, \"do it for me, baby\" Took a double shot and then we all went crazy",
+      "valence": 2.57,
+      "arousal": 3.59,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "On the interstate doin' 180 She said, \"do it for me, baby\" Took a double shot and then we all went crazy White girls go crazy",
+      "valence": 2.99,
+      "arousal": 3.59,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "She said, \"do it for me, baby\" Took a double shot and then we all went crazy White girls go crazy Black girls go crazy",
+      "valence": 2.95,
+      "arousal": 3.63,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Took a double shot and then we all went crazy White girls go crazy Black girls go crazy College girls go crazy",
+      "valence": 2.8,
+      "arousal": 3.6,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "White girls go crazy Black girls go crazy College girls go crazy This the type of shit to make the hood go crazy",
+      "valence": 2.45,
+      "arousal": 3.49,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Black girls go crazy College girls go crazy This the type of shit to make the hood go crazy Yeah, you my prototype",
+      "valence": 2.6,
+      "arousal": 3.53,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "College girls go crazy This the type of shit to make the hood go crazy Yeah, you my prototype My fourth foreign car was a Porsche photo white",
+      "valence": 2.78,
+      "arousal": 3.42,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "This the type of shit to make the hood go crazy Yeah, you my prototype My fourth foreign car was a Porsche photo white Cooler than a polar bear in a bowl of ice",
+      "valence": 2.72,
+      "arousal": 3.43,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Yeah, you my prototype My fourth foreign car was a Porsche photo white Cooler than a polar bear in a bowl of ice With a ring, married to the game, had 'em throwin' rice",
+      "valence": 3.19,
+      "arousal": 3.08,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "My fourth foreign car was a Porsche photo white Cooler than a polar bear in a bowl of ice With a ring, married to the game, had 'em throwin' rice Wait a minute, put my thing in her",
+      "valence": 3.14,
+      "arousal": 3.25,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Cooler than a polar bear in a bowl of ice With a ring, married to the game, had 'em throwin' rice Wait a minute, put my thing in her I'm trynna knock up, I'm trynna put a singer in her",
+      "valence": 3.13,
+      "arousal": 3.4,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "With a ring, married to the game, had 'em throwin' rice Wait a minute, put my thing in her I'm trynna knock up, I'm trynna put a singer in her So I can do a banger with her",
+      "valence": 3.27,
+      "arousal": 3.72,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Wait a minute, put my thing in her I'm trynna knock up, I'm trynna put a singer in her So I can do a banger with her I get brain for dinner",
+      "valence": 3.13,
+      "arousal": 3.61,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I'm trynna knock up, I'm trynna put a singer in her So I can do a banger with her I get brain for dinner I don't need to put tender for contender",
+      "valence": 3.08,
+      "arousal": 3.46,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "So I can do a banger with her I get brain for dinner I don't need to put tender for contender Thank God for strippers",
+      "valence": 3.38,
+      "arousal": 3.68,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I get brain for dinner I don't need to put tender for contender Thank God for strippers High top with zippers, hard as some nipples",
+      "valence": 3.3,
+      "arousal": 3.52,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I don't need to put tender for contender Thank God for strippers High top with zippers, hard as some nipples All the shit I do is straight off the temple",
+      "valence": 2.92,
+      "arousal": 3.49,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Thank God for strippers High top with zippers, hard as some nipples All the shit I do is straight off the temple Trynna squeeze it into my schedule is like a pimple",
+      "valence": 3.09,
+      "arousal": 3.62,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "High top with zippers, hard as some nipples All the shit I do is straight off the temple Trynna squeeze it into my schedule is like a pimple Tell that poodle, \"don't mess around with them pitbulls.\"",
+      "valence": 2.43,
+      "arousal": 3.52,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "All the shit I do is straight off the temple Trynna squeeze it into my schedule is like a pimple Tell that poodle, \"don't mess around with them pitbulls.\" This the type of shit to make the hood go crazy",
+      "valence": 2.31,
+      "arousal": 3.58,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Trynna squeeze it into my schedule is like a pimple Tell that poodle, \"don't mess around with them pitbulls.\" This the type of shit to make the hood go crazy On the interstate doin' 180",
+      "valence": 2.32,
+      "arousal": 3.57,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Tell that poodle, \"don't mess around with them pitbulls.\" This the type of shit to make the hood go crazy On the interstate doin' 180 She said, \"do it for me, baby\"",
+      "valence": 2.4,
+      "arousal": 3.66,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "This the type of shit to make the hood go crazy On the interstate doin' 180 She said, \"do it for me, baby\" Took a double shot and then we all went crazy",
+      "valence": 2.57,
+      "arousal": 3.59,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "On the interstate doin' 180 She said, \"do it for me, baby\" Took a double shot and then we all went crazy White girls go crazy",
+      "valence": 2.99,
+      "arousal": 3.59,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "She said, \"do it for me, baby\" Took a double shot and then we all went crazy White girls go crazy Black girls go crazy",
+      "valence": 2.95,
+      "arousal": 3.63,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Took a double shot and then we all went crazy White girls go crazy Black girls go crazy College girls go crazy",
+      "valence": 2.8,
+      "arousal": 3.6,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "White girls go crazy Black girls go crazy College girls go crazy This the type of shit to make the hood go crazy",
+      "valence": 2.45,
+      "arousal": 3.49,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Black girls go crazy College girls go crazy This the type of shit to make the hood go crazy This the endin' from the N9ne",
+      "valence": 2.36,
+      "arousal": 3.48,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "College girls go crazy This the type of shit to make the hood go crazy This the endin' from the N9ne Grindin' bitches from behind",
+      "valence": 2.25,
+      "arousal": 3.55,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "This the type of shit to make the hood go crazy This the endin' from the N9ne Grindin' bitches from behind If you way drunk off the 'yac",
+      "valence": 2.23,
+      "arousal": 3.59,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "This the endin' from the N9ne Grindin' bitches from behind If you way drunk off the 'yac Spit it up, spit it up, spit it up",
+      "valence": 2.28,
+      "arousal": 3.42,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Grindin' bitches from behind If you way drunk off the 'yac Spit it up, spit it up, spit it up This Kansas City, shit's ran gritty",
+      "valence": 2.17,
+      "arousal": 3.47,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "If you way drunk off the 'yac Spit it up, spit it up, spit it up This Kansas City, shit's ran gritty In the summer time, the chicks be damn pretty",
+      "valence": 2.81,
+      "arousal": 3.56,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Spit it up, spit it up, spit it up This Kansas City, shit's ran gritty In the summer time, the chicks be damn pretty Born in the projects, then to the Ville",
+      "valence": 2.91,
+      "arousal": 3.61,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "This Kansas City, shit's ran gritty In the summer time, the chicks be damn pretty Born in the projects, then to the Ville Then I did a deal with Travis and made mills",
+      "valence": 2.95,
+      "arousal": 3.35,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "In the summer time, the chicks be damn pretty Born in the projects, then to the Ville Then I did a deal with Travis and made mills This is celebration, this is elevation",
+      "valence": 3.46,
+      "arousal": 3.48,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Born in the projects, then to the Ville Then I did a deal with Travis and made mills This is celebration, this is elevation Me and my delegation got niggas hella hatin'",
+      "valence": 3.27,
+      "arousal": 3.41,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Then I did a deal with Travis and made mills This is celebration, this is elevation Me and my delegation got niggas hella hatin' This is Nnutthowze, Regime, Rogue Dog",
+      "valence": 3.22,
+      "arousal": 3.48,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "This is celebration, this is elevation Me and my delegation got niggas hella hatin' This is Nnutthowze, Regime, Rogue Dog And it's all Strange Music, winners can't lose it, unless",
+      "valence": 3.37,
+      "arousal": 3.52,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Me and my delegation got niggas hella hatin' This is Nnutthowze, Regime, Rogue Dog And it's all Strange Music, winners can't lose it, unless Errbody got they hands up like (Oooh!)",
+      "valence": 3.12,
+      "arousal": 3.57,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "This is Nnutthowze, Regime, Rogue Dog And it's all Strange Music, winners can't lose it, unless Errbody got they hands up like (Oooh!) See a bad bitch like (Wooah!)",
+      "valence": 3.05,
+      "arousal": 3.65,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "And it's all Strange Music, winners can't lose it, unless Errbody got they hands up like (Oooh!) See a bad bitch like (Wooah!) This whole damn city fuckin' go",
+      "valence": 2.72,
+      "arousal": 3.84,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Errbody got they hands up like (Oooh!) See a bad bitch like (Wooah!) This whole damn city fuckin' go But this is how the hood go crazy in the MO",
+      "valence": 2.35,
+      "arousal": 3.96,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "See a bad bitch like (Wooah!) This whole damn city fuckin' go But this is how the hood go crazy in the MO This the type of shit to make the hood go crazy",
+      "valence": 2.11,
+      "arousal": 3.84,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "This whole damn city fuckin' go But this is how the hood go crazy in the MO This the type of shit to make the hood go crazy On the interstate doin' 180",
+      "valence": 2.41,
+      "arousal": 3.48,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "But this is how the hood go crazy in the MO This the type of shit to make the hood go crazy On the interstate doin' 180 She said, \"do it for me, baby\"",
+      "valence": 2.66,
+      "arousal": 3.5,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "This the type of shit to make the hood go crazy On the interstate doin' 180 She said, \"do it for me, baby\" Took a double shot and then we all went crazy",
+      "valence": 2.57,
+      "arousal": 3.59,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "On the interstate doin' 180 She said, \"do it for me, baby\" Took a double shot and then we all went crazy White girls go crazy",
+      "valence": 2.99,
+      "arousal": 3.59,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "She said, \"do it for me, baby\" Took a double shot and then we all went crazy White girls go crazy Black girls go crazy",
+      "valence": 2.95,
+      "arousal": 3.63,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "Took a double shot and then we all went crazy White girls go crazy Black girls go crazy College girls go crazy",
+      "valence": 2.8,
+      "arousal": 3.6,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "White girls go crazy Black girls go crazy College girls go crazy This the type of shit to make the hood go crazy",
+      "valence": 2.45,
+      "arousal": 3.49,
+      "dominance": 3.0
+    }
+  ]
+}

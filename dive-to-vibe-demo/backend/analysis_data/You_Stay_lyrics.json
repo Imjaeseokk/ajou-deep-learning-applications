@@ -1,0 +1,633 @@
+{
+  "artist": "DJ Khaled Featuring Meek Mill, J Balvin, Lil Baby & Jeremih",
+  "overall_vad": {
+    "valence": 2.89,
+    "arousal": 3.44,
+    "dominance": 3.18
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Sabes bien que fue un engaÃ±o Lo que me hiciste fue un pecado AsÃ­ mismo me engaÃ±aste Y lloras hoy porque fallaste",
+      "valence": 2.99,
+      "arousal": 3.17,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Lo que me hiciste fue un pecado AsÃ­ mismo me engaÃ±aste Y lloras hoy porque fallaste CÃ³mo tratas de buscarme",
+      "valence": 2.97,
+      "arousal": 3.15,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "AsÃ­ mismo me engaÃ±aste Y lloras hoy porque fallaste CÃ³mo tratas de buscarme DespuÃ©s que tÃº me traicionaste",
+      "valence": 3.02,
+      "arousal": 3.21,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Y lloras hoy porque fallaste CÃ³mo tratas de buscarme DespuÃ©s que tÃº me traicionaste Ahora tengo que alejarme",
+      "valence": 3.01,
+      "arousal": 3.15,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "CÃ³mo tratas de buscarme DespuÃ©s que tÃº me traicionaste Ahora tengo que alejarme BusquÃ© la forma de olvidarte",
+      "valence": 3.09,
+      "arousal": 3.18,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "DespuÃ©s que tÃº me traicionaste Ahora tengo que alejarme BusquÃ© la forma de olvidarte (Ay caramba)",
+      "valence": 3.1,
+      "arousal": 3.11,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Ahora tengo que alejarme BusquÃ© la forma de olvidarte (Ay caramba) Ooh",
+      "valence": 3.09,
+      "arousal": 3.09,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "BusquÃ© la forma de olvidarte (Ay caramba) Ooh (SeÃ±orita, she is beautiful, no?)",
+      "valence": 3.43,
+      "arousal": 3.34,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "(Ay caramba) Ooh (SeÃ±orita, she is beautiful, no?) We The Best Music (Oh-nah-nah)",
+      "valence": 3.69,
+      "arousal": 3.45,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Ooh (SeÃ±orita, she is beautiful, no?) We The Best Music (Oh-nah-nah) Sabes bien que fue un engaÃ±o (Oh-nah-nah)",
+      "valence": 3.67,
+      "arousal": 3.49,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "(SeÃ±orita, she is beautiful, no?) We The Best Music (Oh-nah-nah) Sabes bien que fue un engaÃ±o (Oh-nah-nah) Lo que me hiciste fue un pecado (Another one)",
+      "valence": 3.55,
+      "arousal": 3.43,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "We The Best Music (Oh-nah-nah) Sabes bien que fue un engaÃ±o (Oh-nah-nah) Lo que me hiciste fue un pecado (Another one) AsÃ­ mismo me engaÃ±aste (DJ Khaled)",
+      "valence": 3.27,
+      "arousal": 3.24,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Sabes bien que fue un engaÃ±o (Oh-nah-nah) Lo que me hiciste fue un pecado (Another one) AsÃ­ mismo me engaÃ±aste (DJ Khaled) Why, oh why? You stay, you stay",
+      "valence": 2.8,
+      "arousal": 3.32,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Lo que me hiciste fue un pecado (Another one) AsÃ­ mismo me engaÃ±aste (DJ Khaled) Why, oh why? You stay, you stay And cry every night, you stay, you stay",
+      "valence": 2.61,
+      "arousal": 3.36,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "AsÃ­ mismo me engaÃ±aste (DJ Khaled) Why, oh why? You stay, you stay And cry every night, you stay, you stay I don't know why, oh why, you stay, you stay, oh",
+      "valence": 2.47,
+      "arousal": 3.45,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Why, oh why? You stay, you stay And cry every night, you stay, you stay I don't know why, oh why, you stay, you stay, oh I think you too loyal, you stay, you stay",
+      "valence": 2.42,
+      "arousal": 3.46,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "And cry every night, you stay, you stay I don't know why, oh why, you stay, you stay, oh I think you too loyal, you stay, you stay Uh, I don't know how you do it, but you did it, I'll admit it",
+      "valence": 2.5,
+      "arousal": 3.37,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I don't know why, oh why, you stay, you stay, oh I think you too loyal, you stay, you stay Uh, I don't know how you do it, but you did it, I'll admit it And who am I to be a critic and tell you different?",
+      "valence": 2.68,
+      "arousal": 3.28,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I think you too loyal, you stay, you stay Uh, I don't know how you do it, but you did it, I'll admit it And who am I to be a critic and tell you different? You know I never speak on that nigga, it's not my business",
+      "valence": 2.57,
+      "arousal": 3.3,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Uh, I don't know how you do it, but you did it, I'll admit it And who am I to be a critic and tell you different? You know I never speak on that nigga, it's not my business But I could tell you that his level's no competition",
+      "valence": 2.72,
+      "arousal": 3.25,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "And who am I to be a critic and tell you different? You know I never speak on that nigga, it's not my business But I could tell you that his level's no competition And I'm optimistic that I'm 'bout to hit it",
+      "valence": 3.0,
+      "arousal": 3.39,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "You know I never speak on that nigga, it's not my business But I could tell you that his level's no competition And I'm optimistic that I'm 'bout to hit it And um, I can tell you've been crying in Honda Civics",
+      "valence": 2.8,
+      "arousal": 3.47,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "But I could tell you that his level's no competition And I'm optimistic that I'm 'bout to hit it And um, I can tell you've been crying in Honda Civics Because I caught you slipping, left you no choice",
+      "valence": 2.92,
+      "arousal": 3.38,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "And I'm optimistic that I'm 'bout to hit it And um, I can tell you've been crying in Honda Civics Because I caught you slipping, left you no choice You ever cry again, it's gon' be in a Rolls Royce",
+      "valence": 3.04,
+      "arousal": 3.58,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "And um, I can tell you've been crying in Honda Civics Because I caught you slipping, left you no choice You ever cry again, it's gon' be in a Rolls Royce I wipe your face with them new hundreds to make your tears dry",
+      "valence": 2.29,
+      "arousal": 3.55,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Because I caught you slipping, left you no choice You ever cry again, it's gon' be in a Rolls Royce I wipe your face with them new hundreds to make your tears dry Hitting it on a jet, this ain't no red eye",
+      "valence": 2.24,
+      "arousal": 3.62,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "You ever cry again, it's gon' be in a Rolls Royce I wipe your face with them new hundreds to make your tears dry Hitting it on a jet, this ain't no red eye Got you chasing dreams, and it ain't even bedtime",
+      "valence": 2.29,
+      "arousal": 3.54,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I wipe your face with them new hundreds to make your tears dry Hitting it on a jet, this ain't no red eye Got you chasing dreams, and it ain't even bedtime And don't you dare bring up your ex 'cause he a dead guy",
+      "valence": 2.28,
+      "arousal": 3.5,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Hitting it on a jet, this ain't no red eye Got you chasing dreams, and it ain't even bedtime And don't you dare bring up your ex 'cause he a dead guy I wonder",
+      "valence": 2.31,
+      "arousal": 3.41,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Got you chasing dreams, and it ain't even bedtime And don't you dare bring up your ex 'cause he a dead guy I wonder Why, oh why? (Oh why?)",
+      "valence": 2.23,
+      "arousal": 3.64,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "And don't you dare bring up your ex 'cause he a dead guy I wonder Why, oh why? (Oh why?) Do you ride, do you stick by his side",
+      "valence": 2.44,
+      "arousal": 3.52,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I wonder Why, oh why? (Oh why?) Do you ride, do you stick by his side If he makes you cry every night?",
+      "valence": 2.62,
+      "arousal": 3.46,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Why, oh why? (Oh why?) Do you ride, do you stick by his side If he makes you cry every night? Girl, I see the pain in your eyes",
+      "valence": 2.37,
+      "arousal": 3.66,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Do you ride, do you stick by his side If he makes you cry every night? Girl, I see the pain in your eyes I don't know why, oh why, you stay, you stay, oh",
+      "valence": 2.58,
+      "arousal": 3.46,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "If he makes you cry every night? Girl, I see the pain in your eyes I don't know why, oh why, you stay, you stay, oh You stay, you stay",
+      "valence": 2.2,
+      "arousal": 3.55,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Girl, I see the pain in your eyes I don't know why, oh why, you stay, you stay, oh You stay, you stay You stay, tell me why you",
+      "valence": 2.27,
+      "arousal": 3.49,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I don't know why, oh why, you stay, you stay, oh You stay, you stay You stay, tell me why you I think you're too loyal",
+      "valence": 2.54,
+      "arousal": 3.32,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "You stay, you stay You stay, tell me why you I think you're too loyal I think you do too much for someone who don't do shit for you, girl",
+      "valence": 2.66,
+      "arousal": 3.39,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "You stay, tell me why you I think you're too loyal I think you do too much for someone who don't do shit for you, girl And that's real",
+      "valence": 2.67,
+      "arousal": 3.4,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "I think you're too loyal I think you do too much for someone who don't do shit for you, girl And that's real That ain't the way love supposed to feel",
+      "valence": 2.48,
+      "arousal": 3.41,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I think you do too much for someone who don't do shit for you, girl And that's real That ain't the way love supposed to feel But you say he's the one for you",
+      "valence": 2.71,
+      "arousal": 3.44,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "And that's real That ain't the way love supposed to feel But you say he's the one for you Then complain how he don't show you",
+      "valence": 2.68,
+      "arousal": 3.27,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "That ain't the way love supposed to feel But you say he's the one for you Then complain how he don't show you But you ain't gotta take that",
+      "valence": 2.74,
+      "arousal": 3.32,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "But you say he's the one for you Then complain how he don't show you But you ain't gotta take that Baby, you can't take that",
+      "valence": 2.67,
+      "arousal": 3.34,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Then complain how he don't show you But you ain't gotta take that Baby, you can't take that Hit the gym and get your shape back, oh",
+      "valence": 2.59,
+      "arousal": 3.29,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "But you ain't gotta take that Baby, you can't take that Hit the gym and get your shape back, oh Fuck that nigga",
+      "valence": 2.06,
+      "arousal": 3.97,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Baby, you can't take that Hit the gym and get your shape back, oh Fuck that nigga Don't understand why you still trust that nigga (Work)",
+      "valence": 2.27,
+      "arousal": 3.79,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Hit the gym and get your shape back, oh Fuck that nigga Don't understand why you still trust that nigga (Work) With your mind and your heart and your soul (Let's go)",
+      "valence": 2.27,
+      "arousal": 3.95,
+      "dominance": 3.78
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Fuck that nigga Don't understand why you still trust that nigga (Work) With your mind and your heart and your soul (Let's go) For your goals, in control, you let it go (Work)",
+      "valence": 2.47,
+      "arousal": 3.73,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Don't understand why you still trust that nigga (Work) With your mind and your heart and your soul (Let's go) For your goals, in control, you let it go (Work) I just wanna see you happy",
+      "valence": 3.2,
+      "arousal": 3.41,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "With your mind and your heart and your soul (Let's go) For your goals, in control, you let it go (Work) I just wanna see you happy I just wanna see you laughing",
+      "valence": 3.53,
+      "arousal": 3.35,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "For your goals, in control, you let it go (Work) I just wanna see you happy I just wanna see you laughing I just wanna see you smiling",
+      "valence": 3.73,
+      "arousal": 3.48,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "I just wanna see you happy I just wanna see you laughing I just wanna see you smiling I can tell you need somebody who really about you",
+      "valence": 4.12,
+      "arousal": 3.74,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "I just wanna see you laughing I just wanna see you smiling I can tell you need somebody who really about you Who gon' see about you",
+      "valence": 3.84,
+      "arousal": 3.65,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "I just wanna see you smiling I can tell you need somebody who really about you Who gon' see about you 'Cause it's been a while, so baby",
+      "valence": 3.41,
+      "arousal": 3.58,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "I can tell you need somebody who really about you Who gon' see about you 'Cause it's been a while, so baby Why, oh why? (Oh why?)",
+      "valence": 2.72,
+      "arousal": 3.45,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Who gon' see about you 'Cause it's been a while, so baby Why, oh why? (Oh why?) Do you ride, do you stick by his side",
+      "valence": 2.69,
+      "arousal": 3.37,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "'Cause it's been a while, so baby Why, oh why? (Oh why?) Do you ride, do you stick by his side If he makes you cry every night?",
+      "valence": 2.56,
+      "arousal": 3.45,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Why, oh why? (Oh why?) Do you ride, do you stick by his side If he makes you cry every night? Girl, I see the pain in your eyes",
+      "valence": 2.37,
+      "arousal": 3.66,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Do you ride, do you stick by his side If he makes you cry every night? Girl, I see the pain in your eyes I don't know why, oh why, you stay, you stay, oh",
+      "valence": 2.58,
+      "arousal": 3.46,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "If he makes you cry every night? Girl, I see the pain in your eyes I don't know why, oh why, you stay, you stay, oh You stay, you stay",
+      "valence": 2.2,
+      "arousal": 3.55,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Girl, I see the pain in your eyes I don't know why, oh why, you stay, you stay, oh You stay, you stay I think you too loyal",
+      "valence": 2.35,
+      "arousal": 3.39,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "I don't know why, oh why, you stay, you stay, oh You stay, you stay I think you too loyal You give him chance after chance",
+      "valence": 3.04,
+      "arousal": 3.28,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "You stay, you stay I think you too loyal You give him chance after chance 'Cause you say maybe one day he'll grow up and be a man",
+      "valence": 3.38,
+      "arousal": 3.21,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "I think you too loyal You give him chance after chance 'Cause you say maybe one day he'll grow up and be a man And lately you been pouring out your heart on the 'Gram",
+      "valence": 3.46,
+      "arousal": 3.29,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "You give him chance after chance 'Cause you say maybe one day he'll grow up and be a man And lately you been pouring out your heart on the 'Gram But you been playing your part from the start, I understand",
+      "valence": 3.43,
+      "arousal": 3.25,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "'Cause you say maybe one day he'll grow up and be a man And lately you been pouring out your heart on the 'Gram But you been playing your part from the start, I understand I put carats on your hand",
+      "valence": 3.39,
+      "arousal": 3.44,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "And lately you been pouring out your heart on the 'Gram But you been playing your part from the start, I understand I put carats on your hand But see I'm one of them bad guys",
+      "valence": 3.01,
+      "arousal": 3.42,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "But you been playing your part from the start, I understand I put carats on your hand But see I'm one of them bad guys And I can't guarantee the world",
+      "valence": 2.76,
+      "arousal": 3.18,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "I put carats on your hand But see I'm one of them bad guys And I can't guarantee the world But I promise you'll be better than last time",
+      "valence": 2.83,
+      "arousal": 3.31,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "But see I'm one of them bad guys And I can't guarantee the world But I promise you'll be better than last time As long as you're loyal",
+      "valence": 2.94,
+      "arousal": 3.23,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "And I can't guarantee the world But I promise you'll be better than last time As long as you're loyal You got a plan, I'll do more than spoil",
+      "valence": 3.32,
+      "arousal": 3.47,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "But I promise you'll be better than last time As long as you're loyal You got a plan, I'll do more than spoil I'll be there to support you",
+      "valence": 3.47,
+      "arousal": 3.48,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "As long as you're loyal You got a plan, I'll do more than spoil I'll be there to support you Drop top in the wintertime, whatever just to see you smile",
+      "valence": 3.45,
+      "arousal": 3.61,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "You got a plan, I'll do more than spoil I'll be there to support you Drop top in the wintertime, whatever just to see you smile Private jet from time to time, by the ocean, I'll drive you wild",
+      "valence": 3.54,
+      "arousal": 3.79,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "I'll be there to support you Drop top in the wintertime, whatever just to see you smile Private jet from time to time, by the ocean, I'll drive you wild Whatever your decision, I'm with it, no asking why",
+      "valence": 3.58,
+      "arousal": 3.79,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "Drop top in the wintertime, whatever just to see you smile Private jet from time to time, by the ocean, I'll drive you wild Whatever your decision, I'm with it, no asking why I catch you slipping at all, you gon' be mine (J Balvin, men; Â¡wuh!)",
+      "valence": 3.41,
+      "arousal": 3.87,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "Private jet from time to time, by the ocean, I'll drive you wild Whatever your decision, I'm with it, no asking why I catch you slipping at all, you gon' be mine (J Balvin, men; Â¡wuh!) Ma', la verdad es un orgullo tenerte a mi lado",
+      "valence": 3.35,
+      "arousal": 3.86,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "Whatever your decision, I'm with it, no asking why I catch you slipping at all, you gon' be mine (J Balvin, men; Â¡wuh!) Ma', la verdad es un orgullo tenerte a mi lado Cuando tus ojos brillan en la luz son los que me fascinan",
+      "valence": 3.35,
+      "arousal": 3.83,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "I catch you slipping at all, you gon' be mine (J Balvin, men; Â¡wuh!) Ma', la verdad es un orgullo tenerte a mi lado Cuando tus ojos brillan en la luz son los que me fascinan No hay quiÃ©n te gane",
+      "valence": 3.24,
+      "arousal": 3.72,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "Ma', la verdad es un orgullo tenerte a mi lado Cuando tus ojos brillan en la luz son los que me fascinan No hay quiÃ©n te gane You stay, you stay, oh",
+      "valence": 3.21,
+      "arousal": 3.43,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "Cuando tus ojos brillan en la luz son los que me fascinan No hay quiÃ©n te gane You stay, you stay, oh You stay, you stay, oh, you stay",
+      "valence": 2.97,
+      "arousal": 3.2,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "No hay quiÃ©n te gane You stay, you stay, oh You stay, you stay, oh, you stay Tell me why you (Another one)",
+      "valence": 2.82,
+      "arousal": 3.22,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "You stay, you stay, oh You stay, you stay, oh, you stay Tell me why you (Another one) Ma', la verdad es un orgullo tenerte a mi lado",
+      "valence": 3.03,
+      "arousal": 3.36,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "You stay, you stay, oh, you stay Tell me why you (Another one) Ma', la verdad es un orgullo tenerte a mi lado Cuando tus ojos brillan en la luz solo que me fascinan",
+      "valence": 3.07,
+      "arousal": 3.38,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 86,
+      "lyrics_text": "Tell me why you (Another one) Ma', la verdad es un orgullo tenerte a mi lado Cuando tus ojos brillan en la luz solo que me fascinan No hay quiÃ©n te gane",
+      "valence": 3.13,
+      "arousal": 3.34,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 87,
+      "lyrics_text": "Ma', la verdad es un orgullo tenerte a mi lado Cuando tus ojos brillan en la luz solo que me fascinan No hay quiÃ©n te gane You stay, you stay, oh",
+      "valence": 3.23,
+      "arousal": 3.44,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 88,
+      "lyrics_text": "Cuando tus ojos brillan en la luz solo que me fascinan No hay quiÃ©n te gane You stay, you stay, oh You stay, you stay, oh",
+      "valence": 2.99,
+      "arousal": 3.22,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 89,
+      "lyrics_text": "No hay quiÃ©n te gane You stay, you stay, oh You stay, you stay, oh I think you're too loyal",
+      "valence": 2.54,
+      "arousal": 3.2,
+      "dominance": 3.19
+    }
+  ]
+}

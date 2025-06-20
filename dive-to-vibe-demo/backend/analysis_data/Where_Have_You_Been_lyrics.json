@@ -1,0 +1,409 @@
+{
+  "artist": "Rihanna",
+  "overall_vad": {
+    "valence": 3.29,
+    "arousal": 3.4,
+    "dominance": 3.14
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I've been everywhere, man Looking for someone Someone who can please me Love me all night long",
+      "valence": 3.57,
+      "arousal": 3.59,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Looking for someone Someone who can please me Love me all night long I've been everywhere, man",
+      "valence": 3.78,
+      "arousal": 3.58,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Someone who can please me Love me all night long I've been everywhere, man Looking for you, babe",
+      "valence": 3.93,
+      "arousal": 3.76,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Love me all night long I've been everywhere, man Looking for you, babe Looking for you, babe",
+      "valence": 4.19,
+      "arousal": 4.03,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I've been everywhere, man Looking for you, babe Looking for you, babe Searching for you, babe",
+      "valence": 3.37,
+      "arousal": 3.74,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Looking for you, babe Looking for you, babe Searching for you, babe Where have you been?",
+      "valence": 3.18,
+      "arousal": 3.5,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Looking for you, babe Searching for you, babe Where have you been? 'Cause I never see you out",
+      "valence": 2.97,
+      "arousal": 3.47,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Searching for you, babe Where have you been? 'Cause I never see you out Are you hiding from me, yeah?",
+      "valence": 2.9,
+      "arousal": 3.33,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Where have you been? 'Cause I never see you out Are you hiding from me, yeah? Somewhere in the crowd",
+      "valence": 2.93,
+      "arousal": 3.17,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "'Cause I never see you out Are you hiding from me, yeah? Somewhere in the crowd Yeah, yeah, yeah, yeah",
+      "valence": 2.93,
+      "arousal": 3.26,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Are you hiding from me, yeah? Somewhere in the crowd Yeah, yeah, yeah, yeah Yeah, yeah (oh), yeah, yeah, yeah, yeah",
+      "valence": 2.88,
+      "arousal": 3.32,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Somewhere in the crowd Yeah, yeah, yeah, yeah Yeah, yeah (oh), yeah, yeah, yeah, yeah Yeah, yeah, yeah, yeah",
+      "valence": 3.3,
+      "arousal": 3.18,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Yeah, yeah, yeah, yeah Yeah, yeah (oh), yeah, yeah, yeah, yeah Yeah, yeah, yeah, yeah Yeah, yeah, yeah, yeah, yeah, yeah",
+      "valence": 3.3,
+      "arousal": 3.28,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Yeah, yeah (oh), yeah, yeah, yeah, yeah Yeah, yeah, yeah, yeah Yeah, yeah, yeah, yeah, yeah, yeah Where have you been",
+      "valence": 3.31,
+      "arousal": 3.25,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Yeah, yeah, yeah, yeah Yeah, yeah, yeah, yeah, yeah, yeah Where have you been All my life? All my life?",
+      "valence": 3.27,
+      "arousal": 3.28,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Yeah, yeah, yeah, yeah, yeah, yeah Where have you been All my life? All my life? Where have you been all my life?",
+      "valence": 3.12,
+      "arousal": 3.26,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Where have you been All my life? All my life? Where have you been all my life? Where have you been all my life?",
+      "valence": 2.99,
+      "arousal": 3.08,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "All my life? All my life? Where have you been all my life? Where have you been all my life? Where have you been all my life?",
+      "valence": 3.0,
+      "arousal": 3.18,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Where have you been all my life? Where have you been all my life? Where have you been all my life? Where have you been all my life?",
+      "valence": 3.01,
+      "arousal": 3.03,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Where have you been all my life? Where have you been all my life? Where have you been all my life? I've been everywhere, man",
+      "valence": 3.11,
+      "arousal": 3.21,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Where have you been all my life? Where have you been all my life? I've been everywhere, man Looking for someone",
+      "valence": 3.1,
+      "arousal": 3.24,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Where have you been all my life? I've been everywhere, man Looking for someone Someone who can please me",
+      "valence": 3.35,
+      "arousal": 3.21,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I've been everywhere, man Looking for someone Someone who can please me Love me all night long",
+      "valence": 3.57,
+      "arousal": 3.59,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Looking for someone Someone who can please me Love me all night long I've been everywhere, man",
+      "valence": 3.78,
+      "arousal": 3.58,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Someone who can please me Love me all night long I've been everywhere, man Looking for you, babe",
+      "valence": 3.93,
+      "arousal": 3.76,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Love me all night long I've been everywhere, man Looking for you, babe Looking for you, babe",
+      "valence": 4.19,
+      "arousal": 4.03,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I've been everywhere, man Looking for you, babe Looking for you, babe Searching for you, baby",
+      "valence": 3.37,
+      "arousal": 3.77,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Looking for you, babe Looking for you, babe Searching for you, baby Where have you been?",
+      "valence": 3.18,
+      "arousal": 3.55,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Looking for you, babe Searching for you, baby Where have you been? 'Cause I never see you out",
+      "valence": 2.95,
+      "arousal": 3.52,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Searching for you, baby Where have you been? 'Cause I never see you out Are you hiding from me, yeah?",
+      "valence": 2.83,
+      "arousal": 3.32,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Where have you been? 'Cause I never see you out Are you hiding from me, yeah? Somewhere in the crowd",
+      "valence": 2.93,
+      "arousal": 3.17,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "'Cause I never see you out Are you hiding from me, yeah? Somewhere in the crowd Yeah, yeah, yeah, yeah",
+      "valence": 2.93,
+      "arousal": 3.26,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Are you hiding from me, yeah? Somewhere in the crowd Yeah, yeah, yeah, yeah Yeah, yeah (oh), yeah, yeah, yeah, yeah",
+      "valence": 2.88,
+      "arousal": 3.32,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Somewhere in the crowd Yeah, yeah, yeah, yeah Yeah, yeah (oh), yeah, yeah, yeah, yeah Yeah, yeah, yeah, yeah",
+      "valence": 3.3,
+      "arousal": 3.18,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Yeah, yeah, yeah, yeah Yeah, yeah (oh), yeah, yeah, yeah, yeah Yeah, yeah, yeah, yeah Yeah, yeah, yeah, yeah, yeah, yeah",
+      "valence": 3.3,
+      "arousal": 3.28,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Yeah, yeah (oh), yeah, yeah, yeah, yeah Yeah, yeah, yeah, yeah Yeah, yeah, yeah, yeah, yeah, yeah Where have you been",
+      "valence": 3.31,
+      "arousal": 3.25,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Yeah, yeah, yeah, yeah Yeah, yeah, yeah, yeah, yeah, yeah Where have you been All my life? All my life?",
+      "valence": 3.27,
+      "arousal": 3.28,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Yeah, yeah, yeah, yeah, yeah, yeah Where have you been All my life? All my life? Where have you been all my life?",
+      "valence": 3.12,
+      "arousal": 3.26,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Where have you been All my life? All my life? Where have you been all my life? Where have you been all my life?",
+      "valence": 2.99,
+      "arousal": 3.08,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "All my life? All my life? Where have you been all my life? Where have you been all my life? Where have you been all my life?",
+      "valence": 3.0,
+      "arousal": 3.18,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Where have you been all my life? Where have you been all my life? Where have you been all my life? Where have you been all my life?",
+      "valence": 3.01,
+      "arousal": 3.03,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Where have you been all my life? Where have you been all my life? Where have you been all my life? Where have you been all my life?",
+      "valence": 3.01,
+      "arousal": 3.03,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Where have you been all my life? Where have you been all my life? Where have you been all my life? You can have me all you want",
+      "valence": 2.88,
+      "arousal": 3.31,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Where have you been all my life? Where have you been all my life? You can have me all you want Any way, any day",
+      "valence": 2.9,
+      "arousal": 3.38,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Where have you been all my life? You can have me all you want Any way, any day Just show me where you are tonight",
+      "valence": 3.03,
+      "arousal": 3.38,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "You can have me all you want Any way, any day Just show me where you are tonight Yeah, yeah, yeah (ohh), yeah",
+      "valence": 3.11,
+      "arousal": 3.42,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Any way, any day Just show me where you are tonight Yeah, yeah, yeah (ohh), yeah Yeah, yeah, yeah, yeah, yeah, yeah (yeah-yeah)",
+      "valence": 3.17,
+      "arousal": 3.27,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Just show me where you are tonight Yeah, yeah, yeah (ohh), yeah Yeah, yeah, yeah, yeah, yeah, yeah (yeah-yeah) Yeah, yeah, yeah, yeah (ohh)",
+      "valence": 3.18,
+      "arousal": 3.26,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Yeah, yeah, yeah (ohh), yeah Yeah, yeah, yeah, yeah, yeah, yeah (yeah-yeah) Yeah, yeah, yeah, yeah (ohh) Yeah, yeah, yeah, yeah, yeah, yeah",
+      "valence": 3.28,
+      "arousal": 3.37,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Yeah, yeah, yeah, yeah, yeah, yeah (yeah-yeah) Yeah, yeah, yeah, yeah (ohh) Yeah, yeah, yeah, yeah, yeah, yeah I've been everywhere, man",
+      "valence": 3.42,
+      "arousal": 3.41,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Yeah, yeah, yeah, yeah (ohh) Yeah, yeah, yeah, yeah, yeah, yeah I've been everywhere, man Looking for someone",
+      "valence": 3.57,
+      "arousal": 3.52,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Yeah, yeah, yeah, yeah, yeah, yeah I've been everywhere, man Looking for someone Someone who can please me",
+      "valence": 3.7,
+      "arousal": 3.44,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "I've been everywhere, man Looking for someone Someone who can please me Love me all night long",
+      "valence": 3.57,
+      "arousal": 3.59,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Looking for someone Someone who can please me Love me all night long I've been everywhere, man",
+      "valence": 3.78,
+      "arousal": 3.58,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Someone who can please me Love me all night long I've been everywhere, man Looking for you, babe",
+      "valence": 3.93,
+      "arousal": 3.76,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Love me all night long I've been everywhere, man Looking for you, babe Looking for you, babe",
+      "valence": 4.19,
+      "arousal": 4.03,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "I've been everywhere, man Looking for you, babe Looking for you, babe Searching for you, babe",
+      "valence": 3.37,
+      "arousal": 3.74,
+      "dominance": 3.26
+    }
+  ]
+}

@@ -1,0 +1,703 @@
+{
+  "artist": "Pharrell Williams Featuring 21 Savage & Tyler, The Creator",
+  "overall_vad": {
+    "valence": 2.77,
+    "arousal": 3.5,
+    "dominance": 3.36
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Straight up Cash in, cash out, cash in, cash out Cash in, cash out, cash in, cash out Cash out, cash out, cash out, cash out",
+      "valence": 3.2,
+      "arousal": 3.02,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Cash in, cash out, cash in, cash out Cash in, cash out, cash in, cash out Cash out, cash out, cash out, cash out Cash out, cash out, cash out, cash out",
+      "valence": 3.13,
+      "arousal": 3.09,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Cash in, cash out, cash in, cash out Cash out, cash out, cash out, cash out Cash out, cash out, cash out, cash out Cash in, cash out, cash in, cash out",
+      "valence": 3.13,
+      "arousal": 3.08,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Cash out, cash out, cash out, cash out Cash out, cash out, cash out, cash out Cash in, cash out, cash in, cash out Cash in, cash out, cash in, cash out",
+      "valence": 3.1,
+      "arousal": 3.08,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Cash out, cash out, cash out, cash out Cash in, cash out, cash in, cash out Cash in, cash out, cash in, cash out Cash out, cash out, cash out, cash out (21)",
+      "valence": 3.11,
+      "arousal": 3.03,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Cash in, cash out, cash in, cash out Cash in, cash out, cash in, cash out Cash out, cash out, cash out, cash out (21) Riding in the car with no keys (straight up)",
+      "valence": 3.04,
+      "arousal": 2.95,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Cash in, cash out, cash in, cash out Cash out, cash out, cash out, cash out (21) Riding in the car with no keys (straight up) Louis V shirt with no sleeves (on God)",
+      "valence": 3.05,
+      "arousal": 3.07,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Cash out, cash out, cash out, cash out (21) Riding in the car with no keys (straight up) Louis V shirt with no sleeves (on God) Slaughter gang, nigga, I'm rep'ing (21)",
+      "valence": 2.85,
+      "arousal": 3.4,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Riding in the car with no keys (straight up) Louis V shirt with no sleeves (on God) Slaughter gang, nigga, I'm rep'ing (21) Chopper get to preaching, I'm the reverend (21)",
+      "valence": 2.75,
+      "arousal": 3.35,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Louis V shirt with no sleeves (on God) Slaughter gang, nigga, I'm rep'ing (21) Chopper get to preaching, I'm the reverend (21) Call him New Era, he capping (yeah)",
+      "valence": 2.88,
+      "arousal": 3.45,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Slaughter gang, nigga, I'm rep'ing (21) Chopper get to preaching, I'm the reverend (21) Call him New Era, he capping (yeah) Them the type of niggas I ain't dapping (on God)",
+      "valence": 2.64,
+      "arousal": 3.42,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Chopper get to preaching, I'm the reverend (21) Call him New Era, he capping (yeah) Them the type of niggas I ain't dapping (on God) When I book a show, make my backend cashing",
+      "valence": 3.04,
+      "arousal": 3.23,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Call him New Era, he capping (yeah) Them the type of niggas I ain't dapping (on God) When I book a show, make my backend cashing 21, Uncle Sam, dawg, I'm taxing",
+      "valence": 3.01,
+      "arousal": 3.46,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Them the type of niggas I ain't dapping (on God) When I book a show, make my backend cashing 21, Uncle Sam, dawg, I'm taxing Riding in the coupe and it's a sport (yeah)",
+      "valence": 2.91,
+      "arousal": 3.34,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "When I book a show, make my backend cashing 21, Uncle Sam, dawg, I'm taxing Riding in the coupe and it's a sport (yeah) My bodyguard look like a horse (straight up)",
+      "valence": 3.08,
+      "arousal": 3.43,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "21, Uncle Sam, dawg, I'm taxing Riding in the coupe and it's a sport (yeah) My bodyguard look like a horse (straight up) She gon' suck me up like it's a chore (on God)",
+      "valence": 2.58,
+      "arousal": 3.67,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Riding in the coupe and it's a sport (yeah) My bodyguard look like a horse (straight up) She gon' suck me up like it's a chore (on God) Took the La Ferrari on a tour (21)",
+      "valence": 2.73,
+      "arousal": 3.53,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "My bodyguard look like a horse (straight up) She gon' suck me up like it's a chore (on God) Took the La Ferrari on a tour (21) Buy a Richard Mill' when I get bored (bored)",
+      "valence": 2.47,
+      "arousal": 3.53,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "She gon' suck me up like it's a chore (on God) Took the La Ferrari on a tour (21) Buy a Richard Mill' when I get bored (bored) Put my sidepiece inside a Porsche (a PorschÐµ)",
+      "valence": 2.6,
+      "arousal": 3.41,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Took the La Ferrari on a tour (21) Buy a Richard Mill' when I get bored (bored) Put my sidepiece inside a Porsche (a PorschÐµ) Money turned me to a assholÐµ",
+      "valence": 2.51,
+      "arousal": 3.33,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Buy a Richard Mill' when I get bored (bored) Put my sidepiece inside a Porsche (a PorschÐµ) Money turned me to a assholÐµ I ain't gon' lie, I was used to being poor (21)",
+      "valence": 2.3,
+      "arousal": 3.29,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Put my sidepiece inside a Porsche (a PorschÐµ) Money turned me to a assholÐµ I ain't gon' lie, I was used to being poor (21) I put Chanel on my feet",
+      "valence": 2.56,
+      "arousal": 3.48,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Money turned me to a assholÐµ I ain't gon' lie, I was used to being poor (21) I put Chanel on my feet A European model got Chanel on my seats",
+      "valence": 2.55,
+      "arousal": 3.48,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I ain't gon' lie, I was used to being poor (21) I put Chanel on my feet A European model got Chanel on my seats Put me in a third-world country in the middle of the slums",
+      "valence": 2.7,
+      "arousal": 3.52,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I put Chanel on my feet A European model got Chanel on my seats Put me in a third-world country in the middle of the slums I'ma turn it to a million-dollar street (oh, for real)",
+      "valence": 3.03,
+      "arousal": 3.58,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "A European model got Chanel on my seats Put me in a third-world country in the middle of the slums I'ma turn it to a million-dollar street (oh, for real) Pharrell made this, so it's a million-dollar beat (straight up)",
+      "valence": 3.2,
+      "arousal": 3.73,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Put me in a third-world country in the middle of the slums I'ma turn it to a million-dollar street (oh, for real) Pharrell made this, so it's a million-dollar beat (straight up) V12 VVS, I fell in love with heat (straight up)",
+      "valence": 3.58,
+      "arousal": 3.87,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I'ma turn it to a million-dollar street (oh, for real) Pharrell made this, so it's a million-dollar beat (straight up) V12 VVS, I fell in love with heat (straight up) Walk in your section, you ain't rep'ing 'bout nothing",
+      "valence": 3.72,
+      "arousal": 3.85,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Pharrell made this, so it's a million-dollar beat (straight up) V12 VVS, I fell in love with heat (straight up) Walk in your section, you ain't rep'ing 'bout nothing My invoice gon' be a million-dollar fee (on God)",
+      "valence": 3.67,
+      "arousal": 3.84,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "V12 VVS, I fell in love with heat (straight up) Walk in your section, you ain't rep'ing 'bout nothing My invoice gon' be a million-dollar fee (on God) Hop in a Bentley and slide (and what?)",
+      "valence": 3.51,
+      "arousal": 3.79,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Walk in your section, you ain't rep'ing 'bout nothing My invoice gon' be a million-dollar fee (on God) Hop in a Bentley and slide (and what?) Reach for my chain and you die (say what?)",
+      "valence": 2.46,
+      "arousal": 3.57,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "My invoice gon' be a million-dollar fee (on God) Hop in a Bentley and slide (and what?) Reach for my chain and you die (say what?) You know my method, I'ma turn your shirt red, man",
+      "valence": 2.69,
+      "arousal": 3.62,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Hop in a Bentley and slide (and what?) Reach for my chain and you die (say what?) You know my method, I'ma turn your shirt red, man Then see your ass out high (on God)",
+      "valence": 2.67,
+      "arousal": 3.63,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Reach for my chain and you die (say what?) You know my method, I'ma turn your shirt red, man Then see your ass out high (on God) Mama got a Benz, she smiled (21)",
+      "valence": 2.89,
+      "arousal": 3.68,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "You know my method, I'ma turn your shirt red, man Then see your ass out high (on God) Mama got a Benz, she smiled (21) Then she got a house, she cried (21)",
+      "valence": 3.13,
+      "arousal": 3.72,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Then see your ass out high (on God) Mama got a Benz, she smiled (21) Then she got a house, she cried (21) Nigga took the stand, he lied",
+      "valence": 3.16,
+      "arousal": 3.83,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Mama got a Benz, she smiled (21) Then she got a house, she cried (21) Nigga took the stand, he lied Hell court in the streets and they gave his ass lies (goddamn)",
+      "valence": 2.99,
+      "arousal": 4.02,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Then she got a house, she cried (21) Nigga took the stand, he lied Hell court in the streets and they gave his ass lies (goddamn) I'm getting bigger and bigger (and what?)",
+      "valence": 2.28,
+      "arousal": 3.97,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Nigga took the stand, he lied Hell court in the streets and they gave his ass lies (goddamn) I'm getting bigger and bigger (and what?) Your pockets littler than little (21)",
+      "valence": 2.35,
+      "arousal": 3.81,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Hell court in the streets and they gave his ass lies (goddamn) I'm getting bigger and bigger (and what?) Your pockets littler than little (21) Put a hundred bands on your head",
+      "valence": 2.25,
+      "arousal": 3.85,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I'm getting bigger and bigger (and what?) Your pockets littler than little (21) Put a hundred bands on your head Now they jumping up and down playing monkey in the middle",
+      "valence": 2.9,
+      "arousal": 3.37,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Your pockets littler than little (21) Put a hundred bands on your head Now they jumping up and down playing monkey in the middle She swallow all my kids, she a bad babysitter",
+      "valence": 2.58,
+      "arousal": 3.29,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Put a hundred bands on your head Now they jumping up and down playing monkey in the middle She swallow all my kids, she a bad babysitter Kim Jong-Un, in my pants is a missile",
+      "valence": 2.54,
+      "arousal": 3.52,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Now they jumping up and down playing monkey in the middle She swallow all my kids, she a bad babysitter Kim Jong-Un, in my pants is a missile Friend of the family, I hit all the sisters",
+      "valence": 2.36,
+      "arousal": 3.59,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "She swallow all my kids, she a bad babysitter Kim Jong-Un, in my pants is a missile Friend of the family, I hit all the sisters The mama love me, so she hit all my pistols (straight up)",
+      "valence": 2.36,
+      "arousal": 3.72,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Kim Jong-Un, in my pants is a missile Friend of the family, I hit all the sisters The mama love me, so she hit all my pistols (straight up) Cash in, cash out, cash in, cash out",
+      "valence": 2.74,
+      "arousal": 3.64,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Friend of the family, I hit all the sisters The mama love me, so she hit all my pistols (straight up) Cash in, cash out, cash in, cash out Cash in, cash out, cash in, cash out",
+      "valence": 3.16,
+      "arousal": 3.64,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "The mama love me, so she hit all my pistols (straight up) Cash in, cash out, cash in, cash out Cash in, cash out, cash in, cash out Cash out, cash out, cash out, cash out",
+      "valence": 3.13,
+      "arousal": 3.62,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Cash in, cash out, cash in, cash out Cash in, cash out, cash in, cash out Cash out, cash out, cash out, cash out Cash out, cash out, cash out, cash out",
+      "valence": 3.13,
+      "arousal": 3.09,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Cash in, cash out, cash in, cash out Cash out, cash out, cash out, cash out Cash out, cash out, cash out, cash out Cash in, cash out, cash in, cash out",
+      "valence": 3.13,
+      "arousal": 3.08,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Cash out, cash out, cash out, cash out Cash out, cash out, cash out, cash out Cash in, cash out, cash in, cash out Cash in, cash out, cash in, cash out (it's bunny hop, nigga)",
+      "valence": 3.12,
+      "arousal": 3.24,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Cash out, cash out, cash out, cash out Cash in, cash out, cash in, cash out Cash in, cash out, cash in, cash out (it's bunny hop, nigga) Cash out, cash out, cash out, cash out (let me tell these niggas real quick)",
+      "valence": 3.01,
+      "arousal": 3.23,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Cash in, cash out, cash in, cash out Cash in, cash out, cash in, cash out (it's bunny hop, nigga) Cash out, cash out, cash out, cash out (let me tell these niggas real quick) Nah, I ain't heard of that",
+      "valence": 2.92,
+      "arousal": 3.25,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Cash in, cash out, cash in, cash out (it's bunny hop, nigga) Cash out, cash out, cash out, cash out (let me tell these niggas real quick) Nah, I ain't heard of that I hit the beach in a furry hat",
+      "valence": 2.91,
+      "arousal": 3.32,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Cash out, cash out, cash out, cash out (let me tell these niggas real quick) Nah, I ain't heard of that I hit the beach in a furry hat She got a guy but she purring back",
+      "valence": 2.85,
+      "arousal": 3.42,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Nah, I ain't heard of that I hit the beach in a furry hat She got a guy but she purring back I'm looking like, \"Where he at?\"",
+      "valence": 3.01,
+      "arousal": 3.17,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "I hit the beach in a furry hat She got a guy but she purring back I'm looking like, \"Where he at?\" Nigga, get out the way (way), that girl my hay (hey)",
+      "valence": 2.79,
+      "arousal": 3.52,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "She got a guy but she purring back I'm looking like, \"Where he at?\" Nigga, get out the way (way), that girl my hay (hey) Rock on my hand, nah, this ain't Dwayne (hey, hey)",
+      "valence": 2.62,
+      "arousal": 3.5,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "I'm looking like, \"Where he at?\" Nigga, get out the way (way), that girl my hay (hey) Rock on my hand, nah, this ain't Dwayne (hey, hey) This shit neon yellow like pee on it (hey, hey)",
+      "valence": 2.54,
+      "arousal": 3.71,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Nigga, get out the way (way), that girl my hay (hey) Rock on my hand, nah, this ain't Dwayne (hey, hey) This shit neon yellow like pee on it (hey, hey) On both sides, yeah, you could say I'm beyond it (hey, hey)",
+      "valence": 2.53,
+      "arousal": 3.67,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Rock on my hand, nah, this ain't Dwayne (hey, hey) This shit neon yellow like pee on it (hey, hey) On both sides, yeah, you could say I'm beyond it (hey, hey) Got whips like slaves, the garage like, \"Yee-haw\"",
+      "valence": 2.75,
+      "arousal": 3.45,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "This shit neon yellow like pee on it (hey, hey) On both sides, yeah, you could say I'm beyond it (hey, hey) Got whips like slaves, the garage like, \"Yee-haw\" Horses, more car keys than a piano",
+      "valence": 2.68,
+      "arousal": 3.41,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "On both sides, yeah, you could say I'm beyond it (hey, hey) Got whips like slaves, the garage like, \"Yee-haw\" Horses, more car keys than a piano And one came with an umbrella like Rihanna",
+      "valence": 2.96,
+      "arousal": 3.28,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Got whips like slaves, the garage like, \"Yee-haw\" Horses, more car keys than a piano And one came with an umbrella like Rihanna Nigga, let's be honest (um), be honest",
+      "valence": 2.85,
+      "arousal": 3.2,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Horses, more car keys than a piano And one came with an umbrella like Rihanna Nigga, let's be honest (um), be honest Track needed life, nigga, so they put me on it (yeah, yeah)",
+      "valence": 3.01,
+      "arousal": 3.37,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "And one came with an umbrella like Rihanna Nigga, let's be honest (um), be honest Track needed life, nigga, so they put me on it (yeah, yeah) Nigga, you don't be on who be on and two (yeah)",
+      "valence": 2.91,
+      "arousal": 3.41,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Nigga, let's be honest (um), be honest Track needed life, nigga, so they put me on it (yeah, yeah) Nigga, you don't be on who be on and two (yeah) I got three kids, I think he just might put a sheet on it (yeah, yeah)",
+      "valence": 2.86,
+      "arousal": 3.39,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Track needed life, nigga, so they put me on it (yeah, yeah) Nigga, you don't be on who be on and two (yeah) I got three kids, I think he just might put a sheet on it (yeah, yeah) Ice so white, motherfucker, you could ski on it (switch it up)",
+      "valence": 2.69,
+      "arousal": 3.66,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Nigga, you don't be on who be on and two (yeah) I got three kids, I think he just might put a sheet on it (yeah, yeah) Ice so white, motherfucker, you could ski on it (switch it up) Any stone I'm in, no less than six digits (yo, what up, stoner?)",
+      "valence": 2.57,
+      "arousal": 3.66,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "I got three kids, I think he just might put a sheet on it (yeah, yeah) Ice so white, motherfucker, you could ski on it (switch it up) Any stone I'm in, no less than six digits (yo, what up, stoner?) Peep through the wolves, right-side, I sit in (come on man)",
+      "valence": 2.59,
+      "arousal": 3.59,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Ice so white, motherfucker, you could ski on it (switch it up) Any stone I'm in, no less than six digits (yo, what up, stoner?) Peep through the wolves, right-side, I sit in (come on man) Tick go the watch, it came with a dent in it (come again)",
+      "valence": 2.52,
+      "arousal": 3.59,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Any stone I'm in, no less than six digits (yo, what up, stoner?) Peep through the wolves, right-side, I sit in (come on man) Tick go the watch, it came with a dent in it (come again) And skrrt on a plane, just me and my bitch in it (yo)",
+      "valence": 2.62,
+      "arousal": 3.38,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Peep through the wolves, right-side, I sit in (come on man) Tick go the watch, it came with a dent in it (come again) And skrrt on a plane, just me and my bitch in it (yo) Just know it's big business",
+      "valence": 2.72,
+      "arousal": 3.35,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Tick go the watch, it came with a dent in it (come again) And skrrt on a plane, just me and my bitch in it (yo) Just know it's big business Hands stay full with them racks like hit tennis (woo)",
+      "valence": 2.85,
+      "arousal": 3.44,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "And skrrt on a plane, just me and my bitch in it (yo) Just know it's big business Hands stay full with them racks like hit tennis (woo) And no money phone, the account go get interest",
+      "valence": 2.67,
+      "arousal": 3.41,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "Just know it's big business Hands stay full with them racks like hit tennis (woo) And no money phone, the account go get interest Aw (aw), you got that backing from the backdoor",
+      "valence": 2.84,
+      "arousal": 3.39,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "Hands stay full with them racks like hit tennis (woo) And no money phone, the account go get interest Aw (aw), you got that backing from the backdoor I got off of two-point-five from the last show (last show, nigga)",
+      "valence": 2.81,
+      "arousal": 3.37,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "And no money phone, the account go get interest Aw (aw), you got that backing from the backdoor I got off of two-point-five from the last show (last show, nigga) I declined 'cause the stage didn't match my ethos",
+      "valence": 2.54,
+      "arousal": 3.3,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "Aw (aw), you got that backing from the backdoor I got off of two-point-five from the last show (last show, nigga) I declined 'cause the stage didn't match my ethos (Hmm) they know that I'm sick with it",
+      "valence": 2.34,
+      "arousal": 3.5,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "I got off of two-point-five from the last show (last show, nigga) I declined 'cause the stage didn't match my ethos (Hmm) they know that I'm sick with it Quit playing with you, hundo (ooh)",
+      "valence": 2.29,
+      "arousal": 3.51,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "I declined 'cause the stage didn't match my ethos (Hmm) they know that I'm sick with it Quit playing with you, hundo (ooh) Me, I don't like violence but the guns do (ooh)",
+      "valence": 2.3,
+      "arousal": 3.49,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "(Hmm) they know that I'm sick with it Quit playing with you, hundo (ooh) Me, I don't like violence but the guns do (ooh) 'Cause that gorilla right there, he gon' hunt you (ooh)",
+      "valence": 2.28,
+      "arousal": 3.6,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "Quit playing with you, hundo (ooh) Me, I don't like violence but the guns do (ooh) 'Cause that gorilla right there, he gon' hunt you (ooh) While me and my bitch counting stars out the sunroof (ooh)",
+      "valence": 2.35,
+      "arousal": 3.6,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "Me, I don't like violence but the guns do (ooh) 'Cause that gorilla right there, he gon' hunt you (ooh) While me and my bitch counting stars out the sunroof (ooh) And if you wanna flick up, I don't want to (ooh)",
+      "valence": 2.21,
+      "arousal": 3.53,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "'Cause that gorilla right there, he gon' hunt you (ooh) While me and my bitch counting stars out the sunroof (ooh) And if you wanna flick up, I don't want to (ooh) And if you say \"No cap, \" I ain't trust you (ooh)",
+      "valence": 2.31,
+      "arousal": 3.54,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 86,
+      "lyrics_text": "While me and my bitch counting stars out the sunroof (ooh) And if you wanna flick up, I don't want to (ooh) And if you say \"No cap, \" I ain't trust you (ooh) Nigga, I'm the headline, you a plus one (ooh)",
+      "valence": 2.45,
+      "arousal": 3.48,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 87,
+      "lyrics_text": "And if you wanna flick up, I don't want to (ooh) And if you say \"No cap, \" I ain't trust you (ooh) Nigga, I'm the headline, you a plus one (ooh) I got some brand new thoughts",
+      "valence": 2.56,
+      "arousal": 3.45,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 88,
+      "lyrics_text": "And if you say \"No cap, \" I ain't trust you (ooh) Nigga, I'm the headline, you a plus one (ooh) I got some brand new thoughts And a new silk scarf, and my bitch do too (too)",
+      "valence": 2.48,
+      "arousal": 3.66,
+      "dominance": 3.8
+    },
+    {
+      "chunk_id": 89,
+      "lyrics_text": "Nigga, I'm the headline, you a plus one (ooh) I got some brand new thoughts And a new silk scarf, and my bitch do too (too) Double R talk and I got like two (two)",
+      "valence": 3.4,
+      "arousal": 3.67,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 90,
+      "lyrics_text": "I got some brand new thoughts And a new silk scarf, and my bitch do too (too) Double R talk and I got like two (two) Turbo on that bitch and it hit like zoom (zoom)",
+      "valence": 3.09,
+      "arousal": 3.63,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 91,
+      "lyrics_text": "And a new silk scarf, and my bitch do too (too) Double R talk and I got like two (two) Turbo on that bitch and it hit like zoom (zoom) In the mirror, who that nigga? I'm like you (you)",
+      "valence": 2.88,
+      "arousal": 3.68,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 92,
+      "lyrics_text": "Double R talk and I got like two (two) Turbo on that bitch and it hit like zoom (zoom) In the mirror, who that nigga? I'm like you (you) Any time I do something, motherfuckers like, \"Woof, woof\"",
+      "valence": 2.56,
+      "arousal": 3.76,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 93,
+      "lyrics_text": "Turbo on that bitch and it hit like zoom (zoom) In the mirror, who that nigga? I'm like you (you) Any time I do something, motherfuckers like, \"Woof, woof\" Cash in, cash out, cash in, cash out",
+      "valence": 2.55,
+      "arousal": 3.78,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 94,
+      "lyrics_text": "In the mirror, who that nigga? I'm like you (you) Any time I do something, motherfuckers like, \"Woof, woof\" Cash in, cash out, cash in, cash out Cash in, cash out, cash in, cash out (bunny hop, bitch)",
+      "valence": 2.46,
+      "arousal": 3.76,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 95,
+      "lyrics_text": "Any time I do something, motherfuckers like, \"Woof, woof\" Cash in, cash out, cash in, cash out Cash in, cash out, cash in, cash out (bunny hop, bitch) Cash out, cash out, cash out, cash out (Baudelaire, quit fucking playing with me)",
+      "valence": 2.12,
+      "arousal": 3.96,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 96,
+      "lyrics_text": "Cash in, cash out, cash in, cash out Cash in, cash out, cash in, cash out (bunny hop, bitch) Cash out, cash out, cash out, cash out (Baudelaire, quit fucking playing with me) Cash out, cash out, cash out, cash out (I'll buy one of you niggas)",
+      "valence": 2.4,
+      "arousal": 3.86,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 97,
+      "lyrics_text": "Cash in, cash out, cash in, cash out (bunny hop, bitch) Cash out, cash out, cash out, cash out (Baudelaire, quit fucking playing with me) Cash out, cash out, cash out, cash out (I'll buy one of you niggas) Cash in, cash out, cash in, cash out",
+      "valence": 2.41,
+      "arousal": 3.79,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 98,
+      "lyrics_text": "Cash out, cash out, cash out, cash out (Baudelaire, quit fucking playing with me) Cash out, cash out, cash out, cash out (I'll buy one of you niggas) Cash in, cash out, cash in, cash out Cash in, cash out, cash in, cash out",
+      "valence": 2.47,
+      "arousal": 3.85,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 99,
+      "lyrics_text": "Cash out, cash out, cash out, cash out (I'll buy one of you niggas) Cash in, cash out, cash in, cash out Cash in, cash out, cash in, cash out Cash out, cash out, cash out, cash out (21, 21)",
+      "valence": 3.04,
+      "arousal": 3.25,
+      "dominance": 3.39
+    }
+  ]
+}

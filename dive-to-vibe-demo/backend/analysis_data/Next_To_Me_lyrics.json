@@ -1,0 +1,325 @@
+{
+  "artist": "Emeli Sande",
+  "overall_vad": {
+    "valence": 3.09,
+    "arousal": 3.46,
+    "dominance": 3.23
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "You won't find him drinking at the table Rollin' dice and staying out 'til three You won't ever find him being unfaithful You will find him, you'll find him next to me",
+      "valence": 2.76,
+      "arousal": 3.14,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Rollin' dice and staying out 'til three You won't ever find him being unfaithful You will find him, you'll find him next to me You won't find him tryna chase the Devil",
+      "valence": 2.75,
+      "arousal": 3.15,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "You won't ever find him being unfaithful You will find him, you'll find him next to me You won't find him tryna chase the Devil For money, fame, for power, out of grief",
+      "valence": 2.69,
+      "arousal": 3.25,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "You will find him, you'll find him next to me You won't find him tryna chase the Devil For money, fame, for power, out of grief You won't ever find him where the rest go",
+      "valence": 2.77,
+      "arousal": 3.24,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "You won't find him tryna chase the Devil For money, fame, for power, out of grief You won't ever find him where the rest go You will find him, you'll find him next to me",
+      "valence": 2.68,
+      "arousal": 3.25,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "For money, fame, for power, out of grief You won't ever find him where the rest go You will find him, you'll find him next to me Next to me",
+      "valence": 2.94,
+      "arousal": 3.29,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "You won't ever find him where the rest go You will find him, you'll find him next to me Next to me Ooh, ooh, ooh",
+      "valence": 3.09,
+      "arousal": 3.35,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "You will find him, you'll find him next to me Next to me Ooh, ooh, ooh Next to me",
+      "valence": 3.23,
+      "arousal": 3.4,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Next to me Ooh, ooh, ooh Next to me Ooh, ooh",
+      "valence": 3.3,
+      "arousal": 3.5,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Ooh, ooh, ooh Next to me Ooh, ooh Next to me",
+      "valence": 3.32,
+      "arousal": 3.55,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Next to me Ooh, ooh Next to me Ooh, ooh, ooh",
+      "valence": 3.32,
+      "arousal": 3.48,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Ooh, ooh Next to me Ooh, ooh, ooh You will find him, you'll find him next to me",
+      "valence": 3.31,
+      "arousal": 3.55,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Next to me Ooh, ooh, ooh You will find him, you'll find him next to me When the money's spent and all my friends have vanished",
+      "valence": 2.95,
+      "arousal": 3.48,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Ooh, ooh, ooh You will find him, you'll find him next to me When the money's spent and all my friends have vanished And I can't seem to find no help or love for free",
+      "valence": 3.17,
+      "arousal": 3.59,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "You will find him, you'll find him next to me When the money's spent and all my friends have vanished And I can't seem to find no help or love for free I know there's no need for me to panic",
+      "valence": 2.97,
+      "arousal": 3.47,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "When the money's spent and all my friends have vanished And I can't seem to find no help or love for free I know there's no need for me to panic 'Cause I'll find him, I'll find him next to me",
+      "valence": 2.75,
+      "arousal": 3.7,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "And I can't seem to find no help or love for free I know there's no need for me to panic 'Cause I'll find him, I'll find him next to me When the skies are grey and all the doors are closing",
+      "valence": 3.01,
+      "arousal": 3.57,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I know there's no need for me to panic 'Cause I'll find him, I'll find him next to me When the skies are grey and all the doors are closing And the rising pressure makes it hard to breathe",
+      "valence": 2.95,
+      "arousal": 3.49,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "'Cause I'll find him, I'll find him next to me When the skies are grey and all the doors are closing And the rising pressure makes it hard to breathe When all I need is a hand to stop the tears from falling",
+      "valence": 2.95,
+      "arousal": 3.66,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "When the skies are grey and all the doors are closing And the rising pressure makes it hard to breathe When all I need is a hand to stop the tears from falling I will find him, will find him next to me",
+      "valence": 2.86,
+      "arousal": 3.66,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "And the rising pressure makes it hard to breathe When all I need is a hand to stop the tears from falling I will find him, will find him next to me Next to me",
+      "valence": 2.83,
+      "arousal": 3.7,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "When all I need is a hand to stop the tears from falling I will find him, will find him next to me Next to me Ooh, ooh, ooh",
+      "valence": 3.12,
+      "arousal": 3.63,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I will find him, will find him next to me Next to me Ooh, ooh, ooh Next to me",
+      "valence": 3.22,
+      "arousal": 3.38,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Next to me Ooh, ooh, ooh Next to me Ooh, ooh",
+      "valence": 3.3,
+      "arousal": 3.5,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Ooh, ooh, ooh Next to me Ooh, ooh Next to me",
+      "valence": 3.32,
+      "arousal": 3.55,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Next to me Ooh, ooh Next to me Ooh, ooh, ooh",
+      "valence": 3.32,
+      "arousal": 3.48,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Ooh, ooh Next to me Ooh, ooh, ooh I will find him, I'll find him next to me",
+      "valence": 3.29,
+      "arousal": 3.53,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Next to me Ooh, ooh, ooh I will find him, I'll find him next to me When the end has come and buildings falling down fast",
+      "valence": 3.07,
+      "arousal": 3.51,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Ooh, ooh, ooh I will find him, I'll find him next to me When the end has come and buildings falling down fast When we spoilt the land and dried up all the sea",
+      "valence": 3.01,
+      "arousal": 3.41,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I will find him, I'll find him next to me When the end has come and buildings falling down fast When we spoilt the land and dried up all the sea When everyone has lost their heads around us",
+      "valence": 2.82,
+      "arousal": 3.3,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "When the end has come and buildings falling down fast When we spoilt the land and dried up all the sea When everyone has lost their heads around us You will find him, you'll find him next to me",
+      "valence": 2.79,
+      "arousal": 3.33,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "When we spoilt the land and dried up all the sea When everyone has lost their heads around us You will find him, you'll find him next to me Next to me",
+      "valence": 2.89,
+      "arousal": 3.21,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "When everyone has lost their heads around us You will find him, you'll find him next to me Next to me Ooh, ooh, ooh",
+      "valence": 3.1,
+      "arousal": 3.42,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "You will find him, you'll find him next to me Next to me Ooh, ooh, ooh Next to me",
+      "valence": 3.23,
+      "arousal": 3.4,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Next to me Ooh, ooh, ooh Next to me Ooh, ooh",
+      "valence": 3.3,
+      "arousal": 3.5,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Ooh, ooh, ooh Next to me Ooh, ooh Next to me",
+      "valence": 3.32,
+      "arousal": 3.55,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Next to me Ooh, ooh Next to me Ooh, ooh, ooh",
+      "valence": 3.32,
+      "arousal": 3.48,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Ooh, ooh Next to me Ooh, ooh, ooh You will find him, you'll find him next to me",
+      "valence": 3.31,
+      "arousal": 3.55,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Next to me Ooh, ooh, ooh You will find him, you'll find him next to me Next to me",
+      "valence": 3.21,
+      "arousal": 3.39,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Ooh, ooh, ooh You will find him, you'll find him next to me Next to me Ooh, ooh, ooh",
+      "valence": 3.21,
+      "arousal": 3.53,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "You will find him, you'll find him next to me Next to me Ooh, ooh, ooh Next to me",
+      "valence": 3.23,
+      "arousal": 3.4,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Next to me Ooh, ooh, ooh Next to me Ooh, ooh",
+      "valence": 3.3,
+      "arousal": 3.5,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Ooh, ooh, ooh Next to me Ooh, ooh Next to me",
+      "valence": 3.32,
+      "arousal": 3.55,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Next to me Ooh, ooh Next to me Ooh, ooh, ooh",
+      "valence": 3.32,
+      "arousal": 3.48,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Ooh, ooh Next to me Ooh, ooh, ooh You will find him, you'll find him next to me",
+      "valence": 3.31,
+      "arousal": 3.55,
+      "dominance": 3.24
+    }
+  ]
+}

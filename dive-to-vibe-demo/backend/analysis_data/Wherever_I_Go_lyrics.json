@@ -1,0 +1,234 @@
+{
+  "artist": "OneRepublic",
+  "overall_vad": {
+    "valence": 3.04,
+    "arousal": 3.42,
+    "dominance": 3.27
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I know I could lie but I'm telling the truth Wherever I go there's a shadow of you I know I could try looking for something new But wherever I go, I'll be looking for you",
+      "valence": 2.99,
+      "arousal": 3.31,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Wherever I go there's a shadow of you I know I could try looking for something new But wherever I go, I'll be looking for you Some people lie but they're looking for magic",
+      "valence": 3.11,
+      "arousal": 3.19,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I know I could try looking for something new But wherever I go, I'll be looking for you Some people lie but they're looking for magic Others are quietly going insane",
+      "valence": 2.94,
+      "arousal": 3.19,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "But wherever I go, I'll be looking for you Some people lie but they're looking for magic Others are quietly going insane I feel alive when I'm close to the madness",
+      "valence": 3.0,
+      "arousal": 3.41,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Some people lie but they're looking for magic Others are quietly going insane I feel alive when I'm close to the madness No easy love could ever make me feel the same",
+      "valence": 2.96,
+      "arousal": 3.63,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Others are quietly going insane I feel alive when I'm close to the madness No easy love could ever make me feel the same I know I could lie, but I won't lie to you",
+      "valence": 2.94,
+      "arousal": 3.68,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I feel alive when I'm close to the madness No easy love could ever make me feel the same I know I could lie, but I won't lie to you Wherever I go, you're the ghost in the room",
+      "valence": 3.25,
+      "arousal": 3.73,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "No easy love could ever make me feel the same I know I could lie, but I won't lie to you Wherever I go, you're the ghost in the room I don't even try looking for something new",
+      "valence": 2.8,
+      "arousal": 3.3,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I know I could lie, but I won't lie to you Wherever I go, you're the ghost in the room I don't even try looking for something new 'Cause wherever I go, I'll be looking for you",
+      "valence": 2.73,
+      "arousal": 3.25,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Wherever I go, you're the ghost in the room I don't even try looking for something new 'Cause wherever I go, I'll be looking for you Some people try but they can't find the magic",
+      "valence": 2.73,
+      "arousal": 3.24,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I don't even try looking for something new 'Cause wherever I go, I'll be looking for you Some people try but they can't find the magic Others get down on their knees and they pray",
+      "valence": 2.95,
+      "arousal": 3.22,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "'Cause wherever I go, I'll be looking for you Some people try but they can't find the magic Others get down on their knees and they pray I come alive when I'm close to the madness",
+      "valence": 2.96,
+      "arousal": 3.4,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Some people try but they can't find the magic Others get down on their knees and they pray I come alive when I'm close to the madness No easy love could ever make me feel the same",
+      "valence": 2.99,
+      "arousal": 3.56,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Others get down on their knees and they pray I come alive when I'm close to the madness No easy love could ever make me feel the same Make me feel the same",
+      "valence": 3.24,
+      "arousal": 3.84,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I come alive when I'm close to the madness No easy love could ever make me feel the same Make me feel the same Make me feel the same, same, same",
+      "valence": 3.5,
+      "arousal": 4.01,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "No easy love could ever make me feel the same Make me feel the same Make me feel the same, same, same I know I could lie but I'm telling the truth",
+      "valence": 3.32,
+      "arousal": 3.67,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Make me feel the same Make me feel the same, same, same I know I could lie but I'm telling the truth Wherever I go there's a shadow of you",
+      "valence": 3.04,
+      "arousal": 3.32,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Make me feel the same, same, same I know I could lie but I'm telling the truth Wherever I go there's a shadow of you I know I could try looking for something new",
+      "valence": 2.8,
+      "arousal": 3.19,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I know I could lie but I'm telling the truth Wherever I go there's a shadow of you I know I could try looking for something new But wherever I go, I'll be looking for you",
+      "valence": 2.99,
+      "arousal": 3.31,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Wherever I go there's a shadow of you I know I could try looking for something new But wherever I go, I'll be looking for you Wherever I go, I'll be looking for you, you",
+      "valence": 3.1,
+      "arousal": 3.23,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I know I could try looking for something new But wherever I go, I'll be looking for you Wherever I go, I'll be looking for you, you Some people pray to their God for some magic",
+      "valence": 3.17,
+      "arousal": 3.26,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "But wherever I go, I'll be looking for you Wherever I go, I'll be looking for you, you Some people pray to their God for some magic 'Cause no easy love could ever make them feel the same",
+      "valence": 3.36,
+      "arousal": 3.5,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Wherever I go, I'll be looking for you, you Some people pray to their God for some magic 'Cause no easy love could ever make them feel the same No easy love could ever make me feel the same",
+      "valence": 3.36,
+      "arousal": 3.55,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Some people pray to their God for some magic 'Cause no easy love could ever make them feel the same No easy love could ever make me feel the same Make me feel the same, same, same",
+      "valence": 3.06,
+      "arousal": 3.39,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "'Cause no easy love could ever make them feel the same No easy love could ever make me feel the same Make me feel the same, same, same I know I could lie but I'm telling the truth",
+      "valence": 3.14,
+      "arousal": 3.54,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "No easy love could ever make me feel the same Make me feel the same, same, same I know I could lie but I'm telling the truth Wherever I go there's a shadow of you",
+      "valence": 3.23,
+      "arousal": 3.61,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Make me feel the same, same, same I know I could lie but I'm telling the truth Wherever I go there's a shadow of you I know I could try looking for something new",
+      "valence": 2.8,
+      "arousal": 3.19,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I know I could lie but I'm telling the truth Wherever I go there's a shadow of you I know I could try looking for something new But wherever I go, I'll be looking for you",
+      "valence": 2.99,
+      "arousal": 3.31,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Wherever I go there's a shadow of you I know I could try looking for something new But wherever I go, I'll be looking for you You think it's a lie when I'm telling the truth",
+      "valence": 2.8,
+      "arousal": 3.23,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I know I could try looking for something new But wherever I go, I'll be looking for you You think it's a lie when I'm telling the truth Wherever I go, I'll be looking for you",
+      "valence": 3.0,
+      "arousal": 3.32,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "But wherever I go, I'll be looking for you You think it's a lie when I'm telling the truth Wherever I go, I'll be looking for you Wherever I go, I'll be looking for you",
+      "valence": 3.03,
+      "arousal": 3.45,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "You think it's a lie when I'm telling the truth Wherever I go, I'll be looking for you Wherever I go, I'll be looking for you Looking for you, looking for you, ah",
+      "valence": 2.98,
+      "arousal": 3.47,
+      "dominance": 3.36
+    }
+  ]
+}

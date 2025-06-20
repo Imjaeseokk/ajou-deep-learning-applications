@@ -1,0 +1,297 @@
+{
+  "artist": "Florida Georgia Line Featuring Backstreet Boys",
+  "overall_vad": {
+    "valence": 3.38,
+    "arousal": 3.6,
+    "dominance": 3.22
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "That Sunday morning choir calling, church doors open wide That hallelujah shoot right through ya, make you feel alive That key under the mat, you know right where it's at It's waiting with the porch light on",
+      "valence": 3.66,
+      "arousal": 3.8,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "That hallelujah shoot right through ya, make you feel alive That key under the mat, you know right where it's at It's waiting with the porch light on Don't bother calling, no need for knocking, just come on home",
+      "valence": 3.61,
+      "arousal": 3.69,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "That key under the mat, you know right where it's at It's waiting with the porch light on Don't bother calling, no need for knocking, just come on home Come on home, my love is",
+      "valence": 3.68,
+      "arousal": 3.72,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "It's waiting with the porch light on Don't bother calling, no need for knocking, just come on home Come on home, my love is Never gonna run dry, never gonna come up empty",
+      "valence": 3.26,
+      "arousal": 3.5,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Don't bother calling, no need for knocking, just come on home Come on home, my love is Never gonna run dry, never gonna come up empty Now until the day I die, unconditionally",
+      "valence": 3.04,
+      "arousal": 3.59,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Come on home, my love is Never gonna run dry, never gonna come up empty Now until the day I die, unconditionally You know I'm always gonna be here for ya",
+      "valence": 3.39,
+      "arousal": 3.61,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Never gonna run dry, never gonna come up empty Now until the day I die, unconditionally You know I'm always gonna be here for ya No one's ever gonna love you more than",
+      "valence": 2.99,
+      "arousal": 3.34,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Now until the day I die, unconditionally You know I'm always gonna be here for ya No one's ever gonna love you more than God, your mama, and me",
+      "valence": 3.42,
+      "arousal": 3.73,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "You know I'm always gonna be here for ya No one's ever gonna love you more than God, your mama, and me God, your mama, and me",
+      "valence": 3.73,
+      "arousal": 3.7,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "No one's ever gonna love you more than God, your mama, and me God, your mama, and me Unconditionally",
+      "valence": 3.72,
+      "arousal": 3.88,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "God, your mama, and me God, your mama, and me Unconditionally God, your mama, and me",
+      "valence": 3.24,
+      "arousal": 3.32,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "God, your mama, and me Unconditionally God, your mama, and me Loud as shotgun, angels singing with the radio",
+      "valence": 3.32,
+      "arousal": 3.54,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Unconditionally God, your mama, and me Loud as shotgun, angels singing with the radio Praying with you every mile down any dead end road",
+      "valence": 3.29,
+      "arousal": 3.56,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "God, your mama, and me Loud as shotgun, angels singing with the radio Praying with you every mile down any dead end road You can tell me every secret that you been keeping",
+      "valence": 3.36,
+      "arousal": 3.52,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Loud as shotgun, angels singing with the radio Praying with you every mile down any dead end road You can tell me every secret that you been keeping I'll hold it, lock and key",
+      "valence": 3.24,
+      "arousal": 3.47,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Praying with you every mile down any dead end road You can tell me every secret that you been keeping I'll hold it, lock and key Up with you all night, holding you all night, I never leave",
+      "valence": 3.35,
+      "arousal": 3.47,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "You can tell me every secret that you been keeping I'll hold it, lock and key Up with you all night, holding you all night, I never leave You better believe my love is",
+      "valence": 3.84,
+      "arousal": 3.89,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I'll hold it, lock and key Up with you all night, holding you all night, I never leave You better believe my love is Never gonna run dry, never gonna come up empty",
+      "valence": 3.47,
+      "arousal": 3.76,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Up with you all night, holding you all night, I never leave You better believe my love is Never gonna run dry, never gonna come up empty Now until the day I die, unconditionally",
+      "valence": 3.11,
+      "arousal": 3.77,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "You better believe my love is Never gonna run dry, never gonna come up empty Now until the day I die, unconditionally You know I'm always gonna be here for ya",
+      "valence": 3.0,
+      "arousal": 3.54,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Never gonna run dry, never gonna come up empty Now until the day I die, unconditionally You know I'm always gonna be here for ya No one's ever gonna love you more than",
+      "valence": 2.99,
+      "arousal": 3.34,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Now until the day I die, unconditionally You know I'm always gonna be here for ya No one's ever gonna love you more than God, your mama, and me",
+      "valence": 3.42,
+      "arousal": 3.73,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "You know I'm always gonna be here for ya No one's ever gonna love you more than God, your mama, and me God, your mama, and me",
+      "valence": 3.73,
+      "arousal": 3.7,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "No one's ever gonna love you more than God, your mama, and me God, your mama, and me Unconditionally",
+      "valence": 3.72,
+      "arousal": 3.88,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "God, your mama, and me God, your mama, and me Unconditionally God, your mama, and me",
+      "valence": 3.24,
+      "arousal": 3.32,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "God, your mama, and me Unconditionally God, your mama, and me You better believe it, you better believe it",
+      "valence": 3.0,
+      "arousal": 3.47,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Unconditionally God, your mama, and me You better believe it, you better believe it Every step you take, I'll be as sure as your shadow",
+      "valence": 3.07,
+      "arousal": 3.59,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "God, your mama, and me You better believe it, you better believe it Every step you take, I'll be as sure as your shadow Every move you make, you know I'm part of you wherever you go",
+      "valence": 3.41,
+      "arousal": 3.72,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "You better believe it, you better believe it Every step you take, I'll be as sure as your shadow Every move you make, you know I'm part of you wherever you go Baby, you know my love is",
+      "valence": 3.89,
+      "arousal": 3.92,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Every step you take, I'll be as sure as your shadow Every move you make, you know I'm part of you wherever you go Baby, you know my love is Never gonna run dry, never gonna come up empty",
+      "valence": 3.69,
+      "arousal": 3.78,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Every move you make, you know I'm part of you wherever you go Baby, you know my love is Never gonna run dry, never gonna come up empty Now until the day I die, unconditionally",
+      "valence": 3.55,
+      "arousal": 3.79,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Baby, you know my love is Never gonna run dry, never gonna come up empty Now until the day I die, unconditionally You know I'm always gonna be here for ya",
+      "valence": 3.28,
+      "arousal": 3.65,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Never gonna run dry, never gonna come up empty Now until the day I die, unconditionally You know I'm always gonna be here for ya No one's ever gonna love you more than",
+      "valence": 2.99,
+      "arousal": 3.34,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Now until the day I die, unconditionally You know I'm always gonna be here for ya No one's ever gonna love you more than God, your mama, and me",
+      "valence": 3.42,
+      "arousal": 3.73,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "You know I'm always gonna be here for ya No one's ever gonna love you more than God, your mama, and me God, your mama, and me",
+      "valence": 3.73,
+      "arousal": 3.7,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "No one's ever gonna love you more than God, your mama, and me God, your mama, and me Unconditionally",
+      "valence": 3.72,
+      "arousal": 3.88,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "God, your mama, and me God, your mama, and me Unconditionally God, your mama, and me",
+      "valence": 3.24,
+      "arousal": 3.32,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "God, your mama, and me Unconditionally God, your mama, and me God, your mama, and me",
+      "valence": 3.24,
+      "arousal": 3.27,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Unconditionally God, your mama, and me God, your mama, and me God, your mama, and me",
+      "valence": 3.3,
+      "arousal": 3.37,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "God, your mama, and me God, your mama, and me God, your mama, and me Unconditionally",
+      "valence": 3.17,
+      "arousal": 3.45,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "God, your mama, and me God, your mama, and me Unconditionally God, your mama, and me",
+      "valence": 3.24,
+      "arousal": 3.32,
+      "dominance": 3.17
+    }
+  ]
+}

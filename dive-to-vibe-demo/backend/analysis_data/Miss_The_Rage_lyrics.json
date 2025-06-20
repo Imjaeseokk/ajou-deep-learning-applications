@@ -1,0 +1,514 @@
+{
+  "artist": "Trippie Redd & Playboi Carti",
+  "overall_vad": {
+    "valence": 2.96,
+    "arousal": 3.54,
+    "dominance": 3.27
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I love Trippie Redd Haha I can't see a damn thing if it ain't guap (oh my, woah) I can't see a damn thing if it ain't guap",
+      "valence": 3.33,
+      "arousal": 3.76,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Haha I can't see a damn thing if it ain't guap (oh my, woah) I can't see a damn thing if it ain't guap (Oh my God, guap), yeah",
+      "valence": 2.54,
+      "arousal": 3.74,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I can't see a damn thing if it ain't guap (oh my, woah) I can't see a damn thing if it ain't guap (Oh my God, guap), yeah They like Stevie (Stevie), they can't see me (see me)",
+      "valence": 2.61,
+      "arousal": 3.7,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I can't see a damn thing if it ain't guap (Oh my God, guap), yeah They like Stevie (Stevie), they can't see me (see me) They wanna be me (they wanna be me),",
+      "valence": 2.75,
+      "arousal": 3.66,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "(Oh my God, guap), yeah They like Stevie (Stevie), they can't see me (see me) They wanna be me (they wanna be me), I'm in that 'Ghini (in the Lamb' truck)",
+      "valence": 3.07,
+      "arousal": 3.7,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "They like Stevie (Stevie), they can't see me (see me) They wanna be me (they wanna be me), I'm in that 'Ghini (in the Lamb' truck) Whip like zucchini, water, Fiji (yeah)",
+      "valence": 3.04,
+      "arousal": 3.23,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "They wanna be me (they wanna be me), I'm in that 'Ghini (in the Lamb' truck) Whip like zucchini, water, Fiji (yeah) It ain't leave me (yeah)",
+      "valence": 2.97,
+      "arousal": 3.18,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I'm in that 'Ghini (in the Lamb' truck) Whip like zucchini, water, Fiji (yeah) It ain't leave me (yeah) She wanna please me (yeah)",
+      "valence": 3.15,
+      "arousal": 3.3,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Whip like zucchini, water, Fiji (yeah) It ain't leave me (yeah) She wanna please me (yeah) 'Cause she needy (yeah), h- like Mimi (yeah)",
+      "valence": 3.06,
+      "arousal": 3.4,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "It ain't leave me (yeah) She wanna please me (yeah) 'Cause she needy (yeah), h- like Mimi (yeah) Bae like Mya (Mya, yeah), h- like Mimi (yeah)",
+      "valence": 2.99,
+      "arousal": 3.37,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "She wanna please me (yeah) 'Cause she needy (yeah), h- like Mimi (yeah) Bae like Mya (Mya, yeah), h- like Mimi (yeah) Bae like Mya (yeah), h- like Mimi (yeah)",
+      "valence": 3.12,
+      "arousal": 3.37,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "'Cause she needy (yeah), h- like Mimi (yeah) Bae like Mya (Mya, yeah), h- like Mimi (yeah) Bae like Mya (yeah), h- like Mimi (yeah) Bae like Mya (yeah), h- like Mimi (yeah)",
+      "valence": 3.04,
+      "arousal": 3.23,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Bae like Mya (Mya, yeah), h- like Mimi (yeah) Bae like Mya (yeah), h- like Mimi (yeah) Bae like Mya (yeah), h- like Mimi (yeah) Bae like Mya",
+      "valence": 3.21,
+      "arousal": 3.05,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Bae like Mya (yeah), h- like Mimi (yeah) Bae like Mya (yeah), h- like Mimi (yeah) Bae like Mya This ain't GTA, we sh- at helicopters (brrt), monsters (brrt)",
+      "valence": 2.98,
+      "arousal": 3.33,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Bae like Mya (yeah), h- like Mimi (yeah) Bae like Mya This ain't GTA, we sh- at helicopters (brrt), monsters (brrt) We pull up with s- and hella - (bah), 'oppas (bah)",
+      "valence": 2.93,
+      "arousal": 3.42,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Bae like Mya This ain't GTA, we sh- at helicopters (brrt), monsters (brrt) We pull up with s- and hella - (bah), 'oppas (bah) We don't f- with n-, they the cops (cops, bitch)",
+      "valence": 2.21,
+      "arousal": 3.81,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "This ain't GTA, we sh- at helicopters (brrt), monsters (brrt) We pull up with s- and hella - (bah), 'oppas (bah) We don't f- with n-, they the cops (cops, bitch) I put my heart and soul into the G- (in the G-)",
+      "valence": 2.33,
+      "arousal": 3.85,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "We pull up with s- and hella - (bah), 'oppas (bah) We don't f- with n-, they the cops (cops, bitch) I put my heart and soul into the G- (in the G-) B-, it's us, never them, you ain't that, b-, I'm him",
+      "valence": 2.46,
+      "arousal": 3.76,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "We don't f- with n-, they the cops (cops, bitch) I put my heart and soul into the G- (in the G-) B-, it's us, never them, you ain't that, b-, I'm him You get zapped if it's static (static), keep that MAC, it go \"Pew\"",
+      "valence": 2.5,
+      "arousal": 3.75,
+      "dominance": 3.77
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I put my heart and soul into the G- (in the G-) B-, it's us, never them, you ain't that, b-, I'm him You get zapped if it's static (static), keep that MAC, it go \"Pew\" S- gas, smell the fumes, I'm in that 'Vette, it go \"Vroom\"",
+      "valence": 3.0,
+      "arousal": 3.46,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "B-, it's us, never them, you ain't that, b-, I'm him You get zapped if it's static (static), keep that MAC, it go \"Pew\" S- gas, smell the fumes, I'm in that 'Vette, it go \"Vroom\" I'm a vet, lil' dude, you a pet, do what I say, not what I do",
+      "valence": 2.77,
+      "arousal": 3.44,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "You get zapped if it's static (static), keep that MAC, it go \"Pew\" S- gas, smell the fumes, I'm in that 'Vette, it go \"Vroom\" I'm a vet, lil' dude, you a pet, do what I say, not what I do Tell him, \"Sit, \" b-, come here",
+      "valence": 2.79,
+      "arousal": 3.43,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "S- gas, smell the fumes, I'm in that 'Vette, it go \"Vroom\" I'm a vet, lil' dude, you a pet, do what I say, not what I do Tell him, \"Sit, \" b-, come here I just seen some n- down the block that ain't from here",
+      "valence": 2.87,
+      "arousal": 3.36,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I'm a vet, lil' dude, you a pet, do what I say, not what I do Tell him, \"Sit, \" b-, come here I just seen some n- down the block that ain't from here Know I got a lot but I need some damn more, yeah",
+      "valence": 2.71,
+      "arousal": 3.55,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Tell him, \"Sit, \" b-, come here I just seen some n- down the block that ain't from here Know I got a lot but I need some damn more, yeah If I catch the opps then I'm uppin' the damn score, yeah",
+      "valence": 2.77,
+      "arousal": 3.66,
+      "dominance": 3.83
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I just seen some n- down the block that ain't from here Know I got a lot but I need some damn more, yeah If I catch the opps then I'm uppin' the damn score, yeah Yeah, brrah, brrah, brrah, brrah",
+      "valence": 2.77,
+      "arousal": 3.84,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Know I got a lot but I need some damn more, yeah If I catch the opps then I'm uppin' the damn score, yeah Yeah, brrah, brrah, brrah, brrah I can't see a damn thing if it ain't guap (oh my, woah)",
+      "valence": 2.75,
+      "arousal": 3.74,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "If I catch the opps then I'm uppin' the damn score, yeah Yeah, brrah, brrah, brrah, brrah I can't see a damn thing if it ain't guap (oh my, woah) I can't see a damn thing if it ain't guap (oh my God, guap), yeah",
+      "valence": 2.94,
+      "arousal": 3.74,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Yeah, brrah, brrah, brrah, brrah I can't see a damn thing if it ain't guap (oh my, woah) I can't see a damn thing if it ain't guap (oh my God, guap), yeah They like Stevie (Stevie), they can't see me (they can't see me)",
+      "valence": 2.8,
+      "arousal": 3.75,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I can't see a damn thing if it ain't guap (oh my, woah) I can't see a damn thing if it ain't guap (oh my God, guap), yeah They like Stevie (Stevie), they can't see me (they can't see me) They wanna be me (they wanna be me)",
+      "valence": 2.74,
+      "arousal": 3.68,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I can't see a damn thing if it ain't guap (oh my God, guap), yeah They like Stevie (Stevie), they can't see me (they can't see me) They wanna be me (they wanna be me) I'm in that 'Ghini (in the Lamb' truck)",
+      "valence": 2.87,
+      "arousal": 3.61,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "They like Stevie (Stevie), they can't see me (they can't see me) They wanna be me (they wanna be me) I'm in that 'Ghini (in the Lamb' truck) Whip like zucchini, water, Fiji (yeah)",
+      "valence": 3.06,
+      "arousal": 3.28,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "They wanna be me (they wanna be me) I'm in that 'Ghini (in the Lamb' truck) Whip like zucchini, water, Fiji (yeah) It ain't leave me (yeah), she wanna please me (yeah)",
+      "valence": 3.14,
+      "arousal": 3.18,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I'm in that 'Ghini (in the Lamb' truck) Whip like zucchini, water, Fiji (yeah) It ain't leave me (yeah), she wanna please me (yeah) 'Cause she needy (yeah), h- like Mimi (yeah)",
+      "valence": 3.1,
+      "arousal": 3.3,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Whip like zucchini, water, Fiji (yeah) It ain't leave me (yeah), she wanna please me (yeah) 'Cause she needy (yeah), h- like Mimi (yeah) Bae like Mya, h- like Mimi",
+      "valence": 3.1,
+      "arousal": 3.39,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "It ain't leave me (yeah), she wanna please me (yeah) 'Cause she needy (yeah), h- like Mimi (yeah) Bae like Mya, h- like Mimi She like Mya (she like Carti), h- like Mimi",
+      "valence": 3.09,
+      "arousal": 3.36,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "'Cause she needy (yeah), h- like Mimi (yeah) Bae like Mya, h- like Mimi She like Mya (she like Carti), h- like Mimi She like Mya (she like Carti, yeah, yeah, yeah), h- like Mimi",
+      "valence": 3.23,
+      "arousal": 3.32,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Bae like Mya, h- like Mimi She like Mya (she like Carti), h- like Mimi She like Mya (she like Carti, yeah, yeah, yeah), h- like Mimi She like Mya (she like Carti, haha, no bap, hahaha)",
+      "valence": 3.43,
+      "arousal": 3.46,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "She like Mya (she like Carti), h- like Mimi She like Mya (she like Carti, yeah, yeah, yeah), h- like Mimi She like Mya (she like Carti, haha, no bap, hahaha) She like Carti (yeah), man, I need it (yeah, yeah)",
+      "valence": 3.53,
+      "arousal": 3.73,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "She like Mya (she like Carti, yeah, yeah, yeah), h- like Mimi She like Mya (she like Carti, haha, no bap, hahaha) She like Carti (yeah), man, I need it (yeah, yeah) She taste like water (taste like water), h-, I need it (taste like water)",
+      "valence": 3.56,
+      "arousal": 3.7,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "She like Mya (she like Carti, haha, no bap, hahaha) She like Carti (yeah), man, I need it (yeah, yeah) She taste like water (taste like water), h-, I need it (taste like water) Come get your daughter (come get your daughter)",
+      "valence": 3.52,
+      "arousal": 3.77,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "She like Carti (yeah), man, I need it (yeah, yeah) She taste like water (taste like water), h-, I need it (taste like water) Come get your daughter (come get your daughter) She too greasy",
+      "valence": 3.25,
+      "arousal": 3.72,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "She taste like water (taste like water), h-, I need it (taste like water) Come get your daughter (come get your daughter) She too greasy She so meaty (she so meaty), I'm not vegan (I'm not vegan, vegan)",
+      "valence": 2.79,
+      "arousal": 3.56,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Come get your daughter (come get your daughter) She too greasy She so meaty (she so meaty), I'm not vegan (I'm not vegan, vegan) I'm gon' eat it (what? yeah)",
+      "valence": 2.72,
+      "arousal": 3.68,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "She too greasy She so meaty (she so meaty), I'm not vegan (I'm not vegan, vegan) I'm gon' eat it (what? yeah) I bet you'll I beat it (I bet you I'll beat it)",
+      "valence": 2.7,
+      "arousal": 3.7,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "She so meaty (she so meaty), I'm not vegan (I'm not vegan, vegan) I'm gon' eat it (what? yeah) I bet you'll I beat it (I bet you I'll beat it) I put on the bust (put her on the bust)",
+      "valence": 2.7,
+      "arousal": 3.68,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I'm gon' eat it (what? yeah) I bet you'll I beat it (I bet you I'll beat it) I put on the bust (put her on the bust) I have to see it (I have to see it, bust)",
+      "valence": 3.05,
+      "arousal": 3.78,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I bet you'll I beat it (I bet you I'll beat it) I put on the bust (put her on the bust) I have to see it (I have to see it, bust) I put her on the bus (put her on the bus)",
+      "valence": 2.99,
+      "arousal": 3.54,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I put on the bust (put her on the bust) I have to see it (I have to see it, bust) I put her on the bus (put her on the bus) I'ma leave that h- bleedin' (yeah, bust)",
+      "valence": 2.62,
+      "arousal": 3.4,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I have to see it (I have to see it, bust) I put her on the bus (put her on the bus) I'ma leave that h- bleedin' (yeah, bust) I'ma leave that h- geekin' (blatt, bleedin')",
+      "valence": 2.63,
+      "arousal": 3.49,
+      "dominance": 3.74
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I put her on the bus (put her on the bus) I'ma leave that h- bleedin' (yeah, bust) I'ma leave that h- geekin' (blatt, bleedin') Have her gone by the weekend (blatt, yeah)",
+      "valence": 2.74,
+      "arousal": 3.19,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "I'ma leave that h- bleedin' (yeah, bust) I'ma leave that h- geekin' (blatt, bleedin') Have her gone by the weekend (blatt, yeah) Got too much water (blatt, blatt)",
+      "valence": 2.65,
+      "arousal": 3.19,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "I'ma leave that h- geekin' (blatt, bleedin') Have her gone by the weekend (blatt, yeah) Got too much water (blatt, blatt) Sh-got me leakin' (blatt, what?)",
+      "valence": 2.63,
+      "arousal": 3.27,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Have her gone by the weekend (blatt, yeah) Got too much water (blatt, blatt) Sh-got me leakin' (blatt, what?) She got me leakin' (blatt, blatt)",
+      "valence": 2.63,
+      "arousal": 3.43,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Got too much water (blatt, blatt) Sh-got me leakin' (blatt, what?) She got me leakin' (blatt, blatt) I'm on the deep end (blatt, what? yeah, blatt, what?)",
+      "valence": 2.62,
+      "arousal": 3.5,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Sh-got me leakin' (blatt, what?) She got me leakin' (blatt, blatt) I'm on the deep end (blatt, what? yeah, blatt, what?) I'm on the deep end (yeah, yeah), yeah, haha",
+      "valence": 3.18,
+      "arousal": 3.79,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "She got me leakin' (blatt, blatt) I'm on the deep end (blatt, what? yeah, blatt, what?) I'm on the deep end (yeah, yeah), yeah, haha Brrah (haha) (yeah)",
+      "valence": 3.25,
+      "arousal": 3.81,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "I'm on the deep end (blatt, what? yeah, blatt, what?) I'm on the deep end (yeah, yeah), yeah, haha Brrah (haha) (yeah) Brrah, brrah, brrah (yeah)",
+      "valence": 3.38,
+      "arousal": 3.82,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "I'm on the deep end (yeah, yeah), yeah, haha Brrah (haha) (yeah) Brrah, brrah, brrah (yeah) Hahahahaha, ah (yeah, King Vamp)",
+      "valence": 3.62,
+      "arousal": 3.87,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Brrah (haha) (yeah) Brrah, brrah, brrah (yeah) Hahahahaha, ah (yeah, King Vamp) I can't see a damn thing if it ain't guap (oh my)",
+      "valence": 3.33,
+      "arousal": 3.76,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Brrah, brrah, brrah (yeah) Hahahahaha, ah (yeah, King Vamp) I can't see a damn thing if it ain't guap (oh my) I can't see a damn thing if it ain't guap",
+      "valence": 3.2,
+      "arousal": 3.66,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Hahahahaha, ah (yeah, King Vamp) I can't see a damn thing if it ain't guap (oh my) I can't see a damn thing if it ain't guap (Oh, my God, guap), yeah (oh my God)",
+      "valence": 3.1,
+      "arousal": 3.81,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "I can't see a damn thing if it ain't guap (oh my) I can't see a damn thing if it ain't guap (Oh, my God, guap), yeah (oh my God) They like Stevie (Stevie), they can't see me (they can't see me)",
+      "valence": 2.67,
+      "arousal": 3.9,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "I can't see a damn thing if it ain't guap (Oh, my God, guap), yeah (oh my God) They like Stevie (Stevie), they can't see me (they can't see me) They wanna be me (they wanna be me)",
+      "valence": 2.93,
+      "arousal": 3.89,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "(Oh, my God, guap), yeah (oh my God) They like Stevie (Stevie), they can't see me (they can't see me) They wanna be me (they wanna be me) I'm in that 'Ghini (in the Lamb' truck)",
+      "valence": 3.22,
+      "arousal": 3.97,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "They like Stevie (Stevie), they can't see me (they can't see me) They wanna be me (they wanna be me) I'm in that 'Ghini (in the Lamb' truck) Whip like zucchini, water, Fiji (yeah)",
+      "valence": 3.06,
+      "arousal": 3.28,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "They wanna be me (they wanna be me) I'm in that 'Ghini (in the Lamb' truck) Whip like zucchini, water, Fiji (yeah) It ain't leave me (yeah), she wanna please me (yeah)",
+      "valence": 3.14,
+      "arousal": 3.18,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "I'm in that 'Ghini (in the Lamb' truck) Whip like zucchini, water, Fiji (yeah) It ain't leave me (yeah), she wanna please me (yeah) 'Cause she needy (yeah), h- like Mimi (haha, yeah)",
+      "valence": 3.14,
+      "arousal": 3.37,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Whip like zucchini, water, Fiji (yeah) It ain't leave me (yeah), she wanna please me (yeah) 'Cause she needy (yeah), h- like Mimi (haha, yeah) Bae like Mya (yeah), h- like Mimi (yeah)",
+      "valence": 3.18,
+      "arousal": 3.43,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "It ain't leave me (yeah), she wanna please me (yeah) 'Cause she needy (yeah), h- like Mimi (haha, yeah) Bae like Mya (yeah), h- like Mimi (yeah) Bae like Mya (yeah), h- like Mimi (yeah)",
+      "valence": 3.02,
+      "arousal": 3.38,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "'Cause she needy (yeah), h- like Mimi (haha, yeah) Bae like Mya (yeah), h- like Mimi (yeah) Bae like Mya (yeah), h- like Mimi (yeah) Bae like Mya (yeah), h- like Mimi (yeah)",
+      "valence": 3.08,
+      "arousal": 3.25,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Bae like Mya (yeah), h- like Mimi (yeah) Bae like Mya (yeah), h- like Mimi (yeah) Bae like Mya (yeah), h- like Mimi (yeah) Bae like Mya",
+      "valence": 3.24,
+      "arousal": 3.03,
+      "dominance": 3.26
+    }
+  ]
+}

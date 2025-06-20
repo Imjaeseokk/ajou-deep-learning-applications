@@ -1,0 +1,507 @@
+{
+  "artist": "Dua Lipa",
+  "overall_vad": {
+    "valence": 2.71,
+    "arousal": 3.51,
+    "dominance": 2.82
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I've always been the one to say the first goodbye Had to love and lose a hundred million times Had to get it wrong to know just what I like Now I'm fallin'",
+      "valence": 2.89,
+      "arousal": 3.4,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Had to love and lose a hundred million times Had to get it wrong to know just what I like Now I'm fallin' You say my name like I have never heard before",
+      "valence": 3.01,
+      "arousal": 3.76,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Had to get it wrong to know just what I like Now I'm fallin' You say my name like I have never heard before I'm indecisive but this time I know for sure",
+      "valence": 2.83,
+      "arousal": 3.58,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Now I'm fallin' You say my name like I have never heard before I'm indecisive but this time I know for sure I hope I'm not the only one that feels it all",
+      "valence": 2.74,
+      "arousal": 3.61,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "You say my name like I have never heard before I'm indecisive but this time I know for sure I hope I'm not the only one that feels it all Are you fallin'?",
+      "valence": 2.69,
+      "arousal": 3.51,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I'm indecisive but this time I know for sure I hope I'm not the only one that feels it all Are you fallin'? Center of attention",
+      "valence": 2.69,
+      "arousal": 3.34,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I hope I'm not the only one that feels it all Are you fallin'? Center of attention You know you can get whatever you want from me",
+      "valence": 2.74,
+      "arousal": 3.51,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Are you fallin'? Center of attention You know you can get whatever you want from me Whenever you want it, baby",
+      "valence": 3.0,
+      "arousal": 3.27,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Center of attention You know you can get whatever you want from me Whenever you want it, baby It's you in my reflection",
+      "valence": 3.25,
+      "arousal": 3.31,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "You know you can get whatever you want from me Whenever you want it, baby It's you in my reflection Now I'm afraid of all the things it could do to me",
+      "valence": 2.5,
+      "arousal": 3.55,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Whenever you want it, baby It's you in my reflection Now I'm afraid of all the things it could do to me If I would've known it, baby",
+      "valence": 2.78,
+      "arousal": 3.46,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "It's you in my reflection Now I'm afraid of all the things it could do to me If I would've known it, baby I would've stayed at home",
+      "valence": 2.45,
+      "arousal": 3.38,
+      "dominance": 2.65
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Now I'm afraid of all the things it could do to me If I would've known it, baby I would've stayed at home 'Cause I was doin' better alone",
+      "valence": 2.05,
+      "arousal": 3.29,
+      "dominance": 2.62
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "If I would've known it, baby I would've stayed at home 'Cause I was doin' better alone But when you said, \"Hello\"",
+      "valence": 2.68,
+      "arousal": 3.08,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I would've stayed at home 'Cause I was doin' better alone But when you said, \"Hello\" I know that was the end of it all",
+      "valence": 2.6,
+      "arousal": 3.23,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "'Cause I was doin' better alone But when you said, \"Hello\" I know that was the end of it all I should've stayed at home",
+      "valence": 2.57,
+      "arousal": 3.28,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "But when you said, \"Hello\" I know that was the end of it all I should've stayed at home 'Cause now there ain't no letting you go",
+      "valence": 2.69,
+      "arousal": 3.35,
+      "dominance": 2.58
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I know that was the end of it all I should've stayed at home 'Cause now there ain't no letting you go Am I falling in love",
+      "valence": 3.0,
+      "arousal": 3.55,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I should've stayed at home 'Cause now there ain't no letting you go Am I falling in love With the one that could break my heart?",
+      "valence": 2.59,
+      "arousal": 3.65,
+      "dominance": 2.65
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "'Cause now there ain't no letting you go Am I falling in love With the one that could break my heart? Oh no, I was doin' better alone",
+      "valence": 2.64,
+      "arousal": 3.68,
+      "dominance": 2.59
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Am I falling in love With the one that could break my heart? Oh no, I was doin' better alone But when you said, \"Hello\"",
+      "valence": 2.89,
+      "arousal": 3.56,
+      "dominance": 2.65
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "With the one that could break my heart? Oh no, I was doin' better alone But when you said, \"Hello\" I know that was the end of it all",
+      "valence": 2.54,
+      "arousal": 3.52,
+      "dominance": 2.66
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Oh no, I was doin' better alone But when you said, \"Hello\" I know that was the end of it all I should've stayed at home",
+      "valence": 2.46,
+      "arousal": 3.38,
+      "dominance": 2.67
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "But when you said, \"Hello\" I know that was the end of it all I should've stayed at home 'Cause now there ain't no letting you go",
+      "valence": 2.69,
+      "arousal": 3.35,
+      "dominance": 2.58
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I know that was the end of it all I should've stayed at home 'Cause now there ain't no letting you go Am I falling in love",
+      "valence": 3.0,
+      "arousal": 3.55,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I should've stayed at home 'Cause now there ain't no letting you go Am I falling in love With the one that could break my heart?",
+      "valence": 2.59,
+      "arousal": 3.65,
+      "dominance": 2.65
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "'Cause now there ain't no letting you go Am I falling in love With the one that could break my heart? I wonder when you go, if I stay on your mind",
+      "valence": 2.74,
+      "arousal": 3.67,
+      "dominance": 2.71
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Am I falling in love With the one that could break my heart? I wonder when you go, if I stay on your mind Two can play that game, but you win me every time",
+      "valence": 3.11,
+      "arousal": 3.58,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "With the one that could break my heart? I wonder when you go, if I stay on your mind Two can play that game, but you win me every time Everyone before you was a waste of time",
+      "valence": 2.88,
+      "arousal": 3.54,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I wonder when you go, if I stay on your mind Two can play that game, but you win me every time Everyone before you was a waste of time Yeah, you got me",
+      "valence": 3.25,
+      "arousal": 3.59,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Two can play that game, but you win me every time Everyone before you was a waste of time Yeah, you got me Center of attention",
+      "valence": 3.33,
+      "arousal": 3.47,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Everyone before you was a waste of time Yeah, you got me Center of attention You know you can get whatever you want from me",
+      "valence": 2.69,
+      "arousal": 3.51,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Yeah, you got me Center of attention You know you can get whatever you want from me Whenever you want it, baby",
+      "valence": 3.22,
+      "arousal": 3.59,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Center of attention You know you can get whatever you want from me Whenever you want it, baby It's you in my reflection",
+      "valence": 3.25,
+      "arousal": 3.31,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "You know you can get whatever you want from me Whenever you want it, baby It's you in my reflection Now I'm afraid of all the things it could do to me",
+      "valence": 2.5,
+      "arousal": 3.55,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Whenever you want it, baby It's you in my reflection Now I'm afraid of all the things it could do to me If I would've known it, baby",
+      "valence": 2.78,
+      "arousal": 3.46,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "It's you in my reflection Now I'm afraid of all the things it could do to me If I would've known it, baby I would've stayed at home",
+      "valence": 2.45,
+      "arousal": 3.38,
+      "dominance": 2.65
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Now I'm afraid of all the things it could do to me If I would've known it, baby I would've stayed at home 'Cause I was doin' better alone",
+      "valence": 2.05,
+      "arousal": 3.29,
+      "dominance": 2.62
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "If I would've known it, baby I would've stayed at home 'Cause I was doin' better alone But when you said, \"Hello\"",
+      "valence": 2.68,
+      "arousal": 3.08,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "I would've stayed at home 'Cause I was doin' better alone But when you said, \"Hello\" I know that was the end of it all",
+      "valence": 2.6,
+      "arousal": 3.23,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "'Cause I was doin' better alone But when you said, \"Hello\" I know that was the end of it all I should've stayed at home",
+      "valence": 2.57,
+      "arousal": 3.28,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "But when you said, \"Hello\" I know that was the end of it all I should've stayed at home 'Cause now there ain't no letting you go",
+      "valence": 2.69,
+      "arousal": 3.35,
+      "dominance": 2.58
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I know that was the end of it all I should've stayed at home 'Cause now there ain't no letting you go Am I falling in love",
+      "valence": 3.0,
+      "arousal": 3.55,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I should've stayed at home 'Cause now there ain't no letting you go Am I falling in love With the one that could break my heart?",
+      "valence": 2.59,
+      "arousal": 3.65,
+      "dominance": 2.65
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "'Cause now there ain't no letting you go Am I falling in love With the one that could break my heart? Oh no, I was doin' better alone",
+      "valence": 2.64,
+      "arousal": 3.68,
+      "dominance": 2.59
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Am I falling in love With the one that could break my heart? Oh no, I was doin' better alone But when you said, \"Hello\"",
+      "valence": 2.89,
+      "arousal": 3.56,
+      "dominance": 2.65
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "With the one that could break my heart? Oh no, I was doin' better alone But when you said, \"Hello\" I know that was the end of it all",
+      "valence": 2.54,
+      "arousal": 3.52,
+      "dominance": 2.66
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Oh no, I was doin' better alone But when you said, \"Hello\" I know that was the end of it all I should've stayed at home",
+      "valence": 2.46,
+      "arousal": 3.38,
+      "dominance": 2.67
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "But when you said, \"Hello\" I know that was the end of it all I should've stayed at home 'Cause now there ain't no letting you go",
+      "valence": 2.69,
+      "arousal": 3.35,
+      "dominance": 2.58
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I know that was the end of it all I should've stayed at home 'Cause now there ain't no letting you go Am I falling in love",
+      "valence": 3.0,
+      "arousal": 3.55,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I should've stayed at home 'Cause now there ain't no letting you go Am I falling in love With the one that could break my heart?",
+      "valence": 2.59,
+      "arousal": 3.65,
+      "dominance": 2.65
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "'Cause now there ain't no letting you go Am I falling in love With the one that could break my heart? Ooh, break my heart",
+      "valence": 2.46,
+      "arousal": 3.89,
+      "dominance": 2.6
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Am I falling in love With the one that could break my heart? Ooh, break my heart Ooh, break my heart",
+      "valence": 2.42,
+      "arousal": 3.97,
+      "dominance": 2.62
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "With the one that could break my heart? Ooh, break my heart Ooh, break my heart Ooh",
+      "valence": 2.21,
+      "arousal": 3.96,
+      "dominance": 2.63
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Ooh, break my heart Ooh, break my heart Ooh Am I falling in love",
+      "valence": 2.74,
+      "arousal": 4.25,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Ooh, break my heart Ooh Am I falling in love With the one that could break my heart?",
+      "valence": 2.49,
+      "arousal": 4.07,
+      "dominance": 2.56
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Ooh Am I falling in love With the one that could break my heart? I would've stayed at home",
+      "valence": 3.01,
+      "arousal": 3.67,
+      "dominance": 2.73
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Am I falling in love With the one that could break my heart? I would've stayed at home 'Cause I was doin' better alone",
+      "valence": 2.7,
+      "arousal": 3.53,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "With the one that could break my heart? I would've stayed at home 'Cause I was doin' better alone But when you said, \"Hello\"",
+      "valence": 2.62,
+      "arousal": 3.39,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "I would've stayed at home 'Cause I was doin' better alone But when you said, \"Hello\" I know that was the end of it all",
+      "valence": 2.6,
+      "arousal": 3.23,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "'Cause I was doin' better alone But when you said, \"Hello\" I know that was the end of it all I should've stayed at home",
+      "valence": 2.57,
+      "arousal": 3.28,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "But when you said, \"Hello\" I know that was the end of it all I should've stayed at home 'Cause now there ain't no letting you go",
+      "valence": 2.69,
+      "arousal": 3.35,
+      "dominance": 2.58
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "I know that was the end of it all I should've stayed at home 'Cause now there ain't no letting you go Am I falling in love",
+      "valence": 3.0,
+      "arousal": 3.55,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "I should've stayed at home 'Cause now there ain't no letting you go Am I falling in love With the one that could break my heart?",
+      "valence": 2.59,
+      "arousal": 3.65,
+      "dominance": 2.65
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "'Cause now there ain't no letting you go Am I falling in love With the one that could break my heart? Oh no, I was doin' better alone",
+      "valence": 2.64,
+      "arousal": 3.68,
+      "dominance": 2.59
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Am I falling in love With the one that could break my heart? Oh no, I was doin' better alone But when you said, \"Hello\"",
+      "valence": 2.89,
+      "arousal": 3.56,
+      "dominance": 2.65
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "With the one that could break my heart? Oh no, I was doin' better alone But when you said, \"Hello\" I know that was the end of it all",
+      "valence": 2.54,
+      "arousal": 3.52,
+      "dominance": 2.66
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Oh no, I was doin' better alone But when you said, \"Hello\" I know that was the end of it all I should've stayed at home",
+      "valence": 2.46,
+      "arousal": 3.38,
+      "dominance": 2.67
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "But when you said, \"Hello\" I know that was the end of it all I should've stayed at home 'Cause now there ain't no letting you go",
+      "valence": 2.69,
+      "arousal": 3.35,
+      "dominance": 2.58
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "I know that was the end of it all I should've stayed at home 'Cause now there ain't no letting you go Am I falling in love",
+      "valence": 3.0,
+      "arousal": 3.55,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "I should've stayed at home 'Cause now there ain't no letting you go Am I falling in love With the one that could break my heart?",
+      "valence": 2.59,
+      "arousal": 3.65,
+      "dominance": 2.65
+    }
+  ]
+}

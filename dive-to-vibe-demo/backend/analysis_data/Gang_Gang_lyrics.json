@@ -1,0 +1,451 @@
+{
+  "artist": "Polo G & Lil Wayne",
+  "overall_vad": {
+    "valence": 2.77,
+    "arousal": 3.44,
+    "dominance": 3.46
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Uh So used to them gray clouds I might fuck around, drop the top in the rain For the squad, we don't play around",
+      "valence": 2.66,
+      "arousal": 3.28,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "So used to them gray clouds I might fuck around, drop the top in the rain For the squad, we don't play around We'll lay him down, hit his top close range",
+      "valence": 2.65,
+      "arousal": 3.38,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I might fuck around, drop the top in the rain For the squad, we don't play around We'll lay him down, hit his top close range He just pretend, he not with the gang",
+      "valence": 2.51,
+      "arousal": 3.59,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "For the squad, we don't play around We'll lay him down, hit his top close range He just pretend, he not with the gang 'Member back then, ask an opp what he bang",
+      "valence": 2.82,
+      "arousal": 3.33,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "We'll lay him down, hit his top close range He just pretend, he not with the gang 'Member back then, ask an opp what he bang Runnin' from the jakes, block hot like I'm Wayne",
+      "valence": 2.84,
+      "arousal": 3.29,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "He just pretend, he not with the gang 'Member back then, ask an opp what he bang Runnin' from the jakes, block hot like I'm Wayne Spend a quarter mil' on the watch and the chain",
+      "valence": 2.85,
+      "arousal": 3.09,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "'Member back then, ask an opp what he bang Runnin' from the jakes, block hot like I'm Wayne Spend a quarter mil' on the watch and the chain I'm just tryna put a lock on the game",
+      "valence": 2.83,
+      "arousal": 3.24,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Runnin' from the jakes, block hot like I'm Wayne Spend a quarter mil' on the watch and the chain I'm just tryna put a lock on the game Hot shit from this Glock when it flame",
+      "valence": 2.81,
+      "arousal": 3.47,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Spend a quarter mil' on the watch and the chain I'm just tryna put a lock on the game Hot shit from this Glock when it flame Ayy, young nigga up now, 'member back then niggas clowned on me",
+      "valence": 2.77,
+      "arousal": 3.34,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I'm just tryna put a lock on the game Hot shit from this Glock when it flame Ayy, young nigga up now, 'member back then niggas clowned on me Now from the Heaven gates only way a nigga lookin' down on me",
+      "valence": 2.63,
+      "arousal": 3.35,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Hot shit from this Glock when it flame Ayy, young nigga up now, 'member back then niggas clowned on me Now from the Heaven gates only way a nigga lookin' down on me Keep at least two hundred thou' on me",
+      "valence": 2.66,
+      "arousal": 3.4,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Ayy, young nigga up now, 'member back then niggas clowned on me Now from the Heaven gates only way a nigga lookin' down on me Keep at least two hundred thou' on me Keep at least like 30 rounds on me",
+      "valence": 2.76,
+      "arousal": 3.31,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Now from the Heaven gates only way a nigga lookin' down on me Keep at least two hundred thou' on me Keep at least like 30 rounds on me With my niggas 'til the wheels fall off, don't care if my ride on E",
+      "valence": 2.64,
+      "arousal": 3.48,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Keep at least two hundred thou' on me Keep at least like 30 rounds on me With my niggas 'til the wheels fall off, don't care if my ride on E Gucci slides, Versace robes, palm trees, exotic hoes",
+      "valence": 2.93,
+      "arousal": 3.44,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Keep at least like 30 rounds on me With my niggas 'til the wheels fall off, don't care if my ride on E Gucci slides, Versace robes, palm trees, exotic hoes Snitchin', he can't right his wrongs once he play that writin' role",
+      "valence": 2.81,
+      "arousal": 3.42,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "With my niggas 'til the wheels fall off, don't care if my ride on E Gucci slides, Versace robes, palm trees, exotic hoes Snitchin', he can't right his wrongs once he play that writin' role Slime shit, we wipe his nose, feds watchin', might strike a pose",
+      "valence": 2.52,
+      "arousal": 3.62,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Gucci slides, Versace robes, palm trees, exotic hoes Snitchin', he can't right his wrongs once he play that writin' role Slime shit, we wipe his nose, feds watchin', might strike a pose Do a hit, take flight, we gone, we just take the dice and roll",
+      "valence": 2.58,
+      "arousal": 3.55,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Snitchin', he can't right his wrongs once he play that writin' role Slime shit, we wipe his nose, feds watchin', might strike a pose Do a hit, take flight, we gone, we just take the dice and roll So used to them gray clouds",
+      "valence": 2.54,
+      "arousal": 3.36,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Slime shit, we wipe his nose, feds watchin', might strike a pose Do a hit, take flight, we gone, we just take the dice and roll So used to them gray clouds I might fuck around, drop the top in the rain",
+      "valence": 2.48,
+      "arousal": 3.44,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Do a hit, take flight, we gone, we just take the dice and roll So used to them gray clouds I might fuck around, drop the top in the rain For the squad, we don't play around",
+      "valence": 2.72,
+      "arousal": 3.26,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "So used to them gray clouds I might fuck around, drop the top in the rain For the squad, we don't play around We'll lay him down, hit his top close range",
+      "valence": 2.65,
+      "arousal": 3.38,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I might fuck around, drop the top in the rain For the squad, we don't play around We'll lay him down, hit his top close range He just pretend, he not with the gang",
+      "valence": 2.51,
+      "arousal": 3.59,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "For the squad, we don't play around We'll lay him down, hit his top close range He just pretend, he not with the gang 'Member back then, ask an opp what he bang",
+      "valence": 2.82,
+      "arousal": 3.33,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "We'll lay him down, hit his top close range He just pretend, he not with the gang 'Member back then, ask an opp what he bang Runnin' from the jakes, block hot like I'm Wayne",
+      "valence": 2.84,
+      "arousal": 3.29,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "He just pretend, he not with the gang 'Member back then, ask an opp what he bang Runnin' from the jakes, block hot like I'm Wayne Spend a quarter mil' on the watch and the chain",
+      "valence": 2.85,
+      "arousal": 3.09,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "'Member back then, ask an opp what he bang Runnin' from the jakes, block hot like I'm Wayne Spend a quarter mil' on the watch and the chain I'm just tryna put a lock on the game",
+      "valence": 2.83,
+      "arousal": 3.24,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Runnin' from the jakes, block hot like I'm Wayne Spend a quarter mil' on the watch and the chain I'm just tryna put a lock on the game Hot shit from this Glock when it flame",
+      "valence": 2.81,
+      "arousal": 3.47,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Spend a quarter mil' on the watch and the chain I'm just tryna put a lock on the game Hot shit from this Glock when it flame Soon as I touch down, them pussy feds be hot on me (woo)",
+      "valence": 2.82,
+      "arousal": 3.79,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I'm just tryna put a lock on the game Hot shit from this Glock when it flame Soon as I touch down, them pussy feds be hot on me (woo) Heard niggas got money all on my head, tell 'em, \"Come crown the king\" (uh)",
+      "valence": 2.75,
+      "arousal": 3.74,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Hot shit from this Glock when it flame Soon as I touch down, them pussy feds be hot on me (woo) Heard niggas got money all on my head, tell 'em, \"Come crown the king\" (uh) Let the work thaw out for 14 days, that's quarantine (yeah)",
+      "valence": 2.57,
+      "arousal": 3.69,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Soon as I touch down, them pussy feds be hot on me (woo) Heard niggas got money all on my head, tell 'em, \"Come crown the king\" (uh) Let the work thaw out for 14 days, that's quarantine (yeah) I'll pour my heart out before my lean, baby, no R&B (yeah)",
+      "valence": 2.67,
+      "arousal": 3.74,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Heard niggas got money all on my head, tell 'em, \"Come crown the king\" (uh) Let the work thaw out for 14 days, that's quarantine (yeah) I'll pour my heart out before my lean, baby, no R&B (yeah) Six-six-deuce, MOB Piru, big SooWoo, slime my group",
+      "valence": 2.97,
+      "arousal": 3.66,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Let the work thaw out for 14 days, that's quarantine (yeah) I'll pour my heart out before my lean, baby, no R&B (yeah) Six-six-deuce, MOB Piru, big SooWoo, slime my group Slatt-slatt-slatt, a-achoo, wipe his nose, God bless you",
+      "valence": 2.79,
+      "arousal": 3.66,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I'll pour my heart out before my lean, baby, no R&B (yeah) Six-six-deuce, MOB Piru, big SooWoo, slime my group Slatt-slatt-slatt, a-achoo, wipe his nose, God bless you Blatt-blatt-blatt, I'm not through, bratt-tat-tat, duck, duck, goose",
+      "valence": 2.7,
+      "arousal": 3.73,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Six-six-deuce, MOB Piru, big SooWoo, slime my group Slatt-slatt-slatt, a-achoo, wipe his nose, God bless you Blatt-blatt-blatt, I'm not through, bratt-tat-tat, duck, duck, goose Two big g- on me for the smoke, that's Uncle Snoop and Martha Stew'",
+      "valence": 2.82,
+      "arousal": 3.52,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Slatt-slatt-slatt, a-achoo, wipe his nose, God bless you Blatt-blatt-blatt, I'm not through, bratt-tat-tat, duck, duck, goose Two big g- on me for the smoke, that's Uncle Snoop and Martha Stew' Call me Capalotty (woo), Big Slimalini (yeah), Lil' Slime Gotti (uh)",
+      "valence": 2.81,
+      "arousal": 3.57,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Blatt-blatt-blatt, I'm not through, bratt-tat-tat, duck, duck, goose Two big g- on me for the smoke, that's Uncle Snoop and Martha Stew' Call me Capalotty (woo), Big Slimalini (yeah), Lil' Slime Gotti (uh) That ain't the 'Ghini, lil' bitch that's the 'Gatti (skrrt)",
+      "valence": 2.54,
+      "arousal": 3.52,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Two big g- on me for the smoke, that's Uncle Snoop and Martha Stew' Call me Capalotty (woo), Big Slimalini (yeah), Lil' Slime Gotti (uh) That ain't the 'Ghini, lil' bitch that's the 'Gatti (skrrt) Promethazine, need a P, I'm the wild me",
+      "valence": 2.92,
+      "arousal": 3.4,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Call me Capalotty (woo), Big Slimalini (yeah), Lil' Slime Gotti (uh) That ain't the 'Ghini, lil' bitch that's the 'Gatti (skrrt) Promethazine, need a P, I'm the wild me I hide fettuccine from the federales",
+      "valence": 2.79,
+      "arousal": 3.37,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "That ain't the 'Ghini, lil' bitch that's the 'Gatti (skrrt) Promethazine, need a P, I'm the wild me I hide fettuccine from the federales I'm like Rick Pitino or John Calipari",
+      "valence": 2.78,
+      "arousal": 3.23,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Promethazine, need a P, I'm the wild me I hide fettuccine from the federales I'm like Rick Pitino or John Calipari I'm leadin' my team, yeah, right to the finals",
+      "valence": 3.1,
+      "arousal": 3.47,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "I hide fettuccine from the federales I'm like Rick Pitino or John Calipari I'm leadin' my team, yeah, right to the finals That money talkin' and we talkin' private",
+      "valence": 3.04,
+      "arousal": 3.19,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I'm like Rick Pitino or John Calipari I'm leadin' my team, yeah, right to the finals That money talkin' and we talkin' private I'm not correspondin', hold on",
+      "valence": 3.06,
+      "arousal": 3.31,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I'm leadin' my team, yeah, right to the finals That money talkin' and we talkin' private I'm not correspondin', hold on Gucci slides and Versace robes (ooh)",
+      "valence": 3.18,
+      "arousal": 3.55,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "That money talkin' and we talkin' private I'm not correspondin', hold on Gucci slides and Versace robes (ooh) I'll slide a nigga, I'll slide a hoe (ooh)",
+      "valence": 2.89,
+      "arousal": 3.34,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I'm not correspondin', hold on Gucci slides and Versace robes (ooh) I'll slide a nigga, I'll slide a hoe (ooh) I banged on anybody, gang",
+      "valence": 2.54,
+      "arousal": 3.62,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Gucci slides and Versace robes (ooh) I'll slide a nigga, I'll slide a hoe (ooh) I banged on anybody, gang And I ball with all my slime-inos",
+      "valence": 2.62,
+      "arousal": 3.62,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I'll slide a nigga, I'll slide a hoe (ooh) I banged on anybody, gang And I ball with all my slime-inos On gang-gang, on Hollygrove",
+      "valence": 2.33,
+      "arousal": 3.6,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I banged on anybody, gang And I ball with all my slime-inos On gang-gang, on Hollygrove No plain jane, I smoke Zario",
+      "valence": 2.33,
+      "arousal": 3.51,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "And I ball with all my slime-inos On gang-gang, on Hollygrove No plain jane, I smoke Zario And when the rain came I put the top down",
+      "valence": 2.72,
+      "arousal": 3.26,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "On gang-gang, on Hollygrove No plain jane, I smoke Zario And when the rain came I put the top down Under the dark clouds, I'm shinin' gold",
+      "valence": 3.2,
+      "arousal": 3.47,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "No plain jane, I smoke Zario And when the rain came I put the top down Under the dark clouds, I'm shinin' gold Used to the gray clouds",
+      "valence": 3.08,
+      "arousal": 3.16,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "And when the rain came I put the top down Under the dark clouds, I'm shinin' gold Used to the gray clouds I might fuck around and drop the top in the rain (yeah-yeah)",
+      "valence": 2.82,
+      "arousal": 3.46,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Under the dark clouds, I'm shinin' gold Used to the gray clouds I might fuck around and drop the top in the rain (yeah-yeah) For the squad, we don't play around",
+      "valence": 2.79,
+      "arousal": 3.49,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Used to the gray clouds I might fuck around and drop the top in the rain (yeah-yeah) For the squad, we don't play around We'll lay him down, hit his top close range (top close range)",
+      "valence": 2.74,
+      "arousal": 3.46,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "I might fuck around and drop the top in the rain (yeah-yeah) For the squad, we don't play around We'll lay him down, hit his top close range (top close range) He just pretend, he not with the gang",
+      "valence": 2.59,
+      "arousal": 3.61,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "For the squad, we don't play around We'll lay him down, hit his top close range (top close range) He just pretend, he not with the gang 'Member back then, ask an opp what he bang",
+      "valence": 2.85,
+      "arousal": 3.34,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "We'll lay him down, hit his top close range (top close range) He just pretend, he not with the gang 'Member back then, ask an opp what he bang Runnin' from the jakes, block hot like I'm Wayne",
+      "valence": 2.87,
+      "arousal": 3.34,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "He just pretend, he not with the gang 'Member back then, ask an opp what he bang Runnin' from the jakes, block hot like I'm Wayne Spend a whole mil' on the watch and the chain",
+      "valence": 2.85,
+      "arousal": 3.11,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "'Member back then, ask an opp what he bang Runnin' from the jakes, block hot like I'm Wayne Spend a whole mil' on the watch and the chain I'm just tryna put a lock on the game",
+      "valence": 2.84,
+      "arousal": 3.24,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Runnin' from the jakes, block hot like I'm Wayne Spend a whole mil' on the watch and the chain I'm just tryna put a lock on the game Hot shit from this Glock when it flame, yeah",
+      "valence": 2.84,
+      "arousal": 3.48,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Spend a whole mil' on the watch and the chain I'm just tryna put a lock on the game Hot shit from this Glock when it flame, yeah Polo G, Tunechi Lee, yeah-yeah",
+      "valence": 3.1,
+      "arousal": 3.72,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "I'm just tryna put a lock on the game Hot shit from this Glock when it flame, yeah Polo G, Tunechi Lee, yeah-yeah Call me Capalotty",
+      "valence": 3.14,
+      "arousal": 3.66,
+      "dominance": 3.46
+    }
+  ]
+}

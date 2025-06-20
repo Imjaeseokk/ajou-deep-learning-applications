@@ -1,0 +1,493 @@
+{
+  "artist": "A$AP Rocky Featuring Skepta",
+  "overall_vad": {
+    "valence": 3.07,
+    "arousal": 3.49,
+    "dominance": 3.31
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Get it Text message I don't know the number Flexin' on these niggas, every bone and muscle Steady taking shots, but I'm never hurting nothing",
+      "valence": 2.81,
+      "arousal": 3.66,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Text message I don't know the number Flexin' on these niggas, every bone and muscle Steady taking shots, but I'm never hurting nothing Even then, y'all don't worry none",
+      "valence": 2.96,
+      "arousal": 3.36,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Flexin' on these niggas, every bone and muscle Steady taking shots, but I'm never hurting nothing Even then, y'all don't worry none And I'd like to give a shoutout to my niggas with the game plan",
+      "valence": 3.31,
+      "arousal": 3.49,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Steady taking shots, but I'm never hurting nothing Even then, y'all don't worry none And I'd like to give a shoutout to my niggas with the game plan And shoutout to my niggas with escape plans, uh",
+      "valence": 3.49,
+      "arousal": 3.49,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Even then, y'all don't worry none And I'd like to give a shoutout to my niggas with the game plan And shoutout to my niggas with escape plans, uh 20 bands, rain dance",
+      "valence": 3.56,
+      "arousal": 3.55,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "And I'd like to give a shoutout to my niggas with the game plan And shoutout to my niggas with escape plans, uh 20 bands, rain dance We can keep the rain check or we can make plans",
+      "valence": 3.49,
+      "arousal": 3.54,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "And shoutout to my niggas with escape plans, uh 20 bands, rain dance We can keep the rain check or we can make plans Pockets loaded, rocket loaded, okay, let's rock and roll this",
+      "valence": 3.42,
+      "arousal": 3.75,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "20 bands, rain dance We can keep the rain check or we can make plans Pockets loaded, rocket loaded, okay, let's rock and roll this It's time to go, Lock, Stock, and Two Smoking Barrels",
+      "valence": 3.24,
+      "arousal": 3.46,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "We can keep the rain check or we can make plans Pockets loaded, rocket loaded, okay, let's rock and roll this It's time to go, Lock, Stock, and Two Smoking Barrels Locked and loaded, diamonds glowing, chart-climbing on 'em",
+      "valence": 3.21,
+      "arousal": 3.49,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Pockets loaded, rocket loaded, okay, let's rock and roll this It's time to go, Lock, Stock, and Two Smoking Barrels Locked and loaded, diamonds glowing, chart-climbing on 'em You'd think I'm jumping out the window how I got 'em open",
+      "valence": 3.22,
+      "arousal": 3.68,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "It's time to go, Lock, Stock, and Two Smoking Barrels Locked and loaded, diamonds glowing, chart-climbing on 'em You'd think I'm jumping out the window how I got 'em open Line around the corner, line 'em up the block and over",
+      "valence": 3.09,
+      "arousal": 3.52,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Locked and loaded, diamonds glowing, chart-climbing on 'em You'd think I'm jumping out the window how I got 'em open Line around the corner, line 'em up the block and over Sometimes I even stop the smoking when it's time to focus",
+      "valence": 3.11,
+      "arousal": 3.44,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "You'd think I'm jumping out the window how I got 'em open Line around the corner, line 'em up the block and over Sometimes I even stop the smoking when it's time to focus My shades, Dior, my pants, velour",
+      "valence": 3.05,
+      "arousal": 3.33,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Line around the corner, line 'em up the block and over Sometimes I even stop the smoking when it's time to focus My shades, Dior, my pants, velour Create, explore, expand, conquer",
+      "valence": 3.26,
+      "arousal": 3.45,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Sometimes I even stop the smoking when it's time to focus My shades, Dior, my pants, velour Create, explore, expand, conquer I came, I saw",
+      "valence": 3.2,
+      "arousal": 3.41,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "My shades, Dior, my pants, velour Create, explore, expand, conquer I came, I saw I came, I saw",
+      "valence": 3.37,
+      "arousal": 3.54,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Create, explore, expand, conquer I came, I saw I came, I saw I praise the Lord, then break the law",
+      "valence": 3.29,
+      "arousal": 3.32,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I came, I saw I came, I saw I praise the Lord, then break the law I take what's mine, then take some more",
+      "valence": 3.31,
+      "arousal": 3.33,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I came, I saw I praise the Lord, then break the law I take what's mine, then take some more It rains, it pours, it rains, it pours",
+      "valence": 3.02,
+      "arousal": 3.36,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I praise the Lord, then break the law I take what's mine, then take some more It rains, it pours, it rains, it pours I came, I saw",
+      "valence": 3.08,
+      "arousal": 3.46,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I take what's mine, then take some more It rains, it pours, it rains, it pours I came, I saw I came, I saw",
+      "valence": 3.0,
+      "arousal": 3.43,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "It rains, it pours, it rains, it pours I came, I saw I came, I saw I praise the Lord, then break the law",
+      "valence": 2.7,
+      "arousal": 3.42,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I came, I saw I came, I saw I praise the Lord, then break the law I take what's mine, then take some more",
+      "valence": 3.31,
+      "arousal": 3.33,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I came, I saw I praise the Lord, then break the law I take what's mine, then take some more It rains, it pours, it rains, it pours",
+      "valence": 3.02,
+      "arousal": 3.36,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I praise the Lord, then break the law I take what's mine, then take some more It rains, it pours, it rains, it pours Yeah",
+      "valence": 3.13,
+      "arousal": 3.48,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I take what's mine, then take some more It rains, it pours, it rains, it pours Yeah I sold the pack, the loose, the hard (yeah)",
+      "valence": 2.95,
+      "arousal": 3.45,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "It rains, it pours, it rains, it pours Yeah I sold the pack, the loose, the hard (yeah) I listened to X, I'm peak, the bars (yeah)",
+      "valence": 3.15,
+      "arousal": 3.48,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Yeah I sold the pack, the loose, the hard (yeah) I listened to X, I'm peak, the bars (yeah) The snakes, the rats, the cats, the dogs",
+      "valence": 3.18,
+      "arousal": 3.37,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I sold the pack, the loose, the hard (yeah) I listened to X, I'm peak, the bars (yeah) The snakes, the rats, the cats, the dogs The game's a trap, protect your heart (yeah)",
+      "valence": 3.02,
+      "arousal": 3.42,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I listened to X, I'm peak, the bars (yeah) The snakes, the rats, the cats, the dogs The game's a trap, protect your heart (yeah) I waited in line, return, refine",
+      "valence": 2.75,
+      "arousal": 3.51,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "The snakes, the rats, the cats, the dogs The game's a trap, protect your heart (yeah) I waited in line, return, refine The new design, it's time to shine (woo)",
+      "valence": 3.27,
+      "arousal": 3.76,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "The game's a trap, protect your heart (yeah) I waited in line, return, refine The new design, it's time to shine (woo) To shine (woo), to shine (woo), to shine (woo), to shine",
+      "valence": 3.14,
+      "arousal": 3.62,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I waited in line, return, refine The new design, it's time to shine (woo) To shine (woo), to shine (woo), to shine (woo), to shine I hustle, I flex, the world is mine",
+      "valence": 3.4,
+      "arousal": 3.64,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "The new design, it's time to shine (woo) To shine (woo), to shine (woo), to shine (woo), to shine I hustle, I flex, the world is mine So please believe, allow the greaze",
+      "valence": 3.57,
+      "arousal": 3.67,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "To shine (woo), to shine (woo), to shine (woo), to shine I hustle, I flex, the world is mine So please believe, allow the greaze These niggas disease, don't speak, we squeeze (squeeze)",
+      "valence": 3.24,
+      "arousal": 3.73,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I hustle, I flex, the world is mine So please believe, allow the greaze These niggas disease, don't speak, we squeeze (squeeze) I make the devil go weak the knees",
+      "valence": 2.58,
+      "arousal": 3.54,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "So please believe, allow the greaze These niggas disease, don't speak, we squeeze (squeeze) I make the devil go weak the knees You hate, you're lame, your loss",
+      "valence": 2.18,
+      "arousal": 3.5,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "These niggas disease, don't speak, we squeeze (squeeze) I make the devil go weak the knees You hate, you're lame, your loss I came, I saw",
+      "valence": 2.1,
+      "arousal": 3.6,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I make the devil go weak the knees You hate, you're lame, your loss I came, I saw I came, I saw",
+      "valence": 2.26,
+      "arousal": 3.65,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "You hate, you're lame, your loss I came, I saw I came, I saw I praise the Lord, then break the law",
+      "valence": 2.5,
+      "arousal": 3.66,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I came, I saw I came, I saw I praise the Lord, then break the law I take what's mine, then take some more",
+      "valence": 3.31,
+      "arousal": 3.33,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "I came, I saw I praise the Lord, then break the law I take what's mine, then take some more It rains, it pours, it rains, it pours",
+      "valence": 3.02,
+      "arousal": 3.36,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I praise the Lord, then break the law I take what's mine, then take some more It rains, it pours, it rains, it pours I came, I saw",
+      "valence": 3.08,
+      "arousal": 3.46,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I take what's mine, then take some more It rains, it pours, it rains, it pours I came, I saw I came, I saw",
+      "valence": 3.0,
+      "arousal": 3.43,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "It rains, it pours, it rains, it pours I came, I saw I came, I saw I praise the Lord, then break the law",
+      "valence": 2.7,
+      "arousal": 3.42,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I came, I saw I came, I saw I praise the Lord, then break the law I take what's mine, then take some more",
+      "valence": 3.31,
+      "arousal": 3.33,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I came, I saw I praise the Lord, then break the law I take what's mine, then take some more It rains, it pours, it rains, it pours",
+      "valence": 3.02,
+      "arousal": 3.36,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I praise the Lord, then break the law I take what's mine, then take some more It rains, it pours, it rains, it pours She came, I came now what's my name",
+      "valence": 3.17,
+      "arousal": 3.48,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I take what's mine, then take some more It rains, it pours, it rains, it pours She came, I came now what's my name My chain (woo), my pants (woo), my pants with the chain (woo)",
+      "valence": 3.03,
+      "arousal": 3.59,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "It rains, it pours, it rains, it pours She came, I came now what's my name My chain (woo), my pants (woo), my pants with the chain (woo) They know it's me (woo), the hat and the shades (woo)",
+      "valence": 3.0,
+      "arousal": 3.57,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "She came, I came now what's my name My chain (woo), my pants (woo), my pants with the chain (woo) They know it's me (woo), the hat and the shades (woo) They heard my voice and they ran to the stage (what?)",
+      "valence": 3.12,
+      "arousal": 3.62,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "My chain (woo), my pants (woo), my pants with the chain (woo) They know it's me (woo), the hat and the shades (woo) They heard my voice and they ran to the stage (what?) My vans, my braids (what?)",
+      "valence": 3.08,
+      "arousal": 3.6,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "They know it's me (woo), the hat and the shades (woo) They heard my voice and they ran to the stage (what?) My vans, my braids (what?) My mans, my babe (what?)",
+      "valence": 3.12,
+      "arousal": 3.8,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "They heard my voice and they ran to the stage (what?) My vans, my braids (what?) My mans, my babe (what?) My girls, my ex (what?)",
+      "valence": 3.0,
+      "arousal": 3.82,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "My vans, my braids (what?) My mans, my babe (what?) My girls, my ex (what?) My hoes that I left (what?)",
+      "valence": 2.9,
+      "arousal": 3.67,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "My mans, my babe (what?) My girls, my ex (what?) My hoes that I left (what?) The way that I stepped out the car that's a flex (what?)",
+      "valence": 2.92,
+      "arousal": 3.61,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "My girls, my ex (what?) My hoes that I left (what?) The way that I stepped out the car that's a flex (what?) Give thanks, get fresh (what?)",
+      "valence": 2.84,
+      "arousal": 3.47,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "My hoes that I left (what?) The way that I stepped out the car that's a flex (what?) Give thanks, get fresh (what?) Praise the Lord then finesse (what?)",
+      "valence": 2.92,
+      "arousal": 3.39,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "The way that I stepped out the car that's a flex (what?) Give thanks, get fresh (what?) Praise the Lord then finesse (what?) Bless",
+      "valence": 3.11,
+      "arousal": 3.38,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Give thanks, get fresh (what?) Praise the Lord then finesse (what?) Bless I came, I saw",
+      "valence": 3.25,
+      "arousal": 3.38,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Praise the Lord then finesse (what?) Bless I came, I saw I came, I saw",
+      "valence": 3.19,
+      "arousal": 3.4,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Bless I came, I saw I came, I saw I praise the Lord, then break the law",
+      "valence": 3.11,
+      "arousal": 3.21,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "I came, I saw I came, I saw I praise the Lord, then break the law I take what's mine, then take some more",
+      "valence": 3.31,
+      "arousal": 3.33,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "I came, I saw I praise the Lord, then break the law I take what's mine, then take some more It rains, it pours, it rains, it pours",
+      "valence": 3.02,
+      "arousal": 3.36,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "I praise the Lord, then break the law I take what's mine, then take some more It rains, it pours, it rains, it pours I came, I saw",
+      "valence": 3.08,
+      "arousal": 3.46,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "I take what's mine, then take some more It rains, it pours, it rains, it pours I came, I saw I came, I saw",
+      "valence": 3.0,
+      "arousal": 3.43,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "It rains, it pours, it rains, it pours I came, I saw I came, I saw I praise the Lord, then break the law",
+      "valence": 2.7,
+      "arousal": 3.42,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "I came, I saw I came, I saw I praise the Lord, then break the law I take what's mine, then take some more",
+      "valence": 3.31,
+      "arousal": 3.33,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "I came, I saw I praise the Lord, then break the law I take what's mine, then take some more It rains, it pours, it rains, it pours",
+      "valence": 3.02,
+      "arousal": 3.36,
+      "dominance": 3.19
+    }
+  ]
+}

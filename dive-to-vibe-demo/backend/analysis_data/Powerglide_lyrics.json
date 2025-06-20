@@ -1,0 +1,787 @@
+{
+  "artist": "Rae Sremmurd & Juicy J",
+  "overall_vad": {
+    "valence": 2.72,
+    "arousal": 3.6,
+    "dominance": 3.38
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Yeah, yeah, yeah Mike WiLL Made-It Yeah, yeah, yeah Mally Mall",
+      "valence": 3.38,
+      "arousal": 3.32,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Mike WiLL Made-It Yeah, yeah, yeah Mally Mall Oh, oh, oh, oh, oh",
+      "valence": 3.33,
+      "arousal": 3.33,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Yeah, yeah, yeah Mally Mall Oh, oh, oh, oh, oh Ear Drummers",
+      "valence": 3.3,
+      "arousal": 3.35,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Mally Mall Oh, oh, oh, oh, oh Ear Drummers Yeah, hoe",
+      "valence": 3.08,
+      "arousal": 3.29,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Oh, oh, oh, oh, oh Ear Drummers Yeah, hoe What's in this mug? Toasted up, no I ain't hostin'",
+      "valence": 2.78,
+      "arousal": 3.25,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Ear Drummers Yeah, hoe What's in this mug? Toasted up, no I ain't hostin' Kush all in my lap because these hoes don't want to roll it",
+      "valence": 2.76,
+      "arousal": 3.28,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Yeah, hoe What's in this mug? Toasted up, no I ain't hostin' Kush all in my lap because these hoes don't want to roll it I was sliding in the Lamb' with the powerglide (oh)",
+      "valence": 2.67,
+      "arousal": 3.48,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "What's in this mug? Toasted up, no I ain't hostin' Kush all in my lap because these hoes don't want to roll it I was sliding in the Lamb' with the powerglide (oh) Slime green paint, peanut butter inside (oh)",
+      "valence": 2.68,
+      "arousal": 3.38,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Kush all in my lap because these hoes don't want to roll it I was sliding in the Lamb' with the powerglide (oh) Slime green paint, peanut butter inside (oh) She wanna fuck, speak up",
+      "valence": 2.27,
+      "arousal": 3.83,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I was sliding in the Lamb' with the powerglide (oh) Slime green paint, peanut butter inside (oh) She wanna fuck, speak up Comin' out her clothes (oh)",
+      "valence": 2.57,
+      "arousal": 3.64,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Slime green paint, peanut butter inside (oh) She wanna fuck, speak up Comin' out her clothes (oh) I'm in wonderland when she comin' down the pole (whoa)",
+      "valence": 2.52,
+      "arousal": 3.85,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "She wanna fuck, speak up Comin' out her clothes (oh) I'm in wonderland when she comin' down the pole (whoa) And I don't care if she take all of mine (oh)",
+      "valence": 2.28,
+      "arousal": 3.96,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Comin' out her clothes (oh) I'm in wonderland when she comin' down the pole (whoa) And I don't care if she take all of mine (oh) Like it ain't shit but a dollar sign",
+      "valence": 3.14,
+      "arousal": 3.68,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I'm in wonderland when she comin' down the pole (whoa) And I don't care if she take all of mine (oh) Like it ain't shit but a dollar sign Diamonds unthawed, comin' in froze (froze)",
+      "valence": 2.92,
+      "arousal": 3.55,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "And I don't care if she take all of mine (oh) Like it ain't shit but a dollar sign Diamonds unthawed, comin' in froze (froze) Got too many girls to let one of them go (oh)",
+      "valence": 2.68,
+      "arousal": 3.34,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Like it ain't shit but a dollar sign Diamonds unthawed, comin' in froze (froze) Got too many girls to let one of them go (oh) When I make a purchase, I can't wait to showboat (oh)",
+      "valence": 3.06,
+      "arousal": 3.49,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Diamonds unthawed, comin' in froze (froze) Got too many girls to let one of them go (oh) When I make a purchase, I can't wait to showboat (oh) If she bad, I put a pinky ring on, snow globe",
+      "valence": 3.06,
+      "arousal": 3.29,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Got too many girls to let one of them go (oh) When I make a purchase, I can't wait to showboat (oh) If she bad, I put a pinky ring on, snow globe I'ma have that pussy on lock like po-po (yeah)",
+      "valence": 3.05,
+      "arousal": 3.51,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "When I make a purchase, I can't wait to showboat (oh) If she bad, I put a pinky ring on, snow globe I'ma have that pussy on lock like po-po (yeah) She was going up and down like yo-yo (down)",
+      "valence": 3.07,
+      "arousal": 3.64,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "If she bad, I put a pinky ring on, snow globe I'ma have that pussy on lock like po-po (yeah) She was going up and down like yo-yo (down) You can say I'm greedy 'cause I always want more (more)",
+      "valence": 2.76,
+      "arousal": 3.52,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I'ma have that pussy on lock like po-po (yeah) She was going up and down like yo-yo (down) You can say I'm greedy 'cause I always want more (more) I don't fuck with holmes 'cause they with some slow-pokes (lame)",
+      "valence": 2.67,
+      "arousal": 3.45,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "She was going up and down like yo-yo (down) You can say I'm greedy 'cause I always want more (more) I don't fuck with holmes 'cause they with some slow-pokes (lame) Ooh, money on monsoon, baby girl full moon (ay)",
+      "valence": 3.0,
+      "arousal": 3.59,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "You can say I'm greedy 'cause I always want more (more) I don't fuck with holmes 'cause they with some slow-pokes (lame) Ooh, money on monsoon, baby girl full moon (ay) Give these niggas with some money some room",
+      "valence": 2.67,
+      "arousal": 3.48,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I don't fuck with holmes 'cause they with some slow-pokes (lame) Ooh, money on monsoon, baby girl full moon (ay) Give these niggas with some money some room She don't stop, batteries not included",
+      "valence": 2.67,
+      "arousal": 3.52,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Ooh, money on monsoon, baby girl full moon (ay) Give these niggas with some money some room She don't stop, batteries not included Oh, big balling like Mutombo, yeah",
+      "valence": 3.17,
+      "arousal": 3.51,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Give these niggas with some money some room She don't stop, batteries not included Oh, big balling like Mutombo, yeah Much cooler than the cool kids, woah",
+      "valence": 3.0,
+      "arousal": 3.41,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "She don't stop, batteries not included Oh, big balling like Mutombo, yeah Much cooler than the cool kids, woah Can you believe every night we do this? (yeah)",
+      "valence": 3.32,
+      "arousal": 3.45,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Oh, big balling like Mutombo, yeah Much cooler than the cool kids, woah Can you believe every night we do this? (yeah) What's in this mug? Toasted up, no I ain't hostin'",
+      "valence": 3.33,
+      "arousal": 3.48,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Much cooler than the cool kids, woah Can you believe every night we do this? (yeah) What's in this mug? Toasted up, no I ain't hostin' Kush all in my lap because these hoes don't want to roll it",
+      "valence": 3.02,
+      "arousal": 3.54,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Can you believe every night we do this? (yeah) What's in this mug? Toasted up, no I ain't hostin' Kush all in my lap because these hoes don't want to roll it I was sliding in the Lamb' with the powerglide (oh)",
+      "valence": 2.9,
+      "arousal": 3.55,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "What's in this mug? Toasted up, no I ain't hostin' Kush all in my lap because these hoes don't want to roll it I was sliding in the Lamb' with the powerglide (oh) Slime green paint, peanut butter inside (oh)",
+      "valence": 2.68,
+      "arousal": 3.38,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Kush all in my lap because these hoes don't want to roll it I was sliding in the Lamb' with the powerglide (oh) Slime green paint, peanut butter inside (oh) She wanna fuck, speak up",
+      "valence": 2.27,
+      "arousal": 3.83,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I was sliding in the Lamb' with the powerglide (oh) Slime green paint, peanut butter inside (oh) She wanna fuck, speak up Comin' out her clothes (oh)",
+      "valence": 2.57,
+      "arousal": 3.64,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Slime green paint, peanut butter inside (oh) She wanna fuck, speak up Comin' out her clothes (oh) I'm in wonderland when she comin' down the pole (whoa)",
+      "valence": 2.52,
+      "arousal": 3.85,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "She wanna fuck, speak up Comin' out her clothes (oh) I'm in wonderland when she comin' down the pole (whoa) And I don't care if she take all of mine (oh)",
+      "valence": 2.28,
+      "arousal": 3.96,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Comin' out her clothes (oh) I'm in wonderland when she comin' down the pole (whoa) And I don't care if she take all of mine (oh) Like it ain't shit but a dollar sign",
+      "valence": 3.14,
+      "arousal": 3.68,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I'm in wonderland when she comin' down the pole (whoa) And I don't care if she take all of mine (oh) Like it ain't shit but a dollar sign Hold up, I'ma go and spend those hundreds though",
+      "valence": 2.98,
+      "arousal": 3.64,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "And I don't care if she take all of mine (oh) Like it ain't shit but a dollar sign Hold up, I'ma go and spend those hundreds though I don't care if she had a man, so? (man)",
+      "valence": 2.76,
+      "arousal": 3.47,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Like it ain't shit but a dollar sign Hold up, I'ma go and spend those hundreds though I don't care if she had a man, so? (man) Pedicure gang, get your fingernails did",
+      "valence": 2.45,
+      "arousal": 3.58,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Hold up, I'ma go and spend those hundreds though I don't care if she had a man, so? (man) Pedicure gang, get your fingernails did With no shame, flip that ass like heads or tails (tails)",
+      "valence": 2.48,
+      "arousal": 3.65,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I don't care if she had a man, so? (man) Pedicure gang, get your fingernails did With no shame, flip that ass like heads or tails (tails) And she finer than a motherlover (lover)",
+      "valence": 2.66,
+      "arousal": 3.51,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Pedicure gang, get your fingernails did With no shame, flip that ass like heads or tails (tails) And she finer than a motherlover (lover) Can I hit that ass like a bullseye? (hit)",
+      "valence": 2.44,
+      "arousal": 3.59,
+      "dominance": 3.77
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "With no shame, flip that ass like heads or tails (tails) And she finer than a motherlover (lover) Can I hit that ass like a bullseye? (hit) She gon' suck like a bloodsucker (woo)",
+      "valence": 2.57,
+      "arousal": 3.74,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "And she finer than a motherlover (lover) Can I hit that ass like a bullseye? (hit) She gon' suck like a bloodsucker (woo) My fee higher than a motherfucker",
+      "valence": 2.19,
+      "arousal": 3.83,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Can I hit that ass like a bullseye? (hit) She gon' suck like a bloodsucker (woo) My fee higher than a motherfucker Oh, I hear you like fast cash (fast cash)",
+      "valence": 2.37,
+      "arousal": 3.87,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "She gon' suck like a bloodsucker (woo) My fee higher than a motherfucker Oh, I hear you like fast cash (fast cash) Baby, you know I got the hots for you (I got the hots)",
+      "valence": 2.6,
+      "arousal": 3.92,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "My fee higher than a motherfucker Oh, I hear you like fast cash (fast cash) Baby, you know I got the hots for you (I got the hots) I've been workin', so I cash in",
+      "valence": 2.87,
+      "arousal": 3.71,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Oh, I hear you like fast cash (fast cash) Baby, you know I got the hots for you (I got the hots) I've been workin', so I cash in She said, \"I only wanna dance for you\" (dance)",
+      "valence": 3.49,
+      "arousal": 3.72,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Baby, you know I got the hots for you (I got the hots) I've been workin', so I cash in She said, \"I only wanna dance for you\" (dance) We have no mercy for you, no (no)",
+      "valence": 3.33,
+      "arousal": 3.8,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I've been workin', so I cash in She said, \"I only wanna dance for you\" (dance) We have no mercy for you, no (no) Me and my niggas closer than in-laws (than in-laws)",
+      "valence": 3.02,
+      "arousal": 3.43,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "She said, \"I only wanna dance for you\" (dance) We have no mercy for you, no (no) Me and my niggas closer than in-laws (than in-laws) Fuck an interview, she know the answer (answer)",
+      "valence": 2.59,
+      "arousal": 3.8,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "We have no mercy for you, no (no) Me and my niggas closer than in-laws (than in-laws) Fuck an interview, she know the answer (answer) Prototype cars not a Jaguar, aaah!",
+      "valence": 2.32,
+      "arousal": 4.1,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Me and my niggas closer than in-laws (than in-laws) Fuck an interview, she know the answer (answer) Prototype cars not a Jaguar, aaah! What's in this mug? Toasted up, no I ain't hostin'",
+      "valence": 2.52,
+      "arousal": 3.97,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Fuck an interview, she know the answer (answer) Prototype cars not a Jaguar, aaah! What's in this mug? Toasted up, no I ain't hostin' Kush all in my lap because these hoes don't want to roll it",
+      "valence": 2.46,
+      "arousal": 4.05,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Prototype cars not a Jaguar, aaah! What's in this mug? Toasted up, no I ain't hostin' Kush all in my lap because these hoes don't want to roll it I was sliding in the Lamb' with the powerglide (oh)",
+      "valence": 2.82,
+      "arousal": 3.89,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "What's in this mug? Toasted up, no I ain't hostin' Kush all in my lap because these hoes don't want to roll it I was sliding in the Lamb' with the powerglide (oh) Slime green paint, peanut butter inside (oh)",
+      "valence": 2.68,
+      "arousal": 3.38,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Kush all in my lap because these hoes don't want to roll it I was sliding in the Lamb' with the powerglide (oh) Slime green paint, peanut butter inside (oh) She wanna fuck, speak up",
+      "valence": 2.27,
+      "arousal": 3.83,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "I was sliding in the Lamb' with the powerglide (oh) Slime green paint, peanut butter inside (oh) She wanna fuck, speak up Comin' out her clothes (oh)",
+      "valence": 2.57,
+      "arousal": 3.64,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Slime green paint, peanut butter inside (oh) She wanna fuck, speak up Comin' out her clothes (oh) I'm in wonderland when she comin' down the pole (whoa)",
+      "valence": 2.52,
+      "arousal": 3.85,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "She wanna fuck, speak up Comin' out her clothes (oh) I'm in wonderland when she comin' down the pole (whoa) And I don't care if she take all of mine (oh)",
+      "valence": 2.28,
+      "arousal": 3.96,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Comin' out her clothes (oh) I'm in wonderland when she comin' down the pole (whoa) And I don't care if she take all of mine (oh) Like it ain't shit but a dollar sign",
+      "valence": 3.14,
+      "arousal": 3.68,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "I'm in wonderland when she comin' down the pole (whoa) And I don't care if she take all of mine (oh) Like it ain't shit but a dollar sign Duck sauce on my feet, hoe, pass around the pre-rolls",
+      "valence": 3.06,
+      "arousal": 3.62,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "And I don't care if she take all of mine (oh) Like it ain't shit but a dollar sign Duck sauce on my feet, hoe, pass around the pre-rolls Rollie on my chain, Flava Flav with the Steez, hoe",
+      "valence": 2.94,
+      "arousal": 3.4,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Like it ain't shit but a dollar sign Duck sauce on my feet, hoe, pass around the pre-rolls Rollie on my chain, Flava Flav with the Steez, hoe Kush residue on my jeans, I blow hella dope",
+      "valence": 2.85,
+      "arousal": 3.63,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Duck sauce on my feet, hoe, pass around the pre-rolls Rollie on my chain, Flava Flav with the Steez, hoe Kush residue on my jeans, I blow hella dope And them classic Reeboks, whiter than snow",
+      "valence": 3.07,
+      "arousal": 3.45,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Rollie on my chain, Flava Flav with the Steez, hoe Kush residue on my jeans, I blow hella dope And them classic Reeboks, whiter than snow And a nigga be dressin', walkin' 'round, Gucci steppin'",
+      "valence": 3.07,
+      "arousal": 3.51,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Kush residue on my jeans, I blow hella dope And them classic Reeboks, whiter than snow And a nigga be dressin', walkin' 'round, Gucci steppin' Unintentional flexin', tryna send out a message",
+      "valence": 2.7,
+      "arousal": 3.37,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "And them classic Reeboks, whiter than snow And a nigga be dressin', walkin' 'round, Gucci steppin' Unintentional flexin', tryna send out a message Money walk with the extra, shake that ass wit' ya bestie",
+      "valence": 2.92,
+      "arousal": 3.41,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "And a nigga be dressin', walkin' 'round, Gucci steppin' Unintentional flexin', tryna send out a message Money walk with the extra, shake that ass wit' ya bestie Seein' stars in the rental, got your broad in the rental?",
+      "valence": 2.91,
+      "arousal": 3.35,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Unintentional flexin', tryna send out a message Money walk with the extra, shake that ass wit' ya bestie Seein' stars in the rental, got your broad in the rental? 20K in AOD and it's just me and my kinfolk?",
+      "valence": 2.8,
+      "arousal": 3.4,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Money walk with the extra, shake that ass wit' ya bestie Seein' stars in the rental, got your broad in the rental? 20K in AOD and it's just me and my kinfolk? Tryna send a girl to college, I ain't coppin' no free show",
+      "valence": 2.86,
+      "arousal": 3.42,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Seein' stars in the rental, got your broad in the rental? 20K in AOD and it's just me and my kinfolk? Tryna send a girl to college, I ain't coppin' no free show Say her birthday late July, yeah, that means she a Leo?",
+      "valence": 2.9,
+      "arousal": 3.22,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "20K in AOD and it's just me and my kinfolk? Tryna send a girl to college, I ain't coppin' no free show Say her birthday late July, yeah, that means she a Leo? Might just leave with me tonight, but that don't mean she a freak hoe",
+      "valence": 2.64,
+      "arousal": 3.27,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Tryna send a girl to college, I ain't coppin' no free show Say her birthday late July, yeah, that means she a Leo? Might just leave with me tonight, but that don't mean she a freak hoe Fuck with dancers and models, shout out them girls who get dollars",
+      "valence": 2.37,
+      "arousal": 3.94,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "Say her birthday late July, yeah, that means she a Leo? Might just leave with me tonight, but that don't mean she a freak hoe Fuck with dancers and models, shout out them girls who get dollars Shawty came from the bottom, yeah, shout out Keisha Bottoms",
+      "valence": 2.75,
+      "arousal": 3.81,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "Might just leave with me tonight, but that don't mean she a freak hoe Fuck with dancers and models, shout out them girls who get dollars Shawty came from the bottom, yeah, shout out Keisha Bottoms Couple cases of RosÃ©, came out to me with the sparkles",
+      "valence": 2.95,
+      "arousal": 3.7,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "Fuck with dancers and models, shout out them girls who get dollars Shawty came from the bottom, yeah, shout out Keisha Bottoms Couple cases of RosÃ©, came out to me with the sparkles I pour up for all the girls, but I'ma drink out the bottles",
+      "valence": 2.53,
+      "arousal": 3.88,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "Shawty came from the bottom, yeah, shout out Keisha Bottoms Couple cases of RosÃ©, came out to me with the sparkles I pour up for all the girls, but I'ma drink out the bottles What's in this mug? Toasted up, no I ain't hostin'",
+      "valence": 3.27,
+      "arousal": 3.46,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "Couple cases of RosÃ©, came out to me with the sparkles I pour up for all the girls, but I'ma drink out the bottles What's in this mug? Toasted up, no I ain't hostin' Kush all in my lap because these hoes don't want to roll it",
+      "valence": 2.92,
+      "arousal": 3.39,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "I pour up for all the girls, but I'ma drink out the bottles What's in this mug? Toasted up, no I ain't hostin' Kush all in my lap because these hoes don't want to roll it I was sliding in the Lamb' with the powerglide (oh)",
+      "valence": 2.82,
+      "arousal": 3.36,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "What's in this mug? Toasted up, no I ain't hostin' Kush all in my lap because these hoes don't want to roll it I was sliding in the Lamb' with the powerglide (oh) Slime green paint, peanut butter inside (oh)",
+      "valence": 2.68,
+      "arousal": 3.38,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "Kush all in my lap because these hoes don't want to roll it I was sliding in the Lamb' with the powerglide (oh) Slime green paint, peanut butter inside (oh) She wanna fuck, speak up",
+      "valence": 2.27,
+      "arousal": 3.83,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "I was sliding in the Lamb' with the powerglide (oh) Slime green paint, peanut butter inside (oh) She wanna fuck, speak up Comin' out her clothes (oh)",
+      "valence": 2.57,
+      "arousal": 3.64,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "Slime green paint, peanut butter inside (oh) She wanna fuck, speak up Comin' out her clothes (oh) I'm in wonderland when she comin' down the pole (whoa)",
+      "valence": 2.52,
+      "arousal": 3.85,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "She wanna fuck, speak up Comin' out her clothes (oh) I'm in wonderland when she comin' down the pole (whoa) And I don't care if she take all of mine (oh)",
+      "valence": 2.28,
+      "arousal": 3.96,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 86,
+      "lyrics_text": "Comin' out her clothes (oh) I'm in wonderland when she comin' down the pole (whoa) And I don't care if she take all of mine (oh) Like it ain't shit but a dollar sign",
+      "valence": 3.14,
+      "arousal": 3.68,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 87,
+      "lyrics_text": "I'm in wonderland when she comin' down the pole (whoa) And I don't care if she take all of mine (oh) Like it ain't shit but a dollar sign She got that million dollar pussy, but I get it for the free",
+      "valence": 3.0,
+      "arousal": 3.85,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 88,
+      "lyrics_text": "And I don't care if she take all of mine (oh) Like it ain't shit but a dollar sign She got that million dollar pussy, but I get it for the free She like to do a lot of snow, I told that bitch to come and ski",
+      "valence": 2.63,
+      "arousal": 3.65,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 89,
+      "lyrics_text": "Like it ain't shit but a dollar sign She got that million dollar pussy, but I get it for the free She like to do a lot of snow, I told that bitch to come and ski Shawty bad, she can get it, she can swallow, she can spit it",
+      "valence": 2.48,
+      "arousal": 3.58,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 90,
+      "lyrics_text": "She got that million dollar pussy, but I get it for the free She like to do a lot of snow, I told that bitch to come and ski Shawty bad, she can get it, she can swallow, she can spit it Bring her friend, if she with it, on the pole, y'all can split it",
+      "valence": 2.57,
+      "arousal": 3.61,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 91,
+      "lyrics_text": "She like to do a lot of snow, I told that bitch to come and ski Shawty bad, she can get it, she can swallow, she can spit it Bring her friend, if she with it, on the pole, y'all can split it In the bed or the Lamb'",
+      "valence": 2.48,
+      "arousal": 3.41,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 92,
+      "lyrics_text": "Shawty bad, she can get it, she can swallow, she can spit it Bring her friend, if she with it, on the pole, y'all can split it In the bed or the Lamb' Got your bitch suckin' dick on the 'Gram",
+      "valence": 2.28,
+      "arousal": 3.57,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 93,
+      "lyrics_text": "Bring her friend, if she with it, on the pole, y'all can split it In the bed or the Lamb' Got your bitch suckin' dick on the 'Gram V12 helped me get up out the jam, trunk full of slam",
+      "valence": 2.74,
+      "arousal": 3.59,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 94,
+      "lyrics_text": "In the bed or the Lamb' Got your bitch suckin' dick on the 'Gram V12 helped me get up out the jam, trunk full of slam R.I.P. Lil Peep, I gotta slow down on them Xans (hey)",
+      "valence": 2.3,
+      "arousal": 3.76,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 95,
+      "lyrics_text": "Got your bitch suckin' dick on the 'Gram V12 helped me get up out the jam, trunk full of slam R.I.P. Lil Peep, I gotta slow down on them Xans (hey) Just had a mÃ©nage (hey), back seat of my Benz (hey)",
+      "valence": 2.28,
+      "arousal": 3.75,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 96,
+      "lyrics_text": "V12 helped me get up out the jam, trunk full of slam R.I.P. Lil Peep, I gotta slow down on them Xans (hey) Just had a mÃ©nage (hey), back seat of my Benz (hey) Put that shit on camera (hey), she squirted on the lens (hey)",
+      "valence": 2.75,
+      "arousal": 3.56,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 97,
+      "lyrics_text": "R.I.P. Lil Peep, I gotta slow down on them Xans (hey) Just had a mÃ©nage (hey), back seat of my Benz (hey) Put that shit on camera (hey), she squirted on the lens (hey) Then she told me put it on her chinny chin-chin (hey)",
+      "valence": 2.52,
+      "arousal": 3.62,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 98,
+      "lyrics_text": "Just had a mÃ©nage (hey), back seat of my Benz (hey) Put that shit on camera (hey), she squirted on the lens (hey) Then she told me put it on her chinny chin-chin (hey) Pocket full of nothin' but them Benjy Franklins",
+      "valence": 2.7,
+      "arousal": 3.46,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 99,
+      "lyrics_text": "Put that shit on camera (hey), she squirted on the lens (hey) Then she told me put it on her chinny chin-chin (hey) Pocket full of nothin' but them Benjy Franklins In the game, posted up (up), puttin' numbers up (up)",
+      "valence": 2.77,
+      "arousal": 3.41,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 100,
+      "lyrics_text": "Then she told me put it on her chinny chin-chin (hey) Pocket full of nothin' but them Benjy Franklins In the game, posted up (up), puttin' numbers up (up) Bitch, run me that check first, I don't wanna fuck (yeah)",
+      "valence": 2.55,
+      "arousal": 3.53,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 101,
+      "lyrics_text": "Pocket full of nothin' but them Benjy Franklins In the game, posted up (up), puttin' numbers up (up) Bitch, run me that check first, I don't wanna fuck (yeah) They say it's cuffin' season, baby, you ain't good enough (nope)",
+      "valence": 2.4,
+      "arousal": 3.39,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 102,
+      "lyrics_text": "In the game, posted up (up), puttin' numbers up (up) Bitch, run me that check first, I don't wanna fuck (yeah) They say it's cuffin' season, baby, you ain't good enough (nope) She want a real nigga, dog, you ain't hood enough",
+      "valence": 2.48,
+      "arousal": 3.37,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 103,
+      "lyrics_text": "Bitch, run me that check first, I don't wanna fuck (yeah) They say it's cuffin' season, baby, you ain't good enough (nope) She want a real nigga, dog, you ain't hood enough What's in this mug? Toasted up, no I ain't hostin'",
+      "valence": 2.23,
+      "arousal": 3.48,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 104,
+      "lyrics_text": "They say it's cuffin' season, baby, you ain't good enough (nope) She want a real nigga, dog, you ain't hood enough What's in this mug? Toasted up, no I ain't hostin' Kush all in my lap because these hoes don't want to roll it",
+      "valence": 2.46,
+      "arousal": 3.29,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 105,
+      "lyrics_text": "She want a real nigga, dog, you ain't hood enough What's in this mug? Toasted up, no I ain't hostin' Kush all in my lap because these hoes don't want to roll it I was sliding in the Lamb' with the powerglide (oh)",
+      "valence": 2.52,
+      "arousal": 3.41,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 106,
+      "lyrics_text": "What's in this mug? Toasted up, no I ain't hostin' Kush all in my lap because these hoes don't want to roll it I was sliding in the Lamb' with the powerglide (oh) Slime green paint, peanut butter inside (oh)",
+      "valence": 2.68,
+      "arousal": 3.38,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 107,
+      "lyrics_text": "Kush all in my lap because these hoes don't want to roll it I was sliding in the Lamb' with the powerglide (oh) Slime green paint, peanut butter inside (oh) She wanna fuck, speak up",
+      "valence": 2.27,
+      "arousal": 3.83,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 108,
+      "lyrics_text": "I was sliding in the Lamb' with the powerglide (oh) Slime green paint, peanut butter inside (oh) She wanna fuck, speak up Comin' out her clothes (oh)",
+      "valence": 2.57,
+      "arousal": 3.64,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 109,
+      "lyrics_text": "Slime green paint, peanut butter inside (oh) She wanna fuck, speak up Comin' out her clothes (oh) I'm in wonderland when she comin' down the pole (whoa)",
+      "valence": 2.52,
+      "arousal": 3.85,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 110,
+      "lyrics_text": "She wanna fuck, speak up Comin' out her clothes (oh) I'm in wonderland when she comin' down the pole (whoa) And I don't care if she take all of mine (oh)",
+      "valence": 2.28,
+      "arousal": 3.96,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 111,
+      "lyrics_text": "Comin' out her clothes (oh) I'm in wonderland when she comin' down the pole (whoa) And I don't care if she take all of mine (oh) Like it ain't shit but a dollar sign",
+      "valence": 3.14,
+      "arousal": 3.68,
+      "dominance": 3.16
+    }
+  ]
+}

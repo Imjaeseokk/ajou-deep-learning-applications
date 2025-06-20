@@ -1,0 +1,276 @@
+{
+  "artist": "David Guetta Featuring Sia",
+  "overall_vad": {
+    "valence": 2.64,
+    "arousal": 3.57,
+    "dominance": 3.27
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "You shout it out But I can't hear a word you say I'm talking loud, not saying much I'm criticized, but all your bullets ricochet",
+      "valence": 2.3,
+      "arousal": 3.66,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "But I can't hear a word you say I'm talking loud, not saying much I'm criticized, but all your bullets ricochet Shoot me down, but I get up",
+      "valence": 2.28,
+      "arousal": 3.73,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I'm talking loud, not saying much I'm criticized, but all your bullets ricochet Shoot me down, but I get up I'm bulletproof, nothing to lose",
+      "valence": 2.55,
+      "arousal": 3.68,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I'm criticized, but all your bullets ricochet Shoot me down, but I get up I'm bulletproof, nothing to lose Fire away, fire away",
+      "valence": 2.52,
+      "arousal": 3.71,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Shoot me down, but I get up I'm bulletproof, nothing to lose Fire away, fire away Ricochet, you take your aim",
+      "valence": 2.78,
+      "arousal": 3.65,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I'm bulletproof, nothing to lose Fire away, fire away Ricochet, you take your aim Fire away, fire away",
+      "valence": 2.98,
+      "arousal": 3.5,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Fire away, fire away Ricochet, you take your aim Fire away, fire away You shoot me down, but I won't fall",
+      "valence": 2.5,
+      "arousal": 3.71,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Ricochet, you take your aim Fire away, fire away You shoot me down, but I won't fall I am titanium",
+      "valence": 2.54,
+      "arousal": 3.65,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Fire away, fire away You shoot me down, but I won't fall I am titanium You shoot me down, but I won't fall",
+      "valence": 2.38,
+      "arousal": 3.88,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "You shoot me down, but I won't fall I am titanium You shoot me down, but I won't fall I am titanium",
+      "valence": 2.62,
+      "arousal": 3.5,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I am titanium You shoot me down, but I won't fall I am titanium Cut me down",
+      "valence": 2.56,
+      "arousal": 3.57,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "You shoot me down, but I won't fall I am titanium Cut me down But it's you who'll have further to fall",
+      "valence": 2.39,
+      "arousal": 3.59,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I am titanium Cut me down But it's you who'll have further to fall Ghost town and haunted love",
+      "valence": 2.61,
+      "arousal": 3.49,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Cut me down But it's you who'll have further to fall Ghost town and haunted love Raise your voice",
+      "valence": 2.76,
+      "arousal": 3.55,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "But it's you who'll have further to fall Ghost town and haunted love Raise your voice Sticks and stones may break my bones",
+      "valence": 2.64,
+      "arousal": 3.77,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Ghost town and haunted love Raise your voice Sticks and stones may break my bones Talking loud, not saying much",
+      "valence": 3.07,
+      "arousal": 3.78,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Raise your voice Sticks and stones may break my bones Talking loud, not saying much I'm bulletproof, nothing to lose",
+      "valence": 2.64,
+      "arousal": 3.7,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Sticks and stones may break my bones Talking loud, not saying much I'm bulletproof, nothing to lose Fire away, fire away",
+      "valence": 2.55,
+      "arousal": 3.52,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Talking loud, not saying much I'm bulletproof, nothing to lose Fire away, fire away Ricochet, you take your aim",
+      "valence": 2.89,
+      "arousal": 3.46,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I'm bulletproof, nothing to lose Fire away, fire away Ricochet, you take your aim Fire away, fire away",
+      "valence": 2.98,
+      "arousal": 3.5,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Fire away, fire away Ricochet, you take your aim Fire away, fire away You shoot me down, but I won't fall",
+      "valence": 2.5,
+      "arousal": 3.71,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Ricochet, you take your aim Fire away, fire away You shoot me down, but I won't fall I am titanium",
+      "valence": 2.54,
+      "arousal": 3.65,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Fire away, fire away You shoot me down, but I won't fall I am titanium You shoot me down, but I won't fall",
+      "valence": 2.38,
+      "arousal": 3.88,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "You shoot me down, but I won't fall I am titanium You shoot me down, but I won't fall I am titanium",
+      "valence": 2.62,
+      "arousal": 3.5,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I am titanium You shoot me down, but I won't fall I am titanium I am titanium",
+      "valence": 2.79,
+      "arousal": 3.5,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "You shoot me down, but I won't fall I am titanium I am titanium I am titanium",
+      "valence": 2.79,
+      "arousal": 3.5,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I am titanium I am titanium I am titanium Stone-hard, machine gun",
+      "valence": 3.03,
+      "arousal": 3.12,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I am titanium I am titanium Stone-hard, machine gun Firing at the ones who run",
+      "valence": 2.87,
+      "arousal": 3.33,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I am titanium Stone-hard, machine gun Firing at the ones who run Stone-hard as bulletproof glass",
+      "valence": 2.82,
+      "arousal": 3.26,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Stone-hard, machine gun Firing at the ones who run Stone-hard as bulletproof glass You shoot me down, but I won't fall",
+      "valence": 2.55,
+      "arousal": 3.48,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Firing at the ones who run Stone-hard as bulletproof glass You shoot me down, but I won't fall I am titanium",
+      "valence": 2.57,
+      "arousal": 3.58,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Stone-hard as bulletproof glass You shoot me down, but I won't fall I am titanium You shoot me down, but I won't fall",
+      "valence": 2.53,
+      "arousal": 3.7,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "You shoot me down, but I won't fall I am titanium You shoot me down, but I won't fall I am titanium",
+      "valence": 2.62,
+      "arousal": 3.5,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I am titanium You shoot me down, but I won't fall I am titanium You shoot me down, but I won't fall",
+      "valence": 2.65,
+      "arousal": 3.48,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "You shoot me down, but I won't fall I am titanium You shoot me down, but I won't fall I am titanium",
+      "valence": 2.62,
+      "arousal": 3.5,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I am titanium You shoot me down, but I won't fall I am titanium You shoot me down, but I won't fall",
+      "valence": 2.65,
+      "arousal": 3.48,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "You shoot me down, but I won't fall I am titanium You shoot me down, but I won't fall I am titanium",
+      "valence": 2.62,
+      "arousal": 3.5,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "I am titanium You shoot me down, but I won't fall I am titanium I am titanium",
+      "valence": 2.79,
+      "arousal": 3.5,
+      "dominance": 3.27
+    }
+  ]
+}

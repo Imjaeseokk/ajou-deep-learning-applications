@@ -1,0 +1,472 @@
+{
+  "artist": "NLE Choppa",
+  "overall_vad": {
+    "valence": 2.56,
+    "arousal": 3.65,
+    "dominance": 3.49
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I wish everything I touch would turn to gold NLE, you heard me Baby Mexico Choppa man, top shotta Baby Mexico shotta",
+      "valence": 3.03,
+      "arousal": 3.54,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "NLE, you heard me Baby Mexico Choppa man, top shotta Baby Mexico shotta We finna talk our shit, you heard me",
+      "valence": 2.78,
+      "arousal": 3.65,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Baby Mexico Choppa man, top shotta Baby Mexico shotta We finna talk our shit, you heard me Why not? Yeah",
+      "valence": 2.78,
+      "arousal": 3.63,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Baby Mexico shotta We finna talk our shit, you heard me Why not? Yeah Yeah, yeah",
+      "valence": 2.78,
+      "arousal": 3.53,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "We finna talk our shit, you heard me Why not? Yeah Yeah, yeah Yeah, yeah, yeah, yeah",
+      "valence": 2.95,
+      "arousal": 3.56,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Why not? Yeah Yeah, yeah Yeah, yeah, yeah, yeah I am a menace, keep me a rack just like tennis",
+      "valence": 2.7,
+      "arousal": 3.63,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Yeah, yeah Yeah, yeah, yeah, yeah I am a menace, keep me a rack just like tennis I'm with the shit like I'm Dennis",
+      "valence": 2.59,
+      "arousal": 3.8,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Yeah, yeah, yeah, yeah I am a menace, keep me a rack just like tennis I'm with the shit like I'm Dennis I started this shit, I'ma finish",
+      "valence": 2.3,
+      "arousal": 3.92,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I am a menace, keep me a rack just like tennis I'm with the shit like I'm Dennis I started this shit, I'ma finish Niggas be hatin', tryna blemish my image",
+      "valence": 2.06,
+      "arousal": 3.83,
+      "dominance": 3.77
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I'm with the shit like I'm Dennis I started this shit, I'ma finish Niggas be hatin', tryna blemish my image Who want the smoke? .223 came with the scope",
+      "valence": 2.4,
+      "arousal": 3.52,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I started this shit, I'ma finish Niggas be hatin', tryna blemish my image Who want the smoke? .223 came with the scope Extended clip long as a rope",
+      "valence": 2.4,
+      "arousal": 3.53,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Niggas be hatin', tryna blemish my image Who want the smoke? .223 came with the scope Extended clip long as a rope We wipe his nose, just like he had him a cold",
+      "valence": 2.56,
+      "arousal": 3.24,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Who want the smoke? .223 came with the scope Extended clip long as a rope We wipe his nose, just like he had him a cold I knew that boy was a hoe",
+      "valence": 2.64,
+      "arousal": 3.2,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Extended clip long as a rope We wipe his nose, just like he had him a cold I knew that boy was a hoe Pull up with the gang, you know that we bangin'",
+      "valence": 2.69,
+      "arousal": 3.26,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "We wipe his nose, just like he had him a cold I knew that boy was a hoe Pull up with the gang, you know that we bangin' What is your set, nigga? What is you claimin'?",
+      "valence": 2.64,
+      "arousal": 3.29,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I knew that boy was a hoe Pull up with the gang, you know that we bangin' What is your set, nigga? What is you claimin'? I am a beast, you cannot tame it",
+      "valence": 2.41,
+      "arousal": 3.59,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Pull up with the gang, you know that we bangin' What is your set, nigga? What is you claimin'? I am a beast, you cannot tame it Don't point the finger, this shit can get dangerous",
+      "valence": 2.3,
+      "arousal": 3.77,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "What is your set, nigga? What is you claimin'? I am a beast, you cannot tame it Don't point the finger, this shit can get dangerous These niggas hatin', these niggas plottin'",
+      "valence": 2.2,
+      "arousal": 3.61,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I am a beast, you cannot tame it Don't point the finger, this shit can get dangerous These niggas hatin', these niggas plottin' Ooh, he got money, I'm runnin' his wallet",
+      "valence": 2.25,
+      "arousal": 3.59,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Don't point the finger, this shit can get dangerous These niggas hatin', these niggas plottin' Ooh, he got money, I'm runnin' his wallet You say you a killer, lil' nigga stop it",
+      "valence": 2.25,
+      "arousal": 3.58,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "These niggas hatin', these niggas plottin' Ooh, he got money, I'm runnin' his wallet You say you a killer, lil' nigga stop it In a shoot out, your gun was droppin'",
+      "valence": 2.35,
+      "arousal": 3.57,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Ooh, he got money, I'm runnin' his wallet You say you a killer, lil' nigga stop it In a shoot out, your gun was droppin' You really a fraud",
+      "valence": 2.32,
+      "arousal": 3.72,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "You say you a killer, lil' nigga stop it In a shoot out, your gun was droppin' You really a fraud You cannot stomp on his yard",
+      "valence": 1.98,
+      "arousal": 3.71,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "In a shoot out, your gun was droppin' You really a fraud You cannot stomp on his yard My nigga they scammin', they swipin' them cards",
+      "valence": 2.14,
+      "arousal": 3.73,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "You really a fraud You cannot stomp on his yard My nigga they scammin', they swipin' them cards I am so high that I'm talking' to stars",
+      "valence": 2.14,
+      "arousal": 3.81,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "You cannot stomp on his yard My nigga they scammin', they swipin' them cards I am so high that I'm talking' to stars I'm gone off them jiggas, I'm poppin' them bars",
+      "valence": 2.23,
+      "arousal": 3.78,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "My nigga they scammin', they swipin' them cards I am so high that I'm talking' to stars I'm gone off them jiggas, I'm poppin' them bars Don't mind my pimpin', bitch, don't sweat me",
+      "valence": 2.29,
+      "arousal": 3.77,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I am so high that I'm talking' to stars I'm gone off them jiggas, I'm poppin' them bars Don't mind my pimpin', bitch, don't sweat me Choppa got a kick, call that shit Jet Li",
+      "valence": 2.73,
+      "arousal": 3.77,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I'm gone off them jiggas, I'm poppin' them bars Don't mind my pimpin', bitch, don't sweat me Choppa got a kick, call that shit Jet Li Sauce gang drip though, what is your recipe?",
+      "valence": 2.64,
+      "arousal": 3.54,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Don't mind my pimpin', bitch, don't sweat me Choppa got a kick, call that shit Jet Li Sauce gang drip though, what is your recipe? Don't get a F if a nigga try to testin' me",
+      "valence": 2.24,
+      "arousal": 3.58,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Choppa got a kick, call that shit Jet Li Sauce gang drip though, what is your recipe? Don't get a F if a nigga try to testin' me Whole lotta money, whole lotta guala",
+      "valence": 2.45,
+      "arousal": 3.64,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Sauce gang drip though, what is your recipe? Don't get a F if a nigga try to testin' me Whole lotta money, whole lotta guala Hit the party 50 deep, nun' but my shotta",
+      "valence": 2.64,
+      "arousal": 3.54,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Don't get a F if a nigga try to testin' me Whole lotta money, whole lotta guala Hit the party 50 deep, nun' but my shotta Nigga tried me, so you know I had to pop him",
+      "valence": 2.43,
+      "arousal": 3.66,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Whole lotta money, whole lotta guala Hit the party 50 deep, nun' but my shotta Nigga tried me, so you know I had to pop him So many bullets, it confused the doctor",
+      "valence": 2.49,
+      "arousal": 3.67,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Hit the party 50 deep, nun' but my shotta Nigga tried me, so you know I had to pop him So many bullets, it confused the doctor Whole lotta racks, whole lotta stacks",
+      "valence": 2.5,
+      "arousal": 3.64,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Nigga tried me, so you know I had to pop him So many bullets, it confused the doctor Whole lotta racks, whole lotta stacks Fuck a headshot, I'ma shoot him in the back",
+      "valence": 2.39,
+      "arousal": 3.67,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "So many bullets, it confused the doctor Whole lotta racks, whole lotta stacks Fuck a headshot, I'ma shoot him in the back 3.5 rolled up in the cack",
+      "valence": 2.42,
+      "arousal": 3.65,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Whole lotta racks, whole lotta stacks Fuck a headshot, I'ma shoot him in the back 3.5 rolled up in the cack We don't smoke Reggie, this shit called gas",
+      "valence": 2.25,
+      "arousal": 3.61,
+      "dominance": 3.77
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Fuck a headshot, I'ma shoot him in the back 3.5 rolled up in the cack We don't smoke Reggie, this shit called gas I'm sticked up, like a blind man",
+      "valence": 2.1,
+      "arousal": 3.75,
+      "dominance": 3.81
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "3.5 rolled up in the cack We don't smoke Reggie, this shit called gas I'm sticked up, like a blind man I'm super hot, like a frying pan",
+      "valence": 2.66,
+      "arousal": 3.3,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "We don't smoke Reggie, this shit called gas I'm sticked up, like a blind man I'm super hot, like a frying pan He said that he gon' take some from me",
+      "valence": 2.62,
+      "arousal": 3.42,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "I'm sticked up, like a blind man I'm super hot, like a frying pan He said that he gon' take some from me Ayy, just know, he lyin' man",
+      "valence": 2.83,
+      "arousal": 3.54,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I'm super hot, like a frying pan He said that he gon' take some from me Ayy, just know, he lyin' man I'ma up from my hip then blow like a whistle",
+      "valence": 3.0,
+      "arousal": 3.64,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "He said that he gon' take some from me Ayy, just know, he lyin' man I'ma up from my hip then blow like a whistle Your bitch suckin' dick like a Kool-Aid pickle",
+      "valence": 2.23,
+      "arousal": 3.68,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Ayy, just know, he lyin' man I'ma up from my hip then blow like a whistle Your bitch suckin' dick like a Kool-Aid pickle Two bullets in your chest, that's a nipple",
+      "valence": 2.1,
+      "arousal": 3.79,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I'ma up from my hip then blow like a whistle Your bitch suckin' dick like a Kool-Aid pickle Two bullets in your chest, that's a nipple And if a nigga run up, I'ma pop him like a pimple",
+      "valence": 2.16,
+      "arousal": 3.7,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Your bitch suckin' dick like a Kool-Aid pickle Two bullets in your chest, that's a nipple And if a nigga run up, I'ma pop him like a pimple Get rich or die tryin', I'm feelin' like 50",
+      "valence": 1.97,
+      "arousal": 3.73,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Two bullets in your chest, that's a nipple And if a nigga run up, I'ma pop him like a pimple Get rich or die tryin', I'm feelin' like 50 Brand new choppa got double d titties",
+      "valence": 2.73,
+      "arousal": 3.69,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "And if a nigga run up, I'ma pop him like a pimple Get rich or die tryin', I'm feelin' like 50 Brand new choppa got double d titties Niggas don't play me, I don't get silly",
+      "valence": 2.55,
+      "arousal": 3.56,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Get rich or die tryin', I'm feelin' like 50 Brand new choppa got double d titties Niggas don't play me, I don't get silly Love all the beef like a southwest Philly, yeah",
+      "valence": 2.73,
+      "arousal": 3.63,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Brand new choppa got double d titties Niggas don't play me, I don't get silly Love all the beef like a southwest Philly, yeah Yeah, love all the beef like a southwest deli, yeah",
+      "valence": 3.24,
+      "arousal": 3.78,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Niggas don't play me, I don't get silly Love all the beef like a southwest Philly, yeah Yeah, love all the beef like a southwest deli, yeah Ayy, bitch, love all the beef like a southwest deli",
+      "valence": 3.04,
+      "arousal": 4.02,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Love all the beef like a southwest Philly, yeah Yeah, love all the beef like a southwest deli, yeah Ayy, bitch, love all the beef like a southwest deli I might just OD, Percs killin' me slowly",
+      "valence": 3.78,
+      "arousal": 4.11,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Yeah, love all the beef like a southwest deli, yeah Ayy, bitch, love all the beef like a southwest deli I might just OD, Percs killin' me slowly Feelin' like I'm Kobe, can't ner' nigga hol' me",
+      "valence": 3.52,
+      "arousal": 4.14,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Ayy, bitch, love all the beef like a southwest deli I might just OD, Percs killin' me slowly Feelin' like I'm Kobe, can't ner' nigga hol' me If he wanna run up on me, shoot 'em like Ginobili",
+      "valence": 2.7,
+      "arousal": 4.06,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "I might just OD, Percs killin' me slowly Feelin' like I'm Kobe, can't ner' nigga hol' me If he wanna run up on me, shoot 'em like Ginobili And I'm with the shit lil' homie, yeah, like I'm Toby, yeah",
+      "valence": 2.5,
+      "arousal": 3.66,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Feelin' like I'm Kobe, can't ner' nigga hol' me If he wanna run up on me, shoot 'em like Ginobili And I'm with the shit lil' homie, yeah, like I'm Toby, yeah And I'm with the shit lil' homie, yeah, like I'm Toby, yeah",
+      "valence": 2.66,
+      "arousal": 3.64,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "If he wanna run up on me, shoot 'em like Ginobili And I'm with the shit lil' homie, yeah, like I'm Toby, yeah And I'm with the shit lil' homie, yeah, like I'm Toby, yeah Bitch!",
+      "valence": 2.43,
+      "arousal": 4.06,
+      "dominance": 3.84
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "And I'm with the shit lil' homie, yeah, like I'm Toby, yeah And I'm with the shit lil' homie, yeah, like I'm Toby, yeah Bitch! Finna ad-lib, keep all that",
+      "valence": 2.45,
+      "arousal": 4.04,
+      "dominance": 3.83
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "And I'm with the shit lil' homie, yeah, like I'm Toby, yeah Bitch! Finna ad-lib, keep all that (Like a school shooter, like I'm Toby, yeah)",
+      "valence": 2.45,
+      "arousal": 3.88,
+      "dominance": 3.79
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Bitch! Finna ad-lib, keep all that (Like a school shooter, like I'm Toby, yeah) Keep all that Tay, yeah (Huh, huh)",
+      "valence": 2.68,
+      "arousal": 3.53,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Finna ad-lib, keep all that (Like a school shooter, like I'm Toby, yeah) Keep all that Tay, yeah (Huh, huh) (This shit straight drop, lil' nigga, no cut)",
+      "valence": 2.69,
+      "arousal": 3.42,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "(Like a school shooter, like I'm Toby, yeah) Keep all that Tay, yeah (Huh, huh) (This shit straight drop, lil' nigga, no cut) Ayy Tay, keep all that",
+      "valence": 2.67,
+      "arousal": 3.45,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Keep all that Tay, yeah (Huh, huh) (This shit straight drop, lil' nigga, no cut) Ayy Tay, keep all that (Straight drop, lil' nigga, no cut)",
+      "valence": 2.9,
+      "arousal": 3.42,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "(This shit straight drop, lil' nigga, no cut) Ayy Tay, keep all that (Straight drop, lil' nigga, no cut) Keep all that, yeah, yeah",
+      "valence": 2.89,
+      "arousal": 3.46,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Ayy Tay, keep all that (Straight drop, lil' nigga, no cut) Keep all that, yeah, yeah (Up from my hip, yeah)",
+      "valence": 3.1,
+      "arousal": 3.31,
+      "dominance": 3.45
+    }
+  ]
+}

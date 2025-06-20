@@ -1,0 +1,402 @@
+{
+  "artist": "AJR",
+  "overall_vad": {
+    "valence": 3.13,
+    "arousal": 3.57,
+    "dominance": 3.4
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Are you ready You're feeling good, you're feeling right Across the floor, and I'm already losing my mind Baby girl, looking fine",
+      "valence": 3.7,
+      "arousal": 3.42,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "You're feeling good, you're feeling right Across the floor, and I'm already losing my mind Baby girl, looking fine Watch you playing and playing and playing these guys",
+      "valence": 3.76,
+      "arousal": 3.59,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Across the floor, and I'm already losing my mind Baby girl, looking fine Watch you playing and playing and playing these guys Catch my stare, little smile",
+      "valence": 3.73,
+      "arousal": 3.57,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Baby girl, looking fine Watch you playing and playing and playing these guys Catch my stare, little smile Tell me that you're ready and you're feeling the vibe",
+      "valence": 3.85,
+      "arousal": 3.47,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Watch you playing and playing and playing these guys Catch my stare, little smile Tell me that you're ready and you're feeling the vibe Someday I'll be so damn sublime,",
+      "valence": 3.8,
+      "arousal": 3.71,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Catch my stare, little smile Tell me that you're ready and you're feeling the vibe Someday I'll be so damn sublime, We'll arrive behind a hash-tag sign",
+      "valence": 3.69,
+      "arousal": 3.72,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Tell me that you're ready and you're feeling the vibe Someday I'll be so damn sublime, We'll arrive behind a hash-tag sign I won't forget you, but I may",
+      "valence": 3.46,
+      "arousal": 3.72,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Someday I'll be so damn sublime, We'll arrive behind a hash-tag sign I won't forget you, but I may Forget your name",
+      "valence": 3.1,
+      "arousal": 3.52,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "We'll arrive behind a hash-tag sign I won't forget you, but I may Forget your name My lady",
+      "valence": 2.95,
+      "arousal": 3.18,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I won't forget you, but I may Forget your name My lady I know what you're thinking",
+      "valence": 2.81,
+      "arousal": 3.14,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Forget your name My lady I know what you're thinking When the bass starts ringing",
+      "valence": 2.74,
+      "arousal": 3.42,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "My lady I know what you're thinking When the bass starts ringing Can you tell me when you're stoked to start?",
+      "valence": 3.34,
+      "arousal": 3.59,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I know what you're thinking When the bass starts ringing Can you tell me when you're stoked to start? Are you ready for tonight,",
+      "valence": 3.31,
+      "arousal": 3.55,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "When the bass starts ringing Can you tell me when you're stoked to start? Are you ready for tonight, Set this shit on fire",
+      "valence": 3.11,
+      "arousal": 3.62,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Can you tell me when you're stoked to start? Are you ready for tonight, Set this shit on fire And we'll dance until we're dumb in the dark",
+      "valence": 3.08,
+      "arousal": 3.66,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Are you ready for tonight, Set this shit on fire And we'll dance until we're dumb in the dark My lady",
+      "valence": 2.99,
+      "arousal": 3.74,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Set this shit on fire And we'll dance until we're dumb in the dark My lady I know what you're thinking",
+      "valence": 2.55,
+      "arousal": 3.81,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "And we'll dance until we're dumb in the dark My lady I know what you're thinking When the bass starts ringing",
+      "valence": 3.11,
+      "arousal": 3.6,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "My lady I know what you're thinking When the bass starts ringing Can you tell me when you're stoked to start?",
+      "valence": 3.34,
+      "arousal": 3.59,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I know what you're thinking When the bass starts ringing Can you tell me when you're stoked to start? Are you ready for tonight,",
+      "valence": 3.31,
+      "arousal": 3.55,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "When the bass starts ringing Can you tell me when you're stoked to start? Are you ready for tonight, Set this shit on fire",
+      "valence": 3.11,
+      "arousal": 3.62,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Can you tell me when you're stoked to start? Are you ready for tonight, Set this shit on fire And we'll dance until we're dumb in the dark",
+      "valence": 3.08,
+      "arousal": 3.66,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Are you ready for tonight, Set this shit on fire And we'll dance until we're dumb in the dark Are you ready?",
+      "valence": 2.93,
+      "arousal": 3.69,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Set this shit on fire And we'll dance until we're dumb in the dark Are you ready? I'm ready",
+      "valence": 2.99,
+      "arousal": 3.77,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "And we'll dance until we're dumb in the dark Are you ready? I'm ready Break me down, dirty jokes",
+      "valence": 2.99,
+      "arousal": 3.61,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Are you ready? I'm ready Break me down, dirty jokes Watch me dear, and say what you wanna know",
+      "valence": 3.12,
+      "arousal": 3.58,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I'm ready Break me down, dirty jokes Watch me dear, and say what you wanna know Beauty lies, within the eyes",
+      "valence": 3.0,
+      "arousal": 3.48,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Break me down, dirty jokes Watch me dear, and say what you wanna know Beauty lies, within the eyes Of the beholder, I'll be holding you close all night",
+      "valence": 3.1,
+      "arousal": 3.57,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Watch me dear, and say what you wanna know Beauty lies, within the eyes Of the beholder, I'll be holding you close all night I won't forget you, but I may",
+      "valence": 3.28,
+      "arousal": 3.31,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Beauty lies, within the eyes Of the beholder, I'll be holding you close all night I won't forget you, but I may Forget your name",
+      "valence": 3.52,
+      "arousal": 3.47,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Of the beholder, I'll be holding you close all night I won't forget you, but I may Forget your name My lady",
+      "valence": 3.16,
+      "arousal": 3.23,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I won't forget you, but I may Forget your name My lady I know what you're thinking",
+      "valence": 2.81,
+      "arousal": 3.14,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Forget your name My lady I know what you're thinking When the bass starts ringing",
+      "valence": 2.74,
+      "arousal": 3.42,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "My lady I know what you're thinking When the bass starts ringing Can you tell me when you're stoked to start?",
+      "valence": 3.34,
+      "arousal": 3.59,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I know what you're thinking When the bass starts ringing Can you tell me when you're stoked to start? Are you ready for tonight,",
+      "valence": 3.31,
+      "arousal": 3.55,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "When the bass starts ringing Can you tell me when you're stoked to start? Are you ready for tonight, Set this shit on fire",
+      "valence": 3.11,
+      "arousal": 3.62,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Can you tell me when you're stoked to start? Are you ready for tonight, Set this shit on fire And we'll dance until we're dumb in the dark",
+      "valence": 3.08,
+      "arousal": 3.66,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Are you ready for tonight, Set this shit on fire And we'll dance until we're dumb in the dark My lady",
+      "valence": 2.99,
+      "arousal": 3.74,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Set this shit on fire And we'll dance until we're dumb in the dark My lady I know what you're thinking",
+      "valence": 2.55,
+      "arousal": 3.81,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "And we'll dance until we're dumb in the dark My lady I know what you're thinking When the bass starts ringing",
+      "valence": 3.11,
+      "arousal": 3.6,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "My lady I know what you're thinking When the bass starts ringing Can you tell me when you're stoked to start?",
+      "valence": 3.34,
+      "arousal": 3.59,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "I know what you're thinking When the bass starts ringing Can you tell me when you're stoked to start? Are you ready for tonight,",
+      "valence": 3.31,
+      "arousal": 3.55,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "When the bass starts ringing Can you tell me when you're stoked to start? Are you ready for tonight, Set this shit on fire",
+      "valence": 3.11,
+      "arousal": 3.62,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Can you tell me when you're stoked to start? Are you ready for tonight, Set this shit on fire And we'll dance until we're dumb in the dark",
+      "valence": 3.08,
+      "arousal": 3.66,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Are you ready for tonight, Set this shit on fire And we'll dance until we're dumb in the dark Are you ready?",
+      "valence": 2.93,
+      "arousal": 3.69,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Set this shit on fire And we'll dance until we're dumb in the dark Are you ready? I'm ready",
+      "valence": 2.99,
+      "arousal": 3.77,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "And we'll dance until we're dumb in the dark Are you ready? I'm ready Break me down, I'm ready, break me down",
+      "valence": 3.18,
+      "arousal": 3.59,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Are you ready? I'm ready Break me down, I'm ready, break me down Break me down, I'm ready, break me down",
+      "valence": 3.17,
+      "arousal": 3.59,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I'm ready Break me down, I'm ready, break me down Break me down, I'm ready, break me down Break me down, I'm ready, break me down",
+      "valence": 3.07,
+      "arousal": 3.56,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Break me down, I'm ready, break me down Break me down, I'm ready, break me down Break me down, I'm ready, break me down Break me down, I'm ready, break me down",
+      "valence": 2.9,
+      "arousal": 3.57,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Break me down, I'm ready, break me down Break me down, I'm ready, break me down Break me down, I'm ready, break me down I won't forget you, but I may",
+      "valence": 2.8,
+      "arousal": 3.62,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Break me down, I'm ready, break me down Break me down, I'm ready, break me down I won't forget you, but I may Forget your name",
+      "valence": 2.72,
+      "arousal": 3.53,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Break me down, I'm ready, break me down I won't forget you, but I may Forget your name I'm ready",
+      "valence": 3.0,
+      "arousal": 3.58,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "I won't forget you, but I may Forget your name I'm ready Break me down, I'm ready, break me down",
+      "valence": 2.76,
+      "arousal": 3.56,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Forget your name I'm ready Break me down, I'm ready, break me down Break me down, I'm ready, break me down",
+      "valence": 2.86,
+      "arousal": 3.63,
+      "dominance": 3.82
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "I'm ready Break me down, I'm ready, break me down Break me down, I'm ready, break me down Are you ready?",
+      "valence": 3.16,
+      "arousal": 3.56,
+      "dominance": 3.49
+    }
+  ]
+}

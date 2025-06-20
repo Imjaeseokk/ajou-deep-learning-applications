@@ -1,0 +1,248 @@
+{
+  "artist": "Billie Eilish",
+  "overall_vad": {
+    "valence": 2.63,
+    "arousal": 3.57,
+    "dominance": 2.96
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I've been watchin' you for some time Can't stop starin' at those ocean eyes Burning cities and napalm skies Fifteen flares inside those ocean eyes",
+      "valence": 2.93,
+      "arousal": 3.46,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Can't stop starin' at those ocean eyes Burning cities and napalm skies Fifteen flares inside those ocean eyes Your ocean eyes",
+      "valence": 2.76,
+      "arousal": 3.48,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Burning cities and napalm skies Fifteen flares inside those ocean eyes Your ocean eyes No fair",
+      "valence": 2.52,
+      "arousal": 3.41,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Fifteen flares inside those ocean eyes Your ocean eyes No fair You really know how to make me cry",
+      "valence": 2.43,
+      "arousal": 3.51,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Your ocean eyes No fair You really know how to make me cry When you gimme those ocean eyes",
+      "valence": 2.5,
+      "arousal": 3.76,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "No fair You really know how to make me cry When you gimme those ocean eyes I'm scared",
+      "valence": 2.09,
+      "arousal": 3.81,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "You really know how to make me cry When you gimme those ocean eyes I'm scared I've never fallen from quite this high",
+      "valence": 2.51,
+      "arousal": 3.87,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "When you gimme those ocean eyes I'm scared I've never fallen from quite this high Fallin' into your ocean eyes",
+      "valence": 2.57,
+      "arousal": 3.77,
+      "dominance": 2.69
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I'm scared I've never fallen from quite this high Fallin' into your ocean eyes Those ocean eyes",
+      "valence": 2.36,
+      "arousal": 3.9,
+      "dominance": 2.69
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I've never fallen from quite this high Fallin' into your ocean eyes Those ocean eyes I've been walkin' through a world gone blind",
+      "valence": 3.12,
+      "arousal": 3.58,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Fallin' into your ocean eyes Those ocean eyes I've been walkin' through a world gone blind Can't stop thinkin' of your diamond mind",
+      "valence": 3.14,
+      "arousal": 3.46,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Those ocean eyes I've been walkin' through a world gone blind Can't stop thinkin' of your diamond mind Careful creature made friends with time",
+      "valence": 3.09,
+      "arousal": 3.32,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I've been walkin' through a world gone blind Can't stop thinkin' of your diamond mind Careful creature made friends with time He left her lonely with a diamond mind",
+      "valence": 2.63,
+      "arousal": 3.26,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Can't stop thinkin' of your diamond mind Careful creature made friends with time He left her lonely with a diamond mind And those ocean eyes",
+      "valence": 2.74,
+      "arousal": 3.27,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Careful creature made friends with time He left her lonely with a diamond mind And those ocean eyes No fair",
+      "valence": 2.76,
+      "arousal": 2.95,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "He left her lonely with a diamond mind And those ocean eyes No fair You really know how to make me cry",
+      "valence": 2.38,
+      "arousal": 3.37,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "And those ocean eyes No fair You really know how to make me cry When you gimme those ocean eyes",
+      "valence": 2.45,
+      "arousal": 3.8,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "No fair You really know how to make me cry When you gimme those ocean eyes I'm scared",
+      "valence": 2.09,
+      "arousal": 3.81,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "You really know how to make me cry When you gimme those ocean eyes I'm scared I've never fallen from quite this high",
+      "valence": 2.51,
+      "arousal": 3.87,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "When you gimme those ocean eyes I'm scared I've never fallen from quite this high Fallin' into your ocean eyes",
+      "valence": 2.57,
+      "arousal": 3.77,
+      "dominance": 2.69
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I'm scared I've never fallen from quite this high Fallin' into your ocean eyes Those ocean eyes",
+      "valence": 2.36,
+      "arousal": 3.9,
+      "dominance": 2.69
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I've never fallen from quite this high Fallin' into your ocean eyes Those ocean eyes Da, da-da, da-da",
+      "valence": 3.18,
+      "arousal": 3.55,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Fallin' into your ocean eyes Those ocean eyes Da, da-da, da-da Da-da-da, da, da",
+      "valence": 3.11,
+      "arousal": 3.21,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Those ocean eyes Da, da-da, da-da Da-da-da, da, da Da, da, da, da, da-da-da-da",
+      "valence": 2.92,
+      "arousal": 3.26,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Da, da-da, da-da Da-da-da, da, da Da, da, da, da, da-da-da-da Mm",
+      "valence": 2.92,
+      "arousal": 3.17,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Da-da-da, da, da Da, da, da, da, da-da-da-da Mm Mm",
+      "valence": 2.97,
+      "arousal": 3.32,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Da, da, da, da, da-da-da-da Mm Mm Mm",
+      "valence": 3.05,
+      "arousal": 3.37,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Mm Mm Mm No fair",
+      "valence": 2.59,
+      "arousal": 3.3,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Mm Mm No fair You really know how to make me cry",
+      "valence": 2.28,
+      "arousal": 3.72,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Mm No fair You really know how to make me cry When you gimme those ocean eyes",
+      "valence": 2.54,
+      "arousal": 3.82,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "No fair You really know how to make me cry When you gimme those ocean eyes I'm scared",
+      "valence": 2.09,
+      "arousal": 3.81,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "You really know how to make me cry When you gimme those ocean eyes I'm scared I've never fallen from quite this high",
+      "valence": 2.51,
+      "arousal": 3.87,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "When you gimme those ocean eyes I'm scared I've never fallen from quite this high Fallin' into your ocean eyes",
+      "valence": 2.57,
+      "arousal": 3.77,
+      "dominance": 2.69
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I'm scared I've never fallen from quite this high Fallin' into your ocean eyes Those ocean eyes",
+      "valence": 2.36,
+      "arousal": 3.9,
+      "dominance": 2.69
+    }
+  ]
+}

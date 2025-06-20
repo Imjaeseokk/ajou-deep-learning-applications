@@ -1,0 +1,430 @@
+{
+  "artist": "Ingrid Michaelson",
+  "overall_vad": {
+    "valence": 2.75,
+    "arousal": 3.47,
+    "dominance": 3.14
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "All the broken hearts in the world still beat Let's not make it harder than it has to be Ooh... it's all the same thing Girls chase boys chase girls",
+      "valence": 2.47,
+      "arousal": 3.58,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Let's not make it harder than it has to be Ooh... it's all the same thing Girls chase boys chase girls All the broken hearts in the world still beat",
+      "valence": 2.55,
+      "arousal": 3.4,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Ooh... it's all the same thing Girls chase boys chase girls All the broken hearts in the world still beat Let's not make it harder than it has to be",
+      "valence": 2.56,
+      "arousal": 3.46,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Girls chase boys chase girls All the broken hearts in the world still beat Let's not make it harder than it has to be Ooh... it's all the same thing",
+      "valence": 2.46,
+      "arousal": 3.57,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "All the broken hearts in the world still beat Let's not make it harder than it has to be Ooh... it's all the same thing Girls chase boys chase girls",
+      "valence": 2.47,
+      "arousal": 3.58,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Let's not make it harder than it has to be Ooh... it's all the same thing Girls chase boys chase girls I'm a little let down, but I'm not dead",
+      "valence": 2.65,
+      "arousal": 3.38,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Ooh... it's all the same thing Girls chase boys chase girls I'm a little let down, but I'm not dead There's a little bit more that has to be said (oh oh)",
+      "valence": 2.68,
+      "arousal": 3.33,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Girls chase boys chase girls I'm a little let down, but I'm not dead There's a little bit more that has to be said (oh oh) You play me, now I play you too",
+      "valence": 2.84,
+      "arousal": 3.37,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I'm a little let down, but I'm not dead There's a little bit more that has to be said (oh oh) You play me, now I play you too Let's just call it over",
+      "valence": 2.78,
+      "arousal": 3.28,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "There's a little bit more that has to be said (oh oh) You play me, now I play you too Let's just call it over All the broken hearts in the world still beat",
+      "valence": 2.7,
+      "arousal": 3.37,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "You play me, now I play you too Let's just call it over All the broken hearts in the world still beat Let's not make it harder than it has to be",
+      "valence": 2.7,
+      "arousal": 3.45,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Let's just call it over All the broken hearts in the world still beat Let's not make it harder than it has to be Ooh... it's all the same thing",
+      "valence": 2.35,
+      "arousal": 3.43,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "All the broken hearts in the world still beat Let's not make it harder than it has to be Ooh... it's all the same thing Girls chase boys chase girls",
+      "valence": 2.47,
+      "arousal": 3.58,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Let's not make it harder than it has to be Ooh... it's all the same thing Girls chase boys chase girls All the broken hearts in the world still beat",
+      "valence": 2.55,
+      "arousal": 3.4,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Ooh... it's all the same thing Girls chase boys chase girls All the broken hearts in the world still beat Let's not make it harder than it has to be",
+      "valence": 2.56,
+      "arousal": 3.46,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Girls chase boys chase girls All the broken hearts in the world still beat Let's not make it harder than it has to be Ooh... it's all the same thing",
+      "valence": 2.46,
+      "arousal": 3.57,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "All the broken hearts in the world still beat Let's not make it harder than it has to be Ooh... it's all the same thing Girls chase boys chase girls",
+      "valence": 2.47,
+      "arousal": 3.58,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Let's not make it harder than it has to be Ooh... it's all the same thing Girls chase boys chase girls Chase girls chase boys chase boys chase girls",
+      "valence": 2.65,
+      "arousal": 3.36,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Ooh... it's all the same thing Girls chase boys chase girls Chase girls chase boys chase boys chase girls I'm a little bit home, but I'm not there yet",
+      "valence": 2.72,
+      "arousal": 3.43,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Girls chase boys chase girls Chase girls chase boys chase boys chase girls I'm a little bit home, but I'm not there yet It's one to forgive but it's hard to forget",
+      "valence": 2.48,
+      "arousal": 3.4,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Chase girls chase boys chase boys chase girls I'm a little bit home, but I'm not there yet It's one to forgive but it's hard to forget Don't call me, I won't call you, too",
+      "valence": 2.47,
+      "arousal": 3.45,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I'm a little bit home, but I'm not there yet It's one to forgive but it's hard to forget Don't call me, I won't call you, too Let's just call it over",
+      "valence": 2.6,
+      "arousal": 3.27,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "It's one to forgive but it's hard to forget Don't call me, I won't call you, too Let's just call it over All the broken hearts in the world still beat",
+      "valence": 2.35,
+      "arousal": 3.49,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Don't call me, I won't call you, too Let's just call it over All the broken hearts in the world still beat Let's not make it harder than it has to be",
+      "valence": 2.34,
+      "arousal": 3.53,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Let's just call it over All the broken hearts in the world still beat Let's not make it harder than it has to be Ooh... it's all the same thing",
+      "valence": 2.35,
+      "arousal": 3.43,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "All the broken hearts in the world still beat Let's not make it harder than it has to be Ooh... it's all the same thing Girls chase boys chase girls",
+      "valence": 2.47,
+      "arousal": 3.58,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Let's not make it harder than it has to be Ooh... it's all the same thing Girls chase boys chase girls All the broken hearts in the world still beat",
+      "valence": 2.55,
+      "arousal": 3.4,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Ooh... it's all the same thing Girls chase boys chase girls All the broken hearts in the world still beat Let's not make it harder than it has to be",
+      "valence": 2.56,
+      "arousal": 3.46,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Girls chase boys chase girls All the broken hearts in the world still beat Let's not make it harder than it has to be Ooh... it's all the same thing",
+      "valence": 2.46,
+      "arousal": 3.57,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "All the broken hearts in the world still beat Let's not make it harder than it has to be Ooh... it's all the same thing Girls chase boys chase girls",
+      "valence": 2.47,
+      "arousal": 3.58,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Let's not make it harder than it has to be Ooh... it's all the same thing Girls chase boys chase girls Chase girls chase boys chase boys chase girls",
+      "valence": 2.65,
+      "arousal": 3.36,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Ooh... it's all the same thing Girls chase boys chase girls Chase girls chase boys chase boys chase girls I got two hands, one beating heart",
+      "valence": 2.83,
+      "arousal": 3.57,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Girls chase boys chase girls Chase girls chase boys chase boys chase girls I got two hands, one beating heart And I'll be alright, I'm gonna be alright",
+      "valence": 3.01,
+      "arousal": 3.65,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Chase girls chase boys chase boys chase girls I got two hands, one beating heart And I'll be alright, I'm gonna be alright Yeah I got two hands, one beating heart",
+      "valence": 3.18,
+      "arousal": 3.58,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I got two hands, one beating heart And I'll be alright, I'm gonna be alright Yeah I got two hands, one beating heart And I'll be alright",
+      "valence": 3.42,
+      "arousal": 3.32,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "And I'll be alright, I'm gonna be alright Yeah I got two hands, one beating heart And I'll be alright Gonna be alright",
+      "valence": 3.54,
+      "arousal": 3.34,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Yeah I got two hands, one beating heart And I'll be alright Gonna be alright All the broken hearts in the world still beat",
+      "valence": 3.17,
+      "arousal": 3.43,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "And I'll be alright Gonna be alright All the broken hearts in the world still beat Let's not make it harder than it has to be",
+      "valence": 2.8,
+      "arousal": 3.38,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Gonna be alright All the broken hearts in the world still beat Let's not make it harder than it has to be Ooh... it's all the same",
+      "valence": 2.59,
+      "arousal": 3.39,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "All the broken hearts in the world still beat Let's not make it harder than it has to be Ooh... it's all the same Girls chase boys chase girls",
+      "valence": 2.46,
+      "arousal": 3.67,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Let's not make it harder than it has to be Ooh... it's all the same Girls chase boys chase girls All the broken hearts in the world still beat",
+      "valence": 2.56,
+      "arousal": 3.43,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Ooh... it's all the same Girls chase boys chase girls All the broken hearts in the world still beat Let's not make it harder than it has to be",
+      "valence": 2.53,
+      "arousal": 3.5,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Girls chase boys chase girls All the broken hearts in the world still beat Let's not make it harder than it has to be Ooh... it's all the same thing",
+      "valence": 2.46,
+      "arousal": 3.57,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "All the broken hearts in the world still beat Let's not make it harder than it has to be Ooh... it's all the same thing Girls chase boys chase girls",
+      "valence": 2.47,
+      "arousal": 3.58,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Let's not make it harder than it has to be Ooh... it's all the same thing Girls chase boys chase girls All the broken hearts in the world still beat",
+      "valence": 2.55,
+      "arousal": 3.4,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Ooh... it's all the same thing Girls chase boys chase girls All the broken hearts in the world still beat (Ooh, everything is going to be fine)",
+      "valence": 2.78,
+      "arousal": 3.49,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Girls chase boys chase girls All the broken hearts in the world still beat (Ooh, everything is going to be fine) Let's not make it harder than it has to be",
+      "valence": 2.57,
+      "arousal": 3.52,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "All the broken hearts in the world still beat (Ooh, everything is going to be fine) Let's not make it harder than it has to be Ooh... it's all the same thing",
+      "valence": 2.57,
+      "arousal": 3.4,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "(Ooh, everything is going to be fine) Let's not make it harder than it has to be Ooh... it's all the same thing (Ooh, everybody loves you, baby)",
+      "valence": 3.55,
+      "arousal": 3.53,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Let's not make it harder than it has to be Ooh... it's all the same thing (Ooh, everybody loves you, baby) Girls chase boys chase girls",
+      "valence": 3.15,
+      "arousal": 3.57,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Ooh... it's all the same thing (Ooh, everybody loves you, baby) Girls chase boys chase girls All the broken hearts in the world still beat",
+      "valence": 3.4,
+      "arousal": 3.7,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "(Ooh, everybody loves you, baby) Girls chase boys chase girls All the broken hearts in the world still beat Let's not make it harder than it has to be",
+      "valence": 3.35,
+      "arousal": 3.84,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Girls chase boys chase girls All the broken hearts in the world still beat Let's not make it harder than it has to be (Ooh, everything is going to be fine)",
+      "valence": 2.53,
+      "arousal": 3.57,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "All the broken hearts in the world still beat Let's not make it harder than it has to be (Ooh, everything is going to be fine) Ooh... it's all the same thing",
+      "valence": 2.51,
+      "arousal": 3.42,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Let's not make it harder than it has to be (Ooh, everything is going to be fine) Ooh... it's all the same thing Girls chase boys chase girls",
+      "valence": 2.79,
+      "arousal": 3.29,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "(Ooh, everything is going to be fine) Ooh... it's all the same thing Girls chase boys chase girls Ooh, everything is going to be fine",
+      "valence": 3.02,
+      "arousal": 3.31,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Ooh... it's all the same thing Girls chase boys chase girls Ooh, everything is going to be fine Ooh, everybody loves you, baby",
+      "valence": 3.53,
+      "arousal": 3.56,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Girls chase boys chase girls Ooh, everything is going to be fine Ooh, everybody loves you, baby Ooh, everything is going to be fine",
+      "valence": 3.49,
+      "arousal": 3.44,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Ooh, everything is going to be fine Ooh, everybody loves you, baby Ooh, everything is going to be fine Ooh it's all the same thing",
+      "valence": 3.79,
+      "arousal": 3.46,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Ooh, everybody loves you, baby Ooh, everything is going to be fine Ooh it's all the same thing Girls chase boys chase girls",
+      "valence": 3.37,
+      "arousal": 3.54,
+      "dominance": 3.04
+    }
+  ]
+}

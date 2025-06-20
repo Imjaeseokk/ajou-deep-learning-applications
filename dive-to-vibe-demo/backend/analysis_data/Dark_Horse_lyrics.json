@@ -1,0 +1,493 @@
+{
+  "artist": "Katy Perry Featuring Juicy J",
+  "overall_vad": {
+    "valence": 3.04,
+    "arousal": 3.64,
+    "dominance": 3.33
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Oh, new Yeah, ya'll know what it is Katy Perry Juicy J",
+      "valence": 3.18,
+      "arousal": 3.27,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Yeah, ya'll know what it is Katy Perry Juicy J Uh huh, let's rage!",
+      "valence": 3.04,
+      "arousal": 4.03,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Katy Perry Juicy J Uh huh, let's rage! I knew you were",
+      "valence": 3.08,
+      "arousal": 4.03,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Juicy J Uh huh, let's rage! I knew you were You were gonna come to me",
+      "valence": 2.98,
+      "arousal": 4.08,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Uh huh, let's rage! I knew you were You were gonna come to me And here you are",
+      "valence": 2.67,
+      "arousal": 4.1,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I knew you were You were gonna come to me And here you are But you better choose carefully",
+      "valence": 3.04,
+      "arousal": 3.22,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "You were gonna come to me And here you are But you better choose carefully 'Cause I, I'm capable of anything",
+      "valence": 2.98,
+      "arousal": 3.3,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "And here you are But you better choose carefully 'Cause I, I'm capable of anything Of anything and everything",
+      "valence": 3.18,
+      "arousal": 3.33,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "But you better choose carefully 'Cause I, I'm capable of anything Of anything and everything Make me your Aphrodite",
+      "valence": 3.19,
+      "arousal": 3.41,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "'Cause I, I'm capable of anything Of anything and everything Make me your Aphrodite Make me your one and only",
+      "valence": 3.37,
+      "arousal": 3.45,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Of anything and everything Make me your Aphrodite Make me your one and only But don't make me your enemy",
+      "valence": 2.97,
+      "arousal": 3.41,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Make me your Aphrodite Make me your one and only But don't make me your enemy your enemy, your enemy",
+      "valence": 2.86,
+      "arousal": 3.39,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Make me your one and only But don't make me your enemy your enemy, your enemy So you wanna play with magic?",
+      "valence": 2.82,
+      "arousal": 3.38,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "But don't make me your enemy your enemy, your enemy So you wanna play with magic? Boy, you should know whatcha falling for",
+      "valence": 2.48,
+      "arousal": 3.5,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "your enemy, your enemy So you wanna play with magic? Boy, you should know whatcha falling for Baby, do you dare to do this?",
+      "valence": 2.72,
+      "arousal": 3.36,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "So you wanna play with magic? Boy, you should know whatcha falling for Baby, do you dare to do this? 'Cause I'm coming at you like a dark horse (hey)",
+      "valence": 2.84,
+      "arousal": 3.7,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Boy, you should know whatcha falling for Baby, do you dare to do this? 'Cause I'm coming at you like a dark horse (hey) Are you ready for, ready for (hey)",
+      "valence": 2.78,
+      "arousal": 3.79,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Baby, do you dare to do this? 'Cause I'm coming at you like a dark horse (hey) Are you ready for, ready for (hey) A perfect storm, a perfect storm? (hey, hey)",
+      "valence": 2.86,
+      "arousal": 3.79,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "'Cause I'm coming at you like a dark horse (hey) Are you ready for, ready for (hey) A perfect storm, a perfect storm? (hey, hey) 'Cause once you're mine, once you're mine",
+      "valence": 3.14,
+      "arousal": 3.75,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Are you ready for, ready for (hey) A perfect storm, a perfect storm? (hey, hey) 'Cause once you're mine, once you're mine (Hey, hey, hey, hey, hey)",
+      "valence": 3.33,
+      "arousal": 3.63,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "A perfect storm, a perfect storm? (hey, hey) 'Cause once you're mine, once you're mine (Hey, hey, hey, hey, hey) There's no going back",
+      "valence": 3.28,
+      "arousal": 3.42,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "'Cause once you're mine, once you're mine (Hey, hey, hey, hey, hey) There's no going back Mark my words",
+      "valence": 3.01,
+      "arousal": 3.43,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "(Hey, hey, hey, hey, hey) There's no going back Mark my words This love will make you levitate",
+      "valence": 3.73,
+      "arousal": 3.94,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "There's no going back Mark my words This love will make you levitate Like a bird, like a bird without a cage",
+      "valence": 3.64,
+      "arousal": 3.84,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Mark my words This love will make you levitate Like a bird, like a bird without a cage But down to earth",
+      "valence": 3.72,
+      "arousal": 3.79,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "This love will make you levitate Like a bird, like a bird without a cage But down to earth If you choose to walk away, don't walk away",
+      "valence": 3.44,
+      "arousal": 3.52,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Like a bird, like a bird without a cage But down to earth If you choose to walk away, don't walk away It's in the palm of your hand now baby",
+      "valence": 3.04,
+      "arousal": 3.22,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "But down to earth If you choose to walk away, don't walk away It's in the palm of your hand now baby It's a yes or no, no maybe",
+      "valence": 2.98,
+      "arousal": 3.39,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "If you choose to walk away, don't walk away It's in the palm of your hand now baby It's a yes or no, no maybe So just be sure before you give it up to me",
+      "valence": 2.82,
+      "arousal": 3.53,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "It's in the palm of your hand now baby It's a yes or no, no maybe So just be sure before you give it up to me Up to me, give it up to me",
+      "valence": 2.97,
+      "arousal": 3.36,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "It's a yes or no, no maybe So just be sure before you give it up to me Up to me, give it up to me So you wanna play with magic?",
+      "valence": 3.07,
+      "arousal": 3.21,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "So just be sure before you give it up to me Up to me, give it up to me So you wanna play with magic? Boy, you should know whatcha falling for",
+      "valence": 3.03,
+      "arousal": 3.24,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Up to me, give it up to me So you wanna play with magic? Boy, you should know whatcha falling for Baby, do you dare to do this?",
+      "valence": 2.94,
+      "arousal": 3.35,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "So you wanna play with magic? Boy, you should know whatcha falling for Baby, do you dare to do this? 'Cause I'm coming at you like a dark horse (hey)",
+      "valence": 2.84,
+      "arousal": 3.7,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Boy, you should know whatcha falling for Baby, do you dare to do this? 'Cause I'm coming at you like a dark horse (hey) Are you ready for, ready for (hey)",
+      "valence": 2.78,
+      "arousal": 3.79,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Baby, do you dare to do this? 'Cause I'm coming at you like a dark horse (hey) Are you ready for, ready for (hey) A perfect storm, a perfect storm? (hey, hey)",
+      "valence": 2.86,
+      "arousal": 3.79,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "'Cause I'm coming at you like a dark horse (hey) Are you ready for, ready for (hey) A perfect storm, a perfect storm? (hey, hey) 'Cause once you're mine, once you're mine",
+      "valence": 3.14,
+      "arousal": 3.75,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Are you ready for, ready for (hey) A perfect storm, a perfect storm? (hey, hey) 'Cause once you're mine, once you're mine (Hey, hey, hey, hey, hey)",
+      "valence": 3.33,
+      "arousal": 3.63,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "A perfect storm, a perfect storm? (hey, hey) 'Cause once you're mine, once you're mine (Hey, hey, hey, hey, hey) There's no going back",
+      "valence": 3.28,
+      "arousal": 3.42,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "'Cause once you're mine, once you're mine (Hey, hey, hey, hey, hey) There's no going back Uh, she's a beast",
+      "valence": 2.93,
+      "arousal": 3.4,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "(Hey, hey, hey, hey, hey) There's no going back Uh, she's a beast I call her Karma (come back)",
+      "valence": 2.87,
+      "arousal": 3.47,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "There's no going back Uh, she's a beast I call her Karma (come back) She eats your heart out like Jeffrey Dahmer (whoa!)",
+      "valence": 2.57,
+      "arousal": 3.88,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Uh, she's a beast I call her Karma (come back) She eats your heart out like Jeffrey Dahmer (whoa!) Be careful",
+      "valence": 2.61,
+      "arousal": 3.9,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I call her Karma (come back) She eats your heart out like Jeffrey Dahmer (whoa!) Be careful Try not to lead her on (mm)",
+      "valence": 2.76,
+      "arousal": 3.75,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "She eats your heart out like Jeffrey Dahmer (whoa!) Be careful Try not to lead her on (mm) Shawty's heart was on steroids",
+      "valence": 2.69,
+      "arousal": 3.89,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Be careful Try not to lead her on (mm) Shawty's heart was on steroids 'Cause her love was so strong",
+      "valence": 3.0,
+      "arousal": 3.59,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Try not to lead her on (mm) Shawty's heart was on steroids 'Cause her love was so strong You may fall in love when you meet her (meet her)",
+      "valence": 3.52,
+      "arousal": 3.82,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Shawty's heart was on steroids 'Cause her love was so strong You may fall in love when you meet her (meet her) If you get the chance you better keep her (keep her)",
+      "valence": 3.77,
+      "arousal": 3.92,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "'Cause her love was so strong You may fall in love when you meet her (meet her) If you get the chance you better keep her (keep her) She's sweet as pie, but if you break her heart",
+      "valence": 3.66,
+      "arousal": 3.79,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "You may fall in love when you meet her (meet her) If you get the chance you better keep her (keep her) She's sweet as pie, but if you break her heart She'll turn cold as a freezer (freezer)",
+      "valence": 3.42,
+      "arousal": 3.6,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "If you get the chance you better keep her (keep her) She's sweet as pie, but if you break her heart She'll turn cold as a freezer (freezer) That fairy tale ending with a knight in shining armor",
+      "valence": 3.02,
+      "arousal": 3.33,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "She's sweet as pie, but if you break her heart She'll turn cold as a freezer (freezer) That fairy tale ending with a knight in shining armor She can be my Sleeping Beauty",
+      "valence": 3.23,
+      "arousal": 3.28,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "She'll turn cold as a freezer (freezer) That fairy tale ending with a knight in shining armor She can be my Sleeping Beauty I'm gon' put her in a coma (whoa!)",
+      "valence": 2.97,
+      "arousal": 3.67,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "That fairy tale ending with a knight in shining armor She can be my Sleeping Beauty I'm gon' put her in a coma (whoa!) Damn, I think I love her",
+      "valence": 3.76,
+      "arousal": 4.14,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "She can be my Sleeping Beauty I'm gon' put her in a coma (whoa!) Damn, I think I love her Shawty so bad, I'm sprung and I don't care",
+      "valence": 2.69,
+      "arousal": 4.13,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "I'm gon' put her in a coma (whoa!) Damn, I think I love her Shawty so bad, I'm sprung and I don't care She got me like a roller coaster",
+      "valence": 2.38,
+      "arousal": 4.35,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Damn, I think I love her Shawty so bad, I'm sprung and I don't care She got me like a roller coaster Turn the bedroom into a fair (a fair)",
+      "valence": 2.85,
+      "arousal": 4.05,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Shawty so bad, I'm sprung and I don't care She got me like a roller coaster Turn the bedroom into a fair (a fair) Her love is like a drug",
+      "valence": 3.03,
+      "arousal": 3.81,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "She got me like a roller coaster Turn the bedroom into a fair (a fair) Her love is like a drug I was tryna hit it and quit it",
+      "valence": 3.32,
+      "arousal": 3.86,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Turn the bedroom into a fair (a fair) Her love is like a drug I was tryna hit it and quit it But lil' mama so dope",
+      "valence": 3.35,
+      "arousal": 3.77,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Her love is like a drug I was tryna hit it and quit it But lil' mama so dope I messed around and got addicted",
+      "valence": 2.64,
+      "arousal": 3.48,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "I was tryna hit it and quit it But lil' mama so dope I messed around and got addicted So you wanna play with magic?",
+      "valence": 2.87,
+      "arousal": 3.38,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "But lil' mama so dope I messed around and got addicted So you wanna play with magic? Boy, you should know whatcha falling for (you should know)",
+      "valence": 2.86,
+      "arousal": 3.39,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "I messed around and got addicted So you wanna play with magic? Boy, you should know whatcha falling for (you should know) Baby, do you dare to do this?",
+      "valence": 2.71,
+      "arousal": 3.42,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "So you wanna play with magic? Boy, you should know whatcha falling for (you should know) Baby, do you dare to do this? 'Cause I'm coming at you like a dark horse (like a dark horse)",
+      "valence": 2.84,
+      "arousal": 3.66,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Boy, you should know whatcha falling for (you should know) Baby, do you dare to do this? 'Cause I'm coming at you like a dark horse (like a dark horse) Are you ready for, ready for (ready for)",
+      "valence": 2.79,
+      "arousal": 3.73,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Baby, do you dare to do this? 'Cause I'm coming at you like a dark horse (like a dark horse) Are you ready for, ready for (ready for) A perfect storm, a perfect storm? (a perfect storm)",
+      "valence": 2.86,
+      "arousal": 3.81,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "'Cause I'm coming at you like a dark horse (like a dark horse) Are you ready for, ready for (ready for) A perfect storm, a perfect storm? (a perfect storm) 'Cause once you're mine, once you're mine (oh)",
+      "valence": 3.12,
+      "arousal": 3.76,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Are you ready for, ready for (ready for) A perfect storm, a perfect storm? (a perfect storm) 'Cause once you're mine, once you're mine (oh) There's no going back",
+      "valence": 3.33,
+      "arousal": 3.59,
+      "dominance": 3.31
+    }
+  ]
+}

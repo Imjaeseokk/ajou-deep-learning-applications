@@ -1,0 +1,584 @@
+{
+  "artist": "Lil Dicky Featuring Chris Brown",
+  "overall_vad": {
+    "valence": 2.82,
+    "arousal": 3.82,
+    "dominance": 3.24
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Lil dicky, ooh Mustard on the beat, ho I woke up Chris Breezy Oh my god I'm the man (oh shit)",
+      "valence": 3.17,
+      "arousal": 4.0,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Mustard on the beat, ho I woke up Chris Breezy Oh my god I'm the man (oh shit) I'm so fly and I can dance (whoa, whoa shit)",
+      "valence": 3.35,
+      "arousal": 4.18,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I woke up Chris Breezy Oh my god I'm the man (oh shit) I'm so fly and I can dance (whoa, whoa shit) There's tattoos on my neck (oh, ohhh)",
+      "valence": 3.17,
+      "arousal": 4.18,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Oh my god I'm the man (oh shit) I'm so fly and I can dance (whoa, whoa shit) There's tattoos on my neck (oh, ohhh) I just FaceTimed Kanye (blip, blip)",
+      "valence": 3.08,
+      "arousal": 4.31,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I'm so fly and I can dance (whoa, whoa shit) There's tattoos on my neck (oh, ohhh) I just FaceTimed Kanye (blip, blip) I told him I'm his biggest fan yeah (yeah)",
+      "valence": 3.23,
+      "arousal": 4.09,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "There's tattoos on my neck (oh, ohhh) I just FaceTimed Kanye (blip, blip) I told him I'm his biggest fan yeah (yeah) Got all these hoes in my DM (yeah, I do)",
+      "valence": 3.34,
+      "arousal": 3.62,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I just FaceTimed Kanye (blip, blip) I told him I'm his biggest fan yeah (yeah) Got all these hoes in my DM (yeah, I do) Hold up",
+      "valence": 3.15,
+      "arousal": 3.53,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I told him I'm his biggest fan yeah (yeah) Got all these hoes in my DM (yeah, I do) Hold up Holy shit, I got a kid (oh!)",
+      "valence": 3.37,
+      "arousal": 4.09,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Got all these hoes in my DM (yeah, I do) Hold up Holy shit, I got a kid (oh!) Ohh, I can sing so well",
+      "valence": 3.49,
+      "arousal": 3.91,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Hold up Holy shit, I got a kid (oh!) Ohh, I can sing so well Wonder if I can say the n-word (wait for real?)",
+      "valence": 3.26,
+      "arousal": 4.05,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Holy shit, I got a kid (oh!) Ohh, I can sing so well Wonder if I can say the n-word (wait for real?) Wait, can I really say the n-word?",
+      "valence": 3.32,
+      "arousal": 4.13,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Ohh, I can sing so well Wonder if I can say the n-word (wait for real?) Wait, can I really say the n-word? What up my nigga? (woo)",
+      "valence": 2.95,
+      "arousal": 3.75,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Wonder if I can say the n-word (wait for real?) Wait, can I really say the n-word? What up my nigga? (woo) What up my nigga?",
+      "valence": 2.76,
+      "arousal": 3.74,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Wait, can I really say the n-word? What up my nigga? (woo) What up my nigga? Big ups my nigga",
+      "valence": 2.65,
+      "arousal": 3.75,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "What up my nigga? (woo) What up my nigga? Big ups my nigga We up my nigga",
+      "valence": 2.77,
+      "arousal": 3.52,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "What up my nigga? Big ups my nigga We up my nigga You pussy ass nigga",
+      "valence": 2.27,
+      "arousal": 3.67,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Big ups my nigga We up my nigga You pussy ass nigga Man fuck y'all niggas",
+      "valence": 2.07,
+      "arousal": 3.87,
+      "dominance": 3.88
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "We up my nigga You pussy ass nigga Man fuck y'all niggas Cause I'm that nigga nigga, nigga",
+      "valence": 2.0,
+      "arousal": 3.79,
+      "dominance": 3.85
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "You pussy ass nigga Man fuck y'all niggas Cause I'm that nigga nigga, nigga I'm that nigga",
+      "valence": 2.03,
+      "arousal": 3.76,
+      "dominance": 3.81
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Man fuck y'all niggas Cause I'm that nigga nigga, nigga I'm that nigga I woke up in Chris Brown's body (oh yeah)",
+      "valence": 2.37,
+      "arousal": 3.84,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Cause I'm that nigga nigga, nigga I'm that nigga I woke up in Chris Brown's body (oh yeah) Somehow this shit turned into Freaky Friday",
+      "valence": 2.68,
+      "arousal": 3.5,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I'm that nigga I woke up in Chris Brown's body (oh yeah) Somehow this shit turned into Freaky Friday But we got no choice but to turn",
+      "valence": 2.64,
+      "arousal": 3.48,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I woke up in Chris Brown's body (oh yeah) Somehow this shit turned into Freaky Friday But we got no choice but to turn This bitch sideways (oh yeah, oh yeah)",
+      "valence": 2.5,
+      "arousal": 3.6,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Somehow this shit turned into Freaky Friday But we got no choice but to turn This bitch sideways (oh yeah, oh yeah) I can't believe that it's Freaky Friday",
+      "valence": 2.85,
+      "arousal": 3.68,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "But we got no choice but to turn This bitch sideways (oh yeah, oh yeah) I can't believe that it's Freaky Friday Yeah it's Freaky Friday",
+      "valence": 2.89,
+      "arousal": 3.89,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "This bitch sideways (oh yeah, oh yeah) I can't believe that it's Freaky Friday Yeah it's Freaky Friday I'm in Chris Brown's body",
+      "valence": 2.72,
+      "arousal": 3.89,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I can't believe that it's Freaky Friday Yeah it's Freaky Friday I'm in Chris Brown's body I drive his Ferrari and I'm light-skinned black",
+      "valence": 3.28,
+      "arousal": 3.67,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Yeah it's Freaky Friday I'm in Chris Brown's body I drive his Ferrari and I'm light-skinned black (Ring ring, What the fuck?)",
+      "valence": 2.87,
+      "arousal": 3.61,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I'm in Chris Brown's body I drive his Ferrari and I'm light-skinned black (Ring ring, What the fuck?) I woke up and I'm Lil dicky (Lil dicky)",
+      "valence": 2.77,
+      "arousal": 3.65,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I drive his Ferrari and I'm light-skinned black (Ring ring, What the fuck?) I woke up and I'm Lil dicky (Lil dicky) (Ugh, what the fuck?)",
+      "valence": 2.48,
+      "arousal": 3.86,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "(Ring ring, What the fuck?) I woke up and I'm Lil dicky (Lil dicky) (Ugh, what the fuck?) This shit is real weak",
+      "valence": 2.14,
+      "arousal": 4.09,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I woke up and I'm Lil dicky (Lil dicky) (Ugh, what the fuck?) This shit is real weak How his dick staying perched up on his balls like that?",
+      "valence": 2.25,
+      "arousal": 3.96,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "(Ugh, what the fuck?) This shit is real weak How his dick staying perched up on his balls like that? Walking down the street and ain't nobody know my name (whoa)",
+      "valence": 2.07,
+      "arousal": 4.0,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "This shit is real weak How his dick staying perched up on his balls like that? Walking down the street and ain't nobody know my name (whoa) Ain't no paparazzi flashing pictures this is great (whoa)",
+      "valence": 2.5,
+      "arousal": 3.79,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "How his dick staying perched up on his balls like that? Walking down the street and ain't nobody know my name (whoa) Ain't no paparazzi flashing pictures this is great (whoa) Ain't nobody judging 'cause I'm black or my controversial past",
+      "valence": 2.71,
+      "arousal": 3.55,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Walking down the street and ain't nobody know my name (whoa) Ain't no paparazzi flashing pictures this is great (whoa) Ain't nobody judging 'cause I'm black or my controversial past I'mma go and see a movie and relax (woo)",
+      "valence": 3.55,
+      "arousal": 3.45,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Ain't no paparazzi flashing pictures this is great (whoa) Ain't nobody judging 'cause I'm black or my controversial past I'mma go and see a movie and relax (woo) Ayy, I'm a Blood but I can finally wear blue (cool)",
+      "valence": 3.62,
+      "arousal": 3.64,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Ain't nobody judging 'cause I'm black or my controversial past I'mma go and see a movie and relax (woo) Ayy, I'm a Blood but I can finally wear blue (cool) Why his momma calling all the time",
+      "valence": 3.39,
+      "arousal": 3.53,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I'mma go and see a movie and relax (woo) Ayy, I'm a Blood but I can finally wear blue (cool) Why his momma calling all the time Leave me the fuck alone, bitch",
+      "valence": 3.17,
+      "arousal": 3.89,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Ayy, I'm a Blood but I can finally wear blue (cool) Why his momma calling all the time Leave me the fuck alone, bitch Wait, if I'm in dicky's body, Breezy is who?",
+      "valence": 2.61,
+      "arousal": 3.95,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Why his momma calling all the time Leave me the fuck alone, bitch Wait, if I'm in dicky's body, Breezy is who? Hope my daughter's in school",
+      "valence": 2.27,
+      "arousal": 4.08,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Leave me the fuck alone, bitch Wait, if I'm in dicky's body, Breezy is who? Hope my daughter's in school Fuck, if I was Chris Brown, where would I be?",
+      "valence": 2.15,
+      "arousal": 4.07,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Wait, if I'm in dicky's body, Breezy is who? Hope my daughter's in school Fuck, if I was Chris Brown, where would I be? What would I do?",
+      "valence": 2.7,
+      "arousal": 3.84,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Hope my daughter's in school Fuck, if I was Chris Brown, where would I be? What would I do? I woke up in Chris Brown's body (ohh yeah)",
+      "valence": 2.8,
+      "arousal": 3.8,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Fuck, if I was Chris Brown, where would I be? What would I do? I woke up in Chris Brown's body (ohh yeah) Somehow this shit turned into Freaky Friday",
+      "valence": 2.46,
+      "arousal": 3.81,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "What would I do? I woke up in Chris Brown's body (ohh yeah) Somehow this shit turned into Freaky Friday But we got no choice but to turn",
+      "valence": 2.63,
+      "arousal": 3.48,
+      "dominance": 2.65
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I woke up in Chris Brown's body (ohh yeah) Somehow this shit turned into Freaky Friday But we got no choice but to turn This bitch sideways (oh yeah, oh yeah)",
+      "valence": 2.51,
+      "arousal": 3.62,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Somehow this shit turned into Freaky Friday But we got no choice but to turn This bitch sideways (oh yeah, oh yeah) I can't believe that it's Freaky Friday",
+      "valence": 2.85,
+      "arousal": 3.68,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "But we got no choice but to turn This bitch sideways (oh yeah, oh yeah) I can't believe that it's Freaky Friday Yeah it's Freaky Friday",
+      "valence": 2.89,
+      "arousal": 3.89,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "This bitch sideways (oh yeah, oh yeah) I can't believe that it's Freaky Friday Yeah it's Freaky Friday I'm in Chris Brown's body",
+      "valence": 2.72,
+      "arousal": 3.89,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I can't believe that it's Freaky Friday Yeah it's Freaky Friday I'm in Chris Brown's body I look at my soft dick with delight, it's my dream dick",
+      "valence": 3.97,
+      "arousal": 4.12,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Yeah it's Freaky Friday I'm in Chris Brown's body I look at my soft dick with delight, it's my dream dick If I was Lil dicky in my body, where would I be",
+      "valence": 3.81,
+      "arousal": 3.99,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "I'm in Chris Brown's body I look at my soft dick with delight, it's my dream dick If I was Lil dicky in my body, where would I be I'm trying to find myself like an introspective monk",
+      "valence": 3.61,
+      "arousal": 3.93,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "I look at my soft dick with delight, it's my dream dick If I was Lil dicky in my body, where would I be I'm trying to find myself like an introspective monk I'm balling on the court, oh my god I can dunk",
+      "valence": 3.84,
+      "arousal": 4.02,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "If I was Lil dicky in my body, where would I be I'm trying to find myself like an introspective monk I'm balling on the court, oh my god I can dunk Snap a flick of my junk",
+      "valence": 2.92,
+      "arousal": 3.53,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "I'm trying to find myself like an introspective monk I'm balling on the court, oh my god I can dunk Snap a flick of my junk My dick is trending on Twitter, fuck",
+      "valence": 2.54,
+      "arousal": 4.03,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "I'm balling on the court, oh my god I can dunk Snap a flick of my junk My dick is trending on Twitter, fuck Now I'm at the club, I talked my way to getting in",
+      "valence": 3.15,
+      "arousal": 4.21,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Snap a flick of my junk My dick is trending on Twitter, fuck Now I'm at the club, I talked my way to getting in I look up in the VIP, my goodness there I am",
+      "valence": 3.03,
+      "arousal": 3.75,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "My dick is trending on Twitter, fuck Now I'm at the club, I talked my way to getting in I look up in the VIP, my goodness there I am I signal to him to let me in but he won't let me in",
+      "valence": 2.61,
+      "arousal": 3.96,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Now I'm at the club, I talked my way to getting in I look up in the VIP, my goodness there I am I signal to him to let me in but he won't let me in I don't know who that is",
+      "valence": 2.98,
+      "arousal": 3.5,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "I look up in the VIP, my goodness there I am I signal to him to let me in but he won't let me in I don't know who that is Wait, who the fuck he think he is?",
+      "valence": 2.7,
+      "arousal": 3.79,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "I signal to him to let me in but he won't let me in I don't know who that is Wait, who the fuck he think he is? Took a glass bottle, shatter it on the bouncer's head (woo)",
+      "valence": 2.43,
+      "arousal": 3.84,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "I don't know who that is Wait, who the fuck he think he is? Took a glass bottle, shatter it on the bouncer's head (woo) Walked up to that motherfucker",
+      "valence": 2.11,
+      "arousal": 3.87,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Wait, who the fuck he think he is? Took a glass bottle, shatter it on the bouncer's head (woo) Walked up to that motherfucker Wait, think it through for a sec",
+      "valence": 2.28,
+      "arousal": 3.92,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Took a glass bottle, shatter it on the bouncer's head (woo) Walked up to that motherfucker Wait, think it through for a sec If you hurting me then you only hurting yourself",
+      "valence": 2.2,
+      "arousal": 3.89,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Walked up to that motherfucker Wait, think it through for a sec If you hurting me then you only hurting yourself But wait, I love myself",
+      "valence": 2.49,
+      "arousal": 4.07,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Wait, think it through for a sec If you hurting me then you only hurting yourself But wait, I love myself That was the key, now we're switching back",
+      "valence": 2.96,
+      "arousal": 3.49,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "If you hurting me then you only hurting yourself But wait, I love myself That was the key, now we're switching back I woke up in Chris Brown's body (ohh yeah)",
+      "valence": 2.91,
+      "arousal": 3.75,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "But wait, I love myself That was the key, now we're switching back I woke up in Chris Brown's body (ohh yeah) Somehow this shit turned into Freaky Friday",
+      "valence": 3.09,
+      "arousal": 3.71,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "That was the key, now we're switching back I woke up in Chris Brown's body (ohh yeah) Somehow this shit turned into Freaky Friday But we got no choice but to turn",
+      "valence": 2.7,
+      "arousal": 3.36,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "I woke up in Chris Brown's body (ohh yeah) Somehow this shit turned into Freaky Friday But we got no choice but to turn This bitch sideways (oh yeah, oh yeah)",
+      "valence": 2.51,
+      "arousal": 3.62,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Somehow this shit turned into Freaky Friday But we got no choice but to turn This bitch sideways (oh yeah, oh yeah) I can't believe that it's Freaky Friday",
+      "valence": 2.85,
+      "arousal": 3.68,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "But we got no choice but to turn This bitch sideways (oh yeah, oh yeah) I can't believe that it's Freaky Friday Wait what the fuck",
+      "valence": 2.51,
+      "arousal": 3.95,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "This bitch sideways (oh yeah, oh yeah) I can't believe that it's Freaky Friday Wait what the fuck And now I'm in Ed Sheeran's body",
+      "valence": 2.77,
+      "arousal": 3.87,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "I can't believe that it's Freaky Friday Wait what the fuck And now I'm in Ed Sheeran's body It's way less cool than being Chris Brown was",
+      "valence": 2.85,
+      "arousal": 3.81,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "Wait what the fuck And now I'm in Ed Sheeran's body It's way less cool than being Chris Brown was What the fuck again",
+      "valence": 2.42,
+      "arousal": 3.96,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "And now I'm in Ed Sheeran's body It's way less cool than being Chris Brown was What the fuck again I'm DJ Khaled, why am I yelling",
+      "valence": 2.37,
+      "arousal": 3.81,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "It's way less cool than being Chris Brown was What the fuck again I'm DJ Khaled, why am I yelling Huh, I'm Kendall Jenner",
+      "valence": 2.4,
+      "arousal": 3.67,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "What the fuck again I'm DJ Khaled, why am I yelling Huh, I'm Kendall Jenner I got a vagina, I'm gonna explore that right now (woo)",
+      "valence": 2.84,
+      "arousal": 4.06,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "I'm DJ Khaled, why am I yelling Huh, I'm Kendall Jenner I got a vagina, I'm gonna explore that right now (woo) Holy shit, I got a vagina (uh)",
+      "valence": 3.01,
+      "arousal": 4.08,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "Huh, I'm Kendall Jenner I got a vagina, I'm gonna explore that right now (woo) Holy shit, I got a vagina (uh) I'm gonna learn",
+      "valence": 3.35,
+      "arousal": 3.87,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "I got a vagina, I'm gonna explore that right now (woo) Holy shit, I got a vagina (uh) I'm gonna learn I'm gonna understand the inner workings of a woman",
+      "valence": 3.24,
+      "arousal": 3.83,
+      "dominance": 3.36
+    }
+  ]
+}

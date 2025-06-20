@@ -1,0 +1,521 @@
+{
+  "artist": "Miley Cyrus",
+  "overall_vad": {
+    "valence": 3.0,
+    "arousal": 3.48,
+    "dominance": 3.35
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "It's our party, we can do what we want (EarDrummers) It's our party, we can say what we want (Mike WiLL Made-It) It's our party, we can love who we want We can kiss who we want",
+      "valence": 3.58,
+      "arousal": 3.54,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "It's our party, we can say what we want (Mike WiLL Made-It) It's our party, we can love who we want We can kiss who we want We can screw who we want",
+      "valence": 3.34,
+      "arousal": 3.55,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "It's our party, we can love who we want We can kiss who we want We can screw who we want It's our party, we can do what we want",
+      "valence": 3.25,
+      "arousal": 3.64,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "We can kiss who we want We can screw who we want It's our party, we can do what we want It's our party, we can say what we want",
+      "valence": 3.0,
+      "arousal": 3.51,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "We can screw who we want It's our party, we can do what we want It's our party, we can say what we want It's our party, we can love who we want",
+      "valence": 3.29,
+      "arousal": 3.55,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "It's our party, we can do what we want It's our party, we can say what we want It's our party, we can love who we want We can kiss who we want",
+      "valence": 3.45,
+      "arousal": 3.55,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "It's our party, we can say what we want It's our party, we can love who we want We can kiss who we want We can screw who we want",
+      "valence": 3.18,
+      "arousal": 3.6,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "It's our party, we can love who we want We can kiss who we want We can screw who we want Red cups and sweaty bodies everywhere",
+      "valence": 3.16,
+      "arousal": 3.78,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "We can kiss who we want We can screw who we want Red cups and sweaty bodies everywhere Hands in the air like we don't care",
+      "valence": 2.75,
+      "arousal": 3.61,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "We can screw who we want Red cups and sweaty bodies everywhere Hands in the air like we don't care 'Cause we came to have so much fun now (hey, hey, hey)",
+      "valence": 2.76,
+      "arousal": 3.61,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Red cups and sweaty bodies everywhere Hands in the air like we don't care 'Cause we came to have so much fun now (hey, hey, hey) Bet somebody here might get some now",
+      "valence": 3.01,
+      "arousal": 3.5,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Hands in the air like we don't care 'Cause we came to have so much fun now (hey, hey, hey) Bet somebody here might get some now If you're not ready to go home",
+      "valence": 3.02,
+      "arousal": 3.45,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "'Cause we came to have so much fun now (hey, hey, hey) Bet somebody here might get some now If you're not ready to go home Can I get a \"Hell no\" (Hell no)",
+      "valence": 2.7,
+      "arousal": 3.7,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Bet somebody here might get some now If you're not ready to go home Can I get a \"Hell no\" (Hell no) 'Cause we gonna go all night",
+      "valence": 2.44,
+      "arousal": 3.55,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "If you're not ready to go home Can I get a \"Hell no\" (Hell no) 'Cause we gonna go all night 'Til we see the sunlight, alright (hey, hey, hey)",
+      "valence": 2.59,
+      "arousal": 3.5,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Can I get a \"Hell no\" (Hell no) 'Cause we gonna go all night 'Til we see the sunlight, alright (hey, hey, hey) So la-da-di-da-di, we like to party",
+      "valence": 2.79,
+      "arousal": 3.6,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "'Cause we gonna go all night 'Til we see the sunlight, alright (hey, hey, hey) So la-da-di-da-di, we like to party Dancing with Molly",
+      "valence": 3.33,
+      "arousal": 3.35,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "'Til we see the sunlight, alright (hey, hey, hey) So la-da-di-da-di, we like to party Dancing with Molly Doing whatever we want",
+      "valence": 3.27,
+      "arousal": 3.32,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "So la-da-di-da-di, we like to party Dancing with Molly Doing whatever we want This is our house",
+      "valence": 3.56,
+      "arousal": 3.43,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Dancing with Molly Doing whatever we want This is our house This is our rules",
+      "valence": 3.23,
+      "arousal": 3.25,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Doing whatever we want This is our house This is our rules And we can't stop (whoa)",
+      "valence": 2.8,
+      "arousal": 3.68,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "This is our house This is our rules And we can't stop (whoa) And we won't stop (whoa)",
+      "valence": 2.71,
+      "arousal": 3.55,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "This is our rules And we can't stop (whoa) And we won't stop (whoa) Can't you see it's we who own the night?",
+      "valence": 2.7,
+      "arousal": 3.36,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "And we can't stop (whoa) And we won't stop (whoa) Can't you see it's we who own the night? Can't you see it we who 'bout that life?",
+      "valence": 2.52,
+      "arousal": 3.38,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "And we won't stop (whoa) Can't you see it's we who own the night? Can't you see it we who 'bout that life? And we can't stop (whoa)",
+      "valence": 2.54,
+      "arousal": 3.4,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Can't you see it's we who own the night? Can't you see it we who 'bout that life? And we can't stop (whoa) And we won't stop (whoa)",
+      "valence": 2.61,
+      "arousal": 3.39,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Can't you see it we who 'bout that life? And we can't stop (whoa) And we won't stop (whoa) We run things, things don't run we",
+      "valence": 2.64,
+      "arousal": 3.22,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "And we can't stop (whoa) And we won't stop (whoa) We run things, things don't run we Don't take nothing from nobody, yeah, yeah",
+      "valence": 2.75,
+      "arousal": 3.42,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "And we won't stop (whoa) We run things, things don't run we Don't take nothing from nobody, yeah, yeah It's our party, we can do what we want",
+      "valence": 3.02,
+      "arousal": 3.42,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "We run things, things don't run we Don't take nothing from nobody, yeah, yeah It's our party, we can do what we want It's our party, we can say what we want",
+      "valence": 3.04,
+      "arousal": 3.3,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Don't take nothing from nobody, yeah, yeah It's our party, we can do what we want It's our party, we can say what we want It's our party, we can love who we want",
+      "valence": 3.36,
+      "arousal": 3.49,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "It's our party, we can do what we want It's our party, we can say what we want It's our party, we can love who we want We can kiss who we want",
+      "valence": 3.45,
+      "arousal": 3.55,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "It's our party, we can say what we want It's our party, we can love who we want We can kiss who we want We can screw who we want",
+      "valence": 3.18,
+      "arousal": 3.6,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "It's our party, we can love who we want We can kiss who we want We can screw who we want To my home girls here with the big butts",
+      "valence": 2.94,
+      "arousal": 3.72,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "We can kiss who we want We can screw who we want To my home girls here with the big butts Shaking it like we at a strip club",
+      "valence": 2.65,
+      "arousal": 3.62,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "We can screw who we want To my home girls here with the big butts Shaking it like we at a strip club Remember only God can judge us",
+      "valence": 2.3,
+      "arousal": 3.41,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "To my home girls here with the big butts Shaking it like we at a strip club Remember only God can judge us Forget the haters 'cause somebody loves ya",
+      "valence": 3.12,
+      "arousal": 3.52,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Shaking it like we at a strip club Remember only God can judge us Forget the haters 'cause somebody loves ya And everyone in line in the bathroom",
+      "valence": 3.18,
+      "arousal": 3.42,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Remember only God can judge us Forget the haters 'cause somebody loves ya And everyone in line in the bathroom Tryna get a line in the bathroom",
+      "valence": 3.02,
+      "arousal": 3.45,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Forget the haters 'cause somebody loves ya And everyone in line in the bathroom Tryna get a line in the bathroom We all so turned up here",
+      "valence": 3.18,
+      "arousal": 3.67,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "And everyone in line in the bathroom Tryna get a line in the bathroom We all so turned up here Getting turned up, yeah, yeah, yeah",
+      "valence": 2.86,
+      "arousal": 3.59,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Tryna get a line in the bathroom We all so turned up here Getting turned up, yeah, yeah, yeah So la-da-di-da-di, we like to party",
+      "valence": 3.17,
+      "arousal": 3.48,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "We all so turned up here Getting turned up, yeah, yeah, yeah So la-da-di-da-di, we like to party Dancing with Molly",
+      "valence": 3.44,
+      "arousal": 3.52,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Getting turned up, yeah, yeah, yeah So la-da-di-da-di, we like to party Dancing with Molly Doing whatever we want",
+      "valence": 3.48,
+      "arousal": 3.45,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "So la-da-di-da-di, we like to party Dancing with Molly Doing whatever we want This is our house",
+      "valence": 3.56,
+      "arousal": 3.43,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Dancing with Molly Doing whatever we want This is our house This is our rules",
+      "valence": 3.23,
+      "arousal": 3.25,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Doing whatever we want This is our house This is our rules And we can't stop (whoa)",
+      "valence": 2.8,
+      "arousal": 3.68,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "This is our house This is our rules And we can't stop (whoa) And we won't stop (whoa)",
+      "valence": 2.71,
+      "arousal": 3.55,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "This is our rules And we can't stop (whoa) And we won't stop (whoa) Can't you see it's we who own the night?",
+      "valence": 2.7,
+      "arousal": 3.36,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "And we can't stop (whoa) And we won't stop (whoa) Can't you see it's we who own the night? Can't you see it we who 'bout that life?",
+      "valence": 2.52,
+      "arousal": 3.38,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "And we won't stop (whoa) Can't you see it's we who own the night? Can't you see it we who 'bout that life? And we can't stop (whoa)",
+      "valence": 2.54,
+      "arousal": 3.4,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Can't you see it's we who own the night? Can't you see it we who 'bout that life? And we can't stop (whoa) And we won't stop (whoa)",
+      "valence": 2.61,
+      "arousal": 3.39,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Can't you see it we who 'bout that life? And we can't stop (whoa) And we won't stop (whoa) We run things, things don't run we",
+      "valence": 2.64,
+      "arousal": 3.22,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "And we can't stop (whoa) And we won't stop (whoa) We run things, things don't run we Don't take nothing from nobody, yeah, yeah",
+      "valence": 2.75,
+      "arousal": 3.42,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "And we won't stop (whoa) We run things, things don't run we Don't take nothing from nobody, yeah, yeah It's our party, we can do what we want",
+      "valence": 3.02,
+      "arousal": 3.42,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "We run things, things don't run we Don't take nothing from nobody, yeah, yeah It's our party, we can do what we want It's our party, we can say what we want",
+      "valence": 3.04,
+      "arousal": 3.3,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Don't take nothing from nobody, yeah, yeah It's our party, we can do what we want It's our party, we can say what we want It's our party, we can love who we want",
+      "valence": 3.36,
+      "arousal": 3.49,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "It's our party, we can do what we want It's our party, we can say what we want It's our party, we can love who we want We can kiss who we want",
+      "valence": 3.45,
+      "arousal": 3.55,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "It's our party, we can say what we want It's our party, we can love who we want We can kiss who we want We can screw who we want",
+      "valence": 3.18,
+      "arousal": 3.6,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "It's our party, we can love who we want We can kiss who we want We can screw who we want It's our party, we can do what we want to",
+      "valence": 3.24,
+      "arousal": 3.64,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "We can kiss who we want We can screw who we want It's our party, we can do what we want to It's our house, we can love who we want to",
+      "valence": 3.32,
+      "arousal": 3.67,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "We can screw who we want It's our party, we can do what we want to It's our house, we can love who we want to It's our song, we can sing if we want to",
+      "valence": 3.47,
+      "arousal": 3.52,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "It's our party, we can do what we want to It's our house, we can love who we want to It's our song, we can sing if we want to It's my mouth, I can say what I want to",
+      "valence": 3.6,
+      "arousal": 3.6,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "It's our house, we can love who we want to It's our song, we can sing if we want to It's my mouth, I can say what I want to Yeah, yeah, yeah, yeah, eh",
+      "valence": 3.6,
+      "arousal": 3.52,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "It's our song, we can sing if we want to It's my mouth, I can say what I want to Yeah, yeah, yeah, yeah, eh And we can't stop (yeah)",
+      "valence": 3.18,
+      "arousal": 3.38,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "It's my mouth, I can say what I want to Yeah, yeah, yeah, yeah, eh And we can't stop (yeah) And we won't stop (whoa)",
+      "valence": 2.97,
+      "arousal": 3.45,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Yeah, yeah, yeah, yeah, eh And we can't stop (yeah) And we won't stop (whoa) Can't you see it's we who own the night",
+      "valence": 2.9,
+      "arousal": 3.34,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "And we can't stop (yeah) And we won't stop (whoa) Can't you see it's we who own the night Can't you see it we who 'bout that life",
+      "valence": 2.64,
+      "arousal": 3.35,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "And we won't stop (whoa) Can't you see it's we who own the night Can't you see it we who 'bout that life And we can't stop (whoa)",
+      "valence": 2.58,
+      "arousal": 3.38,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Can't you see it's we who own the night Can't you see it we who 'bout that life And we can't stop (whoa) And we won't stop (whoa)",
+      "valence": 2.69,
+      "arousal": 3.31,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Can't you see it we who 'bout that life And we can't stop (whoa) And we won't stop (whoa) We run things, things don't run we",
+      "valence": 2.63,
+      "arousal": 3.2,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "And we can't stop (whoa) And we won't stop (whoa) We run things, things don't run we Don't take nothing from nobody, yeah, yeah",
+      "valence": 2.75,
+      "arousal": 3.42,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "And we won't stop (whoa) We run things, things don't run we Don't take nothing from nobody, yeah, yeah Yeah, yeah",
+      "valence": 3.06,
+      "arousal": 3.4,
+      "dominance": 3.51
+    }
+  ]
+}

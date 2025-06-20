@@ -1,0 +1,353 @@
+{
+  "artist": "J. Cole",
+  "overall_vad": {
+    "valence": 2.63,
+    "arousal": 3.4,
+    "dominance": 3.16
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Niggas be thinkin' I'm deep, intelligent, fooled by my college degree My IQ is average, there's a young lady out there, she way smarter than me I scrolled through her timeline in these wild times, and I started to read She mad at these crackers, she mad at these capitalists, mad at these murder police",
+      "valence": 2.6,
+      "arousal": 3.4,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "My IQ is average, there's a young lady out there, she way smarter than me I scrolled through her timeline in these wild times, and I started to read She mad at these crackers, she mad at these capitalists, mad at these murder police She mad at my niggas, she mad at our ignorance, she wear her heart on her sleeve",
+      "valence": 2.7,
+      "arousal": 3.39,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I scrolled through her timeline in these wild times, and I started to read She mad at these crackers, she mad at these capitalists, mad at these murder police She mad at my niggas, she mad at our ignorance, she wear her heart on her sleeve She mad at the celebrities, lowkey I be thinkin' she talkin' 'bout me",
+      "valence": 2.62,
+      "arousal": 3.37,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "She mad at these crackers, she mad at these capitalists, mad at these murder police She mad at my niggas, she mad at our ignorance, she wear her heart on her sleeve She mad at the celebrities, lowkey I be thinkin' she talkin' 'bout me Now I ain't no dummy to think I'm above criticism",
+      "valence": 2.33,
+      "arousal": 3.51,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "She mad at my niggas, she mad at our ignorance, she wear her heart on her sleeve She mad at the celebrities, lowkey I be thinkin' she talkin' 'bout me Now I ain't no dummy to think I'm above criticism So when I see something that's valid, I listen",
+      "valence": 2.71,
+      "arousal": 3.35,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "She mad at the celebrities, lowkey I be thinkin' she talkin' 'bout me Now I ain't no dummy to think I'm above criticism So when I see something that's valid, I listen But shit, it's something about the queen tone that's botherin' me",
+      "valence": 2.34,
+      "arousal": 3.41,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Now I ain't no dummy to think I'm above criticism So when I see something that's valid, I listen But shit, it's something about the queen tone that's botherin' me She strike me as somebody blessed enough to grow up in conscious environment",
+      "valence": 2.52,
+      "arousal": 3.38,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "So when I see something that's valid, I listen But shit, it's something about the queen tone that's botherin' me She strike me as somebody blessed enough to grow up in conscious environment With parents that know 'bout the struggle for liberation and in turn they provide her with",
+      "valence": 2.59,
+      "arousal": 3.33,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "But shit, it's something about the queen tone that's botherin' me She strike me as somebody blessed enough to grow up in conscious environment With parents that know 'bout the struggle for liberation and in turn they provide her with A perspective and awareness of the system and unfairness that afflicts 'em",
+      "valence": 2.45,
+      "arousal": 3.4,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "She strike me as somebody blessed enough to grow up in conscious environment With parents that know 'bout the struggle for liberation and in turn they provide her with A perspective and awareness of the system and unfairness that afflicts 'em And the clearest understandin' of what we gotta do to get free",
+      "valence": 3.26,
+      "arousal": 3.21,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "With parents that know 'bout the struggle for liberation and in turn they provide her with A perspective and awareness of the system and unfairness that afflicts 'em And the clearest understandin' of what we gotta do to get free And the frustration that fills her words seems to come from the fact that most people don't see",
+      "valence": 2.69,
+      "arousal": 3.2,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "A perspective and awareness of the system and unfairness that afflicts 'em And the clearest understandin' of what we gotta do to get free And the frustration that fills her words seems to come from the fact that most people don't see Just 'cause you woke and I'm not, that shit ain't no reason to talk like you better than me",
+      "valence": 2.4,
+      "arousal": 3.31,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "And the clearest understandin' of what we gotta do to get free And the frustration that fills her words seems to come from the fact that most people don't see Just 'cause you woke and I'm not, that shit ain't no reason to talk like you better than me How you gon' lead?",
+      "valence": 2.4,
+      "arousal": 3.39,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "And the frustration that fills her words seems to come from the fact that most people don't see Just 'cause you woke and I'm not, that shit ain't no reason to talk like you better than me How you gon' lead? When you attackin' the very same niggas that really do need the shit that you sayin'?",
+      "valence": 2.15,
+      "arousal": 3.52,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Just 'cause you woke and I'm not, that shit ain't no reason to talk like you better than me How you gon' lead? When you attackin' the very same niggas that really do need the shit that you sayin'? Instead of conveying you holier, come help get us up to speed",
+      "valence": 2.4,
+      "arousal": 3.59,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "How you gon' lead? When you attackin' the very same niggas that really do need the shit that you sayin'? Instead of conveying you holier, come help get us up to speed Shit, it's a reason it took like two hundred years for our ancestors just to get freed",
+      "valence": 2.34,
+      "arousal": 3.67,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "When you attackin' the very same niggas that really do need the shit that you sayin'? Instead of conveying you holier, come help get us up to speed Shit, it's a reason it took like two hundred years for our ancestors just to get freed These shackles be lockin' the mental way more than the physical",
+      "valence": 2.29,
+      "arousal": 3.66,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Instead of conveying you holier, come help get us up to speed Shit, it's a reason it took like two hundred years for our ancestors just to get freed These shackles be lockin' the mental way more than the physical I look at freedom like trees, can't grow a forest like overnight",
+      "valence": 2.58,
+      "arousal": 3.55,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Shit, it's a reason it took like two hundred years for our ancestors just to get freed These shackles be lockin' the mental way more than the physical I look at freedom like trees, can't grow a forest like overnight Hit the ghetto and slowly start plantin' your seeds",
+      "valence": 2.58,
+      "arousal": 3.54,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "These shackles be lockin' the mental way more than the physical I look at freedom like trees, can't grow a forest like overnight Hit the ghetto and slowly start plantin' your seeds Fuck is the point of you preaching your message to those that already believe what you believe?",
+      "valence": 2.48,
+      "arousal": 3.64,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I look at freedom like trees, can't grow a forest like overnight Hit the ghetto and slowly start plantin' your seeds Fuck is the point of you preaching your message to those that already believe what you believe? I'm on some \"Fuck a retweet, \" most people is sheep",
+      "valence": 2.39,
+      "arousal": 3.77,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Hit the ghetto and slowly start plantin' your seeds Fuck is the point of you preaching your message to those that already believe what you believe? I'm on some \"Fuck a retweet, \" most people is sheep You got all the answers but how you gon' reach?",
+      "valence": 2.29,
+      "arousal": 3.74,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Fuck is the point of you preaching your message to those that already believe what you believe? I'm on some \"Fuck a retweet, \" most people is sheep You got all the answers but how you gon' reach? If I could make one more suggestion respectfully",
+      "valence": 2.47,
+      "arousal": 3.76,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I'm on some \"Fuck a retweet, \" most people is sheep You got all the answers but how you gon' reach? If I could make one more suggestion respectfully I would say it's more effective to treat people like children",
+      "valence": 2.48,
+      "arousal": 3.58,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "You got all the answers but how you gon' reach? If I could make one more suggestion respectfully I would say it's more effective to treat people like children Understandin' the time and love and patience that's needed to grow",
+      "valence": 3.1,
+      "arousal": 3.17,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "If I could make one more suggestion respectfully I would say it's more effective to treat people like children Understandin' the time and love and patience that's needed to grow This change is inevitable but ain't none of us seen this before",
+      "valence": 3.07,
+      "arousal": 3.02,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I would say it's more effective to treat people like children Understandin' the time and love and patience that's needed to grow This change is inevitable but ain't none of us seen this before Therefore we just gotta learn everything as we go",
+      "valence": 3.23,
+      "arousal": 3.08,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Understandin' the time and love and patience that's needed to grow This change is inevitable but ain't none of us seen this before Therefore we just gotta learn everything as we go I struggle with thoughts on the daily",
+      "valence": 2.92,
+      "arousal": 3.06,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "This change is inevitable but ain't none of us seen this before Therefore we just gotta learn everything as we go I struggle with thoughts on the daily Feel like a slave that somehow done saved enough coins to buy his way up outta slavery",
+      "valence": 2.69,
+      "arousal": 3.34,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Therefore we just gotta learn everything as we go I struggle with thoughts on the daily Feel like a slave that somehow done saved enough coins to buy his way up outta slavery Thinkin' just maybe, in my pursuit to make life so much better for me and my babies",
+      "valence": 2.72,
+      "arousal": 3.29,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I struggle with thoughts on the daily Feel like a slave that somehow done saved enough coins to buy his way up outta slavery Thinkin' just maybe, in my pursuit to make life so much better for me and my babies I done betrayed the very same people that look at me like I'm some kind of a hero",
+      "valence": 2.5,
+      "arousal": 3.41,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Feel like a slave that somehow done saved enough coins to buy his way up outta slavery Thinkin' just maybe, in my pursuit to make life so much better for me and my babies I done betrayed the very same people that look at me like I'm some kind of a hero Because of the zeros that's next to the commas",
+      "valence": 2.63,
+      "arousal": 3.32,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Thinkin' just maybe, in my pursuit to make life so much better for me and my babies I done betrayed the very same people that look at me like I'm some kind of a hero Because of the zeros that's next to the commas But look here, I promise I'm not who you think",
+      "valence": 2.39,
+      "arousal": 3.35,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I done betrayed the very same people that look at me like I'm some kind of a hero Because of the zeros that's next to the commas But look here, I promise I'm not who you think Ran into this nigga outside of the store yesterday",
+      "valence": 2.28,
+      "arousal": 3.45,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Because of the zeros that's next to the commas But look here, I promise I'm not who you think Ran into this nigga outside of the store yesterday He said something that had me like, \"Wait\"",
+      "valence": 2.62,
+      "arousal": 3.45,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "But look here, I promise I'm not who you think Ran into this nigga outside of the store yesterday He said something that had me like, \"Wait\" He was like \"Cole, 'preciate what you been doin', my nigga, that's real\"",
+      "valence": 2.7,
+      "arousal": 3.55,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Ran into this nigga outside of the store yesterday He said something that had me like, \"Wait\" He was like \"Cole, 'preciate what you been doin', my nigga, that's real\" But damn, why I feel faker than Snow on Tha Bluff?",
+      "valence": 2.49,
+      "arousal": 3.64,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "He said something that had me like, \"Wait\" He was like \"Cole, 'preciate what you been doin', my nigga, that's real\" But damn, why I feel faker than Snow on Tha Bluff? Well maybe 'cause deep down I know I ain't doing enough",
+      "valence": 2.55,
+      "arousal": 3.42,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "He was like \"Cole, 'preciate what you been doin', my nigga, that's real\" But damn, why I feel faker than Snow on Tha Bluff? Well maybe 'cause deep down I know I ain't doing enough The sun is shinin' today",
+      "valence": 2.44,
+      "arousal": 3.33,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "But damn, why I feel faker than Snow on Tha Bluff? Well maybe 'cause deep down I know I ain't doing enough The sun is shinin' today The sun is shinin' today",
+      "valence": 2.38,
+      "arousal": 3.24,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Well maybe 'cause deep down I know I ain't doing enough The sun is shinin' today The sun is shinin' today The sun is shinin' today",
+      "valence": 2.69,
+      "arousal": 3.03,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "The sun is shinin' today The sun is shinin' today The sun is shinin' today Can you walk with me?",
+      "valence": 3.21,
+      "arousal": 3.19,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "The sun is shinin' today The sun is shinin' today Can you walk with me? I hope we'll find the reason why we often sob, go on cry",
+      "valence": 3.07,
+      "arousal": 3.44,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "The sun is shinin' today Can you walk with me? I hope we'll find the reason why we often sob, go on cry Painful memories fuck up the vibe",
+      "valence": 2.87,
+      "arousal": 3.46,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Can you walk with me? I hope we'll find the reason why we often sob, go on cry Painful memories fuck up the vibe Though I be tryna let the time heal my mind",
+      "valence": 2.8,
+      "arousal": 3.41,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I hope we'll find the reason why we often sob, go on cry Painful memories fuck up the vibe Though I be tryna let the time heal my mind I was once a child, I've gotten older",
+      "valence": 2.5,
+      "arousal": 3.37,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Painful memories fuck up the vibe Though I be tryna let the time heal my mind I was once a child, I've gotten older Still, I know I'm just a boy in God's eyes",
+      "valence": 2.52,
+      "arousal": 3.37,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Though I be tryna let the time heal my mind I was once a child, I've gotten older Still, I know I'm just a boy in God's eyes Fill me up with wisdom and some courage",
+      "valence": 3.25,
+      "arousal": 3.33,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I was once a child, I've gotten older Still, I know I'm just a boy in God's eyes Fill me up with wisdom and some courage Plus endurance to survive, help mine thrive",
+      "valence": 3.35,
+      "arousal": 3.39,
+      "dominance": 3.37
+    }
+  ]
+}

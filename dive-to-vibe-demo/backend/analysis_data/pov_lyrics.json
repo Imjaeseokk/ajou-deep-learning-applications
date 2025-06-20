@@ -1,0 +1,353 @@
+{
+  "artist": "Ariana Grande",
+  "overall_vad": {
+    "valence": 3.47,
+    "arousal": 3.73,
+    "dominance": 3.21
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "It's like you got superpowers Turn my minutes into hours You got more than 20-20, babe Made of glass the way you see through me",
+      "valence": 3.32,
+      "arousal": 3.74,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Turn my minutes into hours You got more than 20-20, babe Made of glass the way you see through me You know me better than I do",
+      "valence": 3.17,
+      "arousal": 3.42,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "You got more than 20-20, babe Made of glass the way you see through me You know me better than I do Can't seem to keep nothing from you",
+      "valence": 3.05,
+      "arousal": 3.49,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Made of glass the way you see through me You know me better than I do Can't seem to keep nothing from you How you touch my soul from the outside?",
+      "valence": 3.17,
+      "arousal": 3.45,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "You know me better than I do Can't seem to keep nothing from you How you touch my soul from the outside? Permeate my ego and my pride",
+      "valence": 2.83,
+      "arousal": 3.64,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Can't seem to keep nothing from you How you touch my soul from the outside? Permeate my ego and my pride I wanna love me (ooh)",
+      "valence": 3.61,
+      "arousal": 4.08,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "How you touch my soul from the outside? Permeate my ego and my pride I wanna love me (ooh) The way that you love me (ooh)",
+      "valence": 3.94,
+      "arousal": 4.04,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Permeate my ego and my pride I wanna love me (ooh) The way that you love me (ooh) Ooh, for all of my pretty",
+      "valence": 4.26,
+      "arousal": 4.02,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I wanna love me (ooh) The way that you love me (ooh) Ooh, for all of my pretty And all of my ugly too",
+      "valence": 4.18,
+      "arousal": 4.13,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "The way that you love me (ooh) Ooh, for all of my pretty And all of my ugly too I'd love to see me from your point of view",
+      "valence": 3.81,
+      "arousal": 3.82,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Ooh, for all of my pretty And all of my ugly too I'd love to see me from your point of view I wanna trust me (trust me)",
+      "valence": 3.34,
+      "arousal": 3.8,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "And all of my ugly too I'd love to see me from your point of view I wanna trust me (trust me) The way that you trust me (trust me)",
+      "valence": 3.12,
+      "arousal": 3.65,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I'd love to see me from your point of view I wanna trust me (trust me) The way that you trust me (trust me) Ooh, 'cause nobody ever loved me like you do",
+      "valence": 3.33,
+      "arousal": 3.66,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I wanna trust me (trust me) The way that you trust me (trust me) Ooh, 'cause nobody ever loved me like you do I'd love to see me from your point of view",
+      "valence": 3.39,
+      "arousal": 3.67,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "The way that you trust me (trust me) Ooh, 'cause nobody ever loved me like you do I'd love to see me from your point of view I'm gÐµtting used to receiving",
+      "valence": 3.47,
+      "arousal": 3.66,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Ooh, 'cause nobody ever loved me like you do I'd love to see me from your point of view I'm gÐµtting used to receiving Still gÐµtting good at not leaving",
+      "valence": 3.58,
+      "arousal": 3.66,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I'd love to see me from your point of view I'm gÐµtting used to receiving Still gÐµtting good at not leaving I'ma love you even though I'm scared (oh, scared)",
+      "valence": 3.77,
+      "arousal": 3.89,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I'm gÐµtting used to receiving Still gÐµtting good at not leaving I'ma love you even though I'm scared (oh, scared) Learnin' to be grateful for myself (oh, oh, oh)",
+      "valence": 3.75,
+      "arousal": 3.42,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Still gÐµtting good at not leaving I'ma love you even though I'm scared (oh, scared) Learnin' to be grateful for myself (oh, oh, oh) You love my lips 'cause they say the",
+      "valence": 4.08,
+      "arousal": 3.8,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I'ma love you even though I'm scared (oh, scared) Learnin' to be grateful for myself (oh, oh, oh) You love my lips 'cause they say the Things we've always been afraid of",
+      "valence": 4.2,
+      "arousal": 3.88,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Learnin' to be grateful for myself (oh, oh, oh) You love my lips 'cause they say the Things we've always been afraid of I can feel it startin' to subside",
+      "valence": 3.99,
+      "arousal": 3.53,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "You love my lips 'cause they say the Things we've always been afraid of I can feel it startin' to subside Learnin' to believe in what is mine",
+      "valence": 3.73,
+      "arousal": 3.68,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Things we've always been afraid of I can feel it startin' to subside Learnin' to believe in what is mine I wanna love me (ooh)",
+      "valence": 3.67,
+      "arousal": 3.81,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I can feel it startin' to subside Learnin' to believe in what is mine I wanna love me (ooh) The way that you love me (ooh)",
+      "valence": 3.74,
+      "arousal": 3.77,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Learnin' to believe in what is mine I wanna love me (ooh) The way that you love me (ooh) Ooh, for all of my pretty",
+      "valence": 4.15,
+      "arousal": 3.9,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I wanna love me (ooh) The way that you love me (ooh) Ooh, for all of my pretty And all of my ugly too",
+      "valence": 4.18,
+      "arousal": 4.13,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "The way that you love me (ooh) Ooh, for all of my pretty And all of my ugly too I'd love to see me from your point of view",
+      "valence": 3.81,
+      "arousal": 3.82,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Ooh, for all of my pretty And all of my ugly too I'd love to see me from your point of view I wanna trust me (trust me)",
+      "valence": 3.34,
+      "arousal": 3.8,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "And all of my ugly too I'd love to see me from your point of view I wanna trust me (trust me) The way that you trust me (trust me)",
+      "valence": 3.12,
+      "arousal": 3.65,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I'd love to see me from your point of view I wanna trust me (trust me) The way that you trust me (trust me) Ooh, 'cause nobody ever loved me like you do",
+      "valence": 3.33,
+      "arousal": 3.66,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I wanna trust me (trust me) The way that you trust me (trust me) Ooh, 'cause nobody ever loved me like you do I'd love to see me from your point of view",
+      "valence": 3.39,
+      "arousal": 3.67,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "The way that you trust me (trust me) Ooh, 'cause nobody ever loved me like you do I'd love to see me from your point of view I couldn't believe it or see it for myself",
+      "valence": 3.58,
+      "arousal": 3.83,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Ooh, 'cause nobody ever loved me like you do I'd love to see me from your point of view I couldn't believe it or see it for myself Boy, I be impatient, but now I'm out here",
+      "valence": 3.25,
+      "arousal": 3.85,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I'd love to see me from your point of view I couldn't believe it or see it for myself Boy, I be impatient, but now I'm out here Fallin', fallin', frozen, slowly",
+      "valence": 2.9,
+      "arousal": 3.69,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I couldn't believe it or see it for myself Boy, I be impatient, but now I'm out here Fallin', fallin', frozen, slowly Fallin', got me right",
+      "valence": 2.49,
+      "arousal": 3.5,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Boy, I be impatient, but now I'm out here Fallin', fallin', frozen, slowly Fallin', got me right I won't keep you waitin' (waitin')",
+      "valence": 2.38,
+      "arousal": 3.37,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Fallin', fallin', frozen, slowly Fallin', got me right I won't keep you waitin' (waitin') All my baggage fadin' safely (my baggage fadin')",
+      "valence": 2.6,
+      "arousal": 3.4,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Fallin', got me right I won't keep you waitin' (waitin') All my baggage fadin' safely (my baggage fadin') And if my eyes deceive me",
+      "valence": 2.62,
+      "arousal": 3.36,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I won't keep you waitin' (waitin') All my baggage fadin' safely (my baggage fadin') And if my eyes deceive me Won't let them stray too far away, I",
+      "valence": 2.66,
+      "arousal": 3.2,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "All my baggage fadin' safely (my baggage fadin') And if my eyes deceive me Won't let them stray too far away, I I wanna love me (ooh)",
+      "valence": 3.47,
+      "arousal": 3.85,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "And if my eyes deceive me Won't let them stray too far away, I I wanna love me (ooh) The way that you love me (ooh)",
+      "valence": 3.74,
+      "arousal": 4.01,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Won't let them stray too far away, I I wanna love me (ooh) The way that you love me (ooh) Ooh, for all of my pretty",
+      "valence": 3.86,
+      "arousal": 3.99,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I wanna love me (ooh) The way that you love me (ooh) Ooh, for all of my pretty And all of my ugly too",
+      "valence": 4.18,
+      "arousal": 4.13,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "The way that you love me (ooh) Ooh, for all of my pretty And all of my ugly too I'd love to see me from your point of view",
+      "valence": 3.81,
+      "arousal": 3.82,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Ooh, for all of my pretty And all of my ugly too I'd love to see me from your point of view I wanna trust me, ooh (trust me)",
+      "valence": 3.3,
+      "arousal": 3.78,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "And all of my ugly too I'd love to see me from your point of view I wanna trust me, ooh (trust me) The way that you trust me, baby (trust me)",
+      "valence": 3.18,
+      "arousal": 3.7,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I'd love to see me from your point of view I wanna trust me, ooh (trust me) The way that you trust me, baby (trust me) 'Cause nobody ever loved me like you do",
+      "valence": 3.41,
+      "arousal": 3.7,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I wanna trust me, ooh (trust me) The way that you trust me, baby (trust me) 'Cause nobody ever loved me like you do I'd love to see me from your point of view (oh)",
+      "valence": 3.39,
+      "arousal": 3.69,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "The way that you trust me, baby (trust me) 'Cause nobody ever loved me like you do I'd love to see me from your point of view (oh) Yeah",
+      "valence": 3.5,
+      "arousal": 3.69,
+      "dominance": 3.06
+    }
+  ]
+}

@@ -1,0 +1,577 @@
+{
+  "artist": "Miguel",
+  "overall_vad": {
+    "valence": 3.03,
+    "arousal": 3.33,
+    "dominance": 3.11
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I wish I could paint our love These moments and vibrant hues Wordplay, turns into gun play And gun play turns into pillow talk",
+      "valence": 3.3,
+      "arousal": 3.49,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "These moments and vibrant hues Wordplay, turns into gun play And gun play turns into pillow talk And pillow talk turns into sweet dreams",
+      "valence": 3.23,
+      "arousal": 3.17,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Wordplay, turns into gun play And gun play turns into pillow talk And pillow talk turns into sweet dreams Sweet dreams turns into coffee in the morning",
+      "valence": 3.08,
+      "arousal": 3.07,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "And gun play turns into pillow talk And pillow talk turns into sweet dreams Sweet dreams turns into coffee in the morning We talk street art and sarcasm",
+      "valence": 3.13,
+      "arousal": 3.15,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "And pillow talk turns into sweet dreams Sweet dreams turns into coffee in the morning We talk street art and sarcasm Crass humor and high fashion",
+      "valence": 3.26,
+      "arousal": 3.12,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Sweet dreams turns into coffee in the morning We talk street art and sarcasm Crass humor and high fashion Peach color, moon glistens, the plot thickens",
+      "valence": 3.04,
+      "arousal": 3.16,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "We talk street art and sarcasm Crass humor and high fashion Peach color, moon glistens, the plot thickens As we laugh over shotguns and tongue kisses",
+      "valence": 3.37,
+      "arousal": 3.55,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Crass humor and high fashion Peach color, moon glistens, the plot thickens As we laugh over shotguns and tongue kisses Bubble bath, Truth or Dare, and Would You Rather",
+      "valence": 3.34,
+      "arousal": 3.48,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Peach color, moon glistens, the plot thickens As we laugh over shotguns and tongue kisses Bubble bath, Truth or Dare, and Would You Rather A cold flame, the thrill of no shame",
+      "valence": 3.41,
+      "arousal": 3.45,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "As we laugh over shotguns and tongue kisses Bubble bath, Truth or Dare, and Would You Rather A cold flame, the thrill of no shame Drugs, sex, and polaroids",
+      "valence": 3.43,
+      "arousal": 3.47,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Bubble bath, Truth or Dare, and Would You Rather A cold flame, the thrill of no shame Drugs, sex, and polaroids Pick a star in the sky",
+      "valence": 3.07,
+      "arousal": 3.1,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "A cold flame, the thrill of no shame Drugs, sex, and polaroids Pick a star in the sky We could both say goodbye all night",
+      "valence": 3.09,
+      "arousal": 3.2,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Drugs, sex, and polaroids Pick a star in the sky We could both say goodbye all night I wish I could paint our love",
+      "valence": 3.39,
+      "arousal": 3.56,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Pick a star in the sky We could both say goodbye all night I wish I could paint our love These moments and vibrant hues",
+      "valence": 3.63,
+      "arousal": 3.61,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "We could both say goodbye all night I wish I could paint our love These moments and vibrant hues Wordplay, turns into gun play",
+      "valence": 3.29,
+      "arousal": 3.66,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I wish I could paint our love These moments and vibrant hues Wordplay, turns into gun play And gun play turns into pillow talk",
+      "valence": 3.3,
+      "arousal": 3.49,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "These moments and vibrant hues Wordplay, turns into gun play And gun play turns into pillow talk And pillow talk turns into sweet dreams",
+      "valence": 3.23,
+      "arousal": 3.17,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Wordplay, turns into gun play And gun play turns into pillow talk And pillow talk turns into sweet dreams Sweet dreams turns into coffee in the morning",
+      "valence": 3.08,
+      "arousal": 3.07,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "And gun play turns into pillow talk And pillow talk turns into sweet dreams Sweet dreams turns into coffee in the morning Coffee in the morning",
+      "valence": 3.15,
+      "arousal": 3.02,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "And pillow talk turns into sweet dreams Sweet dreams turns into coffee in the morning Coffee in the morning I don't wanna wake you",
+      "valence": 2.92,
+      "arousal": 3.13,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Sweet dreams turns into coffee in the morning Coffee in the morning I don't wanna wake you I just wanna watch you sleep",
+      "valence": 3.12,
+      "arousal": 2.98,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Coffee in the morning I don't wanna wake you I just wanna watch you sleep It's the smell of your hair",
+      "valence": 3.26,
+      "arousal": 3.26,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I don't wanna wake you I just wanna watch you sleep It's the smell of your hair And it's the way that we feel",
+      "valence": 3.21,
+      "arousal": 3.29,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I just wanna watch you sleep It's the smell of your hair And it's the way that we feel I've never felt comfortable like this",
+      "valence": 3.22,
+      "arousal": 3.67,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "It's the smell of your hair And it's the way that we feel I've never felt comfortable like this Old souls we found a new religion",
+      "valence": 3.04,
+      "arousal": 3.31,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "And it's the way that we feel I've never felt comfortable like this Old souls we found a new religion Now I'm swimming in that sin, baptism",
+      "valence": 2.55,
+      "arousal": 3.2,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I've never felt comfortable like this Old souls we found a new religion Now I'm swimming in that sin, baptism Peach colored skies we feel the sunrise",
+      "valence": 2.94,
+      "arousal": 3.32,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Old souls we found a new religion Now I'm swimming in that sin, baptism Peach colored skies we feel the sunrise Two lost angels discover salvation",
+      "valence": 3.22,
+      "arousal": 3.21,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Now I'm swimming in that sin, baptism Peach colored skies we feel the sunrise Two lost angels discover salvation Don't you wish we could run away now?",
+      "valence": 3.0,
+      "arousal": 3.29,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Peach colored skies we feel the sunrise Two lost angels discover salvation Don't you wish we could run away now? Yes, let's",
+      "valence": 3.37,
+      "arousal": 3.3,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Two lost angels discover salvation Don't you wish we could run away now? Yes, let's Drugs, sex, and polaroids",
+      "valence": 3.13,
+      "arousal": 3.33,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Don't you wish we could run away now? Yes, let's Drugs, sex, and polaroids Pick a star in the sky",
+      "valence": 3.03,
+      "arousal": 3.19,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Yes, let's Drugs, sex, and polaroids Pick a star in the sky We could both say goodbye all night",
+      "valence": 3.2,
+      "arousal": 3.17,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Drugs, sex, and polaroids Pick a star in the sky We could both say goodbye all night I wish I could paint our love",
+      "valence": 3.39,
+      "arousal": 3.56,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Pick a star in the sky We could both say goodbye all night I wish I could paint our love These moments and vibrant hues",
+      "valence": 3.63,
+      "arousal": 3.61,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "We could both say goodbye all night I wish I could paint our love These moments and vibrant hues Wordplay, turns into gun play",
+      "valence": 3.29,
+      "arousal": 3.66,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I wish I could paint our love These moments and vibrant hues Wordplay, turns into gun play And gun play turns into pillow talk",
+      "valence": 3.3,
+      "arousal": 3.49,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "These moments and vibrant hues Wordplay, turns into gun play And gun play turns into pillow talk And pillow talk turns into sweet dreams",
+      "valence": 3.23,
+      "arousal": 3.17,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Wordplay, turns into gun play And gun play turns into pillow talk And pillow talk turns into sweet dreams Sweet dreams turns into coffee in the morning",
+      "valence": 3.08,
+      "arousal": 3.07,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "And gun play turns into pillow talk And pillow talk turns into sweet dreams Sweet dreams turns into coffee in the morning Coffee in the morning",
+      "valence": 3.15,
+      "arousal": 3.02,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "And pillow talk turns into sweet dreams Sweet dreams turns into coffee in the morning Coffee in the morning I don't wanna wake you",
+      "valence": 2.92,
+      "arousal": 3.13,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Sweet dreams turns into coffee in the morning Coffee in the morning I don't wanna wake you I just wanna watch you sleep",
+      "valence": 3.12,
+      "arousal": 2.98,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Coffee in the morning I don't wanna wake you I just wanna watch you sleep It's the smell of your hair",
+      "valence": 3.26,
+      "arousal": 3.26,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I don't wanna wake you I just wanna watch you sleep It's the smell of your hair And it's the way that we feel",
+      "valence": 3.21,
+      "arousal": 3.29,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I just wanna watch you sleep It's the smell of your hair And it's the way that we feel I've never felt comfortable like this",
+      "valence": 3.22,
+      "arousal": 3.67,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "It's the smell of your hair And it's the way that we feel I've never felt comfortable like this Wordplay, turns into gun play",
+      "valence": 2.7,
+      "arousal": 3.39,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "And it's the way that we feel I've never felt comfortable like this Wordplay, turns into gun play And gun play turns into pillow talk",
+      "valence": 2.54,
+      "arousal": 3.25,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I've never felt comfortable like this Wordplay, turns into gun play And gun play turns into pillow talk And pillow talk turns into sweet dreams",
+      "valence": 2.79,
+      "arousal": 3.36,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Wordplay, turns into gun play And gun play turns into pillow talk And pillow talk turns into sweet dreams Sweet dreams turns into coffee in the morning",
+      "valence": 3.08,
+      "arousal": 3.07,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "And gun play turns into pillow talk And pillow talk turns into sweet dreams Sweet dreams turns into coffee in the morning Coffee in the morning",
+      "valence": 3.15,
+      "arousal": 3.02,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "And pillow talk turns into sweet dreams Sweet dreams turns into coffee in the morning Coffee in the morning I don't wanna wake you",
+      "valence": 2.92,
+      "arousal": 3.13,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Sweet dreams turns into coffee in the morning Coffee in the morning I don't wanna wake you I just wanna watch you sleep",
+      "valence": 3.12,
+      "arousal": 2.98,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Coffee in the morning I don't wanna wake you I just wanna watch you sleep It's the smell of your hair",
+      "valence": 3.26,
+      "arousal": 3.26,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "I don't wanna wake you I just wanna watch you sleep It's the smell of your hair And it's the way that we feel",
+      "valence": 3.21,
+      "arousal": 3.29,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "I just wanna watch you sleep It's the smell of your hair And it's the way that we feel I've never felt comfortable like this",
+      "valence": 3.22,
+      "arousal": 3.67,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "It's the smell of your hair And it's the way that we feel I've never felt comfortable like this Coffee in the morning",
+      "valence": 3.08,
+      "arousal": 3.4,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "And it's the way that we feel I've never felt comfortable like this Coffee in the morning I don't wanna wake you",
+      "valence": 2.33,
+      "arousal": 3.46,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "I've never felt comfortable like this Coffee in the morning I don't wanna wake you I just wanna watch you sleep",
+      "valence": 2.61,
+      "arousal": 3.32,
+      "dominance": 2.7
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Coffee in the morning I don't wanna wake you I just wanna watch you sleep It's the smell of your hair",
+      "valence": 3.26,
+      "arousal": 3.26,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "I don't wanna wake you I just wanna watch you sleep It's the smell of your hair And it's the way that we feel",
+      "valence": 3.21,
+      "arousal": 3.29,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "I just wanna watch you sleep It's the smell of your hair And it's the way that we feel I've never felt comfortable like this",
+      "valence": 3.22,
+      "arousal": 3.67,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "It's the smell of your hair And it's the way that we feel I've never felt comfortable like this Old souls we found a new religion",
+      "valence": 3.04,
+      "arousal": 3.31,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "And it's the way that we feel I've never felt comfortable like this Old souls we found a new religion Now I'm swimming in that sin, that's baptism",
+      "valence": 2.53,
+      "arousal": 3.21,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "I've never felt comfortable like this Old souls we found a new religion Now I'm swimming in that sin, that's baptism Pick a star in the sky",
+      "valence": 2.55,
+      "arousal": 3.25,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Old souls we found a new religion Now I'm swimming in that sin, that's baptism Pick a star in the sky We could both say goodbye",
+      "valence": 2.69,
+      "arousal": 3.21,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Now I'm swimming in that sin, that's baptism Pick a star in the sky We could both say goodbye Old souls we found a new religion",
+      "valence": 2.86,
+      "arousal": 3.23,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Pick a star in the sky We could both say goodbye Old souls we found a new religion Now I'm swimming in that sin, that's baptism",
+      "valence": 2.8,
+      "arousal": 3.15,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "We could both say goodbye Old souls we found a new religion Now I'm swimming in that sin, that's baptism Two lost angels discover salvation",
+      "valence": 2.88,
+      "arousal": 3.22,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Old souls we found a new religion Now I'm swimming in that sin, that's baptism Two lost angels discover salvation Under glass pink skies watching the sunlight",
+      "valence": 2.97,
+      "arousal": 3.14,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Now I'm swimming in that sin, that's baptism Two lost angels discover salvation Under glass pink skies watching the sunlight (Fucking in the morning)",
+      "valence": 2.73,
+      "arousal": 3.44,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Two lost angels discover salvation Under glass pink skies watching the sunlight (Fucking in the morning) Pick a star in the sky",
+      "valence": 3.22,
+      "arousal": 3.25,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Under glass pink skies watching the sunlight (Fucking in the morning) Pick a star in the sky We could both say goodbye",
+      "valence": 2.99,
+      "arousal": 3.39,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "(Fucking in the morning) Pick a star in the sky We could both say goodbye (Fucking in the morning)",
+      "valence": 2.26,
+      "arousal": 3.84,
+      "dominance": 3.74
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Pick a star in the sky We could both say goodbye (Fucking in the morning) Pick a star in the sky",
+      "valence": 2.85,
+      "arousal": 3.43,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "We could both say goodbye (Fucking in the morning) Pick a star in the sky We could both say goodbye",
+      "valence": 2.72,
+      "arousal": 3.58,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "(Fucking in the morning) Pick a star in the sky We could both say goodbye (Fucking in the morning)",
+      "valence": 2.26,
+      "arousal": 3.84,
+      "dominance": 3.74
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "Pick a star in the sky We could both say goodbye (Fucking in the morning) Old souls we found a new religion",
+      "valence": 2.86,
+      "arousal": 3.5,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "We could both say goodbye (Fucking in the morning) Old souls we found a new religion Now I'm swimming in that sin, that's baptism",
+      "valence": 2.34,
+      "arousal": 3.56,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "(Fucking in the morning) Old souls we found a new religion Now I'm swimming in that sin, that's baptism (Fucking in the morning)",
+      "valence": 2.22,
+      "arousal": 3.51,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "Old souls we found a new religion Now I'm swimming in that sin, that's baptism (Fucking in the morning) Pick a star in the sky",
+      "valence": 2.4,
+      "arousal": 3.37,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "Now I'm swimming in that sin, that's baptism (Fucking in the morning) Pick a star in the sky We could both say goodbye",
+      "valence": 2.37,
+      "arousal": 3.5,
+      "dominance": 3.25
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "artist": "Tim McGraw",
+  "overall_vad": {
+    "valence": 2.85,
+    "arousal": 3.21,
+    "dominance": 3.1
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Got an '06 stick shift Dark blue F-150 in good condition Got a hundred and nineteen thousand miles Only five on the new transmission",
+      "valence": 3.33,
+      "arousal": 2.94,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Dark blue F-150 in good condition Got a hundred and nineteen thousand miles Only five on the new transmission It's got leather seats, a sun roof",
+      "valence": 3.28,
+      "arousal": 2.83,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Got a hundred and nineteen thousand miles Only five on the new transmission It's got leather seats, a sun roof It's sittin' on 33s, it runs smooth",
+      "valence": 3.07,
+      "arousal": 2.89,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Only five on the new transmission It's got leather seats, a sun roof It's sittin' on 33s, it runs smooth It'll get you from A to B, but not for me",
+      "valence": 3.03,
+      "arousal": 3.01,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "It's got leather seats, a sun roof It's sittin' on 33s, it runs smooth It'll get you from A to B, but not for me 'Cause every time I turn that key, I see her",
+      "valence": 3.02,
+      "arousal": 3.24,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "It's sittin' on 33s, it runs smooth It'll get you from A to B, but not for me 'Cause every time I turn that key, I see her Shotgun ridin' down a two lane road",
+      "valence": 2.74,
+      "arousal": 3.31,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "It'll get you from A to B, but not for me 'Cause every time I turn that key, I see her Shotgun ridin' down a two lane road Just drivin' around with no place to go",
+      "valence": 2.49,
+      "arousal": 3.26,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "'Cause every time I turn that key, I see her Shotgun ridin' down a two lane road Just drivin' around with no place to go Us singin' along to \"Where The Green Grass Grows\"",
+      "valence": 3.02,
+      "arousal": 3.29,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Shotgun ridin' down a two lane road Just drivin' around with no place to go Us singin' along to \"Where The Green Grass Grows\" Hands out the window floatin' on the breeze",
+      "valence": 3.04,
+      "arousal": 3.12,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Just drivin' around with no place to go Us singin' along to \"Where The Green Grass Grows\" Hands out the window floatin' on the breeze She's fixin' her lips in the drop down mirror",
+      "valence": 3.14,
+      "arousal": 3.08,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Us singin' along to \"Where The Green Grass Grows\" Hands out the window floatin' on the breeze She's fixin' her lips in the drop down mirror That pretty little thing made it hard to steer",
+      "valence": 3.23,
+      "arousal": 3.19,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Hands out the window floatin' on the breeze She's fixin' her lips in the drop down mirror That pretty little thing made it hard to steer I'm never gonna get her outta there",
+      "valence": 2.74,
+      "arousal": 3.28,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "She's fixin' her lips in the drop down mirror That pretty little thing made it hard to steer I'm never gonna get her outta there There's too many memories",
+      "valence": 2.53,
+      "arousal": 3.22,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "That pretty little thing made it hard to steer I'm never gonna get her outta there There's too many memories Now there's a \"For Sale\" sign in the window",
+      "valence": 2.4,
+      "arousal": 3.23,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I'm never gonna get her outta there There's too many memories Now there's a \"For Sale\" sign in the window Yeah, 'cause if I'm gonna let her go",
+      "valence": 2.52,
+      "arousal": 3.16,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "There's too many memories Now there's a \"For Sale\" sign in the window Yeah, 'cause if I'm gonna let her go I gotta let it go, yeah, it's gotta go",
+      "valence": 2.6,
+      "arousal": 3.16,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Now there's a \"For Sale\" sign in the window Yeah, 'cause if I'm gonna let her go I gotta let it go, yeah, it's gotta go So it's seventy-five hundred, OBO",
+      "valence": 3.04,
+      "arousal": 3.27,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Yeah, 'cause if I'm gonna let her go I gotta let it go, yeah, it's gotta go So it's seventy-five hundred, OBO Back bumper's got a dent from her backin' in",
+      "valence": 2.66,
+      "arousal": 3.35,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I gotta let it go, yeah, it's gotta go So it's seventy-five hundred, OBO Back bumper's got a dent from her backin' in To a mailbox first time she drove it",
+      "valence": 2.7,
+      "arousal": 3.21,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "So it's seventy-five hundred, OBO Back bumper's got a dent from her backin' in To a mailbox first time she drove it Couldn't even be mad with her lookin' like that",
+      "valence": 2.48,
+      "arousal": 3.35,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Back bumper's got a dent from her backin' in To a mailbox first time she drove it Couldn't even be mad with her lookin' like that Told her, \"Hell, you can hardly even notice\"",
+      "valence": 2.49,
+      "arousal": 3.24,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "To a mailbox first time she drove it Couldn't even be mad with her lookin' like that Told her, \"Hell, you can hardly even notice\" It's got nights with her I can't forget",
+      "valence": 2.64,
+      "arousal": 3.34,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Couldn't even be mad with her lookin' like that Told her, \"Hell, you can hardly even notice\" It's got nights with her I can't forget Kissin' on the tailgate of the truck bed",
+      "valence": 3.11,
+      "arousal": 3.57,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Told her, \"Hell, you can hardly even notice\" It's got nights with her I can't forget Kissin' on the tailgate of the truck bed I wish I didn't have to get rid of it",
+      "valence": 3.09,
+      "arousal": 3.51,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "It's got nights with her I can't forget Kissin' on the tailgate of the truck bed I wish I didn't have to get rid of it But every time I turn that key, I see her",
+      "valence": 3.13,
+      "arousal": 3.51,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Kissin' on the tailgate of the truck bed I wish I didn't have to get rid of it But every time I turn that key, I see her Shotgun ridin' down a two lane road",
+      "valence": 2.82,
+      "arousal": 3.31,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I wish I didn't have to get rid of it But every time I turn that key, I see her Shotgun ridin' down a two lane road Just drivin' around with no place to go",
+      "valence": 2.4,
+      "arousal": 3.21,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "But every time I turn that key, I see her Shotgun ridin' down a two lane road Just drivin' around with no place to go Us singin' along to \"Where The Green Grass Grows\"",
+      "valence": 3.0,
+      "arousal": 3.22,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Shotgun ridin' down a two lane road Just drivin' around with no place to go Us singin' along to \"Where The Green Grass Grows\" Hands out the window floatin' on the breeze",
+      "valence": 3.04,
+      "arousal": 3.12,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Just drivin' around with no place to go Us singin' along to \"Where The Green Grass Grows\" Hands out the window floatin' on the breeze She's fixin' her lips in the drop down mirror",
+      "valence": 3.14,
+      "arousal": 3.08,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Us singin' along to \"Where The Green Grass Grows\" Hands out the window floatin' on the breeze She's fixin' her lips in the drop down mirror That pretty little thing made it hard to steer",
+      "valence": 3.23,
+      "arousal": 3.19,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Hands out the window floatin' on the breeze She's fixin' her lips in the drop down mirror That pretty little thing made it hard to steer I'm never gonna get her outta there",
+      "valence": 2.74,
+      "arousal": 3.28,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "She's fixin' her lips in the drop down mirror That pretty little thing made it hard to steer I'm never gonna get her outta there There's too many memories",
+      "valence": 2.53,
+      "arousal": 3.22,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "That pretty little thing made it hard to steer I'm never gonna get her outta there There's too many memories Now there's a \"For Sale\" sign in the window",
+      "valence": 2.4,
+      "arousal": 3.23,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I'm never gonna get her outta there There's too many memories Now there's a \"For Sale\" sign in the window Yeah, 'cause if I'm gonna let her go",
+      "valence": 2.52,
+      "arousal": 3.16,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "There's too many memories Now there's a \"For Sale\" sign in the window Yeah, 'cause if I'm gonna let her go I gotta let it go, yeah, it's gotta go",
+      "valence": 2.6,
+      "arousal": 3.16,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Now there's a \"For Sale\" sign in the window Yeah, 'cause if I'm gonna let her go I gotta let it go, yeah, it's gotta go So it's seventy-five hundred, OBO",
+      "valence": 3.04,
+      "arousal": 3.27,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Yeah, 'cause if I'm gonna let her go I gotta let it go, yeah, it's gotta go So it's seventy-five hundred, OBO It's got leather seats, a sun roof",
+      "valence": 3.05,
+      "arousal": 3.21,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I gotta let it go, yeah, it's gotta go So it's seventy-five hundred, OBO It's got leather seats, a sun roof It's sittin' on 33s, it runs smooth",
+      "valence": 3.08,
+      "arousal": 3.1,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "So it's seventy-five hundred, OBO It's got leather seats, a sun roof It's sittin' on 33s, it runs smooth It'll get you from A to B, but not for me",
+      "valence": 3.05,
+      "arousal": 3.1,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "It's got leather seats, a sun roof It's sittin' on 33s, it runs smooth It'll get you from A to B, but not for me 'Cause every time I turn that key, I see her",
+      "valence": 3.02,
+      "arousal": 3.24,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "It's sittin' on 33s, it runs smooth It'll get you from A to B, but not for me 'Cause every time I turn that key, I see her Shotgun ridin' down a two lane road",
+      "valence": 2.74,
+      "arousal": 3.31,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "It'll get you from A to B, but not for me 'Cause every time I turn that key, I see her Shotgun ridin' down a two lane road Just drivin' around with no place to go",
+      "valence": 2.49,
+      "arousal": 3.26,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "'Cause every time I turn that key, I see her Shotgun ridin' down a two lane road Just drivin' around with no place to go Us singin' along to \"Where The Green Grass Grows\"",
+      "valence": 3.02,
+      "arousal": 3.29,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Shotgun ridin' down a two lane road Just drivin' around with no place to go Us singin' along to \"Where The Green Grass Grows\" Hands out the window floatin' on the breeze",
+      "valence": 3.04,
+      "arousal": 3.12,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Just drivin' around with no place to go Us singin' along to \"Where The Green Grass Grows\" Hands out the window floatin' on the breeze She's fixin' her lips in the drop down mirror",
+      "valence": 3.14,
+      "arousal": 3.08,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Us singin' along to \"Where The Green Grass Grows\" Hands out the window floatin' on the breeze She's fixin' her lips in the drop down mirror That pretty little thing made it hard to steer",
+      "valence": 3.23,
+      "arousal": 3.19,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Hands out the window floatin' on the breeze She's fixin' her lips in the drop down mirror That pretty little thing made it hard to steer I'm never gonna get her outta there",
+      "valence": 2.74,
+      "arousal": 3.28,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "She's fixin' her lips in the drop down mirror That pretty little thing made it hard to steer I'm never gonna get her outta there There's too many memories",
+      "valence": 2.53,
+      "arousal": 3.22,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "That pretty little thing made it hard to steer I'm never gonna get her outta there There's too many memories Now there's a \"For Sale\" sign in the window",
+      "valence": 2.4,
+      "arousal": 3.23,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I'm never gonna get her outta there There's too many memories Now there's a \"For Sale\" sign in the window Yeah, 'cause if I'm gonna let her go",
+      "valence": 2.52,
+      "arousal": 3.16,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "There's too many memories Now there's a \"For Sale\" sign in the window Yeah, 'cause if I'm gonna let her go I gotta let it go, yeah, it's gotta go",
+      "valence": 2.6,
+      "arousal": 3.16,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Now there's a \"For Sale\" sign in the window Yeah, 'cause if I'm gonna let her go I gotta let it go, yeah, it's gotta go So it's seventy-five hundred, OBO",
+      "valence": 3.04,
+      "arousal": 3.27,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Yeah, 'cause if I'm gonna let her go I gotta let it go, yeah, it's gotta go So it's seventy-five hundred, OBO It's seventy-five hundred, OBO",
+      "valence": 3.0,
+      "arousal": 3.2,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "I gotta let it go, yeah, it's gotta go So it's seventy-five hundred, OBO It's seventy-five hundred, OBO It's seventy-five hundred, OBO",
+      "valence": 3.05,
+      "arousal": 3.14,
+      "dominance": 3.21
+    }
+  ]
+}

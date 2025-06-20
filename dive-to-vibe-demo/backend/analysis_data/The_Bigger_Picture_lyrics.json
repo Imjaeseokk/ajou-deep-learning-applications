@@ -1,0 +1,927 @@
+{
+  "artist": "Lil Baby",
+  "overall_vad": {
+    "valence": 2.6,
+    "arousal": 3.49,
+    "dominance": 3.24
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Protests and growing national outcry continues Over the death of George Floyd Last night, people protesting in Minneapolis escalated As demonstrators were lashed by tear gas and rubber bullets",
+      "valence": 2.34,
+      "arousal": 3.48,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Over the death of George Floyd Last night, people protesting in Minneapolis escalated As demonstrators were lashed by tear gas and rubber bullets The main message here, the main message here, the main message here",
+      "valence": 2.53,
+      "arousal": 3.37,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Last night, people protesting in Minneapolis escalated As demonstrators were lashed by tear gas and rubber bullets The main message here, the main message here, the main message here Is that they want to see those officers involved",
+      "valence": 2.61,
+      "arousal": 3.36,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "As demonstrators were lashed by tear gas and rubber bullets The main message here, the main message here, the main message here Is that they want to see those officers involved They want to see those officers arrested",
+      "valence": 2.54,
+      "arousal": 3.39,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "The main message here, the main message here, the main message here Is that they want to see those officers involved They want to see those officers arrested Officers arrested",
+      "valence": 2.81,
+      "arousal": 3.32,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Is that they want to see those officers involved They want to see those officers arrested Officers arrested (I can't breathe, I can't breathe)",
+      "valence": 2.53,
+      "arousal": 3.56,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "They want to see those officers arrested Officers arrested (I can't breathe, I can't breathe) Trade my 4 x 4 for a G63, ain't no more free Lil Steve",
+      "valence": 2.29,
+      "arousal": 3.78,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Officers arrested (I can't breathe, I can't breathe) Trade my 4 x 4 for a G63, ain't no more free Lil Steve I gave 'em chance and chance and chance again",
+      "valence": 2.51,
+      "arousal": 3.78,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "(I can't breathe, I can't breathe) Trade my 4 x 4 for a G63, ain't no more free Lil Steve I gave 'em chance and chance and chance again I even done told them please",
+      "valence": 2.47,
+      "arousal": 3.81,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Trade my 4 x 4 for a G63, ain't no more free Lil Steve I gave 'em chance and chance and chance again I even done told them please I find it crazy the police'll shoot you and know that you dead",
+      "valence": 2.53,
+      "arousal": 3.64,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "I gave 'em chance and chance and chance again I even done told them please I find it crazy the police'll shoot you and know that you dead But still tell you to freeze",
+      "valence": 2.55,
+      "arousal": 3.56,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I even done told them please I find it crazy the police'll shoot you and know that you dead But still tell you to freeze Fucked up, I seen what I seen",
+      "valence": 2.1,
+      "arousal": 3.81,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I find it crazy the police'll shoot you and know that you dead But still tell you to freeze Fucked up, I seen what I seen I guess that mean hold him down if he say he can't breathe",
+      "valence": 2.16,
+      "arousal": 3.74,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "But still tell you to freeze Fucked up, I seen what I seen I guess that mean hold him down if he say he can't breathe It's too many mothers that's grieving",
+      "valence": 2.24,
+      "arousal": 3.59,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Fucked up, I seen what I seen I guess that mean hold him down if he say he can't breathe It's too many mothers that's grieving They killing us for no reason",
+      "valence": 2.11,
+      "arousal": 3.52,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I guess that mean hold him down if he say he can't breathe It's too many mothers that's grieving They killing us for no reason Been going on for too long to get even",
+      "valence": 2.28,
+      "arousal": 3.39,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "It's too many mothers that's grieving They killing us for no reason Been going on for too long to get even Throw us in cages like dogs and hyenas",
+      "valence": 2.01,
+      "arousal": 3.28,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "They killing us for no reason Been going on for too long to get even Throw us in cages like dogs and hyenas I went to court and they sent me to prison",
+      "valence": 2.06,
+      "arousal": 3.35,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Been going on for too long to get even Throw us in cages like dogs and hyenas I went to court and they sent me to prison My mama was crushed when they said I can't leave",
+      "valence": 2.06,
+      "arousal": 3.47,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Throw us in cages like dogs and hyenas I went to court and they sent me to prison My mama was crushed when they said I can't leave First I was drunk, then I sobered up quick",
+      "valence": 2.17,
+      "arousal": 3.44,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I went to court and they sent me to prison My mama was crushed when they said I can't leave First I was drunk, then I sobered up quick When I heard all that time that they gave to Taleeb",
+      "valence": 2.41,
+      "arousal": 3.36,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "My mama was crushed when they said I can't leave First I was drunk, then I sobered up quick When I heard all that time that they gave to Taleeb He got a life sentence plus",
+      "valence": 2.42,
+      "arousal": 3.44,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "First I was drunk, then I sobered up quick When I heard all that time that they gave to Taleeb He got a life sentence plus We just some products of our environment",
+      "valence": 2.6,
+      "arousal": 3.24,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "When I heard all that time that they gave to Taleeb He got a life sentence plus We just some products of our environment How the fuck they gon' blame us?",
+      "valence": 2.36,
+      "arousal": 3.47,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "He got a life sentence plus We just some products of our environment How the fuck they gon' blame us? You can't fight fire with fire",
+      "valence": 2.34,
+      "arousal": 3.52,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "We just some products of our environment How the fuck they gon' blame us? You can't fight fire with fire I know, but at least we can turn up the flames some",
+      "valence": 2.55,
+      "arousal": 3.35,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "How the fuck they gon' blame us? You can't fight fire with fire I know, but at least we can turn up the flames some Every colored person ain't dumb and all whites not racist",
+      "valence": 2.66,
+      "arousal": 3.47,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "You can't fight fire with fire I know, but at least we can turn up the flames some Every colored person ain't dumb and all whites not racist I be judging by the mind and heart, I ain't really into faces",
+      "valence": 2.91,
+      "arousal": 3.21,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I know, but at least we can turn up the flames some Every colored person ain't dumb and all whites not racist I be judging by the mind and heart, I ain't really into faces Fucked up, the way that we livin' is not getting better",
+      "valence": 2.54,
+      "arousal": 3.48,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Every colored person ain't dumb and all whites not racist I be judging by the mind and heart, I ain't really into faces Fucked up, the way that we livin' is not getting better You gotta know how to survive",
+      "valence": 2.39,
+      "arousal": 3.48,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I be judging by the mind and heart, I ain't really into faces Fucked up, the way that we livin' is not getting better You gotta know how to survive Crazy, I had to tell all of my loved ones",
+      "valence": 2.24,
+      "arousal": 3.72,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Fucked up, the way that we livin' is not getting better You gotta know how to survive Crazy, I had to tell all of my loved ones To carry a gun when they going outside",
+      "valence": 2.12,
+      "arousal": 3.68,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "You gotta know how to survive Crazy, I had to tell all of my loved ones To carry a gun when they going outside Stare in the mirror whenever you drive",
+      "valence": 2.76,
+      "arousal": 3.61,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Crazy, I had to tell all of my loved ones To carry a gun when they going outside Stare in the mirror whenever you drive Overprotective, go crazy for mine",
+      "valence": 2.6,
+      "arousal": 3.82,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "To carry a gun when they going outside Stare in the mirror whenever you drive Overprotective, go crazy for mine You gotta pay attention to the signs",
+      "valence": 2.62,
+      "arousal": 3.51,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Stare in the mirror whenever you drive Overprotective, go crazy for mine You gotta pay attention to the signs Seem like the blind following the blind",
+      "valence": 2.62,
+      "arousal": 3.43,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Overprotective, go crazy for mine You gotta pay attention to the signs Seem like the blind following the blind Thinking 'bout everything that's going on",
+      "valence": 2.58,
+      "arousal": 3.48,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "You gotta pay attention to the signs Seem like the blind following the blind Thinking 'bout everything that's going on I boost security up at my home",
+      "valence": 2.88,
+      "arousal": 3.22,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Seem like the blind following the blind Thinking 'bout everything that's going on I boost security up at my home I'm with my kind if they right or they wrong",
+      "valence": 2.83,
+      "arousal": 3.25,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Thinking 'bout everything that's going on I boost security up at my home I'm with my kind if they right or they wrong I call him now, he'll pick up the phone",
+      "valence": 2.85,
+      "arousal": 3.42,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I boost security up at my home I'm with my kind if they right or they wrong I call him now, he'll pick up the phone And it's five in the morning, he waking up on it",
+      "valence": 2.9,
+      "arousal": 3.44,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "I'm with my kind if they right or they wrong I call him now, he'll pick up the phone And it's five in the morning, he waking up on it Tell 'em wherever I'm at, then they comin'",
+      "valence": 2.97,
+      "arousal": 3.37,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I call him now, he'll pick up the phone And it's five in the morning, he waking up on it Tell 'em wherever I'm at, then they comin' I see blue lights, I get scared and start runnin'",
+      "valence": 2.77,
+      "arousal": 3.59,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "And it's five in the morning, he waking up on it Tell 'em wherever I'm at, then they comin' I see blue lights, I get scared and start runnin' That shit be crazy, they 'posed to protect us",
+      "valence": 2.53,
+      "arousal": 3.93,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Tell 'em wherever I'm at, then they comin' I see blue lights, I get scared and start runnin' That shit be crazy, they 'posed to protect us Throw us in handcuffs and arrest us",
+      "valence": 2.5,
+      "arousal": 3.92,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I see blue lights, I get scared and start runnin' That shit be crazy, they 'posed to protect us Throw us in handcuffs and arrest us While they go home at night, that shit messed up",
+      "valence": 2.08,
+      "arousal": 3.94,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "That shit be crazy, they 'posed to protect us Throw us in handcuffs and arrest us While they go home at night, that shit messed up Knowing we needed help, they neglect us",
+      "valence": 2.11,
+      "arousal": 3.54,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Throw us in handcuffs and arrest us While they go home at night, that shit messed up Knowing we needed help, they neglect us Wondering who gon' make them respect us",
+      "valence": 2.23,
+      "arousal": 3.39,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "While they go home at night, that shit messed up Knowing we needed help, they neglect us Wondering who gon' make them respect us I can see in your eye that you fed up",
+      "valence": 2.11,
+      "arousal": 3.32,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Knowing we needed help, they neglect us Wondering who gon' make them respect us I can see in your eye that you fed up Fuck around, got my shot, I won't let up",
+      "valence": 2.18,
+      "arousal": 3.49,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Wondering who gon' make them respect us I can see in your eye that you fed up Fuck around, got my shot, I won't let up They know that we a problem together",
+      "valence": 2.24,
+      "arousal": 3.68,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "I can see in your eye that you fed up Fuck around, got my shot, I won't let up They know that we a problem together They know that we can storm any weather",
+      "valence": 2.3,
+      "arousal": 3.71,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Fuck around, got my shot, I won't let up They know that we a problem together They know that we can storm any weather It's bigger than black and white",
+      "valence": 2.45,
+      "arousal": 3.68,
+      "dominance": 3.81
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "They know that we a problem together They know that we can storm any weather It's bigger than black and white It's a problem with the whole way of life",
+      "valence": 2.41,
+      "arousal": 3.32,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "They know that we can storm any weather It's bigger than black and white It's a problem with the whole way of life It can't change overnight",
+      "valence": 2.62,
+      "arousal": 3.14,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "It's bigger than black and white It's a problem with the whole way of life It can't change overnight But we gotta start somewhere",
+      "valence": 2.66,
+      "arousal": 3.18,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "It's a problem with the whole way of life It can't change overnight But we gotta start somewhere Might as well gon' 'head start here",
+      "valence": 2.62,
+      "arousal": 3.16,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "It can't change overnight But we gotta start somewhere Might as well gon' 'head start here We done had a hell of a year",
+      "valence": 3.33,
+      "arousal": 3.35,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "But we gotta start somewhere Might as well gon' 'head start here We done had a hell of a year I'ma make it count while I'm here",
+      "valence": 3.33,
+      "arousal": 3.35,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Might as well gon' 'head start here We done had a hell of a year I'ma make it count while I'm here God is the only man I fear",
+      "valence": 2.77,
+      "arousal": 3.45,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "We done had a hell of a year I'ma make it count while I'm here God is the only man I fear Fuck it, I'm goin' on the front line",
+      "valence": 2.28,
+      "arousal": 3.94,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "I'ma make it count while I'm here God is the only man I fear Fuck it, I'm goin' on the front line He gon' bust your ass if you come past that gun line",
+      "valence": 2.21,
+      "arousal": 4.09,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "God is the only man I fear Fuck it, I'm goin' on the front line He gon' bust your ass if you come past that gun line You know when the storm go away, then the sun shine",
+      "valence": 2.16,
+      "arousal": 4.12,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Fuck it, I'm goin' on the front line He gon' bust your ass if you come past that gun line You know when the storm go away, then the sun shine You gotta put your head in the game when it's crunch time",
+      "valence": 2.28,
+      "arousal": 4.07,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "He gon' bust your ass if you come past that gun line You know when the storm go away, then the sun shine You gotta put your head in the game when it's crunch time I want all my sons to grow up to be monsters",
+      "valence": 2.48,
+      "arousal": 3.72,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "You know when the storm go away, then the sun shine You gotta put your head in the game when it's crunch time I want all my sons to grow up to be monsters I want all my daughters to show out in public",
+      "valence": 2.77,
+      "arousal": 3.54,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "You gotta put your head in the game when it's crunch time I want all my sons to grow up to be monsters I want all my daughters to show out in public Seems like we losing our country",
+      "valence": 2.41,
+      "arousal": 3.65,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "I want all my sons to grow up to be monsters I want all my daughters to show out in public Seems like we losing our country But we gotta stand up for something, so this what it comes to",
+      "valence": 2.43,
+      "arousal": 3.7,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "I want all my daughters to show out in public Seems like we losing our country But we gotta stand up for something, so this what it comes to Every video I see on my conscience",
+      "valence": 2.77,
+      "arousal": 3.48,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Seems like we losing our country But we gotta stand up for something, so this what it comes to Every video I see on my conscience I got power, now I gotta say somethin'",
+      "valence": 2.65,
+      "arousal": 3.69,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "But we gotta stand up for something, so this what it comes to Every video I see on my conscience I got power, now I gotta say somethin' Corrupted police been the problem where I'm from",
+      "valence": 2.65,
+      "arousal": 3.69,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Every video I see on my conscience I got power, now I gotta say somethin' Corrupted police been the problem where I'm from But I'd be lying if I said it was all of them",
+      "valence": 2.54,
+      "arousal": 3.42,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "I got power, now I gotta say somethin' Corrupted police been the problem where I'm from But I'd be lying if I said it was all of them I ain't do this for the trend, I don't follow them",
+      "valence": 2.66,
+      "arousal": 3.44,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "Corrupted police been the problem where I'm from But I'd be lying if I said it was all of them I ain't do this for the trend, I don't follow them Altercations with the law, had a lot of them",
+      "valence": 2.47,
+      "arousal": 3.17,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "But I'd be lying if I said it was all of them I ain't do this for the trend, I don't follow them Altercations with the law, had a lot of them People speaking for the people, I'm proud of them",
+      "valence": 3.59,
+      "arousal": 3.38,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "I ain't do this for the trend, I don't follow them Altercations with the law, had a lot of them People speaking for the people, I'm proud of them Stick together, we can get it up out of them",
+      "valence": 3.18,
+      "arousal": 3.49,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "Altercations with the law, had a lot of them People speaking for the people, I'm proud of them Stick together, we can get it up out of them I can't lie like I don't rap about killing and dope",
+      "valence": 3.5,
+      "arousal": 3.52,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "People speaking for the people, I'm proud of them Stick together, we can get it up out of them I can't lie like I don't rap about killing and dope But I'm telling my youngins to vote",
+      "valence": 3.51,
+      "arousal": 3.62,
+      "dominance": 3.74
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "Stick together, we can get it up out of them I can't lie like I don't rap about killing and dope But I'm telling my youngins to vote I did what I did 'cause I didn't have no choice or no hope",
+      "valence": 2.81,
+      "arousal": 3.53,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "I can't lie like I don't rap about killing and dope But I'm telling my youngins to vote I did what I did 'cause I didn't have no choice or no hope I was forced to just jump in and go",
+      "valence": 2.65,
+      "arousal": 3.45,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "But I'm telling my youngins to vote I did what I did 'cause I didn't have no choice or no hope I was forced to just jump in and go This bullshit is all that we know, but it's time for a change",
+      "valence": 2.75,
+      "arousal": 3.68,
+      "dominance": 3.77
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "I did what I did 'cause I didn't have no choice or no hope I was forced to just jump in and go This bullshit is all that we know, but it's time for a change Got time to be serious, no time for no games",
+      "valence": 2.37,
+      "arousal": 3.65,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "I was forced to just jump in and go This bullshit is all that we know, but it's time for a change Got time to be serious, no time for no games We ain't takin' no more, let us go from them chains",
+      "valence": 2.36,
+      "arousal": 3.57,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "This bullshit is all that we know, but it's time for a change Got time to be serious, no time for no games We ain't takin' no more, let us go from them chains God bless they souls, every one of them names",
+      "valence": 2.58,
+      "arousal": 3.69,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "Got time to be serious, no time for no games We ain't takin' no more, let us go from them chains God bless they souls, every one of them names It's bigger than black and white",
+      "valence": 3.08,
+      "arousal": 3.52,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 86,
+      "lyrics_text": "We ain't takin' no more, let us go from them chains God bless they souls, every one of them names It's bigger than black and white It's a problem with the whole way of life",
+      "valence": 2.66,
+      "arousal": 3.41,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 87,
+      "lyrics_text": "God bless they souls, every one of them names It's bigger than black and white It's a problem with the whole way of life It can't change overnight",
+      "valence": 2.98,
+      "arousal": 3.48,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 88,
+      "lyrics_text": "It's bigger than black and white It's a problem with the whole way of life It can't change overnight But we gotta start somewhere",
+      "valence": 2.66,
+      "arousal": 3.18,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 89,
+      "lyrics_text": "It's a problem with the whole way of life It can't change overnight But we gotta start somewhere Might as well gon' 'head start here",
+      "valence": 2.62,
+      "arousal": 3.16,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 90,
+      "lyrics_text": "It can't change overnight But we gotta start somewhere Might as well gon' 'head start here We done had a hell of a year",
+      "valence": 3.33,
+      "arousal": 3.35,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 91,
+      "lyrics_text": "But we gotta start somewhere Might as well gon' 'head start here We done had a hell of a year I'ma make it count while I'm here",
+      "valence": 3.33,
+      "arousal": 3.35,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 92,
+      "lyrics_text": "Might as well gon' 'head start here We done had a hell of a year I'ma make it count while I'm here God is the only man I fear",
+      "valence": 2.77,
+      "arousal": 3.45,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 93,
+      "lyrics_text": "We done had a hell of a year I'ma make it count while I'm here God is the only man I fear They trainin' officers to kill us",
+      "valence": 2.24,
+      "arousal": 3.54,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 94,
+      "lyrics_text": "I'ma make it count while I'm here God is the only man I fear They trainin' officers to kill us Then shootin' protestors with these rubber bullets",
+      "valence": 2.38,
+      "arousal": 3.61,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 95,
+      "lyrics_text": "God is the only man I fear They trainin' officers to kill us Then shootin' protestors with these rubber bullets They regular people, I know that they feel it",
+      "valence": 2.25,
+      "arousal": 3.63,
+      "dominance": 2.79
+    },
+    {
+      "chunk_id": 96,
+      "lyrics_text": "They trainin' officers to kill us Then shootin' protestors with these rubber bullets They regular people, I know that they feel it These scars too deep to heal us",
+      "valence": 2.26,
+      "arousal": 3.49,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 97,
+      "lyrics_text": "Then shootin' protestors with these rubber bullets They regular people, I know that they feel it These scars too deep to heal us What happened to COVID? Nobody remember",
+      "valence": 2.4,
+      "arousal": 3.36,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 98,
+      "lyrics_text": "They regular people, I know that they feel it These scars too deep to heal us What happened to COVID? Nobody remember It ain't makin' sense, I'm just here to vent",
+      "valence": 2.67,
+      "arousal": 3.26,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 99,
+      "lyrics_text": "These scars too deep to heal us What happened to COVID? Nobody remember It ain't makin' sense, I'm just here to vent It happen to one of your people, it's different",
+      "valence": 2.72,
+      "arousal": 3.35,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 100,
+      "lyrics_text": "What happened to COVID? Nobody remember It ain't makin' sense, I'm just here to vent It happen to one of your people, it's different We get it, the system is wicked, just learn how to pick it",
+      "valence": 2.49,
+      "arousal": 3.49,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 101,
+      "lyrics_text": "It ain't makin' sense, I'm just here to vent It happen to one of your people, it's different We get it, the system is wicked, just learn how to pick it Knowledge is power, I swear I'm a witness, I know that I'm gifted",
+      "valence": 2.78,
+      "arousal": 3.43,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 102,
+      "lyrics_text": "It happen to one of your people, it's different We get it, the system is wicked, just learn how to pick it Knowledge is power, I swear I'm a witness, I know that I'm gifted I won't go too deep 'cause I'm scared they'll get me",
+      "valence": 2.74,
+      "arousal": 3.27,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 103,
+      "lyrics_text": "We get it, the system is wicked, just learn how to pick it Knowledge is power, I swear I'm a witness, I know that I'm gifted I won't go too deep 'cause I'm scared they'll get me Ain't scared to admit it, some shit I can't mention",
+      "valence": 2.57,
+      "arousal": 3.38,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 104,
+      "lyrics_text": "Knowledge is power, I swear I'm a witness, I know that I'm gifted I won't go too deep 'cause I'm scared they'll get me Ain't scared to admit it, some shit I can't mention It's people who can, well, here's the chance",
+      "valence": 2.89,
+      "arousal": 3.32,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 105,
+      "lyrics_text": "I won't go too deep 'cause I'm scared they'll get me Ain't scared to admit it, some shit I can't mention It's people who can, well, here's the chance I won't take the stand, but I'll take a stand for what I believe",
+      "valence": 2.62,
+      "arousal": 3.38,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 106,
+      "lyrics_text": "Ain't scared to admit it, some shit I can't mention It's people who can, well, here's the chance I won't take the stand, but I'll take a stand for what I believe Must not be breathing the air that I breathe",
+      "valence": 2.62,
+      "arousal": 3.35,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 107,
+      "lyrics_text": "It's people who can, well, here's the chance I won't take the stand, but I'll take a stand for what I believe Must not be breathing the air that I breathe You know that the way that I bleed, you can bleed",
+      "valence": 2.57,
+      "arousal": 3.29,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 108,
+      "lyrics_text": "I won't take the stand, but I'll take a stand for what I believe Must not be breathing the air that I breathe You know that the way that I bleed, you can bleed I never been a fan of police",
+      "valence": 2.48,
+      "arousal": 3.39,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 109,
+      "lyrics_text": "Must not be breathing the air that I breathe You know that the way that I bleed, you can bleed I never been a fan of police But my neighborhood know I try to keep peace",
+      "valence": 2.56,
+      "arousal": 3.29,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 110,
+      "lyrics_text": "You know that the way that I bleed, you can bleed I never been a fan of police But my neighborhood know I try to keep peace So it's only right that I get in the streets",
+      "valence": 2.79,
+      "arousal": 3.39,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 111,
+      "lyrics_text": "I never been a fan of police But my neighborhood know I try to keep peace So it's only right that I get in the streets March for a reason, not just on GP",
+      "valence": 3.11,
+      "arousal": 3.35,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 112,
+      "lyrics_text": "But my neighborhood know I try to keep peace So it's only right that I get in the streets March for a reason, not just on GP Our people died for us to be free",
+      "valence": 3.16,
+      "arousal": 3.39,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 113,
+      "lyrics_text": "So it's only right that I get in the streets March for a reason, not just on GP Our people died for us to be free Fuck do you mean? This was a dream",
+      "valence": 2.7,
+      "arousal": 3.79,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 114,
+      "lyrics_text": "March for a reason, not just on GP Our people died for us to be free Fuck do you mean? This was a dream Now we got the power that we need to have",
+      "valence": 2.9,
+      "arousal": 3.76,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 115,
+      "lyrics_text": "Our people died for us to be free Fuck do you mean? This was a dream Now we got the power that we need to have They don't want us with it and that's why they mad, yeah",
+      "valence": 2.39,
+      "arousal": 3.9,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 116,
+      "lyrics_text": "Fuck do you mean? This was a dream Now we got the power that we need to have They don't want us with it and that's why they mad, yeah It's bigger than black and white",
+      "valence": 2.19,
+      "arousal": 3.97,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 117,
+      "lyrics_text": "Now we got the power that we need to have They don't want us with it and that's why they mad, yeah It's bigger than black and white It's a problem with the whole way of life",
+      "valence": 2.41,
+      "arousal": 3.38,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 118,
+      "lyrics_text": "They don't want us with it and that's why they mad, yeah It's bigger than black and white It's a problem with the whole way of life It can't change overnight",
+      "valence": 2.3,
+      "arousal": 3.32,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 119,
+      "lyrics_text": "It's bigger than black and white It's a problem with the whole way of life It can't change overnight But we gotta start somewhere",
+      "valence": 2.66,
+      "arousal": 3.18,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 120,
+      "lyrics_text": "It's a problem with the whole way of life It can't change overnight But we gotta start somewhere Might as well gon' 'head start here",
+      "valence": 2.62,
+      "arousal": 3.16,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 121,
+      "lyrics_text": "It can't change overnight But we gotta start somewhere Might as well gon' 'head start here We done had a hell of a year",
+      "valence": 3.33,
+      "arousal": 3.35,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 122,
+      "lyrics_text": "But we gotta start somewhere Might as well gon' 'head start here We done had a hell of a year I'ma make it count while I'm here",
+      "valence": 3.33,
+      "arousal": 3.35,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 123,
+      "lyrics_text": "Might as well gon' 'head start here We done had a hell of a year I'ma make it count while I'm here God is the only man I fear",
+      "valence": 2.77,
+      "arousal": 3.45,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 124,
+      "lyrics_text": "We done had a hell of a year I'ma make it count while I'm here God is the only man I fear It's bigger than black and white",
+      "valence": 2.45,
+      "arousal": 3.46,
+      "dominance": 2.77
+    },
+    {
+      "chunk_id": 125,
+      "lyrics_text": "I'ma make it count while I'm here God is the only man I fear It's bigger than black and white It's a problem with the whole way of life",
+      "valence": 2.44,
+      "arousal": 3.4,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 126,
+      "lyrics_text": "God is the only man I fear It's bigger than black and white It's a problem with the whole way of life It can't change overnight",
+      "valence": 2.38,
+      "arousal": 3.32,
+      "dominance": 3.0
+    },
+    {
+      "chunk_id": 127,
+      "lyrics_text": "It's bigger than black and white It's a problem with the whole way of life It can't change overnight But we gotta start somewhere",
+      "valence": 2.66,
+      "arousal": 3.18,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 128,
+      "lyrics_text": "It's a problem with the whole way of life It can't change overnight But we gotta start somewhere Might as well gon' 'head start here",
+      "valence": 2.62,
+      "arousal": 3.16,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 129,
+      "lyrics_text": "It can't change overnight But we gotta start somewhere Might as well gon' 'head start here We done had a hell of a year",
+      "valence": 3.33,
+      "arousal": 3.35,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 130,
+      "lyrics_text": "But we gotta start somewhere Might as well gon' 'head start here We done had a hell of a year I'ma make it count while I'm here",
+      "valence": 3.33,
+      "arousal": 3.35,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 131,
+      "lyrics_text": "Might as well gon' 'head start here We done had a hell of a year I'ma make it count while I'm here God is the only man I fear",
+      "valence": 2.77,
+      "arousal": 3.45,
+      "dominance": 3.17
+    }
+  ]
+}

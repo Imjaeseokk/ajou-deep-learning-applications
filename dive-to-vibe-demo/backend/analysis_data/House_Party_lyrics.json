@@ -1,0 +1,269 @@
+{
+  "artist": "Sam Hunt",
+  "overall_vad": {
+    "valence": 3.04,
+    "arousal": 3.61,
+    "dominance": 3.5
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "You're on the couch, blowin' up my phone You don't wanna come out, but you don't wanna be alone It don't take but two to have a little soiree If you're in the mood, sit tight right where you are, babe",
+      "valence": 3.11,
+      "arousal": 3.53,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "You don't wanna come out, but you don't wanna be alone It don't take but two to have a little soiree If you're in the mood, sit tight right where you are, babe 'Cause I'll be at your door in ten minutes",
+      "valence": 3.26,
+      "arousal": 3.42,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "It don't take but two to have a little soiree If you're in the mood, sit tight right where you are, babe 'Cause I'll be at your door in ten minutes Whatever you got on, girl, stay in it",
+      "valence": 3.38,
+      "arousal": 3.53,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "If you're in the mood, sit tight right where you are, babe 'Cause I'll be at your door in ten minutes Whatever you got on, girl, stay in it You ain't gotta leave the house to have a good time",
+      "valence": 3.42,
+      "arousal": 3.75,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "'Cause I'll be at your door in ten minutes Whatever you got on, girl, stay in it You ain't gotta leave the house to have a good time I'ma bring the good time home to you",
+      "valence": 3.62,
+      "arousal": 3.84,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Whatever you got on, girl, stay in it You ain't gotta leave the house to have a good time I'ma bring the good time home to you We'll have a house party, we don't need nobody",
+      "valence": 3.58,
+      "arousal": 3.82,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "You ain't gotta leave the house to have a good time I'ma bring the good time home to you We'll have a house party, we don't need nobody Turn your TV off, break that boombox out",
+      "valence": 3.61,
+      "arousal": 3.87,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I'ma bring the good time home to you We'll have a house party, we don't need nobody Turn your TV off, break that boombox out We'll wake up all the neighbors 'til the whole block hates us",
+      "valence": 3.59,
+      "arousal": 3.87,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "We'll have a house party, we don't need nobody Turn your TV off, break that boombox out We'll wake up all the neighbors 'til the whole block hates us And the cops show up and try to shut us down",
+      "valence": 2.5,
+      "arousal": 3.73,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Turn your TV off, break that boombox out We'll wake up all the neighbors 'til the whole block hates us And the cops show up and try to shut us down If you're gonna be a homebody",
+      "valence": 2.33,
+      "arousal": 3.62,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "We'll wake up all the neighbors 'til the whole block hates us And the cops show up and try to shut us down If you're gonna be a homebody We're gonna have a house party",
+      "valence": 2.46,
+      "arousal": 3.6,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "And the cops show up and try to shut us down If you're gonna be a homebody We're gonna have a house party If you wanna be a homebody",
+      "valence": 2.65,
+      "arousal": 3.54,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "If you're gonna be a homebody We're gonna have a house party If you wanna be a homebody We're gonna have a house party",
+      "valence": 3.22,
+      "arousal": 3.29,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "We're gonna have a house party If you wanna be a homebody We're gonna have a house party Throw a neon t-shirt over the lamp shade",
+      "valence": 3.26,
+      "arousal": 3.41,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "If you wanna be a homebody We're gonna have a house party Throw a neon t-shirt over the lamp shade I'll take the furniture, slide it out of the way",
+      "valence": 3.23,
+      "arousal": 3.5,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "We're gonna have a house party Throw a neon t-shirt over the lamp shade I'll take the furniture, slide it out of the way Shakin' the floor, rattlin' the roof",
+      "valence": 3.02,
+      "arousal": 3.55,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Throw a neon t-shirt over the lamp shade I'll take the furniture, slide it out of the way Shakin' the floor, rattlin' the roof We'll go to town like they're in your livin' room",
+      "valence": 2.88,
+      "arousal": 3.39,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I'll take the furniture, slide it out of the way Shakin' the floor, rattlin' the roof We'll go to town like they're in your livin' room Let's have a house party, we don't need nobody",
+      "valence": 2.85,
+      "arousal": 3.32,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Shakin' the floor, rattlin' the roof We'll go to town like they're in your livin' room Let's have a house party, we don't need nobody Turn your TV off, break that boombox out",
+      "valence": 2.79,
+      "arousal": 3.54,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "We'll go to town like they're in your livin' room Let's have a house party, we don't need nobody Turn your TV off, break that boombox out We'll wake up all the neighbors 'til the whole block hates us",
+      "valence": 2.58,
+      "arousal": 3.69,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Let's have a house party, we don't need nobody Turn your TV off, break that boombox out We'll wake up all the neighbors 'til the whole block hates us And the cops show up and try to shut us down",
+      "valence": 2.54,
+      "arousal": 3.67,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Turn your TV off, break that boombox out We'll wake up all the neighbors 'til the whole block hates us And the cops show up and try to shut us down If you're gonna be a homebody",
+      "valence": 2.33,
+      "arousal": 3.62,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "We'll wake up all the neighbors 'til the whole block hates us And the cops show up and try to shut us down If you're gonna be a homebody We're gonna have a house party",
+      "valence": 2.46,
+      "arousal": 3.6,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "And the cops show up and try to shut us down If you're gonna be a homebody We're gonna have a house party If you wanna be a homebody",
+      "valence": 2.65,
+      "arousal": 3.54,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "If you're gonna be a homebody We're gonna have a house party If you wanna be a homebody We're gonna have a house party",
+      "valence": 3.22,
+      "arousal": 3.29,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "We're gonna have a house party If you wanna be a homebody We're gonna have a house party So I'll be at your door in ten minutes",
+      "valence": 3.38,
+      "arousal": 3.43,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "If you wanna be a homebody We're gonna have a house party So I'll be at your door in ten minutes Whatever you got on, baby, stay in it",
+      "valence": 3.37,
+      "arousal": 3.63,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "We're gonna have a house party So I'll be at your door in ten minutes Whatever you got on, baby, stay in it You ain't gotta leave the house to have a good time",
+      "valence": 3.56,
+      "arousal": 3.84,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "So I'll be at your door in ten minutes Whatever you got on, baby, stay in it You ain't gotta leave the house to have a good time I'ma bring the good time home to you",
+      "valence": 3.66,
+      "arousal": 3.82,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Whatever you got on, baby, stay in it You ain't gotta leave the house to have a good time I'ma bring the good time home to you We'll have a house party, we don't need nobody",
+      "valence": 3.59,
+      "arousal": 3.83,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "You ain't gotta leave the house to have a good time I'ma bring the good time home to you We'll have a house party, we don't need nobody Turn your TV off, break that boombox out",
+      "valence": 3.61,
+      "arousal": 3.87,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I'ma bring the good time home to you We'll have a house party, we don't need nobody Turn your TV off, break that boombox out We'll wake up all the neighbors 'til the whole block hates us",
+      "valence": 3.59,
+      "arousal": 3.87,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "We'll have a house party, we don't need nobody Turn your TV off, break that boombox out We'll wake up all the neighbors 'til the whole block hates us And the cops show up and try to shut us down",
+      "valence": 2.5,
+      "arousal": 3.73,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Turn your TV off, break that boombox out We'll wake up all the neighbors 'til the whole block hates us And the cops show up and try to shut us down If you're gonna be a homebody",
+      "valence": 2.33,
+      "arousal": 3.62,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "We'll wake up all the neighbors 'til the whole block hates us And the cops show up and try to shut us down If you're gonna be a homebody We're gonna have a house party",
+      "valence": 2.46,
+      "arousal": 3.6,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "And the cops show up and try to shut us down If you're gonna be a homebody We're gonna have a house party If you wanna be a homebody",
+      "valence": 2.65,
+      "arousal": 3.54,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "If you're gonna be a homebody We're gonna have a house party If you wanna be a homebody We're gonna have a house party",
+      "valence": 3.22,
+      "arousal": 3.29,
+      "dominance": 3.41
+    }
+  ]
+}

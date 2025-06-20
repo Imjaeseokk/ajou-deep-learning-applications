@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dive to Vibe: 음악 감성 분석 시연</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <script src="https://cdn.plot.ly/plotly-2.32.0.min.js" charset="utf-8"></script>
+</head>
+<body>
+    <header>
+        <h1>🎶 Dive to Vibe: 음악 감성 분석 시연</h1>
+        <p>음악의 오디오와 가사 감성을 딥러닝으로 분석합니다.</p>
+    </header>
+
+    <main>
+        <section id="song-selection">
+            <h2>곡 선택</h2>
+            <select id="song-select">
+                <option value="">노래를 선택하세요</option>
+                </select>
+            <p>선택된 곡: <span id="selected-song-info">없음</span></p>
+        </section>
+
+        <section id="analysis-results" style="display: none;">
+            <h2>분석 결과</h2>
+            <div class="result-card">
+                <h3>오디오 감성 분석</h3>
+                <div class="audio-player-controls"> 
+                    <button id="playPauseButton">▶ 재생</button> 
+                    <input type="range" id="audioProgressBar" value="0" min="0" max="100" step="0.1"> 
+                    <span id="currentTime">0:00</span> / <span id="duration">0:00</span> 
+                </div>
+                <audio id="audioPlayer" preload="auto"></audio> 
+                
+                <p>전체 감성: <span id="overall-audio-va"></span></p>
+                <div id="audio-va-plot" class="plot-container"></div>
+                <p class="chart-instruction">※ 그래프의 특정 시점을 클릭하면 해당 지점부터 음악이 재생됩니다.</p> 
+            </div>
+
+            <div class="result-card">
+                <h3>가사 감성 분석</h3>
+                <div class="lyrics-chart-wrapper">
+                    <div id="lyrics-vad-plot" class="plot-container"></div>
+                    <div id="lyrics-hover-display" class="hover-content-box">
+                        <p>그래프에 마우스를 올리면<br>해당 청크의 가사가 표시됩니다.</p>
+                    </div>
+                </div>
+                <p>전체 감성: <span id="overall-lyrics-vad"></span></p>
+                <div id="lyrics-text-container">
+                    <h4>가사 내용</h4>
+                    <p id="displayed-lyrics"></p>
+                </div>
+            </div>
+        </section>
+
+        <section id="footer-note">
+            <p>본 시연은 Dive to Vibe 팀의 프로젝트 결과물입니다.</p>
+        </section>
+    </main>
+
+    <script src="/static/js/main.js"></script>
+</body>
+</html>

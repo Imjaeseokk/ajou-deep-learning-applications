@@ -1,0 +1,521 @@
+{
+  "artist": "Ariana Grande Featuring Mac Miller",
+  "overall_vad": {
+    "valence": 3.75,
+    "arousal": 3.86,
+    "dominance": 3.42
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "What we gotta do right here is go back, back to the top I love the way you make me feel I love it, I love it I love the way you make me feel",
+      "valence": 3.87,
+      "arousal": 3.91,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I love the way you make me feel I love it, I love it I love the way you make me feel I love it, I love it",
+      "valence": 4.5,
+      "arousal": 4.17,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I love it, I love it I love the way you make me feel I love it, I love it Say, I'm thinking 'bout her every second, every hour",
+      "valence": 4.51,
+      "arousal": 4.19,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I love the way you make me feel I love it, I love it Say, I'm thinking 'bout her every second, every hour Do my singing in the shower",
+      "valence": 4.44,
+      "arousal": 4.04,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I love it, I love it Say, I'm thinking 'bout her every second, every hour Do my singing in the shower Picking petals off the flowers like",
+      "valence": 4.35,
+      "arousal": 3.93,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Say, I'm thinking 'bout her every second, every hour Do my singing in the shower Picking petals off the flowers like Do she love me, do she love me not? (love me not)",
+      "valence": 3.34,
+      "arousal": 3.52,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Do my singing in the shower Picking petals off the flowers like Do she love me, do she love me not? (love me not) I ain't a player, I just (Player, I just...)",
+      "valence": 3.16,
+      "arousal": 3.23,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Picking petals off the flowers like Do she love me, do she love me not? (love me not) I ain't a player, I just (Player, I just...) You give me that kind of something",
+      "valence": 3.28,
+      "arousal": 3.48,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Do she love me, do she love me not? (love me not) I ain't a player, I just (Player, I just...) You give me that kind of something Want it all the time, need it everyday",
+      "valence": 3.12,
+      "arousal": 3.52,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I ain't a player, I just (Player, I just...) You give me that kind of something Want it all the time, need it everyday On a scale of one to ten I'm at a hundred",
+      "valence": 3.09,
+      "arousal": 3.45,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "You give me that kind of something Want it all the time, need it everyday On a scale of one to ten I'm at a hundred Never get enough, I can't stay away",
+      "valence": 3.16,
+      "arousal": 3.72,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Want it all the time, need it everyday On a scale of one to ten I'm at a hundred Never get enough, I can't stay away If you want it, I got it, I got it everyday",
+      "valence": 3.26,
+      "arousal": 3.73,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "On a scale of one to ten I'm at a hundred Never get enough, I can't stay away If you want it, I got it, I got it everyday You can get whatever you need from me",
+      "valence": 2.96,
+      "arousal": 3.61,
+      "dominance": 3.78
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Never get enough, I can't stay away If you want it, I got it, I got it everyday You can get whatever you need from me Stay by your side, I'll never leave you",
+      "valence": 3.26,
+      "arousal": 3.69,
+      "dominance": 3.79
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "If you want it, I got it, I got it everyday You can get whatever you need from me Stay by your side, I'll never leave you And I ain't going nowhere 'cause you're a keeper",
+      "valence": 3.44,
+      "arousal": 3.63,
+      "dominance": 3.79
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "You can get whatever you need from me Stay by your side, I'll never leave you And I ain't going nowhere 'cause you're a keeper So don't you worry, baby, you got me",
+      "valence": 3.25,
+      "arousal": 3.56,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Stay by your side, I'll never leave you And I ain't going nowhere 'cause you're a keeper So don't you worry, baby, you got me I got a bad boy, I must admit it (Hey)",
+      "valence": 2.95,
+      "arousal": 3.61,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "And I ain't going nowhere 'cause you're a keeper So don't you worry, baby, you got me I got a bad boy, I must admit it (Hey) You got my heart, don't know how you did it (Hey)",
+      "valence": 2.81,
+      "arousal": 3.66,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "So don't you worry, baby, you got me I got a bad boy, I must admit it (Hey) You got my heart, don't know how you did it (Hey) And I don't care who sees it, babe",
+      "valence": 2.41,
+      "arousal": 3.64,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I got a bad boy, I must admit it (Hey) You got my heart, don't know how you did it (Hey) And I don't care who sees it, babe I don't wanna hide the way I feel when you're next to me (Hey)",
+      "valence": 2.56,
+      "arousal": 3.74,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "You got my heart, don't know how you did it (Hey) And I don't care who sees it, babe I don't wanna hide the way I feel when you're next to me (Hey) I love the way (I love the way you make me feel)",
+      "valence": 3.99,
+      "arousal": 4.0,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "And I don't care who sees it, babe I don't wanna hide the way I feel when you're next to me (Hey) I love the way (I love the way you make me feel) I love the way (I love it, I love it)",
+      "valence": 4.01,
+      "arousal": 4.03,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I don't wanna hide the way I feel when you're next to me (Hey) I love the way (I love the way you make me feel) I love the way (I love it, I love it) Baby, I love the way (I love the way you make me feel)",
+      "valence": 4.14,
+      "arousal": 4.03,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I love the way (I love the way you make me feel) I love the way (I love it, I love it) Baby, I love the way (I love the way you make me feel) Ooh, I love the way (I love it, I love it)",
+      "valence": 4.52,
+      "arousal": 4.13,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I love the way (I love it, I love it) Baby, I love the way (I love the way you make me feel) Ooh, I love the way (I love it, I love it) The way you love me",
+      "valence": 4.55,
+      "arousal": 4.12,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Baby, I love the way (I love the way you make me feel) Ooh, I love the way (I love it, I love it) The way you love me Oh, it's so crazy you get my heart jumping",
+      "valence": 4.47,
+      "arousal": 4.22,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Ooh, I love the way (I love it, I love it) The way you love me Oh, it's so crazy you get my heart jumping When you put your lips on mine",
+      "valence": 4.46,
+      "arousal": 4.25,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "The way you love me Oh, it's so crazy you get my heart jumping When you put your lips on mine And, honey, it ain't a question (Q-q-question)",
+      "valence": 3.98,
+      "arousal": 4.19,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Oh, it's so crazy you get my heart jumping When you put your lips on mine And, honey, it ain't a question (Q-q-question) 'Cause, boy, I know just what you like",
+      "valence": 3.56,
+      "arousal": 4.1,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "When you put your lips on mine And, honey, it ain't a question (Q-q-question) 'Cause, boy, I know just what you like So if you need it, I got it, I got it everyday",
+      "valence": 3.53,
+      "arousal": 3.7,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "And, honey, it ain't a question (Q-q-question) 'Cause, boy, I know just what you like So if you need it, I got it, I got it everyday Be your lover, your friend, you'll find it all in me",
+      "valence": 3.69,
+      "arousal": 3.74,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "'Cause, boy, I know just what you like So if you need it, I got it, I got it everyday Be your lover, your friend, you'll find it all in me Stay by your side, I'll never leave you",
+      "valence": 3.9,
+      "arousal": 3.8,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "So if you need it, I got it, I got it everyday Be your lover, your friend, you'll find it all in me Stay by your side, I'll never leave you Said I ain't going nowhere 'cause you're a keeper",
+      "valence": 3.8,
+      "arousal": 3.79,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Be your lover, your friend, you'll find it all in me Stay by your side, I'll never leave you Said I ain't going nowhere 'cause you're a keeper So don't you worry, baby, you got me",
+      "valence": 3.64,
+      "arousal": 3.67,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Stay by your side, I'll never leave you Said I ain't going nowhere 'cause you're a keeper So don't you worry, baby, you got me I got a bad boy, I must admit it (Hey)",
+      "valence": 2.96,
+      "arousal": 3.63,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Said I ain't going nowhere 'cause you're a keeper So don't you worry, baby, you got me I got a bad boy, I must admit it (Hey) You got my heart, don't know how you did it (Hey)",
+      "valence": 2.83,
+      "arousal": 3.61,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "So don't you worry, baby, you got me I got a bad boy, I must admit it (Hey) You got my heart, don't know how you did it (Hey) And I don't care who sees it, babe",
+      "valence": 2.41,
+      "arousal": 3.64,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "I got a bad boy, I must admit it (Hey) You got my heart, don't know how you did it (Hey) And I don't care who sees it, babe I don't wanna hide the way I feel when you're next to me (Hey)",
+      "valence": 2.56,
+      "arousal": 3.74,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "You got my heart, don't know how you did it (Hey) And I don't care who sees it, babe I don't wanna hide the way I feel when you're next to me (Hey) I love the way (I love the way you make me feel)",
+      "valence": 3.99,
+      "arousal": 4.0,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "And I don't care who sees it, babe I don't wanna hide the way I feel when you're next to me (Hey) I love the way (I love the way you make me feel) I love the way (I love it, I love it)",
+      "valence": 4.01,
+      "arousal": 4.03,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I don't wanna hide the way I feel when you're next to me (Hey) I love the way (I love the way you make me feel) I love the way (I love it, I love it) Baby, I love the way (I love the way you make me feel)",
+      "valence": 4.14,
+      "arousal": 4.03,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "I love the way (I love the way you make me feel) I love the way (I love it, I love it) Baby, I love the way (I love the way you make me feel) Ooh, I love the way (I love it, I love it)",
+      "valence": 4.52,
+      "arousal": 4.13,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I love the way (I love it, I love it) Baby, I love the way (I love the way you make me feel) Ooh, I love the way (I love it, I love it) The way I love you",
+      "valence": 4.54,
+      "arousal": 4.15,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Baby, I love the way (I love the way you make me feel) Ooh, I love the way (I love it, I love it) The way I love you I make you feel so fine, make you feel so fine",
+      "valence": 4.46,
+      "arousal": 4.13,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Ooh, I love the way (I love it, I love it) The way I love you I make you feel so fine, make you feel so fine I hope you hit me on my celly when I sneak in your mind",
+      "valence": 4.39,
+      "arousal": 4.16,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "The way I love you I make you feel so fine, make you feel so fine I hope you hit me on my celly when I sneak in your mind You a princess to the public, but a freak when it's time",
+      "valence": 3.77,
+      "arousal": 3.96,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I make you feel so fine, make you feel so fine I hope you hit me on my celly when I sneak in your mind You a princess to the public, but a freak when it's time Said your bed be feeling lonely",
+      "valence": 3.3,
+      "arousal": 3.69,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I hope you hit me on my celly when I sneak in your mind You a princess to the public, but a freak when it's time Said your bed be feeling lonely So you're sleeping in mine",
+      "valence": 2.67,
+      "arousal": 3.47,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "You a princess to the public, but a freak when it's time Said your bed be feeling lonely So you're sleeping in mine Come and watch a movie with me",
+      "valence": 3.03,
+      "arousal": 3.43,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Said your bed be feeling lonely So you're sleeping in mine Come and watch a movie with me \"American Beauty\" or \"Bruce Almighty\" that's groovy",
+      "valence": 3.63,
+      "arousal": 3.42,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "So you're sleeping in mine Come and watch a movie with me \"American Beauty\" or \"Bruce Almighty\" that's groovy Just come and move closer to me",
+      "valence": 3.61,
+      "arousal": 3.51,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Come and watch a movie with me \"American Beauty\" or \"Bruce Almighty\" that's groovy Just come and move closer to me I got some feelings for you I'm not gonna get bored of",
+      "valence": 3.61,
+      "arousal": 3.7,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "\"American Beauty\" or \"Bruce Almighty\" that's groovy Just come and move closer to me I got some feelings for you I'm not gonna get bored of But, baby, you're an adventure so let me come and explore you",
+      "valence": 3.76,
+      "arousal": 3.82,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Just come and move closer to me I got some feelings for you I'm not gonna get bored of But, baby, you're an adventure so let me come and explore you So don't you worry, baby, you got me",
+      "valence": 3.45,
+      "arousal": 3.65,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "I got some feelings for you I'm not gonna get bored of But, baby, you're an adventure so let me come and explore you So don't you worry, baby, you got me I got a bad boy, I must admit it (Hey)",
+      "valence": 3.22,
+      "arousal": 3.75,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "But, baby, you're an adventure so let me come and explore you So don't you worry, baby, you got me I got a bad boy, I must admit it (Hey) You got my heart, don't know how you did it (Hey)",
+      "valence": 3.4,
+      "arousal": 3.78,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "So don't you worry, baby, you got me I got a bad boy, I must admit it (Hey) You got my heart, don't know how you did it (Hey) And I don't care who sees it, babe",
+      "valence": 2.41,
+      "arousal": 3.64,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "I got a bad boy, I must admit it (Hey) You got my heart, don't know how you did it (Hey) And I don't care who sees it, babe I don't wanna hide the way I feel when you're next to me (Hey)",
+      "valence": 2.56,
+      "arousal": 3.74,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "You got my heart, don't know how you did it (Hey) And I don't care who sees it, babe I don't wanna hide the way I feel when you're next to me (Hey) I love the way (I love the way)",
+      "valence": 4.0,
+      "arousal": 3.95,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "And I don't care who sees it, babe I don't wanna hide the way I feel when you're next to me (Hey) I love the way (I love the way) I love the way (I love it, I love it)",
+      "valence": 4.04,
+      "arousal": 3.99,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "I don't wanna hide the way I feel when you're next to me (Hey) I love the way (I love the way) I love the way (I love it, I love it) Baby, I love the way (I love the way)",
+      "valence": 4.21,
+      "arousal": 4.02,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "I love the way (I love the way) I love the way (I love it, I love it) Baby, I love the way (I love the way) Ooh, I love the way (I love it, I love it)",
+      "valence": 4.53,
+      "arousal": 4.09,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "I love the way (I love it, I love it) Baby, I love the way (I love the way) Ooh, I love the way (I love it, I love it) I love the way (I love the way you make me feel)",
+      "valence": 4.55,
+      "arousal": 4.12,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Baby, I love the way (I love the way) Ooh, I love the way (I love it, I love it) I love the way (I love the way you make me feel) I love the way (I love it, I love it)",
+      "valence": 4.52,
+      "arousal": 4.13,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Ooh, I love the way (I love it, I love it) I love the way (I love the way you make me feel) I love the way (I love it, I love it) Baby, I love the way (I love the way you make me feel)",
+      "valence": 4.52,
+      "arousal": 4.11,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "I love the way (I love the way you make me feel) I love the way (I love it, I love it) Baby, I love the way (I love the way you make me feel) Ooh, I love the way (I love it)",
+      "valence": 4.53,
+      "arousal": 4.11,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "I love the way (I love it, I love it) Baby, I love the way (I love the way you make me feel) Ooh, I love the way (I love it) The way I love you",
+      "valence": 4.54,
+      "arousal": 4.11,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Baby, I love the way (I love the way you make me feel) Ooh, I love the way (I love it) The way I love you The way I love you, you, you, yeah, the way",
+      "valence": 4.51,
+      "arousal": 4.1,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Ooh, I love the way (I love it) The way I love you The way I love you, you, you, yeah, the way I love the way you make me feel",
+      "valence": 4.49,
+      "arousal": 4.06,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "The way I love you The way I love you, you, you, yeah, the way I love the way you make me feel I love it, I love it",
+      "valence": 4.48,
+      "arousal": 4.17,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "The way I love you, you, you, yeah, the way I love the way you make me feel I love it, I love it I love the way you make me feel",
+      "valence": 4.44,
+      "arousal": 4.11,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "I love the way you make me feel I love it, I love it I love the way you make me feel I love it",
+      "valence": 4.5,
+      "arousal": 4.14,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "I love it, I love it I love the way you make me feel I love it The way I love you",
+      "valence": 4.54,
+      "arousal": 4.17,
+      "dominance": 3.41
+    }
+  ]
+}

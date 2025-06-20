@@ -1,0 +1,262 @@
+{
+  "artist": "Morgan Wallen",
+  "overall_vad": {
+    "valence": 2.92,
+    "arousal": 3.33,
+    "dominance": 3.0
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "We used to chase that Chattanooga fray Couple a kids in a Chevrolet Catch a little air when we cross the tracks Sipping on something from a paper sack",
+      "valence": 3.08,
+      "arousal": 3.1,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Couple a kids in a Chevrolet Catch a little air when we cross the tracks Sipping on something from a paper sack You hang your shirt on that maple lamp",
+      "valence": 3.22,
+      "arousal": 2.89,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Catch a little air when we cross the tracks Sipping on something from a paper sack You hang your shirt on that maple lamp Slipping through the moon to the river bend",
+      "valence": 3.38,
+      "arousal": 2.85,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Sipping on something from a paper sack You hang your shirt on that maple lamp Slipping through the moon to the river bend Wasn't very long I was jumping in, jumping in",
+      "valence": 3.24,
+      "arousal": 2.95,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "You hang your shirt on that maple lamp Slipping through the moon to the river bend Wasn't very long I was jumping in, jumping in I guess I'm still doing now, what I was doing then",
+      "valence": 3.16,
+      "arousal": 2.98,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Slipping through the moon to the river bend Wasn't very long I was jumping in, jumping in I guess I'm still doing now, what I was doing then Chasing you, like a shot of whiskey",
+      "valence": 3.16,
+      "arousal": 3.1,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Wasn't very long I was jumping in, jumping in I guess I'm still doing now, what I was doing then Chasing you, like a shot of whiskey Burning going down, burning going down",
+      "valence": 2.98,
+      "arousal": 3.23,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I guess I'm still doing now, what I was doing then Chasing you, like a shot of whiskey Burning going down, burning going down Chasing you, like those goodbye taillights",
+      "valence": 2.9,
+      "arousal": 3.31,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Chasing you, like a shot of whiskey Burning going down, burning going down Chasing you, like those goodbye taillights Heading west to anywhere out of this no where town",
+      "valence": 2.85,
+      "arousal": 3.36,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Burning going down, burning going down Chasing you, like those goodbye taillights Heading west to anywhere out of this no where town Chasing that freedom, chasing that feeling that got gone too soon",
+      "valence": 2.66,
+      "arousal": 3.53,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Chasing you, like those goodbye taillights Heading west to anywhere out of this no where town Chasing that freedom, chasing that feeling that got gone too soon Chasing that you and me, I only see in my rear view",
+      "valence": 2.88,
+      "arousal": 3.3,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Heading west to anywhere out of this no where town Chasing that freedom, chasing that feeling that got gone too soon Chasing that you and me, I only see in my rear view Hell, I'm laying every night holding someone new",
+      "valence": 2.77,
+      "arousal": 3.28,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Chasing that freedom, chasing that feeling that got gone too soon Chasing that you and me, I only see in my rear view Hell, I'm laying every night holding someone new Still chasing you, still chasing you",
+      "valence": 2.9,
+      "arousal": 3.48,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Chasing that you and me, I only see in my rear view Hell, I'm laying every night holding someone new Still chasing you, still chasing you You always used to talk about L.A",
+      "valence": 2.85,
+      "arousal": 3.48,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Hell, I'm laying every night holding someone new Still chasing you, still chasing you You always used to talk about L.A I heard you got as far as Santa Fe",
+      "valence": 3.05,
+      "arousal": 3.65,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Still chasing you, still chasing you You always used to talk about L.A I heard you got as far as Santa Fe Oh wait, you know I tried to track you down",
+      "valence": 2.8,
+      "arousal": 3.65,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "You always used to talk about L.A I heard you got as far as Santa Fe Oh wait, you know I tried to track you down I only got as far as guitar town",
+      "valence": 2.85,
+      "arousal": 3.13,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I heard you got as far as Santa Fe Oh wait, you know I tried to track you down I only got as far as guitar town Singing about a girl I used to know, used to know better",
+      "valence": 2.98,
+      "arousal": 3.22,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Oh wait, you know I tried to track you down I only got as far as guitar town Singing about a girl I used to know, used to know better Haven't given' up, I'm just on your radio",
+      "valence": 2.95,
+      "arousal": 3.28,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I only got as far as guitar town Singing about a girl I used to know, used to know better Haven't given' up, I'm just on your radio Chasing you, like a shot of whiskey",
+      "valence": 3.08,
+      "arousal": 3.18,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Singing about a girl I used to know, used to know better Haven't given' up, I'm just on your radio Chasing you, like a shot of whiskey Burning going down, burning going down",
+      "valence": 2.97,
+      "arousal": 3.46,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Haven't given' up, I'm just on your radio Chasing you, like a shot of whiskey Burning going down, burning going down Chasing you, like those goodbye taillights",
+      "valence": 3.01,
+      "arousal": 3.44,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Chasing you, like a shot of whiskey Burning going down, burning going down Chasing you, like those goodbye taillights Heading west to anywhere out of this no where town",
+      "valence": 2.85,
+      "arousal": 3.36,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Burning going down, burning going down Chasing you, like those goodbye taillights Heading west to anywhere out of this no where town Chasing that freedom, chasing that feeling that got gone too soon",
+      "valence": 2.66,
+      "arousal": 3.53,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Chasing you, like those goodbye taillights Heading west to anywhere out of this no where town Chasing that freedom, chasing that feeling that got gone too soon Chasing that you and me, I only see in my rear view",
+      "valence": 2.88,
+      "arousal": 3.3,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Heading west to anywhere out of this no where town Chasing that freedom, chasing that feeling that got gone too soon Chasing that you and me, I only see in my rear view Hell, I'm laying every night holding someone new",
+      "valence": 2.77,
+      "arousal": 3.28,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Chasing that freedom, chasing that feeling that got gone too soon Chasing that you and me, I only see in my rear view Hell, I'm laying every night holding someone new Still chasing you, still chasing you",
+      "valence": 2.9,
+      "arousal": 3.48,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Chasing that you and me, I only see in my rear view Hell, I'm laying every night holding someone new Still chasing you, still chasing you Chasing you, like a shot of whiskey",
+      "valence": 2.89,
+      "arousal": 3.46,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Hell, I'm laying every night holding someone new Still chasing you, still chasing you Chasing you, like a shot of whiskey Burning going down, burning going down",
+      "valence": 2.83,
+      "arousal": 3.63,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Still chasing you, still chasing you Chasing you, like a shot of whiskey Burning going down, burning going down Chasing you, like those goodbye taillights",
+      "valence": 2.8,
+      "arousal": 3.58,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Chasing you, like a shot of whiskey Burning going down, burning going down Chasing you, like those goodbye taillights Heading west to anywhere out of this no where town",
+      "valence": 2.85,
+      "arousal": 3.36,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Burning going down, burning going down Chasing you, like those goodbye taillights Heading west to anywhere out of this no where town Chasing that freedom, chasing that feeling that got gone too soon",
+      "valence": 2.66,
+      "arousal": 3.53,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Chasing you, like those goodbye taillights Heading west to anywhere out of this no where town Chasing that freedom, chasing that feeling that got gone too soon Chasing that you and me, I only see in my rear view",
+      "valence": 2.88,
+      "arousal": 3.3,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Heading west to anywhere out of this no where town Chasing that freedom, chasing that feeling that got gone too soon Chasing that you and me, I only see in my rear view Hell, I'm laying every night holding someone new",
+      "valence": 2.77,
+      "arousal": 3.28,
+      "dominance": 2.78
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Chasing that freedom, chasing that feeling that got gone too soon Chasing that you and me, I only see in my rear view Hell, I'm laying every night holding someone new Still chasing you, still chasing you",
+      "valence": 2.9,
+      "arousal": 3.48,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Chasing that you and me, I only see in my rear view Hell, I'm laying every night holding someone new Still chasing you, still chasing you Still chasing you, still chasing you",
+      "valence": 2.79,
+      "arousal": 3.47,
+      "dominance": 2.88
+    }
+  ]
+}

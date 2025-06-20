@@ -1,0 +1,661 @@
+{
+  "artist": "ScHoolboy Q Featuring Kanye West",
+  "overall_vad": {
+    "valence": 2.64,
+    "arousal": 3.53,
+    "dominance": 3.43
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Me no conversate with the fake, that part All my bitches independent bitches, that part I just want the paper, that part All my bitches flavored",
+      "valence": 2.31,
+      "arousal": 3.49,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "All my bitches independent bitches, that part I just want the paper, that part All my bitches flavored That part, that part, that part, that part",
+      "valence": 2.24,
+      "arousal": 3.51,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I just want the paper, that part All my bitches flavored That part, that part, that part, that part Ayy! That part",
+      "valence": 2.34,
+      "arousal": 3.87,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "All my bitches flavored That part, that part, that part, that part Ayy! That part Bang this shit in the hood one time",
+      "valence": 2.26,
+      "arousal": 3.75,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "That part, that part, that part, that part Ayy! That part Bang this shit in the hood one time Lil bitch I'm back and poppin'",
+      "valence": 2.96,
+      "arousal": 3.62,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Ayy! That part Bang this shit in the hood one time Lil bitch I'm back and poppin' Tell that ugly bitch to move away, I need more options",
+      "valence": 2.41,
+      "arousal": 3.82,
+      "dominance": 3.8
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Bang this shit in the hood one time Lil bitch I'm back and poppin' Tell that ugly bitch to move away, I need more options Broke? Then fix your pockets, all I do is profit",
+      "valence": 2.31,
+      "arousal": 3.57,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Lil bitch I'm back and poppin' Tell that ugly bitch to move away, I need more options Broke? Then fix your pockets, all I do is profit Quarter million, switchin' lanes... that part",
+      "valence": 2.32,
+      "arousal": 3.57,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Tell that ugly bitch to move away, I need more options Broke? Then fix your pockets, all I do is profit Quarter million, switchin' lanes... that part Bet my bitch move the same old thing... that part",
+      "valence": 2.19,
+      "arousal": 3.62,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Broke? Then fix your pockets, all I do is profit Quarter million, switchin' lanes... that part Bet my bitch move the same old thing... that part 405 with the gun off safety... that part",
+      "valence": 2.34,
+      "arousal": 3.51,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Quarter million, switchin' lanes... that part Bet my bitch move the same old thing... that part 405 with the gun off safety... that part Ayy I'm still tryna make that plate",
+      "valence": 2.55,
+      "arousal": 3.39,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Bet my bitch move the same old thing... that part 405 with the gun off safety... that part Ayy I'm still tryna make that plate Rich or poor, nigga, choose your fate",
+      "valence": 2.44,
+      "arousal": 3.45,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "405 with the gun off safety... that part Ayy I'm still tryna make that plate Rich or poor, nigga, choose your fate Style on top of style, nigga",
+      "valence": 2.76,
+      "arousal": 3.37,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Ayy I'm still tryna make that plate Rich or poor, nigga, choose your fate Style on top of style, nigga Five years I've been rich, nigga",
+      "valence": 2.93,
+      "arousal": 3.33,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Rich or poor, nigga, choose your fate Style on top of style, nigga Five years I've been rich, nigga Drove Beamers down Fig, nigga",
+      "valence": 2.87,
+      "arousal": 3.36,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Style on top of style, nigga Five years I've been rich, nigga Drove Beamers down Fig, nigga Pushed Porsches down Broadway",
+      "valence": 3.12,
+      "arousal": 3.47,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Five years I've been rich, nigga Drove Beamers down Fig, nigga Pushed Porsches down Broadway I've been doggin' different hoes, nigga",
+      "valence": 2.88,
+      "arousal": 3.34,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Drove Beamers down Fig, nigga Pushed Porsches down Broadway I've been doggin' different hoes, nigga Got a chain that's worth the Rolls, nigga",
+      "valence": 2.89,
+      "arousal": 3.47,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Pushed Porsches down Broadway I've been doggin' different hoes, nigga Got a chain that's worth the Rolls, nigga Got an engine back with the top in it",
+      "valence": 2.91,
+      "arousal": 3.34,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I've been doggin' different hoes, nigga Got a chain that's worth the Rolls, nigga Got an engine back with the top in it Nigga drivin' it like it's a bomb in it",
+      "valence": 2.74,
+      "arousal": 3.36,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Got a chain that's worth the Rolls, nigga Got an engine back with the top in it Nigga drivin' it like it's a bomb in it Me no conversate with the fake, that part",
+      "valence": 2.71,
+      "arousal": 3.32,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Got an engine back with the top in it Nigga drivin' it like it's a bomb in it Me no conversate with the fake, that part All my bitches independent bitches, that part",
+      "valence": 2.29,
+      "arousal": 3.53,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Nigga drivin' it like it's a bomb in it Me no conversate with the fake, that part All my bitches independent bitches, that part I just want the paper, that part",
+      "valence": 2.25,
+      "arousal": 3.55,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Me no conversate with the fake, that part All my bitches independent bitches, that part I just want the paper, that part All my bitches flavored",
+      "valence": 2.31,
+      "arousal": 3.49,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "All my bitches independent bitches, that part I just want the paper, that part All my bitches flavored That part, that part, that part, that part",
+      "valence": 2.24,
+      "arousal": 3.51,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I just want the paper, that part All my bitches flavored That part, that part, that part, that part Okay, okay, okay, okay, okay, okay! (That part)",
+      "valence": 2.36,
+      "arousal": 3.66,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "All my bitches flavored That part, that part, that part, that part Okay, okay, okay, okay, okay, okay! (That part) Beggars can't be choosers, bitch this ain't Chipotle",
+      "valence": 2.12,
+      "arousal": 3.79,
+      "dominance": 3.73
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "That part, that part, that part, that part Okay, okay, okay, okay, okay, okay! (That part) Beggars can't be choosers, bitch this ain't Chipotle Nigga with an attitude, I feel like O'Shea",
+      "valence": 2.4,
+      "arousal": 3.72,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Okay, okay, okay, okay, okay, okay! (That part) Beggars can't be choosers, bitch this ain't Chipotle Nigga with an attitude, I feel like O'Shea Walkin', livin' legend, man I feel like Kobe",
+      "valence": 2.56,
+      "arousal": 3.77,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Beggars can't be choosers, bitch this ain't Chipotle Nigga with an attitude, I feel like O'Shea Walkin', livin' legend, man I feel like Kobe I just left the strip club, got some glitter on me",
+      "valence": 2.78,
+      "arousal": 3.69,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Nigga with an attitude, I feel like O'Shea Walkin', livin' legend, man I feel like Kobe I just left the strip club, got some glitter on me Wifey gonna kill me, she the female OJ",
+      "valence": 2.95,
+      "arousal": 3.64,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Walkin', livin' legend, man I feel like Kobe I just left the strip club, got some glitter on me Wifey gonna kill me, she the female OJ Y'all don't feel me, man this ain't okay",
+      "valence": 2.65,
+      "arousal": 3.61,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I just left the strip club, got some glitter on me Wifey gonna kill me, she the female OJ Y'all don't feel me, man this ain't okay Four Seasons, take a shower, new clothes, I'm reloaded",
+      "valence": 2.33,
+      "arousal": 3.78,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Wifey gonna kill me, she the female OJ Y'all don't feel me, man this ain't okay Four Seasons, take a shower, new clothes, I'm reloaded Rich nigga, still eatin' catfish",
+      "valence": 2.09,
+      "arousal": 3.73,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Y'all don't feel me, man this ain't okay Four Seasons, take a shower, new clothes, I'm reloaded Rich nigga, still eatin' catfish That bitch ain't really bad, that's a catfish",
+      "valence": 2.22,
+      "arousal": 3.51,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Four Seasons, take a shower, new clothes, I'm reloaded Rich nigga, still eatin' catfish That bitch ain't really bad, that's a catfish If I walk up out of Saks Fifth",
+      "valence": 2.55,
+      "arousal": 3.39,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Rich nigga, still eatin' catfish That bitch ain't really bad, that's a catfish If I walk up out of Saks Fifth Have the paparazzi doin' backflips",
+      "valence": 2.47,
+      "arousal": 3.47,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "That bitch ain't really bad, that's a catfish If I walk up out of Saks Fifth Have the paparazzi doin' backflips If I lay you down on the mattress",
+      "valence": 2.4,
+      "arousal": 3.53,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "If I walk up out of Saks Fifth Have the paparazzi doin' backflips If I lay you down on the mattress Blow the back out 'til you backless",
+      "valence": 2.65,
+      "arousal": 3.55,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Have the paparazzi doin' backflips If I lay you down on the mattress Blow the back out 'til you backless Thick, we already established",
+      "valence": 2.49,
+      "arousal": 3.5,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "If I lay you down on the mattress Blow the back out 'til you backless Thick, we already established She just got 'em done, bra-strapless",
+      "valence": 2.94,
+      "arousal": 3.31,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Blow the back out 'til you backless Thick, we already established She just got 'em done, bra-strapless Yeah! Okay, okay, okay, okay! (That part)",
+      "valence": 2.97,
+      "arousal": 3.57,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Thick, we already established She just got 'em done, bra-strapless Yeah! Okay, okay, okay, okay! (That part) Beggars can't be choosers, bitch this ain't Chipotle (That part)",
+      "valence": 2.69,
+      "arousal": 3.62,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "She just got 'em done, bra-strapless Yeah! Okay, okay, okay, okay! (That part) Beggars can't be choosers, bitch this ain't Chipotle (That part) Nigga with an attitude, I feel like O'Shea (That part)",
+      "valence": 2.7,
+      "arousal": 3.72,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Yeah! Okay, okay, okay, okay! (That part) Beggars can't be choosers, bitch this ain't Chipotle (That part) Nigga with an attitude, I feel like O'Shea (That part) Walkin', livin' legend, man I feel like Kobe (That part)",
+      "valence": 2.78,
+      "arousal": 3.77,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Beggars can't be choosers, bitch this ain't Chipotle (That part) Nigga with an attitude, I feel like O'Shea (That part) Walkin', livin' legend, man I feel like Kobe (That part) Me no conversate with the fake, that part",
+      "valence": 2.57,
+      "arousal": 3.48,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Nigga with an attitude, I feel like O'Shea (That part) Walkin', livin' legend, man I feel like Kobe (That part) Me no conversate with the fake, that part All my bitches independent bitches, that part",
+      "valence": 2.73,
+      "arousal": 3.46,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Walkin', livin' legend, man I feel like Kobe (That part) Me no conversate with the fake, that part All my bitches independent bitches, that part I just want the paper, that part",
+      "valence": 2.6,
+      "arousal": 3.51,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Me no conversate with the fake, that part All my bitches independent bitches, that part I just want the paper, that part All my bitches flavored",
+      "valence": 2.31,
+      "arousal": 3.49,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "All my bitches independent bitches, that part I just want the paper, that part All my bitches flavored That part, that part, that part, that part",
+      "valence": 2.24,
+      "arousal": 3.51,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I just want the paper, that part All my bitches flavored That part, that part, that part, that part Ayy! That part",
+      "valence": 2.34,
+      "arousal": 3.87,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "All my bitches flavored That part, that part, that part, that part Ayy! That part Bang this shit in the hood one time",
+      "valence": 2.26,
+      "arousal": 3.75,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "That part, that part, that part, that part Ayy! That part Bang this shit in the hood one time Lil bitch I'm back and poppin'",
+      "valence": 2.96,
+      "arousal": 3.62,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Ayy! That part Bang this shit in the hood one time Lil bitch I'm back and poppin' Tell that ugly bitch to move away, I need more options",
+      "valence": 2.41,
+      "arousal": 3.82,
+      "dominance": 3.8
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Bang this shit in the hood one time Lil bitch I'm back and poppin' Tell that ugly bitch to move away, I need more options Broke? Then fix your pockets, all I do is profit",
+      "valence": 2.31,
+      "arousal": 3.57,
+      "dominance": 3.76
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Lil bitch I'm back and poppin' Tell that ugly bitch to move away, I need more options Broke? Then fix your pockets, all I do is profit Few million made and still ain't changed... that part",
+      "valence": 2.33,
+      "arousal": 3.53,
+      "dominance": 3.66
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Tell that ugly bitch to move away, I need more options Broke? Then fix your pockets, all I do is profit Few million made and still ain't changed... that part Me, my girl got matchin' bling... that part",
+      "valence": 2.4,
+      "arousal": 3.65,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Broke? Then fix your pockets, all I do is profit Few million made and still ain't changed... that part Me, my girl got matchin' bling... that part I'ma get so blowed, I'ma lose my brain... that part",
+      "valence": 2.4,
+      "arousal": 3.59,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Few million made and still ain't changed... that part Me, my girl got matchin' bling... that part I'ma get so blowed, I'ma lose my brain... that part Me and XO only thing go straight",
+      "valence": 2.76,
+      "arousal": 3.54,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Me, my girl got matchin' bling... that part I'ma get so blowed, I'ma lose my brain... that part Me and XO only thing go straight Need me a bitch that'll go both ways",
+      "valence": 2.38,
+      "arousal": 3.89,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "I'ma get so blowed, I'ma lose my brain... that part Me and XO only thing go straight Need me a bitch that'll go both ways Style on top of style, nigga",
+      "valence": 2.26,
+      "arousal": 3.91,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Me and XO only thing go straight Need me a bitch that'll go both ways Style on top of style, nigga Since a youngin' I wanted to ball, nigga",
+      "valence": 2.4,
+      "arousal": 3.61,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Need me a bitch that'll go both ways Style on top of style, nigga Since a youngin' I wanted to ball, nigga Had a pistol in my drawls, nigga",
+      "valence": 2.52,
+      "arousal": 3.69,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Style on top of style, nigga Since a youngin' I wanted to ball, nigga Had a pistol in my drawls, nigga When I was broke, I had to sauce, nigga",
+      "valence": 2.89,
+      "arousal": 3.43,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Since a youngin' I wanted to ball, nigga Had a pistol in my drawls, nigga When I was broke, I had to sauce, nigga Got a Chevy with side to side on it",
+      "valence": 2.72,
+      "arousal": 3.32,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Had a pistol in my drawls, nigga When I was broke, I had to sauce, nigga Got a Chevy with side to side on it Hundred spokes, the dana danes on it",
+      "valence": 2.73,
+      "arousal": 3.34,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "When I was broke, I had to sauce, nigga Got a Chevy with side to side on it Hundred spokes, the dana danes on it Got a chopper that stand at 5'2\"",
+      "valence": 2.87,
+      "arousal": 3.32,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Got a Chevy with side to side on it Hundred spokes, the dana danes on it Got a chopper that stand at 5'2\" I put your homies down beside you",
+      "valence": 2.93,
+      "arousal": 3.18,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Hundred spokes, the dana danes on it Got a chopper that stand at 5'2\" I put your homies down beside you Me no conversate with the fake, that part",
+      "valence": 2.7,
+      "arousal": 3.25,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "Got a chopper that stand at 5'2\" I put your homies down beside you Me no conversate with the fake, that part All my bitches independent bitches, that part",
+      "valence": 2.39,
+      "arousal": 3.46,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "I put your homies down beside you Me no conversate with the fake, that part All my bitches independent bitches, that part I just want the paper, that part",
+      "valence": 2.33,
+      "arousal": 3.48,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Me no conversate with the fake, that part All my bitches independent bitches, that part I just want the paper, that part All my bitches flavored",
+      "valence": 2.31,
+      "arousal": 3.49,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "All my bitches independent bitches, that part I just want the paper, that part All my bitches flavored That part, that part, that part, that part",
+      "valence": 2.24,
+      "arousal": 3.51,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "I just want the paper, that part All my bitches flavored That part, that part, that part, that part Ayy! That part",
+      "valence": 2.34,
+      "arousal": 3.87,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "All my bitches flavored That part, that part, that part, that part Ayy! That part That part",
+      "valence": 2.54,
+      "arousal": 3.79,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "That part, that part, that part, that part Ayy! That part That part That part",
+      "valence": 3.15,
+      "arousal": 3.51,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "Ayy! That part That part That part Walkin' livin' legend, man I feel like Kobe (That part)",
+      "valence": 3.49,
+      "arousal": 3.77,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "That part That part Walkin' livin' legend, man I feel like Kobe (That part) I just dropped 60, man I feel like Kobe",
+      "valence": 3.38,
+      "arousal": 3.48,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "That part Walkin' livin' legend, man I feel like Kobe (That part) I just dropped 60, man I feel like Kobe Lamar was with me, man I feel like Kobe",
+      "valence": 3.41,
+      "arousal": 3.48,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "Walkin' livin' legend, man I feel like Kobe (That part) I just dropped 60, man I feel like Kobe Lamar was with me, man I feel like Kobe Pippen at my weddin', man I feel like Jordan",
+      "valence": 3.45,
+      "arousal": 3.45,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "I just dropped 60, man I feel like Kobe Lamar was with me, man I feel like Kobe Pippen at my weddin', man I feel like Jordan Trippin' at my weddin', I be raaa-uh-ayy",
+      "valence": 3.57,
+      "arousal": 3.58,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "Lamar was with me, man I feel like Kobe Pippen at my weddin', man I feel like Jordan Trippin' at my weddin', I be raaa-uh-ayy Ain't say shit, nigga",
+      "valence": 3.2,
+      "arousal": 3.52,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "Pippen at my weddin', man I feel like Jordan Trippin' at my weddin', I be raaa-uh-ayy Ain't say shit, nigga You was listenin' close though",
+      "valence": 3.23,
+      "arousal": 3.42,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "Trippin' at my weddin', I be raaa-uh-ayy Ain't say shit, nigga You was listenin' close though You was listenin' to hoes though",
+      "valence": 2.86,
+      "arousal": 3.33,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "Ain't say shit, nigga You was listenin' close though You was listenin' to hoes though You wouldn't listen to the flow though",
+      "valence": 2.56,
+      "arousal": 3.09,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 86,
+      "lyrics_text": "You was listenin' close though You was listenin' to hoes though You wouldn't listen to the flow though Listen to the Goat",
+      "valence": 2.88,
+      "arousal": 2.84,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 87,
+      "lyrics_text": "You was listenin' to hoes though You wouldn't listen to the flow though Listen to the Goat Listen to a young nigga from the 'Go though",
+      "valence": 2.77,
+      "arousal": 2.91,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 88,
+      "lyrics_text": "You wouldn't listen to the flow though Listen to the Goat Listen to a young nigga from the 'Go though I'ma freestyle this mothafucka, who knew?",
+      "valence": 2.9,
+      "arousal": 3.04,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 89,
+      "lyrics_text": "Listen to the Goat Listen to a young nigga from the 'Go though I'ma freestyle this mothafucka, who knew? When I'm with my niggas, nigga, ScHoolboy Q",
+      "valence": 3.06,
+      "arousal": 3.25,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 90,
+      "lyrics_text": "Listen to a young nigga from the 'Go though I'ma freestyle this mothafucka, who knew? When I'm with my niggas, nigga, ScHoolboy Q And uh, Top Dawg, call Top Dawg",
+      "valence": 3.04,
+      "arousal": 3.34,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 91,
+      "lyrics_text": "I'ma freestyle this mothafucka, who knew? When I'm with my niggas, nigga, ScHoolboy Q And uh, Top Dawg, call Top Dawg Get that nigga on the phone",
+      "valence": 2.87,
+      "arousal": 3.58,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 92,
+      "lyrics_text": "When I'm with my niggas, nigga, ScHoolboy Q And uh, Top Dawg, call Top Dawg Get that nigga on the phone Top Dawg on the phone!",
+      "valence": 2.94,
+      "arousal": 3.82,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 93,
+      "lyrics_text": "And uh, Top Dawg, call Top Dawg Get that nigga on the phone Top Dawg on the phone! Ayy, ayy, ayy, ayy, ayy, ayy, ayy! Hah!",
+      "valence": 2.89,
+      "arousal": 4.04,
+      "dominance": 3.73
+    }
+  ]
+}

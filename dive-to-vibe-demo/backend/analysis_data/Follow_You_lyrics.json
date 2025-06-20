@@ -1,0 +1,290 @@
+{
+  "artist": "Imagine Dragons",
+  "overall_vad": {
+    "valence": 2.99,
+    "arousal": 3.41,
+    "dominance": 3.33
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "You know I got your number, number all night I'm always on your team, I got your back alright Taking those, taking those losses if it treats you right I want to put you into the spotlight",
+      "valence": 3.54,
+      "arousal": 3.64,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I'm always on your team, I got your back alright Taking those, taking those losses if it treats you right I want to put you into the spotlight If the world would only know what you've been holding back",
+      "valence": 3.35,
+      "arousal": 3.6,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Taking those, taking those losses if it treats you right I want to put you into the spotlight If the world would only know what you've been holding back Heart attacks every night",
+      "valence": 2.88,
+      "arousal": 3.48,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I want to put you into the spotlight If the world would only know what you've been holding back Heart attacks every night Oh, you know it's not right",
+      "valence": 2.5,
+      "arousal": 3.59,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "If the world would only know what you've been holding back Heart attacks every night Oh, you know it's not right I will follow you way down wherever you may go",
+      "valence": 2.47,
+      "arousal": 3.55,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Heart attacks every night Oh, you know it's not right I will follow you way down wherever you may go I'll follow you way down to your deepest low",
+      "valence": 2.53,
+      "arousal": 3.52,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Oh, you know it's not right I will follow you way down wherever you may go I'll follow you way down to your deepest low I'll always be around wherever life takes you",
+      "valence": 2.93,
+      "arousal": 3.37,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I will follow you way down wherever you may go I'll follow you way down to your deepest low I'll always be around wherever life takes you You know I'll follow you",
+      "valence": 3.35,
+      "arousal": 3.35,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I'll follow you way down to your deepest low I'll always be around wherever life takes you You know I'll follow you Call you up, you've been cryin', cryin' all night",
+      "valence": 3.08,
+      "arousal": 3.59,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I'll always be around wherever life takes you You know I'll follow you Call you up, you've been cryin', cryin' all night You're only disappointed in yourself, alright",
+      "valence": 2.65,
+      "arousal": 3.53,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "You know I'll follow you Call you up, you've been cryin', cryin' all night You're only disappointed in yourself, alright Taking those, taking those losses if it treats you right",
+      "valence": 2.46,
+      "arousal": 3.45,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Call you up, you've been cryin', cryin' all night You're only disappointed in yourself, alright Taking those, taking those losses if it treats you right I wanna take you into the sunlight",
+      "valence": 2.85,
+      "arousal": 3.61,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "You're only disappointed in yourself, alright Taking those, taking those losses if it treats you right I wanna take you into the sunlight If the world would only know what you've been holding back",
+      "valence": 2.76,
+      "arousal": 3.45,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Taking those, taking those losses if it treats you right I wanna take you into the sunlight If the world would only know what you've been holding back Heart attacks every night",
+      "valence": 3.04,
+      "arousal": 3.64,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I wanna take you into the sunlight If the world would only know what you've been holding back Heart attacks every night Oh, you know it's not right",
+      "valence": 2.78,
+      "arousal": 3.64,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "If the world would only know what you've been holding back Heart attacks every night Oh, you know it's not right I will follow you way down wherever you may go",
+      "valence": 2.47,
+      "arousal": 3.55,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Heart attacks every night Oh, you know it's not right I will follow you way down wherever you may go I'll follow you way down to your deepest low",
+      "valence": 2.53,
+      "arousal": 3.52,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Oh, you know it's not right I will follow you way down wherever you may go I'll follow you way down to your deepest low I'll always be around wherever life takes you",
+      "valence": 2.93,
+      "arousal": 3.37,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I will follow you way down wherever you may go I'll follow you way down to your deepest low I'll always be around wherever life takes you You know I'll follow you",
+      "valence": 3.35,
+      "arousal": 3.35,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I'll follow you way down to your deepest low I'll always be around wherever life takes you You know I'll follow you Ba-da-da-da-da",
+      "valence": 3.29,
+      "arousal": 3.44,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I'll always be around wherever life takes you You know I'll follow you Ba-da-da-da-da Da-da-da-da-da",
+      "valence": 3.33,
+      "arousal": 3.36,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "You know I'll follow you Ba-da-da-da-da Da-da-da-da-da Ba-da-da-da-da",
+      "valence": 3.02,
+      "arousal": 3.21,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Ba-da-da-da-da Da-da-da-da-da Ba-da-da-da-da You know I'll follow you",
+      "valence": 3.09,
+      "arousal": 3.24,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Da-da-da-da-da Ba-da-da-da-da You know I'll follow you La-da-da-da-da",
+      "valence": 3.02,
+      "arousal": 3.34,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Ba-da-da-da-da You know I'll follow you La-da-da-da-da Wherever life takes you, you know I'll follow you",
+      "valence": 3.22,
+      "arousal": 3.29,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "You know I'll follow you La-da-da-da-da Wherever life takes you, you know I'll follow you You're not the type to give herself enough love",
+      "valence": 2.95,
+      "arousal": 3.32,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "La-da-da-da-da Wherever life takes you, you know I'll follow you You're not the type to give herself enough love She live her life, hand in a tight glove",
+      "valence": 2.75,
+      "arousal": 3.25,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Wherever life takes you, you know I'll follow you You're not the type to give herself enough love She live her life, hand in a tight glove I wish that I could fix it, I could fix it for you",
+      "valence": 2.71,
+      "arousal": 3.4,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "You're not the type to give herself enough love She live her life, hand in a tight glove I wish that I could fix it, I could fix it for you But instead I'll be right here comin' through",
+      "valence": 2.94,
+      "arousal": 3.36,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "She live her life, hand in a tight glove I wish that I could fix it, I could fix it for you But instead I'll be right here comin' through (Right here, comin' through)",
+      "valence": 2.98,
+      "arousal": 3.26,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I wish that I could fix it, I could fix it for you But instead I'll be right here comin' through (Right here, comin' through) I will follow you way down wherever you may go",
+      "valence": 2.98,
+      "arousal": 3.25,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "But instead I'll be right here comin' through (Right here, comin' through) I will follow you way down wherever you may go I'll follow you way down to your deepest low",
+      "valence": 3.22,
+      "arousal": 3.25,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "(Right here, comin' through) I will follow you way down wherever you may go I'll follow you way down to your deepest low I'll always be around wherever life takes you",
+      "valence": 3.34,
+      "arousal": 3.25,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I will follow you way down wherever you may go I'll follow you way down to your deepest low I'll always be around wherever life takes you You know I'll follow you",
+      "valence": 3.35,
+      "arousal": 3.35,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I'll follow you way down to your deepest low I'll always be around wherever life takes you You know I'll follow you Ba-da-da-da-da",
+      "valence": 3.29,
+      "arousal": 3.44,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I'll always be around wherever life takes you You know I'll follow you Ba-da-da-da-da Da-da-da-da-da",
+      "valence": 3.33,
+      "arousal": 3.36,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "You know I'll follow you Ba-da-da-da-da Da-da-da-da-da Ba-da-da-da-da",
+      "valence": 3.02,
+      "arousal": 3.21,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Ba-da-da-da-da Da-da-da-da-da Ba-da-da-da-da You know I'll follow you",
+      "valence": 3.09,
+      "arousal": 3.24,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Da-da-da-da-da Ba-da-da-da-da You know I'll follow you La-da-da-da-da",
+      "valence": 3.02,
+      "arousal": 3.34,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Ba-da-da-da-da You know I'll follow you La-da-da-da-da Wherever life takes you, you know I'll follow you",
+      "valence": 3.22,
+      "arousal": 3.29,
+      "dominance": 3.37
+    }
+  ]
+}

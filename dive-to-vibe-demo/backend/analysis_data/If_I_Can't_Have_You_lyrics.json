@@ -1,0 +1,346 @@
+{
+  "artist": "Shawn Mendes",
+  "overall_vad": {
+    "valence": 2.69,
+    "arousal": 3.42,
+    "dominance": 3.19
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I can't write one song that's not about you Can't drink without thinkin' about you Is it too late to tell you that Everything means nothing if I can't have you?",
+      "valence": 2.71,
+      "arousal": 3.43,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Can't drink without thinkin' about you Is it too late to tell you that Everything means nothing if I can't have you? I'm in Toronto and I got this view",
+      "valence": 2.84,
+      "arousal": 3.39,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Is it too late to tell you that Everything means nothing if I can't have you? I'm in Toronto and I got this view But I might as well be in a hotel room, yeah",
+      "valence": 2.82,
+      "arousal": 3.49,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Everything means nothing if I can't have you? I'm in Toronto and I got this view But I might as well be in a hotel room, yeah It doesn't matter 'cause I'm so consumed",
+      "valence": 2.84,
+      "arousal": 3.59,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I'm in Toronto and I got this view But I might as well be in a hotel room, yeah It doesn't matter 'cause I'm so consumed Spending all my nights reading texts from you",
+      "valence": 2.88,
+      "arousal": 3.48,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "But I might as well be in a hotel room, yeah It doesn't matter 'cause I'm so consumed Spending all my nights reading texts from you Oh, I'm good at keepin' my distance",
+      "valence": 2.87,
+      "arousal": 3.29,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "It doesn't matter 'cause I'm so consumed Spending all my nights reading texts from you Oh, I'm good at keepin' my distance I know that you're the feelin' I'm missing",
+      "valence": 2.76,
+      "arousal": 3.37,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Spending all my nights reading texts from you Oh, I'm good at keepin' my distance I know that you're the feelin' I'm missing You know that I hate to admit it",
+      "valence": 3.01,
+      "arousal": 3.19,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Oh, I'm good at keepin' my distance I know that you're the feelin' I'm missing You know that I hate to admit it But everything means nothin' if I can't have you",
+      "valence": 2.85,
+      "arousal": 3.28,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I know that you're the feelin' I'm missing You know that I hate to admit it But everything means nothin' if I can't have you I can't write one song that's not about you",
+      "valence": 2.62,
+      "arousal": 3.43,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "You know that I hate to admit it But everything means nothin' if I can't have you I can't write one song that's not about you Can't drink without thinkin' about you",
+      "valence": 2.45,
+      "arousal": 3.42,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "But everything means nothin' if I can't have you I can't write one song that's not about you Can't drink without thinkin' about you Is it too late to tell you that",
+      "valence": 2.51,
+      "arousal": 3.4,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I can't write one song that's not about you Can't drink without thinkin' about you Is it too late to tell you that Everything means nothing if I can't have you?",
+      "valence": 2.71,
+      "arousal": 3.43,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Can't drink without thinkin' about you Is it too late to tell you that Everything means nothing if I can't have you? I can't write one song that's not about you",
+      "valence": 2.76,
+      "arousal": 3.45,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Is it too late to tell you that Everything means nothing if I can't have you? I can't write one song that's not about you Can't drink without thinkin' about you",
+      "valence": 2.69,
+      "arousal": 3.48,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Everything means nothing if I can't have you? I can't write one song that's not about you Can't drink without thinkin' about you Is it too late to tell you that",
+      "valence": 2.57,
+      "arousal": 3.54,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "I can't write one song that's not about you Can't drink without thinkin' about you Is it too late to tell you that Everything means nothing if I can't have you?",
+      "valence": 2.71,
+      "arousal": 3.43,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Can't drink without thinkin' about you Is it too late to tell you that Everything means nothing if I can't have you? I'm so sorry that my timing's off",
+      "valence": 2.62,
+      "arousal": 3.44,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Is it too late to tell you that Everything means nothing if I can't have you? I'm so sorry that my timing's off But I can't move on if we're still gonna talk",
+      "valence": 2.63,
+      "arousal": 3.48,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Everything means nothing if I can't have you? I'm so sorry that my timing's off But I can't move on if we're still gonna talk Is it wrong for me to not want half?",
+      "valence": 2.61,
+      "arousal": 3.41,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I'm so sorry that my timing's off But I can't move on if we're still gonna talk Is it wrong for me to not want half? I want all of you, all the strings attached",
+      "valence": 2.55,
+      "arousal": 3.42,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "But I can't move on if we're still gonna talk Is it wrong for me to not want half? I want all of you, all the strings attached Oh, I'm good at keepin' my distance",
+      "valence": 2.76,
+      "arousal": 3.3,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Is it wrong for me to not want half? I want all of you, all the strings attached Oh, I'm good at keepin' my distance I know that you're the feelin' I'm missing",
+      "valence": 2.83,
+      "arousal": 3.35,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I want all of you, all the strings attached Oh, I'm good at keepin' my distance I know that you're the feelin' I'm missing You know that I hate to admit it",
+      "valence": 2.98,
+      "arousal": 3.39,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Oh, I'm good at keepin' my distance I know that you're the feelin' I'm missing You know that I hate to admit it But everything means nothin' if I can't have you",
+      "valence": 2.85,
+      "arousal": 3.28,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I know that you're the feelin' I'm missing You know that I hate to admit it But everything means nothin' if I can't have you I can't write one song that's not about you",
+      "valence": 2.62,
+      "arousal": 3.43,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "You know that I hate to admit it But everything means nothin' if I can't have you I can't write one song that's not about you Can't drink without thinkin' about you",
+      "valence": 2.45,
+      "arousal": 3.42,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "But everything means nothin' if I can't have you I can't write one song that's not about you Can't drink without thinkin' about you Is it too late to tell you that",
+      "valence": 2.51,
+      "arousal": 3.4,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I can't write one song that's not about you Can't drink without thinkin' about you Is it too late to tell you that Everything means nothing if I can't have you?",
+      "valence": 2.71,
+      "arousal": 3.43,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Can't drink without thinkin' about you Is it too late to tell you that Everything means nothing if I can't have you? I can't write one song that's not about you",
+      "valence": 2.76,
+      "arousal": 3.45,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Is it too late to tell you that Everything means nothing if I can't have you? I can't write one song that's not about you Can't drink without thinkin' about you",
+      "valence": 2.69,
+      "arousal": 3.48,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Everything means nothing if I can't have you? I can't write one song that's not about you Can't drink without thinkin' about you Is it too late to tell you that",
+      "valence": 2.57,
+      "arousal": 3.54,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I can't write one song that's not about you Can't drink without thinkin' about you Is it too late to tell you that Everything means nothing if I can't have you?",
+      "valence": 2.71,
+      "arousal": 3.43,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Can't drink without thinkin' about you Is it too late to tell you that Everything means nothing if I can't have you? I'm trying to move on",
+      "valence": 2.8,
+      "arousal": 3.33,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Is it too late to tell you that Everything means nothing if I can't have you? I'm trying to move on Forget you, but I hold on",
+      "valence": 2.72,
+      "arousal": 3.44,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Everything means nothing if I can't have you? I'm trying to move on Forget you, but I hold on Everything means nothing",
+      "valence": 2.59,
+      "arousal": 3.47,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I'm trying to move on Forget you, but I hold on Everything means nothing Everything means nothing, babe",
+      "valence": 2.66,
+      "arousal": 3.36,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Forget you, but I hold on Everything means nothing Everything means nothing, babe I'm trying to move on",
+      "valence": 2.58,
+      "arousal": 3.29,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Everything means nothing Everything means nothing, babe I'm trying to move on Forget you, but I hold on",
+      "valence": 2.48,
+      "arousal": 3.37,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Everything means nothing, babe I'm trying to move on Forget you, but I hold on Everything means nothing if I can't have you, no",
+      "valence": 2.61,
+      "arousal": 3.52,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I'm trying to move on Forget you, but I hold on Everything means nothing if I can't have you, no I can't write one song that's not about you",
+      "valence": 2.7,
+      "arousal": 3.46,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Forget you, but I hold on Everything means nothing if I can't have you, no I can't write one song that's not about you Can't drink without thinkin' about you",
+      "valence": 2.72,
+      "arousal": 3.44,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Everything means nothing if I can't have you, no I can't write one song that's not about you Can't drink without thinkin' about you Is it too late to tell you that",
+      "valence": 2.59,
+      "arousal": 3.47,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I can't write one song that's not about you Can't drink without thinkin' about you Is it too late to tell you that Everything means nothing if I can't have you?",
+      "valence": 2.71,
+      "arousal": 3.43,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Can't drink without thinkin' about you Is it too late to tell you that Everything means nothing if I can't have you? I can't write one song that's not about you",
+      "valence": 2.76,
+      "arousal": 3.45,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Is it too late to tell you that Everything means nothing if I can't have you? I can't write one song that's not about you Can't drink without thinkin' about you",
+      "valence": 2.69,
+      "arousal": 3.48,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Everything means nothing if I can't have you? I can't write one song that's not about you Can't drink without thinkin' about you Is it too late to tell you that",
+      "valence": 2.57,
+      "arousal": 3.54,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I can't write one song that's not about you Can't drink without thinkin' about you Is it too late to tell you that Everything means nothing if I can't have you?",
+      "valence": 2.71,
+      "arousal": 3.43,
+      "dominance": 3.28
+    }
+  ]
+}

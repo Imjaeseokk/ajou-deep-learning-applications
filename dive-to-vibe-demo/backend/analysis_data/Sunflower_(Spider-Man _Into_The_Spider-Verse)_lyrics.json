@@ -1,0 +1,325 @@
+{
+  "artist": "Post Malone & Swae Lee",
+  "overall_vad": {
+    "valence": 2.63,
+    "arousal": 3.54,
+    "dominance": 3.13
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Ayy, ayy, ayy, ayy (ooh) Ooh, ooh, ooh, ooh (ooh) Ayy, ayy Ooh, ooh, ooh, ooh",
+      "valence": 2.76,
+      "arousal": 3.59,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Ooh, ooh, ooh, ooh (ooh) Ayy, ayy Ooh, ooh, ooh, ooh Needless to say, I keep her in check",
+      "valence": 3.19,
+      "arousal": 3.51,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Ayy, ayy Ooh, ooh, ooh, ooh Needless to say, I keep her in check She was a bad-bad, nevertheless (yeah)",
+      "valence": 3.03,
+      "arousal": 3.47,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Ooh, ooh, ooh, ooh Needless to say, I keep her in check She was a bad-bad, nevertheless (yeah) Callin' it quits now, baby, I'm a wreck (wreck)",
+      "valence": 2.39,
+      "arousal": 3.71,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Needless to say, I keep her in check She was a bad-bad, nevertheless (yeah) Callin' it quits now, baby, I'm a wreck (wreck) Crash at my place, baby, you're a wreck (wreck)",
+      "valence": 2.08,
+      "arousal": 3.71,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "She was a bad-bad, nevertheless (yeah) Callin' it quits now, baby, I'm a wreck (wreck) Crash at my place, baby, you're a wreck (wreck) Needless to say, I'm keeping her in check",
+      "valence": 2.03,
+      "arousal": 3.75,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Callin' it quits now, baby, I'm a wreck (wreck) Crash at my place, baby, you're a wreck (wreck) Needless to say, I'm keeping her in check She was all bad-bad, nevertheless",
+      "valence": 1.96,
+      "arousal": 3.82,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Crash at my place, baby, you're a wreck (wreck) Needless to say, I'm keeping her in check She was all bad-bad, nevertheless Callin' it quits now, baby, I'm a wreck",
+      "valence": 1.97,
+      "arousal": 3.79,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Needless to say, I'm keeping her in check She was all bad-bad, nevertheless Callin' it quits now, baby, I'm a wreck Crash at my place, baby, you're a wreck",
+      "valence": 2.05,
+      "arousal": 3.73,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "She was all bad-bad, nevertheless Callin' it quits now, baby, I'm a wreck Crash at my place, baby, you're a wreck Thinkin' in a bad way, losin' your grip",
+      "valence": 2.03,
+      "arousal": 3.63,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Callin' it quits now, baby, I'm a wreck Crash at my place, baby, you're a wreck Thinkin' in a bad way, losin' your grip Screamin' at my face, baby, don't trip",
+      "valence": 1.97,
+      "arousal": 3.91,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Crash at my place, baby, you're a wreck Thinkin' in a bad way, losin' your grip Screamin' at my face, baby, don't trip Someone took a big L, don't know how that felt",
+      "valence": 2.05,
+      "arousal": 3.84,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Thinkin' in a bad way, losin' your grip Screamin' at my face, baby, don't trip Someone took a big L, don't know how that felt Lookin' at you sideways, party on tilt",
+      "valence": 2.34,
+      "arousal": 3.74,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Screamin' at my face, baby, don't trip Someone took a big L, don't know how that felt Lookin' at you sideways, party on tilt Ooh-ooh-ooh",
+      "valence": 2.75,
+      "arousal": 3.88,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Someone took a big L, don't know how that felt Lookin' at you sideways, party on tilt Ooh-ooh-ooh Some things you just can't refuse",
+      "valence": 3.02,
+      "arousal": 3.39,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Lookin' at you sideways, party on tilt Ooh-ooh-ooh Some things you just can't refuse She wanna ride me like a cruise",
+      "valence": 3.19,
+      "arousal": 3.57,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Ooh-ooh-ooh Some things you just can't refuse She wanna ride me like a cruise And I'm not tryna lose",
+      "valence": 2.95,
+      "arousal": 3.56,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Some things you just can't refuse She wanna ride me like a cruise And I'm not tryna lose Then you're left in the dust",
+      "valence": 2.6,
+      "arousal": 3.45,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "She wanna ride me like a cruise And I'm not tryna lose Then you're left in the dust Unless I stuck by ya",
+      "valence": 2.65,
+      "arousal": 3.44,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "And I'm not tryna lose Then you're left in the dust Unless I stuck by ya You're the sunflower",
+      "valence": 2.73,
+      "arousal": 3.4,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Then you're left in the dust Unless I stuck by ya You're the sunflower I think your love would be too much",
+      "valence": 2.81,
+      "arousal": 3.51,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Unless I stuck by ya You're the sunflower I think your love would be too much Or you'll be left in the dust",
+      "valence": 2.74,
+      "arousal": 3.36,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "You're the sunflower I think your love would be too much Or you'll be left in the dust Unless I stuck by ya",
+      "valence": 2.92,
+      "arousal": 3.49,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I think your love would be too much Or you'll be left in the dust Unless I stuck by ya You're the sunflower",
+      "valence": 2.93,
+      "arousal": 3.48,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Or you'll be left in the dust Unless I stuck by ya You're the sunflower You're the sunflower",
+      "valence": 2.95,
+      "arousal": 3.34,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Unless I stuck by ya You're the sunflower You're the sunflower Every time I'm leavin' on you (ooh)",
+      "valence": 3.33,
+      "arousal": 3.49,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "You're the sunflower You're the sunflower Every time I'm leavin' on you (ooh) You don't make it easy, no (no, no)",
+      "valence": 3.05,
+      "arousal": 3.58,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "You're the sunflower Every time I'm leavin' on you (ooh) You don't make it easy, no (no, no) Wish I could be there for you",
+      "valence": 3.31,
+      "arousal": 3.54,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Every time I'm leavin' on you (ooh) You don't make it easy, no (no, no) Wish I could be there for you Give me a reason to, oh (oh)",
+      "valence": 2.6,
+      "arousal": 3.48,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "You don't make it easy, no (no, no) Wish I could be there for you Give me a reason to, oh (oh) Every time I'm walkin' out",
+      "valence": 2.45,
+      "arousal": 3.44,
+      "dominance": 2.81
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Wish I could be there for you Give me a reason to, oh (oh) Every time I'm walkin' out I can hear you tellin' me to turn around",
+      "valence": 2.59,
+      "arousal": 3.56,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Give me a reason to, oh (oh) Every time I'm walkin' out I can hear you tellin' me to turn around Fightin' for my trust and you won't back down",
+      "valence": 2.47,
+      "arousal": 3.55,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Every time I'm walkin' out I can hear you tellin' me to turn around Fightin' for my trust and you won't back down Even if we gotta risk it all right now, oh (now)",
+      "valence": 2.51,
+      "arousal": 3.66,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I can hear you tellin' me to turn around Fightin' for my trust and you won't back down Even if we gotta risk it all right now, oh (now) I know you're scared of the unknown ('known)",
+      "valence": 2.38,
+      "arousal": 3.59,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Fightin' for my trust and you won't back down Even if we gotta risk it all right now, oh (now) I know you're scared of the unknown ('known) You don't wanna be alone (alone)",
+      "valence": 2.6,
+      "arousal": 3.44,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Even if we gotta risk it all right now, oh (now) I know you're scared of the unknown ('known) You don't wanna be alone (alone) I know I always come and go (and go)",
+      "valence": 2.68,
+      "arousal": 3.2,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I know you're scared of the unknown ('known) You don't wanna be alone (alone) I know I always come and go (and go) But it's out of my control",
+      "valence": 2.42,
+      "arousal": 3.36,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "You don't wanna be alone (alone) I know I always come and go (and go) But it's out of my control And you'll be left in the dust",
+      "valence": 2.36,
+      "arousal": 3.4,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "I know I always come and go (and go) But it's out of my control And you'll be left in the dust Unless I stuck by ya",
+      "valence": 2.58,
+      "arousal": 3.31,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "But it's out of my control And you'll be left in the dust Unless I stuck by ya You're the sunflower",
+      "valence": 2.72,
+      "arousal": 3.32,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "And you'll be left in the dust Unless I stuck by ya You're the sunflower I think your love would be too much",
+      "valence": 2.78,
+      "arousal": 3.5,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Unless I stuck by ya You're the sunflower I think your love would be too much Or you'll be left in the dust",
+      "valence": 2.74,
+      "arousal": 3.36,
+      "dominance": 2.82
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "You're the sunflower I think your love would be too much Or you'll be left in the dust Unless I stuck by ya",
+      "valence": 2.92,
+      "arousal": 3.49,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I think your love would be too much Or you'll be left in the dust Unless I stuck by ya You're the sunflower",
+      "valence": 2.93,
+      "arousal": 3.48,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Or you'll be left in the dust Unless I stuck by ya You're the sunflower You're the sunflower (yeah)",
+      "valence": 2.92,
+      "arousal": 3.4,
+      "dominance": 3.42
+    }
+  ]
+}

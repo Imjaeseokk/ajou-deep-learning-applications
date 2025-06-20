@@ -1,0 +1,353 @@
+{
+  "artist": "Drake",
+  "overall_vad": {
+    "valence": 2.71,
+    "arousal": 3.5,
+    "dominance": 3.23
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Yeah (I'm workin' on dyin') I'm upset Fifty thousand on my head, it's disrespect",
+      "valence": 2.0,
+      "arousal": 3.67,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "(I'm workin' on dyin') I'm upset Fifty thousand on my head, it's disrespect So offended that I had to double check",
+      "valence": 1.88,
+      "arousal": 3.81,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I'm upset Fifty thousand on my head, it's disrespect So offended that I had to double check I'ma always take the money over sex",
+      "valence": 1.95,
+      "arousal": 3.91,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Fifty thousand on my head, it's disrespect So offended that I had to double check I'ma always take the money over sex That's why they need me out the way, what you expect?",
+      "valence": 2.25,
+      "arousal": 3.68,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "So offended that I had to double check I'ma always take the money over sex That's why they need me out the way, what you expect? Got a lot of blood and it's cold",
+      "valence": 2.43,
+      "arousal": 3.65,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I'ma always take the money over sex That's why they need me out the way, what you expect? Got a lot of blood and it's cold They keep tryna' get me for my soul",
+      "valence": 2.76,
+      "arousal": 3.54,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "That's why they need me out the way, what you expect? Got a lot of blood and it's cold They keep tryna' get me for my soul Thankful for the women that I know",
+      "valence": 3.18,
+      "arousal": 3.42,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Got a lot of blood and it's cold They keep tryna' get me for my soul Thankful for the women that I know Can't go fifty-fifty with no hoe",
+      "valence": 3.01,
+      "arousal": 3.4,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "They keep tryna' get me for my soul Thankful for the women that I know Can't go fifty-fifty with no hoe Every month",
+      "valence": 3.4,
+      "arousal": 3.2,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Thankful for the women that I know Can't go fifty-fifty with no hoe Every month I'm supposed to pay her bills and get her what she want",
+      "valence": 3.61,
+      "arousal": 3.27,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Can't go fifty-fifty with no hoe Every month I'm supposed to pay her bills and get her what she want I still got like seven years of doin' what I want",
+      "valence": 2.64,
+      "arousal": 3.39,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Every month I'm supposed to pay her bills and get her what she want I still got like seven years of doin' what I want My dad still got child support from 1991",
+      "valence": 2.9,
+      "arousal": 3.45,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I'm supposed to pay her bills and get her what she want I still got like seven years of doin' what I want My dad still got child support from 1991 Outta town, people love to pop a lot of shit then come around",
+      "valence": 2.88,
+      "arousal": 3.54,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I still got like seven years of doin' what I want My dad still got child support from 1991 Outta town, people love to pop a lot of shit then come around Word to Flacko Jodye, he done seen us put it down",
+      "valence": 2.95,
+      "arousal": 3.42,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "My dad still got child support from 1991 Outta town, people love to pop a lot of shit then come around Word to Flacko Jodye, he done seen us put it down Niggas askin' if I'm cool",
+      "valence": 2.99,
+      "arousal": 3.37,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Outta town, people love to pop a lot of shit then come around Word to Flacko Jodye, he done seen us put it down Niggas askin' if I'm cool I'm upset",
+      "valence": 2.57,
+      "arousal": 3.46,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Word to Flacko Jodye, he done seen us put it down Niggas askin' if I'm cool I'm upset Hunnid thousand on my head, it's disrespect (Disrespect)",
+      "valence": 1.99,
+      "arousal": 3.67,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Niggas askin' if I'm cool I'm upset Hunnid thousand on my head, it's disrespect (Disrespect) So offended that I had to double check",
+      "valence": 2.01,
+      "arousal": 3.62,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I'm upset Hunnid thousand on my head, it's disrespect (Disrespect) So offended that I had to double check You tryna check?",
+      "valence": 1.89,
+      "arousal": 3.84,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Hunnid thousand on my head, it's disrespect (Disrespect) So offended that I had to double check You tryna check? This is real life, niggas think we playin' chess",
+      "valence": 2.06,
+      "arousal": 3.62,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "So offended that I had to double check You tryna check? This is real life, niggas think we playin' chess So what's next?",
+      "valence": 2.34,
+      "arousal": 3.63,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "You tryna check? This is real life, niggas think we playin' chess So what's next? Jump up out the bed like I'm possessed",
+      "valence": 2.75,
+      "arousal": 3.49,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "This is real life, niggas think we playin' chess So what's next? Jump up out the bed like I'm possessed I go out on tour and I say I'm drinkin' less",
+      "valence": 2.78,
+      "arousal": 3.34,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "So what's next? Jump up out the bed like I'm possessed I go out on tour and I say I'm drinkin' less End up gettin' loose and gettin' pictures from my ex",
+      "valence": 2.87,
+      "arousal": 3.51,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Jump up out the bed like I'm possessed I go out on tour and I say I'm drinkin' less End up gettin' loose and gettin' pictures from my ex SMS, triple X",
+      "valence": 2.99,
+      "arousal": 3.54,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I go out on tour and I say I'm drinkin' less End up gettin' loose and gettin' pictures from my ex SMS, triple X That's the only time I ever shoot below the neck (Skrr)",
+      "valence": 2.97,
+      "arousal": 3.11,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "End up gettin' loose and gettin' pictures from my ex SMS, triple X That's the only time I ever shoot below the neck (Skrr) Why you keep on shootin' if you know that nigga dead? (Skrr)",
+      "valence": 2.67,
+      "arousal": 3.24,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "SMS, triple X That's the only time I ever shoot below the neck (Skrr) Why you keep on shootin' if you know that nigga dead? (Skrr) That's the only kind of shit that gets you some respect",
+      "valence": 2.6,
+      "arousal": 3.33,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "That's the only time I ever shoot below the neck (Skrr) Why you keep on shootin' if you know that nigga dead? (Skrr) That's the only kind of shit that gets you some respect Got a lot of blood and it's cold",
+      "valence": 2.52,
+      "arousal": 3.34,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Why you keep on shootin' if you know that nigga dead? (Skrr) That's the only kind of shit that gets you some respect Got a lot of blood and it's cold They keep tryna get me for my soul",
+      "valence": 2.28,
+      "arousal": 3.57,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "That's the only kind of shit that gets you some respect Got a lot of blood and it's cold They keep tryna get me for my soul Thankful for the women that I know",
+      "valence": 3.05,
+      "arousal": 3.44,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Got a lot of blood and it's cold They keep tryna get me for my soul Thankful for the women that I know Can't go fifty-fifty with no hoe (Ayy, ayy)",
+      "valence": 2.96,
+      "arousal": 3.41,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "They keep tryna get me for my soul Thankful for the women that I know Can't go fifty-fifty with no hoe (Ayy, ayy) Every month",
+      "valence": 3.34,
+      "arousal": 3.24,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Thankful for the women that I know Can't go fifty-fifty with no hoe (Ayy, ayy) Every month She don't even love me, she just puttin' on a front",
+      "valence": 3.48,
+      "arousal": 3.35,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Can't go fifty-fifty with no hoe (Ayy, ayy) Every month She don't even love me, she just puttin' on a front She gon' try and settle outta court and make a run",
+      "valence": 2.58,
+      "arousal": 3.4,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Every month She don't even love me, she just puttin' on a front She gon' try and settle outta court and make a run Then gon' ask me how I'm doin'",
+      "valence": 2.57,
+      "arousal": 3.37,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "She don't even love me, she just puttin' on a front She gon' try and settle outta court and make a run Then gon' ask me how I'm doin' I'm upset",
+      "valence": 2.21,
+      "arousal": 3.6,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "She gon' try and settle outta court and make a run Then gon' ask me how I'm doin' I'm upset Half a million on my head I can accept, yeah",
+      "valence": 2.45,
+      "arousal": 3.52,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Then gon' ask me how I'm doin' I'm upset Half a million on my head I can accept, yeah 'Least it makes me feel like someone tried their best, yeah",
+      "valence": 2.48,
+      "arousal": 3.45,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "I'm upset Half a million on my head I can accept, yeah 'Least it makes me feel like someone tried their best, yeah Want to waste a half a million, be my guest",
+      "valence": 2.34,
+      "arousal": 3.61,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Half a million on my head I can accept, yeah 'Least it makes me feel like someone tried their best, yeah Want to waste a half a million, be my guest Made me wanna buy a vest and a TEC (Skrr)",
+      "valence": 3.07,
+      "arousal": 3.4,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "'Least it makes me feel like someone tried their best, yeah Want to waste a half a million, be my guest Made me wanna buy a vest and a TEC (Skrr) But I'm blessed, I just checked (Checked, checked)",
+      "valence": 3.61,
+      "arousal": 3.49,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Want to waste a half a million, be my guest Made me wanna buy a vest and a TEC (Skrr) But I'm blessed, I just checked (Checked, checked) Hate me, never met me in the flesh (Flesh)",
+      "valence": 3.03,
+      "arousal": 3.53,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Made me wanna buy a vest and a TEC (Skrr) But I'm blessed, I just checked (Checked, checked) Hate me, never met me in the flesh (Flesh) Say she's got some things she gotta come here and collect",
+      "valence": 3.29,
+      "arousal": 3.59,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "But I'm blessed, I just checked (Checked, checked) Hate me, never met me in the flesh (Flesh) Say she's got some things she gotta come here and collect That shit is in a box to the left, to the left",
+      "valence": 3.28,
+      "arousal": 3.74,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Hate me, never met me in the flesh (Flesh) Say she's got some things she gotta come here and collect That shit is in a box to the left, to the left Got a lot of blood and it's cold",
+      "valence": 2.17,
+      "arousal": 3.68,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Say she's got some things she gotta come here and collect That shit is in a box to the left, to the left Got a lot of blood and it's cold They keep tryna' get me for my soul (For my soul)",
+      "valence": 2.48,
+      "arousal": 3.68,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "That shit is in a box to the left, to the left Got a lot of blood and it's cold They keep tryna' get me for my soul (For my soul) Thankful for the women that I know (That I know)",
+      "valence": 3.06,
+      "arousal": 3.67,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Got a lot of blood and it's cold They keep tryna' get me for my soul (For my soul) Thankful for the women that I know (That I know) Can't go fifty-fifty with no hoe",
+      "valence": 3.02,
+      "arousal": 3.5,
+      "dominance": 2.91
+    }
+  ]
+}

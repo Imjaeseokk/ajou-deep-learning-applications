@@ -1,0 +1,318 @@
+{
+  "artist": "Justin Moore",
+  "overall_vad": {
+    "valence": 2.89,
+    "arousal": 3.5,
+    "dominance": 3.35
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Been sittin' here tippin' back Crown straight Workin' up the nerve and the words to say To turn those eyes and that smile my way No time to waste",
+      "valence": 3.13,
+      "arousal": 3.21,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Workin' up the nerve and the words to say To turn those eyes and that smile my way No time to waste 'Cause you showed up and all eyes on you",
+      "valence": 3.22,
+      "arousal": 3.64,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "To turn those eyes and that smile my way No time to waste 'Cause you showed up and all eyes on you Shinin' like a diamond in a neon room",
+      "valence": 3.42,
+      "arousal": 3.62,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "No time to waste 'Cause you showed up and all eyes on you Shinin' like a diamond in a neon room Every guy here wants to make a move",
+      "valence": 3.2,
+      "arousal": 3.6,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "'Cause you showed up and all eyes on you Shinin' like a diamond in a neon room Every guy here wants to make a move I better make a move",
+      "valence": 3.22,
+      "arousal": 3.62,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Shinin' like a diamond in a neon room Every guy here wants to make a move I better make a move Somebody else will if I don't",
+      "valence": 3.01,
+      "arousal": 3.39,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Every guy here wants to make a move I better make a move Somebody else will if I don't Walk up and ask you your name right now",
+      "valence": 2.73,
+      "arousal": 3.48,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I better make a move Somebody else will if I don't Walk up and ask you your name right now Offer to buy you a drink",
+      "valence": 2.78,
+      "arousal": 3.56,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Somebody else will if I don't Walk up and ask you your name right now Offer to buy you a drink Sit down and tell you your looks could kill",
+      "valence": 2.47,
+      "arousal": 3.54,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Walk up and ask you your name right now Offer to buy you a drink Sit down and tell you your looks could kill Somebody else will if I don't",
+      "valence": 2.59,
+      "arousal": 3.56,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Offer to buy you a drink Sit down and tell you your looks could kill Somebody else will if I don't Take a chance on your lips",
+      "valence": 2.47,
+      "arousal": 3.53,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Sit down and tell you your looks could kill Somebody else will if I don't Take a chance on your lips Lean in slowly stealin' your kiss like this",
+      "valence": 2.74,
+      "arousal": 3.68,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Somebody else will if I don't Take a chance on your lips Lean in slowly stealin' your kiss like this Makin' your world stand still",
+      "valence": 3.08,
+      "arousal": 3.7,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Take a chance on your lips Lean in slowly stealin' your kiss like this Makin' your world stand still Somebody else will",
+      "valence": 3.46,
+      "arousal": 3.76,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Lean in slowly stealin' your kiss like this Makin' your world stand still Somebody else will Somebody else will",
+      "valence": 3.33,
+      "arousal": 3.63,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Makin' your world stand still Somebody else will Somebody else will Maybe you're a little bit west coast",
+      "valence": 2.94,
+      "arousal": 3.15,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Somebody else will Somebody else will Maybe you're a little bit west coast Maybe you're a little bit down home",
+      "valence": 3.04,
+      "arousal": 3.06,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Somebody else will Maybe you're a little bit west coast Maybe you're a little bit down home Either way girl I just gotta know",
+      "valence": 3.03,
+      "arousal": 3.19,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Maybe you're a little bit west coast Maybe you're a little bit down home Either way girl I just gotta know I just gotta know",
+      "valence": 2.98,
+      "arousal": 3.14,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Maybe you're a little bit down home Either way girl I just gotta know I just gotta know 'Cause somebody else will if I don't",
+      "valence": 2.77,
+      "arousal": 3.29,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Either way girl I just gotta know I just gotta know 'Cause somebody else will if I don't Walk up and ask you your name right now",
+      "valence": 2.8,
+      "arousal": 3.4,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "I just gotta know 'Cause somebody else will if I don't Walk up and ask you your name right now Offer to buy you a drink",
+      "valence": 2.85,
+      "arousal": 3.38,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "'Cause somebody else will if I don't Walk up and ask you your name right now Offer to buy you a drink Sit down and tell you your looks could kill",
+      "valence": 2.41,
+      "arousal": 3.58,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Walk up and ask you your name right now Offer to buy you a drink Sit down and tell you your looks could kill Somebody else will if I don't",
+      "valence": 2.59,
+      "arousal": 3.56,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Offer to buy you a drink Sit down and tell you your looks could kill Somebody else will if I don't Take a chance on your lips",
+      "valence": 2.47,
+      "arousal": 3.53,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Sit down and tell you your looks could kill Somebody else will if I don't Take a chance on your lips Lean in slowly stealin' your kiss like this",
+      "valence": 2.74,
+      "arousal": 3.68,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Somebody else will if I don't Take a chance on your lips Lean in slowly stealin' your kiss like this Makin' your world stand still",
+      "valence": 3.08,
+      "arousal": 3.7,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Take a chance on your lips Lean in slowly stealin' your kiss like this Makin' your world stand still Somebody else is gonna hold you",
+      "valence": 3.43,
+      "arousal": 3.73,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Lean in slowly stealin' your kiss like this Makin' your world stand still Somebody else is gonna hold you Somebody gonna get to know you",
+      "valence": 3.45,
+      "arousal": 3.58,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Makin' your world stand still Somebody else is gonna hold you Somebody gonna get to know you If I don't get there and sweep you off your feet",
+      "valence": 2.6,
+      "arousal": 3.59,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Somebody else is gonna hold you Somebody gonna get to know you If I don't get there and sweep you off your feet Girl somebody else will",
+      "valence": 2.66,
+      "arousal": 3.42,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Somebody gonna get to know you If I don't get there and sweep you off your feet Girl somebody else will Ohh somebody else will",
+      "valence": 2.62,
+      "arousal": 3.42,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "If I don't get there and sweep you off your feet Girl somebody else will Ohh somebody else will Somebody else will if I don't",
+      "valence": 2.43,
+      "arousal": 3.48,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Girl somebody else will Ohh somebody else will Somebody else will if I don't Walk up and ask you your name right now",
+      "valence": 2.63,
+      "arousal": 3.44,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Ohh somebody else will Somebody else will if I don't Walk up and ask you your name right now Offer to buy you a drink",
+      "valence": 2.86,
+      "arousal": 3.45,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Somebody else will if I don't Walk up and ask you your name right now Offer to buy you a drink Sit down and tell you your looks could kill",
+      "valence": 2.47,
+      "arousal": 3.54,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Walk up and ask you your name right now Offer to buy you a drink Sit down and tell you your looks could kill Somebody else will if I don't",
+      "valence": 2.59,
+      "arousal": 3.56,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Offer to buy you a drink Sit down and tell you your looks could kill Somebody else will if I don't Take a chance on your lips",
+      "valence": 2.47,
+      "arousal": 3.53,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Sit down and tell you your looks could kill Somebody else will if I don't Take a chance on your lips Lean in slowly stealin' your kiss like this",
+      "valence": 2.74,
+      "arousal": 3.68,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Somebody else will if I don't Take a chance on your lips Lean in slowly stealin' your kiss like this Makin' your world stand still",
+      "valence": 3.08,
+      "arousal": 3.7,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Take a chance on your lips Lean in slowly stealin' your kiss like this Makin' your world stand still Somebody else will baby",
+      "valence": 3.48,
+      "arousal": 3.79,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Lean in slowly stealin' your kiss like this Makin' your world stand still Somebody else will baby Ohh somebody else will",
+      "valence": 3.3,
+      "arousal": 3.7,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Makin' your world stand still Somebody else will baby Ohh somebody else will Yeah somebody else will",
+      "valence": 2.82,
+      "arousal": 3.3,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Somebody else will baby Ohh somebody else will Yeah somebody else will Somebody else will",
+      "valence": 2.96,
+      "arousal": 3.12,
+      "dominance": 3.12
+    }
+  ]
+}

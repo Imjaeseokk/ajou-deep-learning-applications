@@ -1,0 +1,353 @@
+{
+  "artist": "Eric Church",
+  "overall_vad": {
+    "valence": 3.07,
+    "arousal": 3.34,
+    "dominance": 3.24
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Since you turned the tables on me I've been steady and learnin' lonely Keepin' this turntable spinnin' Everything from Jones to Jennings",
+      "valence": 2.93,
+      "arousal": 3.04,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I've been steady and learnin' lonely Keepin' this turntable spinnin' Everything from Jones to Jennings Slowly plannin' my survival",
+      "valence": 2.91,
+      "arousal": 2.88,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Keepin' this turntable spinnin' Everything from Jones to Jennings Slowly plannin' my survival In a three foot stack of vinyl",
+      "valence": 2.99,
+      "arousal": 2.99,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Everything from Jones to Jennings Slowly plannin' my survival In a three foot stack of vinyl Since you had to walk outta here",
+      "valence": 2.88,
+      "arousal": 3.14,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Slowly plannin' my survival In a three foot stack of vinyl Since you had to walk outta here I've been havin' a record year",
+      "valence": 3.07,
+      "arousal": 3.13,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "In a three foot stack of vinyl Since you had to walk outta here I've been havin' a record year I bet you thought before you left",
+      "valence": 3.05,
+      "arousal": 3.25,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Since you had to walk outta here I've been havin' a record year I bet you thought before you left I'd just sit in silence by myself",
+      "valence": 2.91,
+      "arousal": 3.27,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I've been havin' a record year I bet you thought before you left I'd just sit in silence by myself Turn this house into a jail",
+      "valence": 2.69,
+      "arousal": 3.28,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I bet you thought before you left I'd just sit in silence by myself Turn this house into a jail Dyin' slow in a livin' hell",
+      "valence": 2.43,
+      "arousal": 3.27,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I'd just sit in silence by myself Turn this house into a jail Dyin' slow in a livin' hell But love's got a funny way of keepin' score",
+      "valence": 2.66,
+      "arousal": 3.24,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Turn this house into a jail Dyin' slow in a livin' hell But love's got a funny way of keepin' score And your leavin' lit up my scoreboard",
+      "valence": 3.17,
+      "arousal": 3.54,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Dyin' slow in a livin' hell But love's got a funny way of keepin' score And your leavin' lit up my scoreboard I usually make it through side A sober",
+      "valence": 3.34,
+      "arousal": 3.42,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "But love's got a funny way of keepin' score And your leavin' lit up my scoreboard I usually make it through side A sober All bets are off when I flip her over",
+      "valence": 3.35,
+      "arousal": 3.44,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "And your leavin' lit up my scoreboard I usually make it through side A sober All bets are off when I flip her over One bourbon, one scotch, one beer",
+      "valence": 3.19,
+      "arousal": 3.21,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I usually make it through side A sober All bets are off when I flip her over One bourbon, one scotch, one beer I'm havin' a record year",
+      "valence": 3.15,
+      "arousal": 3.19,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "All bets are off when I flip her over One bourbon, one scotch, one beer I'm havin' a record year Quarter notes and Hank's half time",
+      "valence": 2.86,
+      "arousal": 3.3,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "One bourbon, one scotch, one beer I'm havin' a record year Quarter notes and Hank's half time Are poundin' on this heart of mine",
+      "valence": 3.18,
+      "arousal": 3.37,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I'm havin' a record year Quarter notes and Hank's half time Are poundin' on this heart of mine Song to song, I pass my time",
+      "valence": 3.41,
+      "arousal": 3.37,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Quarter notes and Hank's half time Are poundin' on this heart of mine Song to song, I pass my time With these speakers on ten",
+      "valence": 3.31,
+      "arousal": 3.28,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Are poundin' on this heart of mine Song to song, I pass my time With these speakers on ten Your good and gone keeps me up all night",
+      "valence": 3.52,
+      "arousal": 3.47,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Song to song, I pass my time With these speakers on ten Your good and gone keeps me up all night Along with Songs In The Key Of Life",
+      "valence": 3.53,
+      "arousal": 3.3,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "With these speakers on ten Your good and gone keeps me up all night Along with Songs In The Key Of Life I'm either gonna get over you",
+      "valence": 3.19,
+      "arousal": 3.34,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Your good and gone keeps me up all night Along with Songs In The Key Of Life I'm either gonna get over you Or I'm gonna blow out my ears",
+      "valence": 2.9,
+      "arousal": 3.45,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Along with Songs In The Key Of Life I'm either gonna get over you Or I'm gonna blow out my ears Yeah, you're out there now",
+      "valence": 2.71,
+      "arousal": 3.51,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I'm either gonna get over you Or I'm gonna blow out my ears Yeah, you're out there now Doin' God knows how, and I'm stuck here",
+      "valence": 2.35,
+      "arousal": 3.63,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Or I'm gonna blow out my ears Yeah, you're out there now Doin' God knows how, and I'm stuck here Havin' a record year",
+      "valence": 2.57,
+      "arousal": 3.68,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Yeah, you're out there now Doin' God knows how, and I'm stuck here Havin' a record year Your leavin' left me goin' crazy",
+      "valence": 2.53,
+      "arousal": 3.58,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Doin' God knows how, and I'm stuck here Havin' a record year Your leavin' left me goin' crazy I'm countin' on a needle to save me",
+      "valence": 2.4,
+      "arousal": 3.47,
+      "dominance": 2.74
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Havin' a record year Your leavin' left me goin' crazy I'm countin' on a needle to save me I drop it in the groove",
+      "valence": 3.06,
+      "arousal": 3.54,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Your leavin' left me goin' crazy I'm countin' on a needle to save me I drop it in the groove And we go 'round and 'round",
+      "valence": 2.81,
+      "arousal": 3.38,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I'm countin' on a needle to save me I drop it in the groove And we go 'round and 'round And down in a spiral",
+      "valence": 2.95,
+      "arousal": 3.24,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I drop it in the groove And we go 'round and 'round And down in a spiral I guess I really oughta call and thank you",
+      "valence": 3.37,
+      "arousal": 3.19,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "And we go 'round and 'round And down in a spiral I guess I really oughta call and thank you I rediscovered Red Headed Stranger",
+      "valence": 3.53,
+      "arousal": 3.29,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "And down in a spiral I guess I really oughta call and thank you I rediscovered Red Headed Stranger Got down with old James Brown",
+      "valence": 3.57,
+      "arousal": 3.26,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I guess I really oughta call and thank you I rediscovered Red Headed Stranger Got down with old James Brown And found New Grass Revival",
+      "valence": 3.71,
+      "arousal": 3.28,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I rediscovered Red Headed Stranger Got down with old James Brown And found New Grass Revival If you find your way back, I owe you a beer",
+      "valence": 3.51,
+      "arousal": 3.29,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Got down with old James Brown And found New Grass Revival If you find your way back, I owe you a beer For my record year",
+      "valence": 3.48,
+      "arousal": 3.3,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "And found New Grass Revival If you find your way back, I owe you a beer For my record year Quarter notes and Hank's half time",
+      "valence": 3.33,
+      "arousal": 3.24,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "If you find your way back, I owe you a beer For my record year Quarter notes and Hank's half time Are poundin' on this heart of mine",
+      "valence": 3.27,
+      "arousal": 3.36,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "For my record year Quarter notes and Hank's half time Are poundin' on this heart of mine Song to song, I pass my time",
+      "valence": 3.38,
+      "arousal": 3.23,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Quarter notes and Hank's half time Are poundin' on this heart of mine Song to song, I pass my time With these speakers on ten",
+      "valence": 3.31,
+      "arousal": 3.28,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Are poundin' on this heart of mine Song to song, I pass my time With these speakers on ten Your good and gone keeps me up all night",
+      "valence": 3.52,
+      "arousal": 3.47,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Song to song, I pass my time With these speakers on ten Your good and gone keeps me up all night Along with Songs In The Key Of Life",
+      "valence": 3.53,
+      "arousal": 3.3,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "With these speakers on ten Your good and gone keeps me up all night Along with Songs In The Key Of Life I'm either gonna get over you",
+      "valence": 3.19,
+      "arousal": 3.34,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Your good and gone keeps me up all night Along with Songs In The Key Of Life I'm either gonna get over you Or I'm gonna blow out my ears",
+      "valence": 2.9,
+      "arousal": 3.45,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Along with Songs In The Key Of Life I'm either gonna get over you Or I'm gonna blow out my ears Yeah, you're out there now",
+      "valence": 2.71,
+      "arousal": 3.51,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I'm either gonna get over you Or I'm gonna blow out my ears Yeah, you're out there now Doin' God knows how, but I'm stuck here",
+      "valence": 2.4,
+      "arousal": 3.6,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Or I'm gonna blow out my ears Yeah, you're out there now Doin' God knows how, but I'm stuck here Havin' a record year",
+      "valence": 2.59,
+      "arousal": 3.63,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Yeah, you're out there now Doin' God knows how, but I'm stuck here Havin' a record year Yeah, I'm havin' a record year",
+      "valence": 3.35,
+      "arousal": 3.58,
+      "dominance": 3.23
+    }
+  ]
+}

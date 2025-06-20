@@ -1,0 +1,598 @@
+{
+  "artist": "Justin Timberlake Featuring JAY Z",
+  "overall_vad": {
+    "valence": 3.22,
+    "arousal": 3.48,
+    "dominance": 3.36
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I be on my suit and tie shit, tie shit, tie I be on my suit and tie shit, tie shit Can I show you a few things? A few things, a few things, little baby 'cause",
+      "valence": 2.78,
+      "arousal": 3.45,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I be on my suit and tie shit, tie shit Can I show you a few things? A few things, a few things, little baby 'cause I be on my suit and tie shit, tie shit",
+      "valence": 2.77,
+      "arousal": 3.37,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Can I show you a few things? A few things, a few things, little baby 'cause I be on my suit and tie shit, tie shit I be on my suit and tie shit, tie shit",
+      "valence": 2.82,
+      "arousal": 3.4,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "A few things, a few things, little baby 'cause I be on my suit and tie shit, tie shit I be on my suit and tie shit, tie shit Let me show you a few things",
+      "valence": 2.74,
+      "arousal": 3.34,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I be on my suit and tie shit, tie shit I be on my suit and tie shit, tie shit Let me show you a few things Let me show you a few things",
+      "valence": 2.54,
+      "arousal": 3.47,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I be on my suit and tie shit, tie shit Let me show you a few things Let me show you a few things Wait a minute, you ready, JT?",
+      "valence": 2.83,
+      "arousal": 3.41,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Let me show you a few things Let me show you a few things Wait a minute, you ready, JT? I can't wait 'til I get you on the floor, good-looking",
+      "valence": 3.44,
+      "arousal": 3.71,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Let me show you a few things Wait a minute, you ready, JT? I can't wait 'til I get you on the floor, good-looking Going out so hot, just like an oven",
+      "valence": 3.39,
+      "arousal": 3.66,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Wait a minute, you ready, JT? I can't wait 'til I get you on the floor, good-looking Going out so hot, just like an oven And I'll burn myself, but just had to touch it",
+      "valence": 3.19,
+      "arousal": 3.75,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I can't wait 'til I get you on the floor, good-looking Going out so hot, just like an oven And I'll burn myself, but just had to touch it It's so fly and it's all mine",
+      "valence": 3.36,
+      "arousal": 3.87,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Going out so hot, just like an oven And I'll burn myself, but just had to touch it It's so fly and it's all mine Hey baby, we don't mind all the watching, hi",
+      "valence": 3.01,
+      "arousal": 3.47,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "And I'll burn myself, but just had to touch it It's so fly and it's all mine Hey baby, we don't mind all the watching, hi 'Cause if they study close, real close, they might learn something",
+      "valence": 2.99,
+      "arousal": 3.38,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "It's so fly and it's all mine Hey baby, we don't mind all the watching, hi 'Cause if they study close, real close, they might learn something She ain't nothing but a little doozy when she does it",
+      "valence": 3.26,
+      "arousal": 3.32,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Hey baby, we don't mind all the watching, hi 'Cause if they study close, real close, they might learn something She ain't nothing but a little doozy when she does it She's so fly (she's so fly) tonight",
+      "valence": 3.33,
+      "arousal": 3.45,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "'Cause if they study close, real close, they might learn something She ain't nothing but a little doozy when she does it She's so fly (she's so fly) tonight And as long as I've got my suit and tie",
+      "valence": 3.24,
+      "arousal": 3.34,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "She ain't nothing but a little doozy when she does it She's so fly (she's so fly) tonight And as long as I've got my suit and tie I'ma leave it all on the floor tonight",
+      "valence": 3.18,
+      "arousal": 3.43,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "She's so fly (she's so fly) tonight And as long as I've got my suit and tie I'ma leave it all on the floor tonight And you got fixed up to the nines",
+      "valence": 3.27,
+      "arousal": 3.5,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "And as long as I've got my suit and tie I'ma leave it all on the floor tonight And you got fixed up to the nines Let me show you a few things (show you a few things)",
+      "valence": 3.1,
+      "arousal": 3.17,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I'ma leave it all on the floor tonight And you got fixed up to the nines Let me show you a few things (show you a few things) All pressed up in black and white",
+      "valence": 3.03,
+      "arousal": 3.07,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "And you got fixed up to the nines Let me show you a few things (show you a few things) All pressed up in black and white And you're dressed in that dress I like",
+      "valence": 3.27,
+      "arousal": 3.31,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Let me show you a few things (show you a few things) All pressed up in black and white And you're dressed in that dress I like Love is swinging in the air tonight",
+      "valence": 3.28,
+      "arousal": 3.27,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "All pressed up in black and white And you're dressed in that dress I like Love is swinging in the air tonight Let me show you a few things (show you a few things)",
+      "valence": 3.39,
+      "arousal": 3.44,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "And you're dressed in that dress I like Love is swinging in the air tonight Let me show you a few things (show you a few things) Let me show you a few things",
+      "valence": 3.57,
+      "arousal": 3.43,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Love is swinging in the air tonight Let me show you a few things (show you a few things) Let me show you a few things Show you a few things, about love",
+      "valence": 3.78,
+      "arousal": 3.7,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Let me show you a few things (show you a few things) Let me show you a few things Show you a few things, about love While we're in the swing of love",
+      "valence": 3.6,
+      "arousal": 3.42,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Let me show you a few things Show you a few things, about love While we're in the swing of love Let me show you a few things",
+      "valence": 3.57,
+      "arousal": 3.46,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Show you a few things, about love While we're in the swing of love Let me show you a few things Show you a few things, about love, hey",
+      "valence": 3.66,
+      "arousal": 3.47,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "While we're in the swing of love Let me show you a few things Show you a few things, about love, hey Stop, let me get a good look at it",
+      "valence": 3.41,
+      "arousal": 3.58,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Let me show you a few things Show you a few things, about love, hey Stop, let me get a good look at it Ooh so thick, now I know why they call it a fatty",
+      "valence": 3.26,
+      "arousal": 3.57,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Show you a few things, about love, hey Stop, let me get a good look at it Ooh so thick, now I know why they call it a fatty And oh shit so sick got a hit and picked up a habit",
+      "valence": 2.9,
+      "arousal": 3.57,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Stop, let me get a good look at it Ooh so thick, now I know why they call it a fatty And oh shit so sick got a hit and picked up a habit That's alright, 'cause you're all mine",
+      "valence": 2.51,
+      "arousal": 3.51,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Ooh so thick, now I know why they call it a fatty And oh shit so sick got a hit and picked up a habit That's alright, 'cause you're all mine Ooh go on and show 'em who you call daddy",
+      "valence": 2.61,
+      "arousal": 3.56,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "And oh shit so sick got a hit and picked up a habit That's alright, 'cause you're all mine Ooh go on and show 'em who you call daddy I guess they're just mad 'cause girl, they wish they had it",
+      "valence": 2.31,
+      "arousal": 3.65,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "That's alright, 'cause you're all mine Ooh go on and show 'em who you call daddy I guess they're just mad 'cause girl, they wish they had it Ooh my killer, my \"Thriller\" yeah you're a classic",
+      "valence": 3.08,
+      "arousal": 3.8,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Ooh go on and show 'em who you call daddy I guess they're just mad 'cause girl, they wish they had it Ooh my killer, my \"Thriller\" yeah you're a classic And you're all mine tonight",
+      "valence": 3.19,
+      "arousal": 3.93,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I guess they're just mad 'cause girl, they wish they had it Ooh my killer, my \"Thriller\" yeah you're a classic And you're all mine tonight And as long as I've got my suit and tie",
+      "valence": 2.89,
+      "arousal": 3.9,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Ooh my killer, my \"Thriller\" yeah you're a classic And you're all mine tonight And as long as I've got my suit and tie I'ma leave it all on the floor tonight",
+      "valence": 3.83,
+      "arousal": 4.07,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "And you're all mine tonight And as long as I've got my suit and tie I'ma leave it all on the floor tonight And you got fixed up to the nines",
+      "valence": 3.18,
+      "arousal": 3.37,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "And as long as I've got my suit and tie I'ma leave it all on the floor tonight And you got fixed up to the nines Let me show you a few things (show you a few things)",
+      "valence": 3.1,
+      "arousal": 3.17,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "I'ma leave it all on the floor tonight And you got fixed up to the nines Let me show you a few things (show you a few things) All pressed up in black and white",
+      "valence": 3.03,
+      "arousal": 3.07,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "And you got fixed up to the nines Let me show you a few things (show you a few things) All pressed up in black and white And you're dressed in that dress I like",
+      "valence": 3.27,
+      "arousal": 3.31,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Let me show you a few things (show you a few things) All pressed up in black and white And you're dressed in that dress I like Love is swinging in the air tonight",
+      "valence": 3.28,
+      "arousal": 3.27,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "All pressed up in black and white And you're dressed in that dress I like Love is swinging in the air tonight Let me show you a few things (show you a few things)",
+      "valence": 3.39,
+      "arousal": 3.44,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "And you're dressed in that dress I like Love is swinging in the air tonight Let me show you a few things (show you a few things) Let me show you a few things",
+      "valence": 3.57,
+      "arousal": 3.43,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Love is swinging in the air tonight Let me show you a few things (show you a few things) Let me show you a few things Show you a few things, about love",
+      "valence": 3.78,
+      "arousal": 3.7,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Let me show you a few things (show you a few things) Let me show you a few things Show you a few things, about love While we're in the swing of love",
+      "valence": 3.6,
+      "arousal": 3.42,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Let me show you a few things Show you a few things, about love While we're in the swing of love Let me show you a few things",
+      "valence": 3.57,
+      "arousal": 3.46,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Show you a few things, about love While we're in the swing of love Let me show you a few things Show you a few things, about love, hey",
+      "valence": 3.66,
+      "arousal": 3.47,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "While we're in the swing of love Let me show you a few things Show you a few things, about love, hey Get out ya seat, Hov, uh",
+      "valence": 3.53,
+      "arousal": 3.72,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Let me show you a few things Show you a few things, about love, hey Get out ya seat, Hov, uh All black at the white shows",
+      "valence": 3.54,
+      "arousal": 3.64,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Show you a few things, about love, hey Get out ya seat, Hov, uh All black at the white shows White shoes at the black shows",
+      "valence": 3.49,
+      "arousal": 3.67,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Get out ya seat, Hov, uh All black at the white shows White shoes at the black shows Green card for the Cuban lynx",
+      "valence": 2.83,
+      "arousal": 3.33,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "All black at the white shows White shoes at the black shows Green card for the Cuban lynx Y'all sit back and enjoy the light show",
+      "valence": 3.42,
+      "arousal": 3.13,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "White shoes at the black shows Green card for the Cuban lynx Y'all sit back and enjoy the light show Nothing exceeds like excess",
+      "valence": 3.38,
+      "arousal": 3.36,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Green card for the Cuban lynx Y'all sit back and enjoy the light show Nothing exceeds like excess Stoute got gout from having the best of the best, is this what it's all about?",
+      "valence": 3.45,
+      "arousal": 3.44,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Y'all sit back and enjoy the light show Nothing exceeds like excess Stoute got gout from having the best of the best, is this what it's all about? I'm at the restaurant with my rent, disturbing the guests",
+      "valence": 3.25,
+      "arousal": 3.5,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Nothing exceeds like excess Stoute got gout from having the best of the best, is this what it's all about? I'm at the restaurant with my rent, disturbing the guests Years of distress, tears on the dress",
+      "valence": 2.66,
+      "arousal": 3.52,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Stoute got gout from having the best of the best, is this what it's all about? I'm at the restaurant with my rent, disturbing the guests Years of distress, tears on the dress Try to hide her face with some makeup sex, uh",
+      "valence": 2.5,
+      "arousal": 3.59,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "I'm at the restaurant with my rent, disturbing the guests Years of distress, tears on the dress Try to hide her face with some makeup sex, uh This is truffle season",
+      "valence": 2.33,
+      "arousal": 3.4,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Years of distress, tears on the dress Try to hide her face with some makeup sex, uh This is truffle season Tom Ford tuxedos for no reason",
+      "valence": 2.33,
+      "arousal": 3.39,
+      "dominance": 2.88
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Try to hide her face with some makeup sex, uh This is truffle season Tom Ford tuxedos for no reason All Saints for my angel",
+      "valence": 2.82,
+      "arousal": 3.37,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "This is truffle season Tom Ford tuxedos for no reason All Saints for my angel Alexander Wang too",
+      "valence": 3.02,
+      "arousal": 3.24,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Tom Ford tuxedos for no reason All Saints for my angel Alexander Wang too Ass-tight denim and some Dunks",
+      "valence": 2.94,
+      "arousal": 3.27,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "All Saints for my angel Alexander Wang too Ass-tight denim and some Dunks I'll show you how to do this young, uh!",
+      "valence": 3.33,
+      "arousal": 3.42,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Alexander Wang too Ass-tight denim and some Dunks I'll show you how to do this young, uh! No papers, catch vapors",
+      "valence": 3.03,
+      "arousal": 3.4,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Ass-tight denim and some Dunks I'll show you how to do this young, uh! No papers, catch vapors Get high, out Vegas",
+      "valence": 3.06,
+      "arousal": 3.49,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "I'll show you how to do this young, uh! No papers, catch vapors Get high, out Vegas D'usses on doubles, ain't looking for trouble",
+      "valence": 3.07,
+      "arousal": 3.41,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "No papers, catch vapors Get high, out Vegas D'usses on doubles, ain't looking for trouble You just got good genes so a nigga tryna cuff you",
+      "valence": 2.87,
+      "arousal": 3.22,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Get high, out Vegas D'usses on doubles, ain't looking for trouble You just got good genes so a nigga tryna cuff you Tell your mother that I love her 'cause I love you",
+      "valence": 3.56,
+      "arousal": 3.8,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "D'usses on doubles, ain't looking for trouble You just got good genes so a nigga tryna cuff you Tell your mother that I love her 'cause I love you Tell your father we go farther as a couple",
+      "valence": 3.55,
+      "arousal": 3.65,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "You just got good genes so a nigga tryna cuff you Tell your mother that I love her 'cause I love you Tell your father we go farther as a couple They ain't lose a daughter, got a son",
+      "valence": 3.91,
+      "arousal": 3.82,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Tell your mother that I love her 'cause I love you Tell your father we go farther as a couple They ain't lose a daughter, got a son I show you how to do this hun!",
+      "valence": 4.13,
+      "arousal": 4.15,
+      "dominance": 3.6
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Tell your father we go farther as a couple They ain't lose a daughter, got a son I show you how to do this hun! As long as I've got my suit and tie",
+      "valence": 3.11,
+      "arousal": 3.56,
+      "dominance": 3.69
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "They ain't lose a daughter, got a son I show you how to do this hun! As long as I've got my suit and tie I'ma leave it all on the floor tonight",
+      "valence": 3.09,
+      "arousal": 3.57,
+      "dominance": 3.67
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "I show you how to do this hun! As long as I've got my suit and tie I'ma leave it all on the floor tonight Baby got fixed up to the nines",
+      "valence": 3.23,
+      "arousal": 3.58,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "As long as I've got my suit and tie I'ma leave it all on the floor tonight Baby got fixed up to the nines Let me show you a few things (show you a few things)",
+      "valence": 3.08,
+      "arousal": 3.2,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "I'ma leave it all on the floor tonight Baby got fixed up to the nines Let me show you a few things (show you a few things) All pressed up in black and white",
+      "valence": 3.02,
+      "arousal": 3.1,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "Baby got fixed up to the nines Let me show you a few things (show you a few things) All pressed up in black and white And you're dressed in that dress I like",
+      "valence": 3.35,
+      "arousal": 3.32,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "Let me show you a few things (show you a few things) All pressed up in black and white And you're dressed in that dress I like Love is swinging in the air tonight",
+      "valence": 3.28,
+      "arousal": 3.27,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "All pressed up in black and white And you're dressed in that dress I like Love is swinging in the air tonight Let me show you a few things (show you a few things)",
+      "valence": 3.39,
+      "arousal": 3.44,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "And you're dressed in that dress I like Love is swinging in the air tonight Let me show you a few things (show you a few things) Let me show you a few things",
+      "valence": 3.57,
+      "arousal": 3.43,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "Love is swinging in the air tonight Let me show you a few things (show you a few things) Let me show you a few things Show you a few things, about love (love, love)",
+      "valence": 3.97,
+      "arousal": 3.91,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "Let me show you a few things (show you a few things) Let me show you a few things Show you a few things, about love (love, love) (Let, let) let me show you a few things",
+      "valence": 3.54,
+      "arousal": 3.42,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "Let me show you a few things Show you a few things, about love (love, love) (Let, let) let me show you a few things Show you a few things, about love, hey oh",
+      "valence": 3.64,
+      "arousal": 3.49,
+      "dominance": 3.22
+    }
+  ]
+}

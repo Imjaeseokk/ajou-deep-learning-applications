@@ -1,0 +1,654 @@
+{
+  "artist": "2 Chainz, Drake & Quavo",
+  "overall_vad": {
+    "valence": 2.77,
+    "arousal": 3.54,
+    "dominance": 3.48
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Yeah, VIP my squad (yeah), drop off all the gang (yeah) VIP the lane (skrrt), VIP the chain (squad) VIP my squad (yeah, squad), drop off all the gang (yeah) VIP the lane (skrrt, yeah), VIP the chain",
+      "valence": 3.23,
+      "arousal": 3.25,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "VIP the lane (skrrt), VIP the chain (squad) VIP my squad (yeah, squad), drop off all the gang (yeah) VIP the lane (skrrt, yeah), VIP the chain Uh, yeah, baller alert",
+      "valence": 3.25,
+      "arousal": 3.57,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "VIP my squad (yeah, squad), drop off all the gang (yeah) VIP the lane (skrrt, yeah), VIP the chain Uh, yeah, baller alert Lil' biddy bitch I don't call her alert (brrp)",
+      "valence": 2.84,
+      "arousal": 3.46,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "VIP the lane (skrrt, yeah), VIP the chain Uh, yeah, baller alert Lil' biddy bitch I don't call her alert (brrp) Uh, yeah, follow alert",
+      "valence": 2.75,
+      "arousal": 3.35,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Uh, yeah, baller alert Lil' biddy bitch I don't call her alert (brrp) Uh, yeah, follow alert Go get the fire when I'm callin' 'em merked",
+      "valence": 2.53,
+      "arousal": 3.42,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Lil' biddy bitch I don't call her alert (brrp) Uh, yeah, follow alert Go get the fire when I'm callin' 'em merked Uh, yeah, profit come first",
+      "valence": 2.58,
+      "arousal": 3.3,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Uh, yeah, follow alert Go get the fire when I'm callin' 'em merked Uh, yeah, profit come first I whip the baby, the baby gon' burp (whip it)",
+      "valence": 2.91,
+      "arousal": 3.44,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Go get the fire when I'm callin' 'em merked Uh, yeah, profit come first I whip the baby, the baby gon' burp (whip it) Uh, yeah, I bought a 'Claren (woo)",
+      "valence": 3.09,
+      "arousal": 3.49,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Uh, yeah, profit come first I whip the baby, the baby gon' burp (whip it) Uh, yeah, I bought a 'Claren (woo) I bought a 'Claren, didn't wanna buy verts, uh",
+      "valence": 2.88,
+      "arousal": 3.49,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I whip the baby, the baby gon' burp (whip it) Uh, yeah, I bought a 'Claren (woo) I bought a 'Claren, didn't wanna buy verts, uh This shit bigger than you (hey), I'm takin' on a new path (uh)",
+      "valence": 2.96,
+      "arousal": 3.59,
+      "dominance": 3.65
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Uh, yeah, I bought a 'Claren (woo) I bought a 'Claren, didn't wanna buy verts, uh This shit bigger than you (hey), I'm takin' on a new path (uh) Making them bricks take a bath (woo)",
+      "valence": 3.07,
+      "arousal": 3.6,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I bought a 'Claren, didn't wanna buy verts, uh This shit bigger than you (hey), I'm takin' on a new path (uh) Making them bricks take a bath (woo) Lil' biddy bitch, do the math (yeah)",
+      "valence": 2.73,
+      "arousal": 3.74,
+      "dominance": 3.78
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "This shit bigger than you (hey), I'm takin' on a new path (uh) Making them bricks take a bath (woo) Lil' biddy bitch, do the math (yeah) Lil' nigga, who are you? (Who you, yeah)",
+      "valence": 2.56,
+      "arousal": 3.79,
+      "dominance": 3.78
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Making them bricks take a bath (woo) Lil' biddy bitch, do the math (yeah) Lil' nigga, who are you? (Who you, yeah) Must be bulletproof (brrp)",
+      "valence": 2.79,
+      "arousal": 3.68,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Lil' biddy bitch, do the math (yeah) Lil' nigga, who are you? (Who you, yeah) Must be bulletproof (brrp) This shit bigger than you (it big)",
+      "valence": 2.68,
+      "arousal": 3.62,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Lil' nigga, who are you? (Who you, yeah) Must be bulletproof (brrp) This shit bigger than you (it big) This shit bigger than you",
+      "valence": 2.69,
+      "arousal": 3.57,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Must be bulletproof (brrp) This shit bigger than you (it big) This shit bigger than you Chain so big, should have came with a kick stand",
+      "valence": 2.72,
+      "arousal": 3.52,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "This shit bigger than you (it big) This shit bigger than you Chain so big, should have came with a kick stand Fuck with me, I got a retainer on a hit man (bop)",
+      "valence": 2.19,
+      "arousal": 3.98,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "This shit bigger than you Chain so big, should have came with a kick stand Fuck with me, I got a retainer on a hit man (bop) Barely came up out the mud like quicksand (barely)",
+      "valence": 2.27,
+      "arousal": 3.81,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Chain so big, should have came with a kick stand Fuck with me, I got a retainer on a hit man (bop) Barely came up out the mud like quicksand (barely) I show you how to get millions, nigga, that's a mil plan, now",
+      "valence": 2.5,
+      "arousal": 3.82,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Fuck with me, I got a retainer on a hit man (bop) Barely came up out the mud like quicksand (barely) I show you how to get millions, nigga, that's a mil plan, now Uh, yeah, ring the alarm, Cartier bracelets on all of my arms",
+      "valence": 2.36,
+      "arousal": 3.9,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Barely came up out the mud like quicksand (barely) I show you how to get millions, nigga, that's a mil plan, now Uh, yeah, ring the alarm, Cartier bracelets on all of my arms Uh, yeah, Halo my son, in the wheelchair, and I still perform (uh)",
+      "valence": 2.93,
+      "arousal": 3.37,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I show you how to get millions, nigga, that's a mil plan, now Uh, yeah, ring the alarm, Cartier bracelets on all of my arms Uh, yeah, Halo my son, in the wheelchair, and I still perform (uh) I don't make excuses, you know that I'm hungry, I still got the juice (uh)",
+      "valence": 2.89,
+      "arousal": 3.43,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Uh, yeah, ring the alarm, Cartier bracelets on all of my arms Uh, yeah, Halo my son, in the wheelchair, and I still perform (uh) I don't make excuses, you know that I'm hungry, I still got the juice (uh) You set it off like Cleo, I set it off like Boosie",
+      "valence": 2.89,
+      "arousal": 3.36,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Uh, yeah, Halo my son, in the wheelchair, and I still perform (uh) I don't make excuses, you know that I'm hungry, I still got the juice (uh) You set it off like Cleo, I set it off like Boosie Uh, yeah, baller alert (haan)",
+      "valence": 3.02,
+      "arousal": 3.43,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I don't make excuses, you know that I'm hungry, I still got the juice (uh) You set it off like Cleo, I set it off like Boosie Uh, yeah, baller alert (haan) Lil' biddy bitch I don't call her alert (brrp)",
+      "valence": 2.51,
+      "arousal": 3.52,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "You set it off like Cleo, I set it off like Boosie Uh, yeah, baller alert (haan) Lil' biddy bitch I don't call her alert (brrp) Uh, yeah, follow alert",
+      "valence": 2.58,
+      "arousal": 3.37,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Uh, yeah, baller alert (haan) Lil' biddy bitch I don't call her alert (brrp) Uh, yeah, follow alert Go get the fire when I'm callin' 'em merked",
+      "valence": 2.55,
+      "arousal": 3.41,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Lil' biddy bitch I don't call her alert (brrp) Uh, yeah, follow alert Go get the fire when I'm callin' 'em merked Uh, yeah, profit come first",
+      "valence": 2.58,
+      "arousal": 3.3,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Uh, yeah, follow alert Go get the fire when I'm callin' 'em merked Uh, yeah, profit come first I whip the baby, the baby gon' burp (whip it)",
+      "valence": 2.91,
+      "arousal": 3.44,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Go get the fire when I'm callin' 'em merked Uh, yeah, profit come first I whip the baby, the baby gon' burp (whip it) Uh, yeah, I bought a 'Claren (woo)",
+      "valence": 3.09,
+      "arousal": 3.49,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Uh, yeah, profit come first I whip the baby, the baby gon' burp (whip it) Uh, yeah, I bought a 'Claren (woo) I bought a 'Claren, didn't wanna buy verts, uh",
+      "valence": 2.88,
+      "arousal": 3.49,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "I whip the baby, the baby gon' burp (whip it) Uh, yeah, I bought a 'Claren (woo) I bought a 'Claren, didn't wanna buy verts, uh This shit bigger than you (hey)",
+      "valence": 2.79,
+      "arousal": 3.58,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Uh, yeah, I bought a 'Claren (woo) I bought a 'Claren, didn't wanna buy verts, uh This shit bigger than you (hey) I'm takin' on a new path (uh)",
+      "valence": 3.0,
+      "arousal": 3.53,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I bought a 'Claren, didn't wanna buy verts, uh This shit bigger than you (hey) I'm takin' on a new path (uh) Making them bricks take a bath (woo)",
+      "valence": 3.03,
+      "arousal": 3.59,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "This shit bigger than you (hey) I'm takin' on a new path (uh) Making them bricks take a bath (woo) Lil' biddy bitch, do the math (yeah)",
+      "valence": 2.44,
+      "arousal": 3.86,
+      "dominance": 3.79
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I'm takin' on a new path (uh) Making them bricks take a bath (woo) Lil' biddy bitch, do the math (yeah) Lil' nigga, who are you? (Who you?)",
+      "valence": 2.79,
+      "arousal": 3.73,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Making them bricks take a bath (woo) Lil' biddy bitch, do the math (yeah) Lil' nigga, who are you? (Who you?) Must be bulletproof (brrp) (bye)",
+      "valence": 2.69,
+      "arousal": 3.7,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Lil' biddy bitch, do the math (yeah) Lil' nigga, who are you? (Who you?) Must be bulletproof (brrp) (bye) This shit bigger than you (it big)",
+      "valence": 2.62,
+      "arousal": 3.65,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Lil' nigga, who are you? (Who you?) Must be bulletproof (brrp) (bye) This shit bigger than you (it big) This shit bigger than you",
+      "valence": 2.6,
+      "arousal": 3.6,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Must be bulletproof (brrp) (bye) This shit bigger than you (it big) This shit bigger than you Young champagne checkin' in, man, Tity Boi shit ringin' off",
+      "valence": 2.46,
+      "arousal": 3.63,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "This shit bigger than you (it big) This shit bigger than you Young champagne checkin' in, man, Tity Boi shit ringin' off 'Member I was on pre-paid, I would act like my shit was ringin' off",
+      "valence": 2.46,
+      "arousal": 3.67,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "This shit bigger than you Young champagne checkin' in, man, Tity Boi shit ringin' off 'Member I was on pre-paid, I would act like my shit was ringin' off 'Member shorty told me she thought the rap's good but the singing's off",
+      "valence": 2.55,
+      "arousal": 3.56,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Young champagne checkin' in, man, Tity Boi shit ringin' off 'Member I was on pre-paid, I would act like my shit was ringin' off 'Member shorty told me she thought the rap's good but the singing's off Watch on Young Dro now, man, boi-oing shit blingin' off",
+      "valence": 2.6,
+      "arousal": 3.52,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "'Member I was on pre-paid, I would act like my shit was ringin' off 'Member shorty told me she thought the rap's good but the singing's off Watch on Young Dro now, man, boi-oing shit blingin' off Where the racks at? (Racks)",
+      "valence": 2.73,
+      "arousal": 3.5,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "'Member shorty told me she thought the rap's good but the singing's off Watch on Young Dro now, man, boi-oing shit blingin' off Where the racks at? (Racks) All I know is they keep comin' to me like a flashback, nigga, what? (What?)",
+      "valence": 2.75,
+      "arousal": 3.46,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Watch on Young Dro now, man, boi-oing shit blingin' off Where the racks at? (Racks) All I know is they keep comin' to me like a flashback, nigga, what? (What?) Half a million out in Vegas, it ain't no blackjack, nigga, naw (naw)",
+      "valence": 2.67,
+      "arousal": 3.47,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Where the racks at? (Racks) All I know is they keep comin' to me like a flashback, nigga, what? (What?) Half a million out in Vegas, it ain't no blackjack, nigga, naw (naw) Quavo Sinatra, but we could never be the Rat Pack, nigga, naw",
+      "valence": 2.78,
+      "arousal": 3.31,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "All I know is they keep comin' to me like a flashback, nigga, what? (What?) Half a million out in Vegas, it ain't no blackjack, nigga, naw (naw) Quavo Sinatra, but we could never be the Rat Pack, nigga, naw Uh, yeah, baller alert",
+      "valence": 2.72,
+      "arousal": 3.4,
+      "dominance": 2.9
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Half a million out in Vegas, it ain't no blackjack, nigga, naw (naw) Quavo Sinatra, but we could never be the Rat Pack, nigga, naw Uh, yeah, baller alert Lil' biddy bitch I don't call her alert (brrp)",
+      "valence": 2.48,
+      "arousal": 3.29,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Quavo Sinatra, but we could never be the Rat Pack, nigga, naw Uh, yeah, baller alert Lil' biddy bitch I don't call her alert (brrp) Uh, yeah, follow alert",
+      "valence": 2.55,
+      "arousal": 3.26,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Uh, yeah, baller alert Lil' biddy bitch I don't call her alert (brrp) Uh, yeah, follow alert Go get the fire when I'm callin' 'em merked",
+      "valence": 2.53,
+      "arousal": 3.42,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Lil' biddy bitch I don't call her alert (brrp) Uh, yeah, follow alert Go get the fire when I'm callin' 'em merked Uh, yeah, profit come first",
+      "valence": 2.58,
+      "arousal": 3.3,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Uh, yeah, follow alert Go get the fire when I'm callin' 'em merked Uh, yeah, profit come first I whip the baby, the baby gon' burp (whip it)",
+      "valence": 2.91,
+      "arousal": 3.44,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Go get the fire when I'm callin' 'em merked Uh, yeah, profit come first I whip the baby, the baby gon' burp (whip it) Uh, yeah, I bought a 'Claren (woo)",
+      "valence": 3.09,
+      "arousal": 3.49,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Uh, yeah, profit come first I whip the baby, the baby gon' burp (whip it) Uh, yeah, I bought a 'Claren (woo) I bought a 'Claren, didn't wanna buy verts, uh",
+      "valence": 2.88,
+      "arousal": 3.49,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "I whip the baby, the baby gon' burp (whip it) Uh, yeah, I bought a 'Claren (woo) I bought a 'Claren, didn't wanna buy verts, uh This shit bigger than you (hey)",
+      "valence": 2.79,
+      "arousal": 3.58,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Uh, yeah, I bought a 'Claren (woo) I bought a 'Claren, didn't wanna buy verts, uh This shit bigger than you (hey) I'm takin' on a new path (uh)",
+      "valence": 3.0,
+      "arousal": 3.53,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "I bought a 'Claren, didn't wanna buy verts, uh This shit bigger than you (hey) I'm takin' on a new path (uh) Making them bricks take a bath (woo)",
+      "valence": 3.03,
+      "arousal": 3.59,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "This shit bigger than you (hey) I'm takin' on a new path (uh) Making them bricks take a bath (woo) Lil' biddy bitch, do the math (yeah)",
+      "valence": 2.44,
+      "arousal": 3.86,
+      "dominance": 3.79
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "I'm takin' on a new path (uh) Making them bricks take a bath (woo) Lil' biddy bitch, do the math (yeah) Lil' nigga, who are you? (Who you?)",
+      "valence": 2.79,
+      "arousal": 3.73,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Making them bricks take a bath (woo) Lil' biddy bitch, do the math (yeah) Lil' nigga, who are you? (Who you?) Must be bulletproof (brrp) (bye)",
+      "valence": 2.69,
+      "arousal": 3.7,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Lil' biddy bitch, do the math (yeah) Lil' nigga, who are you? (Who you?) Must be bulletproof (brrp) (bye) This shit bigger than you (it big)",
+      "valence": 2.62,
+      "arousal": 3.65,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "Lil' nigga, who are you? (Who you?) Must be bulletproof (brrp) (bye) This shit bigger than you (it big) This shit bigger than you",
+      "valence": 2.6,
+      "arousal": 3.6,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Must be bulletproof (brrp) (bye) This shit bigger than you (it big) This shit bigger than you Touchscreen on my cars, vintage one to two",
+      "valence": 2.52,
+      "arousal": 3.64,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "This shit bigger than you (it big) This shit bigger than you Touchscreen on my cars, vintage one to two I just bought a watch that's plain like a Dickie suit (plain)",
+      "valence": 2.58,
+      "arousal": 3.61,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "This shit bigger than you Touchscreen on my cars, vintage one to two I just bought a watch that's plain like a Dickie suit (plain) I sip some red wine, and chased it with the '42",
+      "valence": 3.05,
+      "arousal": 3.29,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "Touchscreen on my cars, vintage one to two I just bought a watch that's plain like a Dickie suit (plain) I sip some red wine, and chased it with the '42 They asked me what I call millions, comin' soon",
+      "valence": 3.28,
+      "arousal": 3.19,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "I just bought a watch that's plain like a Dickie suit (plain) I sip some red wine, and chased it with the '42 They asked me what I call millions, comin' soon Yeah (yeah), I just cashed out (uh)",
+      "valence": 3.35,
+      "arousal": 3.41,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "I sip some red wine, and chased it with the '42 They asked me what I call millions, comin' soon Yeah (yeah), I just cashed out (uh) Ain't got time for a beef, I'm a cash cow (tell 'em)",
+      "valence": 3.33,
+      "arousal": 3.5,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "They asked me what I call millions, comin' soon Yeah (yeah), I just cashed out (uh) Ain't got time for a beef, I'm a cash cow (tell 'em) When I was a juvie, I made 'em back out (back that ass up)",
+      "valence": 3.2,
+      "arousal": 3.48,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Yeah (yeah), I just cashed out (uh) Ain't got time for a beef, I'm a cash cow (tell 'em) When I was a juvie, I made 'em back out (back that ass up) It was four-hundred degrees, you would have passed out (ooh)",
+      "valence": 3.04,
+      "arousal": 3.48,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "Ain't got time for a beef, I'm a cash cow (tell 'em) When I was a juvie, I made 'em back out (back that ass up) It was four-hundred degrees, you would have passed out (ooh) Uh, yeah, baller alert",
+      "valence": 2.95,
+      "arousal": 3.54,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "When I was a juvie, I made 'em back out (back that ass up) It was four-hundred degrees, you would have passed out (ooh) Uh, yeah, baller alert Lil' biddy bitch I don't call her alert (brrp)",
+      "valence": 2.59,
+      "arousal": 3.53,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "It was four-hundred degrees, you would have passed out (ooh) Uh, yeah, baller alert Lil' biddy bitch I don't call her alert (brrp) Uh, yeah, follow alert",
+      "valence": 2.52,
+      "arousal": 3.55,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "Uh, yeah, baller alert Lil' biddy bitch I don't call her alert (brrp) Uh, yeah, follow alert Go get the fire when I'm callin' 'em merked",
+      "valence": 2.53,
+      "arousal": 3.42,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "Lil' biddy bitch I don't call her alert (brrp) Uh, yeah, follow alert Go get the fire when I'm callin' 'em merked Uh, yeah, profit come first",
+      "valence": 2.58,
+      "arousal": 3.3,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "Uh, yeah, follow alert Go get the fire when I'm callin' 'em merked Uh, yeah, profit come first I whip the baby, the baby gon' burp (whip it)",
+      "valence": 2.91,
+      "arousal": 3.44,
+      "dominance": 3.61
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "Go get the fire when I'm callin' 'em merked Uh, yeah, profit come first I whip the baby, the baby gon' burp (whip it) Uh, yeah, I bought a 'Claren (woo)",
+      "valence": 3.09,
+      "arousal": 3.49,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "Uh, yeah, profit come first I whip the baby, the baby gon' burp (whip it) Uh, yeah, I bought a 'Claren (woo) I bought a 'Claren, didn't wanna buy verts, uh",
+      "valence": 2.88,
+      "arousal": 3.49,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "I whip the baby, the baby gon' burp (whip it) Uh, yeah, I bought a 'Claren (woo) I bought a 'Claren, didn't wanna buy verts, uh This shit bigger than you (hey)",
+      "valence": 2.79,
+      "arousal": 3.58,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "Uh, yeah, I bought a 'Claren (woo) I bought a 'Claren, didn't wanna buy verts, uh This shit bigger than you (hey) I'm takin' on a new path (uh)",
+      "valence": 3.0,
+      "arousal": 3.53,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "I bought a 'Claren, didn't wanna buy verts, uh This shit bigger than you (hey) I'm takin' on a new path (uh) Making them bricks take a bath (woo)",
+      "valence": 3.03,
+      "arousal": 3.59,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "This shit bigger than you (hey) I'm takin' on a new path (uh) Making them bricks take a bath (woo) Lil' biddy bitch, do the math (yeah)",
+      "valence": 2.44,
+      "arousal": 3.86,
+      "dominance": 3.79
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "I'm takin' on a new path (uh) Making them bricks take a bath (woo) Lil' biddy bitch, do the math (yeah) Lil' nigga, who are you? (Who you?)",
+      "valence": 2.79,
+      "arousal": 3.73,
+      "dominance": 3.72
+    },
+    {
+      "chunk_id": 86,
+      "lyrics_text": "Making them bricks take a bath (woo) Lil' biddy bitch, do the math (yeah) Lil' nigga, who are you? (Who you?) Must be bulletproof (brrp) (bye)",
+      "valence": 2.69,
+      "arousal": 3.7,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 87,
+      "lyrics_text": "Lil' biddy bitch, do the math (yeah) Lil' nigga, who are you? (Who you?) Must be bulletproof (brrp) (bye) This shit bigger than you (it big)",
+      "valence": 2.62,
+      "arousal": 3.65,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 88,
+      "lyrics_text": "Lil' nigga, who are you? (Who you?) Must be bulletproof (brrp) (bye) This shit bigger than you (it big) This shit bigger than you",
+      "valence": 2.6,
+      "arousal": 3.6,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 89,
+      "lyrics_text": "Must be bulletproof (brrp) (bye) This shit bigger than you (it big) This shit bigger than you VIP my squad (yeah), drop off all the gang (yeah)",
+      "valence": 2.47,
+      "arousal": 3.61,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 90,
+      "lyrics_text": "This shit bigger than you (it big) This shit bigger than you VIP my squad (yeah), drop off all the gang (yeah) VIP the lane (skrrt), VIP the chain (squad)",
+      "valence": 2.71,
+      "arousal": 3.69,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 91,
+      "lyrics_text": "This shit bigger than you VIP my squad (yeah), drop off all the gang (yeah) VIP the lane (skrrt), VIP the chain (squad) VIP my squad (yeah), drop off all the gang (yeah)",
+      "valence": 2.99,
+      "arousal": 3.62,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 92,
+      "lyrics_text": "VIP my squad (yeah), drop off all the gang (yeah) VIP the lane (skrrt), VIP the chain (squad) VIP my squad (yeah), drop off all the gang (yeah) VIP the lane (skrrt), VIP the chain",
+      "valence": 3.2,
+      "arousal": 3.2,
+      "dominance": 3.38
+    }
+  ]
+}

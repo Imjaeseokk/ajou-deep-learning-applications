@@ -1,0 +1,269 @@
+{
+  "artist": "Billy Currington",
+  "overall_vad": {
+    "valence": 3.31,
+    "arousal": 3.52,
+    "dominance": 3.28
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Ooh Summer comin' through a rolled down window Tearin' down an almost two lane back road Freedom and fireflies in the air",
+      "valence": 3.26,
+      "arousal": 3.27,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Summer comin' through a rolled down window Tearin' down an almost two lane back road Freedom and fireflies in the air The night's still young, never gonna get old",
+      "valence": 3.17,
+      "arousal": 3.07,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Tearin' down an almost two lane back road Freedom and fireflies in the air The night's still young, never gonna get old Livin' for today like there's no tomorrow",
+      "valence": 3.29,
+      "arousal": 3.29,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Freedom and fireflies in the air The night's still young, never gonna get old Livin' for today like there's no tomorrow Follow the grooves, the tires in the grass",
+      "valence": 3.39,
+      "arousal": 3.28,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "The night's still young, never gonna get old Livin' for today like there's no tomorrow Follow the grooves, the tires in the grass Stayin' on the gas like we're never comin' back",
+      "valence": 2.97,
+      "arousal": 3.23,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Livin' for today like there's no tomorrow Follow the grooves, the tires in the grass Stayin' on the gas like we're never comin' back It's a Friday night, it's a small town girl",
+      "valence": 2.97,
+      "arousal": 3.05,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Follow the grooves, the tires in the grass Stayin' on the gas like we're never comin' back It's a Friday night, it's a small town girl Everything is right and we rule the world",
+      "valence": 3.21,
+      "arousal": 3.35,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Stayin' on the gas like we're never comin' back It's a Friday night, it's a small town girl Everything is right and we rule the world 2 twelve's in the truck back, beating",
+      "valence": 3.02,
+      "arousal": 3.56,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "It's a Friday night, it's a small town girl Everything is right and we rule the world 2 twelve's in the truck back, beating A bunch of rock stars on a riverbank singing,",
+      "valence": 3.25,
+      "arousal": 3.58,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Everything is right and we rule the world 2 twelve's in the truck back, beating A bunch of rock stars on a riverbank singing, Whoa, whoa, everything, whoa, whoa, everything we wanna be",
+      "valence": 3.26,
+      "arousal": 3.75,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "2 twelve's in the truck back, beating A bunch of rock stars on a riverbank singing, Whoa, whoa, everything, whoa, whoa, everything we wanna be We are, we are, we are tonight",
+      "valence": 3.3,
+      "arousal": 3.7,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "A bunch of rock stars on a riverbank singing, Whoa, whoa, everything, whoa, whoa, everything we wanna be We are, we are, we are tonight Swayin' back-n-forth, can't you feel the music?",
+      "valence": 3.52,
+      "arousal": 3.68,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Whoa, whoa, everything, whoa, whoa, everything we wanna be We are, we are, we are tonight Swayin' back-n-forth, can't you feel the music? Time stands still, I don't wanna lose it",
+      "valence": 3.34,
+      "arousal": 3.61,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "We are, we are, we are tonight Swayin' back-n-forth, can't you feel the music? Time stands still, I don't wanna lose it Her tan, her touch, her laugh",
+      "valence": 3.46,
+      "arousal": 3.5,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Swayin' back-n-forth, can't you feel the music? Time stands still, I don't wanna lose it Her tan, her touch, her laugh Were flyin' so high like we're never gonna crash",
+      "valence": 3.16,
+      "arousal": 3.4,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Time stands still, I don't wanna lose it Her tan, her touch, her laugh Were flyin' so high like we're never gonna crash It's a Friday night, it's a small town girl",
+      "valence": 3.11,
+      "arousal": 3.45,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Her tan, her touch, her laugh Were flyin' so high like we're never gonna crash It's a Friday night, it's a small town girl Everything is right and we rule the world",
+      "valence": 3.69,
+      "arousal": 3.64,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Were flyin' so high like we're never gonna crash It's a Friday night, it's a small town girl Everything is right and we rule the world 2 twelve's in the truck back beating",
+      "valence": 3.0,
+      "arousal": 3.58,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "It's a Friday night, it's a small town girl Everything is right and we rule the world 2 twelve's in the truck back beating A bunch of rock stars on a riverbank singing,",
+      "valence": 3.3,
+      "arousal": 3.5,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Everything is right and we rule the world 2 twelve's in the truck back beating A bunch of rock stars on a riverbank singing, Whoa, whoa, everything, whoa, whoa, everything we wanna be",
+      "valence": 3.36,
+      "arousal": 3.71,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "2 twelve's in the truck back beating A bunch of rock stars on a riverbank singing, Whoa, whoa, everything, whoa, whoa, everything we wanna be We are, we are, we are tonight",
+      "valence": 3.41,
+      "arousal": 3.66,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "A bunch of rock stars on a riverbank singing, Whoa, whoa, everything, whoa, whoa, everything we wanna be We are, we are, we are tonight We are tonight, we are tonight",
+      "valence": 3.45,
+      "arousal": 3.68,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Whoa, whoa, everything, whoa, whoa, everything we wanna be We are, we are, we are tonight We are tonight, we are tonight Toes in the grass with our hands up high",
+      "valence": 3.32,
+      "arousal": 3.71,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "We are, we are, we are tonight We are tonight, we are tonight Toes in the grass with our hands up high Dream as big as a midnight sky",
+      "valence": 3.2,
+      "arousal": 3.52,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "We are tonight, we are tonight Toes in the grass with our hands up high Dream as big as a midnight sky So untamed and we're so alive tonight",
+      "valence": 3.68,
+      "arousal": 3.62,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Toes in the grass with our hands up high Dream as big as a midnight sky So untamed and we're so alive tonight It's a Friday night, it's a small town girl",
+      "valence": 3.44,
+      "arousal": 3.57,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Dream as big as a midnight sky So untamed and we're so alive tonight It's a Friday night, it's a small town girl Everything is right and we rule the world",
+      "valence": 3.67,
+      "arousal": 3.56,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "So untamed and we're so alive tonight It's a Friday night, it's a small town girl Everything is right and we rule the world 2 twelve's in the truck back, beating",
+      "valence": 3.27,
+      "arousal": 3.67,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "It's a Friday night, it's a small town girl Everything is right and we rule the world 2 twelve's in the truck back, beating Bunch of rock stars on a riverbank singing,",
+      "valence": 3.37,
+      "arousal": 3.55,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Everything is right and we rule the world 2 twelve's in the truck back, beating Bunch of rock stars on a riverbank singing, whoa, whoa, everything, whoa, whoa everything we wanna be",
+      "valence": 3.32,
+      "arousal": 3.7,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "2 twelve's in the truck back, beating Bunch of rock stars on a riverbank singing, whoa, whoa, everything, whoa, whoa everything we wanna be We are, we are, we are tonight",
+      "valence": 3.36,
+      "arousal": 3.69,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Bunch of rock stars on a riverbank singing, whoa, whoa, everything, whoa, whoa everything we wanna be We are, we are, we are tonight We are tonight",
+      "valence": 3.46,
+      "arousal": 3.63,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "whoa, whoa, everything, whoa, whoa everything we wanna be We are, we are, we are tonight We are tonight Everything we wanna be,",
+      "valence": 3.35,
+      "arousal": 3.48,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "We are, we are, we are tonight We are tonight Everything we wanna be, Yeah we are, we are, we are tonight",
+      "valence": 3.35,
+      "arousal": 3.55,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "We are tonight Everything we wanna be, Yeah we are, we are, we are tonight Yeah",
+      "valence": 3.35,
+      "arousal": 3.48,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Everything we wanna be, Yeah we are, we are, we are tonight Yeah We are tonight",
+      "valence": 3.25,
+      "arousal": 3.47,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Yeah we are, we are, we are tonight Yeah We are tonight Whoa, oh, oh, oh, oh",
+      "valence": 3.15,
+      "arousal": 3.59,
+      "dominance": 3.08
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "artist": "Shakira",
+  "overall_vad": {
+    "valence": 2.89,
+    "arousal": 3.35,
+    "dominance": 3.24
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Oh, oh, oh, oh, oh Oh, oh, oh, oh, oh Oh, oh, oh, oh, oh Oh, oh, oh, oh, oh",
+      "valence": 2.69,
+      "arousal": 3.12,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Oh, oh, oh, oh, oh Oh, oh, oh, oh, oh Oh, oh, oh, oh, oh I messed up tonight",
+      "valence": 2.19,
+      "arousal": 3.43,
+      "dominance": 2.8
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Oh, oh, oh, oh, oh Oh, oh, oh, oh, oh I messed up tonight I lost another fight",
+      "valence": 2.14,
+      "arousal": 3.51,
+      "dominance": 2.62
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Oh, oh, oh, oh, oh I messed up tonight I lost another fight Lost to myself, but I'll just start again",
+      "valence": 2.25,
+      "arousal": 3.41,
+      "dominance": 2.83
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I messed up tonight I lost another fight Lost to myself, but I'll just start again I keep falling down",
+      "valence": 2.18,
+      "arousal": 3.27,
+      "dominance": 2.63
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I lost another fight Lost to myself, but I'll just start again I keep falling down I keep on hitting the ground",
+      "valence": 2.37,
+      "arousal": 3.25,
+      "dominance": 2.65
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Lost to myself, but I'll just start again I keep falling down I keep on hitting the ground But I always get up now to see what's next",
+      "valence": 2.66,
+      "arousal": 3.22,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I keep falling down I keep on hitting the ground But I always get up now to see what's next Birds don't just fly",
+      "valence": 2.87,
+      "arousal": 3.29,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I keep on hitting the ground But I always get up now to see what's next Birds don't just fly They fall down and get up",
+      "valence": 2.96,
+      "arousal": 3.19,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "But I always get up now to see what's next Birds don't just fly They fall down and get up Nobody learns without getting it wrong",
+      "valence": 2.88,
+      "arousal": 3.13,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Birds don't just fly They fall down and get up Nobody learns without getting it wrong I won't give up",
+      "valence": 2.72,
+      "arousal": 3.12,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "They fall down and get up Nobody learns without getting it wrong I won't give up No, I won't give in till I reach the end",
+      "valence": 2.75,
+      "arousal": 3.21,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Nobody learns without getting it wrong I won't give up No, I won't give in till I reach the end And then I'll start again",
+      "valence": 2.9,
+      "arousal": 3.22,
+      "dominance": 3.58
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "I won't give up No, I won't give in till I reach the end And then I'll start again No, I won't leave",
+      "valence": 2.91,
+      "arousal": 3.33,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "No, I won't give in till I reach the end And then I'll start again No, I won't leave I want to try everything",
+      "valence": 2.79,
+      "arousal": 3.41,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "And then I'll start again No, I won't leave I want to try everything I want to try even though I could fail",
+      "valence": 2.87,
+      "arousal": 3.25,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "No, I won't leave I want to try everything I want to try even though I could fail I won't give up",
+      "valence": 2.93,
+      "arousal": 3.48,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I want to try everything I want to try even though I could fail I won't give up No, I won't give in till I reach the end",
+      "valence": 2.93,
+      "arousal": 3.47,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I want to try even though I could fail I won't give up No, I won't give in till I reach the end Then I'll start again",
+      "valence": 2.94,
+      "arousal": 3.29,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I won't give up No, I won't give in till I reach the end Then I'll start again No, I won't leave",
+      "valence": 2.91,
+      "arousal": 3.33,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "No, I won't give in till I reach the end Then I'll start again No, I won't leave I want to try everything",
+      "valence": 2.79,
+      "arousal": 3.43,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Then I'll start again No, I won't leave I want to try everything I want to try even though I could fail",
+      "valence": 2.91,
+      "arousal": 3.29,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "No, I won't leave I want to try everything I want to try even though I could fail Oh, oh, oh, oh, oh",
+      "valence": 2.65,
+      "arousal": 3.59,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I want to try everything I want to try even though I could fail Oh, oh, oh, oh, oh Try everything",
+      "valence": 2.9,
+      "arousal": 3.54,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "I want to try even though I could fail Oh, oh, oh, oh, oh Try everything Oh, oh, oh, oh, oh",
+      "valence": 2.8,
+      "arousal": 3.43,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Oh, oh, oh, oh, oh Try everything Oh, oh, oh, oh, oh Try everything",
+      "valence": 2.86,
+      "arousal": 3.45,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Try everything Oh, oh, oh, oh, oh Try everything Oh, oh, oh, oh, oh",
+      "valence": 2.86,
+      "arousal": 3.31,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Oh, oh, oh, oh, oh Try everything Oh, oh, oh, oh, oh Try everything",
+      "valence": 2.86,
+      "arousal": 3.45,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Try everything Oh, oh, oh, oh, oh Try everything Oh, oh, oh, oh, oh",
+      "valence": 2.86,
+      "arousal": 3.31,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Oh, oh, oh, oh, oh Try everything Oh, oh, oh, oh, oh Look how far you've come",
+      "valence": 2.97,
+      "arousal": 3.32,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Try everything Oh, oh, oh, oh, oh Look how far you've come You filled your heart with love",
+      "valence": 4.02,
+      "arousal": 3.96,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Oh, oh, oh, oh, oh Look how far you've come You filled your heart with love Baby, you've done enough",
+      "valence": 4.05,
+      "arousal": 3.88,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Look how far you've come You filled your heart with love Baby, you've done enough Take a deep breath",
+      "valence": 4.21,
+      "arousal": 3.82,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "You filled your heart with love Baby, you've done enough Take a deep breath Don't beat yourself up",
+      "valence": 3.59,
+      "arousal": 3.59,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Baby, you've done enough Take a deep breath Don't beat yourself up No need to run so fast",
+      "valence": 3.0,
+      "arousal": 3.24,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Take a deep breath Don't beat yourself up No need to run so fast Sometimes we come last, but we did our best",
+      "valence": 3.2,
+      "arousal": 3.15,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Don't beat yourself up No need to run so fast Sometimes we come last, but we did our best I won't give up",
+      "valence": 3.11,
+      "arousal": 3.26,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "No need to run so fast Sometimes we come last, but we did our best I won't give up No, I won't give in till I reach the end",
+      "valence": 3.16,
+      "arousal": 3.25,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Sometimes we come last, but we did our best I won't give up No, I won't give in till I reach the end And then I'll start again",
+      "valence": 3.06,
+      "arousal": 3.28,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "I won't give up No, I won't give in till I reach the end And then I'll start again No, I won't leave",
+      "valence": 2.91,
+      "arousal": 3.33,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "No, I won't give in till I reach the end And then I'll start again No, I won't leave I want to try everything",
+      "valence": 2.79,
+      "arousal": 3.41,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "And then I'll start again No, I won't leave I want to try everything I want to try even though I could fail",
+      "valence": 2.87,
+      "arousal": 3.25,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "No, I won't leave I want to try everything I want to try even though I could fail I won't give up",
+      "valence": 2.93,
+      "arousal": 3.48,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "I want to try everything I want to try even though I could fail I won't give up No, I won't give in till I reach the end",
+      "valence": 2.93,
+      "arousal": 3.47,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I want to try even though I could fail I won't give up No, I won't give in till I reach the end Then I'll start again",
+      "valence": 2.94,
+      "arousal": 3.29,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I won't give up No, I won't give in till I reach the end Then I'll start again No, I won't leave",
+      "valence": 2.91,
+      "arousal": 3.33,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "No, I won't give in till I reach the end Then I'll start again No, I won't leave I want to try everything",
+      "valence": 2.79,
+      "arousal": 3.43,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Then I'll start again No, I won't leave I want to try everything I want to try even though I could fail",
+      "valence": 2.91,
+      "arousal": 3.29,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "No, I won't leave I want to try everything I want to try even though I could fail I'll keep on making those new mistakes",
+      "valence": 2.74,
+      "arousal": 3.27,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I want to try everything I want to try even though I could fail I'll keep on making those new mistakes I'll keep on making them every day",
+      "valence": 3.02,
+      "arousal": 3.26,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I want to try even though I could fail I'll keep on making those new mistakes I'll keep on making them every day Those new mistakes",
+      "valence": 2.9,
+      "arousal": 3.09,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "I'll keep on making those new mistakes I'll keep on making them every day Those new mistakes Oh, oh, oh, oh, oh",
+      "valence": 2.56,
+      "arousal": 3.11,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "I'll keep on making them every day Those new mistakes Oh, oh, oh, oh, oh Try everything",
+      "valence": 2.71,
+      "arousal": 3.11,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Those new mistakes Oh, oh, oh, oh, oh Try everything Oh, oh, oh, oh, oh",
+      "valence": 2.51,
+      "arousal": 3.25,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Oh, oh, oh, oh, oh Try everything Oh, oh, oh, oh, oh Try everything",
+      "valence": 2.86,
+      "arousal": 3.45,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Try everything Oh, oh, oh, oh, oh Try everything Oh, oh, oh, oh, oh",
+      "valence": 2.86,
+      "arousal": 3.31,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Oh, oh, oh, oh, oh Try everything Oh, oh, oh, oh, oh Try everything",
+      "valence": 2.86,
+      "arousal": 3.45,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Try everything Oh, oh, oh, oh, oh Try everything Oh, oh, oh, oh, oh",
+      "valence": 2.86,
+      "arousal": 3.31,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Oh, oh, oh, oh, oh Try everything Oh, oh, oh, oh, oh Try everything",
+      "valence": 2.86,
+      "arousal": 3.45,
+      "dominance": 3.33
+    }
+  ]
+}

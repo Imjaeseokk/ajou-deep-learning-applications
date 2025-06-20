@@ -1,0 +1,437 @@
+{
+  "artist": "Ariana Grande",
+  "overall_vad": {
+    "valence": 3.3,
+    "arousal": 3.6,
+    "dominance": 3.39
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Right now, I'm in a state of mind I wanna be in like all the time Ain't got no tears left to cry So I'm pickin' it up, pickin' it up",
+      "valence": 2.7,
+      "arousal": 3.45,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I wanna be in like all the time Ain't got no tears left to cry So I'm pickin' it up, pickin' it up I'm lovin', I'm livin', I'm pickin' it up",
+      "valence": 3.45,
+      "arousal": 3.72,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Ain't got no tears left to cry So I'm pickin' it up, pickin' it up I'm lovin', I'm livin', I'm pickin' it up I'm pickin' it up, pickin' it up",
+      "valence": 3.59,
+      "arousal": 3.65,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "So I'm pickin' it up, pickin' it up I'm lovin', I'm livin', I'm pickin' it up I'm pickin' it up, pickin' it up I'm lovin', I'm livin', I'm pickin' it up (Oh, yeah)",
+      "valence": 3.83,
+      "arousal": 3.55,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "I'm lovin', I'm livin', I'm pickin' it up I'm pickin' it up, pickin' it up I'm lovin', I'm livin', I'm pickin' it up (Oh, yeah) I'm pickin' it up (Yeah), pickin' it up (Yeah)",
+      "valence": 3.9,
+      "arousal": 3.6,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I'm pickin' it up, pickin' it up I'm lovin', I'm livin', I'm pickin' it up (Oh, yeah) I'm pickin' it up (Yeah), pickin' it up (Yeah) Lovin', I'm livin', so we turnin' up",
+      "valence": 3.86,
+      "arousal": 3.57,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I'm lovin', I'm livin', I'm pickin' it up (Oh, yeah) I'm pickin' it up (Yeah), pickin' it up (Yeah) Lovin', I'm livin', so we turnin' up Yeah, we turnin' it up",
+      "valence": 3.93,
+      "arousal": 3.61,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "I'm pickin' it up (Yeah), pickin' it up (Yeah) Lovin', I'm livin', so we turnin' up Yeah, we turnin' it up Ain't got no tears in my body",
+      "valence": 3.61,
+      "arousal": 3.57,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Lovin', I'm livin', so we turnin' up Yeah, we turnin' it up Ain't got no tears in my body I ran out, but boy, I like it, I like it, I like it",
+      "valence": 4.07,
+      "arousal": 3.83,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Yeah, we turnin' it up Ain't got no tears in my body I ran out, but boy, I like it, I like it, I like it Don't matter how, what, where, who tries it",
+      "valence": 3.86,
+      "arousal": 3.76,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Ain't got no tears in my body I ran out, but boy, I like it, I like it, I like it Don't matter how, what, where, who tries it We out here vibin', we vibin', we vibin'",
+      "valence": 3.86,
+      "arousal": 3.72,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I ran out, but boy, I like it, I like it, I like it Don't matter how, what, where, who tries it We out here vibin', we vibin', we vibin' Comin' out, even when it's rainin' down",
+      "valence": 3.88,
+      "arousal": 3.6,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Don't matter how, what, where, who tries it We out here vibin', we vibin', we vibin' Comin' out, even when it's rainin' down Can't stop now, can't stop so shut your mouth",
+      "valence": 2.91,
+      "arousal": 3.42,
+      "dominance": 3.59
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "We out here vibin', we vibin', we vibin' Comin' out, even when it's rainin' down Can't stop now, can't stop so shut your mouth Shut your mouth, and if you don't know",
+      "valence": 2.9,
+      "arousal": 3.5,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Comin' out, even when it's rainin' down Can't stop now, can't stop so shut your mouth Shut your mouth, and if you don't know Then now you know it, babe",
+      "valence": 2.44,
+      "arousal": 3.61,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Can't stop now, can't stop so shut your mouth Shut your mouth, and if you don't know Then now you know it, babe Know it, babe, yeah",
+      "valence": 2.64,
+      "arousal": 3.83,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Shut your mouth, and if you don't know Then now you know it, babe Know it, babe, yeah Right now, I'm in a state of mind",
+      "valence": 2.48,
+      "arousal": 3.53,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Then now you know it, babe Know it, babe, yeah Right now, I'm in a state of mind I wanna be in like all the time",
+      "valence": 3.06,
+      "arousal": 3.58,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Know it, babe, yeah Right now, I'm in a state of mind I wanna be in like all the time Ain't got no tears left to cry",
+      "valence": 2.65,
+      "arousal": 3.51,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Right now, I'm in a state of mind I wanna be in like all the time Ain't got no tears left to cry So I'm pickin' it up, pickin' it up (Oh, yeah)",
+      "valence": 2.76,
+      "arousal": 3.42,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I wanna be in like all the time Ain't got no tears left to cry So I'm pickin' it up, pickin' it up (Oh, yeah) I'm lovin', I'm livin', I'm pickin' it up",
+      "valence": 3.57,
+      "arousal": 3.73,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Ain't got no tears left to cry So I'm pickin' it up, pickin' it up (Oh, yeah) I'm lovin', I'm livin', I'm pickin' it up Oh, I just want you to come with me",
+      "valence": 3.71,
+      "arousal": 3.61,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "So I'm pickin' it up, pickin' it up (Oh, yeah) I'm lovin', I'm livin', I'm pickin' it up Oh, I just want you to come with me We on another mentality",
+      "valence": 3.91,
+      "arousal": 3.62,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I'm lovin', I'm livin', I'm pickin' it up Oh, I just want you to come with me We on another mentality Ain't got no tears left to cry (To cry)",
+      "valence": 3.65,
+      "arousal": 3.72,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Oh, I just want you to come with me We on another mentality Ain't got no tears left to cry (To cry) So I'm pickin' it up, pickin' it up (Oh, yeah)",
+      "valence": 3.03,
+      "arousal": 3.57,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "We on another mentality Ain't got no tears left to cry (To cry) So I'm pickin' it up, pickin' it up (Oh, yeah) I'm lovin', I'm livin', I'm pickin' it up",
+      "valence": 3.53,
+      "arousal": 3.71,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Ain't got no tears left to cry (To cry) So I'm pickin' it up, pickin' it up (Oh, yeah) I'm lovin', I'm livin', I'm pickin' it up Pickin' it up (Yeah), pickin' it up (Yeah)",
+      "valence": 3.57,
+      "arousal": 3.69,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "So I'm pickin' it up, pickin' it up (Oh, yeah) I'm lovin', I'm livin', I'm pickin' it up Pickin' it up (Yeah), pickin' it up (Yeah) Lovin', I'm livin', so we turnin' up (We turnin' it up)",
+      "valence": 3.86,
+      "arousal": 3.57,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I'm lovin', I'm livin', I'm pickin' it up Pickin' it up (Yeah), pickin' it up (Yeah) Lovin', I'm livin', so we turnin' up (We turnin' it up) Yeah, we turnin' it up",
+      "valence": 3.9,
+      "arousal": 3.59,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Pickin' it up (Yeah), pickin' it up (Yeah) Lovin', I'm livin', so we turnin' up (We turnin' it up) Yeah, we turnin' it up They point out the colours in you, I see 'em too",
+      "valence": 3.53,
+      "arousal": 3.31,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Lovin', I'm livin', so we turnin' up (We turnin' it up) Yeah, we turnin' it up They point out the colours in you, I see 'em too And, boy, I like 'em, I like 'em, I like 'em",
+      "valence": 3.68,
+      "arousal": 3.39,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Yeah, we turnin' it up They point out the colours in you, I see 'em too And, boy, I like 'em, I like 'em, I like 'em We're way too fly to partake in all this hate",
+      "valence": 3.53,
+      "arousal": 3.52,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "They point out the colours in you, I see 'em too And, boy, I like 'em, I like 'em, I like 'em We're way too fly to partake in all this hate We out here vibin', we vibin', we vibin'",
+      "valence": 3.59,
+      "arousal": 3.55,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "And, boy, I like 'em, I like 'em, I like 'em We're way too fly to partake in all this hate We out here vibin', we vibin', we vibin' Comin' out, even when it's rainin' down",
+      "valence": 3.68,
+      "arousal": 3.61,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "We're way too fly to partake in all this hate We out here vibin', we vibin', we vibin' Comin' out, even when it's rainin' down Can't stop now, can't stop, so shut your mouth",
+      "valence": 2.39,
+      "arousal": 3.7,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "We out here vibin', we vibin', we vibin' Comin' out, even when it's rainin' down Can't stop now, can't stop, so shut your mouth Shut your mouth, and if you don't know",
+      "valence": 2.86,
+      "arousal": 3.52,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Comin' out, even when it's rainin' down Can't stop now, can't stop, so shut your mouth Shut your mouth, and if you don't know Then now you know it, babe",
+      "valence": 2.42,
+      "arousal": 3.62,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Can't stop now, can't stop, so shut your mouth Shut your mouth, and if you don't know Then now you know it, babe Know it, babe, yeah",
+      "valence": 2.61,
+      "arousal": 3.83,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Shut your mouth, and if you don't know Then now you know it, babe Know it, babe, yeah Right now, I'm in a state of mind",
+      "valence": 2.48,
+      "arousal": 3.53,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Then now you know it, babe Know it, babe, yeah Right now, I'm in a state of mind I wanna be in like all the time",
+      "valence": 3.06,
+      "arousal": 3.58,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Know it, babe, yeah Right now, I'm in a state of mind I wanna be in like all the time Ain't got no tears left to cry",
+      "valence": 2.65,
+      "arousal": 3.51,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Right now, I'm in a state of mind I wanna be in like all the time Ain't got no tears left to cry So I'm pickin' it up, pickin' it up (Oh, yeah)",
+      "valence": 2.76,
+      "arousal": 3.42,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I wanna be in like all the time Ain't got no tears left to cry So I'm pickin' it up, pickin' it up (Oh, yeah) I'm lovin', I'm livin', I'm pickin' it up",
+      "valence": 3.57,
+      "arousal": 3.73,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Ain't got no tears left to cry So I'm pickin' it up, pickin' it up (Oh, yeah) I'm lovin', I'm livin', I'm pickin' it up Oh, I just want you to come with me",
+      "valence": 3.71,
+      "arousal": 3.61,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "So I'm pickin' it up, pickin' it up (Oh, yeah) I'm lovin', I'm livin', I'm pickin' it up Oh, I just want you to come with me We on another mentality",
+      "valence": 3.91,
+      "arousal": 3.62,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "I'm lovin', I'm livin', I'm pickin' it up Oh, I just want you to come with me We on another mentality Ain't got no tears left to cry (To cry)",
+      "valence": 3.65,
+      "arousal": 3.72,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Oh, I just want you to come with me We on another mentality Ain't got no tears left to cry (To cry) So I'm pickin' it up, pickin' it up (Oh, yeah)",
+      "valence": 3.03,
+      "arousal": 3.57,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "We on another mentality Ain't got no tears left to cry (To cry) So I'm pickin' it up, pickin' it up (Oh, yeah) I'm lovin', I'm livin', I'm pickin' it up",
+      "valence": 3.53,
+      "arousal": 3.71,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "Ain't got no tears left to cry (To cry) So I'm pickin' it up, pickin' it up (Oh, yeah) I'm lovin', I'm livin', I'm pickin' it up Comin' out, even when it's rainin' down",
+      "valence": 3.48,
+      "arousal": 3.7,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "So I'm pickin' it up, pickin' it up (Oh, yeah) I'm lovin', I'm livin', I'm pickin' it up Comin' out, even when it's rainin' down Can't stop now (Hmm, oh)",
+      "valence": 3.68,
+      "arousal": 3.43,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "I'm lovin', I'm livin', I'm pickin' it up Comin' out, even when it's rainin' down Can't stop now (Hmm, oh) Shut your mouth",
+      "valence": 3.2,
+      "arousal": 3.63,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Comin' out, even when it's rainin' down Can't stop now (Hmm, oh) Shut your mouth Ain't got no tears left to cry",
+      "valence": 2.46,
+      "arousal": 3.47,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Can't stop now (Hmm, oh) Shut your mouth Ain't got no tears left to cry Oh yeah, oh yeah",
+      "valence": 2.37,
+      "arousal": 3.75,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Shut your mouth Ain't got no tears left to cry Oh yeah, oh yeah Oh, I just want you to come with me",
+      "valence": 2.67,
+      "arousal": 3.61,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Ain't got no tears left to cry Oh yeah, oh yeah Oh, I just want you to come with me We on another mentality",
+      "valence": 2.95,
+      "arousal": 3.47,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Oh yeah, oh yeah Oh, I just want you to come with me We on another mentality Ain't got no tears left to cry (Cry)",
+      "valence": 2.79,
+      "arousal": 3.65,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Oh, I just want you to come with me We on another mentality Ain't got no tears left to cry (Cry) So I'm pickin' it up (Yeah), pickin' it up (Oh yeah)",
+      "valence": 3.02,
+      "arousal": 3.57,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "We on another mentality Ain't got no tears left to cry (Cry) So I'm pickin' it up (Yeah), pickin' it up (Oh yeah) I'm lovin', I'm livin', I'm pickin' it up",
+      "valence": 3.55,
+      "arousal": 3.69,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "Ain't got no tears left to cry (Cry) So I'm pickin' it up (Yeah), pickin' it up (Oh yeah) I'm lovin', I'm livin', I'm pickin' it up Pickin' it up, pickin' it up",
+      "valence": 3.66,
+      "arousal": 3.78,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "So I'm pickin' it up (Yeah), pickin' it up (Oh yeah) I'm lovin', I'm livin', I'm pickin' it up Pickin' it up, pickin' it up Lovin', I'm livin', so we turnin' up",
+      "valence": 3.87,
+      "arousal": 3.54,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "I'm lovin', I'm livin', I'm pickin' it up Pickin' it up, pickin' it up Lovin', I'm livin', so we turnin' up Yeah, we turnin' it up",
+      "valence": 3.99,
+      "arousal": 3.65,
+      "dominance": 3.46
+    }
+  ]
+}

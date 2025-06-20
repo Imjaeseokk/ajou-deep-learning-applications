@@ -1,0 +1,416 @@
+{
+  "artist": "Coldplay",
+  "overall_vad": {
+    "valence": 3.2,
+    "arousal": 3.49,
+    "dominance": 3.17
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Me, drink from me, drink from me (oh-ah) Shoot across the (symphony) (Oh-ah) That we shoot across the sky",
+      "valence": 3.05,
+      "arousal": 3.32,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Shoot across the (symphony) (Oh-ah) That we shoot across the sky Drink from me, drink from me (oh-ah-oh-ah)",
+      "valence": 3.14,
+      "arousal": 3.24,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "(Oh-ah) That we shoot across the sky Drink from me, drink from me (oh-ah-oh-ah) That we shoot across the (I'm feeling drunk and high)",
+      "valence": 3.08,
+      "arousal": 3.36,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "That we shoot across the sky Drink from me, drink from me (oh-ah-oh-ah) That we shoot across the (I'm feeling drunk and high) Symphony",
+      "valence": 3.06,
+      "arousal": 3.42,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Drink from me, drink from me (oh-ah-oh-ah) That we shoot across the (I'm feeling drunk and high) Symphony (So high, so high)",
+      "valence": 3.13,
+      "arousal": 3.52,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "That we shoot across the (I'm feeling drunk and high) Symphony (So high, so high) That we shoot across the s-",
+      "valence": 3.01,
+      "arousal": 3.51,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Symphony (So high, so high) That we shoot across the s- Oh, angel sent from up above",
+      "valence": 3.31,
+      "arousal": 3.34,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "(So high, so high) That we shoot across the s- Oh, angel sent from up above You know you make my world light up",
+      "valence": 3.75,
+      "arousal": 3.8,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "That we shoot across the s- Oh, angel sent from up above You know you make my world light up When I was down, when I was hurt",
+      "valence": 3.62,
+      "arousal": 3.63,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Oh, angel sent from up above You know you make my world light up When I was down, when I was hurt You came to lift me up",
+      "valence": 3.84,
+      "arousal": 3.78,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "You know you make my world light up When I was down, when I was hurt You came to lift me up Life is a drink, and love's a drug",
+      "valence": 3.73,
+      "arousal": 3.8,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "When I was down, when I was hurt You came to lift me up Life is a drink, and love's a drug Oh, now I think I must be miles up",
+      "valence": 3.21,
+      "arousal": 3.64,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "You came to lift me up Life is a drink, and love's a drug Oh, now I think I must be miles up When I was hurt, withered, dried up",
+      "valence": 3.23,
+      "arousal": 3.58,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Life is a drink, and love's a drug Oh, now I think I must be miles up When I was hurt, withered, dried up You came to rain a flood",
+      "valence": 2.57,
+      "arousal": 3.22,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Oh, now I think I must be miles up When I was hurt, withered, dried up You came to rain a flood You said drink from me, drink from me",
+      "valence": 2.57,
+      "arousal": 3.35,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "When I was hurt, withered, dried up You came to rain a flood You said drink from me, drink from me When I was so thirsty",
+      "valence": 2.82,
+      "arousal": 3.37,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "You came to rain a flood You said drink from me, drink from me When I was so thirsty Pour on a symphony",
+      "valence": 3.09,
+      "arousal": 3.44,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "You said drink from me, drink from me When I was so thirsty Pour on a symphony Now I just can't get enough",
+      "valence": 2.99,
+      "arousal": 3.52,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "When I was so thirsty Pour on a symphony Now I just can't get enough Put your wings on me, wings on me",
+      "valence": 3.06,
+      "arousal": 3.66,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Pour on a symphony Now I just can't get enough Put your wings on me, wings on me When I was so heavy",
+      "valence": 3.11,
+      "arousal": 3.56,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Now I just can't get enough Put your wings on me, wings on me When I was so heavy Pour on a symphony",
+      "valence": 3.04,
+      "arousal": 3.57,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Put your wings on me, wings on me When I was so heavy Pour on a symphony When I'm low, low, low, low",
+      "valence": 3.15,
+      "arousal": 3.46,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "When I was so heavy Pour on a symphony When I'm low, low, low, low Ah-oh-ah-oh-ah",
+      "valence": 3.01,
+      "arousal": 3.22,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Pour on a symphony When I'm low, low, low, low Ah-oh-ah-oh-ah Got me feeling drunk and high",
+      "valence": 2.99,
+      "arousal": 3.22,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "When I'm low, low, low, low Ah-oh-ah-oh-ah Got me feeling drunk and high So high, so high",
+      "valence": 3.04,
+      "arousal": 3.42,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Ah-oh-ah-oh-ah Got me feeling drunk and high So high, so high Oh-ah-oh-ah-oh-ah",
+      "valence": 3.33,
+      "arousal": 3.57,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Got me feeling drunk and high So high, so high Oh-ah-oh-ah-oh-ah Now I'm feeling drunk and high",
+      "valence": 3.0,
+      "arousal": 3.47,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "So high, so high Oh-ah-oh-ah-oh-ah Now I'm feeling drunk and high So high, so high",
+      "valence": 3.24,
+      "arousal": 3.74,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Oh-ah-oh-ah-oh-ah Now I'm feeling drunk and high So high, so high (Woo)",
+      "valence": 3.35,
+      "arousal": 3.72,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Now I'm feeling drunk and high So high, so high (Woo) (Woo-ooh-ooh-woo)",
+      "valence": 3.42,
+      "arousal": 3.83,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "So high, so high (Woo) (Woo-ooh-ooh-woo) Oh, angel sent from up above",
+      "valence": 3.53,
+      "arousal": 3.83,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "(Woo) (Woo-ooh-ooh-woo) Oh, angel sent from up above I feel you coursing through my blood",
+      "valence": 3.57,
+      "arousal": 3.87,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "(Woo-ooh-ooh-woo) Oh, angel sent from up above I feel you coursing through my blood Life is a drink, your love's about",
+      "valence": 3.86,
+      "arousal": 3.97,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Oh, angel sent from up above I feel you coursing through my blood Life is a drink, your love's about To make the stars come out",
+      "valence": 3.82,
+      "arousal": 3.89,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "I feel you coursing through my blood Life is a drink, your love's about To make the stars come out Put your wings on me, wings on me",
+      "valence": 3.81,
+      "arousal": 3.9,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Life is a drink, your love's about To make the stars come out Put your wings on me, wings on me When I was so heavy",
+      "valence": 3.73,
+      "arousal": 3.87,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "To make the stars come out Put your wings on me, wings on me When I was so heavy Pour on a symphony",
+      "valence": 3.34,
+      "arousal": 3.53,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Put your wings on me, wings on me When I was so heavy Pour on a symphony When I'm low, low, low, low",
+      "valence": 3.15,
+      "arousal": 3.46,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "When I was so heavy Pour on a symphony When I'm low, low, low, low Ah-oh-ah-oh-ah",
+      "valence": 3.01,
+      "arousal": 3.22,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Pour on a symphony When I'm low, low, low, low Ah-oh-ah-oh-ah Got me feeling drunk and high",
+      "valence": 2.99,
+      "arousal": 3.22,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "When I'm low, low, low, low Ah-oh-ah-oh-ah Got me feeling drunk and high So high, so high",
+      "valence": 3.04,
+      "arousal": 3.42,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Ah-oh-ah-oh-ah Got me feeling drunk and high So high, so high Oh-ah-oh-ah-oh-ah",
+      "valence": 3.33,
+      "arousal": 3.57,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Got me feeling drunk and high So high, so high Oh-ah-oh-ah-oh-ah Now I'm feeling drunk and high",
+      "valence": 3.0,
+      "arousal": 3.47,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "So high, so high Oh-ah-oh-ah-oh-ah Now I'm feeling drunk and high So high, so high",
+      "valence": 3.24,
+      "arousal": 3.74,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Oh-ah-oh-ah-oh-ah Now I'm feeling drunk and high So high, so high Ah-oh-ah-oh-ah",
+      "valence": 3.23,
+      "arousal": 3.61,
+      "dominance": 3.1
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Now I'm feeling drunk and high So high, so high Ah-oh-ah-oh-ah La, la, la, la, la, la, la",
+      "valence": 2.94,
+      "arousal": 3.56,
+      "dominance": 2.94
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "So high, so high Ah-oh-ah-oh-ah La, la, la, la, la, la, la So high, so high",
+      "valence": 3.28,
+      "arousal": 3.49,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Ah-oh-ah-oh-ah La, la, la, la, la, la, la So high, so high Ah-oh-ah-oh-ah",
+      "valence": 3.28,
+      "arousal": 3.51,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "La, la, la, la, la, la, la So high, so high Ah-oh-ah-oh-ah I'm feeling drunk and high",
+      "valence": 3.16,
+      "arousal": 3.64,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "So high, so high Ah-oh-ah-oh-ah I'm feeling drunk and high So high, so high",
+      "valence": 3.35,
+      "arousal": 3.81,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Ah-oh-ah-oh-ah I'm feeling drunk and high So high, so high That we shoot across the sky",
+      "valence": 3.12,
+      "arousal": 3.71,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "I'm feeling drunk and high So high, so high That we shoot across the sky That we shoot across the",
+      "valence": 2.95,
+      "arousal": 3.54,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "So high, so high That we shoot across the sky That we shoot across the That we shoot across the sky",
+      "valence": 3.08,
+      "arousal": 3.04,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "That we shoot across the sky That we shoot across the That we shoot across the sky That we shoot across the (that we shoot, yeah)",
+      "valence": 2.97,
+      "arousal": 2.89,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "That we shoot across the That we shoot across the sky That we shoot across the (that we shoot, yeah) That we shoot across the sky",
+      "valence": 3.02,
+      "arousal": 2.87,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "That we shoot across the sky That we shoot across the (that we shoot, yeah) That we shoot across the sky That we shoot across the",
+      "valence": 2.99,
+      "arousal": 2.86,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "That we shoot across the (that we shoot, yeah) That we shoot across the sky That we shoot across the That we shoot across the sky",
+      "valence": 2.99,
+      "arousal": 2.87,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "That we shoot across the sky That we shoot across the That we shoot across the sky That we shoot across the",
+      "valence": 3.0,
+      "arousal": 2.82,
+      "dominance": 3.11
+    }
+  ]
+}

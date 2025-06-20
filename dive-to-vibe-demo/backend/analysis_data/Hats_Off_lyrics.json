@@ -1,0 +1,794 @@
+{
+  "artist": "Lil Baby, Lil Durk & Travis Scott",
+  "overall_vad": {
+    "valence": 2.94,
+    "arousal": 3.48,
+    "dominance": 3.36
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Change my name to the kid, that's a baby goat Keep a Drac' like I started up OVO You can get a percent, but I want the most Got a house with a lake, so I bought a boat",
+      "valence": 3.07,
+      "arousal": 3.27,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Keep a Drac' like I started up OVO You can get a percent, but I want the most Got a house with a lake, so I bought a boat 'Bout to switch up a play, that's an audible",
+      "valence": 3.2,
+      "arousal": 3.29,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "You can get a percent, but I want the most Got a house with a lake, so I bought a boat 'Bout to switch up a play, that's an audible State-to-state, private jet with some model hoes",
+      "valence": 3.15,
+      "arousal": 3.26,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Got a house with a lake, so I bought a boat 'Bout to switch up a play, that's an audible State-to-state, private jet with some model hoes Had to run up more dollars than followers",
+      "valence": 3.06,
+      "arousal": 3.14,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "'Bout to switch up a play, that's an audible State-to-state, private jet with some model hoes Had to run up more dollars than followers Me and bae take the week off in Cabo",
+      "valence": 2.9,
+      "arousal": 3.18,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "State-to-state, private jet with some model hoes Had to run up more dollars than followers Me and bae take the week off in Cabo Life's a gamble, I'm playin' the lotto",
+      "valence": 3.1,
+      "arousal": 3.52,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Had to run up more dollars than followers Me and bae take the week off in Cabo Life's a gamble, I'm playin' the lotto I'm bettin' it all 'cause I know that I got 'em",
+      "valence": 3.14,
+      "arousal": 3.57,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Me and bae take the week off in Cabo Life's a gamble, I'm playin' the lotto I'm bettin' it all 'cause I know that I got 'em 'Member me? I was drivin' Impalas",
+      "valence": 3.1,
+      "arousal": 3.49,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Life's a gamble, I'm playin' the lotto I'm bettin' it all 'cause I know that I got 'em 'Member me? I was drivin' Impalas We don't beef, if it's problems, we solve it",
+      "valence": 3.1,
+      "arousal": 3.49,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "I'm bettin' it all 'cause I know that I got 'em 'Member me? I was drivin' Impalas We don't beef, if it's problems, we solve it I remember that D2 revolver I bought for my partna, he died in a argument",
+      "valence": 2.85,
+      "arousal": 3.22,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "'Member me? I was drivin' Impalas We don't beef, if it's problems, we solve it I remember that D2 revolver I bought for my partna, he died in a argument They was hatin', that's why I'm way farther than 'em",
+      "valence": 2.69,
+      "arousal": 3.21,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "We don't beef, if it's problems, we solve it I remember that D2 revolver I bought for my partna, he died in a argument They was hatin', that's why I'm way farther than 'em 'Member askin' my mom where my father been at",
+      "valence": 2.62,
+      "arousal": 3.27,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I remember that D2 revolver I bought for my partna, he died in a argument They was hatin', that's why I'm way farther than 'em 'Member askin' my mom where my father been at Ain't no talkin', that fire what I'm tryna get at",
+      "valence": 2.44,
+      "arousal": 3.35,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "They was hatin', that's why I'm way farther than 'em 'Member askin' my mom where my father been at Ain't no talkin', that fire what I'm tryna get at Niggas cuffin' these hoes that the crew done been had",
+      "valence": 2.43,
+      "arousal": 3.47,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "'Member askin' my mom where my father been at Ain't no talkin', that fire what I'm tryna get at Niggas cuffin' these hoes that the crew done been had Get them racks out the bank, put it right in the bag",
+      "valence": 2.5,
+      "arousal": 3.36,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Ain't no talkin', that fire what I'm tryna get at Niggas cuffin' these hoes that the crew done been had Get them racks out the bank, put it right in the bag Say he wouldn't do that, but he would if he can",
+      "valence": 2.46,
+      "arousal": 3.32,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Niggas cuffin' these hoes that the crew done been had Get them racks out the bank, put it right in the bag Say he wouldn't do that, but he would if he can Hop out marchin' with drums like we play in the band",
+      "valence": 2.82,
+      "arousal": 3.22,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Get them racks out the bank, put it right in the bag Say he wouldn't do that, but he would if he can Hop out marchin' with drums like we play in the band I come straight out the mud, I ain't been in no sand",
+      "valence": 2.92,
+      "arousal": 3.12,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Say he wouldn't do that, but he would if he can Hop out marchin' with drums like we play in the band I come straight out the mud, I ain't been in no sand Twenty-hour flight, had popped me a Xan",
+      "valence": 2.87,
+      "arousal": 3.21,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Hop out marchin' with drums like we play in the band I come straight out the mud, I ain't been in no sand Twenty-hour flight, had popped me a Xan I got horny, almost fucked on a fan",
+      "valence": 2.99,
+      "arousal": 3.6,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I come straight out the mud, I ain't been in no sand Twenty-hour flight, had popped me a Xan I got horny, almost fucked on a fan I had to think about it, I can't end up on Shade Room",
+      "valence": 2.7,
+      "arousal": 3.64,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Twenty-hour flight, had popped me a Xan I got horny, almost fucked on a fan I had to think about it, I can't end up on Shade Room Everything that I hit, I done paid for",
+      "valence": 2.82,
+      "arousal": 3.74,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I got horny, almost fucked on a fan I had to think about it, I can't end up on Shade Room Everything that I hit, I done paid for She know what I can bring to the table",
+      "valence": 2.95,
+      "arousal": 3.82,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "I had to think about it, I can't end up on Shade Room Everything that I hit, I done paid for She know what I can bring to the table I can tell if it's real by the label",
+      "valence": 2.88,
+      "arousal": 3.38,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Everything that I hit, I done paid for She know what I can bring to the table I can tell if it's real by the label We had TV, but we didn't have cable",
+      "valence": 3.0,
+      "arousal": 3.28,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "She know what I can bring to the table I can tell if it's real by the label We had TV, but we didn't have cable Now I'm richer than all of my neighbors",
+      "valence": 3.15,
+      "arousal": 3.34,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "I can tell if it's real by the label We had TV, but we didn't have cable Now I'm richer than all of my neighbors I wear my chain proud, it's a trophy",
+      "valence": 3.48,
+      "arousal": 3.47,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "We had TV, but we didn't have cable Now I'm richer than all of my neighbors I wear my chain proud, it's a trophy I'm with the same crowd, these the brodies",
+      "valence": 3.49,
+      "arousal": 3.5,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Now I'm richer than all of my neighbors I wear my chain proud, it's a trophy I'm with the same crowd, these the brodies I don't got the same mind, you don't know me",
+      "valence": 3.5,
+      "arousal": 3.69,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "I wear my chain proud, it's a trophy I'm with the same crowd, these the brodies I don't got the same mind, you don't know me You don't gotta do it loud, keep it low-key",
+      "valence": 3.32,
+      "arousal": 3.44,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "I'm with the same crowd, these the brodies I don't got the same mind, you don't know me You don't gotta do it loud, keep it low-key I'm tryna be here for mine, I can't hold you",
+      "valence": 2.76,
+      "arousal": 3.54,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "I don't got the same mind, you don't know me You don't gotta do it loud, keep it low-key I'm tryna be here for mine, I can't hold you The Forgiatos twenty-four, this for Kobe",
+      "valence": 2.83,
+      "arousal": 3.52,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "You don't gotta do it loud, keep it low-key I'm tryna be here for mine, I can't hold you The Forgiatos twenty-four, this for Kobe I shouldn't have to say, you know that you owe me",
+      "valence": 3.02,
+      "arousal": 3.52,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "I'm tryna be here for mine, I can't hold you The Forgiatos twenty-four, this for Kobe I shouldn't have to say, you know that you owe me You ain't gotta search, you know that it's on me",
+      "valence": 2.88,
+      "arousal": 3.6,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "The Forgiatos twenty-four, this for Kobe I shouldn't have to say, you know that you owe me You ain't gotta search, you know that it's on me Hats off if you keepin' it real",
+      "valence": 2.99,
+      "arousal": 3.53,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "I shouldn't have to say, you know that you owe me You ain't gotta search, you know that it's on me Hats off if you keepin' it real It's so easy to fall victim to fake",
+      "valence": 2.61,
+      "arousal": 3.46,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "You ain't gotta search, you know that it's on me Hats off if you keepin' it real It's so easy to fall victim to fake Durk the voice 'cause he know just what to say",
+      "valence": 2.62,
+      "arousal": 3.41,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Hats off if you keepin' it real It's so easy to fall victim to fake Durk the voice 'cause he know just what to say I'm the hero, I come through, save the day",
+      "valence": 2.95,
+      "arousal": 3.5,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "It's so easy to fall victim to fake Durk the voice 'cause he know just what to say I'm the hero, I come through, save the day Hats off if you keepin' it real",
+      "valence": 3.28,
+      "arousal": 3.61,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Durk the voice 'cause he know just what to say I'm the hero, I come through, save the day Hats off if you keepin' it real It's so easy to fall victim to fake",
+      "valence": 3.43,
+      "arousal": 3.63,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "I'm the hero, I come through, save the day Hats off if you keepin' it real It's so easy to fall victim to fake Durk the voice 'cause he know just what to say",
+      "valence": 3.56,
+      "arousal": 3.68,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Hats off if you keepin' it real It's so easy to fall victim to fake Durk the voice 'cause he know just what to say I'm the hero, I come through, save the day",
+      "valence": 2.95,
+      "arousal": 3.5,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "It's so easy to fall victim to fake Durk the voice 'cause he know just what to say I'm the hero, I come through, save the day Bitch, I'm a D-boy, do it for T.Roy",
+      "valence": 3.05,
+      "arousal": 3.69,
+      "dominance": 3.55
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Durk the voice 'cause he know just what to say I'm the hero, I come through, save the day Bitch, I'm a D-boy, do it for T.Roy I'm on you forever, that's just word to V.Roy",
+      "valence": 3.32,
+      "arousal": 3.72,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "I'm the hero, I come through, save the day Bitch, I'm a D-boy, do it for T.Roy I'm on you forever, that's just word to V.Roy I'm with the killers forever, the trenches is in me",
+      "valence": 3.33,
+      "arousal": 3.8,
+      "dominance": 3.7
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Bitch, I'm a D-boy, do it for T.Roy I'm on you forever, that's just word to V.Roy I'm with the killers forever, the trenches is in me The Grammys can't change me for nothin'",
+      "valence": 2.45,
+      "arousal": 3.8,
+      "dominance": 3.9
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "I'm on you forever, that's just word to V.Roy I'm with the killers forever, the trenches is in me The Grammys can't change me for nothin' I like the bitches who let me just offer them cash",
+      "valence": 2.67,
+      "arousal": 3.59,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "I'm with the killers forever, the trenches is in me The Grammys can't change me for nothin' I like the bitches who let me just offer them cash You never gon' ask me for nothin', never gon' switch",
+      "valence": 2.34,
+      "arousal": 3.54,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "The Grammys can't change me for nothin' I like the bitches who let me just offer them cash You never gon' ask me for nothin', never gon' switch Only time I ever switch is a Glock with a motherfuckin' button",
+      "valence": 2.38,
+      "arousal": 3.65,
+      "dominance": 3.45
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "I like the bitches who let me just offer them cash You never gon' ask me for nothin', never gon' switch Only time I ever switch is a Glock with a motherfuckin' button Rappers be runnin' back, tellin' them bitches we hittin'",
+      "valence": 2.77,
+      "arousal": 3.44,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "You never gon' ask me for nothin', never gon' switch Only time I ever switch is a Glock with a motherfuckin' button Rappers be runnin' back, tellin' them bitches we hittin' That's why we don't be tellin' them nothin'",
+      "valence": 2.38,
+      "arousal": 3.46,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Only time I ever switch is a Glock with a motherfuckin' button Rappers be runnin' back, tellin' them bitches we hittin' That's why we don't be tellin' them nothin' 4TF, Only the Family",
+      "valence": 2.48,
+      "arousal": 3.48,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Rappers be runnin' back, tellin' them bitches we hittin' That's why we don't be tellin' them nothin' 4TF, Only the Family But Four Pockets Full, but we keep it a hundred",
+      "valence": 2.65,
+      "arousal": 3.26,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "That's why we don't be tellin' them nothin' 4TF, Only the Family But Four Pockets Full, but we keep it a hundred That shit solid, I done took losses",
+      "valence": 2.82,
+      "arousal": 3.21,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "4TF, Only the Family But Four Pockets Full, but we keep it a hundred That shit solid, I done took losses I done turned robbers to killers and bosses",
+      "valence": 2.81,
+      "arousal": 3.21,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "But Four Pockets Full, but we keep it a hundred That shit solid, I done took losses I done turned robbers to killers and bosses I been that nigga from way, way back",
+      "valence": 2.88,
+      "arousal": 3.28,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "That shit solid, I done took losses I done turned robbers to killers and bosses I been that nigga from way, way back Way before Uzi was droppin' the cross",
+      "valence": 2.46,
+      "arousal": 3.34,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "I done turned robbers to killers and bosses I been that nigga from way, way back Way before Uzi was droppin' the cross We just a family, we never recruitin'",
+      "valence": 2.41,
+      "arousal": 3.21,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "I been that nigga from way, way back Way before Uzi was droppin' the cross We just a family, we never recruitin' Clique full of killers, we choosin' to shoot 'em",
+      "valence": 2.71,
+      "arousal": 3.26,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Way before Uzi was droppin' the cross We just a family, we never recruitin' Clique full of killers, we choosin' to shoot 'em Someone tell Kanye and Kim to just stick to the script",
+      "valence": 2.67,
+      "arousal": 3.31,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "We just a family, we never recruitin' Clique full of killers, we choosin' to shoot 'em Someone tell Kanye and Kim to just stick to the script And just tell 'em to free Larry Hoover",
+      "valence": 2.64,
+      "arousal": 3.36,
+      "dominance": 3.57
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Clique full of killers, we choosin' to shoot 'em Someone tell Kanye and Kim to just stick to the script And just tell 'em to free Larry Hoover Me, I'm the voice, Baby, the hero",
+      "valence": 2.76,
+      "arousal": 3.65,
+      "dominance": 3.62
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Someone tell Kanye and Kim to just stick to the script And just tell 'em to free Larry Hoover Me, I'm the voice, Baby, the hero Trav like Michael Jackson, yeah",
+      "valence": 3.12,
+      "arousal": 3.36,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 64,
+      "lyrics_text": "And just tell 'em to free Larry Hoover Me, I'm the voice, Baby, the hero Trav like Michael Jackson, yeah Been in it a minute, it's crazy I'm winnin'",
+      "valence": 3.39,
+      "arousal": 3.73,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 65,
+      "lyrics_text": "Me, I'm the voice, Baby, the hero Trav like Michael Jackson, yeah Been in it a minute, it's crazy I'm winnin' It only feel like I've been rappin' a year",
+      "valence": 3.64,
+      "arousal": 3.72,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 66,
+      "lyrics_text": "Trav like Michael Jackson, yeah Been in it a minute, it's crazy I'm winnin' It only feel like I've been rappin' a year Let a nigga play with me, I'm ready",
+      "valence": 3.61,
+      "arousal": 3.83,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 67,
+      "lyrics_text": "Been in it a minute, it's crazy I'm winnin' It only feel like I've been rappin' a year Let a nigga play with me, I'm ready My bitch gettin' rich offa cosmetics",
+      "valence": 3.27,
+      "arousal": 3.95,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 68,
+      "lyrics_text": "It only feel like I've been rappin' a year Let a nigga play with me, I'm ready My bitch gettin' rich offa cosmetics Life off, they done freed my daddy",
+      "valence": 2.75,
+      "arousal": 3.69,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 69,
+      "lyrics_text": "Let a nigga play with me, I'm ready My bitch gettin' rich offa cosmetics Life off, they done freed my daddy Lights off, I couldn't see my belly",
+      "valence": 2.7,
+      "arousal": 3.74,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 70,
+      "lyrics_text": "My bitch gettin' rich offa cosmetics Life off, they done freed my daddy Lights off, I couldn't see my belly 2010, I had a gun in my Pelle",
+      "valence": 2.34,
+      "arousal": 3.82,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 71,
+      "lyrics_text": "Life off, they done freed my daddy Lights off, I couldn't see my belly 2010, I had a gun in my Pelle 2011, I was fightin' my celly",
+      "valence": 2.7,
+      "arousal": 3.68,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 72,
+      "lyrics_text": "Lights off, I couldn't see my belly 2010, I had a gun in my Pelle 2011, I was fightin' my celly 2012, I signed my deal in Cali",
+      "valence": 2.87,
+      "arousal": 3.37,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 73,
+      "lyrics_text": "2010, I had a gun in my Pelle 2011, I was fightin' my celly 2012, I signed my deal in Cali 2021, I'm big as Khaled, oh-woah",
+      "valence": 3.23,
+      "arousal": 3.71,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 74,
+      "lyrics_text": "2011, I was fightin' my celly 2012, I signed my deal in Cali 2021, I'm big as Khaled, oh-woah I wear my chain proud, it's a trophy",
+      "valence": 3.78,
+      "arousal": 3.64,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 75,
+      "lyrics_text": "2012, I signed my deal in Cali 2021, I'm big as Khaled, oh-woah I wear my chain proud, it's a trophy I'm with the same crowd, these the brodies",
+      "valence": 3.81,
+      "arousal": 3.73,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 76,
+      "lyrics_text": "2021, I'm big as Khaled, oh-woah I wear my chain proud, it's a trophy I'm with the same crowd, these the brodies I don't got the same mind, you don't know me",
+      "valence": 3.27,
+      "arousal": 3.65,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 77,
+      "lyrics_text": "I wear my chain proud, it's a trophy I'm with the same crowd, these the brodies I don't got the same mind, you don't know me You don't gotta do it loud, keep it low-key",
+      "valence": 3.32,
+      "arousal": 3.44,
+      "dominance": 3.5
+    },
+    {
+      "chunk_id": 78,
+      "lyrics_text": "I'm with the same crowd, these the brodies I don't got the same mind, you don't know me You don't gotta do it loud, keep it low-key I'm tryna be here for mine, I can't hold you",
+      "valence": 2.76,
+      "arousal": 3.54,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 79,
+      "lyrics_text": "I don't got the same mind, you don't know me You don't gotta do it loud, keep it low-key I'm tryna be here for mine, I can't hold you The Forgiatos twenty-four, this for Kobe",
+      "valence": 2.83,
+      "arousal": 3.52,
+      "dominance": 3.36
+    },
+    {
+      "chunk_id": 80,
+      "lyrics_text": "You don't gotta do it loud, keep it low-key I'm tryna be here for mine, I can't hold you The Forgiatos twenty-four, this for Kobe I shouldn't have to say, you know that you owe me",
+      "valence": 3.02,
+      "arousal": 3.52,
+      "dominance": 3.27
+    },
+    {
+      "chunk_id": 81,
+      "lyrics_text": "I'm tryna be here for mine, I can't hold you The Forgiatos twenty-four, this for Kobe I shouldn't have to say, you know that you owe me You ain't gotta search, you know that it's on me",
+      "valence": 2.88,
+      "arousal": 3.6,
+      "dominance": 2.96
+    },
+    {
+      "chunk_id": 82,
+      "lyrics_text": "The Forgiatos twenty-four, this for Kobe I shouldn't have to say, you know that you owe me You ain't gotta search, you know that it's on me Hats off if you keepin' it real",
+      "valence": 2.99,
+      "arousal": 3.53,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 83,
+      "lyrics_text": "I shouldn't have to say, you know that you owe me You ain't gotta search, you know that it's on me Hats off if you keepin' it real It's so easy to fall victim to fake",
+      "valence": 2.61,
+      "arousal": 3.46,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 84,
+      "lyrics_text": "You ain't gotta search, you know that it's on me Hats off if you keepin' it real It's so easy to fall victim to fake Durk the voice 'cause he know just what to say",
+      "valence": 2.62,
+      "arousal": 3.41,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 85,
+      "lyrics_text": "Hats off if you keepin' it real It's so easy to fall victim to fake Durk the voice 'cause he know just what to say I'm the hero, I come through, save the day",
+      "valence": 2.95,
+      "arousal": 3.5,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 86,
+      "lyrics_text": "It's so easy to fall victim to fake Durk the voice 'cause he know just what to say I'm the hero, I come through, save the day Hats off if you keepin' it real",
+      "valence": 3.28,
+      "arousal": 3.61,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 87,
+      "lyrics_text": "Durk the voice 'cause he know just what to say I'm the hero, I come through, save the day Hats off if you keepin' it real It's so easy to fall victim to fake",
+      "valence": 3.43,
+      "arousal": 3.63,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 88,
+      "lyrics_text": "I'm the hero, I come through, save the day Hats off if you keepin' it real It's so easy to fall victim to fake Durk the voice 'cause he know just what to say",
+      "valence": 3.56,
+      "arousal": 3.68,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 89,
+      "lyrics_text": "Hats off if you keepin' it real It's so easy to fall victim to fake Durk the voice 'cause he know just what to say I'm the hero, I come through, save the day",
+      "valence": 2.95,
+      "arousal": 3.5,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 90,
+      "lyrics_text": "It's so easy to fall victim to fake Durk the voice 'cause he know just what to say I'm the hero, I come through, save the day After this drop, then it's only the label",
+      "valence": 3.03,
+      "arousal": 3.43,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 91,
+      "lyrics_text": "Durk the voice 'cause he know just what to say I'm the hero, I come through, save the day After this drop, then it's only the label You see the crosses surroundin' the table",
+      "valence": 3.25,
+      "arousal": 3.49,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 92,
+      "lyrics_text": "I'm the hero, I come through, save the day After this drop, then it's only the label You see the crosses surroundin' the table But never cross us, we flip ya, alfredo",
+      "valence": 3.34,
+      "arousal": 3.73,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 93,
+      "lyrics_text": "After this drop, then it's only the label You see the crosses surroundin' the table But never cross us, we flip ya, alfredo Bro, do it solid without a potato",
+      "valence": 2.89,
+      "arousal": 3.32,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 94,
+      "lyrics_text": "You see the crosses surroundin' the table But never cross us, we flip ya, alfredo Bro, do it solid without a potato I took the logic and built out a payroll",
+      "valence": 2.92,
+      "arousal": 3.45,
+      "dominance": 3.71
+    },
+    {
+      "chunk_id": 95,
+      "lyrics_text": "But never cross us, we flip ya, alfredo Bro, do it solid without a potato I took the logic and built out a payroll All the whips chocolate, I built it like Legos (let's go)",
+      "valence": 3.0,
+      "arousal": 3.42,
+      "dominance": 3.68
+    },
+    {
+      "chunk_id": 96,
+      "lyrics_text": "Bro, do it solid without a potato I took the logic and built out a payroll All the whips chocolate, I built it like Legos (let's go) I leave him deceased (ooh)",
+      "valence": 2.9,
+      "arousal": 3.33,
+      "dominance": 3.47
+    },
+    {
+      "chunk_id": 97,
+      "lyrics_text": "I took the logic and built out a payroll All the whips chocolate, I built it like Legos (let's go) I leave him deceased (ooh) Only way that they ever find peace (ooh)",
+      "valence": 2.76,
+      "arousal": 3.36,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 98,
+      "lyrics_text": "All the whips chocolate, I built it like Legos (let's go) I leave him deceased (ooh) Only way that they ever find peace (ooh) In that case, then I might need a priest (yeah)",
+      "valence": 2.67,
+      "arousal": 3.27,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 99,
+      "lyrics_text": "I leave him deceased (ooh) Only way that they ever find peace (ooh) In that case, then I might need a priest (yeah) In the streets, gotta keep the belief",
+      "valence": 2.65,
+      "arousal": 3.17,
+      "dominance": 2.87
+    },
+    {
+      "chunk_id": 100,
+      "lyrics_text": "Only way that they ever find peace (ooh) In that case, then I might need a priest (yeah) In the streets, gotta keep the belief Not a wave, gotta keep you a sea (sea)",
+      "valence": 2.85,
+      "arousal": 3.13,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 101,
+      "lyrics_text": "In that case, then I might need a priest (yeah) In the streets, gotta keep the belief Not a wave, gotta keep you a sea (sea) Look for me, gotta keep you a fee (fee)",
+      "valence": 2.95,
+      "arousal": 3.08,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 102,
+      "lyrics_text": "In the streets, gotta keep the belief Not a wave, gotta keep you a sea (sea) Look for me, gotta keep you a fee (fee) Made a hundred and put it on gold (it's lit)",
+      "valence": 3.17,
+      "arousal": 3.21,
+      "dominance": 3.32
+    },
+    {
+      "chunk_id": 103,
+      "lyrics_text": "Not a wave, gotta keep you a sea (sea) Look for me, gotta keep you a fee (fee) Made a hundred and put it on gold (it's lit) Took the steppers and put 'em on roll (straight up)",
+      "valence": 3.11,
+      "arousal": 3.27,
+      "dominance": 3.53
+    },
+    {
+      "chunk_id": 104,
+      "lyrics_text": "Look for me, gotta keep you a fee (fee) Made a hundred and put it on gold (it's lit) Took the steppers and put 'em on roll (straight up) It's a lotta them ridin' and glidin' and slidin' that's ready to snatch up your soul (yeah)",
+      "valence": 3.09,
+      "arousal": 3.29,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 105,
+      "lyrics_text": "Made a hundred and put it on gold (it's lit) Took the steppers and put 'em on roll (straight up) It's a lotta them ridin' and glidin' and slidin' that's ready to snatch up your soul (yeah) I was eighteen still when I got my deal, then Dre had to go up the road (up the road)",
+      "valence": 3.19,
+      "arousal": 3.38,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 106,
+      "lyrics_text": "Took the steppers and put 'em on roll (straight up) It's a lotta them ridin' and glidin' and slidin' that's ready to snatch up your soul (yeah) I was eighteen still when I got my deal, then Dre had to go up the road (up the road) Now he back outside and see lil' bro, he got believers",
+      "valence": 3.1,
+      "arousal": 3.46,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 107,
+      "lyrics_text": "It's a lotta them ridin' and glidin' and slidin' that's ready to snatch up your soul (yeah) I was eighteen still when I got my deal, then Dre had to go up the road (up the road) Now he back outside and see lil' bro, he got believers R.I.P. Big Tone, I know you see us",
+      "valence": 3.06,
+      "arousal": 3.43,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 108,
+      "lyrics_text": "I was eighteen still when I got my deal, then Dre had to go up the road (up the road) Now he back outside and see lil' bro, he got believers R.I.P. Big Tone, I know you see us Sorry, gotta fuck on the low, I can't make Cheaters",
+      "valence": 2.57,
+      "arousal": 3.58,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 109,
+      "lyrics_text": "Now he back outside and see lil' bro, he got believers R.I.P. Big Tone, I know you see us Sorry, gotta fuck on the low, I can't make Cheaters Dawg, we got it bussin' out the bleachers (yeah)",
+      "valence": 2.69,
+      "arousal": 3.71,
+      "dominance": 3.38
+    },
+    {
+      "chunk_id": 110,
+      "lyrics_text": "R.I.P. Big Tone, I know you see us Sorry, gotta fuck on the low, I can't make Cheaters Dawg, we got it bussin' out the bleachers (yeah) It's jumpin' like wall to wall",
+      "valence": 2.53,
+      "arousal": 3.78,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 111,
+      "lyrics_text": "Sorry, gotta fuck on the low, I can't make Cheaters Dawg, we got it bussin' out the bleachers (yeah) It's jumpin' like wall to wall (Trav like Michael Jackson, yeah)",
+      "valence": 2.46,
+      "arousal": 3.74,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 112,
+      "lyrics_text": "Dawg, we got it bussin' out the bleachers (yeah) It's jumpin' like wall to wall (Trav like Michael Jackson, yeah) (The truth, see, see)",
+      "valence": 3.0,
+      "arousal": 3.26,
+      "dominance": 3.17
+    }
+  ]
+}

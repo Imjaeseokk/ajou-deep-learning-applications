@@ -1,0 +1,451 @@
+{
+  "artist": "Bad Bunny & Bomba Estereo",
+  "overall_vad": {
+    "valence": 2.99,
+    "arousal": 3.15,
+    "dominance": 3.13
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Hace mucho tiempo le hago caso al corazÃ³n Y pasan los dÃ­a', los mese' pensando en tu olor (-do en tu olor) Ha llegado el tiempo para usar la razÃ³n Ante' que sea tarde y sin querer me parta en do' (parta en do')",
+      "valence": 2.94,
+      "arousal": 3.1,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Y pasan los dÃ­a', los mese' pensando en tu olor (-do en tu olor) Ha llegado el tiempo para usar la razÃ³n Ante' que sea tarde y sin querer me parta en do' (parta en do') Antes de que salga el sol y hunda el acelerador",
+      "valence": 2.93,
+      "arousal": 3.13,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "Ha llegado el tiempo para usar la razÃ³n Ante' que sea tarde y sin querer me parta en do' (parta en do') Antes de que salga el sol y hunda el acelerador Que vaya sin frenos y pierda el control",
+      "valence": 2.96,
+      "arousal": 3.14,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Ante' que sea tarde y sin querer me parta en do' (parta en do') Antes de que salga el sol y hunda el acelerador Que vaya sin frenos y pierda el control Nada mÃ¡s seremos do', tÃº y yo acariciÃ¡ndono'",
+      "valence": 2.83,
+      "arousal": 3.07,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Antes de que salga el sol y hunda el acelerador Que vaya sin frenos y pierda el control Nada mÃ¡s seremos do', tÃº y yo acariciÃ¡ndono' En medio del tiempo, sin decir adiÃ³s",
+      "valence": 2.88,
+      "arousal": 3.12,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Que vaya sin frenos y pierda el control Nada mÃ¡s seremos do', tÃº y yo acariciÃ¡ndono' En medio del tiempo, sin decir adiÃ³s Y solo mÃ­rame con esos ojito' lindo'",
+      "valence": 2.92,
+      "arousal": 3.13,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Nada mÃ¡s seremos do', tÃº y yo acariciÃ¡ndono' En medio del tiempo, sin decir adiÃ³s Y solo mÃ­rame con esos ojito' lindo' Que con eso yo estoy bien",
+      "valence": 2.95,
+      "arousal": 3.12,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "En medio del tiempo, sin decir adiÃ³s Y solo mÃ­rame con esos ojito' lindo' Que con eso yo estoy bien Hoy he vuelto a nacer",
+      "valence": 2.92,
+      "arousal": 3.04,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Y solo mÃ­rame con esos ojito' lindo' Que con eso yo estoy bien Hoy he vuelto a nacer HacÐµ tiempo (tiempo) que no agarro a nadie de la mano (mano)",
+      "valence": 2.95,
+      "arousal": 3.13,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Que con eso yo estoy bien Hoy he vuelto a nacer HacÐµ tiempo (tiempo) que no agarro a nadie de la mano (mano) Hace tiempo (tiempo) que no envio: \"buenos dÃ­as, te amo\" (te amo)",
+      "valence": 3.12,
+      "arousal": 3.26,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Hoy he vuelto a nacer HacÐµ tiempo (tiempo) que no agarro a nadie de la mano (mano) Hace tiempo (tiempo) que no envio: \"buenos dÃ­as, te amo\" (te amo) Pero tÃº me tiene' enredao, me envolvÃ­",
+      "valence": 3.13,
+      "arousal": 3.27,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "HacÐµ tiempo (tiempo) que no agarro a nadie de la mano (mano) Hace tiempo (tiempo) que no envio: \"buenos dÃ­as, te amo\" (te amo) Pero tÃº me tiene' enredao, me envolvÃ­ Iba por mi camino y me perdÃ­",
+      "valence": 3.12,
+      "arousal": 3.19,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Hace tiempo (tiempo) que no envio: \"buenos dÃ­as, te amo\" (te amo) Pero tÃº me tiene' enredao, me envolvÃ­ Iba por mi camino y me perdÃ­ Mi mirada cambiÃ³ cuando tus ojos vÃ­",
+      "valence": 3.28,
+      "arousal": 3.35,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Pero tÃº me tiene' enredao, me envolvÃ­ Iba por mi camino y me perdÃ­ Mi mirada cambiÃ³ cuando tus ojos vÃ­ Bye-bye a los culo', ni me despedÃ­",
+      "valence": 3.16,
+      "arousal": 3.35,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Iba por mi camino y me perdÃ­ Mi mirada cambiÃ³ cuando tus ojos vÃ­ Bye-bye a los culo', ni me despedÃ­ Yo no te busquÃ©, no",
+      "valence": 2.95,
+      "arousal": 3.28,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Mi mirada cambiÃ³ cuando tus ojos vÃ­ Bye-bye a los culo', ni me despedÃ­ Yo no te busquÃ©, no Chocamo' en el trayecto",
+      "valence": 2.89,
+      "arousal": 3.23,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Bye-bye a los culo', ni me despedÃ­ Yo no te busquÃ©, no Chocamo' en el trayecto Con tu alma es la que yo conecto",
+      "valence": 2.97,
+      "arousal": 3.24,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Yo no te busquÃ©, no Chocamo' en el trayecto Con tu alma es la que yo conecto Tranquila, no tiene que ser perfecto, no",
+      "valence": 3.07,
+      "arousal": 2.93,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Chocamo' en el trayecto Con tu alma es la que yo conecto Tranquila, no tiene que ser perfecto, no AquÃ­ no existe el pecado",
+      "valence": 3.14,
+      "arousal": 3.01,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "Con tu alma es la que yo conecto Tranquila, no tiene que ser perfecto, no AquÃ­ no existe el pecado Y equivocarse es bonito",
+      "valence": 3.2,
+      "arousal": 3.14,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "Tranquila, no tiene que ser perfecto, no AquÃ­ no existe el pecado Y equivocarse es bonito Los errore' son placere'",
+      "valence": 2.83,
+      "arousal": 3.09,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "AquÃ­ no existe el pecado Y equivocarse es bonito Los errore' son placere' Igual que to' tus besito'",
+      "valence": 2.79,
+      "arousal": 3.13,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Y equivocarse es bonito Los errore' son placere' Igual que to' tus besito' Y solo mÃ­rame con esos ojito' lindo'",
+      "valence": 2.9,
+      "arousal": 3.19,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Los errore' son placere' Igual que to' tus besito' Y solo mÃ­rame con esos ojito' lindo' Que con eso yo estoy bien",
+      "valence": 2.82,
+      "arousal": 3.18,
+      "dominance": 3.23
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Igual que to' tus besito' Y solo mÃ­rame con esos ojito' lindo' Que con eso yo estoy bien Hoy he vuelto a nacer",
+      "valence": 2.98,
+      "arousal": 3.21,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "Y solo mÃ­rame con esos ojito' lindo' Que con eso yo estoy bien Hoy he vuelto a nacer Y solo mÃ­rame con esos ojito' lindo'",
+      "valence": 2.96,
+      "arousal": 3.23,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Que con eso yo estoy bien Hoy he vuelto a nacer Y solo mÃ­rame con esos ojito' lindo' Que con eso yo estoy bien",
+      "valence": 2.97,
+      "arousal": 3.28,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Hoy he vuelto a nacer Y solo mÃ­rame con esos ojito' lindo' Que con eso yo estoy bien Hoy he vuelto a nacer",
+      "valence": 2.99,
+      "arousal": 3.24,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Y solo mÃ­rame con esos ojito' lindo' Que con eso yo estoy bien Hoy he vuelto a nacer TÃº y yo, tÃº y yo, tÃº y yo (tÃº y yo, tÃº y yo)",
+      "valence": 2.99,
+      "arousal": 3.26,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Que con eso yo estoy bien Hoy he vuelto a nacer TÃº y yo, tÃº y yo, tÃº y yo (tÃº y yo, tÃº y yo) TÃº y yo, tÃº y yo (tÃº y yo, tÃº y yo), tÃº y yo",
+      "valence": 2.99,
+      "arousal": 3.2,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Hoy he vuelto a nacer TÃº y yo, tÃº y yo, tÃº y yo (tÃº y yo, tÃº y yo) TÃº y yo, tÃº y yo (tÃº y yo, tÃº y yo), tÃº y yo TÃº y yo, tÃº y yo",
+      "valence": 3.0,
+      "arousal": 3.12,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "TÃº y yo, tÃº y yo, tÃº y yo (tÃº y yo, tÃº y yo) TÃº y yo, tÃº y yo (tÃº y yo, tÃº y yo), tÃº y yo TÃº y yo, tÃº y yo TÃº y yo, tÃº y yo",
+      "valence": 2.94,
+      "arousal": 3.17,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "TÃº y yo, tÃº y yo (tÃº y yo, tÃº y yo), tÃº y yo TÃº y yo, tÃº y yo TÃº y yo, tÃº y yo Yo no me dejo llevar de nadie",
+      "valence": 2.87,
+      "arousal": 2.99,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "TÃº y yo, tÃº y yo TÃº y yo, tÃº y yo Yo no me dejo llevar de nadie Yo solo me dejo llevar de tu sonrisa",
+      "valence": 2.92,
+      "arousal": 3.03,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "TÃº y yo, tÃº y yo Yo no me dejo llevar de nadie Yo solo me dejo llevar de tu sonrisa Y del lunar cerquita de tu boca",
+      "valence": 2.89,
+      "arousal": 3.0,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Yo no me dejo llevar de nadie Yo solo me dejo llevar de tu sonrisa Y del lunar cerquita de tu boca Si yo estoy loco, tÃº estÃ¡s loquita",
+      "valence": 2.96,
+      "arousal": 3.03,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "Yo solo me dejo llevar de tu sonrisa Y del lunar cerquita de tu boca Si yo estoy loco, tÃº estÃ¡s loquita Pero, baby, como tÃº no hay otra, no",
+      "valence": 3.01,
+      "arousal": 3.08,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Y del lunar cerquita de tu boca Si yo estoy loco, tÃº estÃ¡s loquita Pero, baby, como tÃº no hay otra, no Quiero regalarte girasole'",
+      "valence": 3.02,
+      "arousal": 3.03,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "Si yo estoy loco, tÃº estÃ¡s loquita Pero, baby, como tÃº no hay otra, no Quiero regalarte girasole' Ir pa la playa y buscarte caracole'",
+      "valence": 3.03,
+      "arousal": 3.06,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "Pero, baby, como tÃº no hay otra, no Quiero regalarte girasole' Ir pa la playa y buscarte caracole' Cuando estoy contigo, yo no miro el Rolex",
+      "valence": 3.04,
+      "arousal": 3.08,
+      "dominance": 3.18
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Quiero regalarte girasole' Ir pa la playa y buscarte caracole' Cuando estoy contigo, yo no miro el Rolex Vamo' a bailar 200 cancione'",
+      "valence": 3.04,
+      "arousal": 3.14,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "Ir pa la playa y buscarte caracole' Cuando estoy contigo, yo no miro el Rolex Vamo' a bailar 200 cancione' Nadie me pone como tÃº me pone'",
+      "valence": 3.02,
+      "arousal": 3.02,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "Cuando estoy contigo, yo no miro el Rolex Vamo' a bailar 200 cancione' Nadie me pone como tÃº me pone' Mmm, mm-mm, mmm",
+      "valence": 3.12,
+      "arousal": 3.23,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "Vamo' a bailar 200 cancione' Nadie me pone como tÃº me pone' Mmm, mm-mm, mmm Mmm, mm-mm, mmm",
+      "valence": 3.08,
+      "arousal": 3.21,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Nadie me pone como tÃº me pone' Mmm, mm-mm, mmm Mmm, mm-mm, mmm Yo le hablo a Dio' y tÃº ere' su respuesta",
+      "valence": 3.1,
+      "arousal": 3.26,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "Mmm, mm-mm, mmm Mmm, mm-mm, mmm Yo le hablo a Dio' y tÃº ere' su respuesta AprendÃ­ que los momento' lindo' nunca cuestan",
+      "valence": 3.13,
+      "arousal": 3.26,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Mmm, mm-mm, mmm Yo le hablo a Dio' y tÃº ere' su respuesta AprendÃ­ que los momento' lindo' nunca cuestan Como cuando me regalas tu mirada",
+      "valence": 3.18,
+      "arousal": 3.31,
+      "dominance": 3.09
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Yo le hablo a Dio' y tÃº ere' su respuesta AprendÃ­ que los momento' lindo' nunca cuestan Como cuando me regalas tu mirada Y el sol su puesta (ey, ey), y el sol su puesta",
+      "valence": 3.08,
+      "arousal": 3.24,
+      "dominance": 3.11
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "AprendÃ­ que los momento' lindo' nunca cuestan Como cuando me regalas tu mirada Y el sol su puesta (ey, ey), y el sol su puesta Cuando estoy encima de ti, de ti",
+      "valence": 3.04,
+      "arousal": 3.12,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Como cuando me regalas tu mirada Y el sol su puesta (ey, ey), y el sol su puesta Cuando estoy encima de ti, de ti Mami, yo me olvido de to, de to",
+      "valence": 3.16,
+      "arousal": 3.31,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Y el sol su puesta (ey, ey), y el sol su puesta Cuando estoy encima de ti, de ti Mami, yo me olvido de to, de to No hace falta nadie aquÃ­",
+      "valence": 2.94,
+      "arousal": 3.05,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Cuando estoy encima de ti, de ti Mami, yo me olvido de to, de to No hace falta nadie aquÃ­ Solamente tÃº y yo",
+      "valence": 2.94,
+      "arousal": 3.06,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Mami, yo me olvido de to, de to No hace falta nadie aquÃ­ Solamente tÃº y yo Antes de que salga el sol y hunda el acelerador",
+      "valence": 2.96,
+      "arousal": 2.97,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "No hace falta nadie aquÃ­ Solamente tÃº y yo Antes de que salga el sol y hunda el acelerador Que vaya sin frenos y pierda el control",
+      "valence": 2.94,
+      "arousal": 3.04,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 55,
+      "lyrics_text": "Solamente tÃº y yo Antes de que salga el sol y hunda el acelerador Que vaya sin frenos y pierda el control Nada mÃ¡s seremos do', tÃº y yo acariciÃ¡ndono'",
+      "valence": 2.95,
+      "arousal": 3.11,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 56,
+      "lyrics_text": "Antes de que salga el sol y hunda el acelerador Que vaya sin frenos y pierda el control Nada mÃ¡s seremos do', tÃº y yo acariciÃ¡ndono' En medio del tiempo, sin decir adiÃ³s",
+      "valence": 2.88,
+      "arousal": 3.12,
+      "dominance": 3.13
+    },
+    {
+      "chunk_id": 57,
+      "lyrics_text": "Que vaya sin frenos y pierda el control Nada mÃ¡s seremos do', tÃº y yo acariciÃ¡ndono' En medio del tiempo, sin decir adiÃ³s Y solo mÃ­rame con esos ojito' lindo'",
+      "valence": 2.92,
+      "arousal": 3.13,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 58,
+      "lyrics_text": "Nada mÃ¡s seremos do', tÃº y yo acariciÃ¡ndono' En medio del tiempo, sin decir adiÃ³s Y solo mÃ­rame con esos ojito' lindo' Que con eso yo estoy bien",
+      "valence": 2.95,
+      "arousal": 3.12,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 59,
+      "lyrics_text": "En medio del tiempo, sin decir adiÃ³s Y solo mÃ­rame con esos ojito' lindo' Que con eso yo estoy bien Hoy he vuelto a nacer",
+      "valence": 2.92,
+      "arousal": 3.04,
+      "dominance": 3.12
+    },
+    {
+      "chunk_id": 60,
+      "lyrics_text": "Y solo mÃ­rame con esos ojito' lindo' Que con eso yo estoy bien Hoy he vuelto a nacer Y solo mÃ­rame con esos ojito' lindo'",
+      "valence": 2.96,
+      "arousal": 3.23,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 61,
+      "lyrics_text": "Que con eso yo estoy bien Hoy he vuelto a nacer Y solo mÃ­rame con esos ojito' lindo' Que con eso yo estoy bien",
+      "valence": 2.97,
+      "arousal": 3.28,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 62,
+      "lyrics_text": "Hoy he vuelto a nacer Y solo mÃ­rame con esos ojito' lindo' Que con eso yo estoy bien Hoy he vuelto a nacer",
+      "valence": 2.99,
+      "arousal": 3.24,
+      "dominance": 3.14
+    },
+    {
+      "chunk_id": 63,
+      "lyrics_text": "Y solo mÃ­rame con esos ojito' lindo' Que con eso yo estoy bien Hoy he vuelto a nacer Translate to English",
+      "valence": 2.97,
+      "arousal": 3.17,
+      "dominance": 3.09
+    }
+  ]
+}

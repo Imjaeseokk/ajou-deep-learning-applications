@@ -1,0 +1,143 @@
+{
+  "artist": "M83.",
+  "overall_vad": {
+    "valence": 3.04,
+    "arousal": 3.25,
+    "dominance": 2.89
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "Waiting in the car Waiting for the ride in the dark At night the city grows Look at the horizon glow",
+      "valence": 3.14,
+      "arousal": 3.18,
+      "dominance": 2.97
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "Waiting for the ride in the dark At night the city grows Look at the horizon glow Waiting in the car",
+      "valence": 3.14,
+      "arousal": 3.18,
+      "dominance": 2.98
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "At night the city grows Look at the horizon glow Waiting in the car Waiting for the ride in the dark",
+      "valence": 3.22,
+      "arousal": 3.23,
+      "dominance": 3.01
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Look at the horizon glow Waiting in the car Waiting for the ride in the dark Drinking in the lounge",
+      "valence": 3.38,
+      "arousal": 3.18,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Waiting in the car Waiting for the ride in the dark Drinking in the lounge Following the neon signs",
+      "valence": 2.97,
+      "arousal": 3.12,
+      "dominance": 2.84
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "Waiting for the ride in the dark Drinking in the lounge Following the neon signs Waiting for a word",
+      "valence": 3.11,
+      "arousal": 3.2,
+      "dominance": 2.91
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Drinking in the lounge Following the neon signs Waiting for a word Looking at the milky skyline",
+      "valence": 3.14,
+      "arousal": 3.02,
+      "dominance": 3.04
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Following the neon signs Waiting for a word Looking at the milky skyline The city is my church",
+      "valence": 3.14,
+      "arousal": 3.19,
+      "dominance": 3.06
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "Waiting for a word Looking at the milky skyline The city is my church It wraps me in its blinding twilight",
+      "valence": 3.21,
+      "arousal": 3.51,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Looking at the milky skyline The city is my church It wraps me in its blinding twilight Waiting in the car",
+      "valence": 3.42,
+      "arousal": 3.45,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "The city is my church It wraps me in its blinding twilight Waiting in the car Waiting for the ride in the dark",
+      "valence": 3.13,
+      "arousal": 3.33,
+      "dominance": 2.92
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "It wraps me in its blinding twilight Waiting in the car Waiting for the ride in the dark Waiting in the car",
+      "valence": 3.13,
+      "arousal": 3.35,
+      "dominance": 2.89
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Waiting in the car Waiting for the ride in the dark Waiting in the car Waiting for the ride in the dark",
+      "valence": 2.77,
+      "arousal": 3.27,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "Waiting for the ride in the dark Waiting in the car Waiting for the ride in the dark Waiting in the car",
+      "valence": 2.83,
+      "arousal": 3.25,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Waiting in the car Waiting for the ride in the dark Waiting in the car Waiting for the ride in the dark",
+      "valence": 2.77,
+      "arousal": 3.27,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "Waiting for the ride in the dark Waiting in the car Waiting for the ride in the dark Waiting in the car",
+      "valence": 2.83,
+      "arousal": 3.25,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Waiting in the car Waiting for the ride in the dark Waiting in the car Waiting for the ride in the dark",
+      "valence": 2.77,
+      "arousal": 3.27,
+      "dominance": 2.72
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Waiting for the ride in the dark Waiting in the car Waiting for the ride in the dark Waiting in the car",
+      "valence": 2.83,
+      "arousal": 3.25,
+      "dominance": 2.76
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Waiting in the car Waiting for the ride in the dark Waiting in the car Waiting for the ride in the dark",
+      "valence": 2.77,
+      "arousal": 3.27,
+      "dominance": 2.72
+    }
+  ]
+}

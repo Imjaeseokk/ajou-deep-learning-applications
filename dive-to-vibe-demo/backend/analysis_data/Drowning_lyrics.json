@@ -1,0 +1,388 @@
+{
+  "artist": "A Boogie Wit da Hoodie Featuring Kodak Black",
+  "overall_vad": {
+    "valence": 2.48,
+    "arousal": 3.72,
+    "dominance": 3.23
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "I'm drownin' I'm drownin' I'm drownin' I'm drownin'",
+      "valence": 1.94,
+      "arousal": 3.67,
+      "dominance": 2.75
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "I'm drownin' I'm drownin' I'm drownin' Wrist so icy, wonder why she like me, bitch I'm drownin'",
+      "valence": 2.01,
+      "arousal": 3.82,
+      "dominance": 2.73
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "I'm drownin' I'm drownin' Wrist so icy, wonder why she like me, bitch I'm drownin' In water, I just bought a Cuban, dipped it in the fountain",
+      "valence": 2.3,
+      "arousal": 3.66,
+      "dominance": 2.95
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "I'm drownin' Wrist so icy, wonder why she like me, bitch I'm drownin' In water, I just bought a Cuban, dipped it in the fountain Everywhere that I go it's a light show, I'm surrounded",
+      "valence": 2.59,
+      "arousal": 3.69,
+      "dominance": 2.93
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Wrist so icy, wonder why she like me, bitch I'm drownin' In water, I just bought a Cuban, dipped it in the fountain Everywhere that I go it's a light show, I'm surrounded Bust down, bust down, bust down, bust down, bust down, bitch I'm drownin'",
+      "valence": 2.36,
+      "arousal": 3.79,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "In water, I just bought a Cuban, dipped it in the fountain Everywhere that I go it's a light show, I'm surrounded Bust down, bust down, bust down, bust down, bust down, bitch I'm drownin' I just bought a Cuban ring and dipped it in the fountain",
+      "valence": 2.71,
+      "arousal": 3.62,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "Everywhere that I go it's a light show, I'm surrounded Bust down, bust down, bust down, bust down, bust down, bitch I'm drownin' I just bought a Cuban ring and dipped it in the fountain Chain so heavy I feel like I'm holdin' up a mountain",
+      "valence": 2.73,
+      "arousal": 3.86,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "Bust down, bust down, bust down, bust down, bust down, bitch I'm drownin' I just bought a Cuban ring and dipped it in the fountain Chain so heavy I feel like I'm holdin' up a mountain Everywhere that I go it's a light show, I'm surrounded",
+      "valence": 2.4,
+      "arousal": 3.98,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I just bought a Cuban ring and dipped it in the fountain Chain so heavy I feel like I'm holdin' up a mountain Everywhere that I go it's a light show, I'm surrounded Bust down, bust down, bust down, bust down, bust down, bitch I'm drownin'",
+      "valence": 2.69,
+      "arousal": 3.75,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Chain so heavy I feel like I'm holdin' up a mountain Everywhere that I go it's a light show, I'm surrounded Bust down, bust down, bust down, bust down, bust down, bitch I'm drownin' I'm with all my niggas, I don't go nowhere without 'em",
+      "valence": 2.61,
+      "arousal": 3.82,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "Everywhere that I go it's a light show, I'm surrounded Bust down, bust down, bust down, bust down, bust down, bitch I'm drownin' I'm with all my niggas, I don't go nowhere without 'em If they don't let us in they might throw shots at the bouncer",
+      "valence": 2.68,
+      "arousal": 3.86,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "Bust down, bust down, bust down, bust down, bust down, bitch I'm drownin' I'm with all my niggas, I don't go nowhere without 'em If they don't let us in they might throw shots at the bouncer Actavis medicine, got it straight from out the doctor's",
+      "valence": 2.17,
+      "arousal": 3.9,
+      "dominance": 3.64
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "I'm with all my niggas, I don't go nowhere without 'em If they don't let us in they might throw shots at the bouncer Actavis medicine, got it straight from out the doctor's I'm with RJ but I call him Wayne 'cause he's a shotta",
+      "valence": 2.81,
+      "arousal": 3.48,
+      "dominance": 3.63
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "If they don't let us in they might throw shots at the bouncer Actavis medicine, got it straight from out the doctor's I'm with RJ but I call him Wayne 'cause he's a shotta Pick up the ladder, put it in the gun, make the .9 stretch",
+      "valence": 2.73,
+      "arousal": 3.47,
+      "dominance": 3.52
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "Actavis medicine, got it straight from out the doctor's I'm with RJ but I call him Wayne 'cause he's a shotta Pick up the ladder, put it in the gun, make the .9 stretch Niggas with attitude, but we come straight out of Highbridge",
+      "valence": 3.06,
+      "arousal": 3.34,
+      "dominance": 3.56
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "I'm with RJ but I call him Wayne 'cause he's a shotta Pick up the ladder, put it in the gun, make the .9 stretch Niggas with attitude, but we come straight out of Highbridge I'm gon' make her panties wet when she see the way I flex",
+      "valence": 3.05,
+      "arousal": 3.52,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Pick up the ladder, put it in the gun, make the .9 stretch Niggas with attitude, but we come straight out of Highbridge I'm gon' make her panties wet when she see the way I flex I'm gon' win a Grammy, move my family out the projects",
+      "valence": 3.15,
+      "arousal": 3.74,
+      "dominance": 3.78
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "Niggas with attitude, but we come straight out of Highbridge I'm gon' make her panties wet when she see the way I flex I'm gon' win a Grammy, move my family out the projects We went from chillin' in the projects to makin' projects",
+      "valence": 3.2,
+      "arousal": 3.66,
+      "dominance": 3.51
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "I'm gon' make her panties wet when she see the way I flex I'm gon' win a Grammy, move my family out the projects We went from chillin' in the projects to makin' projects We was tryna get to the top, and they tried to stop us",
+      "valence": 3.21,
+      "arousal": 3.88,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "I'm gon' win a Grammy, move my family out the projects We went from chillin' in the projects to makin' projects We was tryna get to the top, and they tried to stop us I talk for myself, bitch I don't need no fucking voucher",
+      "valence": 2.61,
+      "arousal": 3.86,
+      "dominance": 3.4
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "We went from chillin' in the projects to makin' projects We was tryna get to the top, and they tried to stop us I talk for myself, bitch I don't need no fucking voucher She looked at my wrist and she looked at a hundred thousand",
+      "valence": 2.41,
+      "arousal": 3.62,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "We was tryna get to the top, and they tried to stop us I talk for myself, bitch I don't need no fucking voucher She looked at my wrist and she looked at a hundred thousand Wrist so icy, wonder why she like me, bitch I'm drownin'",
+      "valence": 2.1,
+      "arousal": 3.85,
+      "dominance": 3.05
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "I talk for myself, bitch I don't need no fucking voucher She looked at my wrist and she looked at a hundred thousand Wrist so icy, wonder why she like me, bitch I'm drownin' In water, I just bought a Cuban, dipped it in the fountain",
+      "valence": 2.25,
+      "arousal": 3.65,
+      "dominance": 3.15
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "She looked at my wrist and she looked at a hundred thousand Wrist so icy, wonder why she like me, bitch I'm drownin' In water, I just bought a Cuban, dipped it in the fountain Everywhere that I go it's a light show, I'm surrounded",
+      "valence": 2.59,
+      "arousal": 3.71,
+      "dominance": 2.85
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Wrist so icy, wonder why she like me, bitch I'm drownin' In water, I just bought a Cuban, dipped it in the fountain Everywhere that I go it's a light show, I'm surrounded Bust down, bust down, bust down, bust down, bust down, bitch I'm drownin'",
+      "valence": 2.36,
+      "arousal": 3.79,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "In water, I just bought a Cuban, dipped it in the fountain Everywhere that I go it's a light show, I'm surrounded Bust down, bust down, bust down, bust down, bust down, bitch I'm drownin' I just bought a Cuban ring and dipped it in the fountain",
+      "valence": 2.71,
+      "arousal": 3.62,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Everywhere that I go it's a light show, I'm surrounded Bust down, bust down, bust down, bust down, bust down, bitch I'm drownin' I just bought a Cuban ring and dipped it in the fountain Chain so heavy I feel like I'm holdin' up a mountain",
+      "valence": 2.73,
+      "arousal": 3.86,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "Bust down, bust down, bust down, bust down, bust down, bitch I'm drownin' I just bought a Cuban ring and dipped it in the fountain Chain so heavy I feel like I'm holdin' up a mountain Everywhere that I go it's a light show, I'm surrounded",
+      "valence": 2.4,
+      "arousal": 3.98,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "I just bought a Cuban ring and dipped it in the fountain Chain so heavy I feel like I'm holdin' up a mountain Everywhere that I go it's a light show, I'm surrounded Bust down, bust down, bust down, bust down, bust down, bitch I'm drownin'",
+      "valence": 2.69,
+      "arousal": 3.75,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "Chain so heavy I feel like I'm holdin' up a mountain Everywhere that I go it's a light show, I'm surrounded Bust down, bust down, bust down, bust down, bust down, bitch I'm drownin' Just bought a brand new chain from Avianne",
+      "valence": 2.68,
+      "arousal": 3.84,
+      "dominance": 2.99
+    },
+    {
+      "chunk_id": 31,
+      "lyrics_text": "Everywhere that I go it's a light show, I'm surrounded Bust down, bust down, bust down, bust down, bust down, bitch I'm drownin' Just bought a brand new chain from Avianne Nigga with attitude but I ain't from Compton",
+      "valence": 2.59,
+      "arousal": 3.79,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 32,
+      "lyrics_text": "Bust down, bust down, bust down, bust down, bust down, bitch I'm drownin' Just bought a brand new chain from Avianne Nigga with attitude but I ain't from Compton Lil Kodak, bitch, I'm Polo'd down like Carlton",
+      "valence": 2.21,
+      "arousal": 3.86,
+      "dominance": 3.54
+    },
+    {
+      "chunk_id": 33,
+      "lyrics_text": "Just bought a brand new chain from Avianne Nigga with attitude but I ain't from Compton Lil Kodak, bitch, I'm Polo'd down like Carlton Sniper Gang, I put a nigga on a carton",
+      "valence": 2.6,
+      "arousal": 3.5,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 34,
+      "lyrics_text": "Nigga with attitude but I ain't from Compton Lil Kodak, bitch, I'm Polo'd down like Carlton Sniper Gang, I put a nigga on a carton I'm the shit I'm fartin', I don't know how to potty",
+      "valence": 2.24,
+      "arousal": 3.51,
+      "dominance": 3.42
+    },
+    {
+      "chunk_id": 35,
+      "lyrics_text": "Lil Kodak, bitch, I'm Polo'd down like Carlton Sniper Gang, I put a nigga on a carton I'm the shit I'm fartin', I don't know how to potty Pull up in a 'Rari, I'm in the Yo like Gotti",
+      "valence": 2.14,
+      "arousal": 3.7,
+      "dominance": 3.44
+    },
+    {
+      "chunk_id": 36,
+      "lyrics_text": "Sniper Gang, I put a nigga on a carton I'm the shit I'm fartin', I don't know how to potty Pull up in a 'Rari, I'm in the Yo like Gotti A Boogie, I'm goin' Scottie, nigga drop my deposit",
+      "valence": 2.34,
+      "arousal": 3.6,
+      "dominance": 3.46
+    },
+    {
+      "chunk_id": 37,
+      "lyrics_text": "I'm the shit I'm fartin', I don't know how to potty Pull up in a 'Rari, I'm in the Yo like Gotti A Boogie, I'm goin' Scottie, nigga drop my deposit I ain't Jamaican, bitch, I'm Haitian, but I got them shottas",
+      "valence": 2.11,
+      "arousal": 3.73,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 38,
+      "lyrics_text": "Pull up in a 'Rari, I'm in the Yo like Gotti A Boogie, I'm goin' Scottie, nigga drop my deposit I ain't Jamaican, bitch, I'm Haitian, but I got them shottas Harley Davidson, every day I'm ridin' with the chopper",
+      "valence": 2.77,
+      "arousal": 3.34,
+      "dominance": 3.34
+    },
+    {
+      "chunk_id": 39,
+      "lyrics_text": "A Boogie, I'm goin' Scottie, nigga drop my deposit I ain't Jamaican, bitch, I'm Haitian, but I got them shottas Harley Davidson, every day I'm ridin' with the chopper They hatin', I know they don't wanna see a nigga prosper",
+      "valence": 2.53,
+      "arousal": 3.39,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 40,
+      "lyrics_text": "I ain't Jamaican, bitch, I'm Haitian, but I got them shottas Harley Davidson, every day I'm ridin' with the chopper They hatin', I know they don't wanna see a nigga prosper I ain't doin' trims, I'm in the cut like I'm a barber",
+      "valence": 2.45,
+      "arousal": 3.33,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 41,
+      "lyrics_text": "Harley Davidson, every day I'm ridin' with the chopper They hatin', I know they don't wanna see a nigga prosper I ain't doin' trims, I'm in the cut like I'm a barber She call me daddy, but I ain't her motherfuckin' father",
+      "valence": 2.47,
+      "arousal": 3.26,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 42,
+      "lyrics_text": "They hatin', I know they don't wanna see a nigga prosper I ain't doin' trims, I'm in the cut like I'm a barber She call me daddy, but I ain't her motherfuckin' father Wrist so icy, wonder why she like me, bitch I'm drownin'",
+      "valence": 2.12,
+      "arousal": 3.63,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 43,
+      "lyrics_text": "I ain't doin' trims, I'm in the cut like I'm a barber She call me daddy, but I ain't her motherfuckin' father Wrist so icy, wonder why she like me, bitch I'm drownin' In water, I just bought a Cuban, dipped it in the fountain",
+      "valence": 2.32,
+      "arousal": 3.59,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 44,
+      "lyrics_text": "She call me daddy, but I ain't her motherfuckin' father Wrist so icy, wonder why she like me, bitch I'm drownin' In water, I just bought a Cuban, dipped it in the fountain Everywhere that I go it's a light show, I'm surrounded",
+      "valence": 2.42,
+      "arousal": 3.72,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 45,
+      "lyrics_text": "Wrist so icy, wonder why she like me, bitch I'm drownin' In water, I just bought a Cuban, dipped it in the fountain Everywhere that I go it's a light show, I'm surrounded Bust down, bust down, bust down, bust down, bust down, bitch I'm drownin'",
+      "valence": 2.36,
+      "arousal": 3.79,
+      "dominance": 2.86
+    },
+    {
+      "chunk_id": 46,
+      "lyrics_text": "In water, I just bought a Cuban, dipped it in the fountain Everywhere that I go it's a light show, I'm surrounded Bust down, bust down, bust down, bust down, bust down, bitch I'm drownin' I just bought a Cuban ring and dipped it in the fountain",
+      "valence": 2.71,
+      "arousal": 3.62,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 47,
+      "lyrics_text": "Everywhere that I go it's a light show, I'm surrounded Bust down, bust down, bust down, bust down, bust down, bitch I'm drownin' I just bought a Cuban ring and dipped it in the fountain Chain so heavy I feel like I'm holdin' up a mountain",
+      "valence": 2.73,
+      "arousal": 3.86,
+      "dominance": 3.08
+    },
+    {
+      "chunk_id": 48,
+      "lyrics_text": "Bust down, bust down, bust down, bust down, bust down, bitch I'm drownin' I just bought a Cuban ring and dipped it in the fountain Chain so heavy I feel like I'm holdin' up a mountain Everywhere that I go it's a light show, I'm surrounded",
+      "valence": 2.4,
+      "arousal": 3.98,
+      "dominance": 3.29
+    },
+    {
+      "chunk_id": 49,
+      "lyrics_text": "I just bought a Cuban ring and dipped it in the fountain Chain so heavy I feel like I'm holdin' up a mountain Everywhere that I go it's a light show, I'm surrounded Bust down, bust down, bust down, bust down, bust down, bitch I'm drownin'",
+      "valence": 2.69,
+      "arousal": 3.75,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 50,
+      "lyrics_text": "Chain so heavy I feel like I'm holdin' up a mountain Everywhere that I go it's a light show, I'm surrounded Bust down, bust down, bust down, bust down, bust down, bitch I'm drownin' Bitch, I'm drownin'",
+      "valence": 2.33,
+      "arousal": 3.92,
+      "dominance": 3.02
+    },
+    {
+      "chunk_id": 51,
+      "lyrics_text": "Everywhere that I go it's a light show, I'm surrounded Bust down, bust down, bust down, bust down, bust down, bitch I'm drownin' Bitch, I'm drownin' Bitch, I'm drownin'",
+      "valence": 2.35,
+      "arousal": 4.02,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 52,
+      "lyrics_text": "Bust down, bust down, bust down, bust down, bust down, bitch I'm drownin' Bitch, I'm drownin' Bitch, I'm drownin' Drownin'",
+      "valence": 1.72,
+      "arousal": 4.08,
+      "dominance": 3.48
+    },
+    {
+      "chunk_id": 53,
+      "lyrics_text": "Bitch, I'm drownin' Bitch, I'm drownin' Drownin' Drownin'",
+      "valence": 1.82,
+      "arousal": 3.98,
+      "dominance": 3.25
+    },
+    {
+      "chunk_id": 54,
+      "lyrics_text": "Bitch, I'm drownin' Drownin' Drownin' Drownin'",
+      "valence": 1.74,
+      "arousal": 3.93,
+      "dominance": 3.24
+    }
+  ]
+}

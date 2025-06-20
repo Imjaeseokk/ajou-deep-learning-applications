@@ -1,0 +1,220 @@
+{
+  "artist": "Craig Campbell",
+  "overall_vad": {
+    "valence": 3.36,
+    "arousal": 3.72,
+    "dominance": 3.27
+  },
+  "chunked_vad": [
+    {
+      "chunk_id": 1,
+      "lyrics_text": "You got your hair down You got that look in your eye That says come here and get me boy Lay me down and love me just right, yeah",
+      "valence": 3.63,
+      "arousal": 3.99,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 2,
+      "lyrics_text": "You got that look in your eye That says come here and get me boy Lay me down and love me just right, yeah Ain't goin' no where",
+      "valence": 3.27,
+      "arousal": 3.84,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 3,
+      "lyrics_text": "That says come here and get me boy Lay me down and love me just right, yeah Ain't goin' no where I got a bottle of wine",
+      "valence": 3.42,
+      "arousal": 3.72,
+      "dominance": 3.33
+    },
+    {
+      "chunk_id": 4,
+      "lyrics_text": "Lay me down and love me just right, yeah Ain't goin' no where I got a bottle of wine I got nothin' but time on my hands",
+      "valence": 3.48,
+      "arousal": 3.58,
+      "dominance": 3.26
+    },
+    {
+      "chunk_id": 5,
+      "lyrics_text": "Ain't goin' no where I got a bottle of wine I got nothin' but time on my hands And I'm gonna be your man tonight, ah yes I am",
+      "valence": 3.4,
+      "arousal": 3.57,
+      "dominance": 3.49
+    },
+    {
+      "chunk_id": 6,
+      "lyrics_text": "I got a bottle of wine I got nothin' but time on my hands And I'm gonna be your man tonight, ah yes I am I can't imagine doin' nothin but what I'm doin'",
+      "valence": 3.38,
+      "arousal": 3.49,
+      "dominance": 3.39
+    },
+    {
+      "chunk_id": 7,
+      "lyrics_text": "I got nothin' but time on my hands And I'm gonna be your man tonight, ah yes I am I can't imagine doin' nothin but what I'm doin' Just layin' round tangled up with you",
+      "valence": 3.19,
+      "arousal": 3.53,
+      "dominance": 3.24
+    },
+    {
+      "chunk_id": 8,
+      "lyrics_text": "And I'm gonna be your man tonight, ah yes I am I can't imagine doin' nothin but what I'm doin' Just layin' round tangled up with you We got our buzz on sippin' on a little something",
+      "valence": 3.35,
+      "arousal": 3.57,
+      "dominance": 3.19
+    },
+    {
+      "chunk_id": 9,
+      "lyrics_text": "I can't imagine doin' nothin but what I'm doin' Just layin' round tangled up with you We got our buzz on sippin' on a little something I need your lovin'",
+      "valence": 3.08,
+      "arousal": 3.48,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 10,
+      "lyrics_text": "Just layin' round tangled up with you We got our buzz on sippin' on a little something I need your lovin' Just keep them kisses comin'",
+      "valence": 3.79,
+      "arousal": 3.78,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 11,
+      "lyrics_text": "We got our buzz on sippin' on a little something I need your lovin' Just keep them kisses comin' It's been a long week",
+      "valence": 3.62,
+      "arousal": 3.69,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 12,
+      "lyrics_text": "I need your lovin' Just keep them kisses comin' It's been a long week I've been missin' me some you",
+      "valence": 3.94,
+      "arousal": 3.82,
+      "dominance": 3.28
+    },
+    {
+      "chunk_id": 13,
+      "lyrics_text": "Just keep them kisses comin' It's been a long week I've been missin' me some you All I wanna do is get your lips on mine",
+      "valence": 3.72,
+      "arousal": 3.91,
+      "dominance": 3.3
+    },
+    {
+      "chunk_id": 14,
+      "lyrics_text": "It's been a long week I've been missin' me some you All I wanna do is get your lips on mine Girl if you only knew, hey",
+      "valence": 3.19,
+      "arousal": 3.94,
+      "dominance": 3.07
+    },
+    {
+      "chunk_id": 15,
+      "lyrics_text": "I've been missin' me some you All I wanna do is get your lips on mine Girl if you only knew, hey I can't imagine doin' nothin' but what I'm doin'",
+      "valence": 3.09,
+      "arousal": 3.83,
+      "dominance": 3.16
+    },
+    {
+      "chunk_id": 16,
+      "lyrics_text": "All I wanna do is get your lips on mine Girl if you only knew, hey I can't imagine doin' nothin' but what I'm doin' Just layin' round tangled up with you",
+      "valence": 3.18,
+      "arousal": 3.9,
+      "dominance": 3.2
+    },
+    {
+      "chunk_id": 17,
+      "lyrics_text": "Girl if you only knew, hey I can't imagine doin' nothin' but what I'm doin' Just layin' round tangled up with you We got our buzz on sippin' on a little something",
+      "valence": 3.1,
+      "arousal": 3.49,
+      "dominance": 3.22
+    },
+    {
+      "chunk_id": 18,
+      "lyrics_text": "I can't imagine doin' nothin' but what I'm doin' Just layin' round tangled up with you We got our buzz on sippin' on a little something I need your lovin'",
+      "valence": 3.09,
+      "arousal": 3.48,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 19,
+      "lyrics_text": "Just layin' round tangled up with you We got our buzz on sippin' on a little something I need your lovin' Just keep them kisses comin'",
+      "valence": 3.79,
+      "arousal": 3.78,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 20,
+      "lyrics_text": "We got our buzz on sippin' on a little something I need your lovin' Just keep them kisses comin' Yeah keep 'em comin' all night",
+      "valence": 3.53,
+      "arousal": 3.68,
+      "dominance": 3.43
+    },
+    {
+      "chunk_id": 21,
+      "lyrics_text": "I need your lovin' Just keep them kisses comin' Yeah keep 'em comin' all night Don't stop killin' me baby",
+      "valence": 3.46,
+      "arousal": 3.79,
+      "dominance": 3.41
+    },
+    {
+      "chunk_id": 22,
+      "lyrics_text": "Just keep them kisses comin' Yeah keep 'em comin' all night Don't stop killin' me baby Don't stop drivin' me crazy",
+      "valence": 2.92,
+      "arousal": 3.7,
+      "dominance": 3.35
+    },
+    {
+      "chunk_id": 23,
+      "lyrics_text": "Yeah keep 'em comin' all night Don't stop killin' me baby Don't stop drivin' me crazy I swear there's honey on your lips",
+      "valence": 2.57,
+      "arousal": 3.78,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 24,
+      "lyrics_text": "Don't stop killin' me baby Don't stop drivin' me crazy I swear there's honey on your lips Baby give me one more long slow kiss",
+      "valence": 3.07,
+      "arousal": 3.96,
+      "dominance": 3.31
+    },
+    {
+      "chunk_id": 25,
+      "lyrics_text": "Don't stop drivin' me crazy I swear there's honey on your lips Baby give me one more long slow kiss I can't imagine doin' nothin' but what I'm doin'",
+      "valence": 3.19,
+      "arousal": 3.96,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 26,
+      "lyrics_text": "I swear there's honey on your lips Baby give me one more long slow kiss I can't imagine doin' nothin' but what I'm doin' Just layin' round tangled up with you",
+      "valence": 3.58,
+      "arousal": 3.87,
+      "dominance": 3.21
+    },
+    {
+      "chunk_id": 27,
+      "lyrics_text": "Baby give me one more long slow kiss I can't imagine doin' nothin' but what I'm doin' Just layin' round tangled up with you We got our buzz on sippin' on a little something",
+      "valence": 3.5,
+      "arousal": 3.67,
+      "dominance": 3.17
+    },
+    {
+      "chunk_id": 28,
+      "lyrics_text": "I can't imagine doin' nothin' but what I'm doin' Just layin' round tangled up with you We got our buzz on sippin' on a little something I need your lovin'",
+      "valence": 3.09,
+      "arousal": 3.48,
+      "dominance": 3.03
+    },
+    {
+      "chunk_id": 29,
+      "lyrics_text": "Just layin' round tangled up with you We got our buzz on sippin' on a little something I need your lovin' Just keep them kisses comin'",
+      "valence": 3.79,
+      "arousal": 3.78,
+      "dominance": 3.37
+    },
+    {
+      "chunk_id": 30,
+      "lyrics_text": "We got our buzz on sippin' on a little something I need your lovin' Just keep them kisses comin' Oh keep 'em comin' all night, hey",
+      "valence": 3.47,
+      "arousal": 3.62,
+      "dominance": 3.39
+    }
+  ]
+}
